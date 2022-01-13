@@ -12,3 +12,5 @@ Orphanage alumni attribute successes to the following attributes of orphanage li
 	- Better than average [[Education]]
 	- Insistence on personal, moral, religious [[values]]
 	- Inculcation of a Work Ethic
+
+Rising costs for institutions (page 11) are also correlated with increased stringency of child labour laws, meaning that what were [[chores undertaken by the children]] often had to be moved to permanent staff. 
