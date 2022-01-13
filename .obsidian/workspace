@@ -7,8 +7,12 @@
         "id": "6e3c3c10c54bec1c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Volume 1/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Volume 1/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,14 +113,14 @@
   "active": "6e3c3c10c54bec1c",
   "lastOpenFiles": [
     "Volume 1/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+    "Volume 1/Rethinking Orphanages for the 21st Century.md",
+    "Public Resource Links/Trauma-Informed-Care-in-the-Childcare-Miracle-Foundations-Approach-Within-Alternative-Care-in-India.pdf",
     "Volume 1/Volume 1 Index.md",
     "Templates/PDF Notes.md",
-    "Public Resource Links/Trauma-Informed-Care-in-the-Childcare-Miracle-Foundations-Approach-Within-Alternative-Care-in-India.pdf",
     "Home.md",
     "Templates/TagList.md",
     "Templates/Set up instructions.md",
     "Volume 2/Volume 2 Index.md",
-    "Volume 1/Rethinking Orphanages for the 21st Century.md",
     "values.md"
   ]
 }

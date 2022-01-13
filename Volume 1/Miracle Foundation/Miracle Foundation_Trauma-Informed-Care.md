@@ -1,8 +1,9 @@
 ---
 Title: Miracle Foundation - Trauma Informed Care in CCIs
-Link: [Trauma Informed Care in CCIs](https://drive.google.com/file/d/1U2Cq2V06hDbn9WQwioy8uHXyLkyOmE6T/view?usp=sharing)
+Author: Miracle Foundation
 ---
 
+Link: [Trauma Informed Care in CCIs](https://drive.google.com/file/d/1U2Cq2V06hDbn9WQwioy8uHXyLkyOmE6T/view?usp=sharing)
 ## Trauma Informed Care
 - The article defines the principles of [[TIC - Trauma Informed Care]]: safety, choice, collaboration, trustworthinessand empowerment. (Page 1)
 - Evidence indicates that early separation from parents is a risk factor for developing a chronic response to traumatic stressors, meaning that an individual would beless able to positively cope with negative stressors that come up in their life(Udayan Care, 2014). (Page 2)
