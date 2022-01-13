@@ -7,11 +7,9 @@
         "id": "6e3c3c10c54bec1c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Volume 1/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
-            "mode": "source",
-            "source": false
+            "file": "Public Resource Links/Trauma-Informed-Care-in-the-Childcare-Miracle-Foundations-Approach-Within-Alternative-Care-in-India.pdf"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+                "file": "Public Resource Links/Trauma-Informed-Care-in-the-Childcare-Miracle-Foundations-Approach-Within-Alternative-Care-in-India.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+                "file": "Public Resource Links/Trauma-Informed-Care-in-the-Childcare-Miracle-Foundations-Approach-Within-Alternative-Care-in-India.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,15 +110,15 @@
   },
   "active": "6e3c3c10c54bec1c",
   "lastOpenFiles": [
-    "Volume 1/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
-    "Volume 1/Rethinking Orphanages for the 21st Century.md",
     "Public Resource Links/Trauma-Informed-Care-in-the-Childcare-Miracle-Foundations-Approach-Within-Alternative-Care-in-India.pdf",
-    "Volume 1/Volume 1 Index.md",
-    "Templates/PDF Notes.md",
     "Home.md",
-    "Templates/TagList.md",
-    "Templates/Set up instructions.md",
     "Volume 2/Volume 2 Index.md",
-    "values.md"
+    "Volume 1/Volume 1 Index.md",
+    "Volume 1/Rethinking Orphanages for the 21st Century.md",
+    "Volume 1/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+    "TIC - Trauma Informed Care.md",
+    "Templates/PDF Notes.md",
+    "Templates/TagList.md",
+    "Templates/Set up instructions.md"
   ]
 }
