@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#individualisedcare",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
