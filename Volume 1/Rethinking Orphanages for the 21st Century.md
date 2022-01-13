@@ -14,3 +14,4 @@ Orphanage alumni attribute successes to the following attributes of orphanage li
 	- Inculcation of a Work Ethic
 
 Rising costs for institutions (page 11) are also correlated with increased stringency of child labour laws, meaning that what were [[Chores]] undertaken by the children often had to be moved to permanent staff. 
+
