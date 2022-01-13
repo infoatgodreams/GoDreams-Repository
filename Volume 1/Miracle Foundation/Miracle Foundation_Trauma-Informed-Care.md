@@ -27,7 +27,7 @@ Link: [Trauma Informed Care in CCIs](https://drive.google.com/file/d/1U2Cq2V06hD
 ## Individualised Care
 - Miracle trains CCI staff onguiding children to create Lifebooks that help each child process and takeownership of their past and self-identity by documenting their personal journey ina visual manner. (Page 5) [Individualised Care](Individualised%20Care) #individualisedcare
 
- ## [[Restoration]]
+ ## [Restoration](Restoration)
  
 - Risk assessment : Based on a tool created by Hope and Homes for Children(HHC), this checklist prompts professionals to ensure all potential risks ofabuse and neglect have been considered
 

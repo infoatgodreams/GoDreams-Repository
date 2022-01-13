@@ -7,7 +7,7 @@ Author: Richard B McKenzie
 
 Children need [[Permanence]] (page 3) - retention of staff and long term mentors is essential. 
 
-#readinglist : positive analysis of orphanage history by [Marvin Olasky](Marvin%20Olasky)
+#readinglist : positive analysis of orphanage history by [[Marvin Olasky]]
 
 
 Orphanage alumni attribute successes to the following attributes of orphanage life (page 6) : 
