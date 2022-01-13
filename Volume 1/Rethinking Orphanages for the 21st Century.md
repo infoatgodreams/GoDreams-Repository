@@ -15,3 +15,7 @@ Orphanage alumni attribute successes to the following attributes of orphanage li
 
 Rising costs for institutions (page 11) are also correlated with increased stringency of child labour laws, meaning that what were [[Chores]] undertaken by the children often had to be moved to permanent staff. 
 
+#risks over-compliance with regulation can mean limiting innovation/improvement of practices in new directions and differentiation required as per context. (page 13)
+
+
+
