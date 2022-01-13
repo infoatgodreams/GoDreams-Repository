@@ -1,6 +1,6 @@
 ---
-Title: Rethinking Orphanages for the 21st Century
-Author: Richard B McKenzie
+title: Rethinking Orphanages for the 21st Century
+author: Richard B McKenzie
 ---
 
 # Chapter 1

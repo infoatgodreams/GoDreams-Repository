@@ -1,6 +1,6 @@
 ---
-Title: Miracle Foundation - Trauma Informed Care in CCIs
-Author: Miracle Foundation
+title: Miracle Foundation - Trauma Informed Care in CCIs
+author: Miracle Foundation
 ---
 
 Link: [Trauma Informed Care in CCIs](https://drive.google.com/file/d/1U2Cq2V06hDbn9WQwioy8uHXyLkyOmE6T/view?usp=sharing)

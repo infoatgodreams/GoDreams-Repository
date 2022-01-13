@@ -1,6 +1,5 @@
 ---
-Title: Home
-
+title: Home
 ---
 
 - [Volume 1 Index](Volume%201/Volume%201%20Index.md)
