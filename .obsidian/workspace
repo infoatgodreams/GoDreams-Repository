@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/New Post.md",
+            "file": "Templates/Notes on a document.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/New Post.md",
+                "file": "Templates/Notes on a document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/New Post.md",
+                "file": "Templates/Notes on a document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,7 +112,7 @@
   },
   "active": "df8484820e740247",
   "lastOpenFiles": [
-    "Templates/New Post.md",
+    "Templates/Notes on a document.md",
     "Home.md",
     "TagList.md",
     "Set up instructions.md",
