@@ -12,12 +12,19 @@ The list of tags that are pre-agreed upon and can be used to classify informatio
 - #nutrition
 
 
-
-
-
 ## Volume 1 Tags
 
+ 
 ```dataview 
 TABLE file.tags as tags
-FROM "Root/Volume 1" 
+FROM "Volume 1" 
+```
 
+
+## Volume 2 Tags
+
+ 
+```dataview 
+TABLE file.tags as tags
+FROM "Volume 2" 
+```

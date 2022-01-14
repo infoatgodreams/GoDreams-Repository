@@ -1,3 +1,5 @@
+## Setting up Obsidian with Github
+
 1. Install Obsidian 
 2. Install GitHub for Windows/Mac
 3. Login to GitHub for Windows/Mac with credentials username: infoatgodreams pass: GoDreams@123
@@ -8,3 +10,17 @@
 8. Pull changes periodically before starting work (use the shortcut)
 9. Commit and Push changes periodically while finishing a note. (use the shortcut)
 10. Edit Your Volume primarily, minimal edits to other volumes without consulting the team, as this can result in version conflicts.
+
+
+## Setting up Obsidian Community Plugins
+
+1. Settings -->files and links -->New link format --> absolute path in vault
+2. Settings -->files and links -->Use Wikilinks --> Off
+3. Community Plugins --> Data view, Obsidian Git & PDF Highlights
+4. Obsidian Git --> Host Message --> vault backup: {{date}} {{hostname}} {{numFiles}}
+5. Obsidian Git --> Hostname placeholder replacement --> Your First Name
+6. Obsidian Git --> Pull Updates on startup --> On
+7. Obsidian Git --> Do not push updates --> Off
+
+
+
