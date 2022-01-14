@@ -12,7 +12,7 @@ Link: [Trauma Informed Care in CCIs](https://drive.google.com/file/d/1U2Cq2V06hD
 	 •Increased likelihood of becoming victims of trafficking, exploitation,substance abuse and suicide (Pashkina, 2001; Udayan Care, 2014). (Page 2)
 	 
 - The model of TIC used in this article comes from Institute on Trauma and Trauma-Informed Care at the University of Buffalo, and is based on [[Harris and Fallot’s Using Trauma Theory to Design Service Systems]] (Page 3)
-- The five guiding principles of [TIC-Trauma Informed Care](TIC-Trauma%20Informed%20Care) are as follows: 
+- The five guiding principles of [[TIC-Trauma Informed Care]]
 	•Safety: Ensuring individual’s physical and emotional safety. 
 	•Choice: Individual has choice and control. They are made well aware oftheir rights and responsibilities. 
 	•Collaboration: Making decisions with the individual and sharing powerincreases participation in and effectiveness of services. 
@@ -25,9 +25,9 @@ Link: [Trauma Informed Care in CCIs](https://drive.google.com/file/d/1U2Cq2V06hD
 - Self-care for Staff (Page 4) [[Mental Health]] #mentalhealth 
 
 ## Individualised Care
-- Miracle trains CCI staff onguiding children to create Lifebooks that help each child process and takeownership of their past and self-identity by documenting their personal journey ina visual manner. (Page 5) [Individualised Care](Individualised%20Care) #individualisedcare
+- Miracle trains CCI staff onguiding children to create Lifebooks that help each child process and takeownership of their past and self-identity by documenting their personal journey ina visual manner. (Page 5) [[Individualised Care]]
 
- ## [Restoration](Restoration)
+ ## [[Restoration]]
  
 - Risk assessment : Based on a tool created by Hope and Homes for Children(HHC), this checklist prompts professionals to ensure all potential risks ofabuse and neglect have been considered
 
