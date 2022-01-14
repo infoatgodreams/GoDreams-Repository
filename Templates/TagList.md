@@ -10,4 +10,14 @@ The list of tags that are pre-agreed upon and can be used to classify informatio
 - #ccifundraising
 - #education
 - #nutrition
-- 
+
+
+
+
+
+## Volume 1 Tags
+
+```dataview 
+TABLE file.tags as tags
+FROM "Root/Volume 1" 
+

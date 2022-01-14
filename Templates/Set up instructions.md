@@ -5,6 +5,6 @@
 5. Open the repository in Obsidian as a vault
 6. Install community plugin - obsidian git
 7. Follow instructions here: [How to sync Obsidian vault for free using Git? | Samuel Wong — Hong Kong UI/UX Designer (desktopofsamuel.com)](https://desktopofsamuel.com/how-to-sync-obsidian-vault-for-free-using-git/)
-8. Pull changes periodically
-9. Commit and Push changes periodically
-10. Edit Your Volume primarily, minimal edits to other volumes
+8. Pull changes periodically before starting work (use the shortcut)
+9. Commit and Push changes periodically while finishing a note. (use the shortcut)
+10. Edit Your Volume primarily, minimal edits to other volumes without consulting the team, as this can result in version conflicts.

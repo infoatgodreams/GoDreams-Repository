@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+            "file": "Templates/TagList.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+                "file": "Templates/TagList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+                "file": "Templates/TagList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,6 +112,8 @@
   },
   "active": "6e3c3c10c54bec1c",
   "lastOpenFiles": [
+    "Templates/TagList.md",
+    "Templates/Set up instructions.md",
     "Volume 1/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
     "Volume 1/Rethinking Orphanages for the 21st Century.md",
     "Home.md",
@@ -119,8 +121,6 @@
     "Volume 1/Volume 1 Index.md",
     "TIC-Trauma Informed Care.md",
     "Public Resource Links/Trauma-Informed-Care-in-the-Childcare-Miracle-Foundations-Approach-Within-Alternative-Care-in-India.pdf",
-    "TIC - Trauma Informed Care.md",
-    "Templates/PDF Notes.md",
-    "Templates/TagList.md"
+    "TIC - Trauma Informed Care.md"
   ]
 }
