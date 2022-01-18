@@ -1,22 +1,44 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-path: templates",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Volume 1/Reference Reading\"",
+      "color": {
+        "a": 1,
+        "rgb": 7363798
+      }
+    },
+    {
+      "query": "path:\"Volume 1/Program Design Tools\"",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.03357260049221,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5848722339386091,
-  "close": false
+  "scale": 0.7783806067478957,
+  "close": true
 }
