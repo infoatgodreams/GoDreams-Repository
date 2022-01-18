@@ -7,8 +7,12 @@
         "id": "14f27636ed5d8981",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Note Taking Instructions.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Note Taking Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Note Taking Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,15 +112,15 @@
   },
   "active": "14f27636ed5d8981",
   "lastOpenFiles": [
+    "Templates/Note Taking Instructions.md",
+    "Templates/PDF Notes.md",
+    "Templates/TagList.md",
     "Highlights for Field Guide to Human-Centered Design_IDEOorg_English.md",
     "Public Resource Links/Field Guide to Human-Centered Design_IDEOorg_English.pdf",
     "Field Guide to Human-Centered Design_IDEOorg_English.pdf",
     "Volume 1/Program Design Tools/HDC IDEO.md",
-    "Templates/Note Taking Instructions.md",
     "Templates/Set up instructions.md",
     "Volume 1/Volume 1 Index.md",
-    "Home.md",
-    "Templates/TagList.md",
-    "Volume 1/Rethinking Orphanages for the 21st Century.md"
+    "Home.md"
   ]
 }
