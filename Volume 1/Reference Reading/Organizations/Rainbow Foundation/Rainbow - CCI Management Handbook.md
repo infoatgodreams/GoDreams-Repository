@@ -25,3 +25,15 @@ Link: https://issuu.com/rainbowfoundationindia/docs/management_of_homes
 	- bedsheets and pillow covers refreshed every week
 - Waste Management
 	- Composting is to be followed 
+
+
+# Children's Routines
+[Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md) #caregiving #ccioperations [Caregiving](Caregiving)
+- Wake up
+- Grooming
+- Assembly
+- Meals
+- Formal/Bridge Education
+- Self Study ( 1 hour )
+- Review Time/ Children's Committee meeting
+- 
