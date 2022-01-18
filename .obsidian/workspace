@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "b107357176c2e9d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "179b028cb25d512e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Miracle Foundation/MiracleFoundation_Institutionalise Children Explorations and Beyond.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f715f9a4712a54b3",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c65e2a251474bb47",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bfec5a50c586349",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8471557d1ce927ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2aac9cc8c78f954",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#individualisedcare",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a6c82b356728bc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e52e8948ad67ddc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c9c1235ba6cb94b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "de07364c32839472",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "18279d5b5dbfe7be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f715f9a4712a54b3",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Volume 1/Miracle Foundation/MiracleFoundation_Institutionalise Children Explorations and Beyond.md",
+    "Volume 1/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+    "Public Resource Links/MiracleFoundation_Institutionalise Children Explorations and Beyond.pdf",
+    "Templates/Note Taking Instructions.md",
+    "Templates/PDF Notes.md",
+    "Templates/TagList.md",
+    "Highlights for Field Guide to Human-Centered Design_IDEOorg_English.md",
+    "Public Resource Links/Field Guide to Human-Centered Design_IDEOorg_English.pdf",
+    "Field Guide to Human-Centered Design_IDEOorg_English.pdf"
+  ]
+}
