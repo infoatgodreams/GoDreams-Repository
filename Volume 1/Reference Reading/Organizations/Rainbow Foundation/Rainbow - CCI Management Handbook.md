@@ -21,4 +21,7 @@ Link: https://issuu.com/rainbowfoundationindia/docs/management_of_homes
 	- Eating utensils washed every day and soaked in warm water once a week
 - Dorms and Classrooms
 	- Monthly cleaning of cupboards, replacement of lining and naphthalene balls
-	- 
+	- Weekly bedroom cleaning and sun drying of quilts
+	- bedsheets and pillow covers refreshed every week
+- Waste Management
+	- Composting is to be followed 
