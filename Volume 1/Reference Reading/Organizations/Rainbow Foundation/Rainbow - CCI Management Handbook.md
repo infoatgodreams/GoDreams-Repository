@@ -34,6 +34,66 @@ Link: https://issuu.com/rainbowfoundationindia/docs/management_of_homes
 - Assembly
 - Meals
 - Formal/Bridge Education
-- Self Study ( 1 hour )
+- Self Study (1 hour)
 - Review Time/ Children's Committee meeting
+- Play (1.5 hours)
+- Personal Time (1 hour)
+- Non Academic/Leisure activities (1 hour)
+- Sleep (8 hours
+
+# Staff Routines
+[Caregiving](Caregiving) #caregiving 
+- Weekly 
+	-  Issuing of stationery and toiletries to children
+	- Weekly Staff Meetings
+	-  Facilitation of children-parent phone calls
+- Monthly
+	- Parents Meetings/Staff Meeting/Bala Sabha
+	- Attending monthly school meetings
+	- Budget Planning for CCI
+	- Birthdays/Festival celebrations
+	- Health Check-ups
+	- Stock taking
+	- Checking of child records and registers
+- Quarterly
+	- Purchasing of clothes
+	- Outing for children
+- Half Yearly
+	- Purchasing of Footwear
+	- Purchasing of bedsheet
+	- De-worming
+- Annual
+	- Purchase of uniforms and school supplies
+	- Sports day, annual day
+	- outstation trips
+	- stock taking of fixed assets
+
+
+# Budgeting
+[CCI FInances](CCI%20FInances) #ccifinances 
+
+- Budget Components
+	  - Daily perishables
+	  - Groceries
+	  - Stationery
+	  - Toiletries
+	  - Clothes and footwear
+	  - Medicines and other medical items
+	  - Education (Academic & Non Academic)
+	  - Emergencies
+	  - Repatriation
+	  - Utility Bills
+	  - Transportation
+	  - Maintenance
+	  - Recreation
+	  - Special Events
+	  - Others
+
+# Child Safety
+[[Child Safety]] #childsafety
+
+- Boundary Wall should be high enough
+- 24/7 Security Guard
+- Solid CCI Construction
+- Terrace and balcony parapets should be high enough
 - 
