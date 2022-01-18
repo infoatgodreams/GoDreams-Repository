@@ -4,5 +4,9 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "Public Resource Links",
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true
 }
