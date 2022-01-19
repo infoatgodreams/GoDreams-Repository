@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 🏠 Home - Secondary Research
 ---
 
 
@@ -11,7 +11,7 @@ title: Home
 
 
 
-## Volume 1 Tags
+# Volume 1 Tag List
 
 [Human Centered Design - IDEO](app://obsidian.md/Volume%201/Program%20Design%20Tools/Human%20Centered%20Design%20-%20IDEO.md)
 
@@ -56,7 +56,7 @@ FROM "Volume 1"
 ```
 
 
-## Volume 2 Tags
+# Volume 2 Tag List
 
  ----
  Code - Ignore

@@ -1,6 +1,7 @@
 ---
 Title: Child Profile
-Description: Contains content correlated directly to an individual child
 ---
+Description: Factors that cater directly to the child, and should be tracked and monitored via the Child Profile
+
 
 [Values](Values) [Permanence](Permanence) [ChildParticipation](ChildParticipation)
