@@ -2,6 +2,10 @@
 Title: Miracle Foundation - Case Study of Interventions
 Author: Miracle Foundation
 ---
+
+```dataview 
+LIST WHERE contains(this.file.outlinks, file.link) 
+```
  Link: 
 
  # Health & Nutrition
