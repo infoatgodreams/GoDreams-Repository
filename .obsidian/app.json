@@ -7,6 +7,7 @@
   "newLinkFormat": "absolute",
   "attachmentFolderPath": "Public Resource Links",
   "spellcheck": true,
-  "foldHeading": true,
-  "foldIndent": true
+  "foldHeading": false,
+  "foldIndent": false,
+  "showFrontmatter": true
 }
