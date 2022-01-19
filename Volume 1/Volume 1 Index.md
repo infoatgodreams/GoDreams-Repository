@@ -1,5 +1,5 @@
 ---
-title:📔 Volume 1 Index
+title: Volume 1 Index
 ---
 # Reference Reading:
 

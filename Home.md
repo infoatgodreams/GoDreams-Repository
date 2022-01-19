@@ -1,5 +1,5 @@
 ---
-title: 🏠 Home - Secondary Research
+title: Home - Secondary Research
 ---
 
 

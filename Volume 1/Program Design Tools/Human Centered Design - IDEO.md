@@ -1,8 +1,7 @@
 ---
-Title: Human Centered Design - IDEO
-	
+Title: Human Centered Design _ IDEO
 ---
-	
+
 Links: [IDEO's Human Centered Design Process: How to Make Things People Love | UserTesting Blog](https://www.usertesting.com/blog/how-ideo-uses-customer-insights-to-design-innovative-products-users-love)
 	
 	

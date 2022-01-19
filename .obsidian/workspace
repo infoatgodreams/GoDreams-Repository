@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e09033fb0cb0795d",
+        "id": "fbd1147bd144fa9c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 390.0093288421631
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -108,19 +108,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100,
+    "collapsed": true
   },
-  "active": "e09033fb0cb0795d",
+  "active": "fbd1147bd144fa9c",
   "lastOpenFiles": [
     "Volume 1/Volume 1 Index.md",
-    "Volume 1/Roll Ups/Child Profile.md",
-    "Volume 1/Roll Ups/Reading List.md",
-    "Volume 1/Reference Reading/Rethinking Orphanages for the 21st Century.md",
     "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-    "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+    "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
+    "Volume 1/Roll Ups/Reading List.md",
+    "Volume 1/Roll Ups/Child Profile.md",
     "Home.md",
-    "Volume 1/Roll Ups/Risks.md",
-    "Volume 1/Reference Reading/Organizations/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
-    "Templates/TagList.md"
+    "conflict-files-obsidian-git.md",
+    "Values.md",
+    "Volume 1/Reference Reading/Rethinking Orphanages for the 21st Century.md",
+    "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md"
   ]
 }
