@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Roll Ups/Reading List.md",
+            "file": "Volume 1/Volume 1 Index.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Roll Ups/Reading List.md",
+                "file": "Volume 1/Volume 1 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Roll Ups/Reading List.md",
+                "file": "Volume 1/Volume 1 Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,15 +112,15 @@
   },
   "active": "e09033fb0cb0795d",
   "lastOpenFiles": [
+    "Volume 1/Volume 1 Index.md",
+    "Volume 1/Roll Ups/Child Profile.md",
     "Volume 1/Roll Ups/Reading List.md",
-    "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
     "Volume 1/Reference Reading/Rethinking Orphanages for the 21st Century.md",
+    "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
     "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
     "Home.md",
     "Volume 1/Roll Ups/Risks.md",
     "Volume 1/Reference Reading/Organizations/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
-    "Templates/TagList.md",
-    "Templates/Note Taking Instructions.md",
-    "Volume 1/Program Design Tools/Human Centered Design - IDEO.md"
+    "Templates/TagList.md"
   ]
 }

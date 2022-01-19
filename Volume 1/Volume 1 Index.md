@@ -15,6 +15,8 @@ title:📔 Volume 1 Index
 # Topic Roll Ups: 
 
 - [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)
+- [Reading List](Volume%201/Roll%20Ups/Reading%20List.md)
+- [Risks](Volume%201/Roll%20Ups/Risks.md)
 
 
 

@@ -2,12 +2,14 @@
 title: Rethinking Orphanages for the 21st Century
 author: Richard B McKenzie
 ---
-Tags: [Permanence](Permanence)[Marvin Olasky](Marvin%20Olasky) [Education](Education) [ChildParticipation](ChildParticipation) #risks #developmenttheory
+Tags: [Permanence](Permanence)[Marvin Olasky](Marvin%20Olasky) [Education](Education) [ChildParticipation](ChildParticipation) #risks #developmenttheory 
+
+
+# #readinglist 
+- positive analysis of orphanage history by [[Marvin Olasky]]
 # Chapter 1
 
 Children need Permanence (page 3) - retention of staff and long term mentors is essential. 
-
-#readinglist : positive analysis of orphanage history by [[Marvin Olasky]]
 
 
 Orphanage alumni attribute successes to the following attributes of orphanage life (page 6) : 
