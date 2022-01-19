@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "179b028cb25d512e",
+        "id": "8470e23095243867",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 1/Reference Reading/Organizations/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Organizations/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Organizations/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,8 +104,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "179b028cb25d512e",
+  "active": "8470e23095243867",
   "lastOpenFiles": [
+    "Highlights for Welcome.md",
+    "Public Resource Links/Welcome.pdf",
     "Volume 1/Reference Reading/Organizations/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
     "Volume 1/Roll Ups/Child Profile.md",
     "Volume 1/Reference Reading/Rethinking Orphanages for the 21st Century.md",
@@ -119,8 +115,6 @@
     "Volume 1/Reference Reading/Organizations/Miracle Foundation/MiracleFoundation_Institutionalise Children Explorations and Beyond.md",
     "Individualised Care.md",
     "conflict-files-obsidian-git.md",
-    "Public Resource Links/MiracleFoundation_Institutionalise Children Explorations and Beyond.pdf",
-    "Templates/Note Taking Instructions.md",
-    "Templates/PDF Notes.md"
+    "Public Resource Links/MiracleFoundation_Institutionalise Children Explorations and Beyond.pdf"
   ]
 }
