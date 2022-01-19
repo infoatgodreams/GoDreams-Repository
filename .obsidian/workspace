@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
+            "file": "Volume 1/Roll Ups/Reading List.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
+                "file": "Volume 1/Roll Ups/Reading List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
+                "file": "Volume 1/Roll Ups/Reading List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -111,15 +111,15 @@
   },
   "active": "5a8acd85fd50152f",
   "lastOpenFiles": [
-    "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-    "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
+    "Volume 1/Roll Ups/Reading List.md",
+    "Volume 1/Roll Ups/Risks.md",
+    "Volume 1/Reference Reading/Rethinking Orphanages for the 21st Century.md",
     "Volume 1/Reference Reading/Organizations/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
+    "Templates/TagList.md",
     "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
-    "Volume 1/Roll Ups/Child Profile.md",
-    "Volume 1/Volume 1 Index.md",
-    "Home.md",
-    "conflict-files-obsidian-git.md",
-    "Highlights for Getting Started.md",
-    "Public Resource Links/Getting Started.pdf"
+    "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
+    "Templates/Note Taking Instructions.md",
+    "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
+    "Volume 1/Roll Ups/Child Profile.md"
   ]
 }

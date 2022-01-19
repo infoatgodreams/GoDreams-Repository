@@ -2,17 +2,17 @@
 title: Miracle Foundation - Trauma Informed Care in CCIs
 author: Miracle Foundation
 ---
-
+Tags: [TIC-Trauma Informed Care](TIC-Trauma%20Informed%20Care)  [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md) [[Harris and Fallot’s Using Trauma Theory to Design Service Systems]]  [[Mental Health]]  [[Individualised Care]] [[Restoration]] #Practitioner 
 Link: [Trauma Informed Care in CCIs](https://drive.google.com/file/d/1U2Cq2V06hDbn9WQwioy8uHXyLkyOmE6T/view?usp=sharing)
 ## Trauma Informed Care
-- The article defines the principles of [[TIC-Trauma Informed Care]]: safety, choice, collaboration, trustworthinessand empowerment. (Page 1)
+- The article defines the principles of TIC-Trauma Informed Care: safety, choice, collaboration, trustworthinessand empowerment. (Page 1)
 - Evidence indicates that early separation from parents is a risk factor for developing a chronic response to traumatic stressors, meaning that an individual would beless able to positively cope with negative stressors that come up in their life(Udayan Care, 2014). (Page 2)
-- regimented nature and lack of individualized care [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md) in institutions can further enable or add additional trauma. Such conditions can result in poor life outcomes for children after they leave CCIs: 
+- regimented nature and lack of individualized care (Child Profile) in institutions can further enable or add additional trauma. Such conditions can result in poor life outcomes for children after they leave CCIs: 
 	 •Cognitive and emotional developmental issues such as lower IQ, poorattachment, behavioural issues and distrust of others (Center on theDeveloping Child, 2007). 
 	 •Increased likelihood of becoming victims of trafficking, exploitation,substance abuse and suicide (Pashkina, 2001; Udayan Care, 2014). (Page 2)
 	 
-- The model of TIC used in this article comes from Institute on Trauma and Trauma-Informed Care at the University of Buffalo, and is based on [[Harris and Fallot’s Using Trauma Theory to Design Service Systems]] (Page 3)
-- The five guiding principles of [[TIC-Trauma Informed Care]]
+- The model of TIC used in this article comes from Institute on Trauma and Trauma-Informed Care at the University of Buffalo, and is based on Harris and Fallot’s Using Trauma Theory to Design Service Systems(Page 3)
+- The five guiding principles of TIC-Trauma Informed Care
 	•Safety: Ensuring individual’s physical and emotional safety. 
 	•Choice: Individual has choice and control. They are made well aware oftheir rights and responsibilities. 
 	•Collaboration: Making decisions with the individual and sharing powerincreases participation in and effectiveness of services. 
@@ -20,18 +20,18 @@ Link: [Trauma Informed Care in CCIs](https://drive.google.com/file/d/1U2Cq2V06hD
 	•Empowerment: Building on individuals’ strength and developing copingskills for them to fall back on if and when services stop. Individuals feel validated and affirmed with every contact with the agency. (Page 3)
 
 ## Mental Health 
-- psychologists must sign a confidentiality form from disclosing about cases. (Page 4) [[Mental Health]] #mentalhealth
-- Bedwetting incidents decreased significantly as the children wereable to identify and express their feelings of fear, anger and guilt. (Page 4) [[Mental Health]] #mentalhealth
-- Self-care for Staff (Page 4) [[Mental Health]] #mentalhealth 
+- psychologists must sign a confidentiality form from disclosing about cases. (Page 4)#mentalhealth
+- Bedwetting incidents decreased significantly as the children were able to identify and express their feelings of fear, anger and guilt. (Page 4) 
+- Self-care for Staff (Page 4) 
 
 ## Individualised Care
-- Miracle trains CCI staff onguiding children to create Lifebooks that help each child process and takeownership of their past and self-identity by documenting their personal journey ina visual manner. (Page 5) [[Individualised Care]]
+- Miracle trains CCI staff onguiding children to create Lifebooks that help each child process and takeownership of their past and self-identity by documenting their personal journey ina visual manner. (Page 5) ]]
 
- ## [[Restoration]]
+ ## Restoration
  
-- Risk assessment : Based on a tool created by Hope and Homes for Children(HHC), this checklist prompts professionals to ensure all potential risks ofabuse and neglect have been considered
+- Risk assessment : Based on a tool created by Hope and Homes for Children(HHC), this checklist prompts professionals to ensure all potential risks of abuse and neglect have been considered
 
- • Placement plan3: This maps out how suitable a placement is based on fivewell-being domains (household economy, education, family and socialrelationships, physical and mental health and living conditions). It is usedto create a Home Thrive Scale which plots the scores on a graph to showprogress over time (See Figure 1). (Page 6)
+ • Placement plan3: This maps out how suitable a placement is based on five well-being domains (household economy, education, family and socialrelationships, physical and mental health and living conditions). It is usedto create a Home Thrive Scale which plots the scores on a graph to showprogress over time (See Figure 1). (Page 6)
 
  ## #readinglist 
 - Lifebook Guide for Miracle India is written by Janie Cravens, L. C. S. W. Lifebookcurriculum is developed using materials from Kids and Lifebooks: Tips for SocialWorkers, Beth O’Malley, Ezine Articles and Making History – A Social Worker’sGuide to Life Books, Joann Harrison, Elaine Campbell, Penny Chumbley, Departmentfor Community Based Services, Kentucky Cabinet for Health and Family Services. (Page 8)

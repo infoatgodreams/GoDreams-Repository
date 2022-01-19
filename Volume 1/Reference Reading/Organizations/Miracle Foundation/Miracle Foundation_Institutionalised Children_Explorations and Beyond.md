@@ -2,46 +2,44 @@
 Title: Miracle Foundation - Case Study of Interventions
 Author: Miracle Foundation
 ---
+Tags:  [[Physical Health]]  [[Program Operations]] [Hygiene](Hygiene) [[Caregiving]]  [Education](Education) [Mental Health](Mental%20Health)  #Practitioner
 
-```dataview 
-LIST WHERE contains(this.file.outlinks, file.link) 
-```
- Link: 
+Attachments: 
 
  # Health & Nutrition
- [[Physical Health]] #physicalhealth
-- A study assessed the health and nutritional status of the institutionalised childrenfrom four states of Andhra Pradesh, Uttar Pradesh, West Bengal and Karnataka;clinical status of these children showed that  (Page 7)
-- Vitamin A and B complex deficiencywere the most common nutritional deficiency signs among children (Page 7)
-- Commonconditions of cough, fever, sore throat, sore eyes, scabies and other skin infectionswere prevalent. Other conditions like anaemia, phrynoderma and dental caries werealso observed. (Page 7)
+
+- A study assessed the health and nutritional status of the institutionalised children from four states of Andhra Pradesh, Uttar Pradesh, West Bengal and Karnataka ;clinical status of these children showed that  (Page 7)
+- Vitamin A and B complex deficiency were the most common nutritional deficiency signs among children (Page 7)
+- Common conditions of cough, fever, sore throat, sore eyes, scabies and other skin infections were prevalent. Other conditions like anaemia, phrynoderma and dental caries werealso observed. (Page 7)
 - one out of every four childrensuffered from sickness, fatigue and bad sleep (Page 7)
 - - Health check-ups comprised quarterly health checkups including haemoglobin test and annual detailed checkup of eye, hearing and dentalcheckup of children and caregiving team. (Page 11) 
-- Children’s height and weight were measured on a monthly basis with a medicallyapproved height measurement stand and digital weight machine.  (Page 12) 
+- Children’s height and weight were measured on a monthly basis with a medically approved height measurement stand and digital weight machine.  (Page 12) 
 - plotted on children’s individual WHO (World Health Organisation)growth charts on a quarterly basis (Page 12) 
 - biannual water test analysis for physio-chemical and bacterial content, thewater quality was ensured and maintained at each channel of distribution.  (Page 12) 
 
 
 # Operational Processes
-#Programoperations [[Program Operations]]
-- The method comprises three phases:‘Selection’, ‘Incubation’ and ‘Partnership’. (Page 8)
-- After an initial review of the ‘Expression of Interest’ application from the children’shome, the Miracle team visits the children’s home in order to conduct an in-depthneed assessment, establish a baseline and identify the gap areas where value additionis required. This marks completion of selection phase. (Page 9)
-- After both the children’s home and the project/funding plans are approved, thechildren’s home is moved into the incubation phase. During incubation, MiracleFoundation and the children’s home work together to ensure basic services forchildren such as adequate nutritious food, clean water, tutoring support, preventiveand curative healthcare, capacity building of caregivers. (Page 9)
+
+- The method comprises three phases: ‘Selection’, ‘Incubation’ and ‘Partnership’. (Page 8)
+- After an initial review of the ‘Expression of Interest’ application from the children’s home, the Miracle team visits the children’s home in order to conduct an in-depth need assessment, establish a baseline and identify the gap areas where value additionis required. This marks completion of selection phase. (Page 9)
+- After both the children’s home and the project/funding plans are approved, the children’s home is moved into the incubation phase. During incubation, MiracleFoundation and the children’s home work together to ensure basic services forchildren such as adequate nutritious food, clean water, tutoring support, preventiveand curative healthcare, capacity building of caregivers. (Page 9)
 - Throughout the incubation phase and beyond, the approach of Miracle Foundationis to relate with the children’s home as a supportive mentor, where MiracleFoundation’s team members interface with the children home at regular intervals. Adesignated programme coordinator visits the home on a monthly basis to mentorand conduct capacity building training for children and caregivers. (Page 9)
 -  Quarterly visitsare done by a programme manager for quality assurance, education coordinator foreducation-related interventions; health partner conducts a health & hygiene audit ofthe children’s home and a finance coordinator guides the children’s home withupkeep of financial details and systems. (Page 9)
 - Once a children’s home meets all the milestones of the incubation phase, it graduatesinto the long-term sustainable phase of partnership with Miracle Foundation.Partnership is an ongoing improvement phase with special focus on building theself-sustaining capacity of the children’s home. (Page 9)
 
 
 # Care Practices
-#caregiving #hygiene [Hygiene](Hygiene) [[Caregiving]]
+
 - Laying down the foundation of the Miracle Foundation Method was the introductionof family units and family building activities at Anwesha with a group of 20 children attached to one housemother. The method provided for hiring of additional houseparents to improve the housemother to child ratio with a target of 1:20. (Page 10) #caregiving
 - Each house parent ensured that her/his children were dressed withappropriate clothing and had clean bed sheets and pillows, toiletries and footwear.The house parents were responsible for inculcating etiquettes and good hygienichabits in the children. [[Hygiene]] #hygiene(Page 10) Children above 10 years of age got separate set of toiletries, clothing for themselves given at the beginning of the month. (Page 14) #hygiene [Hygiene](Hygiene)
 -  The system of carryingout children’s locker checking twice a month by house parents proved to be aneffective way to take stock of what was it that children already had and what morewas needed to be given to them (Page 14)
 - Earlier, during meal time children stood in a line, were served food, after which theysat in the dining room and ate quietly. There was no concept of house parentssitting with the children, narrating stories, paying attention to whether children were eating properly or not [[Nutrition]], whereas with setting up of family units, children sat ingroups with their respective house parents, talked about their day at school and hadfun. This helped to strengthen the bond and attachment between the house parentsand the children. (Page 11)
 - The MiracleFoundation Method provided for hiring of a qualified social worker at Anwesha.The social worker engaged in counselling of the children, guiding the house parents,observing and supervising the work of the coaching teachers, following up ontraining of children and house parents and documentation-related work. (Page 11)
 - Anwesha underwent a complete training in areas of supportingfamily culture, rights of the child, attachment, discipline techniques, childdevelopment, health care – preventative & curative, gender roles, sexual abuseprevention, communication skills, conflict resolution and stress management. (Page 11)
-- ‘Tea time with house parents’, the practice of Miracle staff spending informal timewith caregivers enabled them to unwind, open up, share their joys and concernsand feel acknowledged as being important. House parent Diary served to be a readyreference of their important tasks and responsibilities. [Mental Health](Mental%20Health) (Page 11)
+- ‘Tea time with house parents’, the practice of Miracle staff spending informal timewith caregivers enabled them to unwind, open up, share their joys and concernsand feel acknowledged as being important. House parent Diary served to be a readyreference of their important tasks and responsibilities.(Page 11)
 
 # Education
-#education [Education](Education)
+
 -  hiring of qualified coaching teachers,who provided critical education support to children after school hours.  (Page 12)
 - activity-based teaching and learning method, story pedagogy,effective lesson-planning and classroom management. (Page 12)
 - Aptitude testing and career (Page 12)

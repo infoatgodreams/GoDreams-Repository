@@ -2,13 +2,10 @@
 Title: Rainbow - CCI Management Handbook
 Author : Rainbow Foundation
 ---
-
+Tags: [Hygiene](Hygiene) [Caregiving](Caregiving) [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md) [Child Safety](Child%20Safety) [CCI FInances](CCI%20FInances) #Practitioner 
 Link: https://issuu.com/rainbowfoundationindia/docs/management_of_homes
 
 # Hygiene Routines
-
-#hygiene [Hygiene](Hygiene)
-
 - Kitchen
 	- Counter cleaned after every meal
 	- Sink cleaned after washing utensils
@@ -28,7 +25,7 @@ Link: https://issuu.com/rainbowfoundationindia/docs/management_of_homes
 
 
 # Children's Routines
-[Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md) #caregiving #ccioperations [Caregiving](Caregiving)
+
 - Wake up
 - Grooming
 - Assembly
@@ -42,7 +39,6 @@ Link: https://issuu.com/rainbowfoundationindia/docs/management_of_homes
 - Sleep (8 hours
 
 # Staff Routines
-[Caregiving](Caregiving) #caregiving 
 - Weekly 
 	-  Issuing of stationery and toiletries to children
 	- Weekly Staff Meetings
@@ -70,7 +66,6 @@ Link: https://issuu.com/rainbowfoundationindia/docs/management_of_homes
 
 
 # Budgeting
-[CCI FInances](CCI%20FInances) #ccifinances 
 
 - Budget Components
 	  - Daily perishables
@@ -90,7 +85,6 @@ Link: https://issuu.com/rainbowfoundationindia/docs/management_of_homes
 	  - Others
 
 # Child Safety
-[[Child Safety]] #childsafety
 
 - Boundary Wall should be high enough
 - 24/7 Security Guard
