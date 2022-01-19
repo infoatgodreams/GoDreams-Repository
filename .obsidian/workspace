@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8470e23095243867",
+        "id": "5a8acd85fd50152f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Volume 1 Index.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Volume 1/Volume 1 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Volume 1/Volume 1 Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -104,17 +110,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8470e23095243867",
+  "active": "5a8acd85fd50152f",
   "lastOpenFiles": [
+    "Volume 1/Volume 1 Index.md",
+    "Highlights for Getting Started.md",
+    "Public Resource Links/Getting Started.pdf",
     "Highlights for Welcome.md",
     "Public Resource Links/Welcome.pdf",
     "Volume 1/Reference Reading/Organizations/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
     "Volume 1/Roll Ups/Child Profile.md",
     "Volume 1/Reference Reading/Rethinking Orphanages for the 21st Century.md",
     "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
-    "Volume 1/Reference Reading/Organizations/Miracle Foundation/MiracleFoundation_Institutionalise Children Explorations and Beyond.md",
-    "Individualised Care.md",
-    "conflict-files-obsidian-git.md",
-    "Public Resource Links/MiracleFoundation_Institutionalise Children Explorations and Beyond.pdf"
+    "Volume 1/Reference Reading/Organizations/Miracle Foundation/MiracleFoundation_Institutionalise Children Explorations and Beyond.md"
   ]
 }
