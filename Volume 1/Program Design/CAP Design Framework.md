@@ -37,6 +37,10 @@ Goal To put together information in core areas of program development and draw i
 1.  Ask the right questions during primary research with stakeholders
     
 2.  Avoid reinventing the wheel during program design
+
+Links: 
+
+ -  Reading List : 
     
 Research Sources:
 
@@ -50,9 +54,12 @@ Research Sources:
 	 -  CCIs, CNCP & Service Providers (Intl)
     
 2.  Innovations in the space:
-	-  Practitioners (Other capacity building orgs)
+	-  Practitioners (Other capacity building orgs) - [Capacity Building Orgs Index](Volume%201/Reference%20Reading/Other%20Capacity%20Building%20Orgs/Capacity%20Building%20Orgs%20Index.md)
+		- Rainbow Foundation
+		- Aangan
+		- Miracle Foundation
 	-  Bright Spots (CCIs)
-	- Practitioners & Bright Spots (Intl)
+	-  Practitioners & Bright Spots (Intl)
     
 3.  Associated sector innovations
 	-  Education Sector (Traditional)
@@ -60,4 +67,6 @@ Research Sources:
 	- Hostel Care
 	- Pediatric Hospital Wards
 	- Sporting Academies
+4. Research and Books
+	- Books  - [Books Index](Volume%201/Reference%20Reading/Books/Books%20Index.md)
     

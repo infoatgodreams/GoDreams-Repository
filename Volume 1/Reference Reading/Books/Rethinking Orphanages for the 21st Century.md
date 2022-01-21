@@ -4,7 +4,7 @@ author: Richard B McKenzie
 ---
 Tags: [Permanence](Permanence)[Marvin Olasky](Marvin%20Olasky) [Education](Education) [ChildParticipation](ChildParticipation) #risks 
 
-Status: [ReferenceReading](ReferenceReading)
+Status: [ReferenceReading](ReferenceReading) [[Books]]
 # #readinglist 
 - positive analysis of orphanage history by [[Marvin Olasky]]
 
