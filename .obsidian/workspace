@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "380ffb815c3c21d3",
+        "id": "caa64d61f7a54428",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#readinglist",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +106,10 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "380ffb815c3c21d3",
+  "active": "caa64d61f7a54428",
   "lastOpenFiles": [
+    "Volume 1/Reference Reading/Books/Books Index.md",
+    "Books.md",
     "Volume 1/Reference Reading/Other Capacity Building Orgs/Capacity Building Orgs Index.md",
     "Volume 1/Program Design/CAP Design Framework.md",
     "Volume 1/Volume 1 Index.md",
@@ -115,8 +117,6 @@
     "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
     "conflict-files-obsidian-git.md",
     "Volume 1/Program Design/Human Centered Design - IDEO.md",
-    "Volume 1/Reference Reading/Organizations/Aangan/Highlights for Aangan - Changing Spaces.md",
-    "Public Resource Links/Aangan - Changing Spaces.pdf",
-    "Templates/Hashtags.md"
+    "Volume 1/Reference Reading/Organizations/Aangan/Highlights for Aangan - Changing Spaces.md"
   ]
 }
