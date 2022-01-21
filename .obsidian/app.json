@@ -9,5 +9,6 @@
   "spellcheck": true,
   "foldHeading": false,
   "foldIndent": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "readableLineLength": false
 }
