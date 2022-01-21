@@ -32,3 +32,4 @@ title: Volume 1 Index
 
 # Link to Resources
 - [Google Drive](https://drive.google.com/drive/folders/1pXvNVosGaDIU5cvTSLL_ChbHzob3tKzf?usp=sharing)
+- [Master Reading List](Volume%201/Reference%20Reading/Master%20Reading%20List.md)

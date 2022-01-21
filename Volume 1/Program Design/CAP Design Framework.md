@@ -42,7 +42,9 @@ Quality of care delivered at Child Care Institutions is on average inadequate an
 2.  Avoid reinventing the wheel during program design
 
 **Links**
-Reading List : **[Master Reading List - Google Sheets](https://docs.google.com/spreadsheets/d/1GRiS7QFPiak-1Ob3TdobKnaHqgUBb_8B-fErHP1BXUA/edit?usp=sharing)**
+Reading List : **[Master Reading List](Volume%201/Reference%20Reading/Master%20Reading%20List.md) **
+
+**[Master Reading List - Google Sheets](https://docs.google.com/spreadsheets/d/1GRiS7QFPiak-1Ob3TdobKnaHqgUBb_8B-fErHP1BXUA/edit?usp=sharing)**
     
 ### **Research Sources:**
 

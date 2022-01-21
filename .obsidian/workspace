@@ -7,8 +7,12 @@
         "id": "caa64d61f7a54428",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Program Design/CAP Design Framework.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.0093288421631,
-    "collapsed": true
+    "width": 390.0093288421631
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Volume 1/Program Design/CAP Design Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Volume 1/Program Design/CAP Design Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,15 +113,15 @@
   },
   "active": "caa64d61f7a54428",
   "lastOpenFiles": [
+    "Volume 1/Program Design/CAP Design Framework.md",
+    "Volume 1/Volume 1 Index.md",
+    "Volume 1/Reference Reading/Master Reading List.md",
     "Volume 1/Reference Reading/Books/Books Index.md",
     "Books.md",
     "Volume 1/Reference Reading/Other Capacity Building Orgs/Capacity Building Orgs Index.md",
-    "Volume 1/Program Design/CAP Design Framework.md",
-    "Volume 1/Volume 1 Index.md",
     "Home.md",
     "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
     "conflict-files-obsidian-git.md",
-    "Volume 1/Program Design/Human Centered Design - IDEO.md",
-    "Volume 1/Reference Reading/Organizations/Aangan/Highlights for Aangan - Changing Spaces.md"
+    "Volume 1/Program Design/Human Centered Design - IDEO.md"
   ]
 }
