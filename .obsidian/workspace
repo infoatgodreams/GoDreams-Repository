@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cde4a7d3483269c1",
+        "id": "380ffb815c3c21d3",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.0093288421631
+    "width": 390.0093288421631,
+    "collapsed": true
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -105,8 +106,9 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "cde4a7d3483269c1",
+  "active": "380ffb815c3c21d3",
   "lastOpenFiles": [
+    "Volume 1/Reference Reading/Other Capacity Building Orgs/Capacity Building Orgs Index.md",
     "Volume 1/Program Design/CAP Design Framework.md",
     "Volume 1/Volume 1 Index.md",
     "Home.md",
@@ -115,7 +117,6 @@
     "Volume 1/Program Design/Human Centered Design - IDEO.md",
     "Volume 1/Reference Reading/Organizations/Aangan/Highlights for Aangan - Changing Spaces.md",
     "Public Resource Links/Aangan - Changing Spaces.pdf",
-    "Templates/Hashtags.md",
-    "Volume 1/Roll Ups/Risks.md"
+    "Templates/Hashtags.md"
   ]
 }
