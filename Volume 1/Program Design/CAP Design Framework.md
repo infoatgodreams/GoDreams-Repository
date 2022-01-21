@@ -48,18 +48,18 @@ Reading List : **[Master Reading List - Google Sheets](https://docs.google.com/s
 
 #### 1.  Status Quo:
 - CCIs (Domestic)
-		-  Care Practices
-		-  Management Practices
-		- Financial Practices
+	-   Care Practices
+	-  Management Practices
+	- Financial Practices
 -  CNCP
 - Service Providers to CCIs
 - CCIs, CNCP & Service Providers (Intl)
     
 #### 2.  Innovations in the space:
 - Practitioners(Other capacity building orgs): **[Capacity Building Orgs Index](Volume%201/Reference%20Reading/Other%20Capacity%20Building%20Orgs/Capacity%20Building%20Orgs%20Index.md)**
-		- Rainbow Foundation
-		- Aangan
-		- Miracle Foundation
+	- Rainbow Foundation
+	-  Aangan
+	-  Miracle Foundation
 - Bright Spots (CCIs)
 - Practitioners & Bright Spots (Intl)
     
@@ -68,7 +68,7 @@ Reading List : **[Master Reading List - Google Sheets](https://docs.google.com/s
 -  Ed. Tech
 -  Hostel Care
 - Pediatric Hospital Wards
-	- Sporting Academies
+-  Sporting Academies
 #### 4. Research and Books
 - Books  - **[Books Index](Volume%201/Reference%20Reading/Books/Books%20Index.md)**
     
