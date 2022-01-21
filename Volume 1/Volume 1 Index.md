@@ -30,5 +30,5 @@ title: Volume 1 Index
 - [Reading List](Volume%201/Roll%20Ups/Reading%20List.md)
 - [Risks](Volume%201/Roll%20Ups/Risks.md)
 
-
-
+# Link to Resources
+- [Google Drive](https://drive.google.com/drive/folders/1pXvNVosGaDIU5cvTSLL_ChbHzob3tKzf?usp=sharing)
