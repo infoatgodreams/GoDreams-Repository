@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fbd1147bd144fa9c",
+        "id": "bd4c0ea1969234d6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -108,20 +102,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
+    "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "fbd1147bd144fa9c",
+  "active": "bd4c0ea1969234d6",
   "lastOpenFiles": [
-    "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-    "Volume 1/Roll Ups/Child Profile.md",
-    "Volume 1/Reference Reading/Organizations/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
-    "Volume 1/Reference Reading/Rethinking Orphanages for the 21st Century.md",
+    "Volume 1/Program Design/Human Centered Design - IDEO.md",
+    "Volume 1/Program Design/CAP Design Framework.md",
+    "Home.md",
+    "Volume 1/Volume 1 Index.md",
+    "Volume 1/Reference Reading/Organizations/Aangan/Highlights for Aangan - Changing Spaces.md",
+    "Public Resource Links/Aangan - Changing Spaces.pdf",
+    "Templates/Hashtags.md",
     "Volume 1/Roll Ups/Risks.md",
     "Volume 1/Roll Ups/Reading List.md",
-    "Volume 1/Volume 1 Index.md",
-    "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
-    "Home.md",
-    "conflict-files-obsidian-git.md"
+    "Volume 1/Roll Ups/Child Profile.md"
   ]
 }
