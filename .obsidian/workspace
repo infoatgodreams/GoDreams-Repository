@@ -7,8 +7,12 @@
         "id": "caa64d61f7a54428",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Roll Ups/Child Profile.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Volume 1/Roll Ups/Child Profile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Volume 1/Roll Ups/Child Profile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -97,25 +103,23 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 496.0242004394531,
-    "collapsed": true
+    "width": 496.0242004394531
   },
   "active": "caa64d61f7a54428",
   "lastOpenFiles": [
+    "Volume 1/Roll Ups/Child Profile.md",
+    "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
+    "Volume 1/Reference Reading/Books/Rethinking Orphanages for the 21st Century.md",
     "Volume 1/Program Design/Intervention Map.md",
     "Volume 1/Program Design/CAP Design Framework.md",
     "content/Public Resource Links/Program&techecosystem.png.md",
     "Volume 1/Volume 1 Index.md",
     "templates/Status.md",
     "Home.md",
-    "Volume 1/Reference Reading/Master Reading List.md",
-    "Volume 1/Reference Reading/Books/Books Index.md",
-    "Books.md",
-    "Volume 1/Reference Reading/Other Capacity Building Orgs/Capacity Building Orgs Index.md"
+    "Volume 1/Reference Reading/Master Reading List.md"
   ]
 }
