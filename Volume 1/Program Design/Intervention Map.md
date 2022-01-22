@@ -3,7 +3,10 @@ title: Intervention Map
 author: Navneeth
 ---
 
-![](/content/Public%20Resource%20Links/Program&techecosystem.png)
+![Imgur](https://i.imgur.com/YVnia9k.png)
+
+
+
 
 
 ## CCI MIS
