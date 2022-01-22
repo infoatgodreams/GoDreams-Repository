@@ -3,7 +3,9 @@ title: Home - CAP Design Portal
 ---
 
 # Program Design
-- [CAP Design Framework](Volume%201/Program%20Design/CAP%20Design%20Framework.md)
+- **[CAP Design Framework](Volume%201/Program%20Design/CAP%20Design%20Framework.md)**
+- **[Intervention Map](Volume%201/Program%20Design/Intervention%20Map.md)**
+
 
 # Secondary Research
 
