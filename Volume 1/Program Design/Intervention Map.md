@@ -4,7 +4,7 @@ author: Navneeth
 ---
 
 
-![](Public%20Resource%20Links/Program&techecosystem.png)
+![](/content/Public%20Resource%20Links/Program&techecosystem.png)
 
 ## CCI MIS
 
