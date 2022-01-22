@@ -6,25 +6,25 @@
       {
         "id": "caa64d61f7a54428",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 1/Program Design/CAP Design Framework.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {},
+          "pinned": true
         }
       },
       {
-        "id": "d5267c57d486ddf7",
+        "id": "b1fef9c86502e978",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Volume 1/Program Design/Jan 2022 Learnings.md",
             "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -81,11 +81,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Volume 1/Program Design/Jan 2022 Learnings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Volume 1/Program Design/Jan 2022 Learnings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,23 +115,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 496.0242004394531
   },
-  "active": "d5267c57d486ddf7",
+  "active": "b1fef9c86502e978",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Volume 1/Program Design/CAP Design Framework.md",
-    "Volume 1/Program Design/Intervention Map.md",
-    "Volume 1/Roll Ups/Child Profile.md",
-    "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
+    "Volume 1/Program Design/Jan 2022 Learnings.md",
     "Volume 1/Reference Reading/Books/Rethinking Orphanages for the 21st Century.md",
+    "Volume 1/Program Design/Intervention Map.md",
+    "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
+    "Volume 1/Program Design/CAP Design Framework.md",
+    "conflict-files-obsidian-git.md",
+    "Volume 1/Roll Ups/Child Profile.md",
     "content/Public Resource Links/Program&techecosystem.png.md",
     "Volume 1/Volume 1 Index.md",
-    "templates/Status.md",
-    "Home.md"
+    "templates/Status.md"
   ]
 }

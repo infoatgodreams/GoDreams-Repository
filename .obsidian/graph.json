@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-path: templates",
+  "collapse-filter": false,
+  "search": "-path: templates path:\"Volume 1/Reference Reading\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -34,7 +34,7 @@
   "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 1.03357260049221,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.475897301545717,
   "repelStrength": 13.2905423107152,
   "linkStrength": 1,
