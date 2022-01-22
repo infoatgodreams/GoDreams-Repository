@@ -14,5 +14,8 @@ author : Navneeth
 		 - Clear SoPs and plans to deal with physical/sexual abuse between peers as well as by staff. 
 		 -  Importance of maintaining a regular daily routine, minimizing negative responses to deviations from expected child behavior, and maximizing child safety.
 		 - Ensuring safety, choice, collaboration, trust building and individual empowerment among children to ensure care is trauma informed
-	- 
-	
+
+
+- During the design of the CAP product itself, keenly observing practices in related spaces like ed-tech, elite hostels and boarding schools, pediatric Hospital Wards and sporting academies might be key to ensuring that this product is not re-inventing the wheel. Even more so because the childcare space hasn't caught up to the innovations in these other fields. 
+- 
+
