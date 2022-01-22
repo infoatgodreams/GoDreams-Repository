@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/Status.md",
+            "file": "Volume 1/Program Design/Intervention Map.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Status.md",
+                "file": "Volume 1/Program Design/Intervention Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Status.md",
+                "file": "Volume 1/Program Design/Intervention Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,15 +113,15 @@
   },
   "active": "caa64d61f7a54428",
   "lastOpenFiles": [
+    "Volume 1/Program Design/Intervention Map.md",
+    "Volume 1/Program Design/CAP Design Framework.md",
     "templates/Status.md",
     "Home.md",
     "Volume 1/Volume 1 Index.md",
-    "Volume 1/Program Design/CAP Design Framework.md",
     "Volume 1/Reference Reading/Master Reading List.md",
     "Volume 1/Reference Reading/Books/Books Index.md",
     "Books.md",
     "Volume 1/Reference Reading/Other Capacity Building Orgs/Capacity Building Orgs Index.md",
-    "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
-    "conflict-files-obsidian-git.md"
+    "Volume 1/Program Design Tools/Human Centered Design - IDEO.md"
   ]
 }
