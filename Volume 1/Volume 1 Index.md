@@ -31,5 +31,5 @@ title: Volume 1 Index
 - [Risks](Volume%201/Roll%20Ups/Risks.md)
 
 # Link to Resources
-- [Google Drive](https://drive.google.com/drive/folders/1pXvNVosGaDIU5cvTSLL_ChbHzob3tKzf?usp=sharing)
-- [Master Reading List](Volume%201/Reference%20Reading/Master%20Reading%20List.md)
+- [Reading Material - Google Drive](https://drive.google.com/drive/folders/1pXvNVosGaDIU5cvTSLL_ChbHzob3tKzf?usp=sharing)
+- [Master Reading List - Google Sheets](https://docs.google.com/spreadsheets/d/1GRiS7QFPiak-1Ob3TdobKnaHqgUBb_8B-fErHP1BXUA/edit?usp=sharing)

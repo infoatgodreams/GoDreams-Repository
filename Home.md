@@ -10,5 +10,6 @@ title: Home - CAP Design Portal
 - [Volume 1 Index](Volume%201/Volume%201%20Index.md)
 
 # Link to Resources
-- [Google Drive](https://drive.google.com/drive/folders/1pXvNVosGaDIU5cvTSLL_ChbHzob3tKzf?usp=sharing)
+- [Reading Material - Google Drive](https://drive.google.com/drive/folders/1pXvNVosGaDIU5cvTSLL_ChbHzob3tKzf?usp=sharing)
+- [Master Reading List - Google Sheets](https://docs.google.com/spreadsheets/d/1GRiS7QFPiak-1Ob3TdobKnaHqgUBb_8B-fErHP1BXUA/edit?usp=sharing)
 
