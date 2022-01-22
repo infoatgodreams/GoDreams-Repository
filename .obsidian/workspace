@@ -7,12 +7,8 @@
         "id": "caa64d61f7a54428",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Home.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -113,12 +107,12 @@
   },
   "active": "caa64d61f7a54428",
   "lastOpenFiles": [
-    "Home.md",
-    "Volume 1/Volume 1 Index.md",
-    "Volume 1/Program Design/CAP Design Framework.md",
     "Volume 1/Program Design/Intervention Map.md",
+    "Volume 1/Program Design/CAP Design Framework.md",
     "content/Public Resource Links/Program&techecosystem.png.md",
+    "Volume 1/Volume 1 Index.md",
     "templates/Status.md",
+    "Home.md",
     "Volume 1/Reference Reading/Master Reading List.md",
     "Volume 1/Reference Reading/Books/Books Index.md",
     "Books.md",
