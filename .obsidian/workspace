@@ -102,14 +102,21 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "813a246e916a70fc",
+            "type": "leaf",
+            "state": {
+              "type": "wp-publish-options",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 496.0242004394531,
-    "collapsed": true
+    "width": 496.0242004394531
   },
   "active": "cf932f38edea9151",
   "lastOpenFiles": [
