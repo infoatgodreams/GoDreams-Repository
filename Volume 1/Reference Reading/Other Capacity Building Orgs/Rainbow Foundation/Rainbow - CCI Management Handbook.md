@@ -2,7 +2,7 @@
 title: Rainbow - CCI Management Handbook
 Author : Rainbow Foundation
 ---
-Tags: [Hygiene](Hygiene) [Caregiving](Caregiving) [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md) [Child Safety](Child%20Safety) [CCI FInances](CCI%20FInances) #practitioners 
+Tags: [Hygiene](Hygiene) [Caregiving](Caregiving) [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md) [Child Safety](Child%20Safety) [CCI FInances](CCI%20FInances) [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)#practitioners 
 Link: https://issuu.com/rainbowfoundationindia/docs/management_of_homes
 
 Status: [ReferenceReading](ReferenceReading)
@@ -92,4 +92,41 @@ Status: [ReferenceReading](ReferenceReading)
 - 24/7 Security Guard
 - Solid CCI Construction
 - Terrace and balcony parapets should be high enough
-- 
+- Lighting consistent and in all areas
+- Water tanks/wells etc. well covered
+- Sharp items/disinfectants etc stored in areas not accessible to children
+- Kitchen - check gas tubes for cracks, burner holes for chokes
+- Refer to source for guide on electricals
+- Mock disaster drills to be conducted every 3 months
+- Fire extinguishers to be present
+- First aid kit and emergency contact numbers to be displayed in public view
+
+# CCI Record Keeping
+- Central admission Register
+- Children's Attendance
+- Balsabha Record
+- Health Records
+- Parents Meeting Register
+- Staff Attendance register
+- Staff meeting register
+- Staff movement register
+- Entry/Exit register for visitors
+- Inspection Register (govt)
+- Food stock and issue register
+- Meals register
+- Stock and distribution record (toiletries, stationery, clothing and footwear)
+- Fixed Assets Register
+- Restoration Register
+- Home visit Record
+- Cash register
+
+# #readinglist
+
+- Seen but not heard - voluntary health association of India, 2002
+- Child Rights and Young Lives: Theoretical Issues and Empirical Studies, Sarada D (2009)
+- Juvenile Justice: An Indian Scenario, Bhattacharyya S(2000)
+- Child Welfare Services : Developments in law, policy, practice and research : Hill, M & Aldgate (1996)
+- Working with children in care, European perspectives, Petrie P (2006)
+- [[Managing Children's Homes: Developing Effective Leadership in a Small Organization, Hicks, L & Gibbs (2007)]]
+- Residential Child Care: Prospects & Challenges , Kendrick A (2008)
+- Handbook of materials management, Gopalakrishnan P (2002)
