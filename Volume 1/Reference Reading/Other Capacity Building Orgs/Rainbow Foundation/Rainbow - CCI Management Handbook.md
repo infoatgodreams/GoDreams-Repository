@@ -127,6 +127,6 @@ Status: [ReferenceReading](ReferenceReading)
 - Juvenile Justice: An Indian Scenario, Bhattacharyya S(2000)
 - Child Welfare Services : Developments in law, policy, practice and research : Hill, M & Aldgate (1996)
 - Working with children in care, European perspectives, Petrie P (2006)
-- [[Managing Children's Homes: Developing Effective Leadership in a Small Organization, Hicks, L & Gibbs (2007)]]
+- [[Managing Childrens Homes - Developing Effective Leadership in a Small Organization, Hicks, L & Gibbs (2007)]]
 - Residential Child Care: Prospects & Challenges , Kendrick A (2008)
 - Handbook of materials management, Gopalakrishnan P (2002)
