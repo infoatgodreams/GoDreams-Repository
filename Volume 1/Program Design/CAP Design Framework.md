@@ -32,6 +32,9 @@ Quality of care delivered at Child Care Institutions is on average inadequate an
 
 **[Q1 Design Plan - Google Sheets](https://docs.google.com/spreadsheets/d/1dlkMpXmnfNy0pXYaMPwJzYjUOuWECAu9iHx35NFrMvw/edit?usp=drive_web&ouid=104429298457953240905)**
 
+![Y1 Timeline](https://imgur.com/a/3pCAjOp)
+
+
   
 ## Secondary Research
 
