@@ -10,5 +10,6 @@
   "foldHeading": false,
   "foldIndent": false,
   "showFrontmatter": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "autoPairBrackets": false
 }

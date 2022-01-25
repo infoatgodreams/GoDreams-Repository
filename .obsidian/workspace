@@ -4,36 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "caa64d61f7a54428",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "b1fef9c86502e978",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 1/Program Design/Jan 2022 Learnings.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "cb86943904532492",
+        "id": "cf932f38edea9151",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Program Design/CAP Design Framework.md",
+            "file": "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
             "mode": "source",
             "source": false
           }
@@ -64,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "olasky",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Program Design/Jan 2022 Learnings.md",
+                "file": "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Program Design/Jan 2022 Learnings.md",
+                "file": "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,25 +102,33 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "813a246e916a70fc",
+            "type": "leaf",
+            "state": {
+              "type": "wp-publish-options",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 496.0242004394531
   },
-  "active": "b1fef9c86502e978",
+  "active": "cf932f38edea9151",
   "lastOpenFiles": [
-    "Volume 1/Program Design/Jan 2022 Learnings.md",
-    "Volume 1/Program Design/CAP Design Framework.md",
-    "Volume 1/Program Design/Human Centered Design - IDEO.md",
+    "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
     "Volume 1/Reference Reading/Other Capacity Building Orgs/Aangan/Highlights for Aangan - Changing Spaces.md",
     "Volume 1/Reference Reading/Books/Rethinking Orphanages for the 21st Century.md",
+    "Volume 1/Reference Reading/Books/Managing Childrens Homes - Developing Effective Leadership in a Small Organization, Hicks, L & Gibbs (2007).md",
     "Volume 1/Reference Reading/Books/Books Index.md",
-    "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-    "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+    "Volume 1/Volume 1 Index.md",
     "Volume 1/Reference Reading/Other Capacity Building Orgs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
+    "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+    "Templates/Hashtags.md",
     "Volume 1/Reference Reading/Other Capacity Building Orgs/Capacity Building Orgs Index.md"
   ]
 }
