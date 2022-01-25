@@ -41,6 +41,8 @@ Quality of care delivered at Child Care Institutions is on average inadequate an
     
 2.  Avoid reinventing the wheel during program design
 
+3.  Identify key levers and critical factors that influence the care quality at CCIs  based on existing studies/practices in the sector
+
 **Links**
 Reading List : **[Master Reading List - Google Sheets](https://docs.google.com/spreadsheets/d/1GRiS7QFPiak-1Ob3TdobKnaHqgUBb_8B-fErHP1BXUA/edit?usp=sharing)**
     
@@ -74,6 +76,14 @@ Reading List : **[Master Reading List - Google Sheets](https://docs.google.com/s
 - Books  - **[Books Index](Volume%201/Reference%20Reading/Books/Books%20Index.md)**
     
 ## Primary Research
+**Goal** - Speak to 100 CCIs to decode : 
+
+1.  What is the current reality of the CCIs in the factors and key levers identified as part of Secondary Research
+    
+2.  Build a basic profile of CCIs towards future use in city expansion and demographic context
+
+3. What does the current ecosystem around the CCIs look like in terms of stakeholders and services available to them? What are their thoughts on a product like ours?
+
 
 ## Prototyping
 
