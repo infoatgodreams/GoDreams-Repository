@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "cf932f38edea9151",
+        "id": "cb86943904532492",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "olasky",
+                "query": "tag:#readinglist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,23 +104,24 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 496.0242004394531
+    "width": 496.0242004394531,
+    "collapsed": true
   },
-  "active": "cf932f38edea9151",
+  "active": "cb86943904532492",
   "lastOpenFiles": [
     "Volume 1/Program Design/CAP Design Framework.md",
+    "Volume 1/Roll Ups/Reading List.md",
+    "Volume 1/Reference Reading/Master Reading List.md",
+    "Volume 1/Reference Reading/Other Capacity Building Orgs/Capacity Building Orgs Index.md",
+    "Volume 1/Reference Reading/Other Capacity Building Orgs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
+    "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
     "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
     "Volume 1/Reference Reading/Other Capacity Building Orgs/Aangan/Highlights for Aangan - Changing Spaces.md",
-    "Volume 1/Reference Reading/Books/Rethinking Orphanages for the 21st Century.md",
-    "Volume 1/Reference Reading/Books/Managing Childrens Homes - Developing Effective Leadership in a Small Organization, Hicks, L & Gibbs (2007).md",
-    "Volume 1/Reference Reading/Books/Books Index.md",
     "Volume 1/Program Design/Jan 2022 Learnings.md",
-    "Volume 1/Program Design/Intervention Map.md",
-    "Volume 1/Program Design/Human Centered Design - IDEO.md",
-    "Templates/Data view useful commands.md"
+    "Volume 1/Program Design/Human Centered Design - IDEO.md"
   ]
 }
