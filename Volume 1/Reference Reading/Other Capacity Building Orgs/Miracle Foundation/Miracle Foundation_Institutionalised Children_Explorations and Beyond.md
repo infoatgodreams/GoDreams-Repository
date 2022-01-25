@@ -68,7 +68,7 @@ Attachments:
 - A study by National Institute of Nutrition, IndianCouncil of Medical Research, Hyderabad, 1987.
 - Domestic Adoptions hit by half, hit a 5-year low’, Times of India, June 8, 2016.
 - Institutional Care for Young Children: Review of Literature and Policy Implications, US NationalLibrary of Medicine 2012. PMC Journals, Vol. 6, No. 1, pp. 1–25
-- .Problems and Adjustment Patterns of Children living in destitute homes in UP 1987: A doctoral study done by Chandra Hans Singh at dept. of Education, Banaras Hindu University (BHU).
+- Problems and Adjustment Patterns of Children living in destitute homes in UP 1987: A doctoral study done by Chandra Hans Singh at dept. of Education, Banaras Hindu University (BHU).
 - Standards of Care in Child Care Institutions: A Series on Alternative Care, published by UNICEF &Udayan Care, 2017.
 - The Meaning of SOS. (http://www.sosbc.org/about-us/vision-values-mission/meaning-sos).The risk of harm to young children in institutional care, Browne. K. 2009 Retrieved from Save theChildren website: (http://www.savethechildren.org.uk/en/54_9896.htm).
 - What SOS Children’s Village Stand for’ (http://www.sos-childrensvillages.org/getmedia/b4108dbc-a24f-4458-af18-bb50b737028d/EN-SOS-Children-s-Villags-Overview.pdf). (Page 16)
