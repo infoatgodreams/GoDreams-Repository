@@ -1,4 +1,4 @@
- ---
+---
 title: CAP Design Framework
 author: Navneeth
 ---
