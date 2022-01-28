@@ -62,7 +62,7 @@ Reading List : **[Master Reading List - Google Sheets](https://docs.google.com/s
 - CCIs, CNCP & Service Providers (Intl)
     
 #### 2.  Innovations in the space:
-- Practitioners(Other capacity building orgs): **[Capacity Building Orgs Index](Volume%201/Reference%20Reading/Other%20Capacity%20Building%20Orgs/Capacity%20Building%20Orgs%20Index.md)**
+- Practitioners(Other capacity building orgs): **[Capacity Building Orgs Index](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Capacity%20Building%20Orgs%20Index.md)**
 	- Rainbow Foundation
 	-  Aangan
 	-  Miracle Foundation

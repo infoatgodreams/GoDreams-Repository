@@ -13,7 +13,44 @@
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "901da072c910ebb4"
+      },
+      {
+        "id": "ab98ba11a32290dc",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Volume 1/Roll Ups/Child Profile.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "901da072c910ebb4"
       }
     ],
     "direction": "vertical"
@@ -110,14 +147,14 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "cb86943904532492",
+  "active": "ab98ba11a32290dc",
   "lastOpenFiles": [
     "Volume 1/Roll Ups/Child Profile.md",
     "Hygiene.md",
-    "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
-    "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
     "akshay.md",
-    "Volume 1/Reference Reading/Other Capacity Building Orgs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
     "Volume 1/Roll Ups/Reading List.md",
     "Public Resource Links/Field Guide to Human-Centered Design_IDEOorg_English.pdf",
     "Public Resource Links/Aangan - Changing Spaces.pdf",
