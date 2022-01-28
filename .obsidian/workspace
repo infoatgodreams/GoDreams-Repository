@@ -7,9 +7,19 @@
         "id": "63084e5e1286396b",
         "type": "leaf",
         "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Public Resource Links/Queue/The nutritional status of children living within institutionalized care _ a systematic review.pdf"
+          }
+        }
+      },
+      {
+        "id": "74335abfaa045b90",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/Highlights for Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
+            "file": "Highlights for The nutritional status of children living within institutionalized care _ a systematic review.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/Highlights for Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
+                "file": "Highlights for The nutritional status of children living within institutionalized care _ a systematic review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/Highlights for Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
+                "file": "Highlights for The nutritional status of children living within institutionalized care _ a systematic review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,17 +120,17 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "63084e5e1286396b",
+  "active": "74335abfaa045b90",
   "lastOpenFiles": [
+    "Highlights for The nutritional status of children living within institutionalized care _ a systematic review.md",
+    "Public Resource Links/Queue/The nutritional status of children living within institutionalized care _ a systematic review.pdf",
+    "Public Resource Links/Queue/Nutrition,Health and Psychosocial profile of institutionalized children in UP,4 indian states.pdf",
+    "Public Resource Links/Queue/managing-childrenx27s-homes-developing-effective-leadership-in-small-organisations_compress.pdf",
     "Volume 1/Reference Reading/Research Papers/Highlights for Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
     "Volume 1/Reference Reading/Governments & UN/Highlights for Guidelines on Alternative Care_UN.md",
     "Public Resource Links/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).pdf",
     "Public Resource Links/Governments & UN/Guidelines on Alternative Care_UN.pdf",
     "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
-    "Volume 1/Reference Reading/Books/Rethinking Orphanages for the 21st Century.md",
-    "Volume 1/Reference Reading/Books/Managing Childrens Homes - Developing Effective Leadership in a Small Organization, Hicks, L & Gibbs (2007).md",
-    "Volume 1/Program Design/CAP Design Framework.md"
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md"
   ]
 }

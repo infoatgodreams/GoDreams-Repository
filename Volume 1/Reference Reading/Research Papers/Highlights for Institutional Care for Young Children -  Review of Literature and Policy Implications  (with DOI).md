@@ -2,9 +2,8 @@
 title: Institutional Care for Young Children - Lit Review
 author: 
 ---
+
 Scope:  Literature review for effects of institutional care on children <5 years. 
-
-
 
 # CCI Operations
 - certain modal features of institutional care that have characterized settings across countries and continents:
@@ -39,7 +38,7 @@ Scope:  Literature review for effects of institutional care on children <5 years
 - Extrapolating from theliterature on adversity more generally (e.g., Bruce, Fisher, Pears, & Levine, 2009; Dozier etal., 2006; Fisher, van Ryzin, & Gunnar, in press; Gunnar & Vazquez, 2001), it seems likelythat the functioning of the HPA system is affected by institutional care. (Page 8)
 
 
-## Successful Interventions
+## Successful Interventions : [[Attachment and Bio-Behavioral Catchup Approach (ABC)]]
 - The ABC intervention targets regulatory issues, attachment quality, and indiscriminatesociability. 
 - The original ABC intervention model had been shown to be effective with high-risk birth children and with foster children (Bernard et al., in press; Dozier et al., 2006). 
 - The adapted intervention is currently being tested in a randomized clinical trial with internationally adopted children. 
