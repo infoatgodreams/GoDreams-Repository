@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.0093288421631
+    "width": 390.0093288421631,
+    "collapsed": true
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -103,25 +104,23 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 496.0242004394531,
-    "collapsed": true
+    "width": 496.0242004394531
   },
   "active": "cb86943904532492",
   "lastOpenFiles": [
     "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+    "Volume 1/Roll Ups/Child Profile.md",
     "Volume 1/Reference Reading/Other Capacity Building Orgs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-    "Volume 1/Program Design/CAP Design Framework.md",
-    "Volume 1/Roll Ups/Reading List.md",
-    "Volume 1/Reference Reading/Master Reading List.md",
-    "Volume 1/Reference Reading/Other Capacity Building Orgs/Capacity Building Orgs Index.md",
+    "akshay.md",
     "Volume 1/Reference Reading/Other Capacity Building Orgs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
-    "Volume 1/Reference Reading/Other Capacity Building Orgs/Aangan/Highlights for Aangan - Changing Spaces.md",
-    "Volume 1/Program Design/Jan 2022 Learnings.md",
-    "Volume 1/Program Design/Human Centered Design - IDEO.md"
+    "Volume 1/Roll Ups/Reading List.md",
+    "Public Resource Links/Field Guide to Human-Centered Design_IDEOorg_English.pdf",
+    "Public Resource Links/Aangan - Changing Spaces.pdf",
+    "Volume 1/Program Design/CAP Design Framework.md",
+    "Volume 1/Reference Reading/Master Reading List.md"
   ]
 }
