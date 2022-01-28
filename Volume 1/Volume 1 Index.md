@@ -23,7 +23,7 @@ title: Volume 1 Index
 	- [Marvin Olasky](Marvin%20Olasky)
 
 ## Design Theory
-- [Human Centered Design - IDEO](Volume%201/Program%20Design/Human%20Centered%20Design%20-%20IDEO.md)
+- [Human Centered Design - IDEO](Volume%201/Program%20Design%20Tools/Human%20Centered%20Design%20-%20IDEO.md)
 
 
 
