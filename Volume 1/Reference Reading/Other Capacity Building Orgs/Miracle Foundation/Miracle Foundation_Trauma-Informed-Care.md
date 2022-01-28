@@ -27,13 +27,13 @@ Link: [Trauma Informed Care in CCIs](https://drive.google.com/file/d/1U2Cq2V06hD
 - Self-care for Staff (Page 4) 
 
 ## Individualised Care
-- Miracle trains CCI staff onguiding children to create Lifebooks that help each child process and takeownership of their past and self-identity by documenting their personal journey ina visual manner. (Page 5) ]]
+- Miracle trains CCI staff onguiding children to create Lifebooks that help each child process and takeownership of their past and self-identity by documenting their personal journey ina visual manner. (Page 5) 
 
  ## Restoration
  
 - Risk assessment : Based on a tool created by Hope and Homes for Children(HHC), this checklist prompts professionals to ensure all potential risks of abuse and neglect have been considered
 
- • Placement plan3: This maps out how suitable a placement is based on five well-being domains (household economy, education, family and socialrelationships, physical and mental health and living conditions). It is usedto create a Home Thrive Scale which plots the scores on a graph to showprogress over time (See Figure 1). (Page 6)
+ • Placement plan3: This maps out how suitable a placement is based on five well-being domains (household economy, education, family and socialrelationships, physical and mental health and living conditions). It is used to create a Home Thrive Scale which plots the scores on a graph to showprogress over time (See Figure 1). (Page 6)
 
  ## #readinglist 
 - Lifebook Guide for Miracle India is written by Janie Cravens, L. C. S. W. Lifebookcurriculum is developed using materials from Kids and Lifebooks: Tips for SocialWorkers, Beth O’Malley, Ezine Articles and Making History – A Social Worker’sGuide to Life Books, Joann Harrison, Elaine Campbell, Penny Chumbley, Departmentfor Community Based Services, Kentucky Cabinet for Health and Family Services. (Page 8)
