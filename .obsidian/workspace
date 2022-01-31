@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6bb62237e3278b16",
+        "id": "ff0ae595ce237c69",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "31356ee4d8c94244",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Volume 2/Highlights for CNCP-Paper copy.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Volume 2/Highlights for CNCP-Paper copy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Volume 2/Highlights for CNCP-Paper copy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,17 +110,17 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "31356ee4d8c94244",
+  "active": "ff0ae595ce237c69",
   "lastOpenFiles": [
-    "Volume 2/Volume 2 Index.md",
-    "Volume 2/Domestic CCIs.md",
-    "Public Resource Links/Queue/Volume 2 Queue/Untitled.md",
-    "Public Resource Links/Queue/Volume 1 Queue/managing-childrenx27s-homes-developing-effective-leadership-in-small-organisations_compress.pdf",
-    "Public Resource Links/Queue/Volume 1 Queue/Nutrition,Health and Psychosocial profile of institutionalized children in UP,4 indian states.pdf",
+    "Volume 2/Highlights for CNCP-Paper copy.md",
+    "Volume 2/CNCP-Paper copy.pdf",
     "conflict-files-obsidian-git.md",
-    "Templates/Markdown Syntax.md",
+    "Public Resource Links/Program Design/Field Guide to Human-Centered Design_IDEOorg_English.pdf",
+    "Untitled.md",
+    "Volume 2/Domestic CCIs.md",
     "Templates/PDF Annotate.md",
-    "Volume 1/Program Design/CAP Design Framework.md",
-    "Public Resource Links/Governments & UN/Guidelines on Alternative Care_UN.pdf"
+    "Volume 2/Volume 2 Index.md",
+    "Templates/Note Taking Instructions.md",
+    "Public Resource Links/Queue/Volume 2 Queue/Untitled.md"
   ]
 }
