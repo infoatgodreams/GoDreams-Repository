@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ff0ae595ce237c69",
+        "id": "743c8bf8813ef271",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 2/Highlights for CNCP-Paper copy.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "e2b3aa1f366a4110",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "infoatgodrea",
+                "query": "tag:#Practitioner",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,17 +110,17 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "e2b3aa1f366a4110",
+  "active": "743c8bf8813ef271",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Volume 2/Highlights for CNCP-Paper copy.md",
-    "Volume 2/Domestic CCIs.md",
-    "Volume 2/CNCP-Paper copy.pdf",
-    "Public Resource Links/Program Design/Field Guide to Human-Centered Design_IDEOorg_English.pdf",
-    "Untitled.md",
-    "Templates/PDF Annotate.md",
-    "Volume 2/Volume 2 Index.md",
-    "Templates/Note Taking Instructions.md",
-    "Public Resource Links/Queue/Volume 2 Queue/Untitled.md"
+    "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Udayan Care/UdayanCare_Standardsofcareinchildcareinstitutions (1).md",
+    "Volume 1/Volume 1 Public Resource Links/Other service providers/UdayanCare_Standardsofcareinchildcareinstitutions (1).pdf",
+    "Highlights for UdayanCare_Standardsofcareinchildcareinstitutions (1).md",
+    "Volume 1/Volume 1 Index.md",
+    "Volume 1/Reference Reading/Research Papers/India/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
+    "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md"
   ]
 }

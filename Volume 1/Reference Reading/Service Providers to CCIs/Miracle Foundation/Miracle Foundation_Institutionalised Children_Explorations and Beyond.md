@@ -1,8 +1,9 @@
 ---
 title: Miracle Foundation - Case Study of Interventions
 Author: Miracle Foundation
+tags: Practitioner
 ---
-Tags:  [[Volume 1/Roll Ups/Physical Health]]  [[Program Operations]] [Hygiene](Hygiene.md) [[Caregiving]]  [Education](Education) [Mental Health](Mental%20Health)  #practitioners 
+Tags:  [[Volume 1/Roll Ups/Physical Health]]  [[Program Operations]] [Hygiene](Hygiene.md) [[Caregiving]]  [Education](Education) [Mental Health](Mental%20Health)  
 
 Status: [ReferenceReading](ReferenceReading)
 

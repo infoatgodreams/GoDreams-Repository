@@ -4,7 +4,9 @@ author: Navneeth
 tags: Practitioner
 ---
 
- Tags: [CCI Operations](CCI%20Operations)
+ Tags: [CCI Operations](CCI%20Operations) [CCICompliance](CCICompliance)
+
+ Links: 
 # Key International Instruments on Rights of Children 
 - UN Declaration on Rights of the Child, 1959 
 - Minimum Age Convention, 1973 
@@ -266,14 +268,93 @@ tags: Practitioner
 	- Evaluation of CCIs may be done by Central Government or State Government once in three years. Its purpose is to strengthen and improve functioning.
 - **Personnel for CCI (Rule 26)** [Caregiving](Caregiving)
 	- The rule deals with the basis for staffing like categories of children, capacity of CCI, nature of duties, hours of duty etc.
-	- While key regular staff include person-in-charge, probation officer/CWO/CW, counselor/psychologist/mental health expert, house mother/house father, para-medical staff/staff nurse/nursing orderly and storekeeper-cum-accountant; educator/tutor, medical officer, art & craft & activity teacher and PT instructor-cum-yoga teacher psychiatrist may be hired as part-time staff. The rule suggests a staffing pattern for a CCI with capacity for 100 children. Some other important conditions to be followed include the following: yOnly female person-in-charge and staff to be appointed for CCIs housing girls yThose associated with CCIs should not be convicted persons or those involved in immoral act, child abuse, employment of child labour, moral turpitude or should hold any political office during his/her tenure yNo one should be appointed or work in CCIs without police verification. yCCIs housing infants should hire ayahs and paramedical staff as per need. (Page 26)
-- Standards of CStandards of CChild Child Rehabilitation and Reintegration services in institutions registered under the JJ Act, 2015i. Basic requirements such as food, shelter, clothing and medical attention as per the prescribed standardsii. Equipment such as wheel-chairs, prosthetic devices, hearing aids, Braille kits, or any other suitable aids and appliances as required, for children with special needsiii. Appropriate education, including supplementary education, special education, and appropriate education for children with special needs (Provided that for children between the age of six to fourteen years, the provisions of the Right of Children to Free and Compulsory Education Act, 2009 shall apply)iv. Skill developmentv. Occupational therapy and life skill educationvi. Mental health interventions, including counselling specific to the need of the childvii. Recreational activities including sports and cultural activitiesviii. Legal aid where requiredix. Referral services for education, vocational training, de-addiction, treatment of diseases where requiredx. Case management including preparation and follow up of individual care planxi. Birth registrationxii. Assistance for obtaining the proof of identity, where requiredxiii. Any other service that may reasonably be provided in order to ensure the well-being of the child, either directly by the State Government, registered or fit individuals or institutions or through referral servicesReference: Section 53(1), JJ Act, 2015 (Page 27)
-- Child Child Some Institutional Care Practices in India and across the World (Page 29)
-- SOS Children’s Village- A Unique Child care ModelSOS Children’s Villages of India has been providing institutional child care in the country since 1964. The SOS model ensures home-like environment that is based on four fundamental principles as noted below: The Mother: Every child has a caring parent.Brothers and Sisters: Every child has a family ties and they grow up with a sense of responsibility and a spirit of sharing. The House: A place where the child feels secure and has a sense of belonging.The Village: A community that surrounds the child, so that every child has roots.According to the model, each SOS Children’s Village has certain number of houses that the children call their homes. Each SOS family houses an average of 10 boys and girls of up to 14 years age and the SOS mother, who is responsible for providing care, security and emotional support to the children. The mother manages the house independently like it is done in any other household. After attaining 14 years of age, boys are sent to youth houses. Each SOS Children’s Village creates a village-like community which allows children to mingle with their peers and families to share their experiences. The Village provides support for children’s education, healthcare, psychological development, career, marriage and other development needs till the time they are fully settled in their lives. Palna- A Novel Intervention of Delhi Council for Child Welfare (DCCW)Palna (or cradle in English) is an old and novel intervention of DCCW that combines care with a unique method of receiving children. At Palna, a cradle is placed outside the gate of the compound in order to allow parents to leave their children without identifying themselves. While the CCI receives most of its children through this method, children also come through police and hospitals. As DCCW attaches importance to family, it first tries to restore children to their biological parents. If this fails, they are placed in adoption. Palna provides healthcare, non-formal education, recreation, nutrition and other essential services to children. (Page 29)
-- Standards of Care inStandards of Care inChild Group Care (GC)- A Pioneering Model of Udayan CareGC is an innovative child care model that creates the warmth of a family with strong community interface having potential for neutralizing the stresses of institutional child care. The model is based on a strategy called LIFE (Living in Family Environment) that focuses on long term residential care of orphaned and abandoned children of above 6 years age in ‘LIFE Udayan Ghars’ or ‘Sunshine Homes’. Each LIFE Udayan Ghar, located in a community setting in middleclass neighbourhood, houses not more than 12 children of same gender that creates a home-like setting for the children under the overall guidance of Mentor Parents and socially-oriented staff and volunteers. In other words, it is a foster family that takes care of a group of targeted children. The system creates space for parental attachment, interaction with community, good in-house relationship, responsible primary socialization and children’s emotional enrichment. Distinctive Features of Udayan Care’s Model of Child Care ySmall size Homes that resemble a family yIndividualized child care yBest interests of children guarded and promoted yMentor parents as lifetime volunteers yCare under guidance of professional caregivers yEffective and efficient compliance with standards of child care yChild feel attached and cared at homes and integrated with community yAn effective and guided aftercare programme that ensures proper settlement yUnique community outreach that allows children’s social integration and community’s involvement in child care with a sense of ownership yEmphasis on programmatic innovation and capacity of building of staff (Page 30)
-- Mill Grove London, United KingdomMill Gove is a unique example of a residential care home that is working with the community for the benefit of the children. It started in 1899 as an informal foster family–a home for destitute and motherless children, as noted in the organisation’s first Annual Report. “It is still a place of love and care where children and young people who cannot live with their own families may be fostered, or for families who need accommodation and support. … Over 1,000 children have lived here for all or part of their childhood and many of these … regard Mill Grove as their home.” Mill Grove has also been especially supporting local families with young children since 1976. There are outdoor facilities, including a school for children with cerebral palsy. (Page 30)
-- Standards of Care inStandards of Care inChChKids Alive International: A Global Child Care InitiativeKids Alive International (KAI) began its operation in China in the year 1916. It now operates in 15 countries in Africa, Asia, Middle East, Eastern Europe, Latin America and Pacific Rim with focus on care of children who are orphans, abandoned, abused, on the streets and victims of poverty, disease or war. KAI has been taking care of these children through its residential homes, care centres and schools. It also operates medical centres, community outreach programmes including micro-enterprise solutions for economic development and in certain cases, disaster relief operations. The three important components of intervention of KAI are rescue of homeless children, fulfilling their educational needs and strengthening the communities. (Page 31)
-- andards of Care inandards of Care inhild hild Data Management for Effective Implementation of the Juvenile Justice Act, Briefing Paper Series 8, UNICEF (New Delhi, 2011). Available at http://unicef.in/Uploads/Publications/Resources/ pub_doc73.pdfGrant, Gill. One or the Other- or Both? Child Care Alternatives for Vulnerable Children. Available at http://www.ccih.org/Child_Care_Alternatives_for_Vulnerable_Children.pdfhttps://www.savethechildren.org.uk/sites/default/files/docs/Keeping_Children_Out_of_Harmful_Institutions_Final_20.11.09_1.pdfhttp://naco.gov.in/upload/2015%20MSLNS/HSS/India%20HIV%20Estimations%202015.pdfhttp://timesofindia.indiatimes.com/india/One-lakh-children-go-missing-in-India-every-year-Home-ministry/articleshow/39779841.cmshttp://indianexpress.com/article/explained/national-crime-records-bureau-data-2015-slight-dip-in-rape-crime-against-women-3004980/http://mief.in/mental-sickness-in-children-in-india-an-overview/http://www.naco.gov.in/sites/default/files/HIV%20DATA.pdfInstitutionalised Children: Seminar on Standards of Care and Mental Health- A Report, March 14-15, 2014, Udayan Care (New Delhi, 2014). Available at http://www.udayancare.org/seminar-journal/Institutionalised%20_Children_Revised.pdfIntegrated Child Protection Scheme, 2014Juvenile Justice (Care and Protection of Children) Model Rules, 2016Rules under the Juvenile Justice (Care and Protection of Children) Act, 2000 (56 of 2000) (as amended by the Amendment Act 33 of 2006), 26 October 2007Study on Child Abuse: India 2007, Ministry of Women and Child Development, Government of India (New Delhi: Kirti, 2007). Website: http://www.childlineindia.org.in/pdf/MWCD-Child-Abuse-Report.pdfSubjective Wellbeing of Children Living in Institutions of Delhi- A Rights Based Perspective, Delhi Commission for Protection of Child Rights (New Delhi, 2014). Available at http://delhi.gov.in/wps/wcm/connect/doit_dcpcr/DCPCR/Publication/Subjective+Wellbeing+of+Children+Living+in+Institutions+in+DelhiThe Essentials of Child Protection: A Handbook for Beginners, CHILDLINE India Foundation (Mumbai, 2008). Available at www.childlineindia.org.in/pdf/Essentials-of-child-protection-Oct%2008.pdfThe Juvenile Justice (Care and Protection of Children) Act, 2015 (No. 2 of 2016)The National Policy for Children, 2013. Available at http://wcd.nic.in/sites/default/files/npcenglish08072013_0.pdf (Page 34)
+	- While key regular staff include
+		-  person-in-charge, 
+		- probation officer/CWO/CW, 
+		- counselor/psychologist/mental health expert, 
+		- house mother/house father, 
+		- para-medical staff/staff nurse/nursing orderly 
+		- storekeeper-cum-accountant; 
+		- educator/tutor, medical officer, art & craft & activity teacher and PT instructor-cum-yoga teacher psychiatrist may be hired as part-time staff. 
+		- The rule suggests a staffing pattern for a CCI with capacity for 100 children. Some other important conditions to be followed include the following: 
+			- Only female person-in-charge and staff to be appointed for CCIs housing girls 
+			- Those associated with CCIs should not be convicted persons or those 
+			  involved in immoral act, child abuse, employment of child labour, moral turpitude or should hold any political office during his/her tenure 
+			- No one should be appointed or work in CCIs without police verification. 
+			- CCIs housing infants should hire ayahs and paramedical staff as per need. (Page 26)
+- **Other Requirements**
+	- Rehabilitation and Reintegration services
+	- Basic requirements such as food, shelter, clothing and medical attention as per the prescribed standards
+	- Equipment such as wheel-chairs, prosthetic devices, hearing aids, Braille kits, or any other suitable aids and appliances as required, for children with special needs
+	- Appropriate education, including supplementary education, special education, and appropriate education for children with special needs (Provided that for children between the age of six to fourteen years, the provisions of the Right of Children to Free and Compulsory Education Act, 2009 shall apply)
+	- Skill development. Occupational therapy and life skill education.
+	- Mental health interventions, including counselling specific to the need of the child
+	- Recreational activities including sports and cultural activities
+	- Legal aid where required
+	- Referral services for education, vocational training, de-addiction, treatment of diseases where required
+	- Case management including preparation and follow up of individual care plan
+	- Birth registration
+	- Assistance for obtaining the proof of identity, where required
+	- Any other service that may reasonably be provided in order to ensure the well-being of the child, either directly by the State Government, registered or fit individuals or institutions or through referral services. Reference: Section 53(1), JJ Act, 2015 (Page 27)
+
+# Child Child Some Institutional Care Practices in India and across the World (Page 29)
+
+- ## SOS Children’s Village- [[SOSChildrensVillage]]
+	-  A Unique Child care Model: SOS Children’s Villages of India has been providing institutional child care in the country since 1964. 
+	- The SOS model ensures home-like environment that is based on four fundamental principles as noted below: 
+		- The Mother: Every child has a caring parent.
+		- Brothers and Sisters: Every child has a family ties and they grow up with a sense of responsibility and a spirit of sharing. 
+		- The House: A place where the child feels secure and has a sense of belonging.
+		- The Village: A community that surrounds the child, so that every child has roots.
+	- According to the model, each SOS Children’s Village has certain number of houses that the children call their homes.
+	- Each SOS family houses an average of 10 boys and girls of up to 14 years age and the SOS mother, who is responsible for providing care, security and emotional support to the children. 
+	- The mother manages the house independently like it is done in any other household. 
+	- After attaining 14 years of age, boys are sent to youth houses.
+	-  Each SOS Children’s Village creates a village-like community which allows children to mingle with their peers and families to share their experiences. 
+	- The Village provides support for children’s education, healthcare, psychological development, career, marriage and other development needs till the time they are fully settled in their lives. 
+
+- ## Palna [[Palna]]
+	- A Novel Intervention of Delhi Council for Child Welfare (DCCW)Palna (or cradle in English) is an old and novel intervention of DCCW that combines care with a unique method of receiving children. 
+	- At Palna, a cradle is placed outside the gate of the compound in order to allow parents to leave their children without identifying themselves.
+	-  While the CCI receives most of its children through this method, children also come through police and hospitals. 
+	- As DCCW attaches importance to family, it first tries to restore children to their biological parents. If this fails, they are placed in adoption.
+	- Palna provides healthcare, non-formal education, recreation, nutrition and other essential services to children. (Page 29)
+- ## Udayan Group Care (GC) [[UdayanCare]]
+	-  A Pioneering Model of Udayan Care: GC is an innovative child care model that creates the warmth of a family with strong community interface having potential for neutralizing the stresses of institutional child care. 
+	- The model is based on a strategy called LIFE (Living in Family Environment) that focuses on long term residential care of orphaned and abandoned children of above 6 years age in ‘LIFE Udayan Ghars’ or ‘Sunshine Homes’. 
+	- Each LIFE Udayan Ghar, located in a community setting in middleclass neighbourhood, houses not more than 12 children of same gender that creates a home-like setting for the children under the overall guidance of Mentor Parents and socially-oriented staff and volunteers. In other words, it is a foster family that takes care of a group of targeted children. 
+	- The system creates space for parental attachment, interaction with community, good in-house relationship, responsible primary socialization and children’s emotional enrichment.
+	-  Distinctive Features of Udayan Care’s Model of Child Care 
+		- Small size Homes that resemble a family 
+		- Individualized child care 
+		- Best interests of children guarded and promoted 
+		- Mentor parents as lifetime volunteers 
+		- Care under guidance of professional caregivers 
+		- Effective and efficient compliance with standards of child care 
+		- Child feel attached and cared at homes and integrated with community 
+		- An effective and guided aftercare programme that ensures proper settlement 
+		- Unique community outreach that allows children’s social integration and community’s involvement in child care with a sense of ownership 
+		- Emphasis on programmatic innovation and capacity of building of staff (Page 30)
+- ## Mill Grove London, United Kingdom [[MillGrove]]
+	- Mill Gove is a unique example of a residential care home that is working with the community for the benefit of the children. It started in 1899 as an informal foster family–a home for destitute and motherless children, as noted in the organisation’s first Annual Report. “It is still a place of love and care where children and young people who cannot live with their own families may be fostered, or for families who need accommodation and support. … Over 1,000 children have lived here for all or part of their childhood and many of these … regard Mill Grove as their home.” Mill Grove has also been especially supporting local families with young children since 1976. There are outdoor facilities, including a school for children with cerebral palsy. (Page 30)
+- ## Kids Alive International [[Kidsaliveinternational]]
+	- A Global Child Care Initiative, Kids Alive International (KAI) began its operation in China in the year 1916. 
+	- It now operates in 15 countries in Africa, Asia, Middle East, Eastern Europe, Latin America and Pacific Rim with focus on care of children who are orphans, abandoned, abused, on the streets and victims of poverty, disease or war. 
+	- KAI has been taking care of these children through its residential homes, care centres and schools. It also operates medical centres, community outreach programmes including micro-enterprise solutions for economic development and in certain cases, disaster relief operations.
+	- The three important components of intervention of KAI are
+		-  rescue of homeless children, 
+		- fulfilling their educational needs  
+		- strengthening the communities. (Page 31)
+
+
+# #readinglist 
+- Data Management for Effective Implementation of the Juvenile Justice Act, Briefing Paper Series 8, UNICEF (New Delhi, 2011). Available at http://unicef.in/Uploads/Publications/Resources/ pub_doc73.pdfGrant, Gill.
+-  One or the Other- or Both? Child Care Alternatives for Vulnerable Children. Available at http://www.ccih.org/Child_Care_Alternatives_for_Vulnerable_Children.pdfhttps://www.savethechildren.org.uk/sites/default/files/docs/Keeping_Children_Out_of_Harmful_Institutions_Final_20.11.09_1.pdfhttp://naco.gov.in/upload/2015%20MSLNS/HSS/India%20HIV%20Estimations%202015.pdfhttp://timesofindia.indiatimes.com/india/One-lakh-children-go-missing-in-India-every-year-Home-ministry/articleshow/39779841.cmshttp://indianexpress.com/article/explained/national-crime-records-bureau-data-2015-slight-dip-in-rape-crime-against-women-3004980/http://mief.in/mental-sickness-in-children-in-india-an-overview/http://www.naco.gov.in/sites/default/files/HIV%20DATA.pdfInstitutionalised
+-  Children: Seminar on Standards of Care and Mental Health- A Report, March 14-15, 2014, Udayan Care (New Delhi, 2014). Available at http://www.udayancare.org/seminar-journal/Institutionalised%20_Children_Revised.pdfIntegrated 
+- Child Protection Scheme, 2014 Juvenile Justice (Care and Protection of Children) Model Rules, 2016 Rules under the Juvenile Justice (Care and Protection of Children) Act, 2000 (56 of 2000) (as amended by the Amendment Act 33 of 2006), 26 October 2007Study on Child Abuse: India 2007, Ministry of Women and Child Development, Government of India (New Delhi: Kirti, 2007). Website: http://www.childlineindia.org.in/pdf/MWCD-Child-Abuse-Report.pdfSubjective 
+- Wellbeing of Children Living in Institutions of Delhi- A Rights Based Perspective, Delhi Commission for Protection of Child Rights (New Delhi, 2014). Available at http://delhi.gov.in/wps/wcm/connect/doit_dcpcr/DCPCR/Publication/Subjective+Wellbeing+of+Children+Living+in+Institutions+in+DelhiThe 
+- Essentials of Child Protection: A Handbook for Beginners, CHILDLINE India Foundation (Mumbai, 2008). Available at www.childlineindia.org.in/pdf/Essentials-of-child-protection-Oct%2008.pdfThe 
+- Juvenile Justice (Care and Protection of Children) Act, 2015 (No. 2 of 2016)The National Policy for Children, 2013. Available at http://wcd.nic.in/sites/default/files/npcenglish08072013_0.pdf (Page 34)
 
 ## Source
 [[Volume 1/Volume 1 Public Resource Links/Queue/Volume 1 Queue/UdayanCare_Standardsofcareinchildcareinstitutions (1).pdf]]
