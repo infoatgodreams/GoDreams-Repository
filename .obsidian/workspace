@@ -10,6 +10,18 @@
           "type": "empty",
           "state": {}
         }
+      },
+      {
+        "id": "31356ee4d8c94244",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -65,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -104,8 +118,9 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "6bb62237e3278b16",
+  "active": "31356ee4d8c94244",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Templates/Markdown Syntax.md",
     "Templates/PDF Annotate.md",
     "Volume 2/Volume 2 Index.md",
@@ -114,7 +129,6 @@
     "Public Resource Links/Governments & UN/Guidelines on Alternative Care_UN.pdf",
     "Templates/PDF Notes.md",
     "Volume 1/Volume 1 Index.md",
-    "Volume 1/Roll Ups/Risks.md",
-    "conflict-files-obsidian-git.md"
+    "Volume 1/Roll Ups/Risks.md"
   ]
 }
