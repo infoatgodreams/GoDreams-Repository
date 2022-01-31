@@ -135,10 +135,25 @@ tags: Practitioner
 	- This is done keeping in view the child’s age, nature of offence committed by or against the child, and physical and mental status.
 	- Children in need of special care are allotted different dormitory. 
 	- For children under rehabilitation stay, the care plan covers the entire period of stay; and it accommodates the directions of CWC, JJB and children’s court.
-	- [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md): Form 7 given in JJ Rules 2016 is used for preparing individual care plan. An individual care plan is prepared keeping in view the child’s case history, education and vocational aptitude. 
-		- Individual care plan is reviewed by CWO or CWCWO or CW maintains a record of difficulties, if any, faced by the child during the period of stay in CCI. 
+
+- ### [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md): 
+	- Form 7 given in JJ Rules 2016 is used for preparing individual care plan. An individual care plan is prepared keeping in view the child’s case history, education and vocational aptitude. 
+		-  Individual care plan is reviewed by CWO or CWCWO or CW maintains a record of difficulties, if any, faced by the child during the period of stay in CCI. 
 		- CWO or CW keeps of a record of complaints by the child regarding the facilities of CCI.
 		- The individual care plan is reviewed every fortnight during first three months of stay in CCI, and thereafter every month. (Page 21)
+	- Maintenance of case file (Rule 73)Case file containing detailed information is maintained for each child, and is treated as confidential. It shall contain, inter alia, 
+		- report of the person or agency who produced the child before the CWC or JJB or Children’s Court, 
+		- police report, copy of FIR or daily diary entry,
+		-  photo ID (if available), 
+		- order of assignment of CW or CWO, 
+		- case history form, 
+		- report of any urgent need of the child,
+		-  psychosocial profiling of the child, 
+		- copy of personal belonging register,
+		-  rehabilitation card, 
+		- quarterly progress report,
+		-  feedback given by the child, 
+		- and annual photograph.
 		
 - **Procedure to be followed after three months** (Rule 69 J)
 	- Progress of the child is examined keeping in view the aims and targets noted in the individual care plan. 
@@ -146,12 +161,97 @@ tags: Practitioner
 	- Following consideration by the management committee; the individual care plan, daily routine and approach towards rehabilitation of the child are suitably modified, and noted in the case file.
 	- The child’s progress is recorded in the rehabilitation card in Form 14.  (Page 21)
 	
-- Standards of Care inStandards of Care inInstitutions ChildInstitutions ChildProcedure to be followed for release of the child from a CCI (Rule 79)The Person-in-charge of the CCI maintains a roster of the cases of children to be released.Information about the release including exact date of release is given to the parent or guardian of the child. The parent or guardian is called to the CCI on that date to take charge of the child. Expenses for travel of the child from the CCI and, if necessary, for parent’s or guardian’s both ways journey are paid to the parent or guardian. If the date of release falls on a Sunday or a public holiday, the child may be discharged on the preceding day. If parent or guardian fails to take charge of the child, an escort of the CCI (in case of girl, female escort) takes the child to parent or guardian for handing over the custody. The rule prescribes for the following financial and non-financial benefits linked to release: ª The child is provided with a set of suitable clothing and essential toiletries.ª On attaining 18 years of age, and if eligible, a child may be placed in an aftercare programme. This requires consent of the child, and approval of the Board or Committee or the Children’s Court.ª In suitable cases, the Person-in-charge may order payment of subsistence money and railway/road fares.ª If a girl child has no place to go and requests for stay in the CCI after completion of her period of stay, a limited period of stay, till suitable arrangement is made, is allowed subject to approval of the CWC or JJB or Children’s Court. (Page 22)
-- The Rule 69 N prescribes following actions to deal with unacceptable behaviour:  3Formal warning 3Assignment of house-keeping tasks 3Imposition writing i.e. writing a number of times that the child would not repeat the behaviour 3Forfeiture of privileges like television watching, sports, recreation and other outdoor activitiesThe rules, however, prohibit corporal punishment or any mental harassment of the child that affects the child’s dignity. Significantly, the JJ Rules 2016 not only elaborates the scope of good behaviour but also enjoins the CCI to reward children for exceptionally good behaviour. (Page 22)
-- StandarCCExceptionally good behaviour, according to JJ Rules 2016, include, inter alia, the following:  yAdherence to rules of discipline and routine yPreventing fellow children from violence and unacceptable behaviour yHelping other child coming out of trauma yInforming Person-in-charge about any prohibited article or contraband  yExceptionally good performance in studies and training yPositive and adaptive behaviour (Page 23)
-- Rule 76 of JJ Rules 2016 prescribes a set of actions that need to be performed if any physical, sexual or emotional abuse, including neglect, of the child occurs, as the flow chart below indicates. Incidence is reported by sta to Person-in-charge immediatelyPerson-in-charge reports to JJB/CWC which orders special investigationJJB/CWC directs local police station or special juvenile police unit to registera case, take cognizance of the matter and conduct investigationJJB/CWC ensures completion of inquiry, and provideslegal aid as well as counseling to the child victimJJB/CWC transfers the child victim to another institution or place ofsafety or t personPerson-in-charge also informs chairperson of management committee and places a report of the incident including action taken before management committee in its next meetingIn the event of any other crime, the JJB/CWC takes cognizance of the matter and arranges for its investigation by local police station or special juvenile police unitWhile dealing with the matter, JJB/CWC may consult children’s committee, voluntary organizations, child rights experts, mental health experts or crisis intervention centres. (Page 23)
-- InstitutInstitutMaintenance of case file (Rule 73)Case file containing detailed information is maintained for each child, and is treated as confidential. It shall contain, inter alia, report of the person or agency who produced the child before the CWC or JJB or Children’s Court, police report, copy of FIR or daily diary entry, photo ID (if available), order of assignment of CW or CWO, case history form, report of any urgent need of the child, psychosocial profiling of the child, copy of personal belonging register, rehabilitation card, quarterly progress report, feedback given by the child, and annual photograph. Maintenance of registers (Rule 77)The rule presents a list of 25 registers that the CCIs are required to maintain. For each register in the list, the designation of official who maintains it and the one who acts  as its custodian are stated. Except two registers namely Meals Register/Nutrition Diet  File and Visitors’ Book, the custodian of all other registers is the Person-in-charge. The officials who maintain the registers are the ones directly responsible for the specific function that the register is meant for. For example, cash book is maintained by Accounts Officer/Cashier, Counselling Register is maintained by Counsellor and so on. Openness and transparency  (Rule 78)CCIs remain open to visitors with the permission of the JJB or CWC or Person-in-charge. Visitors may include, inter alia, voluntary organizations, social workers, researchers and academicians. The Person-in-charge should also encourage involvement of local community or corporate that may improve condition of CCI. The Person-in-charge is also required to inform the visitors to maintain dignity of children. Prohibited articles  (Rule 70)No one is allowed to bring into the CCI the following articles:  yIntoxicants, psychotropic substances, liquor, bhang, ganja, opium, smack etc. yAll explosives, poisonous substances, acid and chemicals  yAll arms, ammunition, weapons, knives and cutting instruments  yAll obscene matter yString, rope, chains and all material which can be converted into string or rope or chain yWood, bamboo, club, stick, ladder, bricks, stone and earth of every description yPlaying cards and other implements for gambling yTobacco items, pan masala or similar item yMedicine that has not been specifically prescribed  yAny other articles specified by the State governmentAll bullion, metal, coin, jewellery, ornaments, currency notes, securities and articles of value like mobile phone, digital camera, i-pad etc. are required to be deposited in safe custody of CCI. (Page 24)
-- dards of Care inInstitutions Institutions Composition and functioning of management committee (Rule 39)Management committee of each CCI shall consist of District Child Protection Officer-Chairperson, Person-in-charge-Member Secretary, and the following as members: probation officer/child welfare officer/case worker, medical officer, psychologist/counselor, workshop supervisor/instructor in vocation, teacher, social worker member of JJB/CWC and two representatives from each of the children’s committees. The management committee shall meet at least once in a month to consider and review all matters pertaining to care of children like education, health including mental health, food, recreation, legal aid services, vocational training, release, restoration, rehabilitation, daily routine, community participation etc.Visit to and communication with children (Rule 74)The parents and relatives of children may be permitted to visit their children once in a week. In case of a newly received child, meeting with parent/guardian/relative is permitted on their first visit on any day. The rule does not permit meeting of children with parents or guardians or relatives who have been found to be involved in abuse, exploitation and violence against the child or carrying any prohibited articles. However, such meeting can take place with the permission of JJB or CWC or Children’s Court or under direction of child’s counselor.Children are allowed to write two letters to parents/relatives in a week. The role allows the Person-in-charge to peruse any letter written by or to the child, and refuse to deliver or issue it. The reason for such action is required to be written in the child’s case file. A report on the matter is placed before the CCI’s management committee, and a copy is sent to JJB or CWC or Children’s Court.Children are also allowed to speak with their parents or guardians on telephone once a week under supervision of CWO or CW or probation officer. The rule has details of procedures to be followed for allowing visitors to meet the child- disclosure of proof of identity by visitors, checking for objectionable articles etc.Death of a child  (Rule 75)In case of death or suicide, CCI must ensure an inquest and post-mortem examination at the earliest. The case worker or probation officer or child welfare officer immediately informs the Person-in-charge and the medical officer, and the Person-in-charge immediately informs the nearest police station, JJB or CWC and parents/guardians/relatives of the deceased child. In case of natural death or death due to illness, the Person-in-charge obtains a medical report stating the cause of death, and a written intimation is sent to nearest police station, JJB or CWC and parents/guardians/relatives of the child.If a child dies within 24 hours of admission to the CCI, the Person-in-Charge shall report the matter to the police, district medical officer or the nearest government hospital and the parents or guardians or relatives.Following completion of inquest, the body shall be handed over to the parent or guardian or relatives. In the absence of any claimant, the last rites shall be performed by the CCI in accordance with the child’s known religion.  (Page 25)
+- **Procedure to be followed for release of the child from a CCI (Rule 79)**
+	- The Person-in-charge of the CCI maintains a roster of the cases of children to be released.
+	- Information about the release including exact date of release is given to the parent or guardian of the child. 
+	- The parent or guardian is called to the CCI on that date to take charge of the child. 
+	- Expenses for travel of the child from the CCI and, if necessary, for parent’s or guardian’s both ways journey are paid to the parent or guardian.
+	-  If the date of release falls on a Sunday or a public holiday, the child may be discharged on the preceding day.
+	- If parent or guardian fails to take charge of the child, an escort of the CCI (in case of girl, female escort) takes the child to parent or guardian for handing over the custody.
+	- The rule prescribes for the following financial and non-financial benefits linked to release: 
+		- The child is provided with a set of suitable clothing and essential toiletries.
+		- On attaining 18 years of age, and if eligible, a child may be placed in an aftercare programme. This requires consent of the child, and approval of the Board or Committee or the Children’s Court.
+		- In suitable cases, the Person-in-charge may order payment of subsistence money and railway/road fares.
+		- If a girl child has no place to go and requests for stay in the CCI after completion of her period of stay, a limited period of stay, till suitable arrangement is made, is allowed subject to approval of the CWC or JJB or Children’s Court. (Page 22)
+# Child Safety		
+- **The Rule 69 N prescribes following actions to deal with unacceptable behaviour:** [Caregiving](Caregiving)
+	- Formal warning 
+	- Assignment of house-keeping tasks 
+	- Imposition writing i.e. writing a number of times that the child would not repeat the behaviour 
+	- Forfeiture of privileges like television watching, sports, recreation and other outdoor activities
+	- The rules, however, prohibit corporal punishment or any mental harassment of the child that affects the child’s dignity. 
+	- Significantly, the JJ Rules 2016 not only elaborates the scope of good behaviour but also enjoins the CCI to reward children for exceptionally good behaviour. (Page 22)
+		- Exceptionally good behaviour, according to JJ Rules 2016, include, inter alia, the following:
+		-  Adherence to rules of discipline and routine 
+		- Preventing fellow children from violence and unacceptable behaviour 
+		- Helping other child coming out of trauma 
+		- Informing Person-in-charge about any prohibited article or contraband  
+		- Exceptionally good performance in studies and training 
+		- Positive and adaptive behaviour (Page 23)
+		
+- **Rule 76 of JJ Rules 2016 prescribes a set of actions that need to be performed if any physical, sexual or emotional abuse, including neglect, of the child occurs** 
+	- Incidence is reported by staff to Person-in-charge immediately
+	- Person-in-charge reports to JJB/CWC which orders special investigation
+	- JJB/CWC directs local police station or special juvenile police unit to register a case, take cognizance of the matter and conduct investigation
+	- JJB/CWC ensures completion of inquiry, and provides legal aid as well as counseling to the child victim
+	- JJB/CWC transfers the child victim to another institution or place of safety  
+	- Person-in-charge also informs chairperson of management committee and places a report of the incident including action taken before management committee in its next meeting
+	- In the event of any other crime, the JJB/CWC takes cognizance of the matter and arranges for its investigation by local police station or special juvenile police unit
+	- While dealing with the matter, JJB/CWC may consult children’s committee, voluntary organizations, child rights experts, mental health experts or crisis intervention centres. (Page 23)
+
+# [CCI Operations](CCI%20Operations)
+- **Maintenance of registers (Rule 77)The rule presents a list of 25 registers that the CCIs are required to maintain.** 
+- For each register in the list, the designation of official who maintains it and the one who acts  as its custodian are stated. 
+	- Except two registers namely 
+		- Meals Register/Nutrition Diet  File and Visitors’ Book, the custodian of all other registers is the Person-in-charge.
+		- The officials who maintain the registers are the ones directly responsible for the specific function that the register is meant for.
+		- For example, cash book is maintained by Accounts Officer/Cashier, Counselling Register is maintained by Counsellor and so on.
+- **Openness and transparency  (Rule 78)CCIs remain open to visitors with the permission of the JJB or CWC or Person-in-charge.**
+	- Visitors may include, inter alia, 
+		- voluntary organizations
+		- social workers
+		- researchers 
+		- academicians. 
+	- The Person-in-charge should also encourage involvement of local community or corporate that may improve condition of CCI. 
+	- The Person-in-charge is also required to inform the visitors to maintain dignity of children.
+- **Prohibited articles  (Rule 70)No one is allowed to bring into the CCI the following articles:**  
+	- Intoxicants, psychotropic substances, liquor, bhang, ganja, opium, smack etc. 
+	- All explosives, poisonous substances, acid and chemicals  
+	- All arms, ammunition, weapons, knives and cutting instruments  
+	- All obscene matter 
+	- String, rope, chains and all material which can be converted into string or rope or chain 
+	- Wood, bamboo, club, stick, ladder, bricks, stone and earth of every description 
+	- Playing cards and other implements for gambling 
+	- Tobacco items, pan masala or similar item 
+	- Medicine that has not been specifically prescribed  
+	- Any other articles specified by the State government
+	- All bullion, metal, coin, jewellery, ornaments, currency notes, securities and articles of value like mobile phone, digital camera, i-pad etc. are required to be deposited in safe custody of CCI. (Page 24)
+- **Composition and functioning of management committee (Rule 39)**
+	- Management committee of each CCI shall consist of:
+		-  District Child Protection Officer-Chairperson, 
+		- Person-in-charge-Member Secretary, 
+		-  probation officer/child welfare officer/case worker,
+		-  medical officer,
+		-  psychologist/counselor, 
+		- workshop supervisor/instructor in vocation,
+		-  teacher, 
+		- social worker member of JJB/CWC 
+		- and two representatives from each of the children’s committees. 
+	- The management committee shall meet at least once in a month to consider and review all matters pertaining to care of children like education, health including mental health, food, recreation, legal aid services, vocational training, release, restoration, rehabilitation, daily routine, community participation etc.
+- **Visit to and communication with children (Rule 74)** [Restoration](Restoration)
+	- The parents and relatives of children may be permitted to visit their children once in a week.
+	-  In case of a newly received child, meeting with parent/guardian/relative is permitted on their first visit on any day.
+	-  The rule does not permit meeting of children with parents or guardians or relatives who have been found to be involved in abuse, exploitation and violence against the child or carrying any prohibited articles. 
+	- However, such meeting can take place with the permission of JJB or CWC or Children’s Court or under direction of child’s counselor.
+	- Children are allowed to write two letters to parents/relatives in a week. 
+	- The role allows the Person-in-charge to peruse any letter written by or to the child, and refuse to deliver or issue it. The reason for such action is required to be written in the child’s case file. A report on the matter is placed before the CCI’s management committee, and a copy is sent to JJB or CWC or Children’s Court.
+	- Children are also allowed to speak with their parents or guardians on telephone once a week under supervision of CWO or CW or probation officer. 
+	- The rule has details of procedures to be followed for allowing visitors to meet the child- disclosure of proof of identity by visitors, checking for objectionable articles etc.
+- **Death of a child  (Rule 75)In case of death or suicide, CCI must ensure an inquest and post-mortem examination at the earliest**
+	- The case worker or probation officer or child welfare officer immediately informs the Person-in-charge and the medical officer, and the Person-in-charge immediately informs the nearest police station, JJB or CWC and parents/guardians/relatives of the deceased child. 
+	- In case of natural death or death due to illness, the Person-in-charge obtains a medical report stating the cause of death, and a written intimation is sent to nearest police station, JJB or CWC and parents/guardians/relatives of the child.
+	- If a child dies within 24 hours of admission to the CCI, the Person-in-Charge shall report the matter to the police, district medical officer or the nearest government hospital and the parents or guardians or relatives.
+	- Following completion of inquest, the body shall be handed over to the parent or guardian or relatives. In the absence of any claimant, the last rites shall be performed by the CCI in accordance with the child’s known religion.  (Page 25)
 - Standards of CareInstitutons Child Institutns Child Child suffering from disease and some related matter  (Rule 80)For a child in need of prolonged medical treatment (like cases of mental illness, addiction to drugs, alcohol etc.), the CWC or JJB or Children’s Court may send the child to a fit facility for proper treatment for a specified period. The order is based on recommendation of a medical officer or the Person-in-charge or Probation Officer or CWO or CW. Following cure, the CWC or JJB of Children’s Court places the child back in the care or discharges if further care is not required. Leave of absence to a child  (Section 98, JJ Act 2015) Children are allowed to go on leave of absence or released under supervision on special occasions like examination, marriage, death, serious illness or other emergencies. Leave of absence is generally granted for a period not exceeding seven days. The permission for this is given by CWC or JJB as the case may be. Inspection by state government (Rule 41 and Section 54 of JJ Act 2015) and evaluation (Rule 42)State governments are required to constitute inspection committees for State and district for the CI registered or recognized under the JJ Act 2015. While inspections are made once in three months, reports are submitted to DCPU and state government within a week, and actions are taken within a month. Evaluation of CCIs may be done by Central Government or State Government once in three years. Its purpose is to strengthen and improve functioning.Personnel for CCI (Rule 26)The rule deals with the basis for staffing like categories of children, capacity of CCI, nature of duties, hours of duty etc. While key regular staff include person-in-charge, probation officer/CWO/CW, counselor/psychologist/mental health expert, house mother/house father, para-medical staff/staff nurse/nursing orderly and storekeeper-cum-accountant; educator/tutor, medical officer, art & craft & activity teacher and PT instructor-cum-yoga teacher psychiatrist may be hired as part-time staff. The rule suggests a staffing pattern for a CCI with capacity for 100 children. Some other important conditions to be followed include the following: yOnly female person-in-charge and staff to be appointed for CCIs housing girls yThose associated with CCIs should not be convicted persons or those involved in immoral act, child abuse, employment of child labour, moral turpitude or should hold any political office during his/her tenure yNo one should be appointed or work in CCIs without police verification. yCCIs housing infants should hire ayahs and paramedical staff as per need. (Page 26)
 - Standards of CStandards of CChild Child Rehabilitation and Reintegration services in institutions registered under the JJ Act, 2015i. Basic requirements such as food, shelter, clothing and medical attention as per the prescribed standardsii. Equipment such as wheel-chairs, prosthetic devices, hearing aids, Braille kits, or any other suitable aids and appliances as required, for children with special needsiii. Appropriate education, including supplementary education, special education, and appropriate education for children with special needs (Provided that for children between the age of six to fourteen years, the provisions of the Right of Children to Free and Compulsory Education Act, 2009 shall apply)iv. Skill developmentv. Occupational therapy and life skill educationvi. Mental health interventions, including counselling specific to the need of the childvii. Recreational activities including sports and cultural activitiesviii. Legal aid where requiredix. Referral services for education, vocational training, de-addiction, treatment of diseases where requiredx. Case management including preparation and follow up of individual care planxi. Birth registrationxii. Assistance for obtaining the proof of identity, where requiredxiii. Any other service that may reasonably be provided in order to ensure the well-being of the child, either directly by the State Government, registered or fit individuals or institutions or through referral servicesReference: Section 53(1), JJ Act, 2015 (Page 27)
 - Child Child Some Institutional Care Practices in India and across the World (Page 29)
