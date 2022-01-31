@@ -7,11 +7,9 @@
         "id": "b25c2473cbbe8c59",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/India/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
-            "mode": "source",
-            "source": false
+            "file": "Volume 1/Volume 1 Public Resource Links/Other service providers/UdayanCare_Standardsofcareinchildcareinstitutions (1).pdf"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/India/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
+                "file": "Volume 1/Volume 1 Public Resource Links/Other service providers/UdayanCare_Standardsofcareinchildcareinstitutions (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/India/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
+                "file": "Volume 1/Volume 1 Public Resource Links/Other service providers/UdayanCare_Standardsofcareinchildcareinstitutions (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,6 +110,8 @@
   },
   "active": "b25c2473cbbe8c59",
   "lastOpenFiles": [
+    "Volume 1/Volume 1 Public Resource Links/Other service providers/UdayanCare_Standardsofcareinchildcareinstitutions (1).pdf",
+    "Volume 1/Volume 1 Index.md",
     "Volume 1/Reference Reading/Research Papers/India/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
     "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
     "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
@@ -119,8 +119,6 @@
     "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
     "Volume 1/Reference Reading/Governments & UN/Highlights for Guidelines on Alternative Care_UN.md",
-    "Volume 1/Reference Reading/Master Reading List.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
-    "conflict-files-obsidian-git.md"
+    "Volume 1/Reference Reading/Master Reading List.md"
   ]
 }
