@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "82a7f73fa8a119d2",
+        "id": "71c05d90f17e4e10",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/PDF Annotate.md",
+            "file": "Public Resource Links/Queue/Volume 2 Queue/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/PDF Annotate.md",
+                "file": "Public Resource Links/Queue/Volume 2 Queue/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/PDF Annotate.md",
+                "file": "Public Resource Links/Queue/Volume 2 Queue/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,19 +107,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.0242004394531
+    "width": 496.0242004394531,
+    "collapsed": true
   },
-  "active": "82a7f73fa8a119d2",
+  "active": "71c05d90f17e4e10",
   "lastOpenFiles": [
-    "Templates/PDF Annotate.md",
-    "Templates/PDF Notes.md",
-    "Volume 2/Domestic CCIs.md",
+    "Public Resource Links/Queue/Volume 2 Queue/Untitled.md",
+    "Public Resource Links/Queue/Untitled.md",
+    "Public Resource Links/Program Design/Program&techecosystem.png",
+    "Volume 1/Reference Reading/Research Papers/Highlights for The nutritional status of children living within institutionalized care _ a systematic review.md",
+    "Volume 1/Reference Reading/Research Papers/Highlights for Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
+    "Volume 1/Reference Reading/Books/Rethinking Orphanages for the 21st Century.md",
+    "Volume 1/Reference Reading/Governments & UN/Highlights for Guidelines on Alternative Care_UN.md",
     "Volume 1/Volume 1 Index.md",
-    "Volume 1/Roll Ups/Risks.md",
     "Volume 2/Volume 2 Index.md",
-    "conflict-files-obsidian-git.md",
-    "Templates/Note Taking Instructions.md",
-    "Templates/Set up instructions.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Highlights for Aangan - Changing Spaces.md"
+    "templates/post.md"
   ]
 }
