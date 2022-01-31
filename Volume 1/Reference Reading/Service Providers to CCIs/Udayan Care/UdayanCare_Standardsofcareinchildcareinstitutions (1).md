@@ -24,13 +24,13 @@ tags: Practitioner
 - States should ensure that there are sufficient carers in residential care settings to allow individualized attention and to give the child, where appropriate, the opportunity to bond with a specific carer. Carers should also be deployed within the care setting in such a way as to implement effectively its aims and objectives and ensure child protection.
 - (Paragraph 126)Laws, policies and regulations should prohibit the recruitment and solicitation of children for placement in residential care by agencies, facilities or individuals.(Paragraph 127) (Page 13)
 
-## Types of CCI Registrations
+## Standardization of Care
 
+- [[CCICompliance]]
 - Under Section 41(6) of the JJ Act 2015, the period of registration of an institution shall be valid for five years, with the provision for renewal in every five years. 
 - The Act also stipulates granting of provisional registration, with six months validity, within one month of receipt of an application for registration Section 41(3). 
 - According to Rule 21 of the JJ Rules 2016, application for registration of CCI is required to be submitted in Form 27 together with copies of following documents:  
-	 - Rules 
-	- Bye-laws 
+	- Rules & Bye-laws 
 	- Memorandum of Association 
 	- List of governing body 
 	- Office bearers 
@@ -38,16 +38,114 @@ tags: Practitioner
 	- Balance sheet of preceding three years 
 	- Statement of past record of social or public service provided by the CCI to state government 
 	- Declaration from the person or the organization regarding any previous conviction, or involvement in any immoral act or child abuse or employment of child labour, or it has not been blacklisted by the Central or State Government (Page 14)
-- Physical infrastructure (Rule 29)Separation of premises for children in conflict with law and those in need of care and protection; criteria for accommodation like separate CCIs for girls and boys; classification and segregation according to age, nature of offences (applicable for juvenile in conflict with law) and mental and physical status; and norms for building; proper and non-slippery flooring; lighting, ventilation, heating, cooling, toilet (gender and age appropriate and disabled friendly), water, first-aid kit, fire extinguishers; dormitories, and rooms for vocational training, recreation, store and counselling; periodic inspection of electrical installations; proper storage and inspection of food; facilities and equipment for differently-abled children; other logistical and functional items like computers, photocopiers, printer, telephone with internet, furniture and projector.CCIs should be child-friendly and should not look like a jail or lock-up.Clothing, bedding and toiletries (Rule 30)Clothing and bedding according to scale and climatic conditions; miscellaneous items like slippers, shoes (sports/school), school uniform, school bag, handkerchief, socks, stationery etc.; suit once in three years; night clothing and bedding for hospitals attached to CCIs; and toiletries like oil, soap and other material like broomstick, mosquito repellant machine etc. as per scale.Sanitation and hygiene (Rule 31)Facilities like water for drinking and other purposes, proper drainage, garbage disposal, pest control, toilets (at least one for seven children), bathroom (at least one for 10 children), fly-proof kitchen, disinfection of beddings etc.Daily routine (Rule 32)These are children’s daily activities meant for a regulated and disciplined life which include, inter alia, personal hygiene, cleanliness, educational classes, physical exercise, vocational training, recreation and games, moral education, group activities and prayers.  (Page 17)
-- f Caref CareInstitutChild InstitutChild Nutrition and diet scale  (Rule 33)Quality and quantity of food that children under institutional care are entitled to receive daily, adherence to diet scale and minimum nutritional standard, provision for special meals on holidays and festivals, special diet for infants and sick children, and meal timing and menuMedical care (Rule 34)Arrangements for medical facilities, maintenance of medical record of each child, referral services, immunization, counselling, training of staff on first aid, preventive healthcare, entry-level investigation of Complete Blood Count, Urine Routine, HIV, VDRL, Hepatitis B, Hepatitis C and allergy/addiction to drugs, and psycho-social profile of each childMental health (Rule 35)Maintenance of mental health record, enabling environment in CCIs that nourishes mental health, individual therapy, services of trained counselors, and psychological evaluation and diagnosis under trained professionalsEducation (Rule 36)Education according to age and ability of child both inside CCIs or outside, a range of educational opportunities (like mainstream school, bridge school, open school and non-formal education), specialized trainers and experts for children with special needs, and extra coaching according to needsVocational training (Rule 37)Vocational training according to age, aptitude, interest and ability of children, in-house training or training in collaboration with external institutions. It covers occupational therapy, and skill and interest based training having potential for placement.Recreational facilities (Rule 38)Indoor and outdoor games, yoga, meditation, music, television, picnics and outings and cultural programmes, gardening, library, dance, art therapy etc., and child-friendly library (Page 18)
-- Children as Members of Management Committee: According to Rule 39 (3) of the JJ Rules 2016, the management committee of a child care institution shall have ‘two child representatives from each of the Children’s Committees’ as members.  yChildren’s Suggestion Box: The management committee of every CCI is required to put in place a complaint and redressal mechanism for the benefit of children. According to Rule 39 (5) of the JJ Rules 2016, a Children’s Suggestion Box shall be installed closer to the residential area of CCI, so that children can have easy access to the facility. The Chairperson of the management committee or his representative from DCPU checks the suggestions of children every week in presence of members of children’s committees. The Rule also requires the Chairperson to call for an emergency meeting of the management committee to discuss and act on  (Page 18)
-- Standards of Care inStandards of Care inChild suggestions of urgent nature. Besides other members, two members of the children’s committee participate in any such emergency meeting. The suggestions received through Suggestion Box and actions taken on the basis of emergency meeting are discussed and reviewed in the monthly meeting of the management committee.  yChildren’s Suggestion Book: Under the above-cited rule, every child care institution is required to maintain a Children’s Suggestion Book (CSB) in order to record complaints and actions taken by the management committee. These particulars are intimated to children’s committees every month after meeting of the management committee. The CSB is reviewed by management committee at least once a month.  yChildren’s Committees: The system of children’s committee is a mechanism for ensuring involvement of children in the decision-making processes of the institution. According to Rule 40 of the JJ Rules 2016, every CCI should facilitate setting up of children’s committees for three different age groups of children namely 6-10 years, 11-15 years and 16-18 years. Significantly, children’s committees shall be solely constituted by children. Besides participation in management through the management committee, these committees are encouraged to participate in the following activities:  3Improvement of the condition of CCI  3Review of standards of care  3Preparation of daily routine and diet scale 3Development of plans for education, vocational training and recreation 3Crisis management amongst themselves 3Reporting abuse by peers and caregivers 3Creative expression of views through wall papers, paintings, newsletter etc. As facilitators of the process, the child care institutions are required to ensure that the children’s committees meet every month, their records are maintained properly, and are provided with necessary support, space, stationery and guidance.  (Page 19)
-- tandards of Care intandards of Care inProcedures to be followed at the time of receiving a child (Rule 69 F) (Page 20)
-- The child’s full personal description is noted in admission and discharge register. The child is searched with decency and dignity, and personal belongings are kept according to  Rule 71 (articles found on search and inspection) and Rule 72 (disposal of articles).Food and drink are given to the child, if the child is hungry.Necessary medical care is provided to the child in case of ill health, injury, mental ailment,  disease or addiction.Segregation of the child in specially earmarked dormitory or ward or hospital if the child is  suffering from contagious or infectious disease requiring special care and cautionA note on status of the child’s immediate and urgent needs, if any, like appearing in an examination or interview or contacting family members is prepared and put up before the Child Welfare Officer (CWO)  or Case Worker (CW) to whom the child is assigned. The note is also kept in the child’s case file. (Page 20)
-- Procedures to be followed after the child is received (Rule 69 G) (Page 20)
-- The child is photographed. One photograph is kept in the case file, one is fixed in the index card, one is kept in the album, and one is sent to the CWC or JJB as well as the DCPU. The photograph is also uploaded on the designated portal. The child may take a bath. Toiletry items, new clothes, bedding and other outfits and equipment are issued to the child as per Rule 30 of JJ Rules 2016, and a list these items are kept in case file.The child is familiarized with CCI and its functioning (like discipline, daily routine, rights and obligations, personal health etc.)Examination of the child by a medical officer, and the child’s state of health, including wound or mark on the body, is recorded and placed in the medical record of the childA CWO or CW is assigned to the child by the CCI (Page 20)
-- Standards of Care inStandards of Care inChild Child Procedures to the followed during first fourteen days of receiving the child (Rule 69 H)The assigned CWO or CW interacts with the child as often as possible.The child may be examined by a panel of doctors, if necessary, within two days. The purpose is to understand physical, medical, psychological state and level of addiction, if any, for assessing the child’s personality and for generating inputs for rehabilitation plan. The concerned CWO or CW interacts with possible and available sources like family members, friends, relatives, employer, community of the child and others. The purpose is to prepare a case history in Form No. 43 and maintain in the child’s case file.The concerned CWO or CW assesses the educational level and vocational aptitude on the basis of tests and interviews. Linkages with outside specialists like psychologist and psychiatrist, and agencies like hospital and NGOs shall be established as necessary.A CWO or CW is assigned to the child by the CCIProcedure to be followed on expiry of first fourteen days (Rule 69 I)The child is shifted to a regular dormitory of CCI. The child is assigned a specific bed, cabinet and study table in the dormitory. This is done keeping in view the child’s age, nature of offence committed by or against the child, and physical and mental status. Children in need of special care are allotted different dormitory. An individual care plan is prepared keeping in view the child’s case history, education and vocational aptitude. For children under rehabilitation stay, the care plan covers the entire period of stay; and it accommodates the directions of CWC, JJB and children’s court. Form 7 given in JJ Rules 2016 is used for preparing individual care plan. Individual care plan is reviewed by CWO or CWCWO or CW maintains a record of difficulties, if any, faced by the child during the period of stay in CCI. CWO or CW keeps of a record of complaints by the child regarding the facilities of CCI.The individual care plan is reviewed every fortnight during first three months of stay in CCI, and thereafter every month. (Page 21)
-- Procedure to be followed after three months (Rule 69 J)Progress of the child is examined keeping in view the aims and targets noted in the individual care plan. The management committee of CCI perused the quarterly progress report of the child.Following consideration by the management committee; the individual care plan, daily routine and approach towards rehabilitation of the child are suitably modified, and noted in the case file. The child’s progress is recorded in the rehabilitation card in Form 14.  (Page 21)
+- Physical infrastructure [[Infrastructure]] (Rule 29)
+	- Separation of premises for children in conflict with law and those in need of care and protection;
+	-  criteria for accommodation like separate CCIs for girls and boys;
+	-  classification and segregation according to age, nature of offences (applicable for juvenile in conflict with law) and mental and physical status; 
+	- and norms for building; proper and non-slippery flooring; lighting, ventilation, heating, cooling, toilet (gender and age appropriate and disabled friendly), water, first-aid kit, fire extinguishers; dormitories, and rooms for vocational training, recreation, store and counselling;
+	-  periodic inspection of electrical installations; proper storage and inspection of food; facilities and equipment for differently-abled children;other logistical and functional items like computers, photocopiers, printer, telephone with internet, furniture and projector.
+	- CCIs should be child-friendly and should not look like a jail or lock-up.
+- Clothing, bedding and toiletries [Hygiene](Hygiene) (Rule 30)
+	- Clothing and bedding according to scale and climatic conditions; 
+	- miscellaneous items like slippers, shoes (sports/school), school uniform, school bag, handkerchief, socks, stationery etc.; suit once in three years;
+	-  night clothing and bedding for hospitals attached to CCIs; 
+	- and toiletries like oil, soap and other material like broomstick, mosquito repellant machine etc. as per scale.
+- Sanitation and [Hygiene](Hygiene)(Rule 31)
+	- Facilities like water for drinking and other purposes
+	- proper drainage, garbage disposal, pest control
+	- toilets (at least one for seven children), bathroom (at least one for 10 children) 
+	- fly-proof kitchen, disinfection of beddings etc.
+- Daily routine [Caregiving](Caregiving)(Rule 32)
+	- These are children’s daily activities meant for a regulated and disciplined life which include, inter alia, personal hygiene, cleanliness, educational classes, physical exercise, vocational training, recreation and games, moral education, group activities and prayers.  (Page 17)
+- Child [[Nutrition]] and diet scale  (Rule 33)
+	- Quality and quantity of food that children under institutional care are entitled to receive daily,
+	-  adherence to diet scale and minimum nutritional standard, 
+	- provision for special meals on holidays and festivals, 
+	- special diet for infants and sick children, 
+	- and meal timing and menu
+- [Physical Health](Volume%201/Roll%20Ups/Physical%20Health.md) (Rule 34)
+	- Arrangements for medical facilities, 
+	- maintenance of medical record of each child,
+	-  referral services, 
+	- immunization, 
+	-  counselling,
+	-  training of staff on first aid, 
+	- preventive healthcare, 
+	- entry-level investigation of Complete Blood Count, Urine Routine, HIV, VDRL, Hepatitis B, Hepatitis C and allergy/addiction to drugs
+	- and psycho-social profile of each child
+- [Mental Health](Mental%20Health) (Rule 35)
+	- Maintenance of mental health record, 
+	- enabling environment in CCIs that nourishes mental health,
+	-  individual therapy, 
+	- services of trained counselors, and
+	-  psychological evaluation and diagnosis under trained professionals
+	
+- [Education](Education) (Rule 36)
+	- Education according to age and ability of child both inside CCIs or outside,
+	-  a range of educational opportunities (like mainstream school, bridge school, open school and non-formal education), 
+	- specialized trainers and experts for children with special needs, 
+	- and extra coaching according to needs
+- Vocational training (Rule 37)
+	- Vocational training according to age, aptitude, interest and ability of children, in-house training or training in collaboration with external institutions.
+	-  It covers occupational therapy, and skill and interest based training having potential for placement.
+- Recreational facilities [[Play]] (Rule 38)
+	- Indoor and outdoor games, yoga, meditation, music, television, picnics and outings and cultural programmes, gardening, library, dance, art therapy etc., and child-friendly library (Page 18)
+- Children's Participation [[Childrens Committees]]
+	- Children as Members of Management Committee: According to Rule 39 (3) of the JJ Rules 2016, the management committee of a child care institution shall have ‘two child representatives from each of the Children’s Committees’ as members.  
+	- Children’s Suggestion Box: The management committee of every CCI is required to put in place a complaint and redressal mechanism for the benefit of children. According to Rule 39 (5) of the JJ Rules 2016, a Children’s Suggestion Box shall be installed closer to the residential area of CCI, so that children can have easy access to the facility. The Chairperson of the management committee or his representative from DCPU checks the suggestions of children every week in presence of members of children’s committees. 
+	- The Rule also requires the Chairperson to call for an emergency meeting of the management committee to discuss and act on feedback  suggestions of urgent nature (Page 18). Besides other members, two members of the children’s committee participate in any such emergency meeting. The suggestions received through Suggestion Box and actions taken on the basis of emergency meeting are discussed and reviewed in the monthly meeting of the management committee.  
+	- Children’s Suggestion Book: Under the above-cited rule, every child care institution is required to maintain a Children’s Suggestion Book (CSB) in order to record complaints and actions taken by the management committee. These particulars are intimated to children’s committees every month after meeting of the management committee. The CSB is reviewed by management committee at least once a month.  
+	- Children’s Committees: The system of children’s committee is a mechanism for ensuring involvement of children in the decision-making processes of the institution. According to Rule 40 of the JJ Rules 2016, every CCI should facilitate setting up of children’s committees for three different age groups of children namely 6-10 years, 11-15 years and 16-18 years. Significantly, children’s committees shall be solely constituted by children. Besides participation in management through the management committee, these committees are encouraged to participate in the following activities:  
+		- Improvement of the condition of CCI  
+		- Review of standards of care  
+		- Preparation of daily routine and diet scale 
+		- Development of plans for education, vocational training and recreation 
+		- Crisis management amongst themselves 
+		- Reporting abuse by peers and caregivers 
+		- Creative expression of views through wall papers, paintings, newsletter etc.
+		-  As facilitators of the process, the child care institutions are required to ensure that the children’s committees meet every month, their records are maintained properly, and are provided with necessary support, space, stationery and guidance.  (Page 19)
+
+# [[Admissions]]
+
+- **Procedures to be followed at the time of receiving a child (Rule 69 F) (Page 20)**
+	- The child’s full personal description is noted in admission and discharge register. 
+	- The child is searched with decency and dignity, and personal belongings are kept according to  Rule 71 (articles found on search and inspection) and Rule 72 (disposal of articles)
+	- .Food and drink are given to the child, if the child is hungry.
+	- Necessary medical care is provided to the child in case of ill health, injury, mental ailment,  disease or addiction.
+	- Segregation of the child in specially earmarked dormitory or ward or hospital if the child is suffering from contagious or infectious disease requiring special care and caution
+	- A note on status of the child’s immediate and urgent needs, if any, like appearing in an examination or interview or contacting family members is prepared and put up before the Child Welfare Officer (CWO)  or Case Worker (CW) to whom the child is assigned. The note is also kept in the child’s case file. (Page 20)
+- **Procedures to be followed after the child is received (Rule 69 G) (Page 20)**
+	- The child is photographed. One photograph is kept in the case file, one is fixed in the index card, one is kept in the album, and one is sent to the CWC or JJB as well as the DCPU. The photograph is also uploaded on the designated portal. 
+	- The child may take a bath. Toiletry items, new clothes, bedding and other outfits and equipment are issued to the child as per Rule 30 of JJ Rules 2016, and a list these items are kept in case file.
+	- The child is familiarized with CCI and its functioning (like discipline, daily routine, rights and obligations, personal health etc.)
+	- Examination of the child by a medical officer, and the child’s state of health, including wound or mark on the body, is recorded and placed in the medical record of the child
+	- A Case Worker is assigned to the child by the CCI (Page 20)
+	
+- **Child Procedures to the followed during first fourteen days of receiving the child** (Rule 69 H)
+	- The assigned case worker interacts with the child as often as possible.
+	- The child may be examined by a panel of doctors, if necessary, within two days. The purpose is to understand physical, medical, psychological state and level of addiction, if any, for assessing the child’s personality and for generating inputs for rehabilitation plan. 
+	- The concerned case worker interacts with possible and available sources like family members, friends, relatives, employer, community of the child and others. The purpose is to prepare a case history in Form No. 43 and maintain in the child’s case file.
+	- The concerned CWO(Child Welfare Officer) or CW(Case Worker) assesses the educational level and vocational aptitude on the basis of tests and interviews. 
+	- Linkages with outside specialists like psychologist and psychiatrist, and agencies like hospital and NGOs shall be established as necessary.
+	 
+-  **Procedures to be follow after the expiry of first fourteen days** (Rule 69 I)
+	- The child is assigned a CWO/CW
+	- The child is shifted to a regular dormitory of CCI. 
+	- The child is assigned a specific bed, cabinet and study table in the dormitory. 
+	- This is done keeping in view the child’s age, nature of offence committed by or against the child, and physical and mental status.
+	- Children in need of special care are allotted different dormitory. 
+	- For children under rehabilitation stay, the care plan covers the entire period of stay; and it accommodates the directions of CWC, JJB and children’s court.
+	- [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md): Form 7 given in JJ Rules 2016 is used for preparing individual care plan. An individual care plan is prepared keeping in view the child’s case history, education and vocational aptitude. 
+		- Individual care plan is reviewed by CWO or CWCWO or CW maintains a record of difficulties, if any, faced by the child during the period of stay in CCI. 
+		- CWO or CW keeps of a record of complaints by the child regarding the facilities of CCI.
+		- The individual care plan is reviewed every fortnight during first three months of stay in CCI, and thereafter every month. (Page 21)
+		
+- **Procedure to be followed after three months** (Rule 69 J)
+	- Progress of the child is examined keeping in view the aims and targets noted in the individual care plan. 
+	- The management committee of CCI perused the quarterly progress report of the child.
+	- Following consideration by the management committee; the individual care plan, daily routine and approach towards rehabilitation of the child are suitably modified, and noted in the case file.
+	- The child’s progress is recorded in the rehabilitation card in Form 14.  (Page 21)
+	
 - Standards of Care inStandards of Care inInstitutions ChildInstitutions ChildProcedure to be followed for release of the child from a CCI (Rule 79)The Person-in-charge of the CCI maintains a roster of the cases of children to be released.Information about the release including exact date of release is given to the parent or guardian of the child. The parent or guardian is called to the CCI on that date to take charge of the child. Expenses for travel of the child from the CCI and, if necessary, for parent’s or guardian’s both ways journey are paid to the parent or guardian. If the date of release falls on a Sunday or a public holiday, the child may be discharged on the preceding day. If parent or guardian fails to take charge of the child, an escort of the CCI (in case of girl, female escort) takes the child to parent or guardian for handing over the custody. The rule prescribes for the following financial and non-financial benefits linked to release: ª The child is provided with a set of suitable clothing and essential toiletries.ª On attaining 18 years of age, and if eligible, a child may be placed in an aftercare programme. This requires consent of the child, and approval of the Board or Committee or the Children’s Court.ª In suitable cases, the Person-in-charge may order payment of subsistence money and railway/road fares.ª If a girl child has no place to go and requests for stay in the CCI after completion of her period of stay, a limited period of stay, till suitable arrangement is made, is allowed subject to approval of the CWC or JJB or Children’s Court. (Page 22)
 - The Rule 69 N prescribes following actions to deal with unacceptable behaviour:  3Formal warning 3Assignment of house-keeping tasks 3Imposition writing i.e. writing a number of times that the child would not repeat the behaviour 3Forfeiture of privileges like television watching, sports, recreation and other outdoor activitiesThe rules, however, prohibit corporal punishment or any mental harassment of the child that affects the child’s dignity. Significantly, the JJ Rules 2016 not only elaborates the scope of good behaviour but also enjoins the CCI to reward children for exceptionally good behaviour. (Page 22)
 - StandarCCExceptionally good behaviour, according to JJ Rules 2016, include, inter alia, the following:  yAdherence to rules of discipline and routine yPreventing fellow children from violence and unacceptable behaviour yHelping other child coming out of trauma yInforming Person-in-charge about any prohibited article or contraband  yExceptionally good performance in studies and training yPositive and adaptive behaviour (Page 23)
