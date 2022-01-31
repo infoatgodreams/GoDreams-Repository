@@ -1,10 +1,10 @@
 ---
 title: Institutional Care for Young Children - Lit Review
-author: 
+author: Navneeth
 ---
 
-Scope:  Literature review for effects of institutional care on children <5 years. 
-Link: 
+Scope:  Literature review for effects of institutional care on children <5 years. University of Delaware.
+Link: https://drive.google.com/file/d/1FmvkXCpZOz1YIF-cSuF_gAGw5TSMSItX/view?usp=sharing 
 
 # CCI Operations
 - certain modal features of institutional care that have characterized settings across countries and continents:

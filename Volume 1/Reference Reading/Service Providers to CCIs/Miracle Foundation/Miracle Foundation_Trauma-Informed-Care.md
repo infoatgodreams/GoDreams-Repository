@@ -5,7 +5,7 @@ author: Miracle Foundation
 Tags: [TIC-Trauma Informed Care](TIC-Trauma%20Informed%20Care)  [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md) [[Harris and Fallot’s Using Trauma Theory to Design Service Systems]]  [[Mental Health]]  [[Individualised Care]] [[Restoration]] #practitioners 
 
 Status: [ReferenceReading](ReferenceReading)
-Link: [Trauma Informed Care in CCIs](https://drive.google.com/file/d/1U2Cq2V06hDbn9WQwioy8uHXyLkyOmE6T/view?usp=sharing)
+Link: https://drive.google.com/file/d/1XoYO7EMTQ4h07bsPBPFXp2wQ_jy6Q6Hn/view?usp=sharing
 ## Trauma Informed Care
 - The article defines the principles of TIC-Trauma Informed Care: safety, choice, collaboration, trustworthinessand empowerment. (Page 1) 
 - Evidence indicates that early separation from parents is a risk factor for developing a chronic response to traumatic stressors, meaning that an individual would beless able to positively cope with negative stressors that come up in their life(Udayan Care, 2014). (Page 2)
