@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "e2b3aa1f366a4110",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Highlights for CNCP-Paper copy.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 2/Highlights for CNCP-Paper copy.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,14 +122,14 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "ff0ae595ce237c69",
+  "active": "e2b3aa1f366a4110",
   "lastOpenFiles": [
-    "Volume 2/Highlights for CNCP-Paper copy.md",
-    "Volume 2/CNCP-Paper copy.pdf",
     "conflict-files-obsidian-git.md",
+    "Volume 2/Highlights for CNCP-Paper copy.md",
+    "Volume 2/Domestic CCIs.md",
+    "Volume 2/CNCP-Paper copy.pdf",
     "Public Resource Links/Program Design/Field Guide to Human-Centered Design_IDEOorg_English.pdf",
     "Untitled.md",
-    "Volume 2/Domestic CCIs.md",
     "Templates/PDF Annotate.md",
     "Volume 2/Volume 2 Index.md",
     "Templates/Note Taking Instructions.md",
