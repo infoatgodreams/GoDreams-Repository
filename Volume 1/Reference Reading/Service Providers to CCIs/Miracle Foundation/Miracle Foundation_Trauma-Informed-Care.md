@@ -18,8 +18,8 @@ Link: [Trauma Informed Care in CCIs](https://drive.google.com/file/d/1U2Cq2V06hD
 	•Safety: Ensuring individual’s physical and emotional safety. 
 	•Choice: Individual has choice and control. They are made well aware oftheir rights and responsibilities. 
 	•Collaboration: Making decisions with the individual and sharing powerincreases participation in and effectiveness of services. 
-	•Trustworthiness: Task clarity, consistency and interpersonal boundariesbetween an individual and her/his care provider. 
-	•Empowerment: Building on individuals’ strength and developing copingskills for them to fall back on if and when services stop. Individuals feel validated and affirmed with every contact with the agency. (Page 3)
+	•Trustworthiness: Task clarity, consistency and interpersonal boundaries between an individual and her/his care provider. 
+	•Empowerment: Building on individuals’ strength and developing coping skills for them to fall back on if and when services stop. Individuals feel validated and affirmed with every contact with the agency. (Page 3)
 
 ## Mental Health 
 - psychologists must sign a confidentiality form from disclosing about cases. (Page 4)#mentalhealth

@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "71c05d90f17e4e10",
+        "id": "82a7f73fa8a119d2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/Highlights for The nutritional status of children living within institutionalized care _ a systematic review.md",
+            "file": "Volume 2/Domestic CCIs.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "fd758bf265ead07a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/Highlights for The nutritional status of children living within institutionalized care _ a systematic review.md",
+                "file": "Volume 2/Domestic CCIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/Highlights for The nutritional status of children living within institutionalized care _ a systematic review.md",
+                "file": "Volume 2/Domestic CCIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,17 +122,17 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "71c05d90f17e4e10",
+  "active": "82a7f73fa8a119d2",
   "lastOpenFiles": [
-    "Volume 1/Reference Reading/Research Papers/Highlights for The nutritional status of children living within institutionalized care _ a systematic review.md",
-    "Volume 1/Reference Reading/Research Papers/Highlights for Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
-    "Volume 1/Reference Reading/Books/Rethinking Orphanages for the 21st Century.md",
-    "Volume 1/Reference Reading/Governments & UN/Highlights for Guidelines on Alternative Care_UN.md",
-    "Volume 1/Volume 1 Index.md",
+    "Volume 2/Domestic CCIs.md",
+    "conflict-files-obsidian-git.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Highlights for Aangan - Changing Spaces.md",
+    "Home.md",
+    "Volume 1/Reference Reading/Master Reading List.md",
     "Volume 2/Volume 2 Index.md",
-    "templates/post.md",
-    "Public Resource Links/Queue/The nutritional status of children living within institutionalized care _ a systematic review.pdf",
-    "Public Resource Links/Queue/Nutrition,Health and Psychosocial profile of institutionalized children in UP,4 indian states.pdf",
-    "Public Resource Links/Queue/managing-childrenx27s-homes-developing-effective-leadership-in-small-organisations_compress.pdf"
+    "Volume 1/Reference Reading/Service Providers to CCIs/Capacity Building Orgs Index.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md"
   ]
 }
