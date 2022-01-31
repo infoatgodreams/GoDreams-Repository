@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 2/Domestic CCIs.md",
+            "file": "Volume 2/Volume 2 Index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Domestic CCIs.md",
+                "file": "Volume 2/Volume 2 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 2/Domestic CCIs.md",
+                "file": "Volume 2/Volume 2 Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,6 +112,7 @@
   },
   "active": "82a7f73fa8a119d2",
   "lastOpenFiles": [
+    "Volume 2/Volume 2 Index.md",
     "Volume 2/Domestic CCIs.md",
     "conflict-files-obsidian-git.md",
     "Templates/Note Taking Instructions.md",
@@ -120,7 +121,6 @@
     "Templates/Set up instructions.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Highlights for Aangan - Changing Spaces.md",
     "Home.md",
-    "Volume 1/Reference Reading/Master Reading List.md",
-    "Volume 2/Volume 2 Index.md"
+    "Volume 1/Reference Reading/Master Reading List.md"
   ]
 }
