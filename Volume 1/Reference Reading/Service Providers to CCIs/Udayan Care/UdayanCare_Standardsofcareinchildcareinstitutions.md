@@ -6,9 +6,9 @@ tags: Practitioner
 
  Tags: [CCI Operations](CCI%20Operations) [CCICompliance](CCICompliance) [UdayanCare](UdayanCare)
 
-Status: [ReferenceReading](ReferenceReading)
+ Status: [ReferenceReading](ReferenceReading)
 
- Links: 
+ Links: https://drive.google.com/file/d/1XIUTlzcd11CW-R41T8B05bmdX8BBVPsz/view?usp=sharing
 # Key International Instruments on Rights of Children 
 - UN Declaration on Rights of the Child, 1959 
 - Minimum Age Convention, 1973 
