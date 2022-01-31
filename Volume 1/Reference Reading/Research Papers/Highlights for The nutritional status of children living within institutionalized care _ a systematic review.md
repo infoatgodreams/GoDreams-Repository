@@ -3,7 +3,8 @@ title: Nutritional Status of Children in CCIs (Intl)
 author:
 ---
 
-Tags: [CCI Operations](CCI%20Operations) 
+Tags: [CCI Operations](CCI%20Operations) [Nutrition](Volume%201/Roll%20Ups/Nutrition.md)[Physical Health](Volume%201/Roll%20Ups/Physical%20Health.md)
+
 # Scope: 
 
 - We searched four databases (Pubmed/Medline, CINHAL Plus, Embase and Global Health Database) for relevant articles published from January 1990 to January 2019.
@@ -26,29 +27,13 @@ Tags: [CCI Operations](CCI%20Operations)
 	- Parasitesfrom6–76%
 	- Half the studies with dietary information found inadequate intake or diet diversity. Younger children were typically more malnourished than older children, with a few exceptions (Page 1)
 
-# Pre-admission 
+# [[Pre-admission to CCIs]]
 - Children in institutional care often face numerous adversities prior to admission and many enter institutionalized care with pre-existing nutritional, developmental, medical and neurological conditions(Baron,Baron&Spencer,2001; The Children’s Health Care Collaborative Study Group,1994; The St. Petersburg-USA Orphanage ResearchTeam,2005; The St. Petersburg-USA Orphanage ResearchTeam,2008). (Page 3)
 - Born prematurely or with low birth weight and many have had exposure to drugs or alcohol, HIV, stress or a range of other issues —all of which can impact their health.(Baron,Baron&Spencer,2001; Groceetal.,2014; The Children’s Health Care Collaborative Study Group,1994; The St. Petersburg-USA Orphanage Research Team,2008) (Page 3)
 - No information about children’s early lives or exposures prior to coming into care(The Children’s Health Care Collaborative Study Group,1994; The St Petersburg-USA Orphanage Research Team,2005; The St.Petersburg-USA Orphanage Research Team,2008). (Page 3)
-
-# During institutional care
-- Entering institutionalized care may experience further negative issues when admitted (Franketal.,1996;Johnson&Gunnar,2011;TheChildren’sHealthCareCollaborativeStudyGroup,199 (Page 3):
-	- ongoing risk of suboptimal nutrition, 
-	- poor growth or growth failure
-	- neglect or abuse
-	- impacted physical development
-	- diarrhoea
-	- anemia
-	- infections and diseased 
 	
-- Factors impacting children’s nutrition status in care centers include (Franketal.,1996;vanIJzendoornetal.,2011;TheSt.Petersburg-USAOrphanageResearchTeam,2008) (Page 3)
-	- Inadequate or poor quality of food
-	- inappropriate types of food
-	- inadequate stimulation or attention
-	- improper use of midcations
-	- inappropriate feeding practices
-	- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients 
-## [Physical Health](Physical%20Health)
+
+## [Physical Health](Volume%201/Roll%20Ups/Physical%20Health.md)
 - Common illnesses observed were (Page 11)
 	- children having three or more parasites
 	- skin infections
@@ -66,7 +51,7 @@ Tags: [CCI Operations](CCI%20Operations)
 - Common deficiencies were iodine, zinc, albumin , vitamin A and B
 - Edema, Conjunctival pallor, xerophthalmia and goiter were also found
 
-# [[Nutrition]]
+# [[Volume 1/Roll Ups/Nutrition]]
 
 - Mwaniki and colleagues found that diet diversity was lower in children. Diets were reported to have high reliance on starches and legumes (Mwaniki,Makokha&Muttunga,2014). (Page 11)
 - Hearstetal.(2014)concluded that the growth-related indicators coincide with the high prevalence of low albumin, indicating generalized chronic undernutrition, and suggested macronutrient deficiencies could be due to 
@@ -80,6 +65,14 @@ Tags: [CCI Operations](CCI%20Operations)
 	- protein
 
 - Limited funding and reliance on donations for food were frequently mentioned issues, and resulted in diets high in starches and legumes (Mwaniki,Makokha&Muttunga,2014). (Page 30)
+
+- Factors impacting children’s nutrition status in care centers include (Franketal.,1996;vanIJzendoornetal.,2011;TheSt.Petersburg-USAOrphanageResearchTeam,2008) (Page 3)
+	- Inadequate or poor quality of food
+	- inappropriate types of food
+	- inadequate stimulation or attention
+	- improper use of midcations
+	- inappropriate feeding practices
+	- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients 
 
 
  
@@ -109,9 +102,6 @@ Tags: [CCI Operations](CCI%20Operations)
 - FetalalcoholspectrumdisordersinchildrenresidinginRussianorphanages:aphenotypicsurvey.Alcoholism,ClinicalandExperimentalResearch30:531–538DOI10.1111/j.1530-0277.2006.00059.x.MoherD,LiberatiA,TetzlaffJ,AltmanDG,Group.2009.
 - Preferredreportingitemsforsystematicreviewsandmeta-analyses:thePRISMAstatement.JournalofClinicalEpidemiology62:1006–1012DOI10.1016/j.jclinepi.2009.06.005.MwanikiEW,MakokhaAN,MuttungaJN.2014.
 - NutritionstatusofchildreninorphanagesinselectedprimaryschoolswithinDagorettiDivisionNairobi,Kenya.EastAfricanMedicalJournal91:289–297.MyattM,KharaT,SchoenbuchnerS,PietzschS,DolanC,LelijveldN,BriendA.2018.
-- Childrenwhoarebothwastedandstuntedarealsounderweightandhaveahighriskofdeath:adescriptiveepidemiologyofmultipleanthropometricdeficitsusingdatafrom51countries.ArchivesofPublicHealth76:28DOI10.1186/s13690-018-0277-1.MyintK,AyeMTH,MoeS,KyawS.2012.OcularandothercomorbiditiesinHIVpositiveorphansinMyanmar.InternationalJournalofCollaborativeResearchonInternalMedicineandPublicHealth4:1245–1256. (Page 34)
-- NationalInstituteforHealthResearch.2019.PROSPEROInternationalprospectivereg-isterofsystematicreviews.UniversityofYorkCentreforReviewsandDissemination.Availableathttps://www.crd.york.ac.uk/prospero/.NunesML,TeixeiraGC,FabrisI,GoncalvesRdeA.1999.Evaluationofthenutritionalstatusininstitutionalizedchildrenanditsrelationshiptothedevelopmentofepilepsy.NutritionalNeuroscience2:139–145DOI10.1080/1028415x.1999.11747272.NelsonRG.2016.Residentialcontext,institutionalalloparentalcare,andchildgrowthinJamaica.AmericanJournalofHumanBiology28:493–502DOI10.1002/ajhb.22819.PanpanichR,BrabinB,GonaniA,GrahamS.1999.AreorphansatincreasedriskofmalnutritioninMalawi?AnnalsofTropicalPaediatrics19:279–285DOI10.1080/02724939992374.PetrowskiN,CappaC,GrossP.2017.Estimatingthenumberofchildreninformalalternativecare:challengesandresults.ChildAbuseandNeglect70:388–398DOI10.1016/j.chiabu.2016.11.026.PyszK,LeszczynskaT,KopecA.2015.AnthropometricassessmentofthenutritionalstatusofchildrenandadolescentsresidinginselectedPolishorphanagesbasedontheirenergyintakeandphysicalactivitylevel.RocznikiPaństwowegoZakładuHigieny66:77–83.SarmaKV,VazirS,RaoDH,SastryJG,RaoNP.1991.Nutrition,healthandpsychoso-cialprofileofinstitutionalizedchildren.IndianPediatrics28:767–778.SmykeAT,KogaSF,JohnsonDE,FoxNA,MarshallPJ,NelsonCA,ZeanahCH.2007.Thecaregivingcontextininstitution-rearedandfamily-rearedinfantsandtoddlersinRomania.JournalofChildPsychologyandPsychiatryandAlliedDisciplines48:210–218DOI10.1111/j.1469-7610.2006.01694.x.TheChildren’sHealthCareCollaborativeStudyGroup.1994.Thecausesofchildren’sinstitutionalizationinRomania.Child:Care,HealthandDevelopment20:77–88.TheStPetersburg-USAOrphanageResearchTeam.2005.Characteristicsofchil-dren,caregivers,andorphanagesforyoungchildreninSt.Petersburg,Rus-sianFederation.JournalofAppliedDevelopmentalPsychology26:477–506DOI10.1016/j.appdev.2005.06.002.TheSt.Petersburg-USAOrphanageResearchTeam.2008.Theeffectsofearlysocial-emotionalandrelationshipexperienceonthedevelopmentofyoungorphanagechildren.MonographsoftheSocietyforResearchinChildDevelopment73:1–270DOI10.1111/j.1540-5834.2008.00483.x.TheWorldBankGroup.2019.DataBank:healthnutritionandpopulationstatistics.Availableathttp://datatopics.worldbank.org/health/.TheobaldS,MorganR,HawkinsK,SsaliS,GeorgeA,MolyneuxS.2017.Theimpor-tanceofgenderanalysisinresearchforhealthsystemsstrengthening.HealthPolicyandPlanning32:v1–v3DOI10.1093/heapol/czx163.UNICEF.2017.Orphans.Availableathttps://www.unicef.org/media/media_45279.html.UNICEF.2019.Malnutrition.Availableathttps://data.unicef.org/topic/nutrition/malnutrition/. (Page 35)
-- UnitedNationsGeneralAssembly.2009.Guidelinesforthealternativecareofchildren,UNdocumentA/RES/64/142.UnitedNations,Geneva.UnitedNationsHumanRightsOfficeoftheHighCommissioner.1990.Conventionontherightsofthechild.NewYork:UnitedNationsHumanRightsOfficeoftheHighCommissioner.VanIJzendoornMH,PalaciosJ,SonugaBarkeEJS,GunnarMR,VorriaP,McCallRB,MareLL,BakermansKranenburgMJ,DobrovaKrolNA,JufferF.2011.Childrenininstitutionalcare:delayeddevelopmentandresilience.MonographsfortheSocietyforResearchinChildDevelopment76:8–30DOI10.1111/j.1540-5834.2011.00626.x.WhettenK,OstermannJ,PenceBW,WhettenRA,MesserLC,ArielyS,O’DonnellK,WasongaAI,VannV,ItembaD,EtichaM,MadanI,ThielmanNM.2014.Three-yearchangeinthewellbeingoforphanedandseparatedchildrenininstitutionalandfamily-basedcaresettingsinfivelow-andmiddle-incomecountries.PLOSONE9:e104872DOI10.1371/journal.pone.0104872.WhettenK,OstermannJ,WhettenRA,PenceBW,O’DonnellK,MesserLC,ThielmanNM.2009.Acomparisonofthewellbeingoforphansandabandonedchildrenages6-12ininstitutionalandcommunity-basedcaresettingsin5lesswealthynations.PLOSONE4:e8169DOI10.1371/journal.pone.0008169.WorldHealthOrganization.1995.Physicalstatus:theuseandinterpretationofanthro-pometry.Geneva:WHO.WorldHealthOrganization.2009.Applicationtools:WHOAnthroPlussoftware.Geneva:WHO.WorldHealthOrganization.2019a.Growthreferencedatafor5–19years.Availableathttps://www.who.int/growthref/en/.WorldHealthOrganization.2019b.TheWHOchildgrowthstandards.Availableathttps://www.who.int/childgrowth/standards/en/.WorldHealthOrganizationMulticentreGrowthReferenceStudyGroup.2006.WHOchildgrowthstandardsbasedonlength/height,weightandage.ActaPaediatrica95:1–104DOI10.1080/08035320500495548.ZahidMK,KarimKMR.2013.Nutritionalstatusanddietaryintakeoftheorphans:acasestudyintheICH(IntervidaChildrenHome)inDhakacityinBangladesh.BangladeshJournalofNutrition24–25:23–30DOI10.3329/bjnut.v24i0.14034. (Page 36)
 
 ## Source
 [[Public Resource Links/Queue/Volume 1 Queue/The nutritional status of children living within institutionalized care _ a systematic review.pdf]]
