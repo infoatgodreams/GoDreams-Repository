@@ -1,9 +1,10 @@
 ---
 title: United Nations Guidelines on Alternative Care
 author: United Nations
+tags : UN, Government 
 ---
 Tags: [Restoration](Restoration) [Caregiving](Caregiving) [[CCI Operations]]
-	Link:
+Link:https://drive.google.com/file/d/1QUK36tvk8jWxeXIrNiHVreq8lGgxWkFK/view?usp=sharing
 
 # Restoration
 - All decisions concerning alternative care should take full account of the desirability, in principle, of maintaining the child as close as possible to his/her habitual place of residence, in order to facilitate contact and potential reintegration with his/her family and to minimize disruption of his/her educational, cultural and social life. (Page 4)
