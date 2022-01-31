@@ -4,7 +4,8 @@ Author : Rainbow Foundation
 tags: Practitioner
 ---
 Tags: [Hygiene](Hygiene.md) [Caregiving](Caregiving) [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md) [Child Safety](Child%20Safety) [CCI FInances](CCI%20FInances) [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)
-Link: https://issuu.com/rainbowfoundationindia/docs/management_of_homes
+Link: https://issuu.com/rainbowfoundationindia/docs/management_of_homes [[Rainbowhomes]]
+
 
 Status: [ReferenceReading](ReferenceReading)
 
