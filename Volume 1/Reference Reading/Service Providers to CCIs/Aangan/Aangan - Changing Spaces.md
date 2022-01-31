@@ -76,4 +76,4 @@ Link: https://drive.google.com/file/d/18iJBlvuwu0vXDQRK9Ij6pUTAb2H1l6ER/view?usp
 		- Newspapers, monthly debates/discussion, news (if there are televisions (Page 26)
 
 ## Source
-[[Aangan - Changing Spaces.pdf]]
+[[Volume 1/Volume 1 Public Resource Links/Other service providers/Aangan - Changing Spaces.pdf]]
