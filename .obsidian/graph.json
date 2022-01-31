@@ -3,9 +3,9 @@
   "search": "-path: templates path:\"Volume 1/Reference Reading\"",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Volume 1/Reference Reading\"",
@@ -34,11 +34,11 @@
   "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 1.03357260049221,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.475897301545717,
   "repelStrength": 13.2905423107152,
   "linkStrength": 1,
   "linkDistance": 218,
-  "scale": 0.35796109302563633,
+  "scale": 0.3611316005600943,
   "close": false
 }
