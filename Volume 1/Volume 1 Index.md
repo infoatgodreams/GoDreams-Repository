@@ -51,6 +51,10 @@ title: Volume 1 Index
 - [Reading List](Volume%201/Roll%20Ups/Reading%20List.md)
 - [Risks](Volume%201/Roll%20Ups/Risks.md)
 
+# Logs
+- [Navneeth's Logs](Volume%201/Daily%20Log/Daily%20Log%20Index%20-%20NK.md)
+
+
 # Link to Resources
 - [Reading Material - Google Drive](https://drive.google.com/drive/folders/1pXvNVosGaDIU5cvTSLL_ChbHzob3tKzf?usp=sharing)
 - [Master Reading List - Google Sheets](https://docs.google.com/spreadsheets/d/1GRiS7QFPiak-1Ob3TdobKnaHqgUBb_8B-fErHP1BXUA/edit?usp=sharing)
