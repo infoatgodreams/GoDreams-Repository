@@ -1,7 +1,7 @@
 ---
 title: Daily Log Index
 author: Navneeth
-tag:
+tags:
 - dailylog
 ---
 

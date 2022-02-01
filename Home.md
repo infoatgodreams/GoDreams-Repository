@@ -16,3 +16,5 @@ title: Home - CAP Design Portal
 - [Reading Material - Google Drive](https://drive.google.com/drive/folders/1pXvNVosGaDIU5cvTSLL_ChbHzob3tKzf?usp=sharing)
 - [Master Reading List - Google Sheets](https://docs.google.com/spreadsheets/d/1GRiS7QFPiak-1Ob3TdobKnaHqgUBb_8B-fErHP1BXUA/edit?usp=sharing)
 
+# List of Tags
+[List of Tags being used (Live)](List%20of%20Tags%20being%20used%20(Live).md)
