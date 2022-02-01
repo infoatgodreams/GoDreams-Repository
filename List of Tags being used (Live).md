@@ -1,13 +1,11 @@
 ---
-title: Live list of tags
+title: Live list of page tags
 
 author: Navneeth
 
 tags: 
 
 - dailylog
-- risks
-- readinglist
 - Practitioner
 - usresearch
 - UN
@@ -15,19 +13,6 @@ tags:
 - globalresearch
 - alternativecare
 - indianresearch
-- researchedinternvetions
+- researchedinterventions
 ---
 
-# Contents
-
-- #dailylog 
-- #risks 
-- #readinglist 
-- #Practitioner 
-- #usresearch 
-- #UN 
-- #Government 
-- #globalresearch 
-- #alternativecare 
-- #indianresearch 
-- #researchedinterventions 
