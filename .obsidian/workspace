@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "233186e6bbf45dc7",
+        "id": "05f45184c169aa38",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "List of Tags being used (Live).md",
-            "mode": "preview",
+            "file": "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "List of Tags being used (Live).md",
+                "file": "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "List of Tags being used (Live).md",
+                "file": "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -107,19 +107,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.0242004394531
+    "width": 496.0242004394531,
+    "collapsed": true
   },
-  "active": "233186e6bbf45dc7",
+  "active": "05f45184c169aa38",
   "lastOpenFiles": [
-    "List of Tags being used (Live).md",
+    "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
     "Volume 1/Volume 1 Index.md",
+    "List of Tags being used (Live).md",
     "Home.md",
     "Volume 1/Daily Log/2022-02-01 - NK.md",
     "templates/Hashtags.md",
     "templates/TagList.md",
     "Volume 1/Reference Reading/Governments & UN/Guidelines on Alternative Care_UN.md",
     "Volume 1/Reference Reading/CCIs/Intl/Irvington HouseGrowth Potential of Pre-school aged children in institutional care.md",
-    "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
     "Volume 1/Program Design/Intervention Map.md"
   ]
 }
