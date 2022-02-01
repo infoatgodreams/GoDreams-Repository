@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#alternativecare",
+                "query": "tag:#UN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
