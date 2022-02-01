@@ -2,7 +2,7 @@
 title: Daily Log Index
 author: Navneeth
 tag:
--dailylog
+- dailylog
 ---
 
 # Contents
