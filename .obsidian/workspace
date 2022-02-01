@@ -21,12 +21,8 @@
         "id": "2fa71943889c312d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 1/Volume 1 Index.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -83,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Volume 1 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +95,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Volume 1 Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,6 +120,7 @@
   },
   "active": "2fa71943889c312d",
   "lastOpenFiles": [
+    "Highlights for Aangan - Changing Spaces.md",
     "Volume 1/Volume 1 Index.md",
     "Volume 1/Daily Log/Daily Log Index - NK.md",
     "Volume 1/Daily Log/2022-02-01 - NK.md",
@@ -134,7 +129,6 @@
     "Volume 1/Daily Log/Jan 2022 Learnings.md",
     "Volume 1/Program Design/CAP Design Framework.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
-    "Volume 1/Reference Reading/CCIs/Intl/Irvington HouseGrowth Potential of Pre-school aged children in institutional care.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md"
+    "Volume 1/Reference Reading/CCIs/Intl/Irvington HouseGrowth Potential of Pre-school aged children in institutional care.md"
   ]
 }
