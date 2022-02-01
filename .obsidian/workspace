@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "166a9a3fbe8cf071",
+        "id": "ee8b1b07e55cbae3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,17 +104,17 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "166a9a3fbe8cf071",
+  "active": "ee8b1b07e55cbae3",
   "lastOpenFiles": [
+    "Highlights for Aangan - Changing Spaces.md",
+    "Volume 1/Volume 1 Public Resource Links/Other service providers/Aangan - Changing Spaces.pdf",
+    "Volume 1/Volume 1 Public Resource Links/Governments & UN/Guidelines on Alternative Care_UN.pdf",
     "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
     "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
     "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
     "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
     "Volume 1/Reference Reading/Books/Earlier Is Better.md",
     "Volume 1/Volume 1 Public Resource Links/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countr.pdf",
-    "Volume 1/Volume 1 Public Resource Links/Research Papers/US/Fostering Child development_Systematic review of caregiver training and structural interventions.pdf",
-    "Highlights for Fostering Child development_Systematic review of caregiver training and structural interventions.md",
-    "Volume 1/Reference Reading/Research Papers/US/Fostering Child development_Systematic review of caregiver training and structural interventions.md",
-    "Volume 1/Reference Reading/Research Papers/India/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md"
+    "Volume 1/Volume 1 Public Resource Links/Research Papers/US/Fostering Child development_Systematic review of caregiver training and structural interventions.pdf"
   ]
 }
