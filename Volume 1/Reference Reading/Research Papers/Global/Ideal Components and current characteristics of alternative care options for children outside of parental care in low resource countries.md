@@ -8,6 +8,8 @@ tags:
 
 Tags: [[Foster Care]] [[Adoption]] [[Kinship Care]] 
 
+Link: [Google Drive](https://drive.google.com/file/d/1SLOMR8yJWlLkJuByyfuaQ7YMo3NWdaO_/view?usp=sharing)
+
 Scope: The document outlines alternatives to institutional care based on - -  that infants were at a great risk for developmental difficulties and a quick death when placed in institutions (Chapin (1915, 1917; Gray, 1989) was one of the first researchers to conclude this)
 
 # ChildWelfare Systems in High Versus Low-Resource Countries 
