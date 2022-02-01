@@ -12,7 +12,7 @@ Link: [Google Drive](https://drive.google.com/file/d/1SLOMR8yJWlLkJuByyfuaQ7YMo3
 
 Scope: The document outlines alternatives to institutional care based on - -  that infants were at a great risk for developmental difficulties and a quick death when placed in institutions (Chapin (1915, 1917; Gray, 1989) was one of the first researchers to conclude this)
 
-# ChildWelfare Systems in High Versus Low-Resource Countries 
+# Child Welfare Systems in High Versus Low-Resource Countries 
 
 High-resource countries, in support of the substantial evidence showing that family-based care is better than institutional placement, typically emphasize a family-based system of child protection. (Page 3)
 

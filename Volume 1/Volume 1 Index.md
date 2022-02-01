@@ -16,7 +16,10 @@ title: Volume 1 Index
 	- [Rainbow - CCI Management Handbook](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Rainbow%20Foundation/Rainbow%20-%20CCI%20Management%20Handbook.md)
 	- [Aangan - Changing Spaces](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Aangan/Aangan%20-%20Changing%20Spaces.md)
 	- [UdayanCare_Standards Of Care in Child Care Institutions](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Udayan%20Care/UdayanCare_Standards%20Of%20Care%20in%20Child%20Care%20Institutions.md)
-	
+
+## Child Care Institutions
+- International
+	- [Irvington HouseGrowth Potential of Pre-school aged children in institutional care](Volume%201/Reference%20Reading/CCIs/Intl/Irvington%20HouseGrowth%20Potential%20of%20Pre-school%20aged%20children%20in%20institutional%20care.md)
 ## Books :
 - **[Books Index](Volume%201/Reference%20Reading/Books/Books%20Index.md)**
 	- [Rethinking Orphanages for the 21st Century](Volume%201/Reference%20Reading/Books/Rethinking%20Orphanages%20for%20the%2021st%20Century.md)
@@ -36,6 +39,10 @@ title: Volume 1 Index
 
 ## Indian
 - [Nutrition, Health & Psychosocial Profile of Institutionalized Children](Volume%201/Reference%20Reading/Research%20Papers/India/Nutrition,%20Health%20&%20Psychosocial%20Profile%20of%20Institutionalized%20Children.md)
+
+## Global
+- [Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries](Volume%201/Reference%20Reading/Research%20Papers/Global/Ideal%20Components%20and%20current%20characteristics%20of%20alternative%20care%20options%20for%20children%20outside%20of%20parental%20care%20in%20low%20resource%20countries.md)
+
 
 # Topic Roll Ups: 
 - [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)
