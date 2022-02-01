@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ff0ae595ce237c69",
+        "id": "708ae67b3611a269",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 2/Domestic CCIs.md",
+            "file": "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#UN",
+                "query": "tag:#usresearch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Domestic CCIs.md",
+                "file": "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 2/Domestic CCIs.md",
+                "file": "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -109,19 +108,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.0242004394531
+    "width": 496.0242004394531,
+    "collapsed": true
   },
-  "active": "ff0ae595ce237c69",
+  "active": "708ae67b3611a269",
   "lastOpenFiles": [
+    "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
+    "Volume 1/Reference Reading/Governments & UN/Guidelines on Alternative Care_UN.md",
     "Volume 2/Domestic CCIs.md",
     "Volume 2/Volume 2 Index.md",
     "Volume 1/Volume 1 Index.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
-    "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
     "conflict-files-obsidian-git.md",
     "Volume 2/Highlights for CNCP-Paper copy.md",
-    "Volume 2/CNCP-Paper copy.pdf",
-    "Public Resource Links/Program Design/Field Guide to Human-Centered Design_IDEOorg_English.pdf"
+    "Volume 2/CNCP-Paper copy.pdf"
   ]
 }
