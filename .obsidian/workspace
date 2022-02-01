@@ -7,8 +7,12 @@
         "id": "ee8b1b07e55cbae3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Reference Reading/CCIs/Intl/Irvington HouseGrowth Potential of Pre-school aged children in institutional care.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Volume 1/Reference Reading/CCIs/Intl/Irvington HouseGrowth Potential of Pre-school aged children in institutional care.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Volume 1/Reference Reading/CCIs/Intl/Irvington HouseGrowth Potential of Pre-school aged children in institutional care.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,6 +112,7 @@
   },
   "active": "ee8b1b07e55cbae3",
   "lastOpenFiles": [
+    "Volume 1/Reference Reading/CCIs/Intl/Irvington HouseGrowth Potential of Pre-school aged children in institutional care.md",
     "Highlights for Aangan - Changing Spaces.md",
     "Volume 1/Volume 1 Public Resource Links/Other service providers/Aangan - Changing Spaces.pdf",
     "Volume 1/Volume 1 Public Resource Links/Governments & UN/Guidelines on Alternative Care_UN.pdf",
@@ -114,7 +121,6 @@
     "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
     "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
     "Volume 1/Reference Reading/Books/Earlier Is Better.md",
-    "Volume 1/Volume 1 Public Resource Links/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countr.pdf",
-    "Volume 1/Volume 1 Public Resource Links/Research Papers/US/Fostering Child development_Systematic review of caregiver training and structural interventions.pdf"
+    "Volume 1/Volume 1 Public Resource Links/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countr.pdf"
   ]
 }
