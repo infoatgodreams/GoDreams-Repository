@@ -351,10 +351,15 @@ tags: Practitioner
 
 # #readinglist 
 - Data Management for Effective Implementation of the Juvenile Justice Act, Briefing Paper Series 8, UNICEF (New Delhi, 2011). Available at http://unicef.in/Uploads/Publications/Resources/ pub_doc73.pdfGrant, Gill.
--  One or the Other- or Both? Child Care Alternatives for Vulnerable Children. Available at http://www.ccih.org/Child_Care_Alternatives_for_Vulnerable_Children.pdfhttps://www.savethechildren.org.uk/sites/default/files/docs/Keeping_Children_Out_of_Harmful_Institutions_Final_20.11.09_1.pdfhttp://naco.gov.in/upload/2015%20MSLNS/HSS/India%20HIV%20Estimations%202015.pdfhttp://timesofindia.indiatimes.com/india/One-lakh-children-go-missing-in-India-every-year-Home-ministry/articleshow/39779841.cmshttp://indianexpress.com/article/explained/national-crime-records-bureau-data-2015-slight-dip-in-rape-crime-against-women-3004980/http://mief.in/mental-sickness-in-children-in-india-an-overview/http://www.naco.gov.in/sites/default/files/HIV%20DATA.pdfInstitutionalised
--  Children: Seminar on Standards of Care and Mental Health- A Report, March 14-15, 2014, Udayan Care (New Delhi, 2014). Available at http://www.udayancare.org/seminar-journal/Institutionalised%20_Children_Revised.pdfIntegrated 
+-  One or the Other- or Both? Child Care Alternatives for Vulnerable Children. Available at http://www.ccih.org/Child_Care_Alternatives_for_Vulnerable_Children.pdf
+	- https://www.savethechildren.org.uk/sites/default/files/docs/Keeping_Children_Out_of_Harmful_Institutions_Final_20.11.09_1.pdf
+	- http://naco.gov.in/upload/2015%20MSLNS/HSS/India%20HIV%20Estimations%202015.pdf
+	- http://timesofindia.indiatimes.com/india/One-lakh-children-go-missing-in-India-every-year-Home-ministry/articleshow/39779841.cms
+	- http://indianexpress.com/article/explained/national-crime-records-bureau-data-2015-slight-dip-in-rape-crime-against-women-3004980/
+	- http://mief.in/mental-sickness-in-children-in-india-an-overview/http://www.naco.gov.in/sites/default/files/HIV%20DATA.pdfInstitutionalised
+-  Children: Seminar on Standards of Care and Mental Health- A Report, March 14-15, 2014, Udayan Care (New Delhi, 2014). Available at http://www.udayancare.org/seminar-journal/Institutionalised%20_Children_Revised.pdf
 - Child Protection Scheme, 2014 Juvenile Justice (Care and Protection of Children) Model Rules, 2016 Rules under the Juvenile Justice (Care and Protection of Children) Act, 2000 (56 of 2000) (as amended by the Amendment Act 33 of 2006), 26 October 2007Study on Child Abuse: India 2007, Ministry of Women and Child Development, Government of India (New Delhi: Kirti, 2007). Website: http://www.childlineindia.org.in/pdf/MWCD-Child-Abuse-Report.pdfSubjective 
-- Wellbeing of Children Living in Institutions of Delhi- A Rights Based Perspective, Delhi Commission for Protection of Child Rights (New Delhi, 2014). Available at http://delhi.gov.in/wps/wcm/connect/doit_dcpcr/DCPCR/Publication/Subjective+Wellbeing+of+Children+Living+in+Institutions+in+DelhiThe 
+- Wellbeing of Children Living in Institutions of Delhi- A Rights Based Perspective, Delhi Commission for Protection of Child Rights (New Delhi, 2014). Available at http://delhi.gov.in/wps/wcm/connect/doit_dcpcr/DCPCR/Publication/Subjective+Wellbeing+of+Children+Living+in+Institutions+in+Delhi
 - Essentials of Child Protection: A Handbook for Beginners, CHILDLINE India Foundation (Mumbai, 2008). Available at www.childlineindia.org.in/pdf/Essentials-of-child-protection-Oct%2008.pdfThe 
 - Juvenile Justice (Care and Protection of Children) Act, 2015 (No. 2 of 2016)The National Policy for Children, 2013. Available at http://wcd.nic.in/sites/default/files/npcenglish08072013_0.pdf (Page 34)
 

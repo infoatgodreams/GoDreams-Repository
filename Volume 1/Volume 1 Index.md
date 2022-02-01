@@ -9,13 +9,13 @@ title: Volume 1 Index
 
 # Reference Reading:
 
-## Capacity Building Orgs :
-- **[Capacity Building Orgs Index](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Capacity%20Building%20Orgs%20Index.md)**
+## Other Organizations :
+- **[Service Providers to CCIs](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Service%20Providers%20to%20CCIs.md)**
 	- [Miracle Foundation_Trauma-Informed-Care](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Miracle%20Foundation/Miracle%20Foundation_Trauma-Informed-Care.md)
 	- [Miracle Foundation_Institutionalised Children_Explorations and Beyond](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Miracle%20Foundation/Miracle%20Foundation_Institutionalised%20Children_Explorations%20and%20Beyond.md)
 	- [Rainbow - CCI Management Handbook](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Rainbow%20Foundation/Rainbow%20-%20CCI%20Management%20Handbook.md)
 	- [Aangan - Changing Spaces](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Aangan/Aangan%20-%20Changing%20Spaces.md)
-	- [UdayanCare_Standardsofcareinchildcareinstitutions](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Udayan%20Care/UdayanCare_Standardsofcareinchildcareinstitutions.md)
+	- [UdayanCare_Standards Of Care in Child Care Institutions](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Udayan%20Care/UdayanCare_Standards%20Of%20Care%20in%20Child%20Care%20Institutions.md)
 	
 ## Books :
 - **[Books Index](Volume%201/Reference%20Reading/Books/Books%20Index.md)**
