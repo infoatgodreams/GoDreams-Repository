@@ -45,7 +45,10 @@ Quality of care delivered at Child Care Institutions is on average inadequate an
     
 2.  Avoid reinventing the wheel during program design
 
-3.  Identify key levers and critical factors that influence the care quality at CCIs  based on existing studies/practices in the sector
+3.  Identify key levers and critical factors that influence the care quality at CCIs  based on existing studies/practices in the sector under the following categories: 
+			1. Benchmarks for childcare under all domains
+			2. Baseline/Current Reality for childcare under all domains
+			3. Successful and unsuccessful interventions in institutional childcare under all domains
 
 **Links**
 Reading List : **[Master Reading List - Google Sheets](https://docs.google.com/spreadsheets/d/1GRiS7QFPiak-1Ob3TdobKnaHqgUBb_8B-fErHP1BXUA/edit?usp=sharing)**
@@ -62,7 +65,7 @@ Reading List : **[Master Reading List - Google Sheets](https://docs.google.com/s
 - CCIs, CNCP & Service Providers (Intl)
     
 #### 2.  Innovations in the space:
-- Practitioners(Other capacity building orgs): **[Capacity Building Orgs Index](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Capacity%20Building%20Orgs%20Index.md)**
+- Practitioners(Other capacity building orgs): **[Service Providers to CCIs](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Service%20Providers%20to%20CCIs.md)**
 	- Rainbow Foundation
 	-  Aangan
 	-  Miracle Foundation

@@ -1,9 +1,10 @@
 ---
 title: Aangan - Changing Spaces (Study)
 author: Aangan
+tags: Practitioner 
 ---
 
-Tags: [Caregiving](Caregiving) [[Admissions]] [Child Safety](Child%20Safety) #practitioners 
+Tags: [Caregiving](Caregiving) [[Admissions]] [Child Safety](Child%20Safety) 
 
 Status: [ReferenceReading](ReferenceReading)
 
