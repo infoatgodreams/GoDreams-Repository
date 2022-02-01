@@ -7,9 +7,11 @@
         "id": "f6ba68c10960177c",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Volume 1/Volume 1 Public Resource Links/Queue/Fostering Child development_Systematic review of caregiver training and structural interventions.pdf"
+            "file": "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Volume 1 Public Resource Links/Queue/Fostering Child development_Systematic review of caregiver training and structural interventions.pdf",
+                "file": "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Volume 1 Public Resource Links/Queue/Fostering Child development_Systematic review of caregiver training and structural interventions.pdf",
+                "file": "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,6 +112,8 @@
   },
   "active": "f6ba68c10960177c",
   "lastOpenFiles": [
+    "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
+    "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
     "Volume 1/Volume 1 Public Resource Links/Queue/Fostering Child development_Systematic review of caregiver training and structural interventions.pdf",
     "Highlights for Fostering Child development_Systematic review of caregiver training and structural interventions.md",
     "Volume 1/Reference Reading/Research Papers/US/Fostering Child development_Systematic review of caregiver training and structural interventions.md",
@@ -117,8 +121,6 @@
     "Volume 1/Reference Reading/Governments & UN/Guidelines on Alternative Care_UN.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Udayan Care/UdayanCare_Standards Of Care in Child Care Institutions.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Service Providers to CCIs.md",
-    "Volume 1/Volume 1 Index.md"
+    "Volume 1/Reference Reading/Service Providers to CCIs/Udayan Care/UdayanCare_Standards Of Care in Child Care Institutions.md"
   ]
 }
