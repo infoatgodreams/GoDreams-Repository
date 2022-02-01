@@ -4,25 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6d2311b3c9765367",
+        "id": "2fa71943889c312d",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Volume 1/Daily Log/2022-02-01 - NK.md",
             "mode": "source",
             "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "2fa71943889c312d",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
+          }
         }
       }
     ],
@@ -79,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Volume 1/Daily Log/2022-02-01 - NK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Volume 1/Daily Log/2022-02-01 - NK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,15 +112,15 @@
   },
   "active": "2fa71943889c312d",
   "lastOpenFiles": [
-    "Highlights for Aangan - Changing Spaces.md",
-    "Volume 1/Volume 1 Index.md",
-    "Volume 1/Daily Log/Daily Log Index - NK.md",
     "Volume 1/Daily Log/2022-02-01 - NK.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Udayan Care/UdayanCare_Standards Of Care in Child Care Institutions.md",
-    "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
-    "Volume 1/Daily Log/Jan 2022 Learnings.md",
+    "Volume 1/Reference Reading/Books/Rethinking Orphanages for the 21st Century.md",
+    "Volume 1/Reference Reading/Books/Managing Childrens Homes - Developing Effective Leadership in a Small Organization, Hicks, L & Gibbs (2007).md",
+    "Volume 1/Reference Reading/Books/Earlier Is Better.md",
+    "Volume 1/Reference Reading/Books/Books Index.md",
+    "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
+    "Volume 1/Program Design/Intervention Map.md",
     "Volume 1/Program Design/CAP Design Framework.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
-    "Volume 1/Reference Reading/CCIs/Intl/Irvington HouseGrowth Potential of Pre-school aged children in institutional care.md"
+    "Volume 1/Daily Log/Jan 2022 Learnings.md",
+    "Highlights for Aangan - Changing Spaces.md"
   ]
 }
