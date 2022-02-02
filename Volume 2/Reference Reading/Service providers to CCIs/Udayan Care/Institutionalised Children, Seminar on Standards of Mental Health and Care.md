@@ -1,5 +1,5 @@
 ---
-title: Institutionalised Children: Seminar on Standards of Care and Mental Health
+title: Institutionalised Children, Seminar on Standards of Care and Mental Health
 author: Udayan Care, NCPCR
 tags :
 - Practitioner

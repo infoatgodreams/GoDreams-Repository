@@ -1,5 +1,5 @@
 ---
-title: Emergency Protocl for CCIs
+title: Emergency Protocol for CCIs
 author: Rainbow Foundation
 tags :
 - Practitioner

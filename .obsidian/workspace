@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "cfad5204c23b9385",
+        "id": "a476fe72baf45c8f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
-            "mode": "preview",
+            "file": "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
+                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
+                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -111,17 +111,17 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "cfad5204c23b9385",
+  "active": "a476fe72baf45c8f",
   "lastOpenFiles": [
-    "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Institutional Care for Vulnerable Children The Law, Present Scenario, and Way Ahead.md",
-    "Volume 2/Volume 2 Public Resource Links/CNCP-Paper Annotated_Akshay.pdf",
-    "Highlights for CNCP-Paper Annotated_Akshay.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Master Class Best Practices for Safety of Children in a Child Care Institution.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Counsel to Secure Justice/CSJ_Connecting to children in the observation homes of Rajasthan.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Master Class Best Practices for Safety of Children in a Child Care Institution.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Institutional Care for Vulnerable Children The Law, Present Scenario, and Way Ahead.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Children's Committees.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Child Protection Policy.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md",
-    "conflict-files-obsidian-git.md"
+    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md"
   ]
 }
