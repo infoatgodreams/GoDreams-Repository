@@ -28,8 +28,15 @@ Quality of care delivered at Child Care Institutions is on average inadequate an
 
 
 
-----
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -54,7 +61,9 @@ Quality of care delivered at Child Care Institutions is on average inadequate an
 			2. Baseline/Current Reality for childcare under all domains
 			3. Successful and unsuccessful interventions in institutional childcare under all domains
 
-    
+<br>
+<br>
+
 ### **Research Sources:**
 
 #### 1.  Status Quo:
