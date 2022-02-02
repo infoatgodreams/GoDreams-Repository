@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8a0547207c79d898",
+        "id": "a977156d61e92b40",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Child Protection Policy.md",
+            "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#researchedinterventions",
+                "query": "tag:#Practitioner",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Child Protection Policy.md",
+                "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Child Protection Policy.md",
+                "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -103,24 +104,25 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "8a0547207c79d898",
+  "active": "a977156d61e92b40",
   "lastOpenFiles": [
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Child Protection Policy.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Emergency Protocol for Sneha Ghars.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Child Protection Policy Rainbow Foundation India.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Master Class Best Practices for Safety of Children in a Child Care Institution.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Institutional Care for Vulnerable Children The Law, Present Scenario, and Way Ahead.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Master Class Best Practices for Safety of Children in a Child Care Institution.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Child Protection Policy.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Aftercare for Vulnerable Children - Challenges and Opportunities.md",
-    "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
-    "Volume 1/Reference Reading/CCIs/Intl/Irvington HouseGrowth Potential of Pre-school aged children in institutional care.md",
-    "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
-    "List of Tags being used (Live).md"
+    "Volume 2/Reference Reading/Service providers to CCIs/Counsel to Secure Justice/Bonds of Hope, Connecting to children in the observation homes of Rajasthan.md"
   ]
 }

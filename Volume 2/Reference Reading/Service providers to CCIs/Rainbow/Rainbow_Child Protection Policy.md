@@ -1,24 +1,22 @@
 ---
-title: 
-author: 
+title: Child Protection Policy for Rainbow Homes and Sneh Ghars
+author: Rainbow Foundation
 tags :
--  
+- Practitioner
 ---
-Tags: 
+Tags: [Child Safety](Child%20Safety)
 Link:
 
-Child Protection Policy 
+**Context**: It is a fairly extensive policy and I would recommend reading this entirely again because it applies to all Rainbow homes and includes all stakeholders 
 
-Context: It is a fairly extensive policy and I would recommend reading this entirely again because it applies to all Rainbow homes and includes all stakeholders 
+About Rainbow: Rainbow partners with 21 partners in 7 cities through ARUN- Association for Rural and Urban needy
 
-Rainbow partners with 21 partners in 7 cities through ARUN- Association for Rural and Urban needy
-
-Policy Framework: 
+### Policy Framework: 
 -protect child from intentional and unintentional harm
 -children from difficult circumstances tend to continue to use violence and abuse even after they come into the homes 
 -minimize abuse and when it occurs, respond quickly, firmly and compassionately 
 
-Guiding principles for the policy: 
+### Guiding principles for the policy: 
 -recognition of best interests of the child 
 -respect for dignity, liberty and freedom
 -respect for agency and active participation of the child 
