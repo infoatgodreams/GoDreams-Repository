@@ -1,36 +1,61 @@
 ---
-title: 
-author: 
+title: Bonds of Hope, Connecting to children in the observation homes of Rajasthan
+author: Counsel to Secure Justice, UNICEF
 tags :
--  
+- Practitioner
 ---
-Tags: 
+Tags: [Mental Health](Mental%20Health)  [Caregiving](Caregiving)
 Link:
 
+Context: Sharing circles implemented in observation homes, wins and learnings 
 
+**Where was it conducted? **
+- Over the four-month implementation period from October 2019 to January 2020, 6 Master Trainerswere trained to facilitate circles, 75 circle processes facilitated and more than 100 children in five Observation Homes involved in these processes. (Page 2)
 
-- Over the four-month implementation period from October 2019 to January 2020, 6 Master Trainerswere trained to facilitate circles, 75 circle processes facilitated and more than 100 children in fiveObservation Homes involved in these processes. (Page 2)
-- • Circle processes –a talking-based activity where participants sit in a circle facing eachother. Each participant gets an opportunity to speak sequentially. While one person isspeaking, others listen to them without interrupting.• Circle facilitators/keepers – one or two individuals who facilitate the circle processes.They ask questions which guide the discussion but, apart from that, participate in equalways as other in the circle.• Master Trainers – six designated individuals trained during this project to facilitaterestorative circles. (Page 5)
-- promising findings towards helping children feel safe, developing autonomy and leadership, anddeveloping social emotional learning including emotional awareness and coping tools (which, inturn, is linked with healthier life outcomes). (Page 5)
-- 5Master Trainers were involved in circle processes as shadow facilitators, i.e., they got anopportunity to see CSJ staff hold circles. Each Master Trainer was given at least 3 shadowfacilitation opportunities with CSJ facilitating a total of 21 circles for shadow facilitation. Theopportunity of being a shadow facilitator enables individuals to: (Page 6)
-- 1. experience the circle process.2. learn techniques and skills used to keep the circle.3. learn techniques to handle challenging situations.4. learn and experience debriefing techniques and skills. (Page 7)
-- Number of circles in which CSJ provided shadow facilitation opportunities 21 Number of circles in which CSJ staff were present for guidance and hand holding  10  (Page 7)
-- The intervention aims to a) reduce the adverse impact ofinstitutionalization and b) build positive impact through promoting social emotional learning. Thegoal of this intervention is to promote social reintegration and rehabilitation for children inObservation Homes. (Page 10)
-- The psychological effect of institutionalization on children can be severe because of theisolation from the family and community within the institutional setting. Many childrendevelop long-term mental health difficulties including depression, anxiety, and suicidalideation (Ståhlberg,  Anckarsäter, & Nilsson, 2010). (Page 10)
-- The family’s anger at the child owing to their actions often strains their relationship. Inaddition, the limited time for meeting with the child, which requires significant time andmonetary investment, further builds anger and resentment and frequently impactsrelationships (Page 10)
-- Institutionalization may influence the children adversely as they come into contact withothers who may be part of criminal gangs or may have knowledge on weapons, tools,methods for committing wrongs (Page 11)
-- Stigma and shame (for the child and the family) arise from being involved with the legalsystem (Page 11)
-- Restorative circles are a talking-based activity which give participants an opportunity to speak andlisten to one another in an atmosphere of safety and without hierarchy. (Page 11)
-- "knowledge, attitudes, andskills to understand and manage emotions, set and achieve positive goals, feel and show empathyfor others, establish and maintain positive relationships, and make responsible decisions" (Page 11)
+## What is a circle process and how was it conducted? **
+
+Restorative circles are a talking-based activity which give participants an opportunity to speak and listen to one another in an atmosphere of safety and without hierarchy. (Page 11)
+- Circle processes –a talking-based activity where participants sit in a circle facing each other. Each participant gets an opportunity to speak sequentially. While one person is speaking, others listen to them without interrupting.
+- Circle facilitators/keepers – one or two individuals who facilitate the circle processes.They ask questions which guide the discussion but, apart from that, participate in equal ways as other in the circle.
+- Master Trainers – six designated individuals trained during this project to facilitate restorative circles. (Page 5)
+- 5 Master Trainers were involved in circle processes as shadow facilitators, i.e., they got an opportunity to see CSJ staff hold circles. Each Master Trainer was given at least 3 shadow facilitation opportunities with CSJ facilitating a total of 21 circles for shadow facilitation. The opportunity of being a shadow facilitator enables individuals to: (Page 6)
+- - Number of circles in which CSJ provided shadow facilitation opportunities - 21
+-  Number of circles in which CSJ staff were present for guidance and hand holding- 10  (Page 7)
+
+ **Summary: promising findings towards helping children feel safe, developing autonomy and leadership, and developing social emotional learning including emotional awareness and coping tools (which, in turn, is linked with healthier life outcomes). (Page 5)
+
+### Training process
+1. experience the circle process.
+2. learn techniques and skills used to keep the circle.
+3. learn techniques to handle challenging situations.
+4. learn and experience debriefing techniques and skills. (Page 7)
+
+## Objectives of the intervention
+
+a) reduce the adverse impact of institutionalization and 
+b) build positive impact through promoting social emotional learning. 
+The goal of this intervention is to promote social reintegration and rehabilitation for children inObservation Homes. (Page 10)
+
+**Detailed goals**
+- "knowledge, attitudes, and skills to understand and manage emotions, set and achieve positive goals, feel and show empathy for others, establish and maintain positive relationships, and make responsible decisions" (Page 11)
 - five components of social emotional learning are: self-awareness; self-management; social awareness; relationship skills; and responsible decision-making. (Page 11)
 - Young girls with low self-esteem began perceiving themselves as more competent and confident after participating in circles (Page 12)
-- Boys with emotional and behavioral disorders showed improved behavior afterparticipating in circles (Page 12)
+- Boys with emotional and behavioral disorders showed improved behavior after participating in circles (Page 12)
 - improving social emotional learning skills (Page 12)
 - empathy for any person they may have harmed (Page 12)
 - empathy for their own families by thinking through the impact on them. (Page 12)
 - a sense of accountability: (Page 12)
 - reducing bullying and violence within the home (Page 12)
 - change in harmful belief patterns. (Page 12)
+
+
+### Mental Health effects of institutionalization
+- The psychological effect of institutionalisation on children can be severe because of the-isolation from the family and community within the institutional setting. Many children-develop long-term mental health difficulties including depression, anxiety, and suicidal ideation (Ståhlberg,  Anckarsäter, & Nilsson, 2010). (Page 10)
+- The family’s anger at the child owing to their actions often strains their relationship. In addition, the limited time for meeting with the child, which requires significant time and monetary investment, further builds anger and resentment and frequently impacts relationships (Page 10)
+- Institutionalisation may influence the children adversely as they come into contact with-others who may be part of criminal gangs or may have knowledge on weapons, tools, methods for committing wrongs (Page 11)
+- Stigma and shame (for the child and the family) arise from being involved with the legal system (Page 11)
+
+
 - Children sit in a circular formation facing each otherso that each person can see the others. (Page 13)
 - Two circle keepers facilitate theprocess and are also referred to as co-facilitators. (Page 13)
 - Circles use a talking piece, any object which is passed around from oneperson to the other sequentially (Wilbur, Wilbur, Garrett, & Yuhas, 2001).Each person gets the opportunity to share when they hold the talking piece,while all others are invited to listen to them. (Page 13)
