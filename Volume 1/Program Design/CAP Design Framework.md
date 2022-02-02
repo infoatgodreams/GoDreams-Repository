@@ -46,7 +46,7 @@ Quality of care delivered at Child Care Institutions is on average inadequate an
 2.  Avoid reinventing the wheel during program design
 
 3.  Identify key levers and critical factors that influence the care quality at CCIs  based on existing studies/practices in the sector under the following categories: 
-			1. Benchmarks for childcare under all domains
+			1. Gold Standards for childcare under all domains
 			2. Baseline/Current Reality for childcare under all domains
 			3. Successful and unsuccessful interventions in institutional childcare under all domains
 
