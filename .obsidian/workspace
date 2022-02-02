@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "579ac23551546c24",
+        "id": "a977156d61e92b40",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/Untitled.md",
-            "mode": "source",
+            "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Child Protection Policy Rainbow Foundation India.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/Untitled.md",
+                "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Child Protection Policy Rainbow Foundation India.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/Untitled.md",
+                "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Child Protection Policy Rainbow Foundation India.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -111,17 +111,17 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "579ac23551546c24",
+  "active": "a977156d61e92b40",
   "lastOpenFiles": [
-    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/Untitled.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Child Protection Policy Rainbow Foundation India.md",
+    "Templates/PDF Annotate.md",
+    "Templates/New Note.md",
+    "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
+    "Volume 2/Volume 2 Public Resource Links/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.pdf",
+    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
     "Volume 2/Volume 2 Public Resource Links/Institutionalised _Children_Revised Annotated_Akshay.pdf",
     "Highlights for Institutionalised _Children_Revised Annotated_Akshay.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Emergency Protocol for Sneha Ghars.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Counsel to Secure Justice/Bonds of Hope, Connecting to children in the observation homes of Rajasthan.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Child Protection Policy Rainbow Foundation India.md",
-    "Highlights for Bonds of Hope-UNICEF_Annotated_Akshay.md",
-    "Volume 2/Volume 2 Public Resource Links/Bonds of Hope-UNICEF_Annotated_Akshay.pdf"
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md"
   ]
 }
