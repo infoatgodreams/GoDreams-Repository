@@ -5,7 +5,7 @@ tags :
 - Government
 ---
 Tags: [Child Safety](Child%20Safety) [child sexual abuse](child%20sexual%20abuse) [[child rights law]]
-Link:
+Link: https://ncpcr.gov.in/showfile.php?lang=1&level=2&&sublinkid=1581&lid=1586
 
 Context: NCPCR SOP on the responsibility of CCIs in addressing issues such as escape, runaway or CSA in the CCI
 

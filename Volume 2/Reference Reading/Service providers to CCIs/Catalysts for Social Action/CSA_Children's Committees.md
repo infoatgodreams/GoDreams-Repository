@@ -5,7 +5,7 @@ tags :
 - Practitioner
 ---
 Tags: [ChildParticipation](ChildParticipation) [Child Safety](Child%20Safety)
-Link:
+Link: https://csa.org.in/docs/webinars/Master-Class-Enabling-Childrens-Right-to-Participation-Through-Childrens-Committee-in-CCIs-November-2020.pdf
 
 Context:
 
