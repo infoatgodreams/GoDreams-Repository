@@ -1,10 +1,10 @@
 ---
-title: 
-author: 
-tags :
--  
+title: Standard Operating procedure on Escape/Runaway/Sexual Abuse/Death of Children in Childcare Institutions
+author: NCPCR
+tags : 
+- Government
 ---
-Tags: 
+Tags: [Child Safety](Child%20Safety) [child sexual abuse](child%20sexual%20abuse) [[child rights law]]
 Link:
 
 Context: NCPCR SOP on the responsibility of CCIs in addressing issues such as escape, runaway or CSA in the CCI

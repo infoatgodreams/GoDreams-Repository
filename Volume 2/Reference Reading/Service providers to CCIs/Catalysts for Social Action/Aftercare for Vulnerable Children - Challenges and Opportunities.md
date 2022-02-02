@@ -1,10 +1,10 @@
 ---
-title: 
-author: 
+title: Empowering Youth leaving care at 18: Learnings from providing atercare services
+author: Catalysts for Social Action
 tags :
--  
+- Practioner
 ---
-Tags: 
+Tags: [[aftercare]] [[skill training]]
 Link:
 
 Context: This webinar is mostly about their own aftercare program run in Goa, MP, Maharashtra, Orissa. Offers interesting insights into what’s working for them. 
