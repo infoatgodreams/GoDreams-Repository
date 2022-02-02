@@ -9,12 +9,12 @@ Link:
 
 Context: Sharing circles implemented in observation homes, wins and learnings 
 
-**Where was it conducted? **
+**Where was it conducted? 
 - Over the four-month implementation period from October 2019 to January 2020, 6 Master Trainerswere trained to facilitate circles, 75 circle processes facilitated and more than 100 children in five Observation Homes involved in these processes. (Page 2)
 -  **Summary: promising findings towards helping children feel safe, developing autonomy and leadership, and developing social emotional learning including emotional awareness and coping tools (which, in turn, is linked with healthier life outcomes). (Page 5)
 
 
-## What is a circle process and how was it conducted? **
+## What is a circle process and how was it conducted? 
 
 Restorative circles are a talking-based activity which give participants an opportunity to speak and listen to one another in an atmosphere of safety and without hierarchy. (Page 11)
 - Circle processes –a talking-based activity where participants sit in a circle facing each other. Each participant gets an opportunity to speak sequentially. While one person is speaking, others listen to them without interrupting.
