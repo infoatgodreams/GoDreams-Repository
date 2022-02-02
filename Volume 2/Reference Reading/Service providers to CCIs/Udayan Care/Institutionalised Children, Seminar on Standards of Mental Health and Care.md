@@ -1,19 +1,24 @@
 ---
-title: 
-author: 
+title: Institutionalised Children: Seminar on Standards of Care and Mental Health
+author: Udayan Care, NCPCR
 tags :
--  
+- Practitioner
 ---
 Tags: 
 Link:
 
+### Resource People
 - First and foremost, my heartfelt gratitude goes to Dr. Monisha-Nayar Akhtar, Dr. Deepak Gupta and Mr. (Page 5)
 - Luis Aguilar Esponda for their deep involvement and commitment to the seminar. I would also like to thankMr. Vikram Dutt (Page 5)
 - A technical team of child rights advocates and experts was constituted to support the seminar:• Ms. Enakshi Ganguly and Ms. Bharti Ali, Co-Directors, Haq: Centre for Child Rights;• Ms. Mamta Sahai, Member, Delhi Commission for Protection of Child Rights (DCPCR);• Mr. Mohammad Aftab, National Manager, Child Protection, Save the Children;• Ms. Nina Nayak, Child Rights Activist formal member, National Commission for Protection of Child Rights(NCPCR), India;• Ms. Razia Ismail, Director, India Alliance for Child Rights;• Ms. Sumitra Mishra, Country Director, iPartner India;• Ms. Tushar Anchal, Adviser, Child Protection, Plan India;• Ms. Vijaylakshmi Arora, Director - Policy & Advocacy, CRY;• Mr. Vikram Srivastava, Founder, Independent Th ought (iTh ought). (Page 15)
-- Some studies have found that violence inresidential institutions is six times higher than violence in foster care, and that childrenin group care are almost four times more likely to experience sexual abuse than childrenin family-based care.16 (Page 17)
-- Small institutions developed on community based models can actually guarantee a healthy growth to specifi ckinds of children. For example a small group setting with trained staff  can provide the needed therapeutic careor treatment for children who have suff ered trauma or severe abuse or neglect. To enable large sibling groups toremain together, a residential care setting may also be the best option.20 (Page 19)
-- Moving forward: Implementing the Guidelines for the Alternative Care of Children, CELCIS, Glasgow, 2012, p. 34. (Page 19)
-- Every Home is composed by small groups of boys and girls of different age who live together as siblings. Natural brothers andsisters are of course kept together. A SOS Mother, who is a child care professional, lives with them, guiding their developmentand running the household independently. She has the duty to recognise and respect each child’s cultural and religiousbackground.SOS families live together, forming a supportive village environment where children enjoy a happy childhood. The families helpone another and are well integrated with the surrounding local community. When poor children and families live in the vicinityof the children’s villages and neighbourhood, SOS provides services for them through the Family Strengthening Programme(FSP). (Page 20)
+
+## Current realities about life in CCIs
+
+- Some studies have found that violence in residential institutions is six times higher than violence in foster care, and that children in group care are almost four times more likely to experience sexual abuse than childrenin family-based care.16 (Page 17)
+- Small institutions developed on community based models can actually guarantee a healthy growth to specific kinds of children. For example a small group setting with trained staff  can provide the needed therapeutic care-or treatment for children who have suffered trauma or severe abuse or neglect. To enable large sibling groups to-remain together, a residential care setting may also be the best option.20 (Page 19)
+
+### SOS Model
+- Every Home is composed by small groups of boys and girls of different age who live together as siblings. Natural brothers and sisters are of course kept together. A SOS Mother, who is a child care professional, lives with them, guiding their development and running the household independently. She has the duty to recognise and respect each child’s cultural and religious background.SOS families live together, forming a supportive village environment where children enjoy a happy childhood. The families help one another and are well integrated with the surrounding local community. When poor children and families live in the vicinity of the children’s villages and neighbourhood, SOS provides services for them through the Family Strengthening Programme(FSP). (Page 20)
 - • Th e necessity principle: ensure that children do not fi nd themselves in alternative care unnecessarily; and• Th e suitability principle: where out-of-home care is provided, it is delivered under appropriate conditionsresponding to the child’s rights and best interests. (Page 21)
 - Furthermore the necessity principle implies the establishment of a robust gatekeeping mechanism, capable ofensuring that children are admitted to the alternative care system only if all possible means of keeping them withtheir parents or extended family have been examined (Page 21)
 - Udayan Care has set up 13 homes children’s homes in North India which host over 200 children and young adults in theirLiving in Family Environment (LIFE) programme. Every home has a team of mentor parents, who are life-time volunteers,caregivers, and mental health professionals. (Page 23)
@@ -24,7 +29,7 @@ Link:
 - Article 126, Guidelines for the Alternative Care, United Nations General Assembly, A/HRC/11/L.13, 15 June 2009. (Page 25)
 - It is advisable that educational and healthcare facilities are separate from residentialcare facilities. Th is not only helps the children feel they are part of a larger society, but it off ers them the possibilityof fi nding multiple protective circles apart from the institution. (Page 26)
 - It is important to distinguish the monitoring mechanism carried out by independent bodies from the children’scomplaint mechanisms. Th e latter should work as a fi rst call at the facility level; the children, or eventually, theirparents or the staff , should be able to communicate any type of concern to the institution’s management. Th eindependent monitoring mechanisms instead is a national structure, ideally with regional and local outreach,that might be contacted by anybody if a direct approach to the facility is deemed impossible or unsatisfactory inits results.36 (Page 28)
-- . Th eyshould be granted access to all information and recordsabout the treatment and condition of children andshould be allowed to conduct interviews with childrenon a confi dential basis. Th e inclusion of women as partof the inspection teams is particularly signifi cant wherethe institution hosts girls.37 (Page 28)
+- . They should be granted access to all information and recordsabout the treatment and condition of children andshould be allowed to conduct interviews with childrenon a confi dential basis. Th e inclusion of women as partof the inspection teams is particularly signifi cant wherethe institution hosts girls.37 (Page 28)
 - Visits are much more eff ective in terms of promoting sustained improvement in the conditions and treatmentof children if they take place regularly and systematically. If visits to the institutions by external commissions arecarried out only sporadically, they may do more harm than good. Especially with regard to cases of violence andabuse, visits might create expectations of justice among the children, which are often not fulfi lled; they mightgenerate more violence and abuse in a circle of punishment for spies and reward for silent spectators; and, in asystem prone to corruption, external commissions might even be monitored by some lobbies.39 (Page 28)
 - Independent Monitoring Mechanisms for children in detention, Justice for Children No. 2, UK-AID & PRI. (Page 28)
 - International Colloquium on Juvenile Justice: A Report, 16-18 March 2013, p. 47. (Page 28)
@@ -82,3 +87,7 @@ Link:
 
 ## Source
 [[Institutionalised _Children_Revised Annotated_Akshay.pdf]]
+
+#readinglist 
+
+- Moving forward: Implementing the Guidelines for the Alternative Care of Children, CELCIS, Glasgow, 2012, p. 34. (Page 19)
