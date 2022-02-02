@@ -2,7 +2,7 @@
 title: Empowering Youth leaving care at 18: Learnings from providing atercare services
 author: Catalysts for Social Action
 tags :
-- Practioner
+- Practitioner
 ---
 Tags: [[aftercare]] [[skill training]]
 Link:
