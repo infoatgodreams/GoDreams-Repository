@@ -57,18 +57,16 @@ Reading List : **[Master Reading List - Google Sheets](https://docs.google.com/s
 
 #### 1.  Status Quo:
 - CCIs (Domestic)
-	-   Care Practices
-	-  Management Practices
+	- Care Practices
+	- Management Practices
 	- Financial Practices
--  CNCP
+- CNCP
 - Service Providers to CCIs
 - CCIs, CNCP & Service Providers (Intl)
+- Government and UN regulations
     
 #### 2.  Innovations in the space:
-- Practitioners(Other capacity building orgs): **[Service Providers to CCIs](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Service%20Providers%20to%20CCIs.md)**
-	- Rainbow Foundation
-	-  Aangan
-	-  Miracle Foundation
+- Practitioners(Other capacity building orgs)
 - Bright Spots (CCIs)
 - Practitioners & Bright Spots (Intl)
     
@@ -76,14 +74,16 @@ Reading List : **[Master Reading List - Google Sheets](https://docs.google.com/s
 -  Education Sector (Traditional)
 -  Ed. Tech
 -  Hostel Care
-- Pediatric Hospital Wards
+-  Pediatric Hospital Wards
 -  Sporting Academies
 
 #### 4. Research and Books
-- Books  - **[Books Index](Volume%201/Reference%20Reading/Books/Books%20Index.md)**
+- Books  
+- Academic studies on Childcare and Institutional Care
+- Practitioner studies on Childcare and Institutional Care
     
 ## Primary Research
-**Goal** - Speak to 100 CCIs to decode : 
+**Goal** - Speak to x CCIs to decode : 
 
 1.  What is the current reality of the CCIs in the factors and key levers identified as part of Secondary Research
     

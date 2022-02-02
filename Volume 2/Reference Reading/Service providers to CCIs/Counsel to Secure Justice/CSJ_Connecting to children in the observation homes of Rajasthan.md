@@ -85,7 +85,7 @@ The goal of this intervention is to promote social reintegration and rehabilitat
 - The fear of stigma randeep in children, and was reflected even during other rounds, wherein children would talk about how stigma would impact their self-worth. (Page 27)
 - While identifying their social support, children were simultaneously encouraged to think of how their actions had impacted others. The circle processes guided children towards exploring how others feel, including as a result of their own actions. (Page 27)
 - Participating in circle activities as well as discussions helps children develop self-esteem, self-confidence in addition to other social emotional skills (Page 28)
-- Children increasingly felt comfortable voicing themselves and their opinion in thecircle, including expressing actions/thoughts which may not be perceived as socially desirable. (Page 28)
+- Children increasingly felt comfortable voicing themselves and their opinion in the circle, including expressing actions/thoughts which may not be perceived as socially desirable. (Page 28)
 - children space to think through their strengths and build on these. This allows children to believe that they have something to offer and achieve (Holcomb-McCoy, 2007). (Page 29)
 
 ## Source

@@ -52,7 +52,7 @@ title: Volume 1 Index
 - [Risks](Volume%201/Roll%20Ups/Risks.md)
 
 # Logs
-- [Navneeth's Logs](Volume%201/Daily%20Log/Daily%20Log%20Index%20-%20NK.md)
+- [Navneeths Log](Volume%201/Daily%20Log/Navneeths%20Log.md)
 
 
 # Link to Resources
