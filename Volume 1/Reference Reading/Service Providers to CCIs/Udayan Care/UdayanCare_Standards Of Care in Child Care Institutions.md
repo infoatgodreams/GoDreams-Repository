@@ -299,7 +299,7 @@ tags: Practitioner
 	- Assistance for obtaining the proof of identity, where required
 	- Any other service that may reasonably be provided in order to ensure the well-being of the child, either directly by the State Government, registered or fit individuals or institutions or through referral services. Reference: Section 53(1), JJ Act, 2015 (Page 27)
 
-# Child Child Some Institutional Care Practices in India and across the World (Page 29)
+# Some Institutional Care Practices in India and across the World (Page 29)
 
 - ## SOS Children’s Village- [[SOSChildrensVillage]]
 	-  A Unique Child care Model: SOS Children’s Villages of India has been providing institutional child care in the country since 1964. 
