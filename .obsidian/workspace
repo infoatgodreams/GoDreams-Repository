@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a977156d61e92b40",
+        "id": "4b3511399e991cd2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
+            "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Practitioner",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
+                "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
+                "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,13 +111,13 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "a977156d61e92b40",
+  "active": "4b3511399e991cd2",
   "lastOpenFiles": [
+    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Institutional Care for Vulnerable Children The Law, Present Scenario, and Way Ahead.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Master Class Best Practices for Safety of Children in a Child Care Institution.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/Child Protection Policy.md",
