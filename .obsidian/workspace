@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "4061ba17dcc300e7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#researchedinterventions",
+                "query": "child child some institu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,10 +111,10 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "4061ba17dcc300e7",
+  "active": "8a0547207c79d898",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
+    "conflict-files-obsidian-git.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md",
     "Volume 2/Daily Log/Akshays Log.md",
     "Volume 1/Volume 1 Index.md",
