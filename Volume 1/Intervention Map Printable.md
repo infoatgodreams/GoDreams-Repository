@@ -6,7 +6,7 @@
 
 
 
-## CCI MIS
+## CCI EMS
 
 - Bookkeeping , Invoicing and Expenditure Tracking  
 - Child Profile Record Keeping (Medical, Personal, Education Records, Legal Documentation) + Privacy Layer  
@@ -15,9 +15,9 @@
 - Communications/Report Generation  
 - Institution Compliance Records
 
-## EMS & Data Portal
+##  Data Portal
 - Survey/Data Capture Tool
-- Customizable Forms/ ERP
+- Customizable Forms
 - Customizable Dashboards
 	- Child Count/Break up by gender,age, location, CCI
 	- Domain specific Input metrics : Meals consumed, schooling days, counselling sessions etc. 
