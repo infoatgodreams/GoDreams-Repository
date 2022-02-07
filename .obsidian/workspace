@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Program Design/Intervention Map.md",
-            "mode": "preview",
+            "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Program Design/Intervention Map.md",
+                "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Program Design/Intervention Map.md",
+                "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -112,6 +112,7 @@
   },
   "active": "8a0547207c79d898",
   "lastOpenFiles": [
+    "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Volume 1/Program Design/Intervention Map.md",
     "Home.md",
     "Volume 2/Volume 2 Index.md",
@@ -120,7 +121,6 @@
     "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Counsel to Secure Justice/CSJ_Connecting to children in the observation homes of Rajasthan.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Master Class Best Practices for Safety of Children in a Child Care Institution.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Institutional Care for Vulnerable Children The Law, Present Scenario, and Way Ahead.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md"
+    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Institutional Care for Vulnerable Children The Law, Present Scenario, and Way Ahead.md"
   ]
 }
