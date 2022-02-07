@@ -5,24 +5,18 @@ author: Navneeth
 
 
 
-Scope: This article reviews via a meta analysis, the impact of institutionalization on the following areas of child development: physical development; developmental milestones, intellectual development,and academic achievement; behavior problems; indiscriminate friendliness; and attachment. Evidence on the persistence of or changes in the behavior, its relation to lengthof institutionalization, and its correlates are also presented.(Page 3)
+Scope: This article reviews via a meta analysis, the impact of institutionalization on the following areas of child development: physical development; developmental milestones, intellectual development,and academic achievement; behavior problems; indiscriminate friendliness; and attachment. Evidence on the persistence of or changes in the behavior, its relation to lengthof institutionalization, and its correlates are also presented.(Page 3) Interventions included pro viding sensory stimulation (Broussard & De carie, 1971), placing infants as “houseguests” with older residents (Skodak & Skeels, 1945, 1949), and improving child to caregiver ratios (Hunt, Mohandessi, Ghodessi, & Akiyama, 1976). All of these studies showed that simple changes within the orphanage environment creased children’s developmental competence. 
 
 
- # Interventions
+# [[IQ]] 
+[Education](Education) 
 
- - (Page 4) Such interventions included pro viding sensory stimulation (Broussard & De carie, 1971), placing infants as “houseguests” with older residents (Skodak & Skeels, 1945, 1949), and improving child to caregiver ratios (Hunt, Mohandessi, Ghodessi, & Akiyama, 1976). All of these studies showed that simple changes within the orphanage environment creased children’s developmental competence. 
-
-# Successful Institutionalization
 -  Further support for the idea that institutionalized children were not destined for developmental compromise came from the work of Barbara Tizard and her colleagues with children who had spent the first 2 years of their lives in high-quality institutions in the United Kingdom (Tizard, 1977).
 	-  In these institutions the child to caregiver ratios were 3:1 and the were taken on outings, and were fed well.
 	-  The major way in which orphanage children’s lives differed from the lives of home-reared children was that caregivers were discouraged from forming intimate relationships with them (Tizard & Tizard, 1971). 
-	- Tizard and Joseph (1970) first assessed children in the institution when they were 2 years old and compared them to a sample of home-reared children from a working class background. They found that the institution children’s IQ scores were only slightly lower than those of the working class children and that their language was only slightly delayed. 
-	- At age 4.5 the mean IQ of the children in an institution was in the average range and no language problems were found (Tizard & Rees, 1974). 
-	- Hodges and Tizard (1989) reported that children adopted from the institution had normal IQs at 8 and 16 years of age. Tizard’s findings were more positive than the findings of the earlier search, but it is important to note that the children in Tizard’s sample had not experienced the extreme deprivation experienced by earlier samples of children  (e.g., Goldfarb, 1945a)
-
-# IQ 
-[Education](Education) 
-
+	- Tizard and Joseph (1970) first assessed children in the institution when they were 2 years old and compared them to a sample of home-reared children from a working class background. They found that the institution children’s [[IQ]] scores were only slightly lower than those of the working class children and that their language was only slightly delayed. 
+	- At age 4.5 the mean [[IQ]] of the children in an institution was in the average range and no language problems were found (Tizard & Rees, 1974). 
+	- Hodges and Tizard (1989) reported that children adopted from the institution had normal [[IQ]]s at 8 and 16 years of age. Tizard’s findings were more positive than the findings of the earlier search, but it is important to note that the children in Tizard’s sample had not experienced the extreme deprivation experienced by earlier samples of children  (e.g., Goldfarb, 1945a)
 - Dennis (1973) followed children from a Lebanese orphanage after they were adopted and compared the developmental outcomes of children adopted at different ages. He claimed that children who had been adopted before 2 years of age eventually regained normal IQs whereas those who were  adopted after 2 years of age showed permanent deficits in IQ. Although this claim has often been cited, it has not been adequately tested
 - Both sets of literature clearly demonstrate that institutionalization early in  life has a negative impact on intellectual development and that it is not only institutionalization but also the length of institutionalization that is important.  Most of the recent information we have concerning the impact of institutionalization on intellectual development has been the result of the 1989 overthrow of the Ceausescu regime in Romania, after which the world be came aware of thousands of children being housed in Romanian state-run orphanages.
 	- Shortly after the revolution, Kaler and  Freeman (1994) were able to assess children  within the orphanage context.They conducted cognitive assessments on 25 children ranging  in age from 23 to 50 months who resided in a Romanian orphanage and compared them to same age peers from a Romanian kindergarten class. Apgar scores that were available for 13 of the children indicated that they had normal births. Using the Bayley Scales of Infant Development (Bayley, 1969), Kaler and Free  man (1994) found that none of the orphanage  children were functioning at their age level, and **20 of the 25 children functioned at levels  that were less than half their chronological  age.**
@@ -105,20 +99,57 @@ Scope: This article reviews via a meta analysis, the impact of institutionalizat
 			- 67% rocked, and 19% moved their hands stereotypically
 			- Tizard (1977). Fisher et al. (1997) suggested that the stereotyped behavior of orphanage children may represent the prolongation of the stereotyped behaviors found in normal infants around the time they learn to sit, stand, or walk (Thelan, 1979, 1981). It may also reflect a self-soothing strategy or an attempt to self-stimulate in the barren orphan age rooms.
 			-   In the Canadian sample, stereotyped be  havior was the most frequently reported be  havior problem of orphanage children but it  was also a behavior that improved quite rapidly (Fisher et al., 1997). 
+			-  Young orphanage children show the same stereotyped behaviors as family-reared children just starting  to sit, stand, or walk (Thelen, 1979),  but when restriction to a crib for 18–20 hr/day does  not permit them to develop their motor skills  (Ames, 1997), these early stereotyped behaviors are practiced for a prolonged period. 
+			-  In the general absence of sensory stimulation  and soothing by adults, for example, by rocking, children may learn to provide their own  stimulation or soothing by making stereo-  typed movements. 
 	-   Fisher et al. (1997) found  that 32% of orphanage children had problems  with peers. 
 		- The most common problems involved either avoiding contact with peers or  being overwhelmed by peers’ attention.
 		-   By the time the  orphanage children had been in adopted in Canada for 8  or more years, their peer relationships had im-  proved (Warford, 2002).
-		-   On the other hand, orphanage children felt less social support from their  peer group or a close friend than did children  in the other groups. The longer children had  spent in institution, the less peer support they felt even post adoption
+		-   On the other hand, orphanage children felt less social support from their  peer group or a close friend than did children  in the other groups. The longer children had  spent in institution, the less peer support they felt even post adoption  Peer problems are also believed to arise  from the characteristics of the orphanage environment. 
+			- Young children in Romanian orphanages are generally quiet and unrespon  sive to each other, so after adoption they are  wary of and withdraw from family-reared chil  dren who are noisier, more active, and more  unpredictable than their peers in the orphan  age (Fisher et al., 1997). 
+			- This unwillingness to interact with peers further prevents them  from learning normal patterns of social interaction. When they do become comfortable  enough to interact with peers in their new environment, they externalize (“act out”) in unacceptable ways that do not endear them to those peers. 
+			- Several years after adoption, they have improved on most indices of behavior with peers but still have externalizing problems and feel less social support from peers or  close friend than family-reared children do.
 -   Vorria, Rutter, Pickles, Wolkind, and Hobsbaum (1998) found that, compared to same aged peers living at home, 9- to 11-year-old  children living in a Greek orphanage were **more  inattentive and more often engaged in nonproductive activities in the classroom.** Adoptive parents highlighted the following as ongoing problems: 
 	- High activity levels
 	- inability to attend
-	- Distractibility
+	- Distractibility / [[Attention Problems]]
 	-  These findings are consistent with the earlier work of Goldfarb (1945b)  who reported distractibility and a lack of concentration among adolescents who had moved from orphanage  foster care at age 3. 
 	- Chugani et al. (2001) found that ten 7- to 11-year  old children adopted from Romanian orphan ages scored on standardized tests in the mildly  impaired range on attention and in the severely impaired range on impulsivity.
-	-   
+	- At 3 years postadoption, orphanage children  in the Canadian sample scored higher than  comparison group children on the Attention subscale of the [[CBCL]] (Ames, 1997).  [Assessment Tools](Assessment%20Tools)
+		-  They were also reported by their parents according to the [[Parenting Stress Index ]](Abidin,  1990) to be more distractible but not more hyperactive on the Distractibility/Hyperactivity subscale than comparison group children at 11 months after adoption (Mainemer, Gilman, & Ames, 1998) and more distractible and hyperactive than comparison children 3 years after adoption (Ames, 1997)
+		-   Kreppner, O’Connor, and Rutter  (2001) found that at both 4 and 6 years of  age the children who had been adopted from  Romania after 6 months of age were rated by  both teachers and parents on the [[Revised Rutter Parent and Teacher scales]] (Hogg, Rut  ter, & Richman, 1997) as displaying higher inattention/overactivity than did Romanian  children or U.K. children who were adopted  before 6 months of age.  
+		- The Canadian adoptees from Romania continued to display more attention problems 8 or  more years after adoption (Le Mare & Audet,  2002): orphanage children scored higher than  both Canadian-born and early-adopted children  on the Attention subscale of the CBCL and  on the Impulsivity and Inhibitory Control sub  scales of the [[Children’s Behavior Questionnaire]]] (Ahadi, Rothbart, & Ye, 1993) and lower  on the questionnaire’s Attention Focusing sub scale. 
+		-  **29%  of children in the orphanage group had received a clinical diagnosis of attention-deficit  disorder (ADD) or attention-deficit/hyperactivity disorder (ADHD)** whereas none of the  comparison group children had received such a diagnosis (Le Mare & Audet, 2002).
+		-   Marcovitch et al. 1997). In addition, Le Mare  and Audet (2002) found that children’s attentional difficulties at 8 years of age were nega-  tively correlated with their [Home Observation for Measurement of the Environment](Home%20Observation%20for%20Measurement%20of%20the%20Environment) environ-  ment scores (Caldwell & Bradley, 1984)
+		- Problems in attending may be at least  partly explained by the abrupt move from the  very low levels of stimulation in the orphan  age to the overwhelming sensory stimulation  of an adoptive home without any opportunity to gradually learn how to deal with greater sensory complexity. 
 
-- At 3 years postadoption, orphanage children  in the Canadian sample scored higher than  comparison group children on the Attention subscale of the [[CBCL]] (Ames, 1997).  [Assessment Tools](Assessment%20Tools)
-	-  They were also reported by their parents according to the [[Parenting Stress Index ]](Abidin,  1990) to be more distractible but not more hyperactive on the Distractibility/Hyperactivity subscale than comparison group children at 11 months after adoption (Mainemer, Gilman, & Ames, 1998) and more distractible and hyperactive than comparison children 3 years after adoption (Ames, 1997)
-	-   Kreppner, O’Connor, and Rutter  (2001) found that at both 4 and 6 years of  age the children who had been adopted from  Romania after 6 months of age were rated by  both teachers and parents on the [[Revised Rutter Parent and Teacher scales]] (Hogg, Rut  ter, & Richman, 1997) as displaying higher inattention/overactivity than did Romanian  children or U.K. children who were adopted  before 6 months of age.  
-	- The Canadian adoptees from Romania con tinued to display more attention problems 8 or  more years after adoption (Le Mare & Audet,  2002): orphanage children scored higher than  both Canadian-born and early-adopted children  on the Attention subscale of the CBCL and  on the Impulsivity and Inhibitory Control sub  scales of the [[Children’s Behavior Questionnaire]]] (Ahadi, Rothbart, & Ye, 1993) and lower  on the questionnaire’s Attention Focusing sub scale. 
-	- 
+-  Some behavior problems last up to 8 or more years after removal from the  institution. 
+	- Fisher et al. (1997) have pointed  out that most of the characteristic early problems of children adopted from orphanages  might indicate brain damage or emotionally produced pathology if they were found in children reared in families.
+
+# [Indiscriminate Friendliness](Indiscriminately%20Sociable%20Behavior.md)
+
+-  Tizard (1977) characterized indiscriminate friendliness as behavior that is affectionate and friendly toward all adults (including strangers) without the fear or caution that is typical  in young children. In these cases the children’s behavior toward a stranger cannot be discriminated from their behavior toward their primary caregivers. 
+-   (Hodges & Tizard, 1989). Goldfarb (1955) found that indiscriminate friendliness was still present in adolescents who had been institutionalized as children but who were later fostered to unstable foster care placements.
+-   Chisholm (1998; Chisholm et al., 1995)  developed a [[5-item measure of indiscriminate  friendliness]]. [Assessment Tools](Assessment%20Tools) 
+	- Parents were asked five questions assessing :
+		-  whether their child wandered without distress
+		- whether their child was willing to go home with a stranger,
+		-  how friendly their child was with new adults, 
+		-  whether their child was ever shy, and 
+		- what their child typically did upon meeting new adults. 
+
+- Using a [[disinhibited attachment disturbance scale]] *[Assessment Tools](Assessment%20Tools)* which contained three items similar  to those used by Chisholm (1998; Chisholm  et al., 1995), O’Connor et al. (1999) found  that approximately 20% of Romanian children  adopted between 6 and 24 months of age had high scores on the scale compared to approximately 10% of Romanian children adopted  before 6 months of age and 2% of a group of  children adopted within the United Kingdom.
+- Unlike the findings for intellectual development and for other behavior problems,  there is disagreement among studies as to whether there is a relationship between the length of  time that children have spent in orphanages  (or their age at adoption) and the amount of  indiscriminate friendliness they display. 
+	- O’Connor and his colleagues found modest correlations at both 4 years (O’Connor, et al., 1999) and 6 years of age (O’Connor, Rutter, et al.,  2000) between duration of deprivation (age at adoption) and children’s scores on disinhib-  ited attachment behaviors in the U.K. group.  
+	- They pointed out, however, that some chil-  dren who were adopted after 2 years in Romania showed no signs of disinhibited attachment behaviors and other children who were  adopted within the first 6 months of life showed  signs of the behavior 
+-   In an attempt to better understand indiscriminate friendliness, **researchers have examined particular correlates that may be associated with this behavior,** focusing on aspects  of the institutional environment, child characteristics, and family characteristics.
+	-  In the Canadian sample Chisholm (1998) found that  high scores on indiscriminate friendliness 3 years postadoption were positively correlated  with the child having been a favorite in the  institution. 
+	- Other measures of the quality of  institutions, **were unrelated to children’s indiscriminate friendliness**. for example
+		-  quality of physical care,
+		-  whether toys were available (Chisholm et al. 1998)
+		-  or children’s weight or developmental delay at adoption (O’Connor et al.,1999; O’Connor, Rutter, et al., 2000) 
+		- [[IQ]] does not appear to be strongly related to indiscriminate friendliness
+	-  Researchers have  consistently found associations between orphanage children’s indiscriminate friendliness  and their behavior problems. [Caregiving](Caregiving)
+		- Chisholm (1998)  found that at 3 years postadoption, children’s  indiscriminate friendliness scores were positively correlated with their scores on the [CBCL](CBCL). 
+		- Le Mare and Audet (2002) found that children's scores on indiscriminate friendliness at 3 years after adoption were positively correlated with their attention problem scores more than 8 years after adoption. [Attention Problems](Attention%20Problems)
+		- In the U.K. sample  children’s scores on disinhibited attachment  disturbance were positively correlated with  their scores on hyperactivity and disruptive  behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years. 
+		- 
