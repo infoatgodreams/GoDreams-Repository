@@ -6,9 +6,9 @@ tags:
 - essentialreads
 ---
 
+**Link:** 
 
-
-Scope: This article reviews via a meta analysis, the impact of institutionalization on the following areas of child development: physical development; developmental milestones, intellectual development,and academic achievement; behavior problems; indiscriminate friendliness; and attachment. Evidence on the persistence of or changes in the behavior, its relation to lengthof institutionalization, and its correlates are also presented.(Page 3) Interventions included pro viding sensory stimulation (Broussard & De carie, 1971), placing infants as “houseguests” with older residents (Skodak & Skeels, 1945, 1949), and improving child to caregiver ratios (Hunt, Mohandessi, Ghodessi, & Akiyama, 1976). All of these studies showed that simple changes within the orphanage environment creased children’s developmental competence. 
+**Scope:** This article reviews via a meta analysis, the impact of institutionalization on the following areas of child development: physical development; developmental milestones, intellectual development,and academic achievement; behavior problems; indiscriminate friendliness; and attachment. Evidence on the persistence of or changes in the behavior, its relation to lengthof institutionalization, and its correlates are also presented.(Page 3) Interventions included pro viding sensory stimulation (Broussard & De carie, 1971), placing infants as “houseguests” with older residents (Skodak & Skeels, 1945, 1949), and improving child to caregiver ratios (Hunt, Mohandessi, Ghodessi, & Akiyama, 1976). All of these studies showed that simple changes within the orphanage environment creased children’s developmental competence. 
 
 
 # [[IQ]] 
