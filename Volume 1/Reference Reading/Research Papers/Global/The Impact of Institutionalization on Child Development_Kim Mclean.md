@@ -21,26 +21,43 @@ Scope: This article reviews via a meta analysis, the impact of institutionalizat
 	- Hodges and Tizard (1989) reported that children adopted from the institution had normal IQs at 8 and 16 years of age. Tizard’s findings were more positive than the findings of the earlier search, but it is important to note that the children in Tizard’s sample had not experienced the extreme deprivation experienced by earlier samples of children  (e.g., Goldfarb, 1945a)
 
 # IQ 
-[Education](Education)
+[Education](Education) 
 
--  Dennis (1973) followed  
-children from a Lebanese orphanage after they  
-were adopted and compared the developmental outcomes of children adopted at different  
-ages. He claimed that children who had been  
-adopted before 2 years of age eventually regained normal IQs whereas those who were  
-adopted after 2 years of age showed permanent deficits in IQ. Although this claim has  
-often been cited, it has not been adequately  
-tested.
+-  Dennis (1973) followed  children from a Lebanese orphanage after they  
+were adopted and compared the developmental outcomes of children adopted at different ages. He claimed that children who had been adopted before 2 years of age eventually regained normal IQs whereas those who were  
+adopted after 2 years of age showed permanent deficits in IQ. Although this claim has often been cited, it has not been adequately tested.
 
--  Both sets of literature clearly  
-demonstrate that institutionalization early in  
-life has a negative impact on intellectual development and that it is not only institutionalization but also the length of institutionalization that is important.  
+-  Both sets of literature clearly demonstrate that institutionalization early in  life has a negative impact on intellectual development and that it is not only institutionalization but also the length of institutionalization that is important.  
 
-- Most of the recent information we have  
-concerning the impact of institutionalization  
-on intellectual development has been the result of the 1989 overthrow of the Ceausescu  
-regime in Romania, after which the world be  
-came aware of thousands of children being  
-housed in Romanian state-run orphanages.
+- Most of the recent information we have concerning the impact of institutionalization  
+  on intellectual development has been the result of the 1989 overthrow of the Ceausescu regime in Romania, after 
+  which the world be came aware of thousands of children being  
+  housed in Romanian state-run orphanages.
 
-- 
+- Shortly after the revolution, Kaler and  Freeman (1994) were able to assess children  within the orphanage context.They conducted cognitive assessments on 25 children ranging  in age from 23 to 50 months who resided in a Romanian orphanage and compared them to same age peers from a Romanian kindergarten class. Apgar scores that were available for 13 of the children indicated that they had normal births. Using the Bayley Scales of Infant Development (Bayley, 1969), Kaler and Free  man (1994) found that none of the orphanage  children were functioning at their age level, and **20 of the 25 children functioned at levels  that were less than half their chronological  age.**
+
+- Sloutsky (1997) assessed  
+differences in IQ scores between 6- to 7-year  
+old children reared in a Russian orphanage  
+and children of the same age reared at home  
+and found that the **orphanage children scored  
+lower in IQ than home-reared children.**  
+Other researchers have been able to evaluate the intellectual development of previously  
+institutionalized Romanian children after the  
+profound intervention of adoption. These two  
+projects, which are ongoing and have now followed children up to 8 or more years after  
+adoption, have provided the clearest information we have regarding intellectual development in post-institutionalized children.
+	- The first  project, in British Columbia, Canada, comprised an initial sample of 46 Romanian children who had spent at least 8 months (range =  8–53 months) in a Romanian orphanage (orphanage group) prior to their adoption to Canada, when they were a median 18.5 months  old (range = 8–68 months); 29 children who would have gone to orphanage in Romania had they not been adopted prior to 4 months of age (early-adopted group); and 46 Canadian-born, nonadopted, never institutionalized children (Canadian-born group) who were individually matched on demographic characteristics to children in the orphanage group (Ames, 1997). 
+	- The second project (Rutter &  the ERA Study Team, 1998) comprised a sam  ple of 165 children adopted to the United  Kingdom from Romania between birth and 42  months of age. Most of the children, but not  all, had been adopted from orphanages. These  children were compared to 52 children who  were adopted within the United Kingdom before 6 months of age.
+	
+- Morison et al. (1995) found that 78%  
+of orphanage children were **delayed in all four  
+areas of development (personal–social, gross  
+motor, fine motor–adaptive, and language de-  
+velopment)** assessed by the Revised Denver  
+Prescreening Developmental Questionnaire (R-  
+DPDQ; Frankenberg, 1986) [[Assessment Tools]]. 
+	- Rutter and his colleagues reported simi-  
+	lar findings with their sample of adoptees in  
+	the United Kingdom (Rutter & the ERA  
+	Study Team, 1998).  By 11 months postadoption, improvement was evident in the Canadian sample (Morison et al., 1995).
