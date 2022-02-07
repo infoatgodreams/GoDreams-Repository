@@ -104,3 +104,21 @@ Scope: This article reviews via a meta analysis, the impact of institutionalizat
 		- In the Fisher et al. orphanage sample, 84% of orphanage children displayed one or more stereotyped behaviors. 
 			- 67% rocked, and 19% moved their hands stereotypically
 			- Tizard (1977). Fisher et al. (1997) suggested that the stereotyped behavior of orphanage children may represent the prolongation of the stereotyped behaviors found in normal infants around the time they learn to sit, stand, or walk (Thelan, 1979, 1981). It may also reflect a self-soothing strategy or an attempt to self-stimulate in the barren orphan age rooms.
+			-   In the Canadian sample, stereotyped be  havior was the most frequently reported be  havior problem of orphanage children but it  was also a behavior that improved quite rapidly (Fisher et al., 1997). 
+	-   Fisher et al. (1997) found  that 32% of orphanage children had problems  with peers. 
+		- The most common problems involved either avoiding contact with peers or  being overwhelmed by peers’ attention.
+		-   By the time the  orphanage children had been in adopted in Canada for 8  or more years, their peer relationships had im-  proved (Warford, 2002).
+		-   On the other hand, orphanage children felt less social support from their  peer group or a close friend than did children  in the other groups. The longer children had  spent in institution, the less peer support they felt even post adoption
+-   Vorria, Rutter, Pickles, Wolkind, and Hobsbaum (1998) found that, compared to same aged peers living at home, 9- to 11-year-old  children living in a Greek orphanage were **more  inattentive and more often engaged in nonproductive activities in the classroom.** Adoptive parents highlighted the following as ongoing problems: 
+	- High activity levels
+	- inability to attend
+	- Distractibility
+	-  These findings are consistent with the earlier work of Goldfarb (1945b)  who reported distractibility and a lack of concentration among adolescents who had moved from orphanage  foster care at age 3. 
+	- Chugani et al. (2001) found that ten 7- to 11-year  old children adopted from Romanian orphan ages scored on standardized tests in the mildly  impaired range on attention and in the severely impaired range on impulsivity.
+	-   
+
+- At 3 years postadoption, orphanage children  in the Canadian sample scored higher than  comparison group children on the Attention subscale of the [[CBCL]] (Ames, 1997).  [Assessment Tools](Assessment%20Tools)
+	-  They were also reported by their parents according to the [[Parenting Stress Index ]](Abidin,  1990) to be more distractible but not more hyperactive on the Distractibility/Hyperactivity subscale than comparison group children at 11 months after adoption (Mainemer, Gilman, & Ames, 1998) and more distractible and hyperactive than comparison children 3 years after adoption (Ames, 1997)
+	-   Kreppner, O’Connor, and Rutter  (2001) found that at both 4 and 6 years of  age the children who had been adopted from  Romania after 6 months of age were rated by  both teachers and parents on the [[Revised Rutter Parent and Teacher scales]] (Hogg, Rut  ter, & Richman, 1997) as displaying higher inattention/overactivity than did Romanian  children or U.K. children who were adopted  before 6 months of age.  
+	- The Canadian adoptees from Romania con tinued to display more attention problems 8 or  more years after adoption (Le Mare & Audet,  2002): orphanage children scored higher than  both Canadian-born and early-adopted children  on the Attention subscale of the CBCL and  on the Impulsivity and Inhibitory Control sub  scales of the [[Children’s Behavior Questionnaire]]] (Ahadi, Rothbart, & Ye, 1993) and lower  on the questionnaire’s Attention Focusing sub scale. 
+	- 

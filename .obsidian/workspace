@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631
+    "width": 377.0093288421631,
+    "collapsed": true
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Daily Log/Navneeths Log.md",
+                "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Daily Log/Navneeths Log.md",
+                "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,12 +125,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 108.5
+    "width": 108.5,
+    "collapsed": true
   },
-  "active": "b69fb74a761bed72",
+  "active": "134c9ee4d2c4c5dc",
   "lastOpenFiles": [
-    "Volume 1/Daily Log/Navneeths Log.md",
     "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+    "Volume 1/Daily Log/Navneeths Log.md",
     "Volume 1/Program Design/CAP Design Framework.md",
     "Volume 1/Program Design/Intervention Map.md",
     "Home.md",
