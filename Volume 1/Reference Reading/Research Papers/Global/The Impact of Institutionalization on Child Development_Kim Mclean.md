@@ -64,4 +64,43 @@ Scope: This article reviews via a meta analysis, the impact of institutionalizat
 	- Eighty-five percent of  orphanage children in the Canadian sample below the 10th percentile and 59% of children fell below the 5th percentile for weight (Morison et al., 1995). 
 	- In another group of 16 Romanian children adopted to Canada, 50%  were below the 5th percentile for weight and  44% were below the 5th percentile for height (Benoit et al., 1996). Similarly, in the U.K
 	-  In the UK sample of Romanian adoptees, Rutter and the ERA Study Team (1998) reported that half of  the children had heights, weights, and head  circumferences below the 3 percentile.
-	-   In several studies growth retardation in height has been shown to be associated with the  length of time that children had spent in institutions (Ames, 1997; Johnson et al., 1992;  Rutter & the ERA Study Team, 1998). The
+	-   In several studies growth retardation in height has been shown to be associated with the  length of time that children had spent in institutions (Ames, 1997; Johnson et al., 1992;  Rutter & the ERA Study Team, 1998). 
+
+-   The only physiological measures that have been examined are cortisol levels (Carlson &  Earls, 1997; Gunnar et al., 2001) and patterns  of brain glucose metabolism (Chugani et al.,  2001). 
+	- Substantial preclinical evidence that disturbances in caregiving early in life alters development of the HPA axis and its central releasing hormone (Sanchez, Ladd, & Plotsky, 2001)
+	-   Both hyper and hypocortisolemia can have negative effects on health and behavioral functioning  (McEwen, 1998)
+	-   The first study to examine cortisol level among orphanage children was conducted b  Carlson and Earls (1997). They measured ambulatory cortisol levels in 2-year-old children residing in a Romanian orphanage and compared them to a sample of 2-year-old family reared children. Carlson and Earls found tha  orphanage children’s cortisol levels were not elevated as compared to family-reared children. 
+	-   Family-reared children displayed the typical pattern: 
+		- cortisol levels were highest in the early morning and decreased over the day  
+		- Orphanage children, on the other hand, did not display this pattern; indeed none of the children they studied exhibited the typical diurnal pattern of cortisol production. Noon levels of cortisol were positively correlated with delays in cognitive functioning in the orphanage group. Carlson and Earls (1997) suggested that orphanage experience disturbs the diurnal pattern of cortisol production but does not result in increased levels of cortisol concentrations overall.
+		-   Chugani and colleagues (2001) examined brain dysfunction in ten 7- to 11-year-old  children who had spent on average 38 months  (range, 16–90 months) in a Romanian orphanage prior to their adoption to the United  States. 
+		-   Chugani et al. (2001) found lower glucose  metabolism in several areas of the brain among  Romanian adoptees than in either the adult or  child comparison groups. They suggested that  the decreased brain glucose metabolism likely  resulted from the Romanian adoptees’ experience of early deprivation and may be one explanation for the cognitive and behavioral deficits seen in many previously institutionalized  children.
+		- The reader is cautioned that early  deprivation in Chugani et al’s sample appears  to have included an unusually high frequency  of physical abuse. Chugani et al. (2001) reported that 5 of the 10 Romanian children they assessed had physical scarring that appeared to have resulted from lacerations, burns or broken bones. [Child Safety](Child%20Safety)
+		-  It is possible therefore  that the brain dysfunction found by Chugani  et al. (2001) may be at least partially related  to pain and fear beyond the levels typical of institutional life
+
+# Behavior Problems
+[Caregiving](Caregiving) 
+
+- Goldfarb (1943b) found that previously institutionalized 6- to 8-year-old children who had been placed in foster care at age 3 scored higher on behavior problem checklists than noninstitutionalized children of the same age who had spent their lives in foster care. 
+	- The same difference between these groups was also found  during adolescence (Goldfarb, 1943a). 
+	- Even  children who were adopted from the relatively  benign orphanage environment studied by  Tizard were described by their teachers as  having more behavior problems than their  classmates at both 8 (Tizard, 1977) and 16  years old (Hodges & Tizard, 1989). 
+	- Verhulst,  Althaus, and Versluis–Den Bieman (1990a,  1990b) found that 10- to 15-year-old children  who had been adopted from other countries to  the Netherlands between birth and 10 years of  age had more behavior problems than same-  age nonadopted children
+
+- Fisher et al. (1997) found that 11 months after adoption Romanian orphanage children adopted to Canada had higher internalizing and total scores on the Child Behavior Checklist ([[CBCL]]; Achenbach, Edelbrock, & Howell, 1987) than did early-adopted or Canadian-born children. [Assessment Tools](Assessment%20Tools)
+	-   Children adopted after 6 months of age had higher externalizing and  total scores on the CBCL than Romanian children adopted before 6 months of age. 
+	-   Although 3 years after adoption the orphanage children no longer scored higher than comparison groups on the internalizing  scale of the CBCL, they continued to score  higher on the same internalizing items on which  they had scored higher at 11 months post  adoption, that is, stares into space, strange behavior, acts too young, and speech problems.
+
+- In the Canadian sample, researchers conducted in-depth interviews with parents regarding any behavior problems they were experiencing with their children at or soon after adoption (Fisher et al., 1997). The main areas of problematic behavior were
+		-  eating
+		-  stereotyped behavior
+		-  peer relationships
+	-   Eleven months after adoption 65% of  orphanage children had eating problems [Nutrition](Volume%201/Roll%20Ups/Nutrition.md):
+		-  Parents reported that one-third of children refused to eat solid foods and almost one-third of children overate. 
+		-  In the Canadian  sample, many parents of orphanage children  reported that they continued to offer food to  children after a meal and that it was never refused. 
+		- Given orphanage children’s malnutrition and small size, such overeating probably  represents their bodies’ natural catch-up mechanism. 
+		- Children in orphanage had never eaten  enough food to allow them to learn feelings  of satiety (Fisher et al., 1997). 
+		-   Three  years after adoption, orphanage children had no more eating problems than did Canadian  born or early-adopted children (Ames, 1997)
+	- A common behavior problem found in  most samples of orphanage children is stereotyped behavior, that is, repeating the same movement over and over, as in body rocking
+		- In the Fisher et al. orphanage sample, 84% of orphanage children displayed one or more stereotyped behaviors. 
+			- 67% rocked, and 19% moved their hands stereotypically
+			- Tizard (1977). Fisher et al. (1997) suggested that the stereotyped behavior of orphanage children may represent the prolongation of the stereotyped behaviors found in normal infants around the time they learn to sit, stand, or walk (Thelan, 1979, 1981). It may also reflect a self-soothing strategy or an attempt to self-stimulate in the barren orphan age rooms.

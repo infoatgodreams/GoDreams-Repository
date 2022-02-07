@@ -4,7 +4,13 @@ author: Navneeth
 tags:
 - dailylog
 ---
+# 2022-02-07
 
+## Residual impacts of institutionalization post adoption
+
+- [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Reference%20Reading/Research%20Papers/Global/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md)
+	- There are several tools that can be used to measure children's IQ, developmental progress and behavior progress. [R-DPDQ](R-DPDQ) [CBCL](CBCL) [Home Observation for Measurement of the Environment](Home%20Observation%20for%20Measurement%20of%20the%20Environment) [SB4](SB4)
+	- 
 
 # 2022-02-01
 ## IQ Growth, Differentiation and period of institutionalization
