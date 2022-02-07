@@ -105,5 +105,5 @@ Caregiving requirements for partner CCIs:
 
 • Complaint box where children can leave notes explaining their issues. The box should be opened periodically by the Management / Trustee of the institution and or by the board member of the organization
 
-#reading list: 
+#readinglist: 
 CSA employee handbook 

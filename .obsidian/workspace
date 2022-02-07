@@ -6,7 +6,6 @@
       {
         "id": "134c9ee4d2c4c5dc",
         "type": "leaf",
-        "dimension": 28.129395218002813,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -19,16 +18,17 @@
         }
       },
       {
-        "id": "b69fb74a761bed72",
+        "id": "c51d303214617d7b",
         "type": "leaf",
-        "dimension": 71.87060478199719,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+            "file": "Volume 1/Daily Log/Navneeths Log.md",
             "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -64,9 +64,16 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "a9d99616a058448e",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,17 +136,17 @@
     "width": 108.5,
     "collapsed": true
   },
-  "active": "b69fb74a761bed72",
+  "active": "134c9ee4d2c4c5dc",
   "lastOpenFiles": [
     "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
-    "Indiscriminately Sociable Behavior.md",
-    "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
-    "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
     "Volume 1/Daily Log/Navneeths Log.md",
-    "Volume 1/Program Design/CAP Design Framework.md",
-    "Volume 1/Program Design/Intervention Map.md",
-    "Home.md",
-    "Volume 2/Volume 2 Index.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md"
+    "Volume 1/Roll Ups/Risks.md",
+    "Volume 1/Roll Ups/Physical Health.md",
+    "Volume 1/Roll Ups/Nutrition.md",
+    "templates/Note Taking Instructions.md",
+    "templates/New Note.md",
+    "Volume 1/Reference Reading/Master Reading List.md",
+    "Volume 1/Reference Reading/Books/Managing Childrens Homes - Developing Effective Leadership in a Small Organization, Hicks, L & Gibbs (2007).md",
+    "Volume 1/Intervention Map Printable.md"
   ]
 }

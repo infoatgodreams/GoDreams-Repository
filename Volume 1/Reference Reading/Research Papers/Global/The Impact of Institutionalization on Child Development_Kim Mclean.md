@@ -1,6 +1,9 @@
 ---
 title: The Impact of Institutionalization on Child Development_Kim Mclean
 author: Navneeth
+tags: 
+- globalresearch
+
 ---
 
 
@@ -159,10 +162,24 @@ Scope: This article reviews via a meta analysis, the impact of institutionalizat
 	- Amid the passivity of the orphanage an indiscriminately friendly child may receive what little attention caregivers have to offer. 
 	- The fact that indiscriminate friendliness was associated with having been a favorite in the orphanage supports this contention but does not explain what function such behavior serves after adoption. [[Observed behaviors as assessments]]
 
--  O’Connor et al.  (1999) also suggested that indiscriminate friend-  liness may represent a form of developmental  delay in the [[attachment]] behavioral system, 
-	- although their use of the term “disinhibited at-  tachment disturbance” seems to suggest atten-  tion problems as well as involvement of the  attachment system.
+-  O’Connor et al.  (1999) also suggested that indiscriminate friendliness may represent a form of developmental  delay in the [[attachment]] behavioral system
+	-  although their use of the term “disinhibited at-  tachment disturbance” seems to suggest atten-  tion problems as well as involvement of the  attachment system.
 	-   Indiscriminate friendliness is particularly  relevant to the study of attachment, given sug- gestions that this behavior may be indicative  of “nonattachment” (Lieberman & Pawl, 1988)  or the disinhibited/indiscriminate subtype of  reactive attachment disorder (Zeanah, 1996,  2000).
 	- Both Lieberman and Pawl (1988) and  Zeanah (2000) described these disorders as resulting from an infant not having had the opportunity to form an attachment relationship
 	-  Similarly, O’Connor et al. (2003)  reported that children in their sample who  scored high on their Disinhibited Attachment  Disturbance scale were overwhelmingly classified as Insecure/Other in terms of their attachment patterns. [disinhibited attachment disturbance scale](disinhibited%20attachment%20disturbance%20scale)
-	-   Both Chisholm (1998) and O’Connor et al.  (2003) found some securely attached children  who are indiscriminately friendly, and Marcovitch et al. (1997) reported that some securely attached children were observed to be extremely friendly to the stranger in the Strange  Situation. It seems unlikely, therefore, that in  discriminate friendliness necessarily indicates  an attachment disorder (Chisholm, 1998)
-	- 
+-  On the other hand, It seems unlikely that in  discriminate friendliness necessarily indicates  an attachment disorder (Chisholm, 1998) 
+	-  Both Chisholm (1998) and O’Connor et al.  (2003) found some securely attached children  who are indiscriminately friendly, and Marcovitch et al. (1997) reported that some securely attached children were observed to be extremely friendly to the stranger in the Strange  Situation.
+	- Indiscriminate friendliness has little or no  relation to IQ, but it is positively correlated  with behavior problems, especially problems  of attention. To some extent, therefore, it may  reflect distractibility and impulsivity as ap  lied to interactions with strange adults. 
+	- This indicates a possible differentiation of two components of indiscriminate friendliness: uninhibited friendliness toward all adults and lack of  the secure base behavior characteristic of attachment. How distinguishable these two components in terms of their antecedents and consequences remains to be explored further. 
+
+
+# [Attachment](attachment)
+
+-  Given that attachment usually develops some time during the second half of the first year of life (Bowl-by, 1969/1982) children who have been housed in institutions during the first year or 2 of life necessarily develop an attachment relationship with adoptive parents later than is typical. 
+-  Most researchers have assumed that the  children would have been unlikely to have de  veloped an attachment relationship with care  givers within the institution, given the very  high child to caregiver ratios within institutions (Chisholm, 1998). 
+-   Tizard has been the only researcher who  examined children’s behavior toward their  caregivers within the institution context. 
+	- Tizard and Tizard (1971) found that when com-  paring children in institution to family-reared  2-year-olds, a list of preferred persons could  easily be constructed for family-reared children whereas lists of preferred persons for  children from institutions included anyone  that children knew well. 
+	- The only “favorite”  people in children’s lives were people they  saw rarely (i.e., a parent who visited), but  such persons were the only ones who provided one on one attention to the children. 
+	- By the time the children were 8 years old there were only 7 institution children left to study and only a minority of them were suspected to have formed any attachment to their institutional caregiver. 
+-   Chisholm  et al. (1995) also reported that children from  institutions did not initially display proximity  promoting behaviors like smiling, crying, and  making eye contact, behaviors that often pro  mote contact with caregivers. Parents in the  Canadian sample reported that when they first  met their children fewer than half of the children would smile back at someone who smiled at them. 
+-    Goldfarb  (1943a) found that the majority of 10- to 14-  year-olds who had been in orphanage for the  first 3 years of life and were later removed to  foster homes were described as withdrawn and  “removed” with both family members and their  caseworkers, and appeared unperturbed by either threats of removal from the home or  changes in foster care placements (Goldfarb,  1945b). None of the comparison children who had spent their lives in foster care were d
