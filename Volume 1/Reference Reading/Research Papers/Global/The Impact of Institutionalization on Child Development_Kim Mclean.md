@@ -23,41 +23,26 @@ Scope: This article reviews via a meta analysis, the impact of institutionalizat
 # IQ 
 [Education](Education) 
 
--  Dennis (1973) followed  children from a Lebanese orphanage after they  
-were adopted and compared the developmental outcomes of children adopted at different ages. He claimed that children who had been adopted before 2 years of age eventually regained normal IQs whereas those who were  
-adopted after 2 years of age showed permanent deficits in IQ. Although this claim has often been cited, it has not been adequately tested.
+- Dennis (1973) followed children from a Lebanese orphanage after they were adopted and compared the developmental outcomes of children adopted at different ages. He claimed that children who had been adopted before 2 years of age eventually regained normal IQs whereas those who were  adopted after 2 years of age showed permanent deficits in IQ. Although this claim has often been cited, it has not been adequately tested
+- Both sets of literature clearly demonstrate that institutionalization early in  life has a negative impact on intellectual development and that it is not only institutionalization but also the length of institutionalization that is important.  Most of the recent information we have concerning the impact of institutionalization on intellectual development has been the result of the 1989 overthrow of the Ceausescu regime in Romania, after which the world be came aware of thousands of children being housed in Romanian state-run orphanages.
+	- Shortly after the revolution, Kaler and  Freeman (1994) were able to assess children  within the orphanage context.They conducted cognitive assessments on 25 children ranging  in age from 23 to 50 months who resided in a Romanian orphanage and compared them to same age peers from a Romanian kindergarten class. Apgar scores that were available for 13 of the children indicated that they had normal births. Using the Bayley Scales of Infant Development (Bayley, 1969), Kaler and Free  man (1994) found that none of the orphanage  children were functioning at their age level, and **20 of the 25 children functioned at levels  that were less than half their chronological  age.**
 
--  Both sets of literature clearly demonstrate that institutionalization early in  life has a negative impact on intellectual development and that it is not only institutionalization but also the length of institutionalization that is important.  
-
-- Most of the recent information we have concerning the impact of institutionalization  
-  on intellectual development has been the result of the 1989 overthrow of the Ceausescu regime in Romania, after 
-  which the world be came aware of thousands of children being  
-  housed in Romanian state-run orphanages.
-
-- Shortly after the revolution, Kaler and  Freeman (1994) were able to assess children  within the orphanage context.They conducted cognitive assessments on 25 children ranging  in age from 23 to 50 months who resided in a Romanian orphanage and compared them to same age peers from a Romanian kindergarten class. Apgar scores that were available for 13 of the children indicated that they had normal births. Using the Bayley Scales of Infant Development (Bayley, 1969), Kaler and Free  man (1994) found that none of the orphanage  children were functioning at their age level, and **20 of the 25 children functioned at levels  that were less than half their chronological  age.**
-
-- Sloutsky (1997) assessed  
-differences in IQ scores between 6- to 7-year  
-old children reared in a Russian orphanage  
-and children of the same age reared at home  
-and found that the **orphanage children scored  
-lower in IQ than home-reared children.**  
-Other researchers have been able to evaluate the intellectual development of previously  
-institutionalized Romanian children after the  
-profound intervention of adoption. These two  
-projects, which are ongoing and have now followed children up to 8 or more years after  
-adoption, have provided the clearest information we have regarding intellectual development in post-institutionalized children.
+- Sloutsky (1997) assessed differences in IQ scores between 6- to 7-year old children reared in a Russian orphanage and children of the same age reared at home and found that the **orphanage children scored  lower in IQ than home-reared children.** Other researchers have been able to evaluate the intellectual development of previously institutionalized Romanian children after the profound intervention of adoption. These two  projects, which are ongoing and have now followed children up to 8 or more years after adoption, have provided the clearest information we have regarding intellectual development in post-institutionalized children. 
 	- The first  project, in British Columbia, Canada, comprised an initial sample of 46 Romanian children who had spent at least 8 months (range =  8–53 months) in a Romanian orphanage (orphanage group) prior to their adoption to Canada, when they were a median 18.5 months  old (range = 8–68 months); 29 children who would have gone to orphanage in Romania had they not been adopted prior to 4 months of age (early-adopted group); and 46 Canadian-born, nonadopted, never institutionalized children (Canadian-born group) who were individually matched on demographic characteristics to children in the orphanage group (Ames, 1997). 
 	- The second project (Rutter &  the ERA Study Team, 1998) comprised a sam  ple of 165 children adopted to the United  Kingdom from Romania between birth and 42  months of age. Most of the children, but not  all, had been adopted from orphanages. These  children were compared to 52 children who  were adopted within the United Kingdom before 6 months of age.
-	
-- Morison et al. (1995) found that 78%  
-of orphanage children were **delayed in all four  
-areas of development (personal–social, gross  
-motor, fine motor–adaptive, and language de-  
-velopment)** assessed by the Revised Denver  
-Prescreening Developmental Questionnaire (R-  
-DPDQ; Frankenberg, 1986) [[Assessment Tools]]. 
-	- Rutter and his colleagues reported simi-  
-	lar findings with their sample of adoptees in  
-	the United Kingdom (Rutter & the ERA  
-	Study Team, 1998).  By 11 months postadoption, improvement was evident in the Canadian sample (Morison et al., 1995).
+- Morison et al. (1995) found that 78%  of orphanage children were **delayed in all four  areas of development (personal–social, gross  motor, fine motor–adaptive, and language development)** assessed by the Revised Denver Prescreening Developmental Questionnaire ([[R-DPDQ]]; Frankenberg, 1986) [[Assessment Tools]]. 
+	- Rutter and his colleagues reported similar findings with their sample of adoptees in the United Kingdom (Rutter & the ERA Study Team, 1998).By 11 months postadoption, improvement was evident in the Canadian sample (Morison et al., 1995).
+	-   The length of time that children spent in the orphanage was positively associated with the number of areas of delay on the R-DPDQ and negatively correlated with children’s scores on the adaptive, personal–social, and language scales of the Gesell. In addition to the length of time in an institution, the availability of toys and having been a favorite in the institution were associated with fewer delays and higher scores on the Gesell scales, whereas being described as dirty when first met by parents was associated with more delays and lower Gesell scores (Morison et al., 1995) 
+-   Three years postadoption these researchers  Morison & Ellwood, 2000) evaluated children’s intellectual development using the Stanford–Binet Intelligence Scale, Fourth Edition [[SB4]]: Thorndike, Hagen, & Sattler, 1986). [Assessment Tools](Assessment%20Tools)
+	-  IQ results were analyzed separately for orphanage children who had been adopted before and after they were 2 years old. In comparing IQ scores among the younger children, who were 4.5  years old when assessed, Morison and Ellwood (2000) found a clear ordering among the groups, in which 
+		-  the Canadian-born group  cored highest (M = 109),
+		-  the early-adopted children scored in the middle (M = 99), 
+		-  and the orphanage children scored lower (M = 91).  The orphanage children adopted at later ages 24–60 months old) had the lowest IQs of all M = 68)
+		-   Le Mare, Vaughan, Warford, and Ferny hough (2001) conducted a later follow-up of  the Canadian sample, when the children were  9.5 years old or older. The pattern of group  results remained consistent with the earlier  findings.
+- Not unlike their earlier performance on the [[R-DPDQ]], the scores of later-adopted children were lower across all scales of the [[SB4]]  (i.e., overall IQ, verbal comprehension, and nonverbal reasoning) at both 3 years after adoption (Morison & Ellwood, 2000) and 8 years after adoption (Le Mare et al., 2001). 
+	- Rutter and colleagues used the [[Genera Cognitive Index of the McCarthy Scales]] (Mc Carthy, 1972)and reported a similar ordering  among their groups of 4-year-old (Rutter &  the ERA Study Team, 1998) and 6-year-old  children (O’Connor, Rutter, Beckett, Keaveney, Kreppner, & the ERA Study Team, 2000) [Assessment Tools](Assessment%20Tools)
+-  **The importance of length of institutionalization for IQ is also supported by several re-ports of negative correlations between the two variables**: r = -.75 3 years after adoption (Morison & Ellwood, 2000), r = -.48 at age 6 years (O’Connor, Rutter, Beckett, et al., 2000), and r = -.44 at 8 or more years after adoption (Le Mare et al., 2001).
+-   A study of  children reared in Greek orphanages in which  conditions were far superior to the conditions  found in Romania found lower academic performance among 9-year-old orphanage children compared to same gender and age peers  living at home (Vorria, Rutter, Pickles, Wolkind, & Hobsbaum, 1998). Le Mare et al.
+	-   In addition, 12%  of orphanage children adopted before 2 years  of age and 60% of orphanage children adopted after 2 years of age had repeated a grade. 
+	- Le Mare et al (2001) concluded however that even though many orphanage children were struggling within the school context, a noticeable number of them were functioning well within the average range academically. 
+-   Morison and Ellwood (2000) found that not only institutionalization but also the home environment contributed to children’s IQ scores 3  years after adoption. Children’s home environments were measured using the [[Home Observation for Measurement of the Environment]] (HOME; Caldwell & Bradley, 1984). [Assessment Tools](Assessment%20Tools)
