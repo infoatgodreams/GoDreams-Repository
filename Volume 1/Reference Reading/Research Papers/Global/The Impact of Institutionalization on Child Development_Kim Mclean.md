@@ -22,3 +22,25 @@ Scope: This article reviews via a meta analysis, the impact of institutionalizat
 
 # IQ 
 [Education](Education)
+
+-  Dennis (1973) followed  
+children from a Lebanese orphanage after they  
+were adopted and compared the developmental outcomes of children adopted at different  
+ages. He claimed that children who had been  
+adopted before 2 years of age eventually regained normal IQs whereas those who were  
+adopted after 2 years of age showed permanent deficits in IQ. Although this claim has  
+often been cited, it has not been adequately  
+tested.
+
+-  Both sets of literature clearly  
+demonstrate that institutionalization early in  
+life has a negative impact on intellectual development and that it is not only institutionalization but also the length of institutionalization that is important.  
+
+- Most of the recent information we have  
+concerning the impact of institutionalization  
+on intellectual development has been the result of the 1989 overthrow of the Ceausescu  
+regime in Romania, after which the world be  
+came aware of thousands of children being  
+housed in Romanian state-run orphanages.
+
+- 
