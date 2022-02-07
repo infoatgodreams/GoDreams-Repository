@@ -90,26 +90,26 @@ Scope: This article reviews via a meta analysis, the impact of institutionalizat
 		-  peer relationships
 	-   Eleven months after adoption 65% of  orphanage children had eating problems [Nutrition](Volume%201/Roll%20Ups/Nutrition.md):
 		-  Parents reported that one-third of children refused to eat solid foods and almost one-third of children overate. 
-		-  In the Canadian  sample, many parents of orphanage children  reported that they continued to offer food to  children after a meal and that it was never refused. 
+		-  In the Canadian  sample, many parents of orphanage children  reported that they continued to offer food to  children after a meal and that it was never refused. [[Observed behaviors as assessments]]
 		- Given orphanage children’s malnutrition and small size, such overeating probably  represents their bodies’ natural catch-up mechanism. 
 		- Children in orphanage had never eaten  enough food to allow them to learn feelings  of satiety (Fisher et al., 1997). 
 		-   Three  years after adoption, orphanage children had no more eating problems than did Canadian  born or early-adopted children (Ames, 1997)
 	- A common behavior problem found in  most samples of orphanage children is stereotyped behavior, that is, repeating the same movement over and over, as in body rocking
 		- In the Fisher et al. orphanage sample, 84% of orphanage children displayed one or more stereotyped behaviors. 
-			- 67% rocked, and 19% moved their hands stereotypically
+			- 67% rocked, and 19% moved their hands stereotypically **[[Observed behaviors as assessments]]**
 			- Tizard (1977). Fisher et al. (1997) suggested that the stereotyped behavior of orphanage children may represent the prolongation of the stereotyped behaviors found in normal infants around the time they learn to sit, stand, or walk (Thelan, 1979, 1981). It may also reflect a self-soothing strategy or an attempt to self-stimulate in the barren orphan age rooms.
 			-   In the Canadian sample, stereotyped be  havior was the most frequently reported be  havior problem of orphanage children but it  was also a behavior that improved quite rapidly (Fisher et al., 1997). 
 			-  Young orphanage children show the same stereotyped behaviors as family-reared children just starting  to sit, stand, or walk (Thelen, 1979),  but when restriction to a crib for 18–20 hr/day does  not permit them to develop their motor skills  (Ames, 1997), these early stereotyped behaviors are practiced for a prolonged period. 
 			-  In the general absence of sensory stimulation  and soothing by adults, for example, by rocking, children may learn to provide their own  stimulation or soothing by making stereo-  typed movements. 
 	-   Fisher et al. (1997) found  that 32% of orphanage children had problems  with peers. 
 		- The most common problems involved either avoiding contact with peers or  being overwhelmed by peers’ attention.
-		-   By the time the  orphanage children had been in adopted in Canada for 8  or more years, their peer relationships had im-  proved (Warford, 2002).
+		-   By the time the  orphanage children had been in adopted in Canada for 8  or more years, their peer relationships had improved (Warford, 2002).
 		-   On the other hand, orphanage children felt less social support from their  peer group or a close friend than did children  in the other groups. The longer children had  spent in institution, the less peer support they felt even post adoption  Peer problems are also believed to arise  from the characteristics of the orphanage environment. 
-			- Young children in Romanian orphanages are generally quiet and unrespon  sive to each other, so after adoption they are  wary of and withdraw from family-reared chil  dren who are noisier, more active, and more  unpredictable than their peers in the orphan  age (Fisher et al., 1997). 
+			- Young children in Romanian orphanages are generally quiet and unresponsive to each other, so after adoption they are  wary of and withdraw from family-reared chil  dren who are noisier, more active, and more  unpredictable than their peers in the orphan  age (Fisher et al., 1997). 
 			- This unwillingness to interact with peers further prevents them  from learning normal patterns of social interaction. When they do become comfortable  enough to interact with peers in their new environment, they externalize (“act out”) in unacceptable ways that do not endear them to those peers. 
 			- Several years after adoption, they have improved on most indices of behavior with peers but still have externalizing problems and feel less social support from peers or  close friend than family-reared children do.
 -   Vorria, Rutter, Pickles, Wolkind, and Hobsbaum (1998) found that, compared to same aged peers living at home, 9- to 11-year-old  children living in a Greek orphanage were **more  inattentive and more often engaged in nonproductive activities in the classroom.** Adoptive parents highlighted the following as ongoing problems: 
-	- High activity levels
+	- High activity levels 
 	- inability to attend
 	- Distractibility / [[Attention Problems]]
 	-  These findings are consistent with the earlier work of Goldfarb (1945b)  who reported distractibility and a lack of concentration among adolescents who had moved from orphanage  foster care at age 3. 
@@ -119,7 +119,7 @@ Scope: This article reviews via a meta analysis, the impact of institutionalizat
 		-   Kreppner, O’Connor, and Rutter  (2001) found that at both 4 and 6 years of  age the children who had been adopted from  Romania after 6 months of age were rated by  both teachers and parents on the [[Revised Rutter Parent and Teacher scales]] (Hogg, Rut  ter, & Richman, 1997) as displaying higher inattention/overactivity than did Romanian  children or U.K. children who were adopted  before 6 months of age.  
 		- The Canadian adoptees from Romania continued to display more attention problems 8 or  more years after adoption (Le Mare & Audet,  2002): orphanage children scored higher than  both Canadian-born and early-adopted children  on the Attention subscale of the CBCL and  on the Impulsivity and Inhibitory Control sub  scales of the [[Children’s Behavior Questionnaire]]] (Ahadi, Rothbart, & Ye, 1993) and lower  on the questionnaire’s Attention Focusing sub scale. 
 		-  **29%  of children in the orphanage group had received a clinical diagnosis of attention-deficit  disorder (ADD) or attention-deficit/hyperactivity disorder (ADHD)** whereas none of the  comparison group children had received such a diagnosis (Le Mare & Audet, 2002).
-		-   Marcovitch et al. 1997). In addition, Le Mare  and Audet (2002) found that children’s attentional difficulties at 8 years of age were nega-  tively correlated with their [Home Observation for Measurement of the Environment](Home%20Observation%20for%20Measurement%20of%20the%20Environment) environ-  ment scores (Caldwell & Bradley, 1984)
+		-   Marcovitch et al. 1997). In addition, Le Mare  and Audet (2002) found that children’s attentional difficulties at 8 years of age were negatively correlated with their [Home Observation for Measurement of the Environment](Home%20Observation%20for%20Measurement%20of%20the%20Environment) environment scores (Caldwell & Bradley, 1984) [[Observed behaviors as assessments]]
 		- Problems in attending may be at least  partly explained by the abrupt move from the  very low levels of stimulation in the orphan  age to the overwhelming sensory stimulation  of an adoptive home without any opportunity to gradually learn how to deal with greater sensory complexity. 
 
 -  Some behavior problems last up to 8 or more years after removal from the  institution. 
@@ -139,8 +139,8 @@ Scope: This article reviews via a meta analysis, the impact of institutionalizat
 
 - Using a [[disinhibited attachment disturbance scale]] *[Assessment Tools](Assessment%20Tools)* which contained three items similar  to those used by Chisholm (1998; Chisholm  et al., 1995), O’Connor et al. (1999) found  that approximately 20% of Romanian children  adopted between 6 and 24 months of age had high scores on the scale compared to approximately 10% of Romanian children adopted  before 6 months of age and 2% of a group of  children adopted within the United Kingdom.
 - Unlike the findings for intellectual development and for other behavior problems,  there is disagreement among studies as to whether there is a relationship between the length of  time that children have spent in orphanages  (or their age at adoption) and the amount of  indiscriminate friendliness they display. 
-	- O’Connor and his colleagues found modest correlations at both 4 years (O’Connor, et al., 1999) and 6 years of age (O’Connor, Rutter, et al.,  2000) between duration of deprivation (age at adoption) and children’s scores on disinhib-  ited attachment behaviors in the U.K. group.  
-	- They pointed out, however, that some chil-  dren who were adopted after 2 years in Romania showed no signs of disinhibited attachment behaviors and other children who were  adopted within the first 6 months of life showed  signs of the behavior 
+	- O’Connor and his colleagues found modest correlations at both 4 years (O’Connor, et al., 1999) and 6 years of age (O’Connor, Rutter, et al.,  2000) between duration of deprivation (age at adoption) and children’s scores on disinhibited attachment behaviors in the U.K. group.  
+	- They pointed out, however, that some children who were adopted after 2 years in Romania showed no signs of disinhibited attachment behaviors and other children who were  adopted within the first 6 months of life showed signs of the behavior 
 -   In an attempt to better understand indiscriminate friendliness, **researchers have examined particular correlates that may be associated with this behavior,** focusing on aspects  of the institutional environment, child characteristics, and family characteristics.
 	-  In the Canadian sample Chisholm (1998) found that  high scores on indiscriminate friendliness 3 years postadoption were positively correlated  with the child having been a favorite in the  institution. 
 	- Other measures of the quality of  institutions, **were unrelated to children’s indiscriminate friendliness**. for example
@@ -149,7 +149,20 @@ Scope: This article reviews via a meta analysis, the impact of institutionalizat
 		-  or children’s weight or developmental delay at adoption (O’Connor et al.,1999; O’Connor, Rutter, et al., 2000) 
 		- [[IQ]] does not appear to be strongly related to indiscriminate friendliness
 	-  Researchers have  consistently found associations between orphanage children’s indiscriminate friendliness  and their behavior problems. [Caregiving](Caregiving)
-		- Chisholm (1998)  found that at 3 years postadoption, children’s  indiscriminate friendliness scores were positively correlated with their scores on the [CBCL](CBCL). 
+		- Chisholm (1998)  found that at 3 years postadoption, children’s  indiscriminate friendliness scores were positively correlated with their scores on the [CBCL](CBCL). [[Observed behaviors as assessments]]
 		- Le Mare and Audet (2002) found that children's scores on indiscriminate friendliness at 3 years after adoption were positively correlated with their attention problem scores more than 8 years after adoption. [Attention Problems](Attention%20Problems)
-		- In the U.K. sample  children’s scores on disinhibited attachment  disturbance were positively correlated with  their scores on hyperactivity and disruptive  behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years. 
-		- 
+		- In the U.K. sample  children’s scores on disinhibited attachment disturbance were positively correlated with  their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years. [[Observed behaviors as assessments]]
+
+- Unlike  many of the initial behaviors of concern in institutionalized children, displays of indiscriminate friendliness do not appear to dissipate over time but are still in evidence up to 8 years after leaving the orphanage environment (Fernyhough et al., 2002; O’Connor, Rutter,  et al., 2000) and may persist even longer (Goldfarb, 1955). 
+
+- Chisholm (1998) has suggested that indiscriminate friendliness may serve an adaptive function in the context of the orphanage environment where emotional  resources are extremely limited. 
+	- Amid the passivity of the orphanage an indiscriminately friendly child may receive what little attention caregivers have to offer. 
+	- The fact that indiscriminate friendliness was associated with having been a favorite in the orphanage supports this contention but does not explain what function such behavior serves after adoption. [[Observed behaviors as assessments]]
+
+-  O’Connor et al.  (1999) also suggested that indiscriminate friend-  liness may represent a form of developmental  delay in the [[attachment]] behavioral system, 
+	- although their use of the term “disinhibited at-  tachment disturbance” seems to suggest atten-  tion problems as well as involvement of the  attachment system.
+	-   Indiscriminate friendliness is particularly  relevant to the study of attachment, given sug- gestions that this behavior may be indicative  of “nonattachment” (Lieberman & Pawl, 1988)  or the disinhibited/indiscriminate subtype of  reactive attachment disorder (Zeanah, 1996,  2000).
+	- Both Lieberman and Pawl (1988) and  Zeanah (2000) described these disorders as resulting from an infant not having had the opportunity to form an attachment relationship
+	-  Similarly, O’Connor et al. (2003)  reported that children in their sample who  scored high on their Disinhibited Attachment  Disturbance scale were overwhelmingly classified as Insecure/Other in terms of their attachment patterns. [disinhibited attachment disturbance scale](disinhibited%20attachment%20disturbance%20scale)
+	-   Both Chisholm (1998) and O’Connor et al.  (2003) found some securely attached children  who are indiscriminately friendly, and Marcovitch et al. (1997) reported that some securely attached children were observed to be extremely friendly to the stranger in the Strange  Situation. It seems unlikely, therefore, that in  discriminate friendliness necessarily indicates  an attachment disorder (Chisholm, 1998)
+	- 

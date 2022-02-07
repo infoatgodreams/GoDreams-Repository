@@ -25,7 +25,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Indiscriminately Sociable Behavior.md",
+            "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
             "mode": "source",
             "source": false
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "strangers",
+                "query": "disinhibited",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -128,7 +129,7 @@
     "width": 108.5,
     "collapsed": true
   },
-  "active": "134c9ee4d2c4c5dc",
+  "active": "b69fb74a761bed72",
   "lastOpenFiles": [
     "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Indiscriminately Sociable Behavior.md",
