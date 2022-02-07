@@ -6,6 +6,7 @@
       {
         "id": "134c9ee4d2c4c5dc",
         "type": "leaf",
+        "dimension": 35.05154639175258,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -15,11 +16,52 @@
             "source": false
           },
           "pinned": true
-        }
+        },
+        "group": "8dd253a408eedb14"
+      },
+      {
+        "id": "7ea544dad7741513",
+        "type": "leaf",
+        "dimension": 35.05154639175258,
+        "pinned": true,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          },
+          "pinned": true
+        },
+        "group": "8dd253a408eedb14"
       },
       {
         "id": "c51d303214617d7b",
         "type": "leaf",
+        "dimension": 29.896907216494846,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -133,12 +175,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 108.5,
+    "width": 827.5,
     "collapsed": true
   },
-  "active": "134c9ee4d2c4c5dc",
+  "active": "7ea544dad7741513",
   "lastOpenFiles": [
     "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+    "Genera Cognitive Index of the McCarthy Scales.md",
     "Volume 1/Daily Log/Navneeths Log.md",
     "Volume 1/Roll Ups/Risks.md",
     "Volume 1/Roll Ups/Physical Health.md",
@@ -146,7 +189,6 @@
     "templates/Note Taking Instructions.md",
     "templates/New Note.md",
     "Volume 1/Reference Reading/Master Reading List.md",
-    "Volume 1/Reference Reading/Books/Managing Childrens Homes - Developing Effective Leadership in a Small Organization, Hicks, L & Gibbs (2007).md",
-    "Volume 1/Intervention Map Printable.md"
+    "Volume 1/Reference Reading/Books/Managing Childrens Homes - Developing Effective Leadership in a Small Organization, Hicks, L & Gibbs (2007).md"
   ]
 }

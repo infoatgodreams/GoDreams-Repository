@@ -3,7 +3,7 @@ title: The Impact of Institutionalization on Child Development_Kim Mclean
 author: Navneeth
 tags: 
 - globalresearch
-
+- essentialreads
 ---
 
 
@@ -191,4 +191,91 @@ Scope: This article reviews via a meta analysis, the impact of institutionalizat
 		- Tizard and Rees (1975) reported that even though the institutions maintained a policy that discouraged caregivers from forming relationships with particular children,  there were some indications that children did  have preferences among their regular caregivers. 
 		- Perhaps most important, there was a radical difference between the two studies in terms  of the stability of placement for the children  post-institutionalization. Children in Goldfarb’s  study very often went to unstable foster care  placements. By the time children were be  tween 10 and 14 years of age they had experienced care in three or four different foster homes (Goldfarb, 1943a). It is likely that having experienced a series of broken attachment  relationships contributed to children’s emotional coldness. Children in Tizard’s sample, however, went to stable adoptive homes.
 	- 
-- 
+-  Researchers have examined  attachment in previously institutionalized children using standard separation reunion procedures and relying on validated [[attachment coding systems]] (Chisholm, 1998; Marcovitch et al., 1997; O’Connor et al., 2003).[Assessment Tools](Assessment%20Tools)
+	-  In each of these studies researchers used a separation reunion procedure with preschool-aged children in which children first interacted with their mothers in play, stayed in the same room with a stranger while their mother left, and  then were reunited with their mothers. 
+	-   Chisholm (1998) used [[Crittenden’s Pre school Assessment of Attachment (PAA)]]to  code preschool attachment patterns, whereas  both Marcovitch et al. (1997) and O’Connor  et al. (2003) used the [[Cassidy, Marvin, and  MacArthur Working Group Preschool  Attachment System]]. 
+	-  Chisholm (1998) found that, compared to orphanage children classified as secure, those who were classified as insecure lower IQs, more behavior problems, parents who reported higher levels of parenting  stress, and lower socioeconomic status backgrounds. 
+-   The distribution of atypical patterns in previously institutionalized children is not the  same as in other maltreated samples. [Observed behaviors as assessments](Observed%20behaviors%20as%20assessments)
+	- One difference is that orphanage samples display a **lower percentage of the Defended/Coercive (A/C) insecure pattern** than do other maltreated  samples. 
+	- A child classified as A/C shifts back and forth between defended and coercive strategies in response to the behavior of an often unpredictable caregiver.
+	-   Orphanage children in the Canadian sample also displayed a higher percentage of compulsive caregiving (A3), a pattern more commonly seen in neglected samples than in abused  samples of children (Crittenden & Claussen,  2000). [Observed behaviors as assessments](Observed%20behaviors%20as%20assessments)
+		-  The compulsive caregiving pattern is adopted  in response to a withdrawn or unresponsive  caregiver.
+		-  A child displaying an A3 pattern inhibits negative affect and attempts to cheer  an unresponsive caregiver with overbrightness  and nurturance (Crittenden, 1992a). 
+	-  Another difference is that the Insecure (other) pattern is more common in orphanage samples than in maltreated samples. **Insecure (other), by definition indicates behavior that is difficult to classify. This classification is given when a child is clearly insecure, but the  strategy that he or she uses in interaction does  not fit any of the established insecure patterns.** 
+		-   Such atypicality in orphanage children’s  attachment was also apparent in the attach-  ment patterns of orphanage children classified  as secure. The PAA (Crittenden, 1992a) has a  secure classification labeled “Secure (other).”  This classification is given when children are clearly secure but the strategies they use in  interaction with their caregiver do not reflect any of the standard sub-patterns of secure. 
+		-   This finding suggested the possibility that  the coding systems that were developed using  normative samples of children were inadequate to evaluate attachment in institutionalized samples, that is, that children classified  as Secure (other) might not truly be secure.  Chisholm (1996) compared Secure (other) children to both the remaining secure children and to children classified as Insecure (other) to find out which of these groups they resembled more. 
+		-  Secure (other) children (from general categories) did not  differ from secure orphanage children on behavior problems, parenting stress, or indiscriminate friendliness, but they did have lower IQs than secure orphanage children. 
+		-  Chisholm (1996) concluded that Secure (other) children (in CCIs) were  more similar to children classified as secure (in general categories) than to children classified as Insecure (other).  This suggests that the PAA is able to classify children appropriately as secure and insecure, **and yet reveals that orphanage children may display even secure patterns of attachment differently from both normal samples and noninstitutional, high-risk samples of children.** 
+-  Tizard and Hodges (1978) did not find a relationship between whether a parent  considered his or her child to be attached at 8  years of age and the length of time the child  had spent in institution: 
+	- The majority of children who had spent at least 4.5 years in institution were reported to be closely attached to  their parent at 8 years of age
+	-  In a reanalysis of the Chisholm  (1998) data, Ames and Chisholm (2001) found  that the median and ranges of length of institutionalization were 
+		- 16.5 (range = 9–39 months)  for orphanage children subsequently classified  as secure; 
+		- 14 (range = 9–53) months for chil  dren classified as typical insecure;
+		-  and 21  (range = 8–53) months for children classified as atypical insecure.
+	- These differences were  not statistically significant, but it is important  to note that the oldest children who had developed a secure attachment relationship with an adoptive parent had spent only 39 months in an orphanage.
+	-  In this sample there were  only 5 children who had spent more than 39  months in an orphanage. All of those children developed an insecure attachment relationship.
+	- It is clear that on the basis of 5 children, no firm conclusions can be drawn concerning the end of a sensitive period for the development of a first attachment. 
+-  It remains unclear whether **there is a length of time beyond which developing a secure attachment relationship may become impossible.** 
+	- Bowlby initially claimed that if the opportunity to form an attachment was delayed until after the age  of 2.5 years, it was “almost useless” (Bowlby,  1953), thereby implying a short window of  opportunity for developing attachment. 
+	-  By  1973, he claimed that the sensitive period for  attachment likely extended through the de  cade beyond a child’s fifth birthday, but that  such development would become increasingly  more difficult as a child grew older. This was  in line with a more modern emphasis on risk  and resilience in a probabilistic, rather than  deterministic, model of development (Rutter  & O’Connor, 1999).
+
+## Sensitive Responsiveness and attachment
+[Caregiving](Caregiving)
+
+- Children with lower IQs (Chisholm  1998; Tizard & Hodges, 1978) and more behavior problems (Chisholm, 1998; Marcovitc  et al., 1997) have more difficulty forming attachment relationships with their adoptive parents, most likely because these factors interfere with parents’ ability to be sensitively responsive to their children.
+-  These factors may help to explain the insecure attachments of the oldest five children in  the Ames and Chisholm (2001) reanalysis. 
+	- All  five of these children had IQ scores lower  than 85, and four of the five came from families whose income was lower than the average  for the orphanage group as a whole. 
+	- Three of these children scored above the clinical cutoff on behavior problems, and
+	-  three of the four for whom parenting stress scores were available had higher than average parenting stress scores for the orphanage group.
+- Therefore, **rather than assume that length of institutionalization per se explains their lack of secure attachment, it appears more reasonable to suggest that they were adopted into families in  which the resources were not sufficient to allow parents to provide children who had many problems with the high level of sensitive responsiveness that would be required to develop a secure attachment.**
+- [Restoration](Restoration)  Between 2 and 4 years of age, 24 of the children were adopted out of institution and 15  children were restored to their natural families. In comparing the adoptive and restored  groups of children
+	- Tizard and Hodges (1978)  found that whereas 84% of adoptive mothers  felt that their child was deeply attached to  them, only 54% of mothers of restored chil  dren felt this was the case. Children in the restored group were reunited with their bio  logical mothers who often were ambivalent or reluctant to have their child return home.
+		-  Restored children typically were returned to  families who had a larger number of children  (Tizard & Hodges, 1978), whose mothers were  younger and whose fathers had jobs of a lower socioeconomic status (Tizard & Rees,  1974). 
+		- Parents of restored children also spent  lesstime in play and educational activities with their children than parents in the adoptive group (Hodges & Tizard, 1989). 
+	- **Tizard and Hodges (1978) concluded that forming a secure attachment relationship did not so much depend on institutionalization as on the "willingness of the new parents to accept a dependent relationship and to put a lot time and effort into developing it"**
+-  **We do not yet know whether the period during which attachment is possible might be extended through adolescence,** as Bowlby (1988) has suggested, or whether there is an earlier time after which  the development of attachment becomes impossible.  
+
+
+# Conclusions
+
+-  **Research on institutionalized children has  
+shown that similar experiences early in life may  
+result in a variety of outcomes, a phenomenon  
+hat Cicchetti (1996) has termed [[multifinality]].**
+
+-   Given the profound general deprivation that  often characterizes orphanages, **researchers  have been unable to specify which aspects of  deprivation caused the outcomes that have  been found.** 
+	- The only exception is Tizard’s work (1977) with orphanage children in the  United Kingdom, who experienced only social emotional deprivation but were well cared  for otherwise. 
+		- We know from this work that  providing good nutrition and cognitive stimulation can prevent developmental delays. 
+		- These same children, however, still displayed  indiscriminate friendliness and some difficulties in attachment, which seem attributable to  the limitation of not having had a close personal relationship with an adult caregiver.
+
+-  There are presently (at time of writing) two intervention studies ongoing in Eastern Europe. 
+	- [[The Bucharest Early Intervention Project]] (Koga,  Smyke, Zeanah, 2003; Zeanah, Smyke, & Koga,  2003) has begun providing a foster care inter-  vention in Bucharest, Romania, in which they  are following the development of children re-  moved from orphanage to foster care and com-  paring their developmental progress to both  children who remain in orphanage and a com-  munity comparison group. 
+	- [[The St. Petersburg– U.S.A. Orphanage Project]] (McCall, Muha-  medrahimov, Groark, Palmov, & Nikiforova,  2003), operating in three baby homes in St. Petersburg, is providing different interventions to examine which are most effective in reducing the developmental impact of institutional rearing. I
+		- In one baby home, orphanage staff are being trained in child development  and sensitive responsiveness. 
+		- In a second,  both caregiver training and structural changes  that reduce the number of different caregivers  and increase their stability in the lives of the children are being implemented. 
+		- A third baby  home is serving as a “no intervention” comparison group
+- A potential solution to high caregiver ratios is to ensure children are not in age segregated groups: 
+	-  Children in Eastern European orphanages are typically housed in age segregated groups, a policy that hinders cognitive growth. 
+
+# #readinglist 
+- Abidin, R. R. (1990). Parenting Stress Index (3rd Ed.).Charlottesville, VA: Pediatric Psychology Press. Achenbach, T. W., Edelbrock, C., & Howell, C. T. (1987).  
+- Empirically based assessment of the behavioral/emotional problems of 2–3-year-old children. Journal of Abnormal Child Psychology, 15, 629–650.
+-  Ames, E. W. (1997). Development of Romanian orphanage children adopted to Canada. Final Report to the  Human Resources Development Office, Ottawa, Canada. Ames, E. W., & Chisholm, K. (2001). 
+- Social and emotional development in children adopted from institutions. In D. B. Bailey, Jr., J. T. Bruer, F. J. Symons, & J. W. Lichtman (Eds.),
+- Critical thinking about critical periods (pp. 129–148). Baltimore, MD: Brookes. Bayley, N. (1969). 
+- The Bayley Scales of Infant Development: Birth to two years. San Antonio, TX: Psycho-  logical Corporation.  Beckett, C., Bredenkamp, D., Castle, J., Groothues, C.,  O’Connor, T.G., Rutter, M., & the English and Romanian Adoptees Study Team. (2002). 
+- Behavior problems associated with institutional deprivation: A study of children adopted from Romania. Journal of Developmental and Behavioral Pediatrics, 23, 297–303.
+- Broussard, M., & DeCarie, T. G. (1971). The effects of  three kinds of perceptual-social stimulation on the development of institutionalized children: Preliminary  report of a longitudinal study. Early Child Development and Care, 1, 111–130.  Caldwell, B. M., & Bradley, R. H. (1984).
+-  [Home Observation for Measurement of the Environment](Home%20Observation%20for%20Measurement%20of%20the%20Environment). Unpublished manuscript, University of Arkansas at Little  Rock.
+- Carlson, V., Cicchetti, D., Barnett, D., & Braunwald, K.  (1989). Finding order in disorganization: Lessons  from research on maltreated infants’ attachments to  their caregivers. In D. Cicchetti & V. Carlson (Eds.),
+- Frankenberg, W. K. (1986, May). Revised Denver Pre- screening Developmental Questionnaire. Paper presented in part at the Ambulatory Pediatric Association meeting, Washington, DC.  Goldfarb, W. (1943a). The effects of early institutional care on adolescent personality. Journal of Experimental Education, 12, 106–129.
+- Hunt, J. M., Mohandessi, K., Ghodessi, M., & Akiyama,  M. (1976). The psychological development of orphanage reared infants: Interventions with outcomes  (Tehran). Genetic Psychological Monographs, 94,  177–226
+- Kreppner, J. M., O’Connor, T. G., & Rutter, M. (2001  Can inattention/overactivity be an institutional deprivation syndrome? Journal of Abnormal Child Psychology, 29, 513–528
+- Mainemer, H., Gilman, L. C., & Ames, E. W. (1998).  Parenting stress in families adopting children from  Romanian orphanages. Journal of Family Issues, 19, 164–180.
+- McCarthy, D. (1972). [[The McCarthy Scales of Children’s  Abilities]]. New York: Psychological Corporation/Harcourt Brace Jovanovich
+- Ripley, M. (1992, August). Summary of comments made by adoptive parents of Bulgarian orphanage children.
+- Rutter, M., & O’Connor, T. G. (1999). Implications of  attachment theory for child care policies. In J. Cas  sidy & P. R. Shaver (Eds.), Handbook of attachment:  Theory, research, and clinical applications (pp. 823–  844). New York: Guilford Press
+- Sloutsky, V. M. (1997). Institutional care and developmental outcomes of 6-and7-year old children: A con-  textual perspective. International Journal of Behavioral Development, 20, 131–151.
+- Thorndike, R. L., Hagen, E. P., & Sattler, J. M. (1986).  Manual for the Stanford–Binet Intelligence Scale (4th  ed.). Chicago: Riverside.
+- Tizard, B., Cooperman, O., Joseph, A., & Tizard, J. (1972). Environmental effects on language develop-  ment: A study of young children in longstay residential nurseries. Child Development, 43, 337–358.
+- Vorria, P., Rutter, M., Pickles, A., Wolkind, S., & Hobs baum, A. (1998). A comparative study of Greek children in long-term residential care and in two-parent families: I. Social, emotional, and behavioral differences. Journal of Child Psychology and Psychiatry,
