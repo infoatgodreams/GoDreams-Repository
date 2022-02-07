@@ -46,4 +46,22 @@ Scope: This article reviews via a meta analysis, the impact of institutionalizat
 	-   In addition, 12%  of orphanage children adopted before 2 years  of age and 60% of orphanage children adopted after 2 years of age had repeated a grade. 
 	- Le Mare et al (2001) concluded however that even though many orphanage children were struggling within the school context, a noticeable number of them were functioning well within the average range academically. 
 -   Morison and Ellwood (2000) found that not only institutionalization but also the home environment contributed to children’s IQ scores 3  years after adoption. Children’s home environments were measured using the [[Home Observation for Measurement of the Environment]] (HOME; Caldwell & Bradley, 1984). [Assessment Tools](Assessment%20Tools)
--  Another common finding is that both conditions in orphanages and conditions in adoptive homes can modify the amount of cognitive deficit.Children do better if they are reared in better quality institutions (e.g., those studied by Tiz  ard, 1977) or in institutions in which perceptual or social environments have been enriched
+-  Another common finding is that both conditions in orphanages and conditions in adoptive homes can modify the amount of cognitive deficit. Children do better if they are reared in better quality institutions (e.g., those studied by Tizard, 1977) or in institutions in which perceptual or social environments have been enriched.
+
+# Physical Development
+[Physical Health](Volume%201/Roll%20Ups/Physical%20Health.md) 
+
+-   Dana Johnson and colleagues (Johnson et al., 1992) examined the medical condition of 65  previously institutionalized Romanian children who were adopted to the United States. 
+	- They found that only 15% of these children were  considered physically healthy at the time of adoption. Convergent evidence for this finding comes from the Romanian children adopted to Canada (Fisher et al., 1997).
+	-  In this sample, 85% of children had a reported medical problem
+- Similarly, Hostetter, Iverson, Thomas,  McKenzie, Dole, and Johnson (1991) found that at least one medical problem was reported for a majority of children adopted from 15 countries in East and South Asia, Central and South America, Africa, and the Caribbean and Pacific Islands. 
+- Fisher et al. (1997) found that according to their parents’ reports orphanage children’s most common medical problems when they were first adopted were
+	-  intestinal parasites (31% of children),
+	-  hepatitis B (28% of children) 
+	-  anemia (15% of children). 
+	- These medical problems are consistent  with those noted by other researchers who have examined medical problems in previously institutionalized children from Romania (Benoit, Jocelyn, Moddeman, & Embree, 1996; Gyorkos & MacLean, 1992; Jenista, 1992;  Marcovitch, Cesaroni, Roberts, & Swanson, 1995) and from several other countries (Hoksbergen, 1981; Hostetter et al. 1991). 
+-  Previously institutionalized children are typically small and malnourished after the orphanage experience. [Nutrition](Volume%201/Roll%20Ups/Nutrition.md)
+	- Eighty-five percent of  orphanage children in the Canadian sample below the 10th percentile and 59% of children fell below the 5th percentile for weight (Morison et al., 1995). 
+	- In another group of 16 Romanian children adopted to Canada, 50%  were below the 5th percentile for weight and  44% were below the 5th percentile for height (Benoit et al., 1996). Similarly, in the U.K
+	-  In the UK sample of Romanian adoptees, Rutter and the ERA Study Team (1998) reported that half of  the children had heights, weights, and head  circumferences below the 3 percentile.
+	-   In several studies growth retardation in height has been shown to be associated with the  length of time that children had spent in institutions (Ames, 1997; Johnson et al., 1992;  Rutter & the ERA Study Team, 1998). The
