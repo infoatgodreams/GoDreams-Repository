@@ -238,10 +238,7 @@ tags:
 
 # Conclusions
 
--  **Research on institutionalized children has  
-shown that similar experiences early in life may  
-result in a variety of outcomes, a phenomenon  
-hat Cicchetti (1996) has termed [[multifinality]].**
+-  **Research on institutionalized children has  shown that similar experiences early in life may  result in a variety of outcomes, a phenomenon  that Cicchetti (1996) has termed [[multifinality]].**
 
 -   Given the profound general deprivation that  often characterizes orphanages, **researchers  have been unable to specify which aspects of  deprivation caused the outcomes that have  been found.** 
 	- The only exception is Tizard’s work (1977) with orphanage children in the  United Kingdom, who experienced only social emotional deprivation but were well cared  for otherwise. 
