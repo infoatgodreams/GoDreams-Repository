@@ -19,7 +19,7 @@ Link: https://drive.google.com/file/d/1SlSecmlye3dZoMYh06tW3y3oDqBGmETN/view?usp
 - Relative to their peers, they show atypically short height, low weight, and small head circumference (Page 6) [Physical Health](Volume%201/Roll%20Ups/Physical%20Health.md) [Nutrition](Volume%201/Roll%20Ups/Nutrition.md)
 
 # Mental Health
- ## [[Indiscriminately Sociable Behavior]] : 
+ ## [[Volume 1/Roll Ups/Indiscriminately Sociable Behavior]] : 
 - Indiscriminately sociable behavior refers to children’s lack of reticence with unfamiliar adults, willingness to approach and engage strangers, and failure to maintain proximity toattachment figures in unfamiliar settings. 
 - Bowlby (1969/1982), the architect of attachment theory, proposed that human infants, like the young of many other species, have a need to form attachments to primary caregivers. The attachment system serves to enhance the child’s likelihood of survival (andthus survival of the genes) because the infant seeks to maintain proximity to the caregiver under conditions of threat. (Page 3)
 -  O’Connor and colleagues (O’Connor et al., 2000;O’Connor & Zeanah, 2003) have emphasized the lack of social boundaries among childrenwith this behavior pattern. Zeanah et al. (2005) found that 44% of institutionalized children showed high levels of indiscriminately sociable behavior as contrasted with 18% of children who had never been institutionalized. (Page 6)

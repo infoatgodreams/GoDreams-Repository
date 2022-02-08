@@ -58,11 +58,11 @@ Cost of Aftercare Program Delivery
 
 Highlight [page 9]: External Metrics for judging the program effectiveness:
 
-• #of CLs entering program
+• No. of CLs entering program
 
-• #completed course/#dropped out
+• No. completed course/#dropped out
 
-• #of CLs employed
+• No.  of CLs employed
 
 • Initial salary
 
