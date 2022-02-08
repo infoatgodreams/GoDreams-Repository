@@ -11,7 +11,7 @@ Context:
 
 Annotation Summary of Master-Class-Enabling-Childrens-Right-to-Participation-Through-Childrens-Committee-in-CCIs-November-2020.pdf.
 
-Highlight [page 6]: Children’s Rights
+Highlight [page 6]: Children’s Rights are important
 
 Children’s rights as per the United Nations Convention on Rights of the Child can be clustered into the following groups:
 
