@@ -11,8 +11,8 @@ tags:
 **Scope:** This article reviews via a meta analysis, the impact of institutionalization on the following areas of child development: physical development; developmental milestones, intellectual development,and academic achievement; behavior problems; indiscriminate friendliness; and attachment. Evidence on the persistence of or changes in the behavior, its relation to lengthof institutionalization, and its correlates are also presented.(Page 3) Interventions included pro viding sensory stimulation (Broussard & De carie, 1971), placing infants as “houseguests” with older residents (Skodak & Skeels, 1945, 1949), and improving child to caregiver ratios (Hunt, Mohandessi, Ghodessi, & Akiyama, 1976). All of these studies showed that simple changes within the orphanage environment creased children’s developmental competence. 
 
 
-# [[IQ]] 
-[Education](Education) 
+# IQ
+[Education](Education) [IQ](IQ)
 
 -  Further support for the idea that institutionalized children were not destined for developmental compromise came from the work of Barbara Tizard and her colleagues with children who had spent the first 2 years of their lives in high-quality institutions in the United Kingdom (Tizard, 1977).
 	-  In these institutions the child to caregiver ratios were 3:1 and the were taken on outings, and were fed well.
