@@ -25,7 +25,6 @@ Scope: Institutionalized children in Uttar Pradesh, Andhra Pradesh, Karnataka an
 - Levels of protein intake were adequate 
 - Energy intake falling short of RDA - - - Deficit greater in age group 10-18 years vs 4-9 years. 
 - Older children are often fed the same quantity of food as the younger children resulting in lower than required intake
-- 
 
 ## Related factors affecting nutrition
 - Differences in kind of shelter provided, quality of feeding and health care facility
