@@ -4,64 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "134c9ee4d2c4c5dc",
-        "type": "leaf",
-        "dimension": 35.051546391752574,
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
-            "mode": "preview",
-            "source": false
-          },
-          "pinned": true
-        },
-        "group": "8dd253a408eedb14"
-      },
-      {
-        "id": "7ea544dad7741513",
-        "type": "leaf",
-        "dimension": 35.051546391752574,
-        "pinned": true,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          },
-          "pinned": true
-        },
-        "group": "8dd253a408eedb14"
-      },
-      {
         "id": "c51d303214617d7b",
         "type": "leaf",
-        "dimension": 14.948453608247421,
+        "dimension": 66.66666666666667,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -76,7 +21,7 @@
       {
         "id": "1ba7373b1baee43b",
         "type": "leaf",
-        "dimension": 7.4742268041237105,
+        "dimension": 33.333333333333336,
         "state": {
           "type": "markdown",
           "state": {
@@ -84,45 +29,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "00a7a2aa9ac1caea"
-      },
-      {
-        "id": "81dcb377b145afbe",
-        "type": "leaf",
-        "dimension": 7.4742268041237105,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "00a7a2aa9ac1caea"
+        }
       }
     ],
     "direction": "vertical"
