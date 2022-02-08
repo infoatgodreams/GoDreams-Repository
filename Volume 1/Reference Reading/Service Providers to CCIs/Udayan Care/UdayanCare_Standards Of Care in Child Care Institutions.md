@@ -61,7 +61,7 @@ tags: Practitioner
 	- fly-proof kitchen, disinfection of beddings etc.
 - Daily routine [Caregiving](Caregiving)(Rule 32)
 	- These are children’s daily activities meant for a regulated and disciplined life which include, inter alia, personal hygiene, cleanliness, educational classes, physical exercise, vocational training, recreation and games, moral education, group activities and prayers.  (Page 17)
-- Child [[Nutrition]] and diet scale  (Rule 33)
+- Child [[Volume 1/Roll Ups/Nutrition]] and diet scale  (Rule 33)
 	- Quality and quantity of food that children under institutional care are entitled to receive daily,
 	-  adherence to diet scale and minimum nutritional standard, 
 	- provision for special meals on holidays and festivals, 

@@ -20,51 +20,28 @@
       {
         "id": "dd03ae2fc56a96e2",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+            "file": "Volume 1/Roll Ups/Nutrition.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "b62b578619a169ed",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Reference Reading/Research Papers/India/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "e4a49be37b1cd844"
-      },
-      {
-        "id": "131251d0c53cbf63",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
-          }
-        },
-        "group": "e4a49be37b1cd844"
+        }
       }
     ],
     "direction": "vertical"
@@ -112,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631
+    "width": 377.0093288421631,
+    "collapsed": true
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -128,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Daily Log/Navneeths Log.md",
+                "file": "Volume 1/Reference Reading/Research Papers/India/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Daily Log/Navneeths Log.md",
+                "file": "Volume 1/Reference Reading/Research Papers/India/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,20 +144,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5,
-    "collapsed": true
+    "width": 547.5
   },
-  "active": "c51d303214617d7b",
+  "active": "b62b578619a169ed",
   "lastOpenFiles": [
+    "Volume 1/Reference Reading/Research Papers/India/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
+    "Volume 1/Roll Ups/Nutrition.md",
+    "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
     "Volume 1/Daily Log/Navneeths Log.md",
     "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
-    "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
     "Volume 1/Roll Ups/Assessment Tools.md",
     "Home.md",
     "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
-    "Volume 1/Roll Ups/Observed behavior assessments.md",
-    "Volume 1/Roll Ups/Indiscriminately Sociable Behavior.md",
-    "Genera Cognitive Index of the McCarthy Scales.md"
+    "Volume 1/Roll Ups/Observed behavior assessments.md"
   ]
 }
