@@ -7,17 +7,9 @@
         "id": "d498768b9ecd59f3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "c88d48bd7f89c2d7",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,11 +107,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.0242004394531,
-    "collapsed": true
+    "width": 496.0242004394531
   },
-  "active": "c88d48bd7f89c2d7",
+  "active": "d498768b9ecd59f3",
   "lastOpenFiles": [
+    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md",
+    "Volume 2/Volume 2 Public Resource Links/Bonds of Hope-UNICEF_Annotated_Akshay.pdf",
     "conflict-files-obsidian-git.md",
     "Home.md",
     "Volume 1/Volume 1 Index.md",
@@ -127,8 +120,6 @@
     "Volume 2/Volume 2 Public Resource Links/CELCIS_and_SOS_-_Evidence_review_residential_Annotated_Akshay (1).pdf",
     "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Physical Health Care.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Finance.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Home Records.md",
-    "Volume 2/Daily Log/Akshays Log.md",
-    "Volume 1/Daily Log/Navneeths Log.md"
+    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Home Records.md"
   ]
 }
