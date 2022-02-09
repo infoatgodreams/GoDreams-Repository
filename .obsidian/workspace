@@ -4,7 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2e0eead26b584ff1",
+        "id": "d498768b9ecd59f3",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "c88d48bd7f89c2d7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -110,7 +118,7 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "2e0eead26b584ff1",
+  "active": "c88d48bd7f89c2d7",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Home.md",
