@@ -1,9 +1,14 @@
-
+---
+title: Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres
+author: Navneeth
+tags: 
+- globalresearch
+---
 
 
 Link: [Google Drive](https://drive.google.com/file/d/1z3n0d72KrjnfxbW_31ATp_n6HITxME4h/view?usp=sharing)
 
-Scope: 
+# Scope: 
 
 - This study aimed to assess magnitude and associated factors of undernutrition among children aged
 6–59 months in Ethiopian orphanage centres.
@@ -11,48 +16,23 @@ Scope:
 on 227 children aged 6–59 months in selected orphanage centers of Addis Ababa, Ethiopia
 from July to August 2019.
 
-Results Summary: 
+# Results Summary: 
 
-- Being a double orphaned child [AOR= 2.9 (1.201, 7.167)] and lack of
-vitamin A supplement in the last six months (AOR=1.9 (1.049, 3.799) were significant
-predictors of stunting
--  illness in the last two weeks before the survey [AOR= 4.9
-(1.345, 1.865)] was a significant predictor of wasting.
+- Being a double orphaned child [AOR= 2.9 (1.201, 7.167)] and lack of vitamin A supplement in the last six months (AOR=1.9 (1.049, 3.799) were significant predictors of stunting
+-  Illness in the last two weeks before the survey [AOR= 4.9 (1.345, 1.865)] was a significant predictor of wasting.
+- Majority of children in orphanages are nutritionally challenged because of many factors including the fact that they have never been breastfed or exclusively breastfed, low rates of vaccination, and basic hygiene.
 
 - Being a double orphaned, lack of vitamin A supplement, and illness in the last two
 weeks were associated with undernutrition.
 
 - In some cases, children are kept unhealthy conditions to appeal to donors and volunteers. (Page 2)
 
-- There are an estimatedtotal of 87 child care institutions located in seven mainregions of Ethiopia.
+- There are an estimated total of 87 child care institutions located in seven mainregions of Ethiopia.
 
-- Majority of children in orphanages are nutritionally challenged because of many factors including thefact that they have never been breastfed or exclusively breastfed, low rates of vaccination, and basic hygiene.
-- 
-Page 3
-data were collected using structured interviewer
-administered questionnaires, document review, and anthropo
-metric measurements (height and weight).
-Information obtained included
-Socio-demographic factors of children, Orphan status (single
-orphan, double orphan), duration of stay of children in the
-orphanage, immunization status, Vitamin A supplement, and
-morbidity status of the children.
-The child health cards, birth
-certificates, and other available documents were used to ensure
-recording the actual age of the child and other relevant infor
-mation including the date of entry to the orphanage, to verify if
-the child joined other institutions before coming to the current
-orphanage centers was looked. Children were considered to
-have received all basic vaccinations when they have received
-a vaccination against tuberculosis (also known as BCG), DPT
-HepB-Hib (also called pentavalent) vaccine, vaccines against
-polio, and vaccination against measles According to the guide
-lines developed by WHO.1
-Illness in the last two weeks was
-assessed from the record whether a child would have symp
-toms of cough, diarrhea, and fever. If the child would have one
-of these symptoms, he/she was considered as ill in the last two
-weeks before the time of the interview.
+# Survey Tools
+-   Data was collected using structured interviewer administered questionnaires, document review, and anthropometric measurements (height and weight).
+-  Information obtained included Socio-demographic factors of children, Orphan status (single orphan, double orphan), duration of stay of children in the orphanage, immunization status, Vitamin A supplement, and morbidity status of the children.
+- The child health cards, birth certificates, and other available documents were used to ensure recording the actual age of the child and other relevant information including the date of entry to the orphanage, to verify if the child joined other institutions before coming to the currentorphanage centers was looked. Children were considered to have received all basic vaccinations when they have receiveda vaccination against tuberculosis (also known as BCG), DPT HepB-Hib (also called pentavalent) vaccine, vaccines againstpolio, and vaccination against measles According to the guidelines developed by WHO.1Illness in the last two weeks was assessed from the record whether a child would have symptoms of cough, diarrhea, and fever. If the child would have oneof these symptoms, he/she was considered as ill in the last two weeks before the time of the interview.
 Page 4
 The mean (SD) age of the children in the
 orphanage was 36 (SD ± 12) months.
