@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631
+    "width": 377.0093288421631,
+    "collapsed": true
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -143,20 +144,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5,
-    "collapsed": true
+    "width": 547.5
   },
   "active": "b62b578619a169ed",
   "lastOpenFiles": [
     "Volume 1/Roll Ups/Nutrition.md",
+    "Meeting Notes/09-02-2022.md",
+    "Volume 2/Daily Log/Akshays Log.md",
+    "conflict-files-obsidian-git.md",
     "Volume 1/Roll Ups/Assessment Tools.md",
     "Volume 1/Daily Log/Navneeths Log.md",
     "Volume 1/Reference Reading/Research Papers/India/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
     "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
     "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
-    "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
-    "Home.md",
-    "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
-    "Volume 1/Roll Ups/Observed behavior assessments.md"
+    "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md"
   ]
 }

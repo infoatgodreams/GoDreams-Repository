@@ -38,7 +38,26 @@ tags:
 		 - Vitamin B Complex  - Angular Stomatitis
 
 # Caregiver Best Practices
+## Meal Prep
+
+
+
+## During Meals
 
 - Sitting with the children during meals 
-	-  Miracle foundation notes that paying attention to whether children eat properly is critical to even the caregiver:child bond.
+	-  Paying attention to whether children eat properly is critical to even the caregiver : child bond. [^1]
 	- 
+
+
+## Post Meal
+
+
+
+
+
+
+
+
+# Footnotes 
+
+[^1]: [MiracleFoundation_Institutionalise Children Explorations and Beyond](Volume%201/Volume%201%20Public%20Resource%20Links/Other%20service%20providers/MiracleFoundation_Institutionalise%20Children%20Explorations%20and%20Beyond.pdf)
