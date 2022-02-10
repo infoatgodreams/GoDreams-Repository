@@ -5,4 +5,16 @@ tag:
 - dailylog
 ---
 
+## 09-02-2022
+
+
+
+
 ## 08-02-2022
+- Only 45% of CCIs receive any sort of support from the government. 
+
+- Deinstitutionalization driven bytargets or ideology can lead toadverse consequences: Over the lasttwo years, we have seen large scaledeinstitutionalisation taking placeand many CCIs closing down. This isevident from a comparison of datafrom the MWCD 2019 (9589 CCIs, 3.7lakh children) and NCPCR 2020 (7163CCIs, 2.5 lakh children) reports. (Page 19)
+- - Visits are much more eff ective in terms of promoting sustained improvement in the conditions and treatmentof children if they take place regularly and systematically. If visits to the institutions by external commissions arecarried out only sporadically, they may do more harm than good. Especially with regard to cases of violence andabuse, visits might create expectations of justice among the children, which are often not fulfi lled; they mightgenerate more violence and abuse in a circle of punishment for spies and reward for silent spectators; and, in asystem prone to corruption, external commissions might even be monitored by some lobbies.39 (Page 28)
+
+
+
