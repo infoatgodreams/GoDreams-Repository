@@ -47,9 +47,9 @@ The boys had a higher rate of stunting (26%) and wasting (4.8%) compared to girl
 Page 3
 
 
-Food groups | Amount consumed from each food group (g)|
-contribution to the total diet(Percentage)|
-Cereal based grains ( Ugali, maize and beans, Rice, Chapattis, bread, porridge)497.3 (34.2%)
+Food groups | Amount consumed from each food group (g) | contribution to the total diet(Percentage) 
+------------ | ------------ | -------------
+Cereal based grains ( Ugali, maize and beans, Rice, Chapattis, bread,porridge) | 497.3 |  (34.2%)
 Vegetables (cabbage, Kales, spinach)227.1(15.6%)
 Legume grains ( Beans, Green grams, Lentils)232.1 (16%)
 Dairy (Fresh or fermented milk)147.7 (10.2%)
