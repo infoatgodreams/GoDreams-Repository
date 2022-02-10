@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/Global/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md",
+            "file": "Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/Global/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/Global/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,6 +151,7 @@
   },
   "active": "f2ae1f4396d384ee",
   "lastOpenFiles": [
+    "Untitled.md",
     "Volume 1/Reference Reading/Research Papers/Global/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md",
     "Volume 1/Roll Ups/Nutrition.md",
     "Volume 1/Daily Log/Navneeths Log.md",
@@ -159,7 +160,6 @@
     "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
     "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Volume 1/Roll Ups/Assessment Tools.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/SOS/Highlights for CELCIS_and_SOS_-_Evidence_review_residential_Annotated_Akshay.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Counsel to Secure Justice/CSJ_Connecting to children in the observation homes of Rajasthan.md"
+    "Volume 2/Reference Reading/Service providers to CCIs/SOS/Highlights for CELCIS_and_SOS_-_Evidence_review_residential_Annotated_Akshay.md"
   ]
 }
