@@ -13,7 +13,7 @@ Paper: Supporting youth Leaving Care: A Study of Aftercare Practices
 3. National Health Protection Scheme and Ayushman Bharat for healthcare leave out CLs because they only look at family income levels 
 4. JJ Act Mandates that an Individual Care Plan be created-how cool? 
 5. Only CCIs registered under JJ get aftercare benefits 
-6. 
+6.  Interestingly, they set out to do a comparison between the kids who received aftercare support and kids who didnt, but they literally couldnt even find these kids. 
 
 
 
