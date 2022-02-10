@@ -42,7 +42,7 @@ tags:
  - According to a meta analysis[^4]  including children adopted from Romanian orphanages and others, 65% of orphanage children continued to have eating problems even 11 months after adoption :
 	 - 1/3 of young children refused to eat solid food
 	 - ~1/3 overate, many children never refused food either due to catch up mechanism as a response to malnourishment or because they had never eaten enough food to allow them to learn feelings of satiety. 
-- Older children are often fed the same quantity of food as the younger children resulting in lower than required intake  ^3
+- Older children are often fed the same quantity of food as the younger children resulting in lower than required intake [^3]
 # Caregiver Best Practices
 ## Meal Prep
 - Children's Nutrition and Diet Scale
