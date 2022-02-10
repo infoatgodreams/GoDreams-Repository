@@ -1,27 +1,33 @@
-﻿Page 1
-we
-aimed to assess magnitude and associated factors of undernutrition among children aged
-6–59 months in Ethiopian orphanage centres
-Institution-based descriptive and analytical cross-sectional study was conducted
+
+
+
+Link: [Google Drive](https://drive.google.com/file/d/1z3n0d72KrjnfxbW_31ATp_n6HITxME4h/view?usp=sharing)
+
+Scope: 
+
+- This study aimed to assess magnitude and associated factors of undernutrition among children aged
+6–59 months in Ethiopian orphanage centres.
+- Institution-based descriptive and analytical cross-sectional study was conducted
 on 227 children aged 6–59 months in selected orphanage centers of Addis Ababa, Ethiopia
 from July to August 2019.
-Being a double orphaned child [AOR= 2.9 (1.201, 7.167)] and lack of
+
+Results Summary: 
+
+- Being a double orphaned child [AOR= 2.9 (1.201, 7.167)] and lack of
 vitamin A supplement in the last six months (AOR=1.9 (1.049, 3.799) were significant
-predictors of stunting and illness in the last two weeks before the survey [AOR= 4.9
+predictors of stunting
+-  illness in the last two weeks before the survey [AOR= 4.9
 (1.345, 1.865)] was a significant predictor of wasting.
-Being a double orphaned, lack of vitamin A supplement, and illness in the last two
+
+- Being a double orphaned, lack of vitamin A supplement, and illness in the last two
 weeks were associated with undernutrition.
-Page 2
-In
-some cases, children are kept unhealthy conditions to
-appeal to donors and volunteers.9
-an estimated
-total of 87 child care institutions located in seven main
-regions of Ethiopia.
-majority of children in orphanages are nutri
-tionally challenged because of many factors including the
-fact that they have never been breastfed or exclusively
-breastfed, low rates of vaccination, and basic hygiene.
+
+- In some cases, children are kept unhealthy conditions to appeal to donors and volunteers. (Page 2)
+
+- There are an estimatedtotal of 87 child care institutions located in seven mainregions of Ethiopia.
+
+- Majority of children in orphanages are nutritionally challenged because of many factors including thefact that they have never been breastfed or exclusively breastfed, low rates of vaccination, and basic hygiene.
+- 
 Page 3
 data were collected using structured interviewer
 administered questionnaires, document review, and anthropo
@@ -146,3 +152,4 @@ driving institutionalization. (FHI 360); 2010.
 Chernet T Overview of services for orphans and vulnerable children
 in Ethiopia. Report version of presentation at national workshop.
 Kigali, Rwanda; 2001.
+	

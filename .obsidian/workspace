@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
+            "file": "Volume 1/Reference Reading/Research Papers/Global/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md",
             "mode": "source",
             "source": false
           }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631
+    "width": 377.0093288421631,
+    "collapsed": true
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Roll Ups/Nutrition.md",
+                "file": "Volume 1/Reference Reading/Research Papers/Global/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Roll Ups/Nutrition.md",
+                "file": "Volume 1/Reference Reading/Research Papers/Global/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,10 +147,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 569.0242309570312
+    "width": 569.0242309570312,
+    "collapsed": true
   },
-  "active": "dd03ae2fc56a96e2",
+  "active": "f2ae1f4396d384ee",
   "lastOpenFiles": [
+    "Volume 1/Reference Reading/Research Papers/Global/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md",
     "Volume 1/Roll Ups/Nutrition.md",
     "Volume 1/Daily Log/Navneeths Log.md",
     "conflict-files-obsidian-git.md",
@@ -158,7 +161,6 @@
     "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Volume 1/Roll Ups/Assessment Tools.md",
     "Volume 2/Reference Reading/Service providers to CCIs/SOS/Highlights for CELCIS_and_SOS_-_Evidence_review_residential_Annotated_Akshay.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Counsel to Secure Justice/CSJ_Connecting to children in the observation homes of Rajasthan.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md"
+    "Volume 2/Reference Reading/Service providers to CCIs/Counsel to Secure Justice/CSJ_Connecting to children in the observation homes of Rajasthan.md"
   ]
 }
