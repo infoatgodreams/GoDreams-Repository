@@ -7,6 +7,9 @@ tag:
 
 ## 09-02-2022
 
+Paper: Supporting youth Leaving Care: A Study of Aftercare Practices
+1. 44% of care leavers never were consulted with their post-CCI or rehab plan 
+2. 
 
 
 
