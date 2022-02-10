@@ -11,7 +11,7 @@ Paper: Supporting youth Leaving Care: A Study of Aftercare Practices
 1. 44% of care leavers never were consulted with their post-CCI or rehab plan 
 2. 20% of CLs did not even have a bank account 
 3. National Health Protection Scheme and Ayushman Bharat for healthcare leave out CLs because they only look at family income levels 
-4. 
+4. JJ Act Mandates that an Individual Care Plan be created-how cool? 
 
 
 
