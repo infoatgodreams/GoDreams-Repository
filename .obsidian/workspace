@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya.md",
             "mode": "source",
             "source": false
           }
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631
+    "width": 377.0093288421631,
+    "collapsed": true
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,17 +142,25 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "f32a1cafa39c59d6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 569.0242309570312,
-    "collapsed": true
+    "width": 569.0242309570312
   },
   "active": "f2ae1f4396d384ee",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya.md",
     "Volume 1/Reference Reading/Research Papers/Global/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md",
     "Volume 1/Roll Ups/Nutrition.md",
     "Volume 1/Daily Log/Navneeths Log.md",

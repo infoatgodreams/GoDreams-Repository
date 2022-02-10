@@ -1,90 +1,54 @@
-﻿Page 1
-The most documented form
-of malnutrition in Kenya are protein energy malnutrition and vitamin
-A deficiencies among under-fives [10,11]
-Malnutrition in orphanage
-children is completely lacking in National surveys.
-In Malawi, 64 %
-of orphanage children were stunted compared with 46 % of the non
-orphanage children [12].
-In Zimbabwe a strong association was found
-Page 2
-between living in an orphanage and nutritional and health outcomes
-such as diarrhea, acute respiratory infection, and underweight status
-among 5-10 year old children.
-In the same study orphanage children
-were more wasted ((9%) compared to non-orphanage group (2%)
-Indicators of malnutrition were assessed against potential
-independent variables such as variety of foods consumed, energy
-intake, disease prevalence, vaccination rates, hygiene practices and
-duration of stay in the orphanage.
-However children can
-exhibit catch up growth if their environment improves.
-This suggests
-that interventions for school age children can supplement efforts
-in the preschool years to reduce levels of stunting
-The sample consisted of children
-who were equally distributed between age 4 and 11 years.
-Underweight
-among school age children can reflect prenatal under nutrition,
-deficiencies of macro- and micro- nutrient, infection and, possibly
-inadequate attention by care givers
-Wasting is not as common
-as either stunting or underweight in school age children
-Overall there were thirty three caretakers with one orphanage
-having eleven, the second ten and the third twelve caretakers. These
-were employed on full time basis to take care of the children in the
-orphanages. The majority (51%) of the caretakers had attained post
-primary education.
-The orphanage children who attended school away from the
-orphanage had two meals (Breakfast and Supper) in a day during
-school days and three meals (Breakfast, Lunch and Supper) during
-the weekend. These comprised 50% of all the orphanage children.
-A structured questionnaires was used to collect demographic
-which included, age, sex and educational level of the caretakers of
-the orphanage children. Data on period of stay in the orphanage,
-morbidity occurrence, health seeking behaviour and common types of
-foods taken was also collected from caretakers of orphanage children
-The cereals food group contributed the highest amount by weight
-(497.3 g) and proportion (34.2%) to the total diet for the orphanage
-children. Fruits 0.7% (10.1 g) and spread 0.1% (1.7 g) made a small
-contribution to the orphanage children’s dietary intake. Plantain and
-Eggs were completely lacking in their diet. A total of 37 food items
-were consumed by the orphanage children (Table 2). Only 7.2% of
-orphanage children consumed more than four food groups while
-majority, 92.9% consumed less than four food groups (t=20.4, df=207,
-p=0.000).
-This cross sectional study was conducted between November 2009
-and February 2010 in children between 4-11 years representing three
-out of the six government registered orphanages from Peri-urban
-primary school children in Dagoretti Division, Nairobi Kenya.
-The total mean energy intake among the orphanage children
-who took lunch was 1547 Kcl. The mean energy intake of orphanage
-children who did not take lunch was almost half (868 Kcl) of those who
-took lunch. Breakfast contributed the lowest mean energy intake for
-the day (11.2%). Lunch (44%) and supper (45%) contributed similar
-proportion of mean energy intake.
-Anthropometric data, which included, height, weight and age was
-collected from orphanage children. Date of birth was obtained from the
-orphanages’ records. EPI INFO (Version 3.3.2) was used to calculate
-Height-for-age (HAZ), Weight- for- age (WAZ) and Weight- for
-Height (WHZ) Z-scores. Children with HAZ, WAZ and WHZ scores
-between -2.99 and -2.00 were considered to have moderate stunting,
-underweight and wasting respectively, while those with -3.00 and below
-were severely stunted, underweight and wasted respectively [16]. These
-variables were considered as the dependent variables during statistical
-analysis.
-The total nutrient intake was computed and compared to the
-recommended daily allowance for each age set and by sex of children
-[17] these were 1352 and 1698 Kcl for 4-6 and 7-9 year age groups,
-whereas for the 10-11 year group, they were 2326 Kcl for girls and
-2824 Kcl for boys. Overall 37.1% of the children took adequate energy
-calories (Table 3)
-The boys had a higher rate of stunting (26%) and wasting (4.8%)
-compared to girls (stunting, 21% and wasting, 4.3%). However girls
+---
+title: Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya
+author: Navneeth
+tags:
+- globalresearch
+---
+
+Link: [Google Drive](https://drive.google.com/file/d/1nxrIixryORoA6o78jaixTwFobDxPnaw8/view?usp=sharing)
+
+The sample consisted of children who were equally distributed between age 4 and 11 years.Indicators of malnutrition were assessed against potential independent variables such as variety of foods consumed, energy intake, disease prevalence, vaccination rates, hygiene practices and duration of stay in the orphanage.Overall there were thirty three caretakers with one orphanage having eleven, the second ten and the third twelve caretakers. These were employed on full time basis to take care of the children in the orphanages. The majority (51%) of the caretakers had attained post primary education.
+This cross sectional study was conducted between November 2009 and February 2010 in children between 4-11 years representing three out of the six government registered orphanages from Peri-urban primary school children in Dagoretti Division, Nairobi Kenya.
+
+# Survey Tool and Methods
+
+A structured questionnaires was used to collect demographic which included, age, sex and educational level of the caretakers of the orphanage children. Data on period of stay in the orphanage, morbidity occurrence, health seeking behaviour and common types of foods taken was also collected from caretakers of orphanage children .
+
+Anthropometric data, which included, height, weight and age was collected from orphanage children. Date of birth was obtained from the orphanages’ records. EPI INFO (Version 3.3.2) was used to calculate Height-for-age (HAZ), Weight- for- age (WAZ) and Weight- for Height (WHZ) Z-scores. Children with HAZ, WAZ and WHZ scores between -2.99 and -2.00 were considered to have moderate stunting, underweight and wasting respectively, while those with -3.00 and below were severely stunted, underweight and wasted respectively [16].
+
+
+Page 1
+The most documented form of malnutrition in Kenya are protein energy malnutrition and vitamin A deficiencies among under-fives [10,11]
+Malnutrition in orphanage children is completely lacking in National surveys. 
+In Malawi, 64 % of orphanage children were stunted compared with 46 % of the non orphanage children [12].
+In Zimbabwe a strong association was found between living in an orphanage and nutritional and health outcomes such as diarrhea, acute respiratory infection, and underweight status among 5-10 year old children. In the same study orphanage children were more wasted ((9%) compared to non-orphanage group (2%)
+
+
+Children can exhibit catch up growth if their environment improves. This suggests that interventions for school age children can supplement efforts in the preschool years to reduce levels of stunting
+
+
+Underweight among school age children can reflect prenatal under nutrition, deficiencies of macro- and micro- nutrient, infection and, possibly inadequate attention by care givers
+
+Wasting is not as common as either stunting or underweight in school age children
+
+The orphanage children who attended school away from the orphanage had two meals (Breakfast and Supper) in a day during
+school days and three meals (Breakfast, Lunch and Supper) during the weekend. These comprised 50% of all the orphanage children.
+
+
+The cereals food group contributed the highest amount by weight (497.3 g) and proportion (34.2%) to the total diet for the orphanage children. Fruits 0.7% (10.1 g) and spread 0.1% (1.7 g) made a small contribution to the orphanage children’s dietary intake. Plantain and Eggs were completely lacking in their diet. A total of 37 food items were consumed by the orphanage children (Table 2). Only 7.2% of orphanage children consumed more than four food groups while majority, 92.9% consumed less than four food groups (t=20.4, df=207, p=0.000). 
+
+
+The total mean energy intake among the orphanage children who took lunch was 1547 Kcl. The mean energy intake of orphanage children who did not take lunch was almost half (868 Kcl) of those who took lunch. Breakfast contributed the lowest mean energy intake for the day (11.2%). Lunch (44%) and supper (45%) contributed similar proportion of mean energy intake. 
+
+
+The total nutrient intake was computed and compared to the recommended daily allowance for each age set and by sex of children
+[17] these were 1352 and 1698 Kcl for 4-6 and 7-9 year age groups, whereas for the 10-11 year group, they were 2326 Kcl for girls and 2824 Kcl for boys. Overall 37.1% of the children took adequate energy calories (Table 3)
+The boys had a higher rate of stunting (26%) and wasting (4.8%) compared to girls (stunting, 21% and wasting, 4.3%). However girls
 Page 3
-Food groupsAmount consumed from each food group (g)
-contribution to the total diet(Percentage)
+
+
+Food groups | Amount consumed from each food group (g)|
+contribution to the total diet(Percentage)|
 Cereal based grains ( Ugali, maize and beans, Rice, Chapattis, bread, porridge)497.3 (34.2%)
 Vegetables (cabbage, Kales, spinach)227.1(15.6%)
 Legume grains ( Beans, Green grams, Lentils)232.1 (16%)
