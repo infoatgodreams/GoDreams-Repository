@@ -30,8 +30,17 @@ weeks were associated with undernutrition.
 - There are an estimated total of 87 child care institutions located in seven mainregions of Ethiopia.
 
 # Survey Tools
--   Data was collected using structured interviewer administered questionnaires, document review, and anthropometric measurements (height and weight).
--  Information obtained included Socio-demographic factors of children, Orphan status (single orphan, double orphan), duration of stay of children in the orphanage, immunization status, Vitamin A supplement, and morbidity status of the children.
+-   Data was collected using :
+	-  structured interviewer administered questionnaires, 
+	-  document review, and 
+	-  anthropometric measurements (height and weight).
+-  Information obtained included 
+	-  Socio-demographic factors of children, 
+	-  Orphan status (single orphan, double orphan),
+	-  duration of stay of children in the orphanage,
+	-  immunization status,
+	-  Vitamin A supplement, and 
+	-  morbidity status of the children.
 - The child health cards, birth certificates, and other available documents were used to ensure recording the actual age of the child and other relevant information including the date of entry to the orphanage, to verify if the child joined other institutions before coming to the currentorphanage centers was looked. Children were considered to have received all basic vaccinations when they have receiveda vaccination against tuberculosis (also known as BCG), DPT HepB-Hib (also called pentavalent) vaccine, vaccines againstpolio, and vaccination against measles According to the guidelines developed by WHO.1Illness in the last two weeks was assessed from the record whether a child would have symptoms of cough, diarrhea, and fever. If the child would have oneof these symptoms, he/she was considered as ill in the last two weeks before the time of the interview.
 Page 4
 The mean (SD) age of the children in the
