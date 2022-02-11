@@ -4,24 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "d498768b9ecd59f3",
+        "id": "c51d303214617d7b",
         "type": "leaf",
+        "dimension": 39.40552016985138,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 2/Daily Log/Akshays Log.md",
+            "file": "Volume 1/Daily Log/Navneeths Log.md",
             "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         }
       },
       {
-        "id": "ae28558a720af69a",
+        "id": "dd03ae2fc56a96e2",
         "type": "leaf",
+        "dimension": 41.91082802547771,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Meeting Notes/10-02-2022.md",
+            "file": "Volume 1/Roll Ups/Nutrition.md",
+            "mode": "preview",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "f2ae1f4396d384ee",
+        "type": "leaf",
+        "dimension": 18.683651804670912,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Reference Reading/Research Papers/Global/WHO_Growth reference for school aged children and adolescents.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sos children's village",
+                "query": "disinhibited",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,12 +79,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "a9d99616a058448e",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631
+    "width": 377.0093288421631,
+    "collapsed": true
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -81,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Notes/10-02-2022.md",
+                "file": "Volume 1/Reference Reading/Research Papers/Global/WHO_Growth reference for school aged children and adolescents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,9 +126,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting Notes/10-02-2022.md",
+                "file": "Volume 1/Reference Reading/Research Papers/Global/WHO_Growth reference for school aged children and adolescents.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -114,25 +142,33 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "f32a1cafa39c59d6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 496.0242004394531,
-    "collapsed": true
+    "width": 246.5914306640625
   },
-  "active": "ae28558a720af69a",
+  "active": "f2ae1f4396d384ee",
   "lastOpenFiles": [
-    "Meeting Notes/10-02-2022.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
-    "Meeting Notes/09-02-2022.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Children's Committees.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Child Protection Policy.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md",
-    "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
-    "Volume 2/Daily Log/Akshays Log.md",
+    "Volume 1/Reference Reading/Research Papers/Global/WHO_Growth reference for school aged children and adolescents.md",
+    "Volume 1/Reference Reading/Research Papers/Global/Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya.md",
+    "List of Tags being used (Live).md",
+    "Volume 1/Reference Reading/Research Papers/Global/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md",
+    "Volume 1/Roll Ups/Nutrition.md",
+    "Volume 1/Daily Log/Navneeths Log.md",
     "conflict-files-obsidian-git.md",
-    "Templates/Data view useful commands.md"
+    "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
+    "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md"
   ]
 }
