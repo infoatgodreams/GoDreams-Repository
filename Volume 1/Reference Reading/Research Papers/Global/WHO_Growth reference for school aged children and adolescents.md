@@ -33,4 +33,11 @@ Drive Link: [Girls_5to10yrs_Weight For Age](https://drive.google.com/file/d/1s3y
 ![drive](https://drive.google.com/uc?id=1dXuWB8oRaIzS34c4MmHAfxdyH2_7QGwn)
 
 
-### 
+
+# Boys
+## Weight For Age
+### 5-10 Years
+Link: [Slide 1 (who.int)](https://cdn.who.int/media/docs/default-source/child-growth/growth-reference-5-19-years/weight-for-age-(5-10-years)/cht-wfa-boys-perc-5-10years.pdf?sfvrsn=d45317d3_4)
+
+Drive Link: [Boys_5to10years_WfA](https://drive.google.com/file/d/1_TamizhkMyk57QJ3c6vb6ALWiRuCwNZC/view?usp=sharing)
+![Boys_5-10 Years_WfA](https://drive.google.com/uc?id=1EpBEDMi3i_GN_kr1cMs17JaAYSVsZqIR)
