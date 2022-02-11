@@ -28,3 +28,5 @@ Links: [Development of the scale](https://drive.google.com/file/d/1yyRKVH75k9ZyE
 Link : [Slide 1 (who.int)](https://cdn.who.int/media/docs/default-source/child-growth/growth-reference-5-19-years/weight-for-age-(5-10-years)/cht-wfa-girls-perc-5-10years.pdf?sfvrsn=757939d1_4)
 
 ![Girls_5-10yrs_WeightforAge](https://i.imgur.com/TMHTkKg.png)
+
+
