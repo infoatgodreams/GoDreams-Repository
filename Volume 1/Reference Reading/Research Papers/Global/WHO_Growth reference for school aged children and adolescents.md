@@ -5,6 +5,9 @@ tags:
 - globalresearch
 ---
 
+Links: [Development of the scale](https://drive.google.com/file/d/1yyRKVH75k9ZyErCQ0A-_U07HrnOWmtJ0/view?usp=sharing)
+
+
 # Scope
 -  To construct growth curves for school-aged children and adolescents that accord with the WHO Child Growth Standards  for preschool children and the body mass index (BMI) cut-offs for adults. 
 	- Methods Data from the 1977 National Center for Health Statistics (NCHS)/WHO growth reference (1–24 years) were merged  with data from the under-fives growth standards’ cross-sectional sample (18–71 months) to smooth the transition between the  two samples.
