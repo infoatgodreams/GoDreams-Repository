@@ -40,7 +40,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/Global/WHO_Growth reference for school aged children and adolescents.md",
+            "file": "Volume 2/Reference Reading/Service providers to CCIs/SOS/Highlights for CELCIS_and_SOS_-_Evidence_review_residential_Annotated_Akshay.md",
             "mode": "source",
             "source": false
           }
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631,
-    "collapsed": true
+    "width": 377.0093288421631
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/Global/WHO_Growth reference for school aged children and adolescents.md",
+                "file": "Volume 2/Reference Reading/Service providers to CCIs/SOS/Highlights for CELCIS_and_SOS_-_Evidence_review_residential_Annotated_Akshay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/Global/WHO_Growth reference for school aged children and adolescents.md",
+                "file": "Volume 2/Reference Reading/Service providers to CCIs/SOS/Highlights for CELCIS_and_SOS_-_Evidence_review_residential_Annotated_Akshay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,6 +160,8 @@
   },
   "active": "f2ae1f4396d384ee",
   "lastOpenFiles": [
+    "Volume 2/Reference Reading/Service providers to CCIs/SOS/Highlights for CELCIS_and_SOS_-_Evidence_review_residential_Annotated_Akshay.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
     "Volume 1/Reference Reading/Research Papers/Global/WHO_Growth reference for school aged children and adolescents.md",
     "Volume 1/Reference Reading/Research Papers/Global/Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya.md",
     "List of Tags being used (Live).md",
@@ -168,8 +169,6 @@
     "Volume 1/Roll Ups/Nutrition.md",
     "Volume 1/Daily Log/Navneeths Log.md",
     "conflict-files-obsidian-git.md",
-    "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-    "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md"
+    "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md"
   ]
 }
