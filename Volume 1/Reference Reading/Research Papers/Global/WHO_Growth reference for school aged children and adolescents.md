@@ -53,6 +53,9 @@ Link to tools: [BMI - Google Drive](https://drive.google.com/drive/u/0/folders/1
 
 ## Weight for Age 
 
+- Note: Weight for Age is only available upto age 10, as children older than that go through variable growth spurts and hence this measure is not standardizable. 
+
+
 ### Girls
 
 Field Guide Table: [Girls_WFA_Field Guide](https://drive.google.com/file/d/1ibSS0pp4uYvjEDG2hS8OWt2G0i_Mtvm8/view?usp=sharing)
