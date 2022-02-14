@@ -38,35 +38,30 @@ Instructions: [Field Measurement Guide](https://www.who.int/childgrowth/training
 
 
 ### Girls
+![GirlsBMIbyAge](https://drive.google.com/uc?id=10xU_YlX6_gYgaDwrkuwC_m0cZYnUKKAa)
+
+### Boys
 
 
+![BoysBMIbyAge](https://drive.google.com/uc?id=1Ycpnj9o99duIkYRE14J1ptcyIq_q6ZcK)
 
-# Girls
-
-
-5-19 Years
 
 
 
 ## Weight for Age 
 
-### 5-10 years 
+### Girls
 
 Link to graph (percentile) : [Slide 1 (who.int)](https://cdn.who.int/media/docs/default-source/child-growth/growth-reference-5-19-years/weight-for-age-(5-10-years)/cht-wfa-girls-perc-5-10years.pdf?sfvrsn=757939d1_4)
 Drive Link to graph (percentile): [Girls_5to10yrs_Weight For Age](https://drive.google.com/file/d/1s3ywFQxxT3GNGrVjuKph7It9a_v80XU6/view?usp=sharing)
-
 Link to field guide table : [WGirls_perc_5 to 10 years_field.xls (who.int)](https://cdn.who.int/media/docs/default-source/child-growth/growth-reference-5-19-years/weight-for-age-(5-10-years)/sft-wfa-girls-perc-5-10years.pdf?sfvrsn=3dd1f35b_4)
-
 Drive link to field guide table : [Girls_5to10yrs_wfa_fieldguidetable](https://drive.google.com/file/d/1ZeY6azixcVx70HlFzsNpMgSc-vnW_HIx/view?usp=sharing)
 
 
 ![drive](https://drive.google.com/uc?id=1dXuWB8oRaIzS34c4MmHAfxdyH2_7QGwn)
 
 
-
-# Boys
-## Weight For Age
-### 5-10 Years
+### Boys
 Link to graph (percentile) : [Slide 1 (who.int)](https://cdn.who.int/media/docs/default-source/child-growth/growth-reference-5-19-years/weight-for-age-(5-10-years)/cht-wfa-boys-perc-5-10years.pdf?sfvrsn=d45317d3_4)
 
 Drive Link to graph (percentile) : [Boys_5to10years_WfA](https://drive.google.com/file/d/1_TamizhkMyk57QJ3c6vb6ALWiRuCwNZC/view?usp=sharing)
