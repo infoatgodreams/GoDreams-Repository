@@ -25,6 +25,8 @@ Links: [Development of the scale](https://drive.google.com/file/d/1yyRKVH75k9ZyE
 
 
 # Measurement Tools
+
+Instructions: [Field Measurement Guide](https://www.who.int/childgrowth/training/module_c_interpreting_indicators.pdf)
 ## BMI
 
 - BMI measurements are then further subcategorized into 
