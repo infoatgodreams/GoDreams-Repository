@@ -6,7 +6,7 @@
       {
         "id": "c51d303214617d7b",
         "type": "leaf",
-        "dimension": 39.40552016985138,
+        "dimension": 24.22976501305483,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -19,9 +19,22 @@
         }
       },
       {
+        "id": "4231c5c477322e05",
+        "type": "leaf",
+        "dimension": 24.22976501305483,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Home.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "dd03ae2fc56a96e2",
         "type": "leaf",
-        "dimension": 41.91082802547771,
+        "dimension": 51.540469973890346,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -31,19 +44,6 @@
             "source": false
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "f2ae1f4396d384ee",
-        "type": "leaf",
-        "dimension": 18.683651804670912,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Home.md",
-            "mode": "source",
-            "source": false
-          }
         }
       }
     ],
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631,
-    "collapsed": true
+    "width": 377.0093288421631
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -159,17 +158,17 @@
     "width": 246.5914306640625,
     "collapsed": true
   },
-  "active": "f2ae1f4396d384ee",
+  "active": "4231c5c477322e05",
   "lastOpenFiles": [
     "Home.md",
+    "Volume 1/Volume 1 Index.md",
+    "Volume 1/Daily Log/Navneeths Log.md",
+    "WHO Child Growth Standards.md",
     "Volume 1/Reference Reading/Research Papers/Global/WHO_Growth reference for school aged children and adolescents.md",
     "Volume 1/Roll Ups/Nutrition.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Master Class Best Practices for Safety of Children in a Child Care Institution.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Counsel to Secure Justice/CSJ_Connecting to children in the observation homes of Rajasthan.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/SOS/Highlights for CELCIS_and_SOS_-_Evidence_review_residential_Annotated_Akshay.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md"
+    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md"
   ]
 }
