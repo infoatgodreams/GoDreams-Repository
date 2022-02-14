@@ -22,7 +22,30 @@ Links: [Development of the scale](https://drive.google.com/file/d/1yyRKVH75k9ZyE
 
 - The total sample size was 22 917  (11 410 boys, 11 507 girls). For the indicator height-for-age, 8 boys (0.07%),  including an 18 month-old with length  51.6 cm, and 14 girls (0.12%) had  outlier height measurements that were  set to missing in the data set. For the  weight-based indicators (i.e. weightfor-age and BMI-for-age), the same  cleaning approach used for the construction of the WHO Child Growth  Standards (cross-sectional component)  was applied to avoid the influence of unhealthy weights-for-height.10 As a  result, 321 observations for boys (2.8%)  and 356 observations for girls (3.0%)  were excluded
 	
+
+
+# Measurement Tools
+## BMI
+
+- BMI measurements are then further subcategorized into 
+	- Obesity( >2 Standard Deviations), 
+	- Overweight (between 1 &2 SD) ,
+	-  Normal (0), 
+	- Thinness (between -2 and -3 SD) 
+	- Severe thinness (below -3)
+
+
+### Girls
+
+
+
 # Girls
+
+
+5-19 Years
+
+
+
 ## Weight for Age 
 
 ### 5-10 years 
