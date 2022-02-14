@@ -26,9 +26,12 @@ title: Home - CAP Design Portal
 	- [CSA_Aftercare for Vulnerable Children - Challenges and Opportunities](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Aftercare%20for%20Vulnerable%20Children%20-%20Challenges%20and%20Opportunities.md)
 	- [CSA_Master Class Best Practices for Safety of Children in a Child Care Institution](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Master%20Class%20Best%20Practices%20for%20Safety%20of%20Children%20in%20a%20Child%20Care%20Institution.md)
 	- [CSA_Institutional Care for Vulnerable Children The Law, Present Scenario, and Way Ahead](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Institutional%20Care%20for%20Vulnerable%20Children%20The%20Law,%20Present%20Scenario,%20and%20Way%20Ahead.md)
-	- [Rainbow_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Child%20Protection%20Policy.md)
-	- [Rainbow_Emergency Protocol for Sneha Ghars](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Emergency%20Protocol%20for%20Sneha%20Ghars.md)
+	- [CSA_Master Class Best Practices for Safety of Children in a Child Care Institution](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Master%20Class%20Best%20Practices%20for%20Safety%20of%20Children%20in%20a%20Child%20Care%20Institution.md)
+	- [Rainbow_Finance](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Finance.md)
+	- [Rainbow_Home Records](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Home%20Records.md)
+	- [Rainbow_Physical Health Care](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Physical%20Health%20Care.md)
 	- [CSJ_Connecting to children in the observation homes of Rajasthan](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Counsel%20to%20Secure%20Justice/CSJ_Connecting%20to%20children%20in%20the%20observation%20homes%20of%20Rajasthan.md)
+	- [Highlights for CELCIS_and_SOS_-_Evidence_review_residential_Annotated_Akshay](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/SOS/Highlights%20for%20CELCIS_and_SOS_-_Evidence_review_residential_Annotated_Akshay.md)
 
 ## Child Care Institutions
 - International
