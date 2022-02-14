@@ -56,8 +56,11 @@ Link to tools: [BMI - Google Drive](https://drive.google.com/drive/u/0/folders/1
 ### Girls
 
 Field Guide Table: [Girls_WFA_Field Guide](https://drive.google.com/file/d/1ibSS0pp4uYvjEDG2hS8OWt2G0i_Mtvm8/view?usp=sharing)
-
+![girls_wfa_graph](https://drive.google.com/uc?id=1R4VytqWNfxtoC0HPiqlMyKT8fXsX1fiQ)
 
 ### Boys
 
 Field Guide Table(Simplified): [Boys_WFA_Field Guide](https://drive.google.com/file/d/1WdwQ1-QEQgcNjb1rOmF-aJovN6dzA8Qr/view?usp=sharing)
+
+
+![Boys__Wfa_Graph](https://drive.google.com/uc?id=1ulDa3oL99YWoGTmj1GGd-xGkEshevgsu)
