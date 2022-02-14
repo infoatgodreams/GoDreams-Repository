@@ -6,7 +6,10 @@ tags:
 - globalresearch
 ---
 
-Links: [Development of the scale](https://drive.google.com/file/d/1yyRKVH75k9ZyErCQ0A-_U07HrnOWmtJ0/view?usp=sharing)
+Links:
+- [Development of the scale](https://drive.google.com/file/d/1yyRKVH75k9ZyErCQ0A-_U07HrnOWmtJ0/view?usp=sharing)
+- [Growth reference data for 5-19 years - Indicators (who.int)](https://www.who.int/tools/growth-reference-data-for-5to19-years/indicators)
+- [Application tool - Anthro Plus (who.int)](https://www.who.int/tools/growth-reference-data-for-5to19-years/application-tools)
 
 
 # Scope
@@ -28,6 +31,9 @@ Links: [Development of the scale](https://drive.google.com/file/d/1yyRKVH75k9ZyE
 # Measurement Tools
 
 Instructions: [Field Measurement Guide](https://www.who.int/childgrowth/training/module_c_interpreting_indicators.pdf)
+
+
+
 ## BMI
 
 Link to tools: [BMI - Google Drive](https://drive.google.com/drive/u/0/folders/1r4Ac4zQMJRrn8oKDVM4qto6anbki8Bsx)
@@ -46,12 +52,14 @@ Link to tools: [BMI - Google Drive](https://drive.google.com/drive/u/0/folders/1
 ### Boys
 
 
-![BoysBMIbyAge](https://drive.google.com/uc?id=1Ycpnj9o99duIkYRE14J1ptcyIq_q6ZcK)
+![BoysBMIbyAge](https://drive.google.com/uc?id=1424lf49qgwXK2oDKcj2Z3WsuzX9vaWOB)
 
 
 
 
 ## Weight for Age 
+
+Link to tools: [Weight For Age - Google Drive](https://drive.google.com/drive/u/0/folders/1sj_46ROb7PM9Rca_XBKpNksGc1qvOuRZ)
 
 - Note: Weight for Age is only available upto age 10, as children older than that go through variable growth spurts and hence this measure is not standardizable. 
 
@@ -67,3 +75,21 @@ Field Guide Table(Simplified): [Boys_WFA_Field Guide](https://drive.google.com/f
 
 
 ![Boys__Wfa_Graph](https://drive.google.com/uc?id=1ulDa3oL99YWoGTmj1GGd-xGkEshevgsu)
+
+
+## Height For Age
+Link to tools: [Height For Age - Google Drive](https://drive.google.com/drive/u/0/folders/1rGFq2KzG4rl4eEcBK-OzWPKcmJv6GayT)
+
+
+### Girls
+
+Field Guide Table: [Girls_WFA_Field Guide](https://drive.google.com/file/d/1Dsga36H7IUxEGWnek4XYjPPNfB2EOsow/view?usp=sharing)
+
+![HGA_Girls](https://drive.google.com/uc?id=1afwC1ubQY713RGX5jIJZEPliIz9ZIZEV)
+
+### Boys 
+
+Field Guide Table(Simplified): [Boys_WFA_Field Guide](https://drive.google.com/file/d/1qdhMDGFwxyP_E22CBf54XQyBzw5K_Gt-/view?usp=sharing)
+
+![HFA_Boys](https://drive.google.com/uc?id=1tUaCW151vXir3dbPHh3hlJjnuR6hV9uu)
+
