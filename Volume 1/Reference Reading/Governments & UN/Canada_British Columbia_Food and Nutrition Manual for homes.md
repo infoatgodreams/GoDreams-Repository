@@ -504,446 +504,298 @@ Meat & Alternatives | Peanut or other nut butters, seed butters (for example, se
 # SECTION 8: Purchasing Food Wisely
 
 - ## Where to Shop?
+	-  Regardless of where you shop, there will be pros and cons. Running between stores for the lowest price on an item may not save money.  In addition, the extra time may be better spent on other tasks. 
 STORE | ADVANTAGES | DISADVANTAGES
 ---|---| ---
-WHOLESALE | • generally lower costs for large amounts  • orders can be made by phone and goods delivered • labour and time saving• monthly statements/payments• higher prices are charged if you do not buy the entire case of an item
-• minimum order required for delivery
-• need storage to hold large deliveries
-• ties up money in inventory
-RETAIL
-• can take advantage of specials, coupons
-• can hand-select fresh produce and purchase
-in small quantities
-• more selection of products and brands
-• can teach life-skills and contribute to the
-community• labour intensive
-• time consuming
-• prices generally higher
-• may not provide delivery service
-Regardless of where you shop, there will be pros and cons. Running between stores for
-the lowest price on an item may not save money. In addition, the extra time may be bet
-ter spent on other tasks. Here are some general shopping tips to help you purchase
-wisely:
-Check flyers for weekly specials and sales. Use coupons if you can double them or
-get the name brands for next to nothing. In most cases you can make the item or
-buy a generic brand for less.
-• Buy according to what you will use and can safely store. As a general rule, buy gro
-ceries in amounts that can be used up within three months. Check the label for best
-before dates.
-• Buy less expensive, local, seasonal foods and store brands rather than name brands.
-Buy larger packages or consider some bulk foods if you will use them.
-Page 103
-Compare prices of products using unit pricing (that is, cost per unit of weight—for
-example, ounces or grams—or volume—for example, fluid ounces or millilitres).
-Foods that are unprocessed (for example, fresh vegetables, fruit or meat) or
-processed very little (such as milk, frozen vegetables, rolled oats) are less expensive
-(and healthier!) than highly processed items (for example, baking mixes, deli meats,
-prepared cereals)
-Make a price list. Keep track of the prices on the items you buy most frequently in a
-small pocket book. Then set a goal to only buy those items when they are at their
-cheapest. Ask for rain checks when a sale item is sold out.
-To save on herbs and spices you might want to grow your own. This could be part of
-an activity program of the facility.
-Most foods have satisfaction guarantees on the products. If you do not like a product,
-return it to the store or call the toll-free number on the back of the box. Many compa
-nies will either give you your money back or send you a coupon for another product.
-Grocery Lists and Purchasing Foods from
-Suppliers
-Page 106
-Best BuysShopping Tips
-GRAIN PRODUCTS
-Hot cereals such as oatmeal
-Breakfast cereals such as 100 Bran,
-Grape-Nuts®
-Rice
-Breads
-Pasta• Choose whole grain items that are low in fat, salt and sugar. Choose prepared
-breakfast cereals with at least 4 grams of fibre per serving and with little or no sugar.
-• Avoid instant rice, pasta or cereals as they cost more per serving.
-• Compare bread by weight (and number of slices), not size; large loaves are not always
-cheaper.
-• Consider purchasing day-old bread. It will keep for two months in the freezer and can
-be used to make bread crumbs and croutons.
-VEGETABLES AND FRUIT
-Fresh vegetables and fruit in season
-Frozen or canned vegetables and
-unsweetened frozen or canned fruit
-(for example, in pear juice) when fresh
-items are not in season
-Frozen unsweetened fruit juices
-Cabbage, potatoes and root vegetables
-(for example, carrots, turnips, parsnips)• Buy local or store brands. Try shopping at local farmers’ markets in the summertime.
-Pick-your-own farms offer you the chance to pick your own at a lower rate than the
-picked price.
-• Buy standard grades of canned fruit and vegetables or frozen plain vegetables; frozen
-vegetables in sauce cost more.
-• Compare the cost per serving rather than the cost per kilogram/pound.
-• Grow your own vegetables and herbs. Some herbs such as parsley can be grown all
-year round.
-• Select small apples and bananas for children rather than larger ones, which may be
-only half-eaten.
-MILK AND MILK ALTERNATIVES
-Skim milk powder
-Fluid milk in 4 L jugs
-Block cheese instead of grated or slices
-Plain yogurt
-Cottage cheese
-Evaporated 2 milk• Use skim milk powder in cooking (for example, puddings, cakes, casseroles, soups)
-and evaporated milk to replace light cream in recipes.
-• Buy plain yogurt and add your own fruit or make your own yogurt.
-• Try ice milk. It often costs less than ice cream.
-• Compare the cost of cheese. Those that cost less tend to be processed cheese, mild
-block cheese and domestic cheese. Do not throw out hardened cheese. Grate it into
-muffins, casseroles, omelettes, soups and salads.
-MEAT AND ALTERNATIVES
-Dried split peas, beans, lentils
-Tofu
-Eggs
-Peanut butter
-Ground beef
-Poultry
-Less tender cuts of meat (for example,
-pot roast, stewing meat)
-Canned fish (water packed)• Compare the price per serving rather than the price per pound/kilogram as fat, bone
-and gristle reduce the number of servings. The parts that you cannot use make good
-stock for soup.
-• Tenderize tough cuts of meat by using a wooden or metal mallet, marinating or slow
-cooking, and use in stroganoffs and curries.
-• Cut up your own chicken. It usually costs less per serving to buy a whole chicken.
-Canada B and Canada Utility poultry are cheaper.
-• Be selective with cold cuts (that is, deli meats) as many are high in fat and salt. Cold
-cuts in bulk (or sliced at the deli counter) tend to be cheaper than pre-sliced or pre
-packaged meats.
-Page 107
-Using Nutrition Labels to Purchase Wisely
-CONTENTS:
-1. Nutrition Facts
-2. Specific Amount of Food
-3.  Daily Value
-4. Core Nutrients
-5. Nutrition Claims
-6. List of Ingredients
-1. Nutrition Facts. This is the title of the label.
-2. Specific Amount of Food. The amount may be indicated by a phrase (for exam
-ple, two cookies), household units such as ml, cups, tablespoons, or a fraction of
-food (for example, 1/4 pizza). These are then followed by the metric measure (g, ml).
-3. % Daily Value is based on recommended amounts for a healthy 2000-calorie diet.
-Foods that contain less than 5% DV (Daily Value) of a nutrient are low in that nutri
-ent. Foods that contain more than 20% DV are high in that nutrient.
-4. Core Nutrients. Calories and the same core nutrients are always listed in the same
-order. Some of the key ones are discussed as follows:
-a. Calories: Portion sizes influence the number of calories. For example, if the
-table has information based on one waffle and you eat two waffles, you need to
-double the amount of calories and nutrients listed in order to figure out actual
-intake.
-Page 108
-b. Fat (saturated, trans and other fatty acids): Saturated fat and trans fat have
-one combined % DV because both types of fat have negative effects on blood
-fats.
-c. Cholesterol: The amount is listed in milligrams. The label may provide a % DV.
-d. Sodium: This may be added to foods through additives such as disodium phos
-phate, sodium nitrate or sodium gluconate. A healthy diet low in sodium may
-reduce the risk of high blood pressure.
-e. Carbohydrate (starch, fibre and sugars): Sugars are added to foods as sucrose,
-brown sugar, maltose, glucose, fructose, dextrose, liquid invert sugar, molasses,
-honey, maple syrup and corn syrup. Sugars contribute mainly calories and have
-no nutrition advantages.
-f. Vitamin A, Vitamin C, Calcium and Iron: All of these are based on recom
-mended amounts. They are listed only as a % DV.
-5. Nutrition Claims are claims about the amount of a nutrient in a food (for exam
-ple, "high in fibre")
-CLAIMWHAT IT MEANS
-Cholesterol-freeProduct has very small amounts (less than 2 milligrams of cholesterol in the amount specified on the
-label) and is also low in saturated fat and trans flabel) and is also low in saturated fat and trans fat.
-Good source of calciumA serving of the product has 165 milligrams or more of calcium.
-High or very high source ofHigh
-fibreFood has at least 4–6 grams of fibre per serving.
-LightOnly on foods that are either "reduced in fat" or "reduced in energy" (calories). "Light" can also be
-used to describe characteristics of a food, provided that the characteristic is clearly identified with
-the claim (for example, light tasting, light coloured).
-Low-fatFood contains no more than 3 grams of fat in the serving size indicated. In a healthy diet, the
-ded range for fat intake is approximately one-third of total calorirecommended range for fat intake is approximately one-third of total calories.
-Low in saturated fatFood contains 2 grams or less of saturated and trans fat combined for the specified amount.
-No added sugarThe product contains no added sugars, ingredients with added sugars or ingredients that contain
-sugars that substitute for added sugarssugars that substitute for added sugars.
-Reduced in caloriesHas at least 25 fewer calories than the food it is being compared to.
-Sodium-freeFor the serving size indicated the food contains less than 5 milligrams of sodium.
-Source of fibreThe food contains at least 2 grams of dietary fibre in the serving size indicated.
-Sugar-freeThe product contains less than 0.5 grams of sugars and 5 calories per serving size.
-UnsweetenedThe product meets requirements for “no added sugar” and contains no sweeteners.
-Nutrition labels are based on the food as sold and not
-as cooked.
-Page 109
-Ingredient List. Ingredients are listed in descending order by weight. This infor
-mation is helpful for those with food allergies or intolerances, or those making
-lower-fat, lower-sugar or higher-fibre choices
-Fat ingredients may be listed as oil,
-margarine, butter, monoglycerides, diglycerides or vegetable lecithin. Salt may
-appear as sodium, monosodium glutamate or sodium nitrate.
-Food additives
-examples are: BHT (butylated hydroxytoluene), lecithin, sodium
-nitrite, sulphur dioxide.
-Fresh products are least likely to con
-tain additives.
-Page 112
-Storage Tips
-• Keep hot foods hot and cold foods cold. Bacteria grow best in the Danger Zone of 4°-
-60°C (40°–140° F). Store foods at the correct temperature:
-Freezer Never above -18°C (0°F)
-Refrigerator Never above 4°C (40°F)
-Dry storage At 10°–20°C (50°–70°F) in a well-ventilated and dry area
-away from direct light
-Do not let perishable or cooked foods remain in the Danger Zone. Produce such as
-cut melons, tomatoes and raw sprouts have been linked with food-borne illness.
-These products must be refrigerated. Freeze fresh meat, fish or poultry right away if
-you cannot use it within two days.
-• Use chilled ingredients when making sandwiches or salads.
-• Avoid bruising fresh vegetables and fruit and overloading refrigerators and freezers.
-• Store opened packages in screw-top or tight-fitting lidded containers.
-• Store raw foods below cooked/ready-to-eat foods. Keep food/food containers at
-least 15 cm (6 inches) off the floor. Store cleaning agents and chemicals separately
-from food.
-• Chill hot leftovers quickly by dividing them into small portions, using shallow pans,
-putting them on ice, stirring frequently and refrigerating immediately. Store left
-overs in airtight containers or wrap them in moisture-proof material. Label and date
-leftovers and try to use them within 24 hours.
-• Mark down when floors, shelves, refrigerators and freezers should be cleaned. An
-example form of how to organize food purchasing, preparation and cleaning is pro
-vided on the BC government publications website at: www.publications.gov.bc.ca
-and look up “Forms To Accompany the Meals and More Manual.”
-Page 113
-Date newly received items with the month and year of purchase. Place new stock
-behind old stock to use in order of purchase. Use foods within the maximum storage
-times (see Suggested Resources).
-Food Preparation
-Do not cross-contaminate. Never cut fresh fruit and vegetables on a board that was
-used for preparing raw meats and poultry without thoroughly washing and sanitiz
-ing the board first.
-• Avoid soaking vegetables and fruit for prolonged periods before cooking. Prepare
-fresh vegetables and fruit as close as possible to mealtimes.
-• When possible scrub vegetables instead of peeling them.
-• Reduce bruising by using a sharp knife for trimming, cutting and chopping.
-• Cover and refrigerate foods while you prepare other parts of the meal.
-• Once the original bag or box is opened, transfer dry food to airtight containers.
-• Thaw all meat, even cured vacuum-packed meat, in the bottom of the refrigerator.
-Cooking
-Ensure that meats and poultry are adequately cooked. Do not partially cook one day
-and finish cooking the next.
-• Some minerals and vitamins are lost when exposed to the air or dissolve in cooking
-water. Cook vegetables whole or in large pieces and with their skins on, where possi
-ble, rather than cut up small and peeled. Use as little cooking water as possible and
-use the cooking water in soups, sauces and gravies. Keep the cooking time short;
-add vegetables to boiling water and cook until just tender. A better method is to
-steam vegetables.
-• Skim and discard fat from meat drippings for a healthier meal.
-Page 114
-Serving Food
-Try to limit the amount of leftovers because reheated food will
-lose vitamins and minerals, flavour and texture. Refrigerate and reheat food for late
-comers instead of holding food warm for a long time.
-Mealtime Clean-Up and Reheating Food
-Dishes may be cleaned through a dishwasher or hand-washed. Dishwashers require a
-minimum:
-• wash temperature of 60°C (140°F).
-• final rinse cycle of 10 seconds.
-• rinse temperature of 77°C (180°F).
-If you are hand-washing dishes, a three-compartment sink is recommended: one sink to
-wash (minimum temperature of 44°C (110°F), one to rinse (use hot tap water) and one
-to sanitize.
-Tips for Food Handlers
-Wash your hands with liquid soap under warm running water:
-- before starting to prepare a meal
-- after going to the washroom
-- after blowing your nose, coughing or sneezing, or touching your mouth, face or
-hair
-- after smoking or eating
-- after handling raw meat, poultry, fish, eggs or unwashed vegetables
-- after handling dirty dishes or touching boxes or garbage.
-Wear clean clothes and aprons.
-• Use clean utensils rather than your hands to mix food. If hands must be used when
-handling ready-to-eat foods, ensure your hands are washed. Also consider using dis
-posable plastic or vinyl gloves. Do not use latex gloves because they can trigger aller
-gies.
-• Use clean spoons to taste food. Do not put tasting spoons back into the food.
-Page 115
-Cross-Contamination
-• Preventing bacteria from hitchhiking from one food to another. For example, bacteria
-can cling to a knife and be lifted from one food to the next if used on different foods.
-• Not using cutting boards and utensils for preparing raw meats or poultry and ready
-to-eat foods. If the same items are used, wash them with soap, rinse them with
-water and then sanitize between uses. Let the sanitizing solution stay in contact with
-the utensil or cutting board for 2 minutes and do not rinse off. A sanitizing solution
-can be made by mixing 15 ml (3 tsp.) of 6% bleach into 1 L (4 cups) of water. Prepare
-a fresh solution daily.
-• Washing and sanitizing dishcloths before they are used to clean surfaces on which
-ready-to-eat foods will be placed.
-• Storing raw food such as raw poultry, fish and meat in containers that do not leak.
-These items should be stored on the bottom shelf of the refrigerator to prevent the
-juices from dripping onto cooked and ready-to-eat foods.
-Page 117
-SECTION :
-THE DINING
-ENVIRONMENT
-AND MEALTIME
-ASSISTANCE
-Page 118
-The Mealtime Environment
-Don’t rush people while eating or drinking.
-• Dining areas should have adequate and appropriate furniture.
-• Tables should be set properly with appropriate dishes, cutlery and special equip
-ment available.
-• Allow for good communication (for example, suitable temperature, ventilation,
-unnecessary interruptions).
-• Assistance is available for eating and drinking if required.
-• Positive social interaction between staff and persons in care.
-Mealtime Assistance and Eating Aids
-The optimal position for safe eating and drinking is to sit upright and well supported
-Stability is
-important and is achieved when the person is sitting with their feet firmly on the floor
-heir arms should be resting on the table
-with elbows bent
-The person assisting should be sitting at eye level and
-seated comfortably.
-Correct positioning after eating is also important. An upright posi
-tion for at least 30 minutes helps with digestion.
-Page 120
-Common Eating Problems
-CONDITIONS THAT
-AFFECT EATINGSUGGESTIONS
-DroolingAssess for swallowing disorder (see the Dysphagia (Swallowing Disorders) section of this manual).
-Dry mouth• Provide ice chips, frequent sips of water or sugar-free popsicles. Have the person in care carry a water
-bottle with them to sip from often.
-• Try sugarless candy and gum to stimulate saliva. Artificial saliva substitutes (for example, Moi-Stir) are
-available. Consult a physician and/or pharmacist.
-• Provide moist foods. Moisten dry foods with soft margarine, gravy, sauces or broth.
-Loss of taste and
-smell (which
-enhances taste)• A mild mouth rinse of 15 ml (1 tsp.) of baking soda dissolved in 1 Litre (1 quart) of room-temperature
-water may be helpful to swish in the mouth before each meal or snack.
-• If there is a “metallic” taste, try using plastic instead of metal utensils.
-• Try flavouring foods with tart, sour, sweet or unusual flavours such as lemon, citrus, vinegar, pickled
-items and spices such as basil, oregano, rosemary, tarragon, mustard, catsup or mint. Make a fruit
-smoothie or milkshake with frozen cranberries. Try adding 5–10 ml (1–2 tsp.) of decaffeinated coffee
-grounds to a liquid supplement such as Boost®. Marinate (soak) and cook meats in sweet juices, fruit or
-dressings (for example, sweet and sour pork).
-• Try rinsing the mouth with cool black or green tea or lightly salted water to “clear” the taste buds
-before eating.
-Thick saliva• Offer warm liquids like soups, hot chocolate, Ovaltine, broth, tea or warm water to help clear the
-mouth of thick saliva and to wash foods down. Check with the doctor or pharmacist about
-preparations to dissolve and stimulate saliva.
-• Encourage small, frequent meals and snacks throughout the day. If nutritional supplements are
-needed, consider the use of commercial supplements such as Resource® Fruit Beverage.
-• Whole or high-fat milk may thicken the saliva but it should not be eliminated from the diet. Try skim
-milk followed by a hot or clear beverage, foods with cooked milk such as cream soup or puddings, or
-fortified soy-based beverages.
-• Sugar-free beverages or foods that are slightly tart or carbonated may help thin secretions. Examples
-are diet lemon-flavoured drinks, iced tea, sherbet, mandarin oranges, pineapple, sour lemon drops,
-sugar-free lemonade, sugar-free orange-flavoured drinks or sugar-free popsicles. Tolerance may vary,
-especially if there are sores in the mouth.
-• Encourage frequent oral rinsing with club soda or a baking soda rinse (1 ml/1/4 tsp. of baking soda
-mixed in 250 ml/1 cup of water), especially before and after eating.
-• Caffeine and spicy foods and beverages should be limited as they irritate the mouth.
-• Consider using a humidifier in the home.
-Page 121
-Eating and Behaviour Challenges
-A person’s eating patterns develop early in life and affected by:
-• Being exposed to a variety of foods.
-• Role-modelling of desired eating behaviours.
-• The age of the person, temperament, emotional state, health and development.
-• Genetic make-up (for example, preferences for sweet foods).
-• Recognition of hunger and fullness cues.
-• Environmental factors (for example, social context, lighting).
-Eating and behaviour challenges tend to be more common in children and adults with
-development delays. It is important to determine if the behaviour is a concern before a
-management plan can be started. Situations that may be a challenge include:
-• a change in growth or weight-gain combined with food refusal.
-• long-term food or texture restrictions resulting in limited intake or not enough
-nutrition (for example, restricting iron-rich foods resulting in anemia).
-• delayed feeding skills, such as poor self-feeding.
-• unusual habits such as a compulsive eating, drinking excess fluids, eating large
-amounts of frozen food or eating non-foods (for example, dirt, clay).
-• very long or short mealtimes.
-• tantrums, outbursts, throwing food, gagging, spitting out or vomiting at meals.
-• inappropriate moods around food or mealtimes, including anxiety or distress.
-• eating too fast, rumination (that is, chewing repeatedly for an extended period) and
-regurgitation (that is, bringing up partly digested food).
-• stealing or hiding food.
-An assessment by a psychologist should answer the following questions:
-• Is there a medical or psychological reason for problem eating?
-• Who is most concerned by the eating problem (that is, the person in care or others)?
-• Are growth or possible nutrition deficiencies an issue? Does food need to be fortified?
-• Are there any oral or physical problems limiting the ability to eat?
-• Is the person presenting a risk to himself or herself?
-Page 122
-Eating-Behaviour Solutions
-1. Offer new foods repeatedly. It is normal for someone to reject a food the first
-time it is offered. Offer the food repeatedly in a supportive way. Sometimes five to
-ten exposures are necessary for a food to be accept
-2. Provide a happy, safe, relaxed social context at meals.
-Staff members also provide direct and indirect examples of eating
-behaviour. Recognition, praise and approval reinforce appropriate behaviour.
-Are there any distractions at meal
-times? Has there been a change in medication? Is the person constipated, dehy
-drated or in pain? Is the person positioned correctly?
-3. Provide discipline and support.
-Avoid distractions such as the television so that the per
-son in care can learn normal eating behaviour including recognizing when they are
-full. Emotional support, encouragement and affection around eating are important
-4. Be responsive. Appropriate responses to readiness and emotional issues promote
-healthy eating behaviours.
-Avoid hurrying the person to eat. Children in particular
-need to register hunger and fullness and enjoy the social aspect of mealtimes.
-Overeating and the Environment
-Store tempting foods in less-convenient locations (such as in a basement or top cup
-board).
-Do not leave serving bowls and platters on the dinner table. Keep second servings a
-safe distance away.
-Provide sufficient non-food oriented activities during the day. Exercise-based pro
-grams such as walking, dancing or playing sport are ideal.
-Discourage “grazing” by focusing only on food. Have the person eat only when sit
-ting down, and do this at a distraction-free table.
-Page 123
-• Illustrate normal portion control. Pre-serve the portions and allow no “refills.”
-Repackage foods into smaller containers. Avoid eating straight from packages.
-• Get rid of the cookie jar, or replace it with a fruit bowl.
-• Make healthier foods more visible. Wrap tempting foods in foil to make them less
-visible. Place healthier foods in the front of the refrigerator.
-• Avoid multiple bowls of the same food (for example, at parties) because they stimu
-late eating.
-• At buffets avoid having more than two different foods on a plate at the same time.
-• To discourage overeating in an environment where food is plentiful (for example, at
-a party), arrange foods into organized patterns.
-• Use tall, narrow glasses instead of short, wide ones, and smaller bowls, plates and
-spoons rather than larger ones.
-Suggestions for Special Mealtime Activities
-Birthday Parties and Theme Days:
-Sporting Events:
-Other:
-Page 124
-Cultural, Religious and Personal Considerations
-How is food normally served and eaten? On a plate, or in a bowl? With a fork,
-spoon, soup spoon, Chinese soup spoon or chopsticks? Scooped up with roti?
-• Is food served plain or with sauces? Are vegetables usually served raw, cooked or
-pickled?
-• Is there a “most preferred” food (for example, rice, noodles, potatoes, soup)? Is this
-food served at every meal?
-• Are there forbidden foods or food combinations? Are there foods that are served
-during illness, or at celebrations?
-• Are dairy products eaten on a regular basis? Are they served hot or cold? Are they
-cooked with rice or tapioca? Are they served as buttermilk or yogurt?
-Page 127
-SECTION :
-EMERGENCY
-PLANNING
-Page 128
-Emergency plans for handling disasters will ensure that the needs of those in care con
-tinue to be met.
-1. Provide safe water and food.
-Store 2.5–5 L (½–1 gallon) per person per day. This water will be required for
-drinking, food preparation, brushing teeth, other basic hygiene needs and washing
-dishes.
-Store an alternative water supply in sturdy, opaque plastic jugs or bottles.
-Add chlorine bleach (it must contain 5.25% sodium
+WHOLESALE | • generally lower costs for large amounts <br> • orders can be made by phone and goods delivered <br>• labour and time saving• monthly statements/payments<br>|• higher prices are charged if you do not buy the entire case of an item <br>• minimum order required for delivery<br>• need storage to hold large deliveries<br>•ties up money in inventory<br>
+RETAIL | • can take advantage of specials, coupons <br>• can hand-select fresh produce and purchase in small quantities <br>• more selection of products and brands<br>• can teach life-skills and contribute to the community<br>| • labour intensive<br>• time consuming<br>• prices generally higher <br>• may not provide delivery service 
+
+- ## General shopping tips to help you purchase wisely: 
+	- Check flyers for weekly specials and sales. Use coupons if you can double them or get the name brands for next to nothing. In most cases you can make the item orbuy a generic brand for less. 
+	- Buy according to what you will use and can safely store. As a general rule, buy groceries in amounts that can be used up within three months. Check the label for best before dates.
+	- Buy less expensive, local, seasonal foods and store brands rather than name brands.
+	- Buy larger packages or consider some bulk foods if you will use them.
+	- Compare prices of products using unit pricing (that is, cost per unit of weight—forexample, ounces or grams—or volume—for example, fluid ounces or millilitres). 
+	- Foods that are unprocessed (for example, fresh vegetables, fruit or meat) orprocessed very little (such as milk, frozen vegetables, rolled oats) are less expensive(and healthier!) than highly processed items (for example, baking mixes, deli meats,prepared cereals)
+	- Make a price list. Keep track of the prices on the items you buy most frequently in a small pocket book. Then set a goal to only buy those items when they are at their cheapest. 
+	- Ask for rain checks when a sale item is sold out.
+	- To save on herbs and spices you might want to grow your own. This could be part of an activity program of the facility.
+	- Most foods have satisfaction guarantees on the products. If you do not like a product,return it to the store or call the toll-free number on the back of the box. Many companies will either give you your money back or send you a coupon for another product.
+
+- ## Grocery Lists and Purchasing Foods from Suppliers
+	- ### Best Buys and Shopping Tips
+		- GRAIN PRODUCTS 
+			- Hot cereals such as oatmeal 
+			- Breakfast cereals such as 100 Bran, 
+			- Grape-Nuts®
+			- Rice
+			- Breads
+			- Pasta 
+			- Choose whole grain items that are low in fat, salt and sugar.
+			- Choose prepared breakfast cereals with at least 4 grams of fibre per serving and with little or no sugar. 
+			- Avoid instant rice, pasta or cereals as they cost more per serving.
+			- Compare bread by weight (and number of slices), not size; large loaves are not always cheaper.
+			- Consider purchasing day-old bread. It will keep for two months in the freezer and can be used to make bread crumbs and croutons.
+		- VEGETABLES AND FRUIT 
+			- Fresh vegetables and fruit in season
+			- Frozen or canned vegetables and unsweetened frozen or canned fruit (for example, in pear juice) when fresh items are not in season 
+			- Frozen unsweetened fruit juices
+			- Cabbage, potatoes and root vegetables(for example, carrots, turnips, parsnips)
+			- Buy local or store brands.
+			- Try shopping at local farmers’ markets in the summertime. 
+			- Pick-your-own farms offer you the chance to pick your own at a lower rate than the picked price.
+			- Buy standard grades of canned fruit and vegetables or frozen plain vegetables; frozen vegetables in sauce cost more
+			-  Compare the cost per serving rather than the cost per kilogram/pound.
+			- Grow your own vegetables and herbs. Some herbs such as parsley can be grown all year round.
+			- Select small apples and bananas for children rather than larger ones, which may be only half-eaten.
+		- MILK AND MILK ALTERNATIVES
+			- Skim milk powder
+			- Fluid milk in 4 L jugs
+			- Block cheese instead of grated or slices
+			- Plain yogurt
+			- Cottage cheese
+			- Evaporated  milk• 
+			- Use skim milk powder in cooking (for example, puddings, cakes, casseroles, soups) and evaporated milk to replace light cream in recipes.
+			- Buy plain yogurt and add your own fruit or make your own yogurt.
+			- Try ice milk. It often costs less than ice cream.
+			- Compare the cost of cheese. Those that cost less tend to be processed cheese, mild block cheese and domestic cheese. Do not throw out hardened cheese. Grate it into muffins, casseroles, omelettes, soups and salads.
+		- MEAT AND ALTERNATIVES
+			- Dried split peas, beans, lentils
+				- Tofu
+				- Eggs
+				- Peanut butter
+				- Ground beef
+				- Poultry
+				- Less tender cuts of meat (for example, pot roast, stewing meat)
+				- Canned fish (water packed)• Compare the price per serving rather than the price per pound/kilogram as fat, bone and gristle reduce the number of servings. The parts that you cannot use make good stock for soup.
+				-  Tenderize tough cuts of meat by using a wooden or metal mallet, marinating or slow cooking, and use in stroganoffs and curries.
+				- Cut up your own chicken. It usually costs less per serving to buy a whole chicken. Canada B and Canada Utility poultry are cheaper.
+				-  Be selective with cold cuts (that is, deli meats) as many are high in fat and salt. Cold cuts in bulk (or sliced at the deli counter) tend to be cheaper than pre-sliced or prepackaged meats.
+
+- ## Using Nutrition Labels to Purchase Wisely
+	- Contents of a typical nutrition label
+		- **Nutrition Facts**
+			- This is the title of the label
+		- **Specific Amount of Food**
+			- Specific Amount of Food. The amount may be indicated by a phrase (for example, two cookies), household units such as ml, cups, tablespoons, or a fraction offood (for example, 1/4 pizza). These are then followed by the metric measure (g, ml).
+		- **Daily Value**
+			- % Daily Value is based on recommended amounts for a healthy 2000-calorie diet.Foods that contain less than 5% DV (Daily Value) of a nutrient are low in that nutrient. Foods that contain more than 20% DV are high in that nutrient.
+		- **Core Nutrients**
+			- Core Nutrients. Calories and the same core nutrients are always listed in the sameorder. Some of the key ones are discussed as follows:
+				- Calories: Portion sizes influence the number of calories. For example, if thetable has information based on one waffle and you eat two waffles, you need todouble the amount of calories and nutrients listed in order to figure out actualintake.
+				- Fat (saturated, trans and other fatty acids): Saturated fat and trans fat haveone combined % DV because both types of fat have negative effects on bloodfats
+				- Cholesterol: The amount is listed in milligrams. The label may provide a % DV.
+				- Sodium: This may be added to foods through additives such as disodium phosphate, sodium nitrate or sodium gluconate. A healthy diet low in sodium mayreduce the risk of high blood pressure.
+				- Carbohydrate (starch, fibre and sugars): Sugars are added to foods as sucrose,brown sugar, maltose, glucose, fructose, dextrose, liquid invert sugar, molasses,honey, maple syrup and corn syrup. Sugars contribute mainly calories and have no nutrition advantages.
+				- Vitamin A, Vitamin C, Calcium and Iron: All of these are based on recommended amounts. They are listed only as a % DV.
+		- **Nutrition Claims**
+			- Nutrition Claims are claims about the amount of a nutrient in a food (for example, "high in fibre")
+				- Cholesterol-free : Product has very small amounts (less than 2 milligrams of cholesterol in the amount specified on the label) and is also low in saturated fat and trans flabel) and is also low in saturated fat and trans fat. 
+				- Good source of calcium: A serving of the product has 165 milligrams or more of calcium.
+				- High or very high source of fibre :Food has at least 4–6 grams of fibre per serving.
+				- Light : Only on foods that are either "reduced in fat" or "reduced in energy" (calories). "Light" can also beused to describe characteristics of a food, provided that the characteristic is clearly identified withthe claim (for example, light tasting, light coloured).
+				- Low-fat: Food contains no more than 3 grams of fat in the serving size indicated. In a healthy diet, theded range for fat intake is approximately one-third of total calorirecommended range for fat intake is approximately one-third of total calories.
+				- Low in saturated fat : Food contains 2 grams or less of saturated and trans fat combined for the specified amount.
+				- No added sugar :The product contains no added sugars, ingredients with added sugars or ingredients that contain sugars that substitute for added sugarssugars that substitute for added sugars.
+				- Reduced in calories: Has at least 25mg fewer calories than the food it is being compared to.
+				- Sodium-free: For the serving size indicated the food contains less than 5 milligrams of sodium.
+				- Source of fibre: The food contains at least 2 grams of dietary fibre in the serving size indicated.
+				- Sugar-free: The product contains less than 0.5 grams of sugars and 5 calories per serving size.
+				- Unsweetened: The product meets requirements for “no added sugar” and contains no sweeteners.
+				- Nutrition labels are based on the food as sold and notas cooked.
+		- **List of Ingredients**
+			- Ingredients are listed in descending order by weight. This information is helpful for those with food allergies or intolerances, or those making lower-fat, lower-sugar or higher-fibre choice
+			- Fat ingredients may be listed as oil, margarine, butter, monoglycerides, diglycerides or vegetable lecithin. 
+			- Salt may appear as sodium, monosodium glutamate or sodium nitrate.
+			- Food additives examples are: BHT (butylated hydroxytoluene), lecithin, sodium nitrite, sulphur dioxide.
+			- Fresh products are least likely to contain additives.
+
+
+
+- ##  Storage Tips
+	- Keep hot foods hot and cold foods cold. 
+	- Bacteria grow best in the Danger Zone of 4°- 60°C (40°–140° F). 
+		- Store foods at the correct temperature:
+			- Freezer Never above -18°C (0°F)
+			- Refrigerator Never above 4°C (40°F)
+			- Dry storage At 10°–20°C (50°–70°F) in a well-ventilated and dry area away from direct light
+		- Do not let perishable or cooked foods remain in the Danger Zone. Produce such ascut melons, tomatoes and raw sprouts have been linked with food-borne illness. 
+		- These products must be refrigerated. Freeze fresh meat, fish or poultry right away if you cannot use it within two days.
+		- Use chilled ingredients when making sandwiches or salads.
+	- Avoid bruising fresh vegetables and fruit and overloading refrigerators and freezers.
+	- Store opened packages in screw-top or tight-fitting lidded containers.
+	- Store raw foods below cooked/ready-to-eat foods. Keep food/food containers atleast 15 cm (6 inches) off the floor. Store cleaning agents and chemicals separatelyfrom food.
+	- Chill hot leftovers quickly by dividing them into small portions, using shallow pans,putting them on ice, stirring frequently and refrigerating immediately. Store leftovers in airtight containers or wrap them in moisture-proof material. Label and date leftovers and try to use them within 24 hours.
+	- Mark down when floors, shelves, refrigerators and freezers should be cleaned. Anexample form of how to organize food purchasing, preparation and cleaning is provided on the BC government publications website at: www.publications.gov.bc.ca and look up “Forms To Accompany the Meals and More Manual.”
+	- Date newly received items with the month and year of purchase. Place new stockbehind old stock to use in order of purchase.
+	- Use foods within the maximum storage times (see Suggested Resources).
+
+
+- ## Food Preparation
+	- Do not cross-contaminate. 
+		- Never cut fresh fruit and vegetables on a board that was used for preparing raw meats and poultry without thoroughly washing and sanitizing the board first.
+	- Avoid soaking vegetables and fruit for prolonged periods before cooking. Prepare fresh vegetables and fruit as close as possible to mealtimes.
+	- When possible scrub vegetables instead of peeling them
+	- Reduce bruising by using a sharp knife for trimming, cutting and chopping.
+	- Cover and refrigerate foods while you prepare other parts of the meal.
+	- Once the original bag or box is opened, transfer dry food to airtight containers.
+	- Thaw all meat, even cured vacuum-packed meat, in the bottom of the refrigerator.
+
+- ## Cooking
+	- Ensure that meats and poultry are adequately cooked. 
+	- Do not partially cook one day and finish cooking the next.
+	- Some minerals and vitamins are lost when exposed to the air or dissolve in cooking water
+	- Cook vegetables whole or in large pieces and with their skins on, where possible, rather than cut up small and peeled. 
+	- Use as little cooking water as possible and use the cooking water in soups, sauces and gravies.
+	- Keep the cooking time short; 
+	- Add vegetables to boiling water and cook until just tender. A better method is to steam vegetables.
+	- Skim and discard fat from meat drippings for a healthier meal.
+
+
+- ## Serving Food
+	- Try to limit the amount of leftovers because reheated food will lose vitamins and minerals, flavour and texture.
+	- Refrigerate and reheat food for late comers instead of holding food warm for a long time.
+
+- ## Mealtime Clean-Up and Reheating Food
+	- Dishes may be cleaned through a dishwasher or hand-washed. Dishwashers require a minimum:
+		- wash temperature of 60°C (140°F).
+		- final rinse cycle of 10 seconds.
+		-  rinse temperature of 77°C (180°F).
+	- If you are hand-washing dishes, a three-compartment sink is recommended: one sink to wash (minimum temperature of 44°C (110°F), one to rinse (use hot tap water) and one to sanitize.
+
+- ## Tips for Food Handlers
+	- Wash your hands with liquid soap under warm running water 
+		- before starting to prepare a meal
+		- after going to the washroom
+		- after blowing your nose, coughing or sneezing, or touching your mouth, face or hair
+		- after smoking or eating
+		- after handling raw meat, poultry, fish, eggs or unwashed vegetables
+		- after handling dirty dishes or touching boxes or garbage.
+		- Wear clean clothes and aprons.
+		- Use clean utensils rather than your hands to mix food. If hands must be used when handling ready-to-eat foods, ensure your hands are washed. 
+		- Also consider using disposable plastic or vinyl gloves. Do not use latex gloves because they can trigger allergies.
+		- Use clean spoons to taste food. Do not put tasting spoons back into the food.
+
+- ## Cross-Contamination
+	- Preventing bacteria from hitchhiking from one food to another. 
+		- For example, bacteria can cling to a knife and be lifted from one food to the next if used on different foods.
+		- Not using cutting boards and utensils for preparing raw meats or poultry and ready to-eat foods.
+			- If the same items are used, wash them with soap, rinse them with water and then sanitize between uses. 
+			- Let the sanitizing solution stay in contact with the utensil or cutting board for 2 minutes and do not rinse off.
+			-  A sanitizing solution can be made by mixing 15 ml (3 tsp.) of 6% bleach into 1 L (4 cups) of water. Prepare a fresh solution daily.
+	- Washing and sanitizing dishcloths before they are used to clean surfaces on which ready-to-eat foods will be placed.
+	- Storing raw food such as raw poultry, fish and meat in containers that do not leak. These items should be stored on the bottom shelf of the refrigerator to prevent the juices from dripping onto cooked and ready-to-eat foods.
+
+# SECTION 9 :The Dining environment and Mealtime assistance
+
+- ## The Mealtime Environment
+	- Don’t rush people while eating or drinking.
+	- Dining areas should have adequate and appropriate furniture.
+	- Tables should be set properly with appropriate dishes, cutlery and special equipment available.
+	- Allow for good communication (for example, suitable temperature, ventilation,unnecessary interruptions).
+	- Assistance is available for eating and drinking if required.
+	- Positive social interaction between staff and persons in care
+	- Mealtime Assistance and Eating Aids
+	- The optimal position for safe eating and drinking is to sit upright and well supported
+	- Stability is important and is achieved when the person is sitting with their feet firmly on the floor, their arms should be resting on the table with elbows bent
+	- The person assisting should be sitting at eye level and seated comfortably.
+	- Correct positioning after eating is also important. An upright position for at least 30 minutes helps with digestion.
+
+- ## Common Eating Problems
+	- **Conditions that affect eating**
+		- Drooling
+			- Assess for swallowing disorder (see the Dysphagia (Swallowing Disorders) section of this manual).
+		- Dry mouth
+			- Provide ice chips, frequent sips of water or sugar-free popsicles.
+			-  Have the person in care carry a water bottle with them to sip from often
+			- Try sugarless candy and gum to stimulate saliva. 
+			- Artificial saliva substitutes (for example, Moi-Stir) are available. Consult a physician and/or pharmacist.Provide 
+			- moist foods. Moisten dry foods with soft margarine, gravy, sauces or broth.
+		- Loss of taste and smell (whichenhances taste)
+			-  A mild mouth rinse of 15 ml (1 tsp.) of baking soda dissolved in 1 Litre (1 quart) of room-temperaturewater may be helpful to swish in the mouth before each meal or snack.
+			-  If there is a “metallic” taste, try using plastic instead of metal utensils.
+			- Try flavouring foods with tart, sour, sweet or unusual flavours such as lemon, citrus, vinegar, pickleditems and spices such as basil, oregano, rosemary, tarragon, mustard, catsup or mint. Make a fruitsmoothie or milkshake with frozen cranberries. 
+			- Try adding 5–10 ml (1–2 tsp.) of decaffeinated coffeegrounds to a liquid supplement such as Boost®. Marinate (soak) and cook meats in sweet juices, fruit or dressings (for example, sweet and sour pork).
+			- Try rinsing the mouth with cool black or green tea or lightly salted water to “clear” the taste buds before eating.
+		- Thick saliva
+			- Offer warm liquids like soups, hot chocolate, Ovaltine, broth, tea or warm water to help clear themouth of thick saliva and to wash foods down. 
+			- Check with the doctor or pharmacist about preparations to dissolve and stimulate saliva.
+			-  Encourage small, frequent meals and snacks throughout the day. If nutritional supplements are needed, consider the use of commercial supplements such as Resource® Fruit Beverage.
+			- Whole or high-fat milk may thicken the saliva but it should not be eliminated from the diet. 
+			- Try skim milk followed by a hot or clear beverage, foods with cooked milk such as cream soup or puddings, orfortified soy-based beverages.
+			- Sugar-free beverages or foods that are slightly tart or carbonated may help thin secretions. Examples are diet lemon-flavoured drinks, iced tea, sherbet, mandarin oranges, pineapple, sour lemon drops,sugar-free lemonade, sugar-free orange-flavoured drinks or sugar-free popsicles. Tolerance may vary, especially if there are sores in the mouth.
+			-  Encourage frequent oral rinsing with club soda or a baking soda rinse (1 ml/1/4 tsp. of baking sodamixed in 250 ml/1 cup of water), especially before and after eating.
+			-  Caffeine and spicy foods and beverages should be limited as they irritate the mouth.
+			- Consider using a humidifier in the home.
+	- **Eating and Behaviour Challenges**
+		- A person’s eating patterns develop early in life and affected by:
+			-  Being exposed to a variety of foods.
+			- Role-modelling of desired eating behaviours.
+			- The age of the person, temperament, emotional state, health and development.
+			- Genetic make-up (for example, preferences for sweet foods).
+			- Recognition of hunger and fullness cues.
+			- Environmental factors (for example, social context, lighting)
+		- Eating and behaviour challenges tend to be more common in children and adults with development delays. 
+			- It is important to determine if the behaviour is a concern before a management plan can be started. Situations that may be a challenge include:
+				- a change in growth or weight-gain combined with food refusal. 
+				- long-term food or texture restrictions resulting in limited intake or not enoughnutrition (for example, restricting iron-rich foods resulting in anemia).
+				- delayed feeding skills, such as poor self-feeding.
+				- unusual habits such as a compulsive eating, drinking excess fluids, eating largeamounts of frozen food or eating non-foods (for example, dirt, clay).
+				- very long or short mealtimes.
+				- tantrums, outbursts, throwing food, gagging, spitting out or vomiting at meals.
+				- inappropriate moods around food or mealtimes, including anxiety or distress.
+				- eating too fast, rumination (that is, chewing repeatedly for an extended period) andregurgitation (that is, bringing up partly digested food).
+				- stealing or hiding food.
+		- An assessment by a psychologist should answer the following questions:
+			- Is there a medical or psychological reason for problem eating?
+			- Who is most concerned by the eating problem (that is, the person in care or others)?
+			- Are growth or possible nutrition deficiencies an issue? Does food need to be fortified?
+			- Are there any oral or physical problems limiting the ability to eat?
+			- Is the person presenting a risk to himself or herself?
+		- Eating-Behaviour Solutions
+			- Offer new foods repeatedly. It is normal for someone to reject a food the firsttime it is offered. Offer the food repeatedly in a supportive way. Sometimes five totem exposures are necessary for a food to be accepted 
+			- Provide a happy, safe, relaxed social context at meals. Staff members also provide direct and indirect examples of eating behaviour. Recognition, praise and approval reinforce appropriate behaviour.
+			- Are there any distractions at mealtimes? 
+			- Has there been a change in medication?
+			- Is the person constipated, dehydrated or in pain?
+			- Is the person positioned correctly
+			- Provide discipline and support.
+			- Avoid distractions such as the television so that the person in care can learn normal eating behaviour including recognizing when they are full. 
+			- Emotional support, encouragement and affection around eating are important
+			- Be responsive. Appropriate responses to readiness and emotional issues promote healthy eating behaviours.
+			- Avoid hurrying the person to eat. Children in particular need to register hunger and fullness and enjoy the social aspect of mealtimes.
+	- ## Overeating and the Environment 
+		- Store tempting foods in less-convenient locations (such as in a basement or top cupboard).
+		- Do not leave serving bowls and platters on the dinner table. Keep second servings a safe distance away.
+		- Provide sufficient non-food oriented activities during the day. Exercise-based programs such as walking, dancing or playing sport are ideal.
+		- Discourage “grazing” by focusing only on food. Have the person eat only when sitting down, and do this at a distraction-free table.
+		- Illustrate normal portion control. Pre-serve the portions and allow no “refills.”
+		- Repackage foods into smaller containers. Avoid eating straight from packages.
+		- Get rid of the cookie jar, or replace it with a fruit bowl.
+		-  Make healthier foods more visible. Wrap tempting foods in foil to make them less visible. Place healthier foods in the front of the refrigerator.
+		- Avoid multiple bowls of the same food (for example, at parties) because they stimulate eating.
+		- At buffets avoid having more than two different foods on a plate at the same time.
+		- To discourage overeating in an environment where food is plentiful (for example, ata party), arrange foods into organized patterns.
+		-  Use tall, narrow glasses instead of short, wide ones, and smaller bowls, plates andspoons rather than larger ones.
+
+- ## Suggestions for Special Mealtime Activities
+	- Birthday Parties and Theme Days
+	- Sporting Events
+	- Other
+
+- ## Cultural, Religious and Personal Considerations
+	- How is food normally served and eaten? On a plate, or in a bowl? With a fork,spoon, soup spoon, Chinese soup spoon or chopsticks? Scooped up with roti?
+	- Is food served plain or with sauces? Are vegetables usually served raw, cooked orpickled?
+	- Is there a “most preferred” food (for example, rice, noodles, potatoes, soup)? Is thisfood served at every meal?
+	- Are there forbidden foods or food combinations? Are there foods that are servedduring illness, or at celebrations?
+	- Are dairy products eaten on a regular basis? Are they served hot or cold? Are theycooked with rice or tapioca? Are they served as buttermilk or yogurt?
+
+# SECTION 10 :EMERGENCY PLANNING
+- Emergency plans for handling disasters will ensure that the needs of those in care continue to be met.
+- **Provide safe water and food.**
+	- Store 2.5–5 L (½–1 gallon) per person per day. This water will be required fordrinking, food preparation, brushing teeth, other basic hygiene needs and washing dishes.
+	- Store an alternative water supply in sturdy, opaque plastic jugs or bottles.
+	- Add chlorine bleach (it must contain 5.25% sodium
 hypochlorite and be less than one year old) in the amount listed below. Note: this
 procedure can also be used to purify water during the emergency.
 WATER AMOUNTWATER IS CLEARWATER IS CLOUDY
