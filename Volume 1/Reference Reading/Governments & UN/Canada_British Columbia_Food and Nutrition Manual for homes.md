@@ -37,8 +37,8 @@ Contents:
 		- [SCREENING FORM - When to Refer to a Registered Dietitian](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SCREENING%20FORM%20-%20When%20to%20Refer%20to%20a%20Registered%20Dietitian)
 	- Care and Assisted Living Form in terms of nutrition care planning.
 	- Mealtime Checklist: To review the mealtime environment in the facility.
-	- Meals and More Checklist: To determine whether key information contained in theMeals and More manual has been implemented in the facility.
-
+	- Meals and More Checklist: To determine whether key information contained in theMeals and More manual has been implemented in the facility
+	- 
 
 ## Menu Checklist
 - The purpose of this checklist is to review the facility’s menu to see if it meets the minimum recommendations of the Eating Well with Canada’s Food Guide.
@@ -51,8 +51,6 @@ Contents:
 	- Milk/Milk Alternatives: www.hc-sc.gc.ca/fn-an/food-guide-aliment/choose-choix/milk-lait/index-eng.php
 	- Meat/Alternatives: www.hc-sc.gc.ca/fn-an/food-guide-aliment/choose-choix/meat-viande/index-eng.php
 	- To help determine the number of Food Guide servings in mixed dishes, see: www.hc-sc.gc.ca/fn-an/food-guide-aliment/using-utiliser/count-calcul-eng.php
-
-
 
 ## Satisfaction with Nutrition and Food Services Survey
 - The Satisfaction with Nutrition and Food Services Survey is used to ensure that those incare have input into the food provided at your facility. You may need to revise this form to meet your facility needs.
@@ -78,7 +76,8 @@ Contents:
 
 
 
-#  SECTION 2: Individual Nutrition Care Planning
+
+# SECTION 2 : Individual Nutrition Care Planning
 [[Individual Nutrition Care Plan]]
 
 - A nutrition care plan is a tool for staff that ensures that the person in care receives consistent and quality nutrition care.
@@ -404,181 +403,110 @@ Health Services for Community Living or Community Living British Columbia RD | H
 
 # SECTION 6: [[MENU PLANNING]]
 - A cycle menu is planned for many days and repeated at the end of a given time period. For example, a four-week menu contains menus for Week 1, Week 2, Week 3 and Week 4. At the end of Week 4 the cycle menu is repeated from the beginning.
-	-  A planned, written menu helps to:
-		• save money and time, make shopping easier and reduce food waste.
-• ensure nutrition, variety, and that seasonal foods are included. You can also identify
-foods that those in care like and dislike so that future changes can be made.
-• address staff food-preparation skills, kitchen equipment available, storage space,
-budget and workload balance. It also allows staff to create a recipe file.
-• take into account the dietary needs and eating abilities of the persons in care.
-• meet the requirements of the regulations.
-Steps to Plan Your Cycle Menu
-1. Assemble Menu-Planning Items. Gather the following menu-planning tools:
-- Menu item suggestions (see Table 1 on the following pages), any recipes, cook
-books and menu ideas you have as well as a copy of the most recent version of
-Canada’s Food Guide and/or refer to the Healthy Eating section of this manual.
-- Lists of food likes and dislikes, food allergies and intolerances, special diets of
-persons in care.
-- Pencil and eraser, or a computer.
-- Blank menu form outlining your sample meal pattern. A sample meal plan that
-follows Canada's Food Guide is provided after Table 1. Provide for the mini
-mum number of recommended servings of each food group within the given age
-range that is typical in your home. The menu should include the week number,
-your facility name, season and date implemented.
-Page 87
-Plan the Main and Light Meals for each of the 28 days of the menu.
-i) Plan the entrées for each meal.
-ii) Plan the starchy vegetable or grain food(s) for each meal.
-iii) Plan 1–2 vegetables for each meal.
-iv) Select the fruit or dessert for each meal.
-v) Select the beverages (for example, water, milk, juice, coffee, tea, etc), appetiz
-ers (for example, soup), accompaniments, garnishes for the meals.
-Page 88
-Plan the Breakfast Meals
-i) Choose the meat or meat alternative (for example, egg, nut butters) if needed.
-ii) Select the grain products (for example, cooked or cold cereals, toast, pancakes
-or waffles).
-iii) Select a fruit or juice, other beverages, condiments (for example, sugar, jam)
-and garnishes.
-Plan at least two snacks each day, including one evening snack.
-Plan how you will modify the menu for those with special needs (f
-Page 89
-Review the menu and complete the Menu Checklist. Here are some things
-to think about:
-• Is there a variety of colours, food textures (for example, crisp, soft), flavours
-(for example, mild, sweet, sour), shapes (for example, round, sticks, diced),
-types of preparation (for example, cooked, raw) and temperatures (that is,
-hot, cold)?
-• Can the menu be prepared with the staffing and equipment available? Are the
-workloads balanced for different shifts?
-• Is any food item repeated too often? Are food patterns avoided (for example,
-a sandwich for lunch every day)? Is there repetition in foods that appear on
-the menu at the end of one week and the beginning of the next?
-• Are meals made attractive with suitable garnishes and accompaniments? Will
-the menu be acceptable to those in care?
-• Is the menu honest? Is the food written on the menu the food actually
-served?
-• Are familiar and attractive descriptions used?
-7. Test the Menu. The first cycle of your menu (four weeks) should be tested.
-Encourage feedback and make any needed changes.
-Page 91
-Developing and Standardizing Recipes
-Once you have your menu developed, the next step is to develop a system for your
-recipes. Good resources include cookbooks, magazines, food companies, co-workers,
-individuals living in the small facility and the Internet. You should test recipes to ensure
-they meet the needs of those in care. This is called standardizing and provides the advan
-tages of:
-• helping to prepare grocery lists as you know exactly what and how much food to
-buy. This saves food costs and time.
-• helping staff (especially new people) take the guesswork out of cooking which pro
-duces a high-quality product no matter who is doing the cooking.
-• helping identify ingredients for those with allergies or special diets.
-• allowing for nutritional analysis if desired.
-Page 93
-How Do I Standardize My Recipe?
-1. Check your recipe and make sure it is not missing any information (for example,
-ingredients, instructions).
-2. If you need to do any conversions, the following table shows a number of common
-metric/imperial conversions.
-3. Prepare the recipe and try it out. Did it look and taste good? Was there too much or
-not enough? Was everyone able to eat it? If necessary, adjust the recipe (for exam
-ple, ingredients, measures, cooking time) and prepare it again until you have a
-product that works well.
-4. Once the recipe is perfected, it is ready to be put into a standardized format. This
-includes the name, number of portions, serving size, ingredients, amounts, method,
-equipment used, cooking time, and cooking temperature. It may also include
-instructions for diets and texture modifications, if needed. For facilities with food
-permits, Hazard Analysis Critical Control Points (HACCP) guidelines will also need
-to be included. An example of a standardized recipe is as follows:
-Page 95
-SECTION :
-LUNCHES TO GO,
-EATING OUT AND
-THE MUNCHIES
-Page 96
-Lunches To Go
-A lunch that a person in care takes with them should contain all the four food groups. Be
-sure to also include snacks with bagged lunches. The following provides lunch ideas for
-each food group
-FOOD GROUPSIdeas for Lunches
-Grain ProductsWhole wheat, rye, pumpernickel, cracked wheat, multi-grain bread,
-bagels or kaiser buns. Try muffins, pita bread, wraps or leftover pasta,
-rice, couscous, bulgur or quinoa.
-Vegetables & FruitFruit juice, canned, unsweetened fruit or fresh fruit (for example,
-apple, orange, grapes, banana, pear, peach or kiwi). Offer fresh
-vegetables (for example, celery, turnip, zucchini or carrot sticks,
-cucumber slices, sliced sweet peppers, chopped broccoli or
-cauliflower, sugar peas or cherry tomatoes) and salads.
-Milk & Milk
-Alternatives*Milk, fortified soy milk, yogurt, milk pudding, tofu dessert, cottage
-cheese, hard or processed cheese.
-Meat & AlternativesPeanut or other nut butters, seed butters (for example, sesame,
-sunflower), hummus*, tuna* or salmon*, hard-cooked egg*, roast
-beef*, pork*, chicken*, turkey*, ham* or meatloaf*, nuts or seeds (for
-example, trail mix) or leftover baked beans*, chili*, stir-fry*, lentil
-soup*.
-* These must be refrigerated to prevent bacteria from growing.
-Here are some more tips on packing bagged lunches:
-• Make lunches ahead (try making them after dinner) and refrigerate them. Use an
-insulated bag with a chilled thermos or carton of frozen juice to keep the food cool.
-Do not re-use plastic bags as they can be a source of bacteria. Sandwiches can be
-made ahead of time and frozen without the vegetables. Take them out in the morn
-ing and they will thaw in time for lunch. Fillings that freeze well include cheese,
-roast beef, chicken, turkey, ham and meatloaf.
-• Pack a buttered roll and baked or poached chicken or fish pieces, slices of cold
-meats or a can of sardines or shrimp, or fill a pita bread with hummus and shredded
-lettuce.
-• Put hot or cold soup (for example, gazpacho, leek and potato), hot or cold beans in
-tomato sauce or bean, rice or pasta salads in a thermos.
-Page 97
-• Try cold pizza, milk, an oatmeal muffin and a dried fruit strip for something different.
-• Try a more nutritious version of the packaged snack packs by packing whole grain
-crackers, lower-fat cheese, sliced turkey and raw vegetables in a divided container.
-Serve with 100% juice.
-• Salsa, hummus, bean dips, or fruit dips with baked chips and veggies or fruit are
-good lunchbox choices, since these foods contain more vitamins and fiber.
-• If you make your own snack mixes, you can include healthy additions like dried
-fruits, unsalted nuts, pretzels, and baked crackers.
-• Involve persons in care in preparing their lunch. Younger children can do simple
-tasks such as putting out lunch kits or food containers for packing. Older children
-and adults can take a more active role.
-Eating Out
-To make healthy
-choices when eating out:
-• choose foods that are broiled, braised, roasted, steamed, grilled or poached.
-• decide how much to eat prior to the meal instead of during it. Some restaurants
-serve much more food than needed. Order a small appetizer or half a meal. If you
-are served too much, ask for a "take-home package" and use the leftovers for the
-next day.
-• go easy on the butter and jam you add to bread, toast, muffins, biscuits and pan
-cakes, and on extras like regular gravy, sour cream, sauces made with cream, cheese
-and eggs, salad dressings, mayonnaise and tartar sauce.
-• use the nutrition information available for the menu items to find healthier options.
-• for those on texture-modified or therapeutic diets, call ahead to order the meal to
-ensure it is appropriate. For puréed and minced modifications, take a hand-held
-grinder to the restaurant.
-• look for healthy selections for children on the children’s menu, too. Often they offer
-alternative sides such as fruit instead of french fries.
-• soft music and lighting contribute to the enjoyment of a meal, but they can influence
-your calorie intake. Instead of lingering over a dessert, enjoy a cup of coffee or tea.
-Page 99
-The Munchies
-A good snack helps meet nutrition needs. Two snacks, including one evening snack are rec
-ommended.
-Page 101
-SECTION :
-PURCHASING
-FOOD WISELY
-Page 102
-Where to Shop?
-ADVANTAGESDISADVANTAGES
-WHOLESALE
-• generally lower costs for large amounts
-• orders can be made by phone and goods
-delivered
-• labour and time saving
-• monthly statements/payments• higher prices are charged if you do not buy
-the entire case of an item
+	-  A planned, written menu helps to: 
+		- save money and time, make shopping easier and reduce food waste.
+		- ensure nutrition, variety, and that seasonal foods are included. 
+		- You can also identify foods that those in care like and dislike so that future changes can be made.
+		- address staff food-preparation skills, kitchen equipment available, storage space, budget and workload balance. 
+		- It also allows staff to create a recipe file.
+		-  take into account the dietary needs and eating abilities of the persons in care.
+		- meet the requirements of the regulations.
+
+- ## **Steps to Plan Your Cycle Menu**
+	- **Assemble Menu-Planning Items.** Gather the following menu-planning tools:
+		- Menu item suggestions (see Table 1 on the following pages), any recipes, cook books and menu ideas you have as well as a copy of the most recent version of Canada’s Food Guide and/or refer to the Healthy Eating section of this manual 
+		- Lists of food likes and dislikes, food allergies and intolerances, special diets ofpersons in care
+		- Pencil and eraser, or a computer
+		- Blank menu form outlining your sample meal pattern. 
+		- Provide for the minimum number of recommended servings of each food group within the given age range that is typical in your home. 
+		- The menu should include the week number,your facility name, season and date implemented.
+	- **Plan the Main and Light Meals for each of the 28 days of the menu.**
+		-  Plan the entrées for each meal.
+		-  Plan the starchy vegetable or grain food(s) for each meal.
+		-  Plan 1–2 vegetables for each meal.
+		-  Select the fruit or dessert for each meal.
+		-  Select the beverages (for example, water, milk, juice, coffee, tea, etc), appetizers (for example, soup), accompaniments, garnishes for the meals.
+	- **Plan the Breakfast Meals**
+		- Choose the meat or meat alternative (for example, egg, nut butters) if needed.
+		-  Select the grain products (for example, cooked or cold cereals, toast, pancakes or waffles)
+		- Select a fruit or juice, other beverages, condiments (for example, sugar, jam) and garnishes
+		- Plan at least two snacks each day, including one evening snack.
+		- Plan how you will modify the menu for those with special needs
+	- **Review the menu and complete the Menu Checklist**. Here are some things to think about:
+		- Is there a variety of colours, food textures (for example, crisp, soft), flavours(for example, mild, sweet, sour), shapes (for example, round, sticks, diced),types of preparation (for example, cooked, raw) and temperatures (that is,hot, cold)?
+		- Can the menu be prepared with the staffing and equipment available? Are theworkloads balanced for different shifts?
+		- Is any food item repeated too often? Are food patterns avoided (for example, a sandwich for lunch every day)? Is there repetition in foods that appear on the menu at the end of one week and the beginning of the next?
+		- Are meals made attractive with suitable garnishes and accompaniments? Will
+		- the menu be acceptable to those in care?
+		- Is the menu honest? Is the food written on the menu the food actually served?
+		- Are familiar and attractive descriptions used
+	- **Test the Menu.** 
+		- The first cycle of your menu (four weeks) should be tested.
+		- Encourage feedback and make any needed changes.
+
+
+- ## **Developing and Standardizing Recipes**
+	- Once you have your menu developed, the next step is to develop a system for your recipes. 
+		- Good resources include cookbooks, magazines, food companies, co-workers, individuals living in the small facility and the Internet. 
+		- You should test recipes to ensure they meet the needs of those in care. This is called standardizing and provides the advantages of:
+			- helping to prepare grocery lists as you know exactly what and how much food to buy. This saves food costs and time.
+			- helping staff (especially new people) take the guesswork out of cooking which produces a high-quality product no matter who is doing the cooking.
+			- helping identify ingredients for those with allergies or special diets.
+			- allowing for nutritional analysis if desired.
+	- How Do I Standardize My Recipe?
+		- Check your recipe and make sure it is not missing any information (for example,ingredients, instructions).
+		- If you need to do any conversions, the following table shows a number of commonmetric/imperial conversions
+		- Prepare the recipe and try it out. Did it look and taste good? Was there too much ornot enough? Was everyone able to eat it? If necessary, adjust the recipe (for example, ingredients, measures, cooking time) and prepare it again until you have aproduct that works well.
+		- Once the recipe is perfected, it is ready to be put into a standardized format. This includes the name, number of portions, serving size, ingredients, amounts, method,equipment used, cooking time, and cooking temperature. It may also include instructions for diets and texture modifications, if needed. For facilities with food permits, Hazard Analysis Critical Control Points (HACCP) guidelines will also need to be included. An example of a standardized recipe is as follows:
+
+
+
+
+# SECTION 7:  Lunches to Go, Eating Out & Snacks
+
+- ## Lunches To Go
+	- lunch that a person in care takes with them should contain all the four food groups. Be sure to also include snacks with bagged lunches. The following provides lunch ideas for each food group
+	- Involve persons in care in preparing their lunch. Younger children can do simpletasks such as putting out lunch kits or food containers for packing. Older children and adults can take a more active role.
+	* These must be refrigerated to prevent bacteria from growing. Here are some more tips on packing bagged lunches: 
+	* Make lunches ahead (try making them after dinner) and refrigerate them. Use an insulated bag with a chilled thermos or carton of frozen juice to keep the food cool.
+	* Do not re-use plastic bags as they can be a source of bacteria. Sandwiches can be
+	* made ahead of time and frozen without the vegetables. Take them out in the morning and they will thaw in time for lunch. Fillings that freeze well include cheese,roast beef, chicken, turkey, ham and meatloaf
+	* Pack a buttered roll and baked or poached chicken or fish pieces, slices of cold meats or a can of sardines or shrimp, or fill a pita bread with hummus and shredded lettuce.
+	* Put hot or cold soup (for example, gazpacho, leek and potato), hot or cold beans in tomato sauce or bean, rice or pasta salads in a thermos.
+	* Try cold pizza, milk, an oatmeal muffin and a dried fruit strip for something different.
+	* Try a more nutritious version of the packaged snack packs by packing whole graincrackers, lower-fat cheese, sliced turkey and raw vegetables in a divided container.Serve with 100% juice.
+	* Salsa, hummus, bean dips, or fruit dips with baked chips and veggies or fruit aregood lunchbox choices, since these foods contain more vitamins and fiber
+	- If you make your own snack mixes, you can include healthy additions like driedfruits, unsalted nuts, pretzels, and baked crackers
+
+FOOD GROUPS | Ideas for Lunches
+---|---
+Grain Products | Whole wheat, rye, pumpernickel, cracked wheat, multi-grain bread,bagels or kaiser buns. Try muffins, pita bread, wraps or leftover pasta,rice, couscous, bulgur or quinoa.
+Vegetables & Fruit |Fruit juice, canned, unsweetened fruit or fresh fruit (for example,apple, orange, grapes, banana, pear, peach or kiwi). Offer freshvegetables (for example, celery, turnip, zucchini or carrot sticks,cucumber slices, sliced sweet peppers, chopped broccoli orcauliflower, sugar peas or cherry tomatoes) and salads.
+Milk & Milk Alternatives| Milk, fortified soy milk, yogurt, milk pudding, tofu dessert, cottage Cheese, hard or processed cheese.
+Meat & Alternatives | Peanut or other nut butters, seed butters (for example, sesame,sunflower), hummus*,tuna or salmon*, hard-cooked egg*, roastbeef*, pork*, chicken*, turkey*, ham* or meatloaf*, nuts or seeds (forexample, trail mix) or leftover baked beans*, chili*, stir-fry*, lentilsoup*.
+
+- ## Eating Out
+	- To make healthy choices when eating out:
+		- choose foods that are broiled, braised, roasted, steamed, grilled or poached.
+		- decide how much to eat prior to the meal instead of during it. 
+		- Some restaurants serve much more food than needed. Order a small appetizer or half a meal. If you are served too much, ask for a "take-home package" and use the leftovers for the next day.
+		- go easy on the butter and jam you add to bread, toast, muffins, biscuits and pancakes, and on extras like regular gravy, sour cream, sauces made with cream, cheeseand eggs, salad dressings, mayonnaise and tartar sauce.
+		-  use the nutrition information available for the menu items to find healthier options.
+		-  for those on texture-modified or therapeutic diets, call ahead to order the meal toensure it is appropriate. For puréed and minced modifications, take a hand-held grinder to the restaurant.
+		-  look for healthy selections for children on the children’s menu, too. Often they offeralternative sides such as fruit instead of french fries
+		-  soft music and lighting contribute to the enjoyment of a meal, but they can influenceyour calorie intake. Instead of lingering over a dessert, enjoy a cup of coffee or tea.
+
+- ## Snacks
+	- A good snack helps meet nutrition needs. Two snacks, including one evening snack are recommended.
+
+
+
+# SECTION 8: Purchasing Food Wisely
+
+- ## Where to Shop?
+STORE | ADVANTAGES | DISADVANTAGES
+---|---| ---
+WHOLESALE | • generally lower costs for large amounts  • orders can be made by phone and goods delivered • labour and time saving• monthly statements/payments• higher prices are charged if you do not buy the entire case of an item
 • minimum order required for delivery
 • need storage to hold large deliveries
 • ties up money in inventory

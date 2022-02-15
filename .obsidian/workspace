@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "07cd37c5c706a931",
+        "id": "7a98e087dba23cd8",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631,
-    "collapsed": true
+    "width": 377.0093288421631
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -120,7 +119,7 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "07cd37c5c706a931",
+  "active": "7a98e087dba23cd8",
   "lastOpenFiles": [
     "Volume 1/Reference Reading/Governments & UN/Canada_British Columbia_Food and Nutrition Manual for homes.md",
     "Home.md",
