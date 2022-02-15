@@ -53,7 +53,7 @@ Links: [Google Drive](https://drive.google.com/file/d/15ZcGOEPJG7O8ThoApTrEBc8iW
 	- Meat/Alternatives: www.hc-sc.gc.ca/fn-an/food-guide-aliment/choose-choix/meat-viande/index-eng.php
 	- To help determine the number of Food Guide servings in mixed dishes, see: www.hc-sc.gc.ca/fn-an/food-guide-aliment/using-utiliser/count-calcul-eng.php
 
-## Satisfaction with Nutrition and Food Services Survey
+## [[Satisfaction with Nutrition and Food Services Survey]]
 - The Satisfaction with Nutrition and Food Services Survey is used to ensure that those incare have input into the food provided at your facility. You may need to revise this form to meet your facility needs.
 - Satisfaction with nutrition and food services should be checked at least once a year and/or whenever there are changes to the menu (for example, the fall/winter season and the spring/summer season). 
 - Complete one survey for each person. If you have more than 10 people, use the summary form to gather and review your results.
@@ -135,7 +135,7 @@ Links: [Google Drive](https://drive.google.com/file/d/15ZcGOEPJG7O8ThoApTrEBc8iW
 
 
 
-### SCREENING FORM - When to Refer to a Registered Dietitian
+### SCREENING FORM - [[When to Refer to a Registered Dietitian]]
 
 
 - [[Individual Nutrition Care Plan]] Considerations
