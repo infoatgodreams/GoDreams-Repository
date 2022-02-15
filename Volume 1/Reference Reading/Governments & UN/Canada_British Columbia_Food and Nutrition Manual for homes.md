@@ -27,7 +27,7 @@ Contents:
 - Section 12: Considerations for Children. Most facilities are for adults, but a few provide services to children. A lot of the information covered in the manual can beused for both adults and children. Section 12 of the manual also provides more specific information about foods and nutrition for children.
 ---
 
-# Section 1: Monitoring Your Food And Nutrition Program
+# SECTION 1: Monitoring Your Food And Nutrition Program
 - A monitoring program helps a facility to maintain health and safety standards.
 - Keep copies of the results of your checklists for at least one year. You may want to havea specific binder just for keeping the completed checklists. Remember to sign and date them.
 - Checklists, Forms and their purpose: 
@@ -78,7 +78,7 @@ Contents:
 
 
 
-# Section 2: Individual Nutrition Care Planning
+#  SECTION 2: Individual Nutrition Care Planning
 [[Individual Nutrition Care Plan]]
 
 - A nutrition care plan is a tool for staff that ensures that the person in care receives consistent and quality nutrition care.
