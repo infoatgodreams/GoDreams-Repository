@@ -32,7 +32,19 @@ title: Home - CAP Design Portal
 	- [Rainbow_Physical Health Care](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Physical%20Health%20Care.md)
 	- [CSJ_Connecting to children in the observation homes of Rajasthan](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Counsel%20to%20Secure%20Justice/CSJ_Connecting%20to%20children%20in%20the%20observation%20homes%20of%20Rajasthan.md)
 	- [Function, quality and outcomes of residential care](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/SOS/Function,%20quality%20and%20outcomes%20of%20residential%20care.md)
-	- [[budget
+	- [Budget for Children 2022-23 Analysis](Volume%203/Budget%20for%20Children%202022-23%20Analysis.md)
+	- [Budget for Children 2022-23 (Manual Notes- Printable)](Volume%203/Budget%20for%20Children%202022-23%20(Manual%20Notes-%20Printable).md)
+	- [Global Childhood Report 2021](Volume%203/Global%20Childhood%20Report%202021.md)
+	- [Institutional Care Model Author_ Prerana Org](Volume%203/Institutional%20Care%20Model%20Author_%20Prerana%20Org.md)
+	- [Mental Health at CCIs during Covid-19_Prerana Guide](Volume%203/Mental%20Health%20at%20CCIs%20during%20Covid-19_Prerana%20Guide.md)
+	- [Restoration Model by Prerana](Volume%203/Restoration%20Model%20by%20Prerana.md)
+	- [Supporting Carers Author_ Rainbow Home](Volume%203/Supporting%20Carers%20Author_%20Rainbow%20Home.md)
+	- [Working with Children Sensitively](Volume%203/Working%20with%20Children%20Sensitively.md)
+	- [Butterflies_Child Participation Research](Volume%204/Butterflies_Child%20Participation%20Research.md)
+	- [Foster Care Research 2012 by VOC Final](Volume%204/Foster%20Care%20Research%202012%20by%20VOC%20Final.md)
+	- [Guidelines for Institutional Childcare - Ethiopia](Volume%204/Guidelines%20for%20Institutional%20Childcare%20-%20Ethiopia.md)
+	- [Life-Skills-in-CCIs-during-COVID-27-Sept-2020](Volume%204/Life-Skills-in-CCIs-during-COVID-27-Sept-2020.md)
+	- [Voc-research-final-book](Volume%204/Voc-research-final-book.md)
 
 ## Child Care Institutions
 - International
@@ -79,6 +91,8 @@ title: Home - CAP Design Portal
 # Logs
 - [Navneeths Log](Volume%201/Daily%20Log/Navneeths%20Log.md)
 - [Akshays Log](Volume%202/Daily%20Log/Akshays%20Log.md)
+- [Glorias Log](Volume%203/Research%20Journal%20-%20Glo.md)
+- [Mekhas Log](Volume%204/Research%20Journal_Mekha.md)
 
 
 # Link to Resources
