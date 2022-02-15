@@ -4,53 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "255fc568304ad63d",
+        "id": "b5f25ec010fee041",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "Volume 3/Budget for Children 2022-23 (Manual Notes- Printable).md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "347c0aa36dd6ccba"
-      },
-      {
-        "id": "e0f57702c7f03842",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Home.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": false,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 0.346621486944389,
-              "linkDistance": 175,
-              "scale": 0.49971237510678695,
-              "close": false
-            }
-          }
-        },
-        "group": "347c0aa36dd6ccba"
+        }
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Volume 3/Budget for Children 2022-23 (Manual Notes- Printable).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Volume 3/Budget for Children 2022-23 (Manual Notes- Printable).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -156,17 +119,17 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "255fc568304ad63d",
+  "active": "b5f25ec010fee041",
   "lastOpenFiles": [
-    "Home.md",
     "Volume 3/Budget for Children 2022-23 (Manual Notes- Printable).md",
+    "Volume 3/Budget for Children 2022-23 Analysis.md",
+    "media/image1.png.md",
+    "Volume 3/Research Journal - Glo.md",
+    "Volume 4/Research Journal_Mekha.md",
+    "Home.md",
     "Volume 3/Working with Children Sensitively.md",
     "Volume 3/Supporting Carers Author_ Rainbow Home.md",
     "Volume 3/Restoration Model by Prerana.md",
-    "Volume 3/Research Journal - Glo.md",
-    "Volume 3/Mental Health at CCIs during Covid-19_Prerana Guide.md",
-    "Volume 3/Institutional Care Model Author_ Prerana Org.md",
-    "Volume 3/Global Childhood Report 2021.md",
-    "Volume 3/Budget for Children 2022-23 Analysis.md"
+    "Volume 3/Mental Health at CCIs during Covid-19_Prerana Guide.md"
   ]
 }

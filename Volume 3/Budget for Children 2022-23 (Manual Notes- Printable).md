@@ -4,30 +4,18 @@ title: |
     2022-23
 ---
 
-*Source: [*Budget for Children 2022-23
-Analysis*](https://drive.google.com/file/d/1dLv6dVrUjUXisEWIHisCS4MHficDf4yz/view?usp=sharing)
-by HAQ: Centre for Child Rights*
+*Source: [*Budget for Children 2022-23 Analysis*](https://drive.google.com/file/d/1dLv6dVrUjUXisEWIHisCS4MHficDf4yz/view?usp=sharing)by HAQ: Centre for Child Rights
 
 Key Highlights
 --------------
 
--   Budget for Children (BfC) share is the lowest share in the last 11
-    > years i.e **2.35% vs 2.46% last year. **
+-   Budget for Children (BfC) share is the lowest share in the last 11 years i.e **2.35% vs 2.46% last year. **
 
--   In absolute terms, the allocation is **INR 92,736 Crore** (Union
-    > Budget 2022-23) against **INR 85,712.56 Crore** (Union
-    > Budget 2021-22). Although this is an 8.19% increase in absolute
-    > terms, the increase is not proportionate to the increase in the
-    > Union Budget which is an overall increase of 13.25%
+-   In absolute terms, the allocation is **INR 92,736 Crore** (Union Budget 2022-23) against **INR 85,712.56 Crore** (Union Budget 2021-22). Although this is an 8.19% increase in absolute terms, the increase is not proportionate to the increase in the Union Budget which is an overall increase of 13.25%
 
--   The share of Budget for Children (BfC) is 2.35% of the Union Budget
-    > 2022-23, a fall of **0.11% points** from the share of the
-    > previous year.
+-   The share of Budget for Children (BfC) is 2.35% of the Union Budget 2022-23, a fall of **0.11% points** from the share of the previous year.
 
--   In terms of the sectoral share, **Child Health, Education and
-    > Development** continues to receive reduced allocation in the Union
-    > Budget 2022-23 while the share of **Child Protection** has seen a
-    > marginal increase of **0.01 %** (i.e 0.04% vs 0.03% last year)
+-   In terms of the sectoral share, **Child Health, Education and Development** continues to receive reduced allocation in the Union Budget 2022-23 while the share of **Child Protection** has seen a marginal increase of **0.01 %** (i.e 0.04% vs 0.03% last year)
 
 > Trend of share of Budget for Children over the years
 
