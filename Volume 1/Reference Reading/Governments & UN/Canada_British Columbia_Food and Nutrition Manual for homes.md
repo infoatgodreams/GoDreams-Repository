@@ -8,10 +8,11 @@ tags:
 ---
 
 Tags: [Nutrition](Volume%201/Roll%20Ups/Nutrition.md)
+Links: [Google Drive](https://drive.google.com/file/d/15ZcGOEPJG7O8ThoApTrEBc8iWPxbYuLc/view?usp=sharing)
 
-Scope : This manual has been written for people who assist those living in specialized residential care or small residential community care facilities in British Columbia, Canada. These facilities include those that provide care to children or adults.
+**Scope :** This manual has been written for people who assist those living in specialized residential care or small residential community care facilities in British Columbia, Canada. These facilities include those that provide care to children or adults.
 
-Contents: 
+**Contents:** 
 
 - [Section 1 Monitoring Your Food And Nutrition Program](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#Section%201%20Monitoring%20Your%20Food%20And%20Nutrition%20Program) It is recommended that allfacilities have an internal monitoring system for their food and nutrition program.
 - [Section 2 Individual Nutrition Care Planning](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#Section%202%20Individual%20Nutrition%20Care%20Planning) Each person who lives in the homeneeds to have a written nutrition care plan.
@@ -19,12 +20,12 @@ Contents:
 - [SECTION 4 SPECIAL DIETS](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%204%20SPECIAL%20DIETS). Some people require special diets as part of the control ofhealth conditions
 - [SECTION 5 HEALTHY EATING](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%205%20HEALTHY%20EATING). This section of the manual covers the new Eating Wellwith Canada’s Food Guide as well as the nutrition topics of fluids, fibre and salt.
 - [SECTION 6 MENU PLANNING](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%206%20MENU%20PLANNING) This section of the manual discusses the topics of menuplanning including developing cycle menus, making menu substitutions and standardizing recipes.
-- Section 7: Lunches To Go, Eating Out and The Munchies. These present special circumstances in menu planning. Healthy eating choices for each of these situationsare discussed.
-- Section 8: Purchasing Food Wisely. Once the menu is developed, the next step is topurchase the food items. This section discusses how to reduce food costs and howto read nutrition labels.
-- Section 9: Managing Food Safely to Maintain Quality. Food safety is important inthe facility setting. Proper measures for storing and handling foods are discussed.
-- Section 10: The Dining Environment and Mealtime Assistance. This section of the manual covers a broad range of topics including the dining environment, common eating problems, providing assistance, and eating and behaviour challenges.
-- Section 11: Emergency Planning. To ensure food provision is in place during emergencies, this section outlines how to develop an emergency plan.
-- Section 12: Considerations for Children. Most facilities are for adults, but a few provide services to children. A lot of the information covered in the manual can beused for both adults and children. Section 12 of the manual also provides more specific information about foods and nutrition for children.
+- [SECTION 7 Lunches to Go Eating Out Snacks](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%207%20Lunches%20to%20Go%20Eating%20Out%20Snacks). These present special circumstances in menu planning. Healthy eating choices for each of these situationsare discussed.
+- [SECTION 8 Purchasing Food Wisely](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%208%20Purchasing%20Food%20Wisely) Once the menu is developed, the next step is to purchase the food items. This section discusses how to reduce food costs and howto read nutrition labels.
+- [Section 9 Managing Food Safely](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#Section%209%20Managing%20Food%20Safely) Food safety is important inthe facility setting. Proper measures for storing and handling foods are discussed.
+- [SECTION 10 The Dining environment and Mealtime assistance](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%2010%20The%20Dining%20environment%20and%20Mealtime%20assistance) This section of the manual covers a broad range of topics including the dining environment, common eating problems, providing assistance, and eating and behaviour challenges.
+- [SECTION 11 EMERGENCY PLANNING](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%2011%20EMERGENCY%20PLANNING)To ensure food provision is in place during emergencies, this section outlines how to develop an emergency plan.
+- [SECTION 12 Considerations for Children](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%2012%20Considerations%20for%20Children) Most facilities are for adults, but a few provide services to children. A lot of the information covered in the manual can beused for both adults and children. Section 12 of the manual also provides more specific information about foods and nutrition for children.
 ---
 
 # SECTION 1: Monitoring Your Food And Nutrition Program
@@ -40,7 +41,7 @@ Contents:
 	- Meals and More Checklist: To determine whether key information contained in theMeals and More manual has been implemented in the facility
 	- 
 
-## Menu Checklist
+## [[Menu Checklist]] 
 - The purpose of this checklist is to review the facility’s menu to see if it meets the minimum recommendations of the Eating Well with Canada’s Food Guide.
 - This means it will also meet the regulations for residential care under the Community Care and Assisted Living Act.
 - The Menu Checklist should be completed whenever you make changes to your menu.
@@ -463,7 +464,7 @@ Health Services for Community Living or Community Living British Columbia RD | H
 
 
 # SECTION 7:  Lunches to Go, Eating Out & Snacks
-
+[[Packed Lunches]]
 - ## Lunches To Go
 	- lunch that a person in care takes with them should contain all the four food groups. Be sure to also include snacks with bagged lunches. The following provides lunch ideas for each food group
 	- Involve persons in care in preparing their lunch. Younger children can do simpletasks such as putting out lunch kits or food containers for packing. Older children and adults can take a more active role.
@@ -485,6 +486,7 @@ Vegetables & Fruit |Fruit juice, canned, unsweetened fruit or fresh fruit (for e
 Milk & Milk Alternatives| Milk, fortified soy milk, yogurt, milk pudding, tofu dessert, cottage Cheese, hard or processed cheese.
 Meat & Alternatives | Peanut or other nut butters, seed butters (for example, sesame,sunflower), hummus*,tuna or salmon*, hard-cooked egg*, roastbeef*, pork*, chicken*, turkey*, ham* or meatloaf*, nuts or seeds (forexample, trail mix) or leftover baked beans*, chili*, stir-fry*, lentilsoup*.
 
+[[Eating Food Outside]]
 - ## Eating Out
 	- To make healthy choices when eating out:
 		- choose foods that are broiled, braised, roasted, steamed, grilled or poached.
@@ -496,13 +498,14 @@ Meat & Alternatives | Peanut or other nut butters, seed butters (for example, se
 		-  look for healthy selections for children on the children’s menu, too. Often they offeralternative sides such as fruit instead of french fries
 		-  soft music and lighting contribute to the enjoyment of a meal, but they can influenceyour calorie intake. Instead of lingering over a dessert, enjoy a cup of coffee or tea.
 
+[[Snacks]]
 - ## Snacks
 	- A good snack helps meet nutrition needs. Two snacks, including one evening snack are recommended.
 
 
 
 # SECTION 8: Purchasing Food Wisely
-
+[[Purchasing Food]]
 - ## Where to Shop?
 	-  Regardless of where you shop, there will be pros and cons. Running between stores for the lowest price on an item may not save money.  In addition, the extra time may be better spent on other tasks. 
 STORE | ADVANTAGES | DISADVANTAGES
@@ -611,7 +614,8 @@ RETAIL | • can take advantage of specials, coupons <br>• can hand-select fre
 			- Fresh products are least likely to contain additives.
 
 
-
+# Section 9 : Managing Food Safely
+[[Food Safety]]
 - ##  Storage Tips
 	- Keep hot foods hot and cold foods cold. 
 	- Bacteria grow best in the Danger Zone of 4°- 60°C (40°–140° F). 
@@ -686,8 +690,8 @@ RETAIL | • can take advantage of specials, coupons <br>• can hand-select fre
 	- Washing and sanitizing dishcloths before they are used to clean surfaces on which ready-to-eat foods will be placed.
 	- Storing raw food such as raw poultry, fish and meat in containers that do not leak. These items should be stored on the bottom shelf of the refrigerator to prevent the juices from dripping onto cooked and ready-to-eat foods.
 
-# SECTION 9 :The Dining environment and Mealtime assistance
-
+# SECTION 10 :The Dining environment and Mealtime assistance
+[[Mealtimes]]
 - ## The Mealtime Environment
 	- Don’t rush people while eating or drinking.
 	- Dining areas should have adequate and appropriate furniture.
@@ -790,169 +794,126 @@ RETAIL | • can take advantage of specials, coupons <br>• can hand-select fre
 	- Are there forbidden foods or food combinations? Are there foods that are servedduring illness, or at celebrations?
 	- Are dairy products eaten on a regular basis? Are they served hot or cold? Are theycooked with rice or tapioca? Are they served as buttermilk or yogurt?
 
-# SECTION 10 :EMERGENCY PLANNING
+# SECTION 11 :EMERGENCY PLANNING
+[[Food Emergency Planning]]
 - Emergency plans for handling disasters will ensure that the needs of those in care continue to be met.
 - **Provide safe water and food.**
 	- Store 2.5–5 L (½–1 gallon) per person per day. This water will be required fordrinking, food preparation, brushing teeth, other basic hygiene needs and washing dishes.
 	- Store an alternative water supply in sturdy, opaque plastic jugs or bottles.
-	- Add chlorine bleach (it must contain 5.25% sodium
-hypochlorite and be less than one year old) in the amount listed below. Note: this
-procedure can also be used to purify water during the emergency.
-WATER AMOUNTWATER IS CLEARWATER IS CLOUDY
-1 L (1 quart)2 drops4 drops
-5 L (about 1 gallon)8 drops16 drops
-25 L (about 5 gallons)2.5 ml (½ tsp.)5 ml (1 tsp.
-Finish filling the bottle to the very top. Spread melted candle wax around the top of the
-rim and screw the lid on tightly.
-2. Pre-plan, keep it simple and prioritize.
-The plans you develop should take into account all types of disasters that include:
-NATURALINDUSTRIALSOCIAL/POLITICAL FACILITY
-• Fire
-• Flood
-• Earthquakes
-• Weather
-(snowstorms,
-tornadoes)
-• Disease outbreak (for
-example, influenza)• Food recalls
-• Hazardous material
-spills
-• Heating, water,
-power disruptions or
-failures
-• Explosion
-• Mid-air crash• Labour disruptions,
-strikes
-• Civil disturbances,
-riots
-• Bomb threat or
-hostage-taking• Medication
-interruptions
-• Disruptions in food
-service and laundry
-• Sewage backups
-• Search for missing
-person in care
-• Internal evacuations
-Make sure you have at least one alternative way to cook your food (for example,
-camp stove, sterno stove, barbecue, fondue pot, chafing dishes). Never burn char
-coal indoors because it could cause carbon monoxide poisoning.
-Page 129
-Emergency Menu
-An emergency menu and food supplies for at least three days should be in place.
-• Keep a supply of canned foods and dry mixes or other foods that require little or no
-cooking or refrigeration in case utilities (for example, electricity) are disrupted.
-• Store foods that require little or no water for preparation and that will not increase
-thirst. Liquids from canned foods can be used as water in cooking.
-• Store foods that will meet the needs of those in care requiring special diets. Include
-foods needed for those on therapeutic or texture-modified diets. For puréed diets,
-jarred baby foods could be used.
-• Store some of the food in portable containers (for example, in case you need to leave
-the home). Large ice chests with wheels are a good choice.
-Page 131
-During the emergency use the foods in your refrigerator. Next use the frozen foods in
-your freezer. Canned foods and mixes are used last.
-Page 133
-SECTION :
-CONSIDERATIONS
-FOR CHILDREN
-Page 136
-As part of meal planning ensure that furniture and eating utensils are suitable so that the
-children can enjoy mealtimes. Nutrition education for children should be part of the
-facility program.
-Lunches to go are a big part of a child’s nutrition. Refer to Section 7 for ideas. Here are
-some additional tips for lunch menus:
-• Build a “make-your-own sandwich” pack. Buy a reusable foodsaver with compart
-ments and pack it with vegetables (for example, green pepper, tomato), meat (for
-example, sliced turkey) and cheese. Include some whole grain bread or crackers.
-Kids like the idea of building their own lunch.
-• Pack dry cereal (for example, Cheerios, Shreddies) or breadsticks with lunch instead
-of chips.
-• Try pasta or potato salad with added vegetables and cheese.
-• Try putting previously rejected foods in interesting containers: colourful foodsavers
-or very small baggies may make it seem like a different food altogether.
-• Include an ice pack to keep cold foods cold, or a thermos to keep hot foods hot. Try
-an “edible ice pack”: freeze an orange and use it as the ice pack so that by lunchtime
-the orange will be thawed out and lunch will still be cold
-Common Nutrition Concerns in Children from
-1 to 19 Years
-Page 137
-You should also provide enough fibre (offer plenty of fruits, vegetables and whole grain
-items) and fluids (offer plenty of milk, water, pure 100% unsweetened fruit juices).
-Toddlers (1–3 years)
-they do not need adult-size portions. Servings should
-be a quarter to a third of the size of an adult portion. Small, frequent meals should be
-provided and serving sizes increase with age. A rough rule of thumb for the serving size
-of meat is 15 ml (1 Tbsp.) per year in age.
-Toddlers need more fat than adults to provide energy and help
-with their nervous system development. For the toddler, provide 1.3 L (about 5–6 cups)
-of fluids a day and about 19 grams (about ¾ ounce) of fibre a day.
-nutrition-related
-concerns during this life stage include:
-Appetite and Picky Eaters
-Page 138
-Food Allergies and Adverse Food Reactions
-Weight
-Risk of Choking
-Iron Deficiency
-Preschoolers (4–5 years of age)
-By this time, most children have all their baby teeth, so they chew most foods. Fat in the
-diet is still important for nervous system development.
-Provide the preschooler with 1.7
-L (about 6–7 cups) of fluids a day. About 25 grams (1 ounce) of fibre a day is also needed.
-Sugary, sticky foods should be avoided. Regular brushing should be encouraged.
-Page 139
-School-Aged Children (6–13 years)
-Most school-aged children are influenced by peer pressure. Role-modelling and involv
-ing the child in meal preparation help shape healthy eating.
-Try not to categorize foods
-as good or bad because this can lead to abnormal views about eating.
-Sexual development can start
-between the ages of 8 and 9 years. This changes nutrition needs for both boys and girls.
-For boys between 9–13 years provide 2.4 L (9–10 cups) of fluids; provide 2.1 L (8–9
-cups) for girls. Provide between 25 and 31 grams (about 1 to ¼ ounce) of fibre.
-nutrition-related concerns during this life stage include:
-Nutrition, Hyperactivity and “Hyper Behaviour”
-Hyperactivity is not caused by a poor diet, but a poor diet may be a factor in a hyperac
-tive child’s life. Some children may be sleepless, restless and tense due to caffeine found
-in cola drinks. Regular sleep times, mealtimes and activity are important.
-Weight and Body Image
-Obesity is linked with a lack of activity (for example, watching television, computer use).
-Females are prone to distorted body image. This can lead to trying diets, restricting
-foods and developing other behaviours that affect their health. Encourage a healthy body
-image (acceptance of body type).
-Calcium and Vitamin D
-Calcium and vitamin D are needed to ensure that bones develop to their full potential.
-Often soft drinks replace fluid milk or milk alternatives. Diets that are low in calcium
-tend to be low in other nutrients, so focusing on calcium intake can help to ensure an
-overall healthy diet.
-Adolescents (14–18 years)
-Growth spurts tend
-to occur in girls around 10–11 years of age and in boys around 12–13 years. These growth
-spurts last about 2 years.
-Their food choices are often related to
-a desire to achieve a particular body shape, clear up acne or improve their athletic per
-formance.
-. In the case of obesity, for example, exces
-sive dieting, which results in low calcium intake and low body weight, can lead to osteo
-porosis in later life. Calcium-rich foods include the milk and milk alternatives. Aim to
-drink at least 3 cups of milk and fluid milk alternatives per day. Calcium is also found in
-many non-dairy foods, or added to other foods, such as juice, cereal and bread. Iron is
-Page 140
-needed to replace menstrual losses in girls and to support the growth of muscle in both
-boys and girls. The fluids needs for teenage boys is 3.3 L (13–14 cups) a day and 2.3 L (9–
-10 cups) a day for girls. This amount includes fluids found in foods. You should offer a
-variety of fluids; at least 1.5 L (6 cups). Female adolescents need 26 grams (about 1
-ounce) of fibre a day for females and male adolescents need 38 grams (about 1 1⁄2 ounces)
-of fibre a day. Some nutrition-related concerns during this life stage include:
-Food Choices
-Weight and Body Image
-Lifestyle Factors
-Smoking, alcohol and illegal drug use can also affect nutritional status. Tobacco influ
-ences hunger, weight and nutrition status. Smokers tend to eat less fibre, vitamin A,
-Beta-carotene, folate and vitamin C. It can also increase the need for certain nutrients
-(for example, vitamin C)
-Pregnancy
-Adolescents who become pregnant tend to have nutrition challenges. Many health
-regions have prenatal nutrition programs for high risk pregnant moms including ado
-lescents. Contact the health region office for more details.
+	- Add chlorine bleach (it must contain 5.25% sodiumhypochlorite and be less than one year old) in the amount listed below. Note: this procedure can also be used to purify water during the emergency
+		- WATER IS CLEAR
+			- 1 L (1 quart) 2 drops
+			- 5 L (about 1 gallon) 8 drops
+			- 25 L (about 5 gallons) 2.5 ml (½ tsp.)
+		- WATER IS CLOUDY
+			- 1 L (1 quart) 4 drops
+			- 5 L (about 1 gallon) 16 drops
+			-  25 L (about 5 gallons) 5 ml (1 tsp)
+	- Finish filling the bottle to the very top. Spread melted candle wax around the top of the\rim and screw the lid on tightly
+- **Pre-plan, keep it simple and prioritize.**
+	- The plans you develop should take into account all types of disasters that include:
+		- NATURAL
+		- INDUSTRIAL
+		- SOCIAL/POLITICAL 
+		- FACILITY
+		-  Fire
+		- Flood
+		- Earthquakes
+		- Weather
+		- Disease outbreak (for example, influenza)
+		- Food recalls
+		- Hazardous material spills
+		-  Heating, water, power disruptions or failure
+		-  Explosion
+		-  Mid-air crash• Labour disruptions, strikes
+		- Civil disturbances,riots
+		- Bomb threat or hostage-taking
+		- Medication interruptions
+		- Disruptions in food service and laundry
+		- Sewage backups
+		- Search for missing person in care
+		- Internal evacuations
+	- Make sure you have at least one alternative way to cook your food (for example,camp stove, sterno stove, barbecue, fondue pot, chafing dishes). Never burn charcoal indoors because it could cause carbon monoxide poisoning.
+
+- ## Emergency Menu
+	- An emergency menu and food supplies for at least three days should be in place.
+	- Keep a supply of canned foods and dry mixes or other foods that require little or no cooking or refrigeration in case utilities (for example, electricity) are disrupted.
+	- Store foods that require little or no water for preparation and that will not increasethirst. Liquids from canned foods can be used as water in cooking.
+	- Store foods that will meet the needs of those in care requiring special diets. Include foods needed for those on therapeutic or texture-modified diets. For puréed diets,jarred baby foods could be used.
+	- Store some of the food in portable containers (for example, in case you need to leave the home). Large ice chests with wheels are a good choice.
+	- During the emergency use the foods in your refrigerator. Next use the frozen foods inyour freezer. Canned foods and mixes are used last.
+
+# SECTION 12: Considerations for Children
+
+- As part of meal planning ensure that furniture and eating utensils are suitable so that the children can enjoy mealtimes. 
+- Nutrition education for children should be part of thefacility program. 
+- ## Lunches to go :
+	-  Here are some additional tips for lunch menus:
+		- Build a “make-your-own sandwich” pack.
+		- Buy a reusable foodsaver with compartments and pack it with vegetables (for example, green pepper, tomato), meat (for example, sliced turkey) and cheese. 
+		- Include some whole grain bread or crackers.
+		- Kids like the idea of building their own lunch.
+		- Pack dry cereal (for example, Cheerios, Shreddies) or breadsticks with lunch insteadof chips.
+		- Try pasta or potato salad with added vegetables and cheese.
+		- Try putting previously rejected foods in interesting containers: colourful foodsaversor very small baggies may make it seem like a different food altogether.
+		- Include an ice pack to keep cold foods cold, or a thermos to keep hot foods hot. Tryan “edible ice pack”: freeze an orange and use it as the ice pack so that by lunchtime the orange will be thawed out and lunch will still be cold
+		- You should also provide enough fibre (offer plenty of fruits, vegetables and whole grain items) and fluids (offer plenty of milk, water, pure 100% unsweetened fruit juices).
+
+- ## Common Nutrition Concerns in Children from 1 to 19 Years
+	- Toddlers (1–3 years)
+		- they do not need adult-size portions. 
+			- Servings should be a quarter to a third of the size of an adult portion. 
+			- Small, frequent meals should be provided and serving sizes increase with age. 
+			- A rough rule of thumb for the serving size of meat is 15 ml (1 Tbsp.) per year in age.
+		- Toddlers need more fat than adults to provide energy and help with their nervous system development.
+		- For the toddler, provide 1.3 L (about 5–6 cups) of fluids a day 
+		- and about 19 grams (about ¾ ounce) of fibre a day.
+		- nutrition-related concerns during this life stage include: 
+			- Appetite and Picky Eaters
+			- Food Allergies and Adverse Food Reactions
+			- Weight
+			- Risk of Choking
+			- Iron Deficiency
+	- Preschoolers (4–5 years of age)
+		- By this time, most children have all their baby teeth, so they chew most foods. 
+		- Fat in thediet is still important for nervous system development.
+		- Provide the preschooler with 1.7L (about 6–7 cups) of fluids a day.
+		- About 25 grams (1 ounce) of fibre a day is also needed.
+		- Sugary, sticky foods should be avoided.
+		- Regular brushing should be encouraged.
+	- School-Aged Children (6–13 years)
+		- Most school-aged children are influenced by peer pressure. 
+		- Role-modelling and involving the child in meal preparation help shape healthy eating.
+		- Try not to categorize foods as good or bad because this can lead to abnormal views about eating.
+		- Sexual development can start between the ages of 8 and 9 years. 
+		- This changes nutrition needs for both boys and girls.
+		- For boys between 9–13 years provide 2.4 L (9–10 cups) of fluids; 
+		- provide 2.1 L (8–9cups) of fluids for girls.
+		- Provide between 25 and 31 grams (about 1 to ¼ ounce) of fibre.
+		- nutrition-related concerns during this life stage include:
+			- Nutrition, Hyperactivity and “Hyper Behaviour”
+			- Hyperactivity is not caused by a poor diet, but a poor diet may be a factor in a hyperactive child’s life.
+			- Some children may be sleepless, restless and tense due to caffeine found in cola drinks. 
+			- Regular sleep times, mealtimes and activity are important.
+			- Weight and Body Image
+			- Obesity is linked with a lack of activity (for example, watching television, computer use).
+			- Females are prone to distorted body image. This can lead to trying diets, restrictingfoods and developing other behaviours that affect their health. Encourage a healthy bodyimage (acceptance of body type).
+		- Calcium and Vitamin D
+			- Calcium and vitamin D are needed to ensure that bones develop to their full potential.
+			- Often soft drinks replace fluid milk or milk alternatives. Diets that are low in calcium tend to be low in other nutrients, so focusing on calcium intake can help to ensure an overall healthy diet.
+	- Adolescents (14–18 years)
+		- Growth spurts tend to occur in girls around 10–11 years of age and in boys around 12–13 years. 
+		- These growth spurts last about 2 years.
+		- Their food choices are often related to a desire to achieve a particular body shape, clear up acne or improve their athletic performance.
+		- In the case of obesity, for example, excessive dieting, which results in low calcium intake and low body weight, can lead to osteoporosis in later life.
+		- Calcium-rich foods include the milk and milk alternatives. Aim todrink at least 3 cups of milk and fluid milk alternatives per day. Calcium is also found in many non-dairy foods, or added to other foods, such as juice, cereal and bread.
+		- Iron is needed to replace menstrual losses in girls and to support the growth of muscle in bothboys and girls. 
+		- The fluids needs for teenage boys is 3.3 L (13–14 cups) a day and 2.3 L (9–10 cups) a day for girls. This amount includes fluids found in foods. You should offer a variety of fluids; at least 1.5 L (6 cups). Female adolescents need 26 grams (about 1 ounce) of fibre a day for females and male adolescents need 38 grams (about 1 1⁄2 ounces)of fibre a day.
+		- Some nutrition-related concerns during this life stage include:
+			- Food Choices
+			- Weight and Body Image
+			- Lifestyle Factors
+			- Smoking, alcohol and illegal drug use can also affect nutritional status. 
+				- Tobacco influences hunger, weight and nutrition status. Smokers tend to eat less fibre, vitamin A, Beta-carotene, folate and vitamin C. It can also increase the need for certain nutrients(for example, vitamin C)
+			- Pregnancy
+				- Adolescents who become pregnant tend to have nutrition challenges. Many healthregions have prenatal nutrition programs for high risk pregnant moms including adolescents. Contact the health region office for more details.
