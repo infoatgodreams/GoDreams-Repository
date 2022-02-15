@@ -54,6 +54,7 @@ title: Home - CAP Design Portal
 ## USA
 - [Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI)](Volume%201/Reference%20Reading/Research%20Papers/US/Institutional%20Care%20for%20Young%20Children%20-%20%20Review%20of%20Literature%20and%20Policy%20Implications%20%20(with%20DOI).md)
 - [The nutritional status of children living within institutionalized care _ a systematic review](Volume%201/Reference%20Reading/Research%20Papers/US/The%20nutritional%20status%20of%20children%20living%20within%20institutionalized%20care%20_%20a%20systematic%20review.md)
+- [Fostering Child Development _ Systematic Review of caregiver training and structural interventions](Volume%201/Reference%20Reading/Research%20Papers/US/Fostering%20Child%20Development%20_%20Systematic%20Review%20of%20caregiver%20training%20and%20structural%20interventions.md)
 
 ## Indian
 - [Nutrition, Health & Psychosocial Profile of Institutionalized Children](Volume%201/Reference%20Reading/Research%20Papers/India/Nutrition,%20Health%20&%20Psychosocial%20Profile%20of%20Institutionalized%20Children.md)
@@ -61,6 +62,10 @@ title: Home - CAP Design Portal
 ## Global
 - [Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries](Volume%201/Reference%20Reading/Research%20Papers/Global/Ideal%20Components%20and%20current%20characteristics%20of%20alternative%20care%20options%20for%20children%20outside%20of%20parental%20care%20in%20low%20resource%20countries.md)
 - [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Reference%20Reading/Research%20Papers/Global/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md)
+- [Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres](Volume%201/Reference%20Reading/Research%20Papers/Global/Magnitude%20and%20Associated%20Factors%20of%20Undernutrition%20Among%20children%20aged%206-59%20months%20in%20Ethiopian%20Orphanage%20Centres.md)
+- [Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya](Volume%201/Reference%20Reading/Research%20Papers/Global/Nutrition%20status%20of%20children%20in%20orphanages%20in%20selected%20primary%20schools%20in%20dagoretti%20division%20nairobi%20kenya.md)
+- [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Reference%20Reading/Research%20Papers/Global/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md)
+- [WHO Child Growth Standards](Volume%201/Reference%20Reading/Research%20Papers/Global/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md)
 
 
 # Topic Roll Ups: 
