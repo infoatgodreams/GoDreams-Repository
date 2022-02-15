@@ -17,8 +17,8 @@ Contents:
 - [Section 2 Individual Nutrition Care Planning](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#Section%202%20Individual%20Nutrition%20Care%20Planning) Each person who lives in the homeneeds to have a written nutrition care plan.
 - [SECTION 3 FOOD TEXTURES MODIFIED FLUIDSAND SWALLOWING DISORDERS](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%203%20FOOD%20TEXTURES%20MODIFIED%20FLUIDSAND%20SWALLOWING%20DISORDERS). Those wholive in residential care facilities may need to have their foods and fluids modified intexture to meet their chewing and swallowing needs.
 - [SECTION 4 SPECIAL DIETS](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%204%20SPECIAL%20DIETS). Some people require special diets as part of the control ofhealth conditions
-- Section 5: Healthy Eating. This section of the manual covers the new Eating Wellwith Canada’s Food Guide as well as the nutrition topics of fluids, fibre and salt.
-- Section 6: Menu Planning. This section of the manual discusses the topics of menuplanning including developing cycle menus, making menu substitutions and standardizing recipes.
+- [SECTION 5 HEALTHY EATING](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%205%20HEALTHY%20EATING). This section of the manual covers the new Eating Wellwith Canada’s Food Guide as well as the nutrition topics of fluids, fibre and salt.
+- [SECTION 6 MENU PLANNING](Volume%201/Reference%20Reading/Governments%20&%20UN/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%206%20MENU%20PLANNING) This section of the manual discusses the topics of menuplanning including developing cycle menus, making menu substitutions and standardizing recipes.
 - Section 7: Lunches To Go, Eating Out and The Munchies. These present special circumstances in menu planning. Healthy eating choices for each of these situationsare discussed.
 - Section 8: Purchasing Food Wisely. Once the menu is developed, the next step is topurchase the food items. This section discusses how to reduce food costs and howto read nutrition labels.
 - Section 9: Managing Food Safely to Maintain Quality. Food safety is important inthe facility setting. Proper measures for storing and handling foods are discussed.
@@ -284,223 +284,125 @@ Health Services for Community Living or Community Living British Columbia RD | H
 		- 125 ml (½ cup)  juice=
 	- Guidelines and Tips for Vegetables and Fruit
 		-  Eat at least one dark green and one orange vegetable each day
-		- Dark green vegetables include broccoli, romaine lettuce, bok choy, gai lan,
-spinach, arugula, chard, dandelion greens, kale/collards, mustard greens and
-salad greens including romaine lettuce, spinach or mesclun mix.
-- Orange vegetables include carrots, yams, pumpkin and winter squash. Apri
-cots, cantaloupes, mangoes, nectarines, papaya and peaches also contain
-vitamin A and can be chosen instead of one orange vegetable.
-• Choose vegetables and fruit made with little or no added fat, sugar or salt. Enjoy
-vegetables steamed, baked or stir-fried rather than creamed. Look for low
-sodium canned vegetables or drain and rinse canned vegetables. Have vegetables
-and fruit more often than juice.
-• Include at least three 125 ml (½ cup) servings of vegetables or fruits at meals.
-Serve fruits and vegetables as finger food for those who have difficulty managing
-whole foods.
-• Provide pure, unsweetened 100% fruit juice at breakfast. Choose lower-sodium
-vegetable juices. Vegetable or fruit drinks or punches do not belong in this food
-group.
-• Provide fruit for dessert (for example, baked apple, fruit sauces on ice cream or
-sponge cake).
-• Try frozen fruit segments as snacks (for example, grapes, banana chunks).
-• Include a salad at mealtimes and prepare soups, stews and casseroles with good
-amounts of vegetables. Add to omelettes, scrambled eggs and quiches.
-• Serve smoothies with fruits. Add fresh or canned fruit to Jello® and mousses.
-Add fruit such as orange pieces to salads, apricots with chicken or pineapple with
-pork.
-• Add grated or mashed vegetables (for example, carrots, pumpkin, zucchini) or
-dried fruits to baked foods (for example, loaves, cookies, muffins, scones).
-• Some products with "vegetable" and "fruit" on their packaging mainly contain
-fat, sugar or salt. Fruit candies, vegetable chips, fruit jams or spreads and
-ketchup do not belong in the Vegetables and Fruit food group.
-Page 75
-Milk and Milk Alternatives
-One serving equals:Section 5: Healthy Eating67
-• 250 ml (1 cup) milk or fortified soy beverage
-• 175 ml (¾ cup) yogurt or kefir
-• 50 g (1 ½–2 oz.) block or processed cheese or
-paneer
-• 125 ml (½ cup) pudding/custard made with milk• 125 ml (½ cup) canned milk (evaporated)
-• 125 ml (1/2 cup) skim milk powder
-• 250 ml (1 cup) cottage or quark cheese
-• 175 ml (¾ cup) yogurt drink
-• 60 ml (4 Tbsp.) processed cheese spread
-Guidelines and Tips for Milk and Milk Alternatives
-• Drink skim, 1%, or 2% each day. Have 500 ml (2 cups) of milk or fortified soy
-beverages. Check the food label to see if the soy beverage is fortified with calcium
-and vitamin D. For children under the age of 2, provide whole milk.
-• Select lower-fat milk alternatives. Compare the Nutrition Facts table on yogurts
-or cheeses to make wise choices. Choose cheeses with less than 20% M.F. (milk
-fat) more often than others. Try partly skim mozzarella and light cheeses. More
-information on Nutrition Labelling is provided in the Purchasing Food Wisely
-section of this manual.
-• Offer milk at meals and snacks. Sometimes milk is restricted in the belief that it
-causes mucus. This has not been proven. Excess mucus can occur for many rea
-sons (for example, not drinking enough fluids). Consult the person in care’s
-physician.
-• Coffee whiteners, whipped toppings, butter, margarine, sour cream, powdered
-cheeses in macaroni and cheese dinners, cream cheese and rice or nut milks are
-not counted as part of this food group. They do not provide the same nutrients.
-• Use milk or fortified soy beverages in puddings, cream soups, fruit smoothies,
-lattes, casseroles, scrambled eggs and hot cereal. Additional skim milk powder
-may also be used.
-• Serve vanilla or fruit-flavoured lower-fat yogurt as a dip for fruit.
-• Add taste with small amounts of strong-flavoured cheese such as old cheddar,
-feta or goat cheese. Toss this in salads, pasta dishes, burritos or tacos, or on
-pizza.
-• For those who are lactose intolerant, you can buy special milk in which the lac
-tose (sugar in milk) has already been broken down. You can also use chewable
-lactase tablets. Hard cheeses and yogurt are often easier to digest for people who
-are lactose intolerant.
-• Use the ingredient list to make healthy food choices. Look at the ingredient list to
-see if the milk or fortified soy beverage contains added sugar. Examples of sugars
-include corn syrup, cane juice, dextrose, fructose, glucose, malt syrup, invert
-sugar and concentrated fruit juices.
-Page 76
-Meat and Alternatives
-One serving equals:
-• 50–100 g (2–4 oz.) cooked lean meat, fish,
-shellfish or poultry
-• 30 ml (2 Tbsp.) nut butters (for example, peanut,
-cashew, almonds, hazelnut) or seed butters (for
-example, sunflower, sesame)• 125–250 ml (½–1 cup) cooked dried peas, beans
-or lentils
-• 2 eggs
-• 175 ml (¾ cup or 150 g) tofu
-• 60 ml (¼ cup) shelled nuts and seeds
-Guidelines and Tips for Meat and Alternatives
-• Have meat alternatives such as beans, lentils and tofu often.
-- Eat at least two Food Guide servings of fish each week.
-- Choose fish such as char, herring, mackerel, salmon, sardines and trout that
-are high in omega-3 fatty acids which have been found to have heart health
-benefits. Add canned salmon or tuna to pasta dishes or salads.
-• Select lean meat and alternatives prepared with little or no added fat or salt.
-- Trim the visible fat from meats. Remove the skin from poultry.
-- Use cooking methods such as stewing, roasting, baking, broiling, microwav
-ing or poaching that require little or no added fat. Use herbs and fresh salsas
-to season and flavour fish, meats and poultry.
-- If you eat luncheon meats, sausages, wieners or packaged meats, choose
-those lower in salt (sodium) and fat. Buy fresh or frozen meat, fish and poul
-try without breading or rich sauces. Use dry-roasted nuts and seeds without
-added oils or salt.
-- Look for lean or extra-lean cuts of meat (for example, inside round roast,
-outside round roast, eye of round steak or roast, strip loin steak, sirloin
-steak, rump roast). Choose “lean ground” or “extra-lean ground” beef, poul
-try, lamb and pork.
-• Provide at least two servings from this group each day. Note that side bacon is
-not counted as part of the meat and alternatives group.
-• Use dried peas, beans (navy, black), chickpeas (also known as garbanzo beans)
-and lentils (red, green or brown), nuts, seeds and boiled eggs in soups,
-casseroles, stir-fries, salads and burritos, or mash them into dips.
-• Try different soybean-based foods like tempeh. Substitute tofu for half the
-ground. Select tofu made with calcium.
-• Use small strips or pieces of meat, poultry or fish to add to stir-fries, stews, soups
-or salads.
-• For a low-fat option, wrap a chicken breast or fish fillet with vegetables and herbs
-in aluminum foil and bake in the oven or on the barbecue.
-Page 77
-Oils and Fats
-Include between 30–45 ml (2–3 Tbsp.) of unsaturated fat each day.
-Guidelines and Tips for Fats and Oils
-• Unsaturated fats include oils (for example, canola, corn, flaxseed, olive, peanut,
-soybean and sunflower) used for cooking, salad dressings, soft tub margarine
-and mayonnaise. This is how 30 ml (2 Tbsp.) of unsaturated fat may look in a
-day of eating:
-- Breakfast 5 ml (1 tsp.) of soft non-hydrogenated margarine on toast.
-5 ml (1 tsp.) of canola oil in a pan to make scrambled eggs.
-- Lunch 15 ml (1 Tbsp.) of oil-type salad dressing (for example, balsamic,
-Italian, vinaigrettes) on a salad.
-- Dinner 5 ml (1 tsp.) of canola or olive oil used to stir-fry.
-• Choose soft margarines that are low in saturated and trans fats. Limit butter,
-hard margarine, lard and shortening.
-• Limit foods that may be high in fat, such as gravy, cream-based soups and salad
-dressing. Use low fat milk instead of cream in soups.
-• Limit foods with hidden fats, such as baked goods, sauces and desserts.
-• Choose preparation methods that require little or no fat: steam, stew, roast,
-broil, microwave or bake. Only occasionally fry or deep-fry. Use small amounts of
-vegetable oils for stir-frying or sautéing (for example, 5 ml/1 tsp.). Heat the oil
-before frying to prevent the food from soaking it up.
-• Fill a spray bottle with vegetable oil to spray your pans instead of greasing them.
-• Make your own salad dressing with canola or olive oil. Add balsamic, rice wine or
-other vinegars. Flavour the dressing with lemon juice, dry or Dijon mustard, gar
-lic and herbs. Be sure to refrigerate the salad dressings.
-• Keep oils in a cool dark cupboard or in the refrigerator to prevent them from
-spoiling.
-Page 78
-Fluids
-Provide 1.5–2 L (6–8 cups) of fluid daily. Encourage persons in care to drink water, juice,
-soup, milk, decaffeinated coffee and decaffeinated tea. Try to limit coffee, regular tea and
-cola-based drinks that contain caffeine to 3 cups or fewer per day. Also avoid energy
-drinks. Caffeine may interfere with sleep and medications and may increase agitation.
-These beverages are not recommended for children.
-Guidelines and Tips for Fluids
-• Milk and water are the preferred drinks for both children and adults.
-• Encourage water in addition to other beverages at all meals and snacks.
-• Provide water when giving medications.
-• Assist those who require help with drinking. Provide thickened fluids of the right
-consistency where appropriate.
-• Define standard serving sizes of fluids offered at meals to make recording of the
-amount consumed and eliminated easier (for example, In/Out Records). Exam
-ples include coffee cup = 250ml (1 cup), juice, water, milk glass = 250ml (1 cup),
-soup bowl = 125 ml (1/2 cup).
-• Provide water jugs and glasses for everyone. Use water bottles and wheelchair
-cup holders where applicable.
-• Try different fluids (for example, hot beverages, cold water, juices, frozen juice,
-popsicles, lemon or other citrus flavoured waters).
-• Offer fluids before meals.
-• Try to avoid fluid products with the words “fruit drinks”, “punch”, “cocktail”,
-“beverage” or that end in “ade”. These products are high in sugar and contain lit
-tle fruit.
-• Children can get dehydrated quickly. To keep them hydrated encourage them to
-take water breaks during the day, take a sip from the water fountain often, drink
-water before, during and after active play and carry a water bottle.
-• Fortified waters contain additional vitamins and nutrients. They're generally not
-needed if a person is eating a healthy diet.
-Page 79
-Fibre
-Fibre is naturally found in plant-based foods (for example, whole grain breads and cere
-als, beans, lentils, fruits and vegetables). Fibres may also be made from plant and ani
-mal materials (for example, oat B-glucan, psyllium and inulin). They all have benefits
-such as keeping bowels regular and controlling blood fats and sugar levels.
-The following offers some tips on how to include fibre in a diet.
-• Add cereals high in fibre (for example, All-Bran®, Fiber One®, and 100% Bran) to
-other cereals. Try a cereal that contains at least 2 grams of fibre per serving. This
-means it is a source of fibre.
-• Add fresh fruit, dried fruits, nuts and/or seeds (for example, sunflower or pumpkin)
-to cereals, baked goods and salads.
-• Substitute bran for bread crumbs in recipes (for example, meatloaf, topping on
-casseroles, hamburgers, or coating fish, chicken or chops). Add bran to items such
-as chili, thick soups, sloppy joes or sandwich spreads.
-• Stir bran cereal, flaxseeds, rolled oats, wheat germ, chopped nuts, dried fruit or
-frozen blueberries into batters for pancakes, waffles, muffins, cookies and quick
-breads.
-• Try legumes in salads (for example, bean salad) or as a main dish (for example,
-baked beans).
-• Vegetables such as lettuce, radishes, celery and onion that contain important nutri
-ents do not contain a lot of dietary fibre. Try salad variations such as carrot salad,
-fruit salad, bean salad and spinach salad. Dietary fibre is just as high in cooked veg
-etables as it is in raw. When you eat potatoes and fresh fruits, wash them thoroughly
-and eat the skins, too.
-• Substitute whole wheat flour or oat bran for up to half the amount of white flour in
-recipes. Note that enriched wheat flour and unbleached flour are both refined white
-flour and are not good sources of fibre.
-• Try to get at least 25 grams (1 ounce) of fibre in the diet each day. See the High
-Fibre Diet plan in the Special Diet section of this manual for menu ideas on how to
-do this.
-• Try whole wheat pitas, tortillas and English muffins.
-Page 80
-Salt
-Most people tend to eat much more salt (sodium) than they require. Minimize salt intake
-by:
-• focusing on using fresh, whole foods.
-• using less salt at the table and in cooking.
-• tasting foods before adding salt and using less salt at the table.
-• using lower-sodium broths and bouillon cubes.
-• adding less salt when cooking and flavouring foods with lemon, herbs or spices
-instead of salt.
-Page 81
-SECTION :
-MENU PLANNING
+		- Dark green vegetables include broccoli, romaine lettuce, bok choy, gai lan,spinach, arugula, chard, dandelion greens, kale/collards, mustard greens and salad greens including romaine lettuce, spinach or mesclun mix
+		- Orange vegetables include carrots, yams, pumpkin and winter squash. Apricots, cantaloupes, mangoes, nectarines, papaya and peaches also contain vitamin A and can be chosen instead of one orange vegetable.
+		- Choose vegetables and fruit made with little or no added fat, sugar or salt. Enjoy vegetables steamed, baked or stir-fried rather than creamed. Look for low sodium canned vegetables or drain and rinse canned vegetables. Have vegetables and fruit more often than juice.
+		-  Include at least three 125 ml (½ cup) servings of vegetables or fruits at meals.
+		- Serve fruits and vegetables as finger food for those who have difficulty managingwhole foods.
+		-  Provide pure, unsweetened 100% fruit juice at breakfast. Choose lower-sodium vegetable juices. Vegetable or fruit drinks or punches do not belong in this food group.
+		-  Provide fruit for dessert (for example, baked apple, fruit sauces on ice cream or sponge cake).
+		-  Try frozen fruit segments as snacks (for example, grapes, banana chunks).
+		-  Include a salad at mealtimes and prepare soups, stews and casseroles with good amounts of vegetables. Add to omelettes, scrambled eggs and quiches.
+		-  Serve smoothies with fruits. Add fresh or canned fruit to Jello® and mousses.
+		- Add fruit such as orange pieces to salads, apricots with chicken or pineapple with pork.
+		- Add grated or mashed vegetables (for example, carrots, pumpkin, zucchini) or dried fruits to baked foods (for example, loaves, cookies, muffins, scones). 
+		-  Some products with "vegetable" and "fruit" on their packaging mainly contain fat, sugar or salt. Fruit candies, vegetable chips, fruit jams or spreads and ketchup do not belong in the Vegetables and Fruit food group.
+
+
+- [[Milk and Milk Alternatives]]
+	- One serving equals: 
+		-  250 ml (1 cup) milk or fortified soy beverage
+		-  175 ml (¾ cup) yogurt or kefir
+		- 50 g (1 ½–2 oz.) block or processed cheese or paneer
+		-  125 ml (½ cup) pudding/custard made with milk• 125 ml (½ cup) canned milk (evaporated)
+		- 125 ml (1/2 cup) skim milk powder
+		-  250 ml (1 cup) cottage or quark cheese
+		-  175 ml (¾ cup) yogurt drink
+		-  60 ml (4 Tbsp.) processed cheese spread
+	- Guidelines and Tips for Milk and Milk Alternatives
+		- Drink skim, 1%, or 2% each day. Have 500 ml (2 cups) of milk or fortified soy beverages. Check the food label to see if the soy beverage is fortified with calcium and vitamin D. For children under the age of 2, provide whole milk.
+		- Select lower-fat milk alternatives. Compare the Nutrition Facts table on yogurts or cheeses to make wise choices. 
+		- Choose cheeses with less than 20% M.F. (milk fat) more often than others. Try partly skim mozzarella and light cheeses. More information on Nutrition Labelling is provided in the Purchasing Food Wisely section of this manual.
+		- Offer milk at meals and snacks. Sometimes milk is restricted in the belief that it causes mucus. This has not been proven. Excess mucus can occur for many reasons (for example, not drinking enough fluids). Consult the person in care’s physician.
+		-  Coffee whiteners, whipped toppings, butter, margarine, sour cream, powderedcheeses in macaroni and cheese dinners, cream cheese and rice or nut milks are not counted as part of this food group. They do not provide the same nutrients
+		- Use milk or fortified soy beverages in puddings, cream soups, fruit smoothies, lattes, casseroles, scrambled eggs and hot cereal. Additional skim milk powder may also be used.
+		- Serve vanilla or fruit-flavoured lower-fat yogurt as a dip for fruit.
+		- Add taste with small amounts of strong-flavoured cheese such as old cheddar, feta or goat cheese. Toss this in salads, pasta dishes, burritos or tacos, or on pizza.
+		- For those who are lactose intolerant, you can buy special milk in which the lactose (sugar in milk) has already been broken down. You can also use chewable lactase tablets. Hard cheeses and yogurt are often easier to digest for people who are lactose intolerant. 
+		-  Use the ingredient list to make healthy food choices. Look at the ingredient list to see if the milk or fortified soy beverage contains added sugar. Examples of sugars include corn syrup, cane juice, dextrose, fructose, glucose, malt syrup, invert sugar and concentrated fruit juices.
+
+- [[Meat and Alternatives]] 
+	- One serving equals:
+		- 50–100 g (2–4 oz.) cooked lean meat, fish, shellfish or poultry
+		-  30 ml (2 Tbsp.) nut butters (for example, peanut, cashew, almonds, hazelnut) or seed butters (forexample, sunflower, sesame)
+		- 125–250 ml (½–1 cup) cooked dried peas, beans or lentils
+		- 2 eggs
+		- 175 ml (¾ cup or 150 g) tofu
+		- 60 ml (¼ cup) shelled nuts and seeds
+	- Guidelines and Tips for Meat and Alternatives
+		- Have meat alternatives such as beans, lentils and tofu often
+		- Eat at least two Food Guide servings of fish each week
+		- Choose fish such as char, herring, mackerel, salmon, sardines and trout that are high in omega-3 fatty acids which have been found to have heart health benefits. 
+		- Add canned salmon or tuna to pasta dishes or salads.
+		- Select lean meat and alternatives prepared with little or no added fat or salt
+		- Trim the visible fat from meats. Remove the skin from poultry
+		- Use cooking methods such as stewing, roasting, baking, broiling, microwav ing or poaching that require little or no added fat. Use herbs and fresh salsas to season and flavour fish, meats and poultry
+		- If you eat luncheon meats, sausages, wieners or packaged meats, choose those lower in salt (sodium) and fat. Buy fresh or frozen meat, fish and poultry without breading or rich sauces. Use dry-roasted nuts and seeds without added oils or salt
+		- Look for lean or extra-lean cuts of meat (for example, inside round roast, outside round roast, eye of round steak or roast, strip loin steak, sirloin steak, rump roast). Choose “lean ground” or “extra-lean ground” beef, poul try, lamb and pork. 
+		-  Provide at least two servings from this group each day. Note that side bacon is not counted as part of the meat and alternatives group
+		- Use dried peas, beans (navy, black), chickpeas (also known as garbanzo beans and lentils (red, green or brown), nuts, seeds and boiled eggs in soups, casseroles, stir-fries, salads and burritos, or mash them into dips.
+		- Try different soybean-based foods like tempeh. Substitute tofu for half the ground. Select tofu made with calcium
+		- Use small strips or pieces of meat, poultry or fish to add to stir-fries, stews, soupsor salads
+		- For a low-fat option, wrap a chicken breast or fish fillet with vegetables and herbsin aluminum foil and bake in the oven or on the barbecue.
+
+- [[Oils and Fats]]
+	- Include between 30–45 ml (2–3 Tbsp.) of unsaturated fat each day.
+	- Guidelines and Tips for Fats and Oils
+		- Unsaturated fats include oils (for example, canola, corn, flaxseed, olive, peanut,soybean and sunflower) used for cooking, salad dressings, soft tub margarine and mayonnaise. This is how 30 ml (2 Tbsp.) of unsaturated fat may look in a day of eating
+		- Breakfast 5 ml (1 tsp.) of soft non-hydrogenated margarine on toast. 
+		- 5 ml (1 tsp.) of canola oil in a pan to make scrambled eggs
+		- Lunch 15 ml (1 Tbsp.) of oil-type salad dressing (for example, balsamic, Italian, vinaigrettes) on a salad
+		- Dinner 5 ml (1 tsp.) of canola or olive oil used to stir-fry.
+		- Choose soft margarines that are low in saturated and trans fats. Limit butter, hard margarine, lard and shortening.
+		-  Limit foods that may be high in fat, such as gravy, cream-based soups and salad dressing. Use low fat milk instead of cream in soups.
+		-  Limit foods with hidden fats, such as baked goods, sauces and desserts.
+		-  Choose preparation methods that require little or no fat: steam, stew, roast,broil, microwave or bake. Only occasionally fry or deep-fry. Use small amounts of vegetable oils for stir-frying or sautéing (for example, 5 ml/1 tsp.) Heat the oil before frying to prevent the food from soaking it up.
+		- Fill a spray bottle with vegetable oil to spray your pans instead of greasing them.
+		-  Make your own salad dressing with canola or olive oil. Add balsamic, rice wine or other vinegars. Flavour the dressing with lemon juice, dry or Dijon mustard, garlic and herbs. Be sure to refrigerate the salad dressings.
+		-  Keep oils in a cool dark cupboard or in the refrigerator to prevent them fromspoiling.
+
+- [[Fluids]]
+	- Provide 1.5–2 L (6–8 cups) of fluid daily.
+		-  Encourage persons in care to drink water, juice,soup, milk, decaffeinated coffee and decaffeinated tea.
+		-  Try to limit coffee, regular tea and cola-based drinks that contain caffeine to 3 cups or fewer per day. 
+		- Also avoid energy drinks. Caffeine may interfere with sleep and medications and may increase agitation.These beverages are not recommended for children.
+	- Guidelines and Tips for Fluids
+		- Milk and water are the preferred drinks for both children and adults.
+		- Encourage water in addition to other beverages at all meals and snacks.
+		- Provide water when giving medications.
+		- Assist those who require help with drinking. Provide thickened fluids of the right consistency where appropriate.
+		-  Define standard serving sizes of fluids offered at meals to make recording of the amount consumed and eliminated easier (for example, In/Out Records). 
+			- Examples include coffee cup = 250ml (1 cup), juice, water, milk glass = 250ml (1 cup),soup bowl = 125 ml (1/2 cup).
+		- Provide water jugs and glasses for everyone. Use water bottles and wheelchaircup holders where applicable.
+		-  Try different fluids (for example, hot beverages, cold water, juices, frozen juice, popsicles, lemon or other citrus flavoured waters)
+		-  Offer fluids before meals.
+		- Try to avoid fluid products with the words “fruit drinks”, “punch”, “cocktail”, “beverage” or that end in “ade”. These products are high in sugar and contain little fruit.
+		- Children can get dehydrated quickly. To keep them hydrated encourage them totake water breaks during the day, take a sip from the water fountain often, drink water before, during and after active play and carry a water bottle.
+		- Fortified waters contain additional vitamins and nutrients. They're generally not needed if a person is eating a healthy diet.
+
+- [[Fibre]]
+	- Fibre is naturally found in plant-based foods (for example, whole grain breads and cereals, beans, lentils, fruits and vegetables). Fibres may also be made from plant and animal materials (for example, oat B-glucan, psyllium and inulin). They all have benefits such as keeping bowels regular and controlling blood fats and sugar levels.
+	- Try to get at least 25 grams (1 ounce) of fibre in the diet each day. 
+	- The following offers some tips on how to include fibre in a diet.
+		- Add cereals high in fibre (for example, All-Bran®, Fiber One®, and 100% Bran) to other cereals. Try a cereal that contains at least 2 grams of fibre per serving. This means it is a source of fibre.
+		- Add fresh fruit, dried fruits, nuts and/or seeds (for example, sunflower or pumpkin) to cereals, baked goods and salads.
+		-  Substitute bran for bread crumbs in recipes (for example, meatloaf, topping on casseroles, hamburgers, or coating fish, chicken or chops). Add bran to items such as chili, thick soups, sloppy joes or sandwich spreads.
+		- Stir bran cereal, flaxseeds, rolled oats, wheat germ, chopped nuts, dried fruit or frozen blueberries into batters for pancakes, waffles, muffins, cookies and quick breads.
+		- Try legumes in salads (for example, bean salad) or as a main dish (for example, baked beans).
+		-  Vegetables such as lettuce, radishes, celery and onion that contain important nutrients do not contain a lot of dietary fibre. Try salad variations such as carrot salad, fruit salad, bean salad and spinach salad. 
+		- Dietary fibre is just as high in cooked vegetables as it is in raw. When you eat potatoes and fresh fruits, wash them thoroughly and eat the skins, too.
+		- Substitute whole wheat flour or oat bran for up to half the amount of white flour in recipes. Note that enriched wheat flour and unbleached flour are both refined white flour and are not good sources of fibre.
+		-  Try whole wheat pitas, tortillas and English muffins.
+
+- [[Salt]]
+	- Most people tend to eat much more salt (sodium) than they require. Minimize salt intake by:
+		-  focusing on using fresh, whole foods.
+		- using less salt at the table and in cooking.
+		- tasting foods before adding salt and using less salt at the table.
+		-  using lower-sodium broths and bouillon cubes.
+		-  adding less salt when cooking and flavouring foods with lemon, herbs or spices instead of salt.
+
+# SECTION 6: MENU PLANNING
 Page 82
 y. A
 cycle menu is planned for many days and repeated at the end of a given time period. For
