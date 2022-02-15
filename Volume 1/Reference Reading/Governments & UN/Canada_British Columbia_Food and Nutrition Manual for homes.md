@@ -403,13 +403,9 @@ Health Services for Community Living or Community Living British Columbia RD | H
 		-  adding less salt when cooking and flavouring foods with lemon, herbs or spices instead of salt.
 
 # SECTION 6: MENU PLANNING
-Page 82
-y. A
-cycle menu is planned for many days and repeated at the end of a given time period. For
-example, a four-week menu contains menus for Week 1, Week 2, Week 3 and Week 4. At
-the end of Week 4 the cycle menu is repeated from the beginning. A planned, written
-menu helps to:
-• save money and time, make shopping easier and reduce food waste.
+- A cycle menu is planned for many days and repeated at the end of a given time period. For example, a four-week menu contains menus for Week 1, Week 2, Week 3 and Week 4. At the end of Week 4 the cycle menu is repeated from the beginning.
+	-  A planned, written menu helps to:
+		• save money and time, make shopping easier and reduce food waste.
 • ensure nutrition, variety, and that seasonal foods are included. You can also identify
 foods that those in care like and dislike so that future changes can be made.
 • address staff food-preparation skills, kitchen equipment available, storage space,

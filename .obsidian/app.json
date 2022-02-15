@@ -8,7 +8,7 @@
   "attachmentFolderPath": "Volume 2/Volume 2 Public Resource Links",
   "spellcheck": true,
   "foldHeading": true,
-  "foldIndent": true,
+  "foldIndent": false,
   "showFrontmatter": true,
   "readableLineLength": false,
   "autoPairBrackets": false,
