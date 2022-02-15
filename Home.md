@@ -32,6 +32,7 @@ title: Home - CAP Design Portal
 	- [Rainbow_Physical Health Care](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Physical%20Health%20Care.md)
 	- [CSJ_Connecting to children in the observation homes of Rajasthan](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Counsel%20to%20Secure%20Justice/CSJ_Connecting%20to%20children%20in%20the%20observation%20homes%20of%20Rajasthan.md)
 	- [Function, quality and outcomes of residential care](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/SOS/Function,%20quality%20and%20outcomes%20of%20residential%20care.md)
+	- [[budget
 
 ## Child Care Institutions
 - International
