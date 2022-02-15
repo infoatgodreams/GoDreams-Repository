@@ -48,7 +48,7 @@ title: Home - CAP Design Portal
 # Governments and UN
 - [Guidelines on Alternative Care_UN](Volume%201/Reference%20Reading/Governments%20&%20UN/Guidelines%20on%20Alternative%20Care_UN.md)
 - [SOP on Escape Runaway Sexual Abuse Death of Children in CCIs](Volume%202/Reference%20Reading/Governments%20&%20UN/SOP%20on%20Escape%20Runaway%20Sexual%20Abuse%20Death%20of%20Children%20in%20CCIs.md)
-- [WHO Child Growth Standards](Volume%201/Reference%20Reading/Research%20Papers/Global/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md)
+- [WHO Child Growth Standards](Volume%201/Reference%20Reading/Governments%20&%20UN/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md)
 
 ## Research
 ## USA
@@ -65,7 +65,7 @@ title: Home - CAP Design Portal
 - [Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres](Volume%201/Reference%20Reading/Research%20Papers/Global/Magnitude%20and%20Associated%20Factors%20of%20Undernutrition%20Among%20children%20aged%206-59%20months%20in%20Ethiopian%20Orphanage%20Centres.md)
 - [Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya](Volume%201/Reference%20Reading/Research%20Papers/Global/Nutrition%20status%20of%20children%20in%20orphanages%20in%20selected%20primary%20schools%20in%20dagoretti%20division%20nairobi%20kenya.md)
 - [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Reference%20Reading/Research%20Papers/Global/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md)
-- [WHO Child Growth Standards](Volume%201/Reference%20Reading/Research%20Papers/Global/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md)
+
 
 
 # Topic Roll Ups: 
