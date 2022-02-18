@@ -20,34 +20,13 @@ tags:
 - LMS values and Microsoft excel macro for calculating SD scores can be obtained from the author (email: vamankhadilkar@gmail.com). Contemporary growth charts can be obtained by sending a message to 08861201183 or email: gntd@novonordisk.com.
 - The previously available growth reference curves in India were based on the data collected by Agarwal et al. in 1989 which were published in 1992 and 1994 and were then adopted by the Indian Academy of Pediatrics for growth monitoring in 2007.
 - Standard growth chart has 7 percentile lines and include 3rd, 10th, 25th, 50th, 75th, and 97th percentiles. These percentiles are standard for height and weight charts. Any individual who is below 3rd and above 97th percentile is considered out of normal range. 
-	- For the BMI charts, however, there are 85th and95th percentile lines which indicate overweight and obesity cut offs.
+	- For the BMI charts, however, there are 85th and 95th percentile lines which indicate overweight and obesity cut offs.
 	- Proportion charts use Z score lines instead of percentile lines and discrepancy of more than 2Z scores in the upper and lower segment is considered abnormal
-On
-the growth velocity chart, 25th percentile is the cut off line
-for defining low height velocity.
-Growth charts mainly belong to two types: growth standards
-and growth references. Growth standards are prescriptive
-and define how a population of children should grow
-given the optimal nutrition and optimal health. Growth
-references on the other hand are descriptive and are
-prepared from a population which is thought to be growing
-in the best possible state of nutrition and health in a given
-community. These describe the growth of children at that
-time. They represent how children are growing rather than
-how they should be growing.
-The correlation between Z
-scores and percentiles can be confusing and in the recent
-WHO Multicenter Growth Reference (MGRS) 2006 study,
-these correlations have been spelt out by the WHO and
-are given the Table 1 below for clarity of understanding.
-WHO 2006 growth charts for children under 5 years is an
-example of growth standards. They delineate how children
-of the world under the age of 5 years should grow if most
-of the controllable variables are kept optimal as opposed
-to this 1989 Agarwal et al.,[3] data and 2007 Indian growth
-charts by Khadilkar et al.,[7] for affluent children are an
-example of growth references which describe how children
-in India were growing at the given time.
+	- On the growth velocity chart, 25th percentile is the cut off line for defining low height velocity.
+	- Growth charts mainly belong to two types: growth standards and growth references. Growth standards are prescriptive and define how a population of children should grow given the optimal nutrition and optimal health. Growth references on the other hand are descriptive and are prepared from a population which is thought to be growing in the best possible state of nutrition and health in a given community. These describe the growth of children at that time. They represent how children are growing rather than how they should be growing.
+	- The correlation between Z scores and percentiles can be confusing and in the recent WHO Multicenter Growth Reference (MGRS) 2006 study, these correlations have been spelt out by the WHO.
+	-  WHO 2006 growth charts for children under 5 years is an example of growth standards. They delineate how children of the world under the age of 5 years should grow if most of the controllable variables are kept optimal as opposed to this 1989 Agarwal et al.,[3] data and 2007 Indian growth charts by Khadilkar et al.,[7] for affluent children are an example of growth references which describe how children in India were growing at the given time.
+	- 
 Table 1: Correlation between percentiles and Z scores
 for World Health Organization charts
 Z-ScoreExact percentileRounded percentile
