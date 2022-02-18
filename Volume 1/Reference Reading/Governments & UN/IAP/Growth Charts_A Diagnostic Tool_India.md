@@ -7,6 +7,7 @@ tags:
 - indianresearch
 ---
 
+Tags: [Nutrition](Volume%201/Roll%20Ups/Nutrition.md) [Assessment Tools](Volume%201/Roll%20Ups/Assessment%20Tools.md)
 
 
 **Scope:** 
@@ -26,6 +27,14 @@ tags:
 		-  The correlation between Z scores and percentiles can be confusing and in the recent WHO Multicenter Growth Reference (MGRS) 2006 study, these correlations have been spelt out by the WHO	
 - Growth charts mainly belong to two types: growth standards and growth references. Growth standards are prescriptive and define how a population of children should grow given the optimal nutrition and optimal health. Growth references on the other hand are descriptive and are prepared from a population which is thought to be growing in the best possible state of nutrition and health in a given community. These describe the growth of children at that time. They represent how children are growing rather than how they should be growing.
 	- WHO 2006 growth charts for children under 5 years is an example of growth standards. They delineate how children of the world under the age of 5 years should grow if most of the controllable variables are kept optimal as opposed to this 1989 Agarwal et al.,[3] data and 2007 Indian growth charts by Khadilkar et al.,[7] for affluent children are an example of growth references which describe how children in India were growing at the given time.
+	- Advantage of having a growth standard such as WHO 2006 charts is that children of all countries, races, ethnicity can be compared against a single standard thus assessment becomes more objective and easy to compare. 
+	- The disadvantage of using charts such as these is that they are likely to over diagnose underweight and stunting in a large number of apparently normal children[8] in the developing countries such as India.
+	- Advantage of a reference is that they are true representative of the existing growth pattern of children and allow us to study the secular trend in terms of height, weight, and obesity. The downside of reference curves is that they need to be updated at least once in a decade and in modern times as obesity is on the rise they are likely to define overweight children as normal
+- WHO recommends using -2Z (3rd percentile) scoresfor diagnosis of stunting and underweight and -3Z(1st percentile) for the diagnosis of severe stunting and severe underweight. 
+- Use of WHO 2006 growth charts are likely over diagnosed stunting or underweight or both in developing countries. [[Stunting]]
+	-  In a recent multicentric study done on 1493 affluent preschool Indian children (selected from all zones of India) published by the author the Mean Z scores for height, weight, BMI,and weight for height (-0.75(1.1), -0.59(1.1), –0.19(1.22) and -0.26(1.18), respectively) were below the WHO 2006 standards. The overall incidence of stunting was 13.6% andunderweight was 8.5% amongst affluent Indian children under the age of five years. 
+	- This percentage is likely to behigher in rural areas and in under privileged urban areasalthough at the present time no such data is available fromIndia.
+
 
 
 **Table 1: Correlation between percentiles and Z scores for World Health Organization charts** 
@@ -54,40 +63,10 @@ more than 1 (85)|Normal|Use BMI|Risk of overweight
 <-2 (3)|Stunted|Underweight|Wasted
 <-3 (1)|Severely Stunted| Severely underweight| Severe wasted
 
-- Advantage of having a growth standard such as WHO 2006 charts is that children of all countries, races, ethnicity can be compared against a single standard thus assessment becomes more objective and easy to compare. 
-- The disadvantage of using charts such as these is that they are likely to over diagnose underweight and stunting in a large number of apparently normal children[8] in the developing countries such as India.
-Advantage of a reference is that they are true representative
-of the existing growth pattern of children and allow us
-to study the secular trend in terms of height, weight, and
-obesity. The downside of reference curves is that they need
-to be updated at least once in a decade and in modern times
-as obesity is on the rise they are likely to define overweight
-children as normal
 
-Page 3
-WHO recommends using -2Z (3rd percentile) scores
-for diagnosis of stunting and underweight and -3Z
-(1st percentile) for the diagnosis of severe stunting and
-severe underweight.
-Use of WHO 2006 growth charts are likely over diagnosed
-stunting or underweight or both in developing countries. In
-a recent multicentric study done on 1493 affluent preschool
-Indian children (selected from all zones of India) published
-by the author the Mean Z scores for height, weight, BMI,
-and weight for height (-0.75(1.1), -0.59(1.1), –0.19(1.22)
-and -0.26(1.18), respectively) were below the WHO 2006
-standards. The overall incidence of stunting was 13.6% and
-underweight was 8.5% amongst affluent Indian children
-under the age of five years. This percentage is likely to be
-higher in rural areas and in under privileged urban areas
-although at the present time no such data is available from
-India.
-Page 5
-Rao S. Nutritional status of the Indian population. J Biosci
-2001;26:481-9
-Page 6
-Agarwal DK, Agarwal KN, Upadhyay SK, Mittal R, Prakash R, Rai S.
-Physical and sexual growth pattern of affluent Indian children from
-5-18 years of age. Indian Pediatr 1992;29:1203-82.
-Agarwal DK, Agarwal KN. Physical growth in Indian affluent children
-(Birth – 6 years). Indian Pediatr 1994;31:377-413.
+
+
+# #readinglist 
+- Rao S. Nutritional status of the Indian population. J Biosci 2001;26:481-9  Agarwal DK, Agarwal KN, Upadhyay SK, Mittal R, Prakash R, Rai S.
+- Physical and sexual growth pattern of affluent Indian children from 5-18 years of age. Indian Pediatrics 1992;29:1203-82.
+- Agarwal DK, Agarwal KN. Physical growth in Indian affluent children(Birth – 6 years). Indian Pediatrics 1994;31:377-413.
