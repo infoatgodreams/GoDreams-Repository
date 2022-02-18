@@ -6,62 +6,44 @@ title: |
 
 *Source: [*Budget for Children 2022-23 Analysis*](https://drive.google.com/file/d/1dLv6dVrUjUXisEWIHisCS4MHficDf4yz/view?usp=sharing)by HAQ: Centre for Child Rights
 
-Key Highlights
---------------
+# Key Highlights
 
--   Budget for Children (BfC) share is the lowest share in the last 11 years i.e **2.35% vs 2.46% last year. **
 
--   In absolute terms, the allocation is **INR 92,736 Crore** (Union Budget 2022-23) against **INR 85,712.56 Crore** (Union Budget 2021-22). Although this is an 8.19% increase in absolute terms, the increase is not proportionate to the increase in the Union Budget which is an overall increase of 13.25%
+- Budget for Children (BfC) share is the lowest share in the last 11 years i.e **2.35% vs 2.46% last year. **
 
--   The share of Budget for Children (BfC) is 2.35% of the Union Budget 2022-23, a fall of **0.11% points** from the share of the previous year.
+- In absolute terms, the allocation is **INR 92,736 Crore** (Union Budget 2022-23) against **INR 85,712.56 Crore** (Union Budget 2021-22). Although this is an 8.19% increase in absolute terms, the increase is not proportionate to the increase in the Union Budget which is an overall increase of 13.25%
 
--   In terms of the sectoral share, **Child Health, Education and Development** continues to receive reduced allocation in the Union Budget 2022-23 while the share of **Child Protection** has seen a marginal increase of **0.01 %** (i.e 0.04% vs 0.03% last year)
+- The share of Budget for Children (BfC) is 2.35% of the Union Budget 2022-23, a fall of **0.11% points** from the share of the previous year.
 
-> Trend of share of Budget for Children over the years
+- In terms of the sectoral share, **Child Health, Education and Development** continues to receive reduced allocation in the Union Budget 2022-23 while the share of **Child Protection** has seen a marginal increase of **0.01 %** (i.e 0.04% vs 0.03% last year)
 
-![](media/image1.png){width="3.7522069116360455in"
-height="2.5712674978127734in"}
+- **Trend of share of Budget for Children over the years**
+**![](https://lh6.googleusercontent.com/gC3nEhV1w5hzvGQwfR-4FKZmRrdSXXiE_y5H4Y-HZh-iH3OFkhZXoaOe3u2issVc5VBxwLXj4X4xcTaoExfh8RkrmBSBw0ncsKU2a15FDaaYmuehgCckF8AXfbNF32WCeeLm8FRf)
 
-> Trend of Sectoral Share across the years (Health, Development,
-> Education & Protection)
+- **Trend of Sectoral Share across the years (Health, Development,
+ Education & Protection)**
 
-![](media/image6.png){width="6.132405949256343in"
-height="2.3723906386701663in"}
+**![](https://lh3.googleusercontent.com/r1mY99whXoJajZllPTsHl_G2cQciow6uSJFCBhWAU7ON5b3PB0SmwjatK2kF5hrrFaHgUd0jj2pFVjMR63So__gOj--SYYAniOs7tg8WyR3DavFlRq_5PkCzZEBHn1jPZJN2hyl5)
 
--   Within BfC, **Educatio**n receives the maximum allocation of more
-    > than 75% while **Child Health** (3.7%) and **Child
-    > Development** (19.22) have seen reduced share since last year
-    > while **Child Protection** (1.7%) receives marginal
-    > increase.![](media/image3.png){width="5.917020997375328in"
-    > height="2.2656255468066493in"}
+-   Within BfC,  **[[Education]]** receives the maximum allocation of more than 75% while **Child Health** (3.7%[Physical Health](Volume%201/Roll%20Ups/Physical%20Health.md)) and [[Child Development]](19.22) have seen reduced share since last year while **Child Protection** [Child Safety](Child%20Safety) (1.7%) receives marginal increase:
+**![](https://lh5.googleusercontent.com/TtsWT2HS87xQqA7jTXt1mQtPW5D1Hw_na_OoZLg2rqXa__ux2novlggPl-HBfLmFCRgT6ia4qtcWCXZCENkJiOfBjTFvSbBQC4tP5RF72l5xM1Rb0Zb4CZ7k8JRK2Z9HeQANbVzb)**
 
-<!-- -->
 
--   The **Ministry of Women and Child Development** has observed a
-    > reduced allocation of **INR 18,858.67 Crore**, a **significant
-    > reduction** of **7.56%**
+-   The **Ministry of Women and Child Development** has observed a reduced allocation of **INR 18,858.67 Crore**, a **significant reduction** of **7.56%**
 
-> ![](media/image2.png){width="5.899978127734033in"
-> height="4.564453193350831in"}
+**![](https://lh6.googleusercontent.com/dHItYNvMfMxSYT1lzPY0TCAyFkduaiMsnSvvApffWjrn5nBTbDbL-Stm08oiJvSJBVEb2W2-g_tpgpcnJuzqNF8FAQ06bqEjWoZ_tHyWPvOL14HZvKGj9xQ0yMRBc0HPGxl9TV-I)**
 
--   No. of schemes have gone up (**upto 159)** but the share of budget
-    > allocation continues to fall.
 
- Child Protection Deep Dive
----------------------------
+-  No. of schemes have gone up (**upto 159)** but the share of budget allocation continues to fall.
 
-![](media/image5.png){width="5.635416666666667in"
-height="3.5208333333333335in"}
+ # Child Protection Deep Dive
 
--   Children protection has been **one of the least prioritized
-    > sectors** in terms of resource allocation over the years.
+**![](https://lh4.googleusercontent.com/xIaLQBYPbE7B6jVpotAvweFhU0vD1bVO7BrDpetJ2DYf04hYgJ5VLQUkWobN3-7ektlupyZ49OjWA6za9ryC8J_uJ9eH-tXV1iU17YGgP4ubx7v3yIVsifrfjNWQnfA4HQi_MoxX)**
+- Children protection has been **one of the least prioritized sectors** in terms of resource allocation over the years.
 
--   In 2022-23, child protection has received **only 0.04 per cent** of
-    > the total Union Budget
+- In 2022-23, child protection has received **only 0.04 per cent** of the total Union Budget
 
--   In absolute terms this is **INR 1,583.82 Crores** which is a 44.7%
-    > increase but in the context of the rising child protection needs
-    > due to the pandemic, this is insufficient.
+- In absolute terms this is **INR 1,583.82 Crores** which is a 44.7% increase but in the context of the rising child protection needs due to the pandemic, this is insufficient.
 
 -   In order to understand the **inadequateness of child protection
     > allocations**, it will be pertinent to take a look at the
