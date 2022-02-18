@@ -168,6 +168,7 @@ To help ensure index scores are comparable from year to year and that countries 
 * In total, 186 countries had sufficient data to be ranked. 106 countries have data for all eight indicators. 35 countries are missing one indicator. 45 countries are missing two indicators, 39 of which are high-income countries. For countries lacking stunting, out-of-school or child labor data, the normalized score for their under-5 mortality rate was used in place of the missing value(s). 
 * Under-5 mortality is the leading indicator of child well-being and is strongly correlated with these three indicators. .
 * For countries lacking child marriage data, the normalized score for their adolescent birth rate was ascribed. These two indicators are also highly correlated.
+* Syria’s score for displacement is the only exception. Because this year’s estimate (74.5%) exceeds the “worst” possible score of 65.4, Syria’s normalized score is actually negative (-0.14).
 
 **PREVALENCE THRESHOLDS AND PERFORMANCE BANDS**
 
@@ -179,11 +180,19 @@ The End of Childhood Index presents data for the world as a whole and for variou
 
 **LIMITATIONS AND CAVEATS**
 
-This index focuses only on the most significant enders for which reliable and comparable data are widely available. Some indicators (e.g., sexual violence, trafficking, hazardous work) would have been included had there been sufficient data. Others (e.g., incarceration, orphanhood, migration, bullying, corporal punishment, substance use) had data but weren’t included because they do not necessarily – in and of themselves – signal the end of childhood. A child who is incarcerated, for example, can receive substantial rehabilitation services including counseling, schooling and a reliable network of caring adults. Many potential indicators (e.g., child abuse) were also discarded due to data quality concern.  Many potential indicators (e.g., child abuse) were also discarded due to data quality concerns or because they were not the most relevant indicator for the ender in question (e.g., suicide for child dies).
+- This index focuses only on the most significant enders for which reliable and comparable data are widely available. 
+	- Some indicators (e.g., sexual violence, trafficking, hazardous work) would have been included had there been sufficient data. 
+	- Others (e.g., incarceration, **orphanhood,** migration, bullying, corporal punishment, substance use) had data but weren’t included because **they do not necessarily – in and of themselves – signal the end of childhood.** 
+	- **A child who is incarcerated, for example, can receive substantial rehabilitation services including counseling, schooling and a reliable network of caring adults**. 
 
-This does not mean that children who experience enders are not still children or that they cannot still enjoy some aspects of childhood. A child who is out of school, for example, may still learn other skills at home. Refugee children still play and may study if the right policies and programs are in place. And even though they have taken on adult roles and responsibilities, child brides and teen mothers are still children entitled to protection and support.
+- Many potential indicators (e.g., child abuse) were also discarded due to data quality concerns or because they were not the most relevant indicator for the ender in question (e.g., suicide for child dies).
 
-Syria’s score for displacement is the only exception. Because this year’s estimate (74.5%) exceeds the “worst” possible score of 65.4, Syria’s normalized score is actually negative (-0.14).
+- This does not mean that children who experience enders are not still children or that they cannot still enjoy some aspects of childhood. 
+	- A child who is out of school, for example, may still learn other skills at home.
+	- Refugee children still play and may study if the right policies and programs are in place.
+	- And even though they have taken on adult roles and responsibilities, child brides and teen mothers are still children entitled to protection and support.
+
+
 
 # #readinglist 
 

@@ -6,13 +6,9 @@ title: Prerana Institutional Care Model
 
 **BY PRERANA**
 
-[***LINK TO HIGHLIGHTED
-PDF***](https://drive.google.com/file/d/1zqfW1O_NL_VLZnmZ3XiUuIIgEvXZi5J2/view?usp=sharing)
+[***LINK TO HIGHLIGHTED PDF***](https://drive.google.com/file/d/1zqfW1O_NL_VLZnmZ3XiUuIIgEvXZi5J2/view?usp=sharing)
 
-*67 pages brought down to 26 pages*
-
-**About Prerana:** For over three decades now Prerana has been working
-in the midst of the red-light areas with the actual and potential
+**About Prerana:** For over three decades now Prerana has been working in the midst of the red-light areas with the actual and potential
 victims of CSE&T. By 1996 we started actively intervening in the domain
 of Post Rescue Operations. The intervention became intense and started
 yielding success stories thereby consolidating our self-conﬁdence and
