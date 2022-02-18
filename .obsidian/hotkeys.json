@@ -60,5 +60,14 @@
       ],
       "key": "ArrowLeft"
     }
+  ],
+  "obsidian-excel-to-markdown-table:excel-to-markdown-table": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
   ]
 }
