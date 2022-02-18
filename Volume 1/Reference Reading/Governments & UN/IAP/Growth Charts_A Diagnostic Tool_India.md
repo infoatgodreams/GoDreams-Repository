@@ -9,39 +9,19 @@ tags:
 
 
 
-Page 1
-Growth charts: A diagnostic tool
-Department of Pediatric Endocrinology, Hirabai Cowasji Jehangir Medical Research Institute, Jehangir Hospital, Pune, Maharashtra, India
-Basics of growth charts and importance of
-anthropometric measurements are described. A comparison between growth standards and references is provided. Further, Indian
-growth reference curves based on the data collected by Agarwal et al. and adopted by the Indian Academy of Pediatrics, World Health
-Organization growth standards for children under the age of 5 years (2006) and contemporary Indian growth references published
-on apparently healthy affluent Indian children (data collected in 2007-08) are discussed.
-Results and Conclusions:
-For the assessment of height, weight and BMI, WHO growth standards (for children < 5 years) and contemporary cross sectional
-reference percentile curves (for children from 5-18 years) are available for clinical use and for research purposes. BMI percentiles
-(adjusted for the Asian adult BMI equivalent cut-offs) for the assessment of physical growth of present day Indian children are also
-available.
-LMS values and Microsoft excel macro for calculating SD scores can be obtained from the author (email: vamankhadilkar@
-gmail.com). Contemporary growth charts can be obtained by sending a message to 08861201183 or email: gntd@novonordisk.com.
-The
-previously available growth reference curves in India were
-based on the data collected by Agarwal et al. in 1989 which
-were published in 1992 and 1994 and were then adopted by
-the Indian Academy of Pediatrics for growth monitoring
-in 2007.
-Page 2
-Standard growth
-chart has 7 percentile lines and include 3rd, 10th, 25th, 50th,
-75th, and 97th percentiles. These percentiles are standard
-for height and weight charts. Any individual who is below
-3rd and above 97th percentile is considered out of normal
-range. For the BMI charts, however, there are 85th and
-95th percentile lines which indicate overweight and obesity
-cut offs.
-Proportion charts use Z score lines instead of
-percentile lines and discrepancy of more than 2Z scores in
-the upper and lower segment is considered abnormal
+**Scope:** 
+- This is Department of Pediatric Endocrinology, Hirabai Cowasji Jehangir Medical Research Institute, Jehangir Hospital, Pune, Maharashtra, India.
+-  Basics of growth charts and importance of anthropometric measurements are described. 
+- A comparison between growth standards and references is provided. Further, Indian growth reference curves based on the data collected by Agarwal et al. and adopted by the Indian Academy of Pediatrics, World Health
+- Organization growth standards for children under the age of 5 years (2006) and contemporary Indian growth references published on apparently healthy affluent Indian children (data collected in 2007-08) are discussed.
+
+**Results and Conclusions:**
+- For the assessment of height, weight and BMI, WHO growth standards (for children < 5 years) and contemporary cross sectional reference percentile curves (for children from 5-18 years) are available for clinical use and for research purposes. BMI percentiles (adjusted for the Asian adult BMI equivalent cut-offs) for the assessment of physical growth of present day Indian children are also available.
+- LMS values and Microsoft excel macro for calculating SD scores can be obtained from the author (email: vamankhadilkar@gmail.com). Contemporary growth charts can be obtained by sending a message to 08861201183 or email: gntd@novonordisk.com.
+- The previously available growth reference curves in India were based on the data collected by Agarwal et al. in 1989 which were published in 1992 and 1994 and were then adopted by the Indian Academy of Pediatrics for growth monitoring in 2007.
+- Standard growth chart has 7 percentile lines and include 3rd, 10th, 25th, 50th, 75th, and 97th percentiles. These percentiles are standard for height and weight charts. Any individual who is below 3rd and above 97th percentile is considered out of normal range. 
+	- For the BMI charts, however, there are 85th and95th percentile lines which indicate overweight and obesity cut offs.
+	- Proportion charts use Z score lines instead of percentile lines and discrepancy of more than 2Z scores in the upper and lower segment is considered abnormal
 On
 the growth velocity chart, 25th percentile is the cut off line
 for defining low height velocity.

@@ -16,36 +16,25 @@ tags:
 - Total children between the age of 5 and 18 was 87022 (54086 males) (south 61173, center 3253. east 4507. north 7405 and west 10684)
 	- 143 children out of 61173 from south were randomly selected 33991 (18630 males) were used in the final analysis. 197 children removed as above or below 5 SD on CDC chart as obvious outliers Out of remaining 33794, 646 (329 males) children were removed as they were above + 2 z score for weight for height
 - Growth charts were constructed on 33148 children referencing following publications: 
-
 	- Cross-sectional Growth Curves for Height, Weight and Body Mass Index for Affluent Indian Children, 2007[11]indian Pediatrics 2009 
 	- Mysore Childhood Obesity Study Indian Pediatrics
 	- Determinants of Overweight and Obesity in Affluent Adolescents, Indian Journal of Community Medicine in Surat City, South Gujarat Region, India [17]
 	-  Body Mass Index Cut-offs for Screening for Childhood Overweight and Obesity in Indian Children Pediatrics
 	-  Prevalence of Obesity and Overweight in Urban School Children in Kerala, India , indian Pediatrics
 	-  An anthropometric study on the children of Tripura :Nutritional and health coverage and redefining WHO percentile cut-off points, International Journal of Scientific and  Research publications,international Journal20139498
-	- Are the current Indian growth charts really representative?indian Journal of
-Endo
-Analysis of anthropometric assessment of school children in aSouth |crinology and201419668
-Indian district[21]Metabolism
-Prevalence of Overweight and Obesity Among School Children andindian Pediatrics201418955
-‘Adolescents in Chennai[19]
-aist Circumference Percentiles in 2-18 Year Old Indian Children[14] American Journal of201410842
-Pediatrics
-Page 7
-Comparing the final height and weight data with recent international studies from China, Saudi Arabia, WHO and CDC, it is}
-clear that Indian children are growing almost at par with Chinese and Saudi Arabian children but are still shorter and lighter]
-than their Caucasian counterparts [7,27,28,29]
-urther, Indian children’s stature seems to|
-lbe comparable to Caucasian children until the onset of pubertal years, however, the growth spurt after puberty is attenuated
-in Indian children in both sexes, the effect being more pronounced in girls.
-Thus, the average difference in height between
-Caucasian girls and Indian girls from 5 to 11 years of age is only about 1 cm; however this gap widens to6 cms at 18 years.
-Similar figures in boys are 1 cm from the age of 5 to 12.5 years and 3.5 cm at 18 years. Interestingly, Chinese children also
-show a very similar growth pattern suggesting that this is possibly a characteristic of Asian children [30]. These finding are of|
-particular relevancein interpreting target height and predicting final adult height based on prediction equations, thus
-stressing the need for ethnic specific growth charts.
-The IAP Growth Chart Committee recommends these revised growth charts for height, weight and BMI for assessment of
-growthof 5-18 year old Indian childrento replace the previous IAP growth charts; the rest of the recommendations for]
-Monitoring height and weight remain as per the IAP guidelines publishedin 2007. To define overweight and obesity in
-children from 5-18 years of age, adult equivalent of 23 and 27 cut-off lines as presented in BMI charts here may be used.
-IAP recommends use of WHO Multistandards Growth Reference Study for assessment of children under the age of 5 years.
+	- Are the current Indian growth charts really representative? Analysis of anthropometric assessment of school children in a South Indian district | Indian journal of endocrinology and metabolism
+	- Prevalence of Overweight and Obesity Among School children and adolescents in Chennai, Indian Pediatrics
+	- Waist Circumference Percentiles in 2-18 Year Old Indian Children, American Journal of Pediatrics
+
+**Recommended Charts:**
+
+- 
+
+**Key Conclusions:**
+
+- Comparing the final height and weight data with recent international studies from China, Saudi Arabia, WHO and CDC, it is clear that Indian children are growing almost at par with Chinese and Saudi Arabian children but are still shorter and lighter than their Caucasian counterparts [7,27,28,29]
+- Further, Indian children’s stature seems to be comparable to Caucasian children until the onset of pubertal years, however, the growth spurt after puberty is attenuated in Indian children in both sexes, the effect being more pronounced in girls.
+- Thus, the average difference in height between Caucasian girls and Indian girls from 5 to 11 years of age is only about 1 cm; however this gap widens to6 cms at 18 years.
+- Similar figures in boys are 1 cm from the age of 5 to 12.5 years and 3.5 cm at 18 years. Interestingly, Chinese children also show a very similar growth pattern suggesting that this is possibly a characteristic of Asian children [30]. These finding are of particular relevance in interpreting target height and predicting final adult height based on prediction equations, thus stressing the need for ethnic specific growth charts.
+- The IAP Growth Chart Committee recommends these revised growth charts for height, weight and BMI for assessment of growth of 5-18 year old Indian children to replace the previous IAP growth charts; the rest of the recommendations for Monitoring height and weight remain as per the IAP guidelines published in 2007. To define overweight and obesity in children from 5-18 years of age, adult equivalent of 23 and 27 cut-off lines as presented in BMI charts here may be used.
+- IAP recommends use of WHO Multistandards Growth Reference Study for assessment of children under the age of 5 years.
