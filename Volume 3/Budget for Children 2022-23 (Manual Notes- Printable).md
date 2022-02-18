@@ -82,38 +82,3 @@ title: |
 
 4.  Sex ratio at birth (**SRB**)
 
-National Family Health Survey- 5
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      **Name of Scheme / Mission**                                                      **FY22-23 **              **FY21-22**               **HAQ Observations**
-                                                                                                                                            
-                                                                                        **Current allocation **   **Previous allocation**   
-                                                                                                                                            
-                                                                                        **(%, absolute)**         **(%, absolute)**         
-  --- --------------------------------------------------------------------------------- ------------------------- ------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  1   National Child Labour Programme (NCLP)                                            -75%,                                               Significant reduction despite 2021 being declared as Intl year for elimination of child labour by the UN
-                                                                                                                                            
-                                                                                        INR 30 Crore                                        
-
-  2   Mission Vatsalya                                                                  +63.57%,                  \*,                       While increase in percentage terms, absolute allocation is still lower than what ICPS alone received (INR 1500 Cr) prev. Year. ICPS has been merged under this programme.
-                                                                                                                                            
-                                                                                        INR 1472.17 Cr            INR 1,500 Cr              
-
-  3   **Child Protection Services & Child Welfare Services (**under Mission Vatsalya)   INR 900 Cr                1500 Cr                   ICPS merged under Child Protection Services & Child Welfare Services – which then got merged under Mission Vatsalya.
-
-  4   **Beti Bachao, Beti Padao (BBBP) **                                                                                                   MWCD earmarked 50 lakhs per district (50% of this to be spent on advocacy and innovation at district level). Scheme is being implemented in 235 / 640 districts at the moment.
-                                                                                                                                            
-      *(under SAMBAL component of Mission Shakti)*                                                                                          
-
-  5   SAMBAL component of Mission Shakti                                                INR 562 Crore                                       Includes schemes like One Stop Centre, Nari Adalat, Mahila Police Volunteer, Women’s Helpline
-
-  6   Sakshan Anganwadi & Poshan 2.0 (erstwhile Anganwadi Services under ICDS)          -11.28%,                  \*%,                      The scheme includes:
-                                                                                                                                            
-                                                                                        17,224 *(rounded off)*    19,413 *(rounded off)*    ICDS, Poshan Abhiyan and Scheme for adolescent girls
-
-  7   Samagra Shiksha Abhiyan                                                                                                               Education related scheme that focuses on construction of facilities in schools etc
-
-  8   Child Development Programmes (under the umbrella ICDS)                            -10.97%,                                            Majority of the budget is for Saskshen Anganwadi & Poshan 2.0 - 17,223.61 Cr.
-                                                                                                                                            
-                                                                                        17,826 Cr                                           
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
