@@ -38,42 +38,21 @@ title: |
 
  # Child Protection Deep Dive
 
+### Child Protection Budget Allocation 2022
 **![](https://lh4.googleusercontent.com/xIaLQBYPbE7B6jVpotAvweFhU0vD1bVO7BrDpetJ2DYf04hYgJ5VLQUkWobN3-7ektlupyZ49OjWA6za9ryC8J_uJ9eH-tXV1iU17YGgP4ubx7v3yIVsifrfjNWQnfA4HQi_MoxX)**
 - Children protection has been **one of the least prioritized sectors** in terms of resource allocation over the years.
 	- In 2022-23, child protection has received **only 0.04 per cent** of the total Union Budget
 	- In absolute terms this is **INR 1,583.82 Crores** which is a 44.7% increase but in the context of the rising child protection needs due to the pandemic, this is insufficient.
-	- In order to understand the **inadequateness of child protection
-     allocations**, it will be pertinent to take a look at the allocations towards some of the flagship schemes in the previous years’ budget.
-		 - For example, in the 2019-20 Union Budget, the total allocation for the Integrated Child Protection Scheme (ICPS) was **INR 1500 Crore.** 
-		-  As we moved ahead, the total allocation forthe overall child protection sector is a little more than INR1500 Crore. The question that arises at this point is if the allocation made in the Union Budget 2022- 23 is sufficient to meet  the growing needs of the child protection sector.
+	- In order to understand the **inadequateness of child protection  allocations**, it will be pertinent to take a look at the allocations towards some of the flagship schemes in the previous years’ budget.
+	- For example, in the 2019-20 Union Budget, the total allocation for the Integrated Child Protection Scheme (ICPS) was **INR 1500 Crore.** 
+	- As we moved ahead, the total allocation for the overall child protection sector is a little more than INR 1500 Crore. The question that arises at this point is if the allocation made in the Union Budget 2022- 23 is sufficient to meet  the growing needs of the child protection sector.
 
--   The ChildLine India Foundation reported an **increase in child
-    > marriages** by more than 33% and August alone an increase of more
-    > than 88%.
-
--   Reports from other states such as Jharkhand suggest that the
-    > **number of children trafficked increased by over 600 %** in April
-    > and May, 2020 during the Covid-19 lockdown, when compared to the
-    > same two months in 2019.
-
--   **Kidnapping and Abduction** of children has the highest number of
-    > cases - **54,785** cases.
-
--   It is now an admitted fact that **child labour has seen an upward
-    > trend** during the COVID times as there are enough evidences to
-    > show that many children had to drop out from school to support
-    > their families. The ILO and UNICEF report warns that globally, **9
-    > million additional children are at risk** of being pushed into
-    > child labour by the end of 2022 as a result of the pandemic. A
-    > simulation model shows **this number could rise to 46 million** if
-    > they don’t have access to critical social protection coverage.
-
--   According to UNICEF India, more than **1.5 billion children in India
-    > missed out their schooling** due to COVID-19 restrictions. This
-    > has compelled children to work to support their families. And yet
-    > there is a **massive reduction of 75 per cent** towards the
-    > **National Child Labour Programme** in the Union Budget 2022-23,
-    > which cannot be justified.
+### Change in CNCP in year 2
+-   The ChildLine India Foundation reported an **increase in child marriages** by more than 33% and August alone an increase of more than 88%.
+-   Reports from other states such as Jharkhand suggest that the **number of children trafficked increased by over 600 %** in April and May, 2020 during the Covid-19 lockdown, when compared to the same two months in 2019.
+-   **Kidnapping and Abduction** of children has the highest number of cases - **54,785** cases.
+-   It is now an admitted fact that **child labour has seen an upward trend** during the COVID times as there are enough evidences to show that many children had to drop out from school to support their families. The ILO and UNICEF report warns that globally, **9 million additional children are at risk** of being pushed into child labour by the end of 2022 as a result of the pandemic. A simulation model shows **this number could rise to 46 million** if they don’t have access to critical social protection coverage.
+-   According to UNICEF India, more than **1.5 billion children in India missed out their schooling** due to COVID-19 restrictions. This has compelled children to work to support their families. And yet there is a **massive reduction of 75 per cent** towards the **National Child Labour Programme** in the Union Budget 2022-23, which cannot be justified.
 
 Schemes related to Welfare of Children
 
