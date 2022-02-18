@@ -31,26 +31,28 @@ tags:
 ## BMI for age
 
 ### Girls
-1zfqag2x_N3RneEafru_TOynG4gCFG1iq
+![BMIforagegirls](https://drive.google.com/uc?id=1zfqag2x_N3RneEafru_TOynG4gCFG1iq)
 
 
 ### Boys
-1w4dHGkGdAbg2840fIVg0s_BxM9S-Pw5e\
+![BMIforageboys](https://drive.google.com/uc?id=1w4dHGkGdAbg2840fIVg0s_BxM9S-Pw5e)
 
 
 ## Height for age
 
 ### Girls
-https://drive.google.com/file/d/180TFJuK2rTZUhWXRyNax0cJDIdoSBXux/view?usp=sharing
+![heightforage_girls](https://drive.google.com/uc?id=180TFJuK2rTZUhWXRyNax0cJDIdoSBXux)
 
 ### Boys
-
+![heightforage_boys](https://drive.google.com/uc?id=1UYeWl2QqIlBp2ASe0wGCasGR_EAnk2By)
 ## Weight for age
 
 ### Girls
-https://drive.google.com/file/d/16rlPGOw32dvmblCQttrwTN8168DUUZNT/view?usp=sharing
+![weightforage_girls](https://drive.google.com/uc?id=16rlPGOw32dvmblCQttrwTN8168DUUZNT)
 
 ### Boys
+![weightforage_boys](https://drive.google.com/uc?id=1kj6CofvTuuhW-wjCNBnoxjx9cKg5UGhs)
+
 
 # **Key Conclusions:**
 
