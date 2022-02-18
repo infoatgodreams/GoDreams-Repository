@@ -48,45 +48,31 @@ title: |
 	- As we moved ahead, the total allocation for the overall child protection sector is a little more than INR 1500 Crore. The question that arises at this point is if the allocation made in the Union Budget 2022- 23 is sufficient to meet  the growing needs of the child protection sector.
 
 ### Change in CNCP in year 2
--   The ChildLine India Foundation reported an **increase in child marriages** by more than 33% and August alone an increase of more than 88%.
--   Reports from other states such as Jharkhand suggest that the **number of children trafficked increased by over 600 %** in April and May, 2020 during the Covid-19 lockdown, when compared to the same two months in 2019.
+-  The ChildLine India Foundation reported an **increase in child marriages** by more than 33% and August alone an increase of more than 88%.
+-  Reports from other states such as Jharkhand suggest that the **number of children trafficked increased by over 600 %** in April and May, 2020 during the Covid-19 lockdown, when compared to the same two months in 2019.
 -   **Kidnapping and Abduction** of children has the highest number of cases - **54,785** cases.
--   It is now an admitted fact that **child labour has seen an upward trend** during the COVID times as there are enough evidences to show that many children had to drop out from school to support their families. The ILO and UNICEF report warns that globally, **9 million additional children are at risk** of being pushed into child labour by the end of 2022 as a result of the pandemic. A simulation model shows **this number could rise to 46 million** if they don’t have access to critical social protection coverage.
--   According to UNICEF India, more than **1.5 billion children in India missed out their schooling** due to COVID-19 restrictions. This has compelled children to work to support their families. And yet there is a **massive reduction of 75 per cent** towards the **National Child Labour Programme** in the Union Budget 2022-23, which cannot be justified.
+-  It is now an admitted fact that **child labour has seen an upward trend** during the COVID times as there are enough evidences to show that many children had to drop out from school to support their families. The ILO and UNICEF report warns that globally, **9 million additional children are at risk** of being pushed into child labour by the end of 2022 as a result of the pandemic. A simulation model shows **this number could rise to 46 million** if they don’t have access to critical social protection coverage.
+-  According to UNICEF India, more than **1.5 billion children in India missed out their schooling** due to COVID-19 restrictions. This has compelled children to work to support their families. And yet there is a **massive reduction of 75 per cent** towards the **National Child Labour Programme** in the Union Budget 2022-23, which cannot be justified.
 
-Schemes related to Welfare of Children
+# **Schemes related to Welfare of Children**
 
 -   Mission Vatsalya (ICPS)
-
 -   Mission Shakti
-
-    -   One Stop Centre
-
-    -   Nari Adalat
-
-    -   Mahila Police Volunteer
-
-    -   Women’s Helpline
-
-    -   Beti Bachao, Beti Padhao (BBBP) under SAMBAL component of
-        > Mission Shakti has 50lakh per district 50% of which is for
-        > awareness and innovation. This has been
-
--   Sakshan Anganwadi
-
+-   One Stop Centre
+-   Nari Adalat
+- Mahila Police Volunteer
+- Women’s Helpline
+- Beti Bachao, Beti Padhao (BBBP) under SAMBAL component of Mission Shakti has 50lakh per district 50% of which is for awareness and innovation. 
+- Sakshan Anganwadi
     -   ICDS
-
     -   Poshan Abhiyan
-
     -   Scheme for Adolescent Girls
-
--   Poshan 2.0
-
--   Child Health
-
+- Poshan 2.0
+-  Child Health
     -   NRHM-RCH FlexiPool
 
-4 key Health Outcome Indicators:
+# 4 key Health Outcome Indicators:
+[Assessment Tools](Volume%201/Roll%20Ups/Assessment%20Tools.md)
 
 1.  Neonatal Mortality Rate (**NMR**)
 
