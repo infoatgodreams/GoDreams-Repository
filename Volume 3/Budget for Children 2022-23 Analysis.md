@@ -63,8 +63,7 @@ tags:
 * According to the report, while more girls compared to boys suffer from shortness, anaemia affects 40% of adolescent girls, compared to 18% of boys, and worsens as they get older.
 * Although the Ministry of Health and Family Welfare (MoHFW), Government of India has launched the Anemia Mukt Bharat Programme for accelerating decline in anemia prevalence and to achieve the POSHAN Abhiyaan (2018-20) target of reducing prevalence of anemia among children aged 6-59 months, adolescents and women of reproductive age 15-49 years by 3 percentage points per year, 4the implementation remains tardy.
 
-Anaemia Mukt Bharat Scorecard [[assessment tool]]
-
+Anaemia Mukt Bharat Scorecard [Assessment Tools](Volume%201/Roll%20Ups/Assessment%20Tools.md)
 **A Glimpse into the Realities of Anaemia Mukt Bharat:**
 
 * AMB program is yet to be launched in 18 States and UTs.
