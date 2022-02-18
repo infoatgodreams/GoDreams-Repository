@@ -2,6 +2,7 @@
 title: |
     <span id="_bnu7c98hw6w6" class="anchor"></span>Budget for Children
     2022-23
+author : Gloria
 ---
 
 *Source: [*Budget for Children 2022-23 Analysis*](https://drive.google.com/file/d/1dLv6dVrUjUXisEWIHisCS4MHficDf4yz/view?usp=sharing)by HAQ: Centre for Child Rights
@@ -64,12 +65,12 @@ title: |
 - Women’s Helpline
 - Beti Bachao, Beti Padhao (BBBP) under SAMBAL component of Mission Shakti has 50lakh per district 50% of which is for awareness and innovation. 
 - Sakshan Anganwadi
-    -   ICDS
-    -   Poshan Abhiyan
-    -   Scheme for Adolescent Girls
+-   Scheme for Adolescent Girls
+-   Poshan Abhiyan
+-   ICDS
 - Poshan 2.0
 -  Child Health
-    -   NRHM-RCH FlexiPool
+-  NRHM-RCH FlexiPool
 
 
 |   | Name of Scheme / Mission                                                     | FY22-23<br>Current allocation<br>(%, absolute) | FY21-22<br>Previous allocation<br>(%, absolute) | HAQ Observations                                                                                                                                                               |
