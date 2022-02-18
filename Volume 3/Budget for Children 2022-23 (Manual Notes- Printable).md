@@ -82,3 +82,17 @@ title: |
 
 4.  Sex ratio at birth (**SRB**)
 
+
+| |Name of Scheme / Mission|FY22-23Current allocation(%, absolute)|FY21-22
+Previous allocation
+ (%, absolute)|HAQ Observations|
+|----|----|----|----|----|
+|1|National Child Labour Programme (NCLP)|-75%,INR 30 Crore| |Significant reduction despite 2021 being declared as Intl year for elimination of child labour by the UN|
+|2|Mission Vatsalya|#ERROR!|*,INR 1,500 Cr|While increase in percentage terms, absolute allocation is still lower than what ICPS alone received (INR 1500 Cr) prev. Year. ICPS has been merged under this programme.|
+|3|Child Protection Services & Child Welfare Services (under Mission Vatsalya)|INR 900 Cr|1500 Cr|ICPS merged under Child Protection Services & Child Welfare Services – which then got merged under Mission Vatsalya.|
+|4|Beti Bachao, Beti Padao (BBBP)(under SAMBAL component of Mission Shakti)| | |MWCD earmarked 50 lakhs per district (50% of this to be spent on advocacy and innovation at district level). Scheme is being implemented in 235 / 640 districts at the moment.|
+|5|SAMBAL component of Mission Shakti|INR 562 Crore| |Includes schemes like One Stop Centre, Nari Adalat, Mahila Police Volunteer, Women’s Helpline|
+|6|Sakshan Anganwadi & Poshan 2.0 (erstwhile Anganwadi Services under ICDS)|-11.28%,17,224 (rounded off)|*%,19,413 (rounded off)|The scheme includes:
+ICDS, Poshan Abhiyan and Scheme for adolescent girls|
+|7|Samagra Shiksha Abhiyan| | |Education related scheme that focuses on construction of facilities in schools etc|
+|8|Child Development Programmes (under the umbrella ICDS)|-10.97%,17,826 Cr| |Majority of the budget is for Saskshen Anganwadi & Poshan 2.0 - 17,223.61 Cr.|
