@@ -56,16 +56,7 @@ _Source: [Budget for Children 2022-23 Analysis](https://drive.google.com/file/d/
 * In terms of the sectoral share, **Child Health, Education and Development **continues to receive reduced allocation in the Union Budget 2022-23 while  the share of **Child Protection **has seen a marginal increase of **0.01 %** (i.e 0.04% vs 0.03% last year)
 
                 Trend of share of Budget for Children over the years    
-
-
-          
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
+**![](https://lh6.googleusercontent.com/gC3nEhV1w5hzvGQwfR-4FKZmRrdSXXiE_y5H4Y-HZh-iH3OFkhZXoaOe3u2issVc5VBxwLXj4X4xcTaoExfh8RkrmBSBw0ncsKU2a15FDaaYmuehgCckF8AXfbNF32WCeeLm8FRf)**
 
     Trend of Sectoral Share across the years (Health, Development, Education & Protection)
 
@@ -143,8 +134,6 @@ Schemes related to Welfare of Children
     * NRHM-RCH FlexiPool
 
 4 key Health Outcome Indicators: 
-
-
 
 1. Neonatal Mortality Rate (**NMR**)
 2. Under-five mortality rate (**U5MR**)
