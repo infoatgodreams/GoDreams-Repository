@@ -37,7 +37,7 @@ This report examines the many factors that rob children of their childhoods and 
 * The United States badly trails nearly all other advanced countries in helping children reach their full potential. The U.S. score of 948 puts it at least 25 points behind most Western European countries. Countries with similar scores include Bahrain, China, Montenegro, Qatar, Russia and Slovakia.
 * It should be noted that data in the End of Childhood Index are almost all from years prior to COVID-19, so they provide a baseline for how the world’s children were doing before the pandemic hit.
 * The rankings reflect where children are most likely to experience extreme poverty and inadequate safety nets. These children are the world’s most vulnerable. As such, they are particularly unable to withstand the additional assaults to their well-being that COVID introduces: intensified poverty, increased hunger, reduced health care and schooling, and the diminished presence of caring, healthy adults in their lives. 1
-* The End of Childhood Index may be used as a** tool to help decision-makers target investments** **to children **who are most in need of care, protection and special services that allow them to overcome the compounding disadvantages they face when the effects of chronic marginalization and COVID interact.
+* The End of Childhood Index may be used as a **tool to help decision-makers target investments to children** who are most in need of care, protection and special services that allow them to overcome the compounding disadvantages they face when the effects of chronic marginalization and COVID interact.
 
 
 ## WHAT DO THE SCORES MEAN?
@@ -45,8 +45,6 @@ This report examines the many factors that rob children of their childhoods and 
 End of Childhood Index scores for countries are calculated on a scale of 1 to 1,000. The scores measure the extent to which children in each country experience **“childhood enders” **such as **death, chronic malnutrition, being out of school and being forced into adult roles of work, marriage and motherhood.**
 
 Here’s a quick guide on how to interpret country scores:
-
-
 
 * 940 or above – Few children missing out on childhood 
 * 760 to 939 – Some children missing out on childhood 
@@ -57,8 +55,6 @@ Here’s a quick guide on how to interpret country scores:
 **END OF CHILDHOOD INDEX RANKING 2021**
 
 **Top 10 - WHERE CHILDHOOD IS MOST PROTECTED:**
-
-
 
 1. Singapore
 2. Slovenia
