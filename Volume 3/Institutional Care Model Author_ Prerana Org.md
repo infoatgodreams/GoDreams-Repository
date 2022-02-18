@@ -11,12 +11,9 @@ title: Prerana Institutional Care Model
 
 _67 pages brought down to 26 pages_
 
-**About Prerana:**  For over three decades now Prerana has been working in the midst of the red-light areas with the actual and potential victims of CSE&T. By 1996 we started actively intervening in the domain of Post Rescue Operations. The intervention became intense and started yielding success stories thereby consolidating our self-conﬁdence and faith in positive transformation. In 1999 the idea of setting up an anti-trafﬁcking resource centre started taking shape and was soon launched with the help of the US Government. An ofﬁcer from the US Government, Mr. Mark Taylor encouraged us to set up the ATC. Over the last two decades the ATC has proved its utility and made substantial contributions to the anti-trafﬁcking cause.
+**About Prerana:**  For over three decades now Prerana has been working in the midst of the red-light areas with the actual and potential victims of CSE&T. By 1996 we started actively intervening in the domain of Post Rescue Operations. The intervention became intense and started yielding success stories thereby consolidating our self-conﬁdence and faith in positive transformation. In 1999 the idea of setting up an anti-trafﬁcking resource centre (ATC) started taking shape and was soon launched with the help of the US Government. An ofﬁcer from the US Government, Mr. Mark Taylor encouraged us to set up the ATC. Over the last two decades the ATC has proved its utility and made substantial contributions to the anti-trafﬁcking cause.
 
-**Key People Involved: **
-
-
-
+**Key People Involved:**
 * Dr. Pravin Patkar - Founder
 * Ms. Priti Patkar - Founder
 * Ms. Kashina Kareem - Assistant Director
@@ -30,7 +27,7 @@ _67 pages brought down to 26 pages_
 
 **Glossary:**
 
-1.1. Institutionalization 1
+1.1. [[Volume 3/Institutional Care Model Author_ Prerana Org.md#]]Institutionalization 1
 
 1.2. Child Care Institutions 2
 
