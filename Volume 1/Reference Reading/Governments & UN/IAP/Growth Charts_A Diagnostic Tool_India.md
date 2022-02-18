@@ -27,11 +27,11 @@ tags:
 	- The correlation between Z scores and percentiles can be confusing and in the recent WHO Multicenter Growth Reference (MGRS) 2006 study, these correlations have been spelt out by the WHO.
 	-  WHO 2006 growth charts for children under 5 years is an example of growth standards. They delineate how children of the world under the age of 5 years should grow if most of the controllable variables are kept optimal as opposed to this 1989 Agarwal et al.,[3] data and 2007 Indian growth charts by Khadilkar et al.,[7] for affluent children are an example of growth references which describe how children in India were growing at the given time.
 	- 
-Table 1: Correlation between percentiles and Z scores
-for World Health Organization charts
-Z-ScoreExact percentileRounded percentile
-05050
--115.915
+Table 1: Correlation between percentiles and Z scores for World Health Organization charts 
+
+Z-Score  | Exact percentile | Rounded percentile
+-----|------|-----
+05050 | -115.915 | 
 -22.33
 -30.11
 184.185
