@@ -7,7 +7,7 @@ tags:
 ---
 
 
-**Scope:** 
+# ** Scope:** 
 - The Growth Chart Committee was formed by IAP in January 2014 to design revised growth charts. 
 -  Studies performed on Indian children’s growth, nutritional assessment and anthropometry from upper and middle socioeconomic classes in last decade were identified. 
 - Committee contacted 13 study groups; total number of children in the age group of 5 to 18 years were 87022 (54086 boys). Data from fourteen cities (Agartala, Ahmadabad, Chandigarh, Chennai, Delhi, Hyderabad, Kochi, Kolkata, Madurai, Mumbai, Mysore, Pune, Raipur and Surat) in India were collated.
@@ -21,16 +21,38 @@ tags:
 	- Determinants of Overweight and Obesity in Affluent Adolescents, Indian Journal of Community Medicine in Surat City, South Gujarat Region, India [17]
 	-  Body Mass Index Cut-offs for Screening for Childhood Overweight and Obesity in Indian Children Pediatrics
 	-  Prevalence of Obesity and Overweight in Urban School Children in Kerala, India , indian Pediatrics
-	-  An anthropometric study on the children of Tripura :Nutritional and health coverage and redefining WHO percentile cut-off points, International Journal of Scientific and  Research publications,international Journal20139498
+	-  An anthropometric study on the children of Tripura :Nutritional and health coverage and redefining WHO percentile cut-off points, International Journal of Scientific and  Research publications, international Journal20139498
 	- Are the current Indian growth charts really representative? Analysis of anthropometric assessment of school children in a South Indian district | Indian journal of endocrinology and metabolism
 	- Prevalence of Overweight and Obesity Among School children and adolescents in Chennai, Indian Pediatrics
 	- Waist Circumference Percentiles in 2-18 Year Old Indian Children, American Journal of Pediatrics
 
-**Recommended Charts:**
+# **Recommended Charts:**
 
-- 
+## BMI for age
 
-**Key Conclusions:**
+### Girls
+1zfqag2x_N3RneEafru_TOynG4gCFG1iq
+
+
+### Boys
+1w4dHGkGdAbg2840fIVg0s_BxM9S-Pw5e\
+
+
+## Height for age
+
+### Girls
+https://drive.google.com/file/d/180TFJuK2rTZUhWXRyNax0cJDIdoSBXux/view?usp=sharing
+
+### Boys
+
+## Weight for age
+
+### Girls
+https://drive.google.com/file/d/16rlPGOw32dvmblCQttrwTN8168DUUZNT/view?usp=sharing
+
+### Boys
+
+# **Key Conclusions:**
 
 - Comparing the final height and weight data with recent international studies from China, Saudi Arabia, WHO and CDC, it is clear that Indian children are growing almost at par with Chinese and Saudi Arabian children but are still shorter and lighter than their Caucasian counterparts [7,27,28,29]
 - Further, Indian children’s stature seems to be comparable to Caucasian children until the onset of pubertal years, however, the growth spurt after puberty is attenuated in Indian children in both sexes, the effect being more pronounced in girls.
