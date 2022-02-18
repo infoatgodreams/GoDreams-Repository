@@ -7,8 +7,12 @@
         "id": "74335abfaa045b90",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Reference Reading/Governments & UN/IAP/Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631
+    "width": 377.0093288421631,
+    "collapsed": true
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Volume 1/Reference Reading/Governments & UN/IAP/Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Volume 1/Reference Reading/Governments & UN/IAP/Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -106,6 +113,8 @@
   },
   "active": "74335abfaa045b90",
   "lastOpenFiles": [
+    "Volume 1/Reference Reading/Governments & UN/IAP/Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children.md",
+    "Volume 1/Reference Reading/Governments & UN/IAP/Growth Charts_A Diagnostic Tool_India.md",
     "Volume 1/Reference Reading/Research Papers/Highlights for The nutritional status of children living within institutionalized care _ a systematic review.md",
     "Volume 1/Reference Reading/Research Papers/Highlights for Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
     "Public Resource Links/Queue/The nutritional status of children living within institutionalized care _ a systematic review.pdf",
@@ -113,8 +122,6 @@
     "Public Resource Links/Queue/managing-childrenx27s-homes-developing-effective-leadership-in-small-organisations_compress.pdf",
     "Volume 1/Reference Reading/Governments & UN/Highlights for Guidelines on Alternative Care_UN.md",
     "Public Resource Links/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).pdf",
-    "Public Resource Links/Governments & UN/Guidelines on Alternative Care_UN.pdf",
-    "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md"
+    "Public Resource Links/Governments & UN/Guidelines on Alternative Care_UN.pdf"
   ]
 }
