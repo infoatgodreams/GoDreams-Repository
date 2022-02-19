@@ -12,6 +12,18 @@
           "state": {},
           "pinned": true
         }
+      },
+      {
+        "id": "d1ad1b7dcf9644d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Roll Ups/CCI Operations/CCI FInances.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -67,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Volume 1/Roll Ups/CCI Operations/CCI FInances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Volume 1/Roll Ups/CCI Operations/CCI FInances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,17 +129,17 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "a57ee2fab5dace59",
+  "active": "d1ad1b7dcf9644d0",
   "lastOpenFiles": [
-    "unresolved links output.md",
-    "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Working with Children Sensitively.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Udayan Care/UdayanCare_Standards Of Care in Child Care Institutions.md",
-    "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
-    "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
-    "Volume 1/Reference Reading/Governments & UN/Guidelines on Alternative Care_UN.md",
-    "Volume 1/Reference Reading/CCIs/Intl/Irvington HouseGrowth Potential of Pre-school aged children in institutional care.md",
-    "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md"
+    "Volume 1/Roll Ups/CCI Operations/CCI FInances.md",
+    "Volume 1/Roll Ups/Child Development/Child Lifecycle/Pre-admission to CCIs.md",
+    "Volume 1/Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
+    "Volume 1/Roll Ups/Child Development/Child Lifecycle/Admissions.md",
+    "Volume 1/Roll Ups/Child Development/Observed behavior assessments.md",
+    "Volume 1/Roll Ups/Child Development/Indiscriminately Sociable Behavior.md",
+    "Volume 1/Roll Ups/Child Development/Childrens Committees.md",
+    "Volume 1/Roll Ups/Child Development/ChildParticipation.md",
+    "Volume 1/Roll Ups/Child Development/Child Profile.md",
+    "Volume 1/Roll Ups/Child Development/Child Development.md"
   ]
 }

@@ -82,11 +82,7 @@ title: Home - CAP Design Portal
 
 
 # Topic Roll Ups: 
-- [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)
-- [Physical Health](Volume%201/Roll%20Ups/Physical%20Health.md)
-- [Nutrition](Volume%201/Roll%20Ups/Nutrition.md)
-- [Reading List](Volume%201/Roll%20Ups/Reading%20List.md)
-- [Risks](Volume%201/Roll%20Ups/Risks.md)
+- 
 
 # Logs
 - [Navneeths Log](Volume%201/Daily%20Log/Navneeths%20Log.md)
