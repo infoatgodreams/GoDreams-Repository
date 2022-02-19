@@ -9,15 +9,21 @@ Link: https://drive.google.com/file/d/1lIj3c08kiHUy9WmxQ4Usc1TNC4KLm_T4/view?usp
 
 Context: To determine the childcare practices, morbidity status and nutrition status of preschool children 24-59 months of age living in orphanages in Kwale County,Kenya. A cross-sectional analytical study was conducted on a comprehensive sampleof 162 children and 45 caregivers, drawn from a sample of 14 out of the 21orphanages in Kwale County, Kenya. (Page 14)
 
-# What are the determinants? 
+# What are the key determinants? 
 
-- According to this framework, dietary intake and health status are immediate determinants of child's nutrition status. (Page 21)
-- Adequate dietary intake and good health statustranslate to good nutrition status of the child. (Page 21)
-- Prevailing conditions in orphanages may predispose children to increased prevalenceof malnutrition and infectious diseases like diarrhoea and respiratory tract infectionsUnavailability of safe and nutritious foods in orphanage set up and access to safewater are likely to lead to increase levels of malnutrition among children. (Page 22)
-- However, studies haveestablished that most caregivers lack nutrition awareness and that once a child reachespreschool age, caregivers divert their attention from the children to other matters andcare giving becomes a secondary issue. Thus, the nutrition needs are neglected (Mile,Milena and Biljana, 2013). (Page 26)
-- The consumption of a varied diet and frequency of feeding are important indicatorsfor the attainment of adequate dietary intake. (Page 26)
-- Child malnutrition is associated with susceptibility to infection and as a result manychildren are more likely to be prone to common childhood ailments such as diarrhoeaand respiratory infections; and for those who survive, frequent illness affects theirnutrition status due to lowered resistance to infections (Page 27)
-- Hand washing is effective in minimizing incidence of diseases such as cholera anddiarrhoea among children. It also reduces deaths from diarrhoea and acute respiratoryinfections by almost half and one quarter respectively (Page 28)
+- According to this framework, **dietary intake and health status** are immediate determinants of child's nutrition status. (Page 21)
+- Adequate dietary intake and good health status translate to good nutrition status of the child. (Page 21)
+- The consumption of a varied diet and frequency of feeding are important indicators for the attainment of adequate dietary intake. (Page 26)
+
+
+# Current realities in orphanages
+
+- Prevailing conditions in orphanages may predispose children to increased prevalence of malnutrition and infectious diseases like diarrhoea and respiratory tract infectionsUnavailability of safe and nutritious foods in orphanage set up and access to safewater are likely to lead to increase levels of malnutrition among children. (Page 22) 
+- However, studies have established that most caregivers lack nutrition awareness and that once a child reaches preschool age, caregivers divert their attention from the children to other matters andcare giving becomes a secondary issue. Thus, the nutrition needs are neglected (Mile,Milena and Biljana, 2013). (Page 26)
+- Child malnutrition is associated with susceptibility to infection and as a result many children are more likely to be prone to common childhood ailments such as diarrhoea and respiratory infections; and for those who survive, frequent illness affects their nutrition status due to lowered resistance to infections (Page 27)
+
+# Recommendations
+- Hand washing is effective in minimizing incidence of diseases such as cholera and diarrhoea among children. It also reduces deaths from diarrhoea and acute respiratory infections by almost half and one quarter respectively (Page 28)
 - Furthermore, when less than 40 children share one latrine is usuallyconsidered fair, forty to one hundred children using one latrine is classified bad and100 children sharing a single latrine is dangerous (Page 28)
 - Various studies have shown that illness among children in orphanages is higher (30%)especially diarrheal disease compared with 7 % in non-orphanage children. It has alsobeen shown that more boys are usually stunted with high morbidity rates than girls (Page 28)
 - In a study carried out inBotswana (Misra & Bignami, 2008) it was found that children in orphanages were49% more likely to be underweight than non-orphanage children. The findingsconcurred with those of Lindblade et al. (2003) in Malawi where it was demonstratedthat the prevalence of malnutrition in children in orphanages (below 6 years old) was55% compared with 30% of non-orphanage children. (Page 29)
