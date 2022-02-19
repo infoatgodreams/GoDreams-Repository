@@ -7,7 +7,7 @@
   "newLinkFormat": "absolute",
   "attachmentFolderPath": "Volume 2/Volume 2 Public Resource Links",
   "spellcheck": true,
-  "foldHeading": false,
+  "foldHeading": true,
   "foldIndent": false,
   "showFrontmatter": true,
   "readableLineLength": false,
@@ -17,5 +17,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "lineWrap": true
 }

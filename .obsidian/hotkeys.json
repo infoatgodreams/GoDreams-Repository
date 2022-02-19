@@ -61,13 +61,13 @@
       "key": "ArrowLeft"
     }
   ],
-  "obsidian-footnotes:insert-footnote": [
+  "obsidian-excel-to-markdown-table:excel-to-markdown-table": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
-      "key": "F"
+      "key": "V"
     }
   ]
 }

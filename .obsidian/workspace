@@ -14,6 +14,54 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "091061ab0b167ceb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Meeting Notes/11-02-2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f2193d11a12d1e62",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Meeting Notes/11-02-2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "90309b904268d84a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Meeting Notes/11-02-2022.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "035e20952e00486b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -69,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,17 +167,17 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "19e2c3477c411ee3",
+  "active": "035e20952e00486b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Meeting Notes/11-02-2022.md",
+    "Meeting Notes/10-02-2022.md",
+    "Meeting Notes/09-02-2022.md",
     "Home.md",
     "Volume 1/Roll Ups/Physical Health.md",
     "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
     "Volume 2/Volume 2 Index.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Home Records.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Physical Health Care.md",
-    "Volume 2/Daily Log/Akshays Log.md",
-    "Volume 2/Volume 2 Public Resource Links/Bonds of Hope-UNICEF_Annotated_Akshay.pdf",
-    "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Institutional Care for Vulnerable Children The Law, Present Scenario, and Way Ahead.md"
+    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Physical Health Care.md"
   ]
 }
