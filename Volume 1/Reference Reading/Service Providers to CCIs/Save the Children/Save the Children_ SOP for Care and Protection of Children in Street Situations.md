@@ -6,7 +6,7 @@ tags:
 - Government
 ---
 
-Link: 
+Link: [Google Drive](https://drive.google.com/file/d/1KkMve5DGLSGCnZEvSZ7SLIgnrffW2UG8/view?usp=sharing)
 # Scope
 - Children living in street situations has been a reality because of lack of collective and concerted efforts by the civil society organizations, law enforcement agencies, juvenile justice authorities and concerned departments, and also due to lack of convergence and application of laws pertaining to children.
 - - “Standard Operating Procedure for Care and Protection of Children in Street Situations 2.0” is an endeavour to strengthen the processes and interventions regarding CiSS in the view that there should not be any child in a street situation; rather, they should be with their families
@@ -116,6 +116,10 @@ Section 2(14) of the JJ Act, 2015 defines child in need of care and protection a
 - In case of a rescue effort, if the number of children rescued is more and transportation/movement isa problem, the CWC may reach out (instead of waiting for the children to be reported to them) to the children so as to ensure their suitable placement. 
 
 ### Production of child before CWC and initial process
+
+![Flowchart on CWC Process](https://drive.google.com/uc?id=1OBZOggIfPBkv-ZA6_GKkJWUlEmr0lAFt)
+
+
 - Inquiry about the Children Produced to CWC
 	- circumstances under which the child was found/ contacted, and the whereabouts of the family.
 	- In Case the **Child is Alone in the Street Situation**
@@ -169,4 +173,3 @@ Section 2(14) of the JJ Act, 2015 defines child in need of care and protection a
 	- The matter pertaining to Aadhaar card for the street families may be decided by the Competent Authority, as provided under the Aadhaar Act, 2016 and ruling of Hon’ble Supreme Court on W.P. (Civil) No. 494 of 2012, connected to “Aadhaar card”, dated 26 September 2018
 	- Biometric verification may be made mandatory for every child found alone or if CWC has apprehension that the guardian/family of the child may not be biological
 	- Possibility for age determination test and issuing of birth certificate/age certificate and Aadhaar cardfor such children so that they can be linked with public distribution system (PDS) and other social protection schemes.
-
