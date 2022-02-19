@@ -27,7 +27,7 @@ _67 pages brought down to 26 pages_
 
 **Glossary:**
 
-1.1. [[Volume 3/Institutional Care Model Author_ Prerana Org.md#]]Institutionalization 1
+1.1. [[Volume 3/Prerana/Institutional Care Model Author_ Prerana Org#]]Institutionalization 1
 
 1.2. Child Care Institutions 2
 

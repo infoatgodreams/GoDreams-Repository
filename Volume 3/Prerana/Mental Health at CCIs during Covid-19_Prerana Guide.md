@@ -10,7 +10,7 @@ title: |
 **Introduction:** Children are often silent victims of any calamity. The pandemic and the unprecedented measures to contain its spread are disrupting nearly every aspect of children’s lives: their health, development, learning, behavior, their families’ economic security, and their protection from violence and abuse.
 
 
-#### General psychological concerns during COVID-19:
+## General psychological concerns during COVID-19:
 1. **Loss of social networks:** We normally deal with challenges and adverse situations by accessing our social networks.
 2. **Decreased access to coping resources**: In addition to limited access to social networks, people are also unable to access essential coping resources such as hobbies and activities that they engage in to de-stress.
 3. **Loneliness and mental health concerns:** Indian Psychiatric Society has found a 20% increase in mental health concerns since the Coronavirus outbreak in India.
@@ -44,7 +44,7 @@ title: |
 * **Increased exposure to negative information**: News reports and social media are filled with information about COVID related deaths, negligence of the citizens, suffering of the others, etc.
 
 
-#### Psychological concerns of children residing in CCIs
+### Psychological concerns of children residing in CCIs
 * **Feelings of isolation**: 
     * Many children are experiencing loneliness as their normal routine continues to be put on hold due to the COVID-19 imposed restrictions. 
     * Children are unable to maintain essential social interactions as schools remain shut, they are unable to meet visitors, donors, or even interact with their family members.
@@ -71,42 +71,39 @@ title: |
 	* Worried about their families income
 	* Experiencing guilt of not being with their family or in anticipatory grief that they might not have been able to say goodbye.
 	* In situations where the loved one of a child may pass away, the child may experience intense grief.
-* Concern about being a burden on their families in times of extreme financial crisis 
+	* Concern about being a burden on their families in times of extreme financial crisis 
 * **Behavioral concerns:** Children are experiencing severe distress and it often manifests in their behavior.
-* Mood fluctuations i.e.
-* Unwillingness to do chores.
-* Decreased interest in activities.
-* Seeking the comfort of adult caregivers i.e sitting next to them, following them around etc.
-* Decrease in hygiene.
-* Inability to concentrate on activities.
-* Increased impulsivity and reckless behavior i.e.
-* **Anticipatory and disenfranchised grief: **Experiencing difficulty in verbally articulating experiences of grief over events. These feelings may be  manifested in children’s behavior.
+	* Mood fluctuations i.e.
+	* Unwillingness to do chores.
+	* Decreased interest in activities.
+	* Seeking the comfort of adult caregivers i.e sitting next to them, following them around etc.
+	* Decrease in hygiene.
+	* Inability to concentrate on activities.
+	* Increased impulsivity and reckless behavior i.e.
+* **Anticipatory and disenfranchised grief**: Experiencing difficulty in verbally articulating experiences of grief over events. These feelings may be  manifested in children’s behavior.
 * **Children with special needs**: Children with special needs may find it more difficult to accept the information and adjust to the new normal. They may begin to show a decline in their progress. They are also more likely to be frustrated but find it difficult to articulate the same resorting to self-harm
 * **Relapse to pre-existing mental illness**
 * **Insensitivity of Caregivers:** The lack of sensitive communication with the children may lead to additional feelings of distress among them.
 * **Fear of stigma or discrimination:** Children may have a fear of stigma or discrimination if they have flu-like symptoms.
 
 
-#### Strategies of intervention for children in CCIs:
-
-
-
+## Strategies of intervention for children in CCIs:
 * **Increased and regular contact of children with their families:**
     * Set up a regular routine for phone calls, if possible use video calls.
     * Ensure each child is able to talk to their family for 15 minutes.
     * Trying being as flexible as possible with the timings if there is a need.
 * Teach children self care
 * **Encourage flexibility:** When establishing the child's routine encourage their participation in the same. The goal of the routine should focus on the child's well- being.
-* **Focusing on improving productivity **may not be beneficial at this time as the child is under a great amount of stress.
-* **Digital Access: **It is important to limit digital access for the children to help them deal with their stresses. Note: Why limit digital access?
+* **Focusing on improving productivity** may not be beneficial at this time as the child is under a great amount of stress.
+* **Digital Access:** It is important to limit digital access for the children to help them deal with their stresses. ==Note: Why limit digital access?==
 * **Increased sensitivity in communication**
-* Be empathetic when communicating with children.
-* Refrain from making false promises and assurances i.e.
-* Provide accurate, concrete and age-appropriate information regarding COVID-19.
-* Regular and patient repetition of all information shared is required.
-* Appreciate efforts during these tough times.
-* Discourage the narrative of productivity 
-* End conversations on a positive note
+	* Be empathetic when communicating with children.
+	* Refrain from making false promises and assurances i.e.
+	* Provide accurate, concrete and age-appropriate information regarding COVID-19.
+	* Regular and patient repetition of all information shared is required.
+	* Appreciate efforts during these tough times.
+	* Discourage the narrative of productivity 
+	* End conversations on a positive note
 * **Helping a child find a safe place/person**: This helps children experience internal stability in times of stressful situations. children could be asked to make a crib of their own near their bed or choose a place in the CCI which they find calming or approach someone they feel safe speaking to.
 * **Encourage regular use of coping strategies:** Coping strategies such as art-based activities, journaling, physical activity, mindfulness etc. can be added to the child's daily routine.
 * **Discussing news regularly (in an age-appropriate way):** This should be done only if the child requests for information. It is important to stick to facts and not pass on one's personal perceptions of the situation to the children.
@@ -115,10 +112,8 @@ title: |
 * Using affirmations with the child by encouraging them to do the same.
 
 
-#### Self care tips for Caregivers
-
-
-
+## Self care tips for Caregivers
+[Caregiving](Caregiving)
 * Get 8 hours of sleep.
 * Drink adequate water and make sure you are eating healthy meals.
 * Be self compassionate: You are also going through a difficult time, it's okay to struggle
