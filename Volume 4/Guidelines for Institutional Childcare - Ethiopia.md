@@ -1,32 +1,28 @@
+---
+title: Guidelines for Institutional Care Ethiopia
+author: Govt of Ethiopia
+tags :
+- Government
+---
+Tags: #Practitioner #Government #Manual 
+Link: https://drive.google.com/file/d/1qP7Hxnor9J8aFLV1INEfHAYGeFyk19Oc/view
+
+Context: This paper was made in 1998 and covers the different care practices (including alternative care methods)
 
 
-This paper was made in 1998 and covers the different care practices (including alternative care methods)
+# The Need for the Guideline
 
-Highlighted PDF: [Here](https://drive.google.com/file/d/1qP7Hxnor9J8aFLV1INEfHAYGeFyk19Oc/view?usp=sharing)
-
-
-# INSTITUTIONAL CARE
-
-
-## The Need for the Guideline
-
-
-
-1. Upgrade the existing services of childcare institutions; set regulations for service provision as well as requirements for establishment of childcare institution;
-2. Define optimal level of performance or practice on institutional childcare to achieve standards of excellence; and
-3. Create favorable conditions for efficient monitoring and evaluation of the services in childcare institutions.
+- Upgrade the existing services of childcare institutions; set regulations for service provision as well as requirements for establishment of childcare institution
+- Define optimal level of performance or practice on institutional childcare to achieve standards of excellence; and
+- Create favorable conditions for efficient monitoring and evaluation of the services in childcare institutions.
 
 Note: This guideline is based on UN Convention on the Rights of the Child and the Ethiopian laws
 
 Note [page 3]: In this document - children who are orphaned or abandoned or ill are old included. Does not include families who financially struggle to look after children
 
 
-## Specific Objectives/Childcare Focussed input areas
-
+# Childhood input areas
 The specific objectives of a childcare institution shall include the provision of:
-
-
-
 * food
 * loading
 * clothing
@@ -41,8 +37,6 @@ The specific objectives of a childcare institution shall include the provision o
 
 ## Areas of involvement of a childcare institution
 
-
-
 * **preventive Intervention** or activities undertaken within the childcare institution to avoid or avert the development of undesirable psycho- social, health, economic, educational, etc., aspects of the unaccompanied children
 * **remedial Intervention** or activities undertaken within the childcare institution to modify undesirable psycho-social, health, economic, educational, etc., aspects of the unaccompanied children
 * **rehabilitative Intervention **or activities undertaken within the childcare institution to restore the psycho-social, health, economic, educational, etc., status of the unaccompanied children
@@ -53,23 +47,17 @@ The specific objectives of a childcare institution shall include the provision o
 * **organising the transfer of the child to other appropriate alternative childcare services** according to the best interest of the child as soon as the child is admitted to the childcare institution.
 
 
-## Infrastructure Requirements
-
+# Infrastructure Requirements
 
 ### Location
 
-Distance from the main road
-
-
-
-    * If the childcare institution is in an urban center, its distance from the main road shall be at least one Kilometer and at most three kilometers.
-    * If the childcare institution is in a rural area and the main road is a dry whether road, its distance from the main road shall not be more than five kilometers.
-    * If the childcare institution is in a rural area and the main road is an all whether road, its distance from the main road shall not be more than ten kilometers.
+- Distance from the main road
+	- If the childcare institution is in an urban center, its distance from the main road shall be at least one Kilometer and at most three kilometers.
+	- if the childcare institution is in a rural area and the main road is a dry whether road, its distance from the main road shall not be more than five kilometers.
+	- If the childcare institution is in a rural area and the main road is an all whether road, its distance from the main road shall not be more than ten kilometers.
 
 
 ### Compound
-
-
 
 * A compound of a childcare institution shall have** adequate space relative to the number of beneficiaries**. 
 * Thus, a childcare institution shall have **adequate space for building** 
@@ -92,15 +80,14 @@ Distance from the main road
 
 ### Building
 
-
-
 * A childcare institution shall, at least, have separate buildings designed for:
     * Lodging
     * administration 
     * guest room 
     * service giving purpose; and
     * recreational facilities.
-* Types of Building / Physical Characteristics
+
+* ### Types of Building / Physical Characteristics
     * **Lodging**
         * Lodging in a childcare institution, preferably, shall be self-contained homes. 
         * Lodgings in a childcare institution shall at least, be constructed from materials that are widely used in the locality.
@@ -152,9 +139,7 @@ Distance from the main road
                 * other indoor facilities common in the locality.
 
 
-## Human Power
-
-
+# Human Power
 
 * To provide an optimal caring environment, a childcare institution shall accommodate a maximum of 150 children and shall, at least, have the following organisational structure and human-power input:
     * Manager / Administrator
@@ -180,9 +165,7 @@ Distance from the main road
     * **Home Mothers:** A Home Mother should complete at least grade six and shall have at least a three months relevant training and a minimum experience of one year as an assistant home mother.
 
 
-## Technical/Administrative aspects
-
-
+# Technical/Administrative aspects
 
 * **Financial System:** A childcare institution shall prepare and approve its standardised financial system during establishment.
 * **Admission: **A childcare institution shall only accept a beneficiary child through the Regional Labour and Social Affairs Bureau or any other authorised organisation.
@@ -239,10 +222,7 @@ Distance from the main road
     * The institution shall activate all institutional capacity and other networks to facilitate the identification of opportunities of social reintegration so to ensure a progressive economical transition.
 
 
-## Services
-
-
-
+# Services offered in a CCI
 * Types of Services
     * A childcare institution shall render the following services to its beneficiaries:
         * Lodging
@@ -263,8 +243,8 @@ Distance from the main road
         * Reintegration; and 
         * Placement in other more appropriate alternative childcare programmes in the best interest of the child.
 * Service Component
-    * **Lodging: **A childcare institution shall provide lodging for the children it provides with care and protection.
-    * **Food Service: **
+    * ### Lodging
+    *  A childcare institution shall provide lodging for the children it provides with care and protection.
         * A childcare institution shall, at least, provide:
             * Milk every two hours for children below four months;
             * Milk and supplementary food every four hours for children between four and twelve months; 
@@ -276,8 +256,8 @@ Distance from the main road
             * as much as possible approximate the quality and quantity of food available in an average household in the community in which the childcare institution is situated.
         * The type, quality and quantity of food served in a childcare institution should be checked by the health assistant.
         * The health assistant should prepare and submit a monthly report to the administration of the childcare institution on the type, quality and quantity of the food served in the childcare institution.
-    * **Clothing**
-        * A childcare institution shall provide various types of clothing for the children including:
+### Clothing
+* A childcare institution shall provide various types of clothing for the children including:
             * personal clothing
             * shoes; and 
             * bed wears
@@ -301,8 +281,8 @@ Distance from the main road
             * school uniform
             * two pair of shoes; and
             * one set of bed wear
-    * **Health Service:**
-        * A childcare institution shall provide health service to beneficiary children. childcare institution shall, at least, have a first-aid giving room.
+### Health
+* A childcare institution shall provide health service to beneficiary children. childcare institution shall, at least, have a first-aid giving room.
         * A health service in a childcare institution shall include:
             * **Preventive health service**
                 * Regular medical check-ups for children below one year
@@ -314,8 +294,8 @@ Distance from the main road
             * **Remedial health service**
                 * First aid; and
                 * Referral.
-    * **Sanitation and Hygiene**
-        * A childcare institution shall make the necessary materials available to beneficiary children regularly.
+### Sanitation and Hygiene 
+* A childcare institution shall make the necessary materials available to beneficiary children regularly.
         * A childcare institution shall, at least, make the following sanitary materials available to beneficiary children.
             * Personal sanitary materials
             * Laundry materials
@@ -327,8 +307,8 @@ Distance from the main road
         * The health assistant should prepare and submit a monthly report on the sanitary condition of the site, homes and/or buildings to the administration of the childcare institution.
         * The health assistant should check the children’s hygiene weekly.
         * The health assistant should prepare and submit a monthly report to the administration of the childcare institution on the children's hygiene.
-    * **Academic Education**
-        * A childcare institution has the responsibility to provide educational opportunities to the children from kindergarten to higher levels of education.
+### Academic training 
+* A childcare institution has the responsibility to provide educational opportunities to the children from kindergarten to higher levels of education.
         * A childcare institution shall have its own kindergarten within the compound of the childcare institution.
         * A childcare institution shall provide all the necessary educational material to the children.
         * A childcare institution shall offer supportive educational services to children with educational difficulties.
@@ -336,8 +316,8 @@ Distance from the main road
         * The counsellor should follow-up the educational development of the children regularly.
         * The counsellor should prepare a quarterly report on the educational development of the children and submit the same to the administration of the childcare institution.
         * A childcare institution shall have a reading room, preferably with some relevant books.
-    * **Vocational Training**
-        * A childcare institution shall make vocational training available to eligible group of children either within the institution or outside.
+### Vocational training
+* A childcare institution shall make vocational training available to eligible group of children either within the institution or outside.
         * The child is considered eligible for a vocational training when he/she at least:
             * is twelve years of age and above
             * has completed grade six
@@ -348,9 +328,10 @@ Distance from the main road
         * The counsellor should follow-up the vocational development of trainees attending vocational training monthly.
         * The counsellor should prepare a quarterly report on the vocational development of children attending vocational training and submit the same to the administration of the childcare institution.
         * A childcare institution shall provide the necessary support to beneficiaries who complete vocational training in securing employment opportunities.
-    * **Play and Recreation: **A childcare institution shall make the necessary play and recreational materials available to the children.
-    * **Guidance and Counselling**
-        * A childcare institution shall provide guidance and counselling service to the children. Guidance and Counselling service in a childcare institution shall include:
+### Play and Recreation
+* A childcare institution shall make the necessary play and recreational materials available to the children.
+### Guidance and Counselling
+* A childcare institution shall provide guidance and counselling service to the children. Guidance and Counselling service in a childcare institution shall include:
             * educational guidance
             * vocational guidance
             * behavioural guidance and counselling; and
@@ -358,7 +339,8 @@ Distance from the main road
         * The counsellor should follow-up psychosocial, educational, etc., development of every child.
         * The counsellor should document the psychosocial, educational, etc., development of every child
         * A childcare institution shall not violate the ethical principles of counselling among which confidentiality is one
-    * **Reunification and Reintegration: **A childcare institution shall provide reunification services for children below 18 years of age and reintegration services for those who are 18 and above.
+### Reunification and Reintegration
+* A childcare institution shall provide reunification services for children below 18 years of age and reintegration services for those who are 18 and above.
         * Reunification services
             * Reunification services shall include:
                 * Family tracing
@@ -379,11 +361,10 @@ Distance from the main road
         * Special Care for Children with Disability: A childcare institution shall provide special services to child beneficiaries with disabilities. These services can be given inside or outside the institution and the services for this group of children include:
             * Provision of Prosthetic Orthetic Appliances (including wheel chairs); and
             * Provision of Special Services (like brail training, special education and skill training).
+* 
 
 
 ## Community Participation
-
-
 
 * The childcare institution shall advocate for children’s rights in the surrounding communities
 * A childcare institution shall facilitate conditions for the children to interact among themselves and for the community to interact with the children in the institution.
