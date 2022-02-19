@@ -11,28 +11,25 @@ title: |
 
 
 #### General psychological concerns during COVID-19:
-
-
-
-1. **Loss of social networks: **We normally deal with challenges and adverse situations by accessing our social networks.
+1. **Loss of social networks:** We normally deal with challenges and adverse situations by accessing our social networks.
 2. **Decreased access to coping resources**: In addition to limited access to social networks, people are also unable to access essential coping resources such as hobbies and activities that they engage in to de-stress.
 3. **Loneliness and mental health concerns:** Indian Psychiatric Society has found a 20% increase in mental health concerns since the Coronavirus outbreak in India.
 4. **Decreased immunity:** Due to COVID-19 stressors of falling sick, inability to access coping resources, changes in our diet, and sleeping patterns along with reduced activity have increased the risk of declining our immunity.
 5. **Mental health impact of the lockdown**: Individuals with no pre-existing conditions may begin to show symptoms of mental health concerns such as:
-* Irritability
-* Mood fluctuation - very low mood to sudden anger
-* Changes in appetite and sleeping patterns
-* Difficulty in concentrating
-* Thoughts of self-harm
-* Increased crying
-* Sitting passively in a corner (physical and mental fatigue)
-* Not being participative in activities that once interested them
-* Physical symptoms of distress:
-    * Sweating 
-    * Sudden body aches 
-    * Racing heartbeat 
-    * Digestive issues - diarrhea 
-    * Tense, shaking limbs
+	* Irritability
+	* Mood fluctuation - very low mood to sudden anger
+	* Changes in appetite and sleeping patterns
+	* Difficulty in concentrating
+	* Thoughts of self-harm
+	* Increased crying
+	* Sitting passively in a corner (physical and mental fatigue)
+	* Not being participative in activities that once interested them
+	* Physical symptoms of distress:
+	    * Sweating 
+	    * Sudden body aches 
+	    * Racing heartbeat 
+	    * Digestive issues - diarrhea 
+	    * Tense, shaking limbs
 * **Fear of falling ill:** Individuals are feeling anxious about falling ill, becoming carriers, or the fear of the death of a loved one. Some behavioral patterns observed have been:
     * Compulsive hand washing and de-sanitizing
     * Obsessive updates about COVID-19 related information, news
@@ -48,9 +45,6 @@ title: |
 
 
 #### Psychological concerns of children residing in CCIs
-
-
-
 * **Feelings of isolation**: 
     * Many children are experiencing loneliness as their normal routine continues to be put on hold due to the COVID-19 imposed restrictions. 
     * Children are unable to maintain essential social interactions as schools remain shut, they are unable to meet visitors, donors, or even interact with their family members.
@@ -64,19 +58,19 @@ title: |
 * Seeking out adults to gather COVID related information asking questions such as, ‘When will the lockdown be lifted?
 * Many children are seeking out stability and support during these tough times, prior to COVID they wished to focus on their careers and access After care facilities now they are considering returning to their families.
 * **Feeling stuck**: Children may share feelings of frustration such as being stuck at the Institution especially if their restoration process was previously underway. Some signs of distress that may be observed in them are:
-* Anger 
-* Denial 
-* Irrational thoughts
+	* Anger 
+	* Denial 
+	* Irrational thoughts
 * **Re-traumatization:** The lack of control and feeling of helplessness created by the pandemic is akin to their experiences of trauma and may lead to re-experiencing of traumatic memories. Signs include: 
 * **Regressive behavior**: bed-wetting, thumb sucking, using childlike voice, egocentric views, immediate gratifications Compulsive cleaning (especially for victims of sexual trauma).
 * **Changes in sleeping patterns**: insomnia or oversleeping Hypervigilance and increased sensitivity to external sounds, smells, and colors.
 * **Mood fluctuations:** angry, sad, irritable, and frustrated Seeking out support and comfort through regular questions such as.
 * **Lack of understanding of the news:** The influx of information regarding COVID-19 may not always be understood by children.
 * **Concern for family’s well-being**: Children living away from their family are apprehensive of their family’s safety and well-being. Some concerns like: 
-* Is the family able to procure basic necessities like ration and other essentials to survive.
-* Worried about their families income
-* Experiencing guilt of not being with their family or in anticipatory grief that they might not have been able to say goodbye.
-* In situations where the loved one of a child may pass away, the child may experience intense grief.
+	* Is the family able to procure basic necessities like ration and other essentials to survive.
+	* Worried about their families income
+	* Experiencing guilt of not being with their family or in anticipatory grief that they might not have been able to say goodbye.
+	* In situations where the loved one of a child may pass away, the child may experience intense grief.
 * Concern about being a burden on their families in times of extreme financial crisis 
 * **Behavioral concerns:** Children are experiencing severe distress and it often manifests in their behavior.
 * Mood fluctuations i.e.
