@@ -4,7 +4,7 @@ author: Navneeth
 tags: Practitioner
 ---
 
- Tags: [CCI Operations](CCI%20Operations) [CCICompliance](CCICompliance) [UdayanCare](UdayanCare)
+ Tags: [CCI Operations](CCI%20Operations) [CCI Compliance](Volume%201/Roll%20Ups/CCI%20Operations/CCI%20Compliance.md) [UdayanCare](UdayanCare)
 
  Status: [ReferenceReading](ReferenceReading)
 
@@ -30,7 +30,7 @@ tags: Practitioner
 
 ## Standardization of Care
 
-- [[CCICompliance]]
+- [[Volume 1/Roll Ups/CCI Operations/CCI Compliance]]
 - Under Section 41(6) of the JJ Act 2015, the period of registration of an institution shall be valid for five years, with the provision for renewal in every five years. 
 - The Act also stipulates granting of provisional registration, with six months validity, within one month of receipt of an application for registration Section 41(3). 
 - According to Rule 21 of the JJ Rules 2016, application for registration of CCI is required to be submitted in Form 27 together with copies of following documents:  
@@ -59,15 +59,15 @@ tags: Practitioner
 	- proper drainage, garbage disposal, pest control
 	- toilets (at least one for seven children), bathroom (at least one for 10 children) 
 	- fly-proof kitchen, disinfection of beddings etc.
-- Daily routine [Caregiving](Caregiving)(Rule 32)
+- Daily routine [Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md) (Rule 32)
 	- These are children’s daily activities meant for a regulated and disciplined life which include, inter alia, personal hygiene, cleanliness, educational classes, physical exercise, vocational training, recreation and games, moral education, group activities and prayers.  (Page 17)
-- Child [[Volume 1/Roll Ups/Nutrition]] and diet scale  (Rule 33)
+- Child [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md)n and diet scale  (Rule 33)
 	- Quality and quantity of food that children under institutional care are entitled to receive daily,
 	-  adherence to diet scale and minimum nutritional standard, 
 	- provision for special meals on holidays and festivals, 
 	- special diet for infants and sick children, 
 	- and meal timing and menu
-- [Physical Health](Volume%201/Roll%20Ups/Physical%20Health.md) (Rule 34)
+- [Physical Health](Volume%201/Roll%20Ups/Physical%20Health/Physical%20Health.md)(Rule 34)
 	- Arrangements for medical facilities, 
 	- maintenance of medical record of each child,
 	-  referral services, 
@@ -109,7 +109,7 @@ tags: Practitioner
 		- Creative expression of views through wall papers, paintings, newsletter etc.
 		-  As facilitators of the process, the child care institutions are required to ensure that the children’s committees meet every month, their records are maintained properly, and are provided with necessary support, space, stationery and guidance.  (Page 19)
 
-# [[Admissions]]
+# [[Volume 1/Roll Ups/Child Development/Child Lifecycle/Admissions]]
 
 - **Procedures to be followed at the time of receiving a child (Rule 69 F) (Page 20)**
 	- The child’s full personal description is noted in admission and discharge register. 
@@ -140,7 +140,7 @@ tags: Practitioner
 	- Children in need of special care are allotted different dormitory. 
 	- For children under rehabilitation stay, the care plan covers the entire period of stay; and it accommodates the directions of CWC, JJB and children’s court.
 
-- ### [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md): 
+- ### [Child Profile](Volume%201/Roll%20Ups/Child%20Development/Child%20Profile.md): 
 	- Form 7 given in JJ Rules 2016 is used for preparing individual care plan. An individual care plan is prepared keeping in view the child’s case history, education and vocational aptitude. 
 		-  Individual care plan is reviewed by CWO or CWCWO or CW maintains a record of difficulties, if any, faced by the child during the period of stay in CCI. 
 		- CWO or CW keeps of a record of complaints by the child regarding the facilities of CCI.
@@ -178,7 +178,7 @@ tags: Practitioner
 		- In suitable cases, the Person-in-charge may order payment of subsistence money and railway/road fares.
 		- If a girl child has no place to go and requests for stay in the CCI after completion of her period of stay, a limited period of stay, till suitable arrangement is made, is allowed subject to approval of the CWC or JJB or Children’s Court. (Page 22)
 # Child Safety		
-- **The Rule 69 N prescribes following actions to deal with unacceptable behaviour:** [Caregiving](Caregiving)
+- **The Rule 69 N prescribes following actions to deal with unacceptable behaviour:** [Caregiving](Volume%201/Roll%20Ups/Caregiving.md)
 	- Formal warning 
 	- Assignment of house-keeping tasks 
 	- Imposition writing i.e. writing a number of times that the child would not repeat the behaviour 
@@ -268,7 +268,7 @@ tags: Practitioner
 - **State governments are required to constitute inspection committees for State and district for the CI registered or recognized under the JJ Act 2015**
 	- While inspections are made once in three months, reports are submitted to DCPU and state government within a week, and actions are taken within a month. 
 	- Evaluation of CCIs may be done by Central Government or State Government once in three years. Its purpose is to strengthen and improve functioning.
-- **Personnel for CCI (Rule 26)** [Caregiving](Caregiving)
+- **Personnel for CCI (Rule 26)** [Caregiving](Volume%201/Roll%20Ups/Caregiving.md)
 	- The rule deals with the basis for staffing like categories of children, capacity of CCI, nature of duties, hours of duty etc.
 	- While key regular staff include
 		-  person-in-charge, 

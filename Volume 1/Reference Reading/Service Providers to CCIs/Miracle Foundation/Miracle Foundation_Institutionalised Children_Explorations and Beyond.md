@@ -3,7 +3,7 @@ title: Miracle Foundation - Case Study of Interventions
 Author: Miracle Foundation
 tags: Practitioner
 ---
-Tags:  [[Volume 1/Roll Ups/Physical Health]]  [[Program Operations]] [Hygiene](Hygiene.md) [[Caregiving]]  [Education](Education) [Mental Health](Mental%20Health)  [[MiracleFoundation]]
+Tags:  [Physical Health](Volume%201/Roll%20Ups/Physical%20Health/Physical%20Health.md)  [[Program Operations]] [Hygiene](Hygiene.md) [Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md)  [Education](Education) [Mental Health](Mental%20Health)  [[MiracleFoundation]]
 
 Status: [ReferenceReading](ReferenceReading)
 
@@ -39,7 +39,7 @@ Attachments:
 - Laying down the foundation of the Miracle Foundation Method was the introductionof family units and family building activities at Anwesha with a group of 20 children attached to one housemother. The method provided for hiring of additional houseparents to improve the housemother to child ratio with a target of 1:20. (Page 10) 
 - Each house parent ensured that her/his children were dressed withappropriate clothing and had clean bed sheets and pillows, toiletries and footwear.The house parents were responsible for inculcating etiquettes and good hygienichabits in the children. [[Hygiene]](Page 10) Children above 10 years of age got separate set of toiletries, clothing for themselves given at the beginning of the month. (Page 14) 
 -  The system of carryingout children’s locker checking twice a month by house parents proved to be aneffective way to take stock of what was it that children already had and what morewas needed to be given to them (Page 14)
-- Earlier, during meal time children stood in a line, were served food, after which theysat in the dining room and ate quietly. There was no concept of house parentssitting with the children, narrating stories, paying attention to whether children were eating properly or not [[Volume 1/Roll Ups/Nutrition]], whereas with setting up of family units, children sat ingroups with their respective house parents, talked about their day at school and hadfun. This helped to strengthen the bond and attachment between the house parentsand the children. (Page 11)
+- Earlier, during meal time children stood in a line, were served food, after which theysat in the dining room and ate quietly. There was no concept of house parentssitting with the children, narrating stories, paying attention to whether children were eating properly or not [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md)n, whereas with setting up of family units, children sat ingroups with their respective house parents, talked about their day at school and hadfun. This helped to strengthen the bond and attachment between the house parentsand the children. (Page 11)
 - The MiracleFoundation Method provided for hiring of a qualified social worker at Anwesha.The social worker engaged in counselling of the children, guiding the house parents,observing and supervising the work of the coaching teachers, following up ontraining of children and house parents and documentation-related work. (Page 11)
 - Anwesha underwent a complete training in areas of supportingfamily culture, rights of the child, attachment, discipline techniques, childdevelopment, health care – preventative & curative, gender roles, sexual abuseprevention, communication skills, conflict resolution and stress management. (Page 11)
 - ‘Tea time with house parents’, the practice of Miracle staff spending informal timewith caregivers enabled them to unwind, open up, share their joys and concernsand feel acknowledged as being important. House parent Diary served to be a readyreference of their important tasks and responsibilities.(Page 11)
@@ -57,8 +57,7 @@ Attachments:
 
 
 # CCI Operations
- [[CCI FInances]]
-
+[CCI Finances](Volume%201/Roll%20Ups/CCI%20Operations/CCI%20Finances.md)
 -  hiring a qualified accountant,Tally training, an accounting software and budgetary training from time to time bythe finance team from Miracle. (Page 15)
 - organisationaldevelopment exercise for development of clear organisational structure, streamliningroles and responsibilities, defining clear reporting lines and positioning staffaccountability at the children home. (Page 15)
 

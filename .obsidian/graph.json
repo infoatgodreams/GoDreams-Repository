@@ -1,31 +1,59 @@
 {
-  "collapse-filter": true,
-  "search": "-path: templates ",
+  "collapse-filter": false,
+  "search": "-path: templates -file: home -file: index",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Volume 1/Reference Reading\"",
+      "query": "tag:#Practitioner",
       "color": {
         "a": 1,
-        "rgb": 7363798
+        "rgb": 3744176
       }
     },
     {
-      "query": "path:\"Volume 1/Program Design Tools\"",
+      "query": "tag:#usresearch tag:#globalresearch tag:#indianresearch tag:#researchedinterventions",
       "color": {
         "a": 1,
         "rgb": 6707778
       }
     },
     {
-      "query": "path:\"Volume 1/Roll Ups\"",
+      "query": "tag:#Rollups",
       "color": {
         "a": 1,
         "rgb": 11064945
+      }
+    },
+    {
+      "query": "tag:#Government tag:#UN tag:",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:#essentialreads",
+      "color": {
+        "a": 1,
+        "rgb": 3850
+      }
+    },
+    {
+      "query": "tag:#Manual",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
       }
     }
   ],
@@ -35,10 +63,10 @@
   "nodeSizeMultiplier": 1.03357260049221,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.475897301545717,
-  "repelStrength": 13.2905423107152,
-  "linkStrength": 1,
-  "linkDistance": 218,
-  "scale": 0.23632780833517514,
+  "centerStrength": 0.408828923238145,
+  "repelStrength": 18.6560125753209,
+  "linkStrength": 0.828006287660466,
+  "linkDistance": 281,
+  "scale": 0.19546410499688494,
   "close": false
 }
