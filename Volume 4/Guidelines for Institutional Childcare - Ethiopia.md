@@ -1,39 +1,28 @@
 ---
-title: Guidelines for Institutional Care, Ethiopia
+title: Guidelines for Institutional Care Ethiopia
 author: Govt of Ethiopia
-tags : Government
-- 
+tags :
+- Government
 ---
 Tags: #Practitioner #Government #Manual 
- Link: 
+Link: https://drive.google.com/file/d/1qP7Hxnor9J8aFLV1INEfHAYGeFyk19Oc/view
 
 Context: This paper was made in 1998 and covers the different care practices (including alternative care methods)
 
-Highlighted PDF: [Here](https://drive.google.com/file/d/1qP7Hxnor9J8aFLV1INEfHAYGeFyk19Oc/view?usp=sharing)
 
+# The Need for the Guideline
 
-# INSTITUTIONAL CARE
-
-
-## The Need for the Guideline
-
-
-
-1. Upgrade the existing services of childcare institutions; set regulations for service provision as well as requirements for establishment of childcare institution;
-2. Define optimal level of performance or practice on institutional childcare to achieve standards of excellence; and
-3. Create favorable conditions for efficient monitoring and evaluation of the services in childcare institutions.
+- Upgrade the existing services of childcare institutions; set regulations for service provision as well as requirements for establishment of childcare institution
+- Define optimal level of performance or practice on institutional childcare to achieve standards of excellence; and
+- Create favorable conditions for efficient monitoring and evaluation of the services in childcare institutions.
 
 Note: This guideline is based on UN Convention on the Rights of the Child and the Ethiopian laws
 
 Note [page 3]: In this document - children who are orphaned or abandoned or ill are old included. Does not include families who financially struggle to look after children
 
 
-## Specific Objectives/Childcare Focussed input areas
-
+# Childhood input areas
 The specific objectives of a childcare institution shall include the provision of:
-
-
-
 * food
 * loading
 * clothing
