@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Roll Ups/Alternative Care/Restoration.md",
+            "file": "Volume 1/Roll Ups/Roll Up Index.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Roll Ups/Alternative Care/Restoration.md",
+                "file": "Volume 1/Roll Ups/Roll Up Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Roll Ups/Alternative Care/Restoration.md",
+                "file": "Volume 1/Roll Ups/Roll Up Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,6 +131,7 @@
   },
   "active": "d1ad1b7dcf9644d0",
   "lastOpenFiles": [
+    "Volume 1/Roll Ups/Roll Up Index.md",
     "Volume 1/Roll Ups/Alternative Care/Restoration.md",
     "Volume 1/Roll Ups/Alternative Care/Kinship Care.md",
     "Volume 1/Roll Ups/Alternative Care/Foster Care.md",
@@ -139,7 +140,6 @@
     "Volume 1/Roll Ups/Caregiving/TIC-Trauma Informed Care.md",
     "Volume 1/Roll Ups/Caregiving/Individualised Care.md",
     "Volume 1/Roll Ups/Caregiving/Caregiving.md",
-    "Volume 1/Roll Ups/CCI Operations/Program Operations.md",
-    "Volume 1/Roll Ups/CCI Operations/Emergency Protocol.md"
+    "Volume 1/Roll Ups/CCI Operations/Program Operations.md"
   ]
 }
