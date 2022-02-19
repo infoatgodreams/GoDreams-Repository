@@ -2,9 +2,11 @@
 title: |
     <span id="_50e13958t68z" class="anchor"></span>Mental Health at CCIs
     during Covid-19
+tags: 
+- Practitioner
 ---
 
-
+Tags: [Mental Health](Mental%20Health) 
 # Mental Health at CCIs during Covid-19
 
 **Introduction:** Children are often silent victims of any calamity. The pandemic and the unprecedented measures to contain its spread are disrupting nearly every aspect of children’s lives: their health, development, learning, behavior, their families’ economic security, and their protection from violence and abuse.
