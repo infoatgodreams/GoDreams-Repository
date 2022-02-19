@@ -1,3 +1,11 @@
+---
+title: Guidelines for Institutional Care, Ethiopia
+author: 
+tags : 
+- Government
+---
+Tags: [Child Safety](Child%20Safety) [Child Sexual Abuse](Volume%201/Roll%20Ups/Child%20Safety/Child%20Sexual%20Abuse.md) [[Volume 1/Roll Ups/Child Safety/Child Rights Law]]
+Link: https://ncpcr.gov.in/showfile.php?lang=1&level=2&&sublinkid=1581&lid=1586
 
 
 This paper was made in 1998 and covers the different care practices (including alternative care methods)
@@ -59,17 +67,12 @@ The specific objectives of a childcare institution shall include the provision o
 ### Location
 
 Distance from the main road
-
-
-
-    * If the childcare institution is in an urban center, its distance from the main road shall be at least one Kilometer and at most three kilometers.
+If the childcare institution is in an urban center, its distance from the main road shall be at least one Kilometer and at most three kilometers.
     * If the childcare institution is in a rural area and the main road is a dry whether road, its distance from the main road shall not be more than five kilometers.
     * If the childcare institution is in a rural area and the main road is an all whether road, its distance from the main road shall not be more than ten kilometers.
 
 
 ### Compound
-
-
 
 * A compound of a childcare institution shall have** adequate space relative to the number of beneficiaries**. 
 * Thus, a childcare institution shall have **adequate space for building** 
