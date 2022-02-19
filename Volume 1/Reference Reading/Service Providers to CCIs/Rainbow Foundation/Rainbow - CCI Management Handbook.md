@@ -3,7 +3,7 @@ title: Rainbow - CCI Management Handbook
 Author : Rainbow Foundation
 tags: Practitioner
 ---
-Tags: [Hygiene](Hygiene.md) [Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md)[Child Profile](Volume%201/Roll%20Ups/Child%20Development/Child%20Profile.md) [Child Safety](Child%20Safety) [CCI FInances](Volume%201/Roll%20Ups/CCI%20Operations/CCI%20FInances.md) [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)
+Tags: [Hygiene](Hygiene.md) [Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md)[Child Profile](Volume%201/Roll%20Ups/Child%20Development/Child%20Profile.md) [Child Safety](Child%20Safety) [CCI Finances](Volume%201/Roll%20Ups/CCI%20Operations/CCI%20Finances.md) [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)
 Link: https://issuu.com/rainbowfoundationindia/docs/management_of_homes [[Rainbowhomes]]
 
 

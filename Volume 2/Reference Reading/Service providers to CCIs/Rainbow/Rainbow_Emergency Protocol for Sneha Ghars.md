@@ -4,7 +4,7 @@ author: Rainbow Foundation
 tags :
 - Practitioner
 ---
-Tags: [Child Safety](Child%20Safety) [[emergency protocol]] [[communication]]
+Tags: [Child Safety](Child%20Safety) [[Volume 1/Roll Ups/CCI Operations/Emergency Protocol]] [[communication]]
 Link: https://issuu.com/rainbowfoundationindia/docs/emergency_protocol
 
 **Context**: Crisis management guidelines, again would recommend reading extensively because it applies to all homes that Rainbow runs and the hierarchy is quite clear

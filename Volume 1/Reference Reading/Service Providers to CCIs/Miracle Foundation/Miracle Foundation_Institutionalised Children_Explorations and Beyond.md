@@ -57,7 +57,7 @@ Attachments:
 
 
 # CCI Operations
-[CCI FInances](Volume%201/Roll%20Ups/CCI%20Operations/CCI%20FInances.md)
+[CCI Finances](Volume%201/Roll%20Ups/CCI%20Operations/CCI%20Finances.md)
 -  hiring a qualified accountant,Tally training, an accounting software and budgetary training from time to time bythe finance team from Miracle. (Page 15)
 - organisationaldevelopment exercise for development of clear organisational structure, streamliningroles and responsibilities, defining clear reporting lines and positioning staffaccountability at the children home. (Page 15)
 

@@ -4,7 +4,7 @@ author: Navneeth
 tags: Practitioner
 ---
 
- Tags: [CCI Operations](CCI%20Operations) [CCICompliance](CCICompliance) [UdayanCare](UdayanCare)
+ Tags: [CCI Operations](CCI%20Operations) [CCI Compliance](Volume%201/Roll%20Ups/CCI%20Operations/CCI%20Compliance.md) [UdayanCare](UdayanCare)
 
  Status: [ReferenceReading](ReferenceReading)
 
@@ -30,7 +30,7 @@ tags: Practitioner
 
 ## Standardization of Care
 
-- [[CCICompliance]]
+- [[Volume 1/Roll Ups/CCI Operations/CCI Compliance]]
 - Under Section 41(6) of the JJ Act 2015, the period of registration of an institution shall be valid for five years, with the provision for renewal in every five years. 
 - The Act also stipulates granting of provisional registration, with six months validity, within one month of receipt of an application for registration Section 41(3). 
 - According to Rule 21 of the JJ Rules 2016, application for registration of CCI is required to be submitted in Form 27 together with copies of following documents:  
