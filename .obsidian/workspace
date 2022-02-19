@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Service Providers to CCIs/Save the Children/Save the Children_ SOP for Care and Protection of Children in Street Situations.md",
+            "file": "Volume 1/Reference Reading/Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
             "mode": "source",
             "source": false
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Save the Children/Save the Children_ SOP for Care and Protection of Children in Street Situations.md",
+                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Save the Children/Save the Children_ SOP for Care and Protection of Children in Street Situations.md",
+                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -144,6 +144,7 @@
   },
   "active": "d1ad1b7dcf9644d0",
   "lastOpenFiles": [
+    "Volume 1/Reference Reading/Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Save the Children/Save the Children_ SOP for Care and Protection of Children in Street Situations.md",
     "conflict-files-obsidian-git.md",
     "Volume 1/Reference Reading/Governments & UN/WHO/WHO_Growth reference for school aged children and adolescents.md",
@@ -152,7 +153,6 @@
     "Volume 1/Roll Ups/Roll Up Index.md",
     "Volume 1/Roll Ups/Alternative Care/Restoration.md",
     "Volume 1/Roll Ups/Alternative Care/Kinship Care.md",
-    "Volume 1/Roll Ups/Alternative Care/Foster Care.md",
-    "Volume 1/Roll Ups/Alternative Care/Adoption.md"
+    "Volume 1/Roll Ups/Alternative Care/Foster Care.md"
   ]
 }
