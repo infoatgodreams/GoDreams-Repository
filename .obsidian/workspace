@@ -4,48 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "19e2c3477c411ee3",
+        "id": "091061ab0b167ceb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf",
           "state": {
-            "file": "Home.md",
-            "mode": "preview",
-            "source": false
+            "file": "Volume 2/Volume 2 Public Resource Links/Childcare practices, morbidity status and nutrition status._Annotated copy.pdf"
           }
         }
       },
       {
-        "id": "091061ab0b167ceb",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "f2193d11a12d1e62",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "90309b904268d84a",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "035e20952e00486b",
+        "id": "d7fc2ca0e3c700e7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Volume 2/Reference Reading/Research Papers/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
             "mode": "source",
             "source": false
           }
@@ -105,13 +79,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Volume 2/Reference Reading/Research Papers/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -122,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Volume 2/Reference Reading/Research Papers/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,24 +122,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "035e20952e00486b",
+  "active": "d7fc2ca0e3c700e7",
   "lastOpenFiles": [
+    "Volume 2/Reference Reading/Research Papers/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
+    "Volume 2/Volume 2 Public Resource Links/Childcare practices, morbidity status and nutrition status._Annotated copy.pdf",
+    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md",
+    "Volume 2/Reference Reading/Research Papers/Untitled.md",
     "conflict-files-obsidian-git.md",
     "Meeting Notes/11-02-2022.md",
     "Meeting Notes/10-02-2022.md",
     "Meeting Notes/09-02-2022.md",
     "Home.md",
-    "Volume 1/Roll Ups/Physical Health.md",
-    "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
-    "Volume 2/Volume 2 Index.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Home Records.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Physical Health Care.md"
+    "Volume 1/Roll Ups/Physical Health.md"
   ]
 }
