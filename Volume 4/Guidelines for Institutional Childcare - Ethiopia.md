@@ -1,14 +1,13 @@
 ---
 title: Guidelines for Institutional Care, Ethiopia
-author: 
-tags : 
-- Government
+author: Govt of Ethiopia
+tags : Government
+- 
 ---
-Tags: [Child Safety](Child%20Safety) [Child Sexual Abuse](Volume%201/Roll%20Ups/Child%20Safety/Child%20Sexual%20Abuse.md) [[Volume 1/Roll Ups/Child Safety/Child Rights Law]]
-Link: https://ncpcr.gov.in/showfile.php?lang=1&level=2&&sublinkid=1581&lid=1586
+Tags: #Practitioner #Government #Manual 
+ Link: 
 
-
-This paper was made in 1998 and covers the different care practices (including alternative care methods)
+Context: This paper was made in 1998 and covers the different care practices (including alternative care methods)
 
 Highlighted PDF: [Here](https://drive.google.com/file/d/1qP7Hxnor9J8aFLV1INEfHAYGeFyk19Oc/view?usp=sharing)
 
