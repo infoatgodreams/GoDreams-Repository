@@ -37,8 +37,6 @@ The specific objectives of a childcare institution shall include the provision o
 
 ## Areas of involvement of a childcare institution
 
-
-
 * **preventive Intervention** or activities undertaken within the childcare institution to avoid or avert the development of undesirable psycho- social, health, economic, educational, etc., aspects of the unaccompanied children
 * **remedial Intervention** or activities undertaken within the childcare institution to modify undesirable psycho-social, health, economic, educational, etc., aspects of the unaccompanied children
 * **rehabilitative Intervention **or activities undertaken within the childcare institution to restore the psycho-social, health, economic, educational, etc., status of the unaccompanied children
@@ -51,13 +49,12 @@ The specific objectives of a childcare institution shall include the provision o
 
 ## Infrastructure Requirements
 
-
 ### Location
 
-Distance from the main road
-If the childcare institution is in an urban center, its distance from the main road shall be at least one Kilometer and at most three kilometers.
-    * If the childcare institution is in a rural area and the main road is a dry whether road, its distance from the main road shall not be more than five kilometers.
-    * If the childcare institution is in a rural area and the main road is an all whether road, its distance from the main road shall not be more than ten kilometers.
+- Distance from the main road
+	- If the childcare institution is in an urban center, its distance from the main road shall be at least one Kilometer and at most three kilometers.
+	- if the childcare institution is in a rural area and the main road is a dry whether road, its distance from the main road shall not be more than five kilometers.
+	- If the childcare institution is in a rural area and the main road is an all whether road, its distance from the main road shall not be more than ten kilometers.
 
 
 ### Compound
@@ -82,8 +79,6 @@ If the childcare institution is in an urban center, its distance from the main r
 
 
 ### Building
-
-
 
 * A childcare institution shall, at least, have separate buildings designed for:
     * Lodging
