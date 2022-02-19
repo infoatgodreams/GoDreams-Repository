@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Roll Ups/Roll Up Index.md",
+            "file": "Home.md",
             "mode": "source",
             "source": false
           }
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Roll Ups/Roll Up Index.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Roll Ups/Roll Up Index.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -132,6 +131,7 @@
   },
   "active": "d1ad1b7dcf9644d0",
   "lastOpenFiles": [
+    "Home.md",
     "Volume 1/Roll Ups/Roll Up Index.md",
     "Volume 1/Roll Ups/Alternative Care/Restoration.md",
     "Volume 1/Roll Ups/Alternative Care/Kinship Care.md",
@@ -140,7 +140,6 @@
     "Volume 1/Roll Ups/Caregiving/Care Practices.md",
     "Volume 1/Roll Ups/Caregiving/TIC-Trauma Informed Care.md",
     "Volume 1/Roll Ups/Caregiving/Individualised Care.md",
-    "Volume 1/Roll Ups/Caregiving/Caregiving.md",
-    "Volume 1/Roll Ups/CCI Operations/Program Operations.md"
+    "Volume 1/Roll Ups/Caregiving/Caregiving.md"
   ]
 }
