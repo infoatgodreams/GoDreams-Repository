@@ -59,15 +59,15 @@ tags: Practitioner
 	- proper drainage, garbage disposal, pest control
 	- toilets (at least one for seven children), bathroom (at least one for 10 children) 
 	- fly-proof kitchen, disinfection of beddings etc.
-- Daily routine [Caregiving](Volume%201/Roll%20Ups/Caregiving.md)(Rule 32)
+- Daily routine [Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md) (Rule 32)
 	- These are children’s daily activities meant for a regulated and disciplined life which include, inter alia, personal hygiene, cleanliness, educational classes, physical exercise, vocational training, recreation and games, moral education, group activities and prayers.  (Page 17)
-- Child [[Volume 1/Roll Ups/Nutrition]] and diet scale  (Rule 33)
+- Child [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md)n and diet scale  (Rule 33)
 	- Quality and quantity of food that children under institutional care are entitled to receive daily,
 	-  adherence to diet scale and minimum nutritional standard, 
 	- provision for special meals on holidays and festivals, 
 	- special diet for infants and sick children, 
 	- and meal timing and menu
-- [Physical Health](Volume%201/Roll%20Ups/Physical%20Health.md) (Rule 34)
+- [Physical Health](Volume%201/Roll%20Ups/Physical%20Health/Physical%20Health.md)(Rule 34)
 	- Arrangements for medical facilities, 
 	- maintenance of medical record of each child,
 	-  referral services, 
@@ -109,7 +109,7 @@ tags: Practitioner
 		- Creative expression of views through wall papers, paintings, newsletter etc.
 		-  As facilitators of the process, the child care institutions are required to ensure that the children’s committees meet every month, their records are maintained properly, and are provided with necessary support, space, stationery and guidance.  (Page 19)
 
-# [[Admissions]]
+# [[Volume 1/Roll Ups/Child Development/Child Lifecycle/Admissions]]
 
 - **Procedures to be followed at the time of receiving a child (Rule 69 F) (Page 20)**
 	- The child’s full personal description is noted in admission and discharge register. 
@@ -140,7 +140,7 @@ tags: Practitioner
 	- Children in need of special care are allotted different dormitory. 
 	- For children under rehabilitation stay, the care plan covers the entire period of stay; and it accommodates the directions of CWC, JJB and children’s court.
 
-- ### [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md): 
+- ### [Child Profile](Volume%201/Roll%20Ups/Child%20Development/Child%20Profile.md): 
 	- Form 7 given in JJ Rules 2016 is used for preparing individual care plan. An individual care plan is prepared keeping in view the child’s case history, education and vocational aptitude. 
 		-  Individual care plan is reviewed by CWO or CWCWO or CW maintains a record of difficulties, if any, faced by the child during the period of stay in CCI. 
 		- CWO or CW keeps of a record of complaints by the child regarding the facilities of CCI.

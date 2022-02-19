@@ -109,7 +109,7 @@ Here’s a quick guide on how to interpret country scores:
 - The index tracks a series of events that, should any one of them occur, mark the end of an intact childhood. 
 	- These events are called “childhood enders” and include:
 		- child dies
-		- malnutrition permanently impairs a child's development [Nutrition](Volume%201/Roll%20Ups/Nutrition.md)
+		- malnutrition permanently impairs a child's development [[Nutrition]]
 		- child leaves or fails to enter school [Education](Education)
 		- child begins work life
 		- child marries

@@ -4,7 +4,7 @@ author:
 tags: usresearch
 ---
 
-Tags: [CCI Operations](CCI%20Operations) [Nutrition](Volume%201/Roll%20Ups/Nutrition.md)[Physical Health](Volume%201/Roll%20Ups/Physical%20Health.md)
+Tags: [CCI Operations](CCI%20Operations) [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md) [Physical Health](Volume%201/Roll%20Ups/Physical%20Health/Physical%20Health.md)
 Link : https://drive.google.com/file/d/1xbldLE1U9c-s2pljL2RLdgv72IDisiLc/view?usp=sharing
 # Scope: 
 
@@ -52,7 +52,7 @@ Link : https://drive.google.com/file/d/1xbldLE1U9c-s2pljL2RLdgv72IDisiLc/view?us
 - Common deficiencies were iodine, zinc, albumin , vitamin A and B
 - Edema, Conjunctival pallor, xerophthalmia and goiter were also found
 
-# [[Volume 1/Roll Ups/Nutrition]]
+# [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md)
 
 - Mwaniki and colleagues found that diet diversity was lower in children. Diets were reported to have high reliance on starches and legumes (Mwaniki,Makokha&Muttunga,2014). (Page 11)
 - Hearstetal.(2014)concluded that the growth-related indicators coincide with the high prevalence of low albumin, indicating generalized chronic undernutrition, and suggested macronutrient deficiencies could be due to 

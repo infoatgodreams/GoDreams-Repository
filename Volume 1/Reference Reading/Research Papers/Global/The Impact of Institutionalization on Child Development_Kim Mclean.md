@@ -46,7 +46,7 @@ tags:
 -  Another common finding is that both conditions in orphanages and conditions in adoptive homes can modify the amount of cognitive deficit. Children do better if they are reared in better quality institutions (e.g., those studied by Tizard, 1977) or in institutions in which perceptual or social environments have been enriched.
 
 # Physical Development
-[Physical Health](Volume%201/Roll%20Ups/Physical%20Health.md) 
+[Physical Health](Volume%201/Roll%20Ups/Physical%20Health/Physical%20Health.md)
 
 -   Dana Johnson and colleagues (Johnson et al., 1992) examined the medical condition of 65  previously institutionalized Romanian children who were adopted to the United States. 
 	- They found that only 15% of these children were  considered physically healthy at the time of adoption. Convergent evidence for this finding comes from the Romanian children adopted to Canada (Fisher et al., 1997).
@@ -57,7 +57,7 @@ tags:
 	-  hepatitis B (28% of children) 
 	-  anemia (15% of children). 
 	- These medical problems are consistent  with those noted by other researchers who have examined medical problems in previously institutionalized children from Romania (Benoit, Jocelyn, Moddeman, & Embree, 1996; Gyorkos & MacLean, 1992; Jenista, 1992;  Marcovitch, Cesaroni, Roberts, & Swanson, 1995) and from several other countries (Hoksbergen, 1981; Hostetter et al. 1991). 
--  Previously institutionalized children are typically small and malnourished after the orphanage experience. [Nutrition](Volume%201/Roll%20Ups/Nutrition.md)
+-  Previously institutionalized children are typically small and malnourished after the orphanage experience. [[Nutrition]]
 	- Eighty-five percent of  orphanage children in the Canadian sample below the 10th percentile and 59% of children fell below the 5th percentile for weight (Morison et al., 1995). 
 	- In another group of 16 Romanian children adopted to Canada, 50%  were below the 5th percentile for weight and  44% were below the 5th percentile for height (Benoit et al., 1996). Similarly, in the U.K
 	-  In the UK sample of Romanian adoptees, Rutter and the ERA Study Team (1998) reported that half of  the children had heights, weights, and head  circumferences below the 3 percentile.
@@ -76,7 +76,7 @@ tags:
 		-  It is possible therefore  that the brain dysfunction found by Chugani  et al. (2001) may be at least partially related  to pain and fear beyond the levels typical of institutional life
 
 # Behavior Problems
-[Caregiving](Volume%201/Roll%20Ups/Caregiving.md) 
+[Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md)
 
 - Goldfarb (1943b) found that previously institutionalized 6- to 8-year-old children who had been placed in foster care at age 3 scored higher on behavior problem checklists than noninstitutionalized children of the same age who had spent their lives in foster care. 
 	- The same difference between these groups was also found  during adolescence (Goldfarb, 1943a). 
@@ -91,7 +91,7 @@ tags:
 		-  eating
 		-  stereotyped behavior
 		-  peer relationships
-	-   Eleven months after adoption 65% of  orphanage children had eating problems [Nutrition](Volume%201/Roll%20Ups/Nutrition.md):
+	-   Eleven months after adoption 65% of  orphanage children had eating problems [[Nutrition]]
 		-  Parents reported that one-third of children refused to eat solid foods and almost one-third of children overate. 
 		-  In the Canadian  sample, many parents of orphanage children  reported that they continued to offer food to  children after a meal and that it was never refused. [[Volume 1/Roll Ups/Observed behavior assessments]]
 		- Given orphanage children’s malnutrition and small size, such overeating probably  represents their bodies’ natural catch-up mechanism. 

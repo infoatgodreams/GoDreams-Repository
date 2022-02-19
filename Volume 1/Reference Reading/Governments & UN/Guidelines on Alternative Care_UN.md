@@ -5,7 +5,7 @@ tags :
 - UN
 - Government 
 ---
-Tags: [Restoration](Restoration) [Caregiving](Volume%201/Roll%20Ups/Caregiving.md) [[CCI Operations]]
+Tags: [Restoration](Restoration) [Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md)[[CCI Operations]]
 Link:https://drive.google.com/file/d/1QUK36tvk8jWxeXIrNiHVreq8lGgxWkFK/view?usp=sharing
 
 # Restoration
@@ -25,7 +25,7 @@ Link:https://drive.google.com/file/d/1QUK36tvk8jWxeXIrNiHVreq8lGgxWkFK/view?usp=
 - Restriction of contact with members of the child’s family and other persons of special importance to the child should never be used as a sanction. (Page 15)
 - Children in care should be offered access to a person of trust in whom they may confide in total confidentiality. This person should be designated by the competent authority with the agreement of the child concerned. The child should be informed that legal or ethical standards may require breaching confidentiality under certain circumstances. (Page 15)
 - Children in care should have access to a known, effective and impartial mechanism where by they can notify complaints or concerns regarding their treatment or conditions of placement. Such mechanisms should include initial consultation, feedback, implementation and further consultation.  (Page 15)
-- .To promote the child’s sense of self-identity, a life story book comprising appropriate information, pictures, personal objects and mementoes regarding each step of the child’s life should be maintained with the child’s participation and made available to the child throughout his/her life. (Page 15) [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)
+- .To promote the child’s sense of self-identity, a life story book comprising appropriate information, pictures, personal objects and mementoes regarding each step of the child’s life should be maintained with the child’s participation and made available to the child throughout his/her life. (Page 15)  [Child Profile](Volume%201/Roll%20Ups/Child%20Development/Child%20Profile.md)
 - The role and specific responsibilities of the designated person or entity should include:
 	- (a)Ensuring that the rights of the child are protected and, in particular, that the child has appropriate care, accommodation, health-care provision, developmental opportunities, psychosocial support, education and language support;
 	- (b)Ensuring that the child has access to legal and other representation where necessary, consulting with the child so that the child’s views are taken into account by decision-making authorities, and advising and keeping the child informed of his/her rights;

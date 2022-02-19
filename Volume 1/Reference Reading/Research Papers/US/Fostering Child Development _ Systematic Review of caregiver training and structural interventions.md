@@ -8,7 +8,7 @@ tags:
 - researchedinterventions
 ---
 
-Tags: [Caregiving](Volume%201/Roll%20Ups/Caregiving.md) 
+Tags: [Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md)
 Link: [Google Drive](https://drive.google.com/file/d/1pfnGF-wTs6V3hwDoGRFbDUE77l8viibp/view?usp=sharing)
 
 # Scope: (Pages 1,3,5)
@@ -65,7 +65,7 @@ Implications for Practice, Policy and Research
 3. Beyond improving caregiver-child attachment, caregiver trainings should also focus on prevention of violence and abuse in institutional care
 4. Improving the quality of care may be more important than the type of care (eg. institutional care vs foster care)
 
-- Our findings have shown that less than one third of the intervention approaches were theory based, and only three studies applied manualized interventions. Therefore, we advocate for developing theory-based and manualized training concepts for institutional caregivers that may be based on attachment and that can be tested using rigorous scientific standards. [Caregiving](Volume%201/Roll%20Ups/Caregiving.md)
+- Our findings have shown that less than one third of the intervention approaches were theory based, and only three studies applied manualized interventions. Therefore, we advocate for developing theory-based and manualized training concepts for institutional caregivers that may be based on attachment and that can be tested using rigorous scientific standards. [Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md)
 
 - One promising approach that is theory based and manualized is [[FairstartGlobal]] (www.fairstartglobal.com). It is a curriculum rooted in attachment theory that promotes appropriate caregiver–child interactions and relationships. Its unique benefits include free availability on the Internet, implementation flexibility, administrator and staff involvement in creating its implementation, translation into 26 languages, and current implementation in numerous countries around the globe (McCall, Groark, &amp; Rygaard, 2014; Rygaard, 2010). Yet, its effectiveness still needs to be evaluated.
 

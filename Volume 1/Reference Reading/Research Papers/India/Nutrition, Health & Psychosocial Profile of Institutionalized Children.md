@@ -6,7 +6,7 @@ author: Navneeth
 tags: indianresearch
 ---
 
-Tags: [[Volume 1/Roll Ups/Nutrition]], [[Physical Health]]
+Tags: [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md), [[Physical Health]]
 
 Link: https://drive.google.com/file/d/1hCklBQW7m4uMwHK-uXq5S0oCBXRO8wwV/view?usp=sharing
 

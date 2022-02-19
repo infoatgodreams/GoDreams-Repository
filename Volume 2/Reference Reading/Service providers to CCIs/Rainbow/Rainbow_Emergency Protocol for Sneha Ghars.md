@@ -29,7 +29,7 @@ Link: https://issuu.com/rainbowfoundationindia/docs/emergency_protocol
 1. All children know that this is a non custodial, open gates approach and that they can leave after speaking to the sneh sathis 
 2. Refer child to a counsellor if the child returns 
 3. Guard posted at the gate
-4. [Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)3 copies of the child’s photograph should be available
+4. [Child Profile](Volume%201/Roll%20Ups/Child%20Development/Child%20Profile.md): 3 copies of the child’s photograph should be available
 5. Keep trees trimmed 
 
 ### Death 
