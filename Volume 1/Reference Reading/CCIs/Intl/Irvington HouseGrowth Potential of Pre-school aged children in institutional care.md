@@ -6,7 +6,7 @@ tags:
 - usresearch
 ---
 
-Tags: [CCI Operations](CCI%20Operations), [Caregiving](Caregiving), [Education](Education),[Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)
+Tags: [CCI Operations](CCI%20Operations), [Caregiving](Volume%201/Roll%20Ups/Caregiving.md), [Education](Education),[Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)
 Link: [Google Drive](https://drive.google.com/file/d/1pENHpcWf9VVSC70AT2ajXwmFHaZKYag9/view?usp=sharing)
 
 
@@ -25,7 +25,7 @@ Scope: A study of change of intellectual level in 132 "dependent and neglected" 
 - The older groups eat in our main dining room. For the three older units, we regularly scheduled 20 shifts a week of four staff members. 
 
 # Caregiving
-[Caregiving](Caregiving), [ Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)
+[Caregiving](Volume%201/Roll%20Ups/Caregiving.md), [ Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)
 
 - For young children a paramount need is to feel that there is someone who really cares for him or her as an individual human being, someone with whom and for whom he is special. In addition to this special one to one relationship, the child must also feel that all, or most, of the people around him like and respect him for what he is. We have called this basic concept, along with teh child-care practices that have grown out of it, "individualization. 
 - We assumed that small children need relatively small, self-contained settings for their basic physical care. They need the opportunity for privacy, some belongings which are their very own, some which are to be shared and the freedom to explore within boundaries that set unobtrusive but firm limits on impulse. 

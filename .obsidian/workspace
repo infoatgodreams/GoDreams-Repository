@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b5f25ec010fee041",
+        "id": "f03c3f8b84f5010e",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md",
+            "file": "unresolved links output.md",
             "mode": "source",
             "source": false
-          }
-        }
-      },
-      {
-        "id": "883142dc9af3b369",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
+          },
+          "pinned": true
         }
       }
     ],
@@ -77,6 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "unresolved links output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,6 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "unresolved links output.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,17 +121,17 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "883142dc9af3b369",
+  "active": "f03c3f8b84f5010e",
   "lastOpenFiles": [
-    "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Mental Health at CCIs during Covid-19_Prerana Guide.md",
-    "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 (Manual Notes- Printable).md",
-    "Meeting Notes/11-02-2022.md",
-    "Meeting Notes/10-02-2022.md",
-    "Meeting Notes/09-02-2022.md",
-    "Volume 1/Reference Reading/Governments & UN/IAP/Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children.md",
-    "assessment tool.md",
-    "Volume 3/Research Journal - Glo.md",
-    "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Working with Children Sensitively.md",
-    "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md"
+    "unresolved links output.md",
+    "Child Safety.md",
+    "IQ.md",
+    "Hygiene.md",
+    "Kinship Care.md",
+    "Adoption.md",
+    "Foster Care.md",
+    "Restoration.md",
+    "CCI Operations.md",
+    "Volume 1/Reference Reading/Books/Rethinking Orphanages for the 21st Century.md"
   ]
 }

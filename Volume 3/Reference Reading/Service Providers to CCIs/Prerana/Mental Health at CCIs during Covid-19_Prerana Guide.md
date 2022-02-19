@@ -115,7 +115,7 @@ Tags: [Mental Health](Mental%20Health)
 
 
 ## Self care tips for Caregivers
-[Caregiving](Caregiving)
+[Caregiving](Volume%201/Roll%20Ups/Caregiving.md)
 * Get 8 hours of sleep.
 * Drink adequate water and make sure you are eating healthy meals.
 * Be self compassionate: You are also going through a difficult time, it's okay to struggle

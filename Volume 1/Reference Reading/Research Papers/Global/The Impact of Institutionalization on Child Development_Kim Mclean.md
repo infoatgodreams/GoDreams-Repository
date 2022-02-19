@@ -76,7 +76,7 @@ tags:
 		-  It is possible therefore  that the brain dysfunction found by Chugani  et al. (2001) may be at least partially related  to pain and fear beyond the levels typical of institutional life
 
 # Behavior Problems
-[Caregiving](Caregiving) 
+[Caregiving](Volume%201/Roll%20Ups/Caregiving.md) 
 
 - Goldfarb (1943b) found that previously institutionalized 6- to 8-year-old children who had been placed in foster care at age 3 scored higher on behavior problem checklists than noninstitutionalized children of the same age who had spent their lives in foster care. 
 	- The same difference between these groups was also found  during adolescence (Goldfarb, 1943a). 
@@ -151,7 +151,7 @@ tags:
 		-  whether toys were available (Chisholm et al. 1998)
 		-  or children’s weight or developmental delay at adoption (O’Connor et al.,1999; O’Connor, Rutter, et al., 2000) 
 		- [[IQ]] does not appear to be strongly related to indiscriminate friendliness
-	-  Researchers have  consistently found associations between orphanage children’s indiscriminate friendliness  and their behavior problems. [Caregiving](Caregiving)
+	-  Researchers have  consistently found associations between orphanage children’s indiscriminate friendliness  and their behavior problems. [Caregiving](Volume%201/Roll%20Ups/Caregiving.md)
 		- Chisholm (1998)  found that at 3 years postadoption, children’s  indiscriminate friendliness scores were positively correlated with their scores on the [CBCL](CBCL). [[Volume 1/Roll Ups/Observed behavior assessments]]
 		- Le Mare and Audet (2002) found that children's scores on indiscriminate friendliness at 3 years after adoption were positively correlated with their attention problem scores more than 8 years after adoption. [Attention Problems](Attention%20Problems)
 		- In the U.K. sample  children’s scores on disinhibited attachment disturbance were positively correlated with  their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years. [[Volume 1/Roll Ups/Observed behavior assessments]]
@@ -220,7 +220,7 @@ tags:
 	-  By  1973, he claimed that the sensitive period for  attachment likely extended through the de  cade beyond a child’s fifth birthday, but that  such development would become increasingly  more difficult as a child grew older. This was  in line with a more modern emphasis on risk  and resilience in a probabilistic, rather than  deterministic, model of development (Rutter  & O’Connor, 1999).
 
 ## Sensitive Responsiveness and attachment
-[Caregiving](Caregiving)
+[Caregiving](Volume%201/Roll%20Ups/Caregiving.md)
 
 - Children with lower IQs (Chisholm  1998; Tizard & Hodges, 1978) and more behavior problems (Chisholm, 1998; Marcovitc  et al., 1997) have more difficulty forming attachment relationships with their adoptive parents, most likely because these factors interfere with parents’ ability to be sensitively responsive to their children.
 -  These factors may help to explain the insecure attachments of the oldest five children in  the Ames and Chisholm (2001) reanalysis. 

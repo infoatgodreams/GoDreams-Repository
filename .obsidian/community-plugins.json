@@ -3,8 +3,11 @@
   "obsidian-extract-pdf-highlights",
   "wikilinks-to-mdlinks-obsidian",
   "dataview",
-  "obsidian-emoji-toolbar",
   "obsidian-outliner",
+  "obsidian-tabs",
+  "obsidian-tagfolder",
+  "better-fn",
   "obsidian-footnotes",
-  "obsidian-excel-to-markdown-table"
+  "table-editor-obsidian",
+  "find-unlinked-files"
 ]
