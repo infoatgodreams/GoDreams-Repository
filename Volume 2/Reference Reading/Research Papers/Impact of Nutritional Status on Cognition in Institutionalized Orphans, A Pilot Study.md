@@ -1,5 +1,5 @@
 ---
-title: The nutritional status of children living within institutionalized care: a systematic review
+title: Impact of Nutritional Status on Cognition in Institutionalized Orphans: A Pilot Study
 author:  London School of Hygiene & Tropical Medicine, University of London, London
 tags :
 - globalresearch
