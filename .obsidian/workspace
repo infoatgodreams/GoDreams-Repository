@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a57ee2fab5dace59",
+        "id": "f4d150f742e2d23b",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "empty",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "d1ad1b7dcf9644d0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 1/Reference Reading/Service Providers to CCIs/Save the Children/Save the Children_ SOP for Care and Protection of Children in Street Situations.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "49b2d6aa2fd4d2dd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
-          }
+          "state": {}
         }
       }
     ],
@@ -62,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Rollups",
+                "query": "tag:#Government",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631,
-    "collapsed": true
+    "width": 377.0093288421631
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -92,13 +65,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Save the Children/Save the Children_ SOP for Care and Protection of Children in Street Situations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -109,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Save the Children/Save the Children_ SOP for Care and Protection of Children in Street Situations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,17 +113,17 @@
     "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "d1ad1b7dcf9644d0",
+  "active": "f4d150f742e2d23b",
   "lastOpenFiles": [
-    "Volume 1/Reference Reading/Service Providers to CCIs/Save the Children/Save the Children_ SOP for Care and Protection of Children in Street Situations.md",
-    "conflict-files-obsidian-git.md",
-    "Volume 1/Reference Reading/Governments & UN/WHO/WHO_Growth reference for school aged children and adolescents.md",
-    "Volume 1/Reference Reading/Governments & UN/Guidelines on Alternative Care_UN.md",
-    "Home.md",
-    "Volume 1/Roll Ups/Roll Up Index.md",
-    "Volume 1/Roll Ups/Alternative Care/Restoration.md",
-    "Volume 1/Roll Ups/Alternative Care/Kinship Care.md",
-    "Volume 1/Roll Ups/Alternative Care/Foster Care.md",
-    "Volume 1/Roll Ups/Alternative Care/Adoption.md"
+    "Volume 4/Guidelines for Institutional Childcare - Ethiopia.md",
+    "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
+    "Volume 2/Reference Reading/Research Papers/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
+    "Volume 4/Foster Care Research 2012 by VOC Final.md",
+    "Volume 4/Butterflies_Child Participation Research.md",
+    "Volume 2/Reference Reading/Research Papers/The nutritional status of children living within institutionalized care, a systematic review.md",
+    "Volume 2/Reference Reading/Research Papers/Impact of Nutritional Status on Cognition in Institutionalized Orphans, A Pilot Study.md",
+    "Highlights for Nutrition_Paper 2_Annotated.md",
+    "Volume 2/Volume 2 Public Resource Links/Nutrition_Paper 2_Annotated.pdf",
+    "Volume 2/Volume 2 Public Resource Links/Childcare practices, morbidity status and nutrition status._Annotated copy.pdf"
   ]
 }
