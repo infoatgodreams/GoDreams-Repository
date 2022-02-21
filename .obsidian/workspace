@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "b107357176c2e9d8",
+    "id": "d1c112a4aba6d553",
     "type": "split",
     "children": [
       {
-        "id": "f4d150f742e2d23b",
+        "id": "606f4bf08538e337",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c65e2a251474bb47",
+    "id": "c173cb3e1af6d8f4",
     "type": "split",
     "children": [
       {
-        "id": "6bfec5a50c586349",
+        "id": "386e36db78707c18",
         "type": "tabs",
         "children": [
           {
-            "id": "8471557d1ce927ba",
+            "id": "3f8477a80b9da850",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,13 +31,13 @@
             }
           },
           {
-            "id": "a2aac9cc8c78f954",
+            "id": "7ccbc8e61f761066",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Government",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -49,18 +49,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631
+    "width": 300
   },
   "right": {
-    "id": "9a6c82b356728bc7",
+    "id": "7e698accb92ee8ea",
     "type": "split",
     "children": [
       {
-        "id": "e52e8948ad67ddc1",
+        "id": "fd8d794f02cc8d21",
         "type": "tabs",
         "children": [
           {
-            "id": "1c9c1235ba6cb94b",
+            "id": "2157d14326f9bd68",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -68,26 +68,26 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "de07364c32839472",
+            "id": "ea71b2c36ed38c90",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "18279d5b5dbfe7be",
+            "id": "33ab9bef57fe3aec",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -96,34 +96,16 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "d7e888973a3340bc",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 496.0242004394531,
+    "width": 300,
     "collapsed": true
   },
-  "active": "f4d150f742e2d23b",
+  "active": "606f4bf08538e337",
   "lastOpenFiles": [
-    "Volume 4/Guidelines for Institutional Childcare - Ethiopia.md",
-    "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
-    "Volume 2/Reference Reading/Research Papers/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
-    "Volume 4/Foster Care Research 2012 by VOC Final.md",
-    "Volume 4/Butterflies_Child Participation Research.md",
-    "Volume 2/Reference Reading/Research Papers/The nutritional status of children living within institutionalized care, a systematic review.md",
-    "Volume 2/Reference Reading/Research Papers/Impact of Nutritional Status on Cognition in Institutionalized Orphans, A Pilot Study.md",
-    "Highlights for Nutrition_Paper 2_Annotated.md",
-    "Volume 2/Volume 2 Public Resource Links/Nutrition_Paper 2_Annotated.pdf",
-    "Volume 2/Volume 2 Public Resource Links/Childcare practices, morbidity status and nutrition status._Annotated copy.pdf"
+    "conflict-files-obsidian-git.md"
   ]
 }
