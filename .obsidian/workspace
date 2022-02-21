@@ -7,9 +7,11 @@
         "id": "606f4bf08538e337",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Volume 2/Volume 2 Public Resource Links/Nutrition_Paper 2_Annotated.pdf"
+            "file": "Volume 2/Daily Log/Akshays Log.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Volume 2 Public Resource Links/Nutrition_Paper 2_Annotated.pdf",
+                "file": "Volume 2/Daily Log/Akshays Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 2/Volume 2 Public Resource Links/Nutrition_Paper 2_Annotated.pdf",
+                "file": "Volume 2/Daily Log/Akshays Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +112,7 @@
   },
   "active": "606f4bf08538e337",
   "lastOpenFiles": [
+    "Volume 2/Daily Log/Akshays Log.md",
     "Volume 2/Volume 2 Public Resource Links/Nutrition_Paper 2_Annotated.pdf",
     "Volume 2/Volume 2 Public Resource Links/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.pdf",
     "Volume 2/Volume 2 Index.md",
@@ -118,7 +121,6 @@
     "Volume 4/Foster Care Research 2012 by VOC Final.md",
     "Volume 4/Life-Skills-in-CCIs-during-COVID-27-Sept-2020.md",
     "Volume 4/Research Journal_Mekha.md",
-    "Volume 4/Voc-research-final-book.md",
-    "conflict-files-obsidian-git.md"
+    "Volume 4/Voc-research-final-book.md"
   ]
 }
