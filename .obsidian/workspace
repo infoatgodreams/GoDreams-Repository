@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "d1c112a4aba6d553",
+    "type": "split",
+    "children": [
+      {
+        "id": "606f4bf08538e337",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Volume 2/Volume 2 Public Resource Links/Nutrition_Paper 2_Annotated.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c173cb3e1af6d8f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "386e36db78707c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f8477a80b9da850",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ccbc8e61f761066",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e698accb92ee8ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd8d794f02cc8d21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2157d14326f9bd68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Volume 2/Volume 2 Public Resource Links/Nutrition_Paper 2_Annotated.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea71b2c36ed38c90",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Volume 2/Volume 2 Public Resource Links/Nutrition_Paper 2_Annotated.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33ab9bef57fe3aec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "606f4bf08538e337",
+  "lastOpenFiles": [
+    "Volume 2/Volume 2 Public Resource Links/Nutrition_Paper 2_Annotated.pdf",
+    "Volume 2/Volume 2 Public Resource Links/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.pdf",
+    "Volume 2/Volume 2 Index.md",
+    "Volume 3/Research Journal - Glo.md",
+    "Volume 4/Butterflies_Child Participation Research.md",
+    "Volume 4/Foster Care Research 2012 by VOC Final.md",
+    "Volume 4/Life-Skills-in-CCIs-during-COVID-27-Sept-2020.md",
+    "Volume 4/Research Journal_Mekha.md",
+    "Volume 4/Voc-research-final-book.md",
+    "conflict-files-obsidian-git.md"
+  ]
+}
