@@ -8,9 +8,8 @@ tag:
 # 21-02-2022
 - United Nations International Children Education Fund study during 2005–2013 reported that CSA in Indian girls was 42%.[[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8445113/#ref8)] A Government of India, Ministry of Women and Child Development (MWCD) study in 2007 which interviewed 125,000 children in 13 Indian states revealed that the prevalence of all forms of child abuse is extremely high (physical abuse [66%], sexual abuse [50%], and emotional abuse [50%]). This major state-sponsored survey in India reported the prevalence of CSA as 53%.[[9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8445113/#ref9)] 
 - Boys were equally affected and more than 20% were subjected to severe forms of sexual abuse that included: sexual assault, making the child fondle private parts, making the child exhibit private body parts, and being photographed in the nude.
-- Consistently, in other studies[[23](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8445113/#ref23)] the highest numbers of registered cases were falling in this age group where teenagers (16 to less than 18 years old) were engaging in consensual relationships (sexual intercourse by mutual consent).
-- 
-
+**- Consistently, in other studies[[23](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8445113/#ref23)] the highest numbers of registered cases were falling in this age group where teenagers (16 to less than 18 years old) were engaging in consensual relationships (sexual intercourse by mutual consent).**.
+**- The MTP Act, 2003 makes it mandatory for healthcare professionals to keep all information on those seeking abortions confidential. According to POSCO Act, if a girl wants to undergo MTP on humanitarian grounds but does not want to file a police complaint (when pregnancy is an outcome of sexual assault), the healthcare professional must inform the police that the cause for pregnancy was rape. Healthcare professional's attempts to interact and work with young people will be severely compromised by a violation of privacy if they are legally obligated to reveal any knowledge of consensual, although underage sex.**
 ## 09-02-2022
 
 Paper: Supporting youth Leaving Care: A Study of Aftercare Practices
