@@ -7,8 +7,17 @@
         "id": "606f4bf08538e337",
         "type": "leaf",
         "state": {
+<<<<<<< Updated upstream
           "type": "empty",
           "state": {}
+=======
+          "type": "markdown",
+          "state": {
+            "file": "Home.md",
+            "mode": "source",
+            "source": false
+          }
+>>>>>>> Stashed changes
         }
       }
     ],
@@ -65,6 +74,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "Home.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +94,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "Home.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,6 +123,19 @@
   },
   "active": "606f4bf08538e337",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "conflict-files-obsidian-git.md"
+=======
+    "Home.md",
+    "List of Tags being used (Live).md",
+    "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
+    "Volume 1/Volume 1 Public Resource Links/Research Papers/Global/Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya.pdf",
+    "conflict-files-obsidian-git.md",
+    "Volume 1/Volume 1 Index.md",
+    "Volume 1/Volume 1 Public Resource Links/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.pdf",
+    "Volume 1/Volume 1 Public Resource Links/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countr.pdf",
+    "Volume 2/Daily Log/Akshays Log.md",
+    "Meeting Notes/11-02-2022.md"
+>>>>>>> Stashed changes
   ]
 }
