@@ -149,7 +149,7 @@ Anaemia Mukt Bharat Scorecard [Assessment Tools](Volume%201/Roll%20Ups/Assessmen
     * 2nd -  Insult to the Modesty of Women (8199 out of 77,382)
     * 3rd - Assault on women with intent to outrage her modesty (4110 out of 77,382).
     * Within SLL crimes, the share of cases under the POCSO Act is the highest [47,221 out of 51,149 or 92.3%].
-* It is now an admitted fact that **child labour has seen an upward trend **during the COVID times as there are enough evidences to show that many children had to drop out from school to support their families.
+* It is now an admitted fact that **child labour has seen an upward trend** during the COVID times as there are enough evidences to show that many children had to drop out from school to support their families.
 * The policy makers can also not shy away from the phenomena of witnessing children headed households.
 * The ILO and UNICEF report warns that globally, 9 million additional children are at risk of being pushed into child labour by the end of 2022 as a result of the pandemic. A simulation model shows this number could rise to 46 million if they don’t have access to critical social protection coverage.
 * According to UNICEF India, more than 1.5 billion children in India missed out on their schooling due to COVID-19 restrictions.
