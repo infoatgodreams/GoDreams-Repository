@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nutritional status of children",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
