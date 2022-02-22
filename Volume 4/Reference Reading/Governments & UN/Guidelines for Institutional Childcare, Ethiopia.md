@@ -134,10 +134,7 @@ The specific objectives of a childcare institution shall include the provision o
                 * one radio set; and
                 * other indoor facilities common in the locality.
 
-
 ## Human Power
-
-
 
 * To provide an optimal caring environment, a childcare institution shall accommodate a maximum of 150 children and shall, at least, have the following organisational structure and human-power input:
     * Manager / Administrator
@@ -151,21 +148,19 @@ The specific objectives of a childcare institution shall include the provision o
     * Counsellor; and
     * Home Mothers.
 * The profile of the human-power shall be:
-    * **Manager / Administrator: **The manager / administrator shall have at least his/her first degree in sociology, psychology, or other related fields of study with, at least, two years of relevant experience.
-    * **Secretary: **The Secretary shall, at least, have a diploma in office management, accounting or other related fields with, at least, two years of experience in similar line of work.
-    * **Finance Officer: **The Finance officer shall, at least, have a diploma in accounting or other related fields with a minimum experience of two years in the area.
-    * **Purchaser: **The Purchaser shall, at least, have a diploma in material management or other related fields with a minimum experience of two years in the area.
-    * **Storekeeper: **The Storekeeper shall, at least, complete grade twelve with a minimum experience of two years in the area.
-    * **Cashier: **The Cashier shall, at least, have a diploma in accounting or other related fields with a minimum experience of two years in the area.
-    * **Sanitary and Guards:** Sanitary and guards should complete at least grade six with a minimum experience of two years in the area.
-    * **Health assistant;** A Health Assistant shall, at least, have a certificate with a minimum experience of two years in the area.
-    * **Counselor:** A Counselor shall, at least, have his/her first degree in psychology with a minimum experience of two years in the area.
-    * **Home Mothers:** A Home Mother should complete at least grade six and shall have at least a three months relevant training and a minimum experience of one year as an assistant home mother.
+    * Manager / Administrator: The manager / administrator shall have at least his/her first degree in sociology, psychology, or other related fields of study with, at least, two years of relevant experience.
+    * Secretary: The Secretary shall, at least, have a diploma in office management, accounting or other related fields with, at least, two years of experience in similar line of work.
+    * Finance Officer: The Finance officer shall, at least, have a diploma in accounting or other related fields with a minimum experience of two years in the area.
+    * Purchaser:The Purchaser shall, at least, have a diploma in material management or other related fields with a minimum experience of two years in the area.
+    * Storekeeper: The Storekeeper shall, at least, complete grade twelve with a minimum experience of two years in the area.
+    * Cashier: The Cashier shall, at least, have a diploma in accounting or other related fields with a minimum experience of two years in the area.
+    * Sanitary and Guards: Sanitary and guards should complete at least grade six with a minimum experience of two years in the area.
+    * Health assistant: A Health Assistant shall, at least, have a certificate with a minimum experience of two years in the area.
+    * Counselor: A Counselor shall, at least, have his/her first degree in psychology with a minimum experience of two years in the area.
+    * Home Mothers: A Home Mother should complete at least grade six and shall have at least a three months relevant training and a minimum experience of one year as an assistant home mother.
 
 
 ## Technical/Administrative aspects
-
-
 
 * **Financial System:** A childcare institution shall prepare and approve its standardised financial system during establishment.
 * **Admission: **A childcare institution shall only accept a beneficiary child through the Regional Labour and Social Affairs Bureau or any other authorised organisation.
@@ -223,9 +218,6 @@ The specific objectives of a childcare institution shall include the provision o
 
 
 ## Services
-
-
-
 * Types of Services
     * A childcare institution shall render the following services to its beneficiaries:
         * Lodging
