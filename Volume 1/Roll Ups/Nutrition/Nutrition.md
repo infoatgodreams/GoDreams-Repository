@@ -72,8 +72,12 @@ tags:
 
 - WHO has built a software tool and graphs/tables for field measurements of height to age , weight to age and BMI to age ratios [^5]
 	- The tool is more accurate for children below the age of 5
-	- For children above the age of 5, a loose reference version of the tool modified by the Indian Pediatrics Association, is available as part of the [Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children](Volume%201/Reference%20Reading/Governments%20&%20UN/IAP/Revised%20IAP%20Growth%20Charts%20for%20Height,%20Weight%20and%20Body%20Mass%20Index%20for%205%20to%2018%20year%20old%20Indian%20Children.md) [^6]  written in 
+	- For children above the age of 5, a loose reference version of the tool modified by the Indian Pediatrics Association, is available as part of the [Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children](Volume%201/Reference%20Reading/Governments%20&%20UN/IAP/Revised%20IAP%20Growth%20Charts%20for%20Height,%20Weight%20and%20Body%20Mass%20Index%20for%205%20to%2018%20year%20old%20Indian%20Children.md) [^6]  written in 2014
+- These tools can be used to assess overall dietary inputs and gaps at a macro level
 
+## CCI Level Assessments
+- ==Publicly available micro level tracking tools for nutritional outputs remain to be found==
+	- This can be designed with the help of a nutritionist and a pediatrician. 
 
 # Footnotes 
 
