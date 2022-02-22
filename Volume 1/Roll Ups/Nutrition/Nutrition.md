@@ -137,6 +137,7 @@ tags:
 			- Special meals on holidays and festivals
 		- Individual Nutrition Plans
 		- Special Diets -- medical or otherwise
+			- Checklist to identify need for special diets
 			- Liquid/Semi-liquid/Minced foods
 			- Cultural Modification to diets
 	- **Kitchen Operations**
