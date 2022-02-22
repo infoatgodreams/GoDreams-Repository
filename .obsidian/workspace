@@ -11,22 +11,10 @@
           "type": "markdown",
           "state": {
             "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "bb586914cec6f505",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md",
-            "mode": "source",
-            "source": false
-          }
         }
       }
     ],
@@ -63,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,14 +123,14 @@
   "active": "68ed60e56e451fb1",
   "lastOpenFiles": [
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+    "conflict-files-obsidian-git.md",
+    "files without tags.md",
+    "List of Tags being used (Live).md",
     "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md",
     "Volume 3/Reference Reading/Research Papers/Global Research/Global Childhood Report 2021.md",
     "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
     "Volume 1/Reference Reading/Governments & UN/British Columbnia/Canada_British Columbia_Food and Nutrition Manual for homes.md",
-    "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
-    "Volume 1/Reference Reading/Research Papers/India/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-    "Home.md"
+    "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md"
   ]
 }
