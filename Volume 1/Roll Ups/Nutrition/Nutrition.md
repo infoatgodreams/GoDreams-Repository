@@ -109,8 +109,13 @@ tags:
 	 - 1/3 of young children refused to eat solid food
 	 - ~1/3 overate, many children never refused food either due to catch up mechanism as a response to malnourishment or because they had never eaten enough food to allow them to learn feelings of satiety. 
 - Older children are often fed the same quantity of food as the younger children resulting in lower than required intake [^3]
+- Eleven months after adoption 65% of  orphanage children adopted into Canada from Romanian orphanages [^4] had eating problems 
+		-  Parents reported that one-third of children refused to eat solid foods and almost one-third of children overate. 
+		-  In the Canadian  sample, many parents of orphanage children  reported that they continued to offer food to  children after a meal and that it was never refused
+		- Given orphanage children’s malnutrition and small size, such overeating probably  represents their bodies’ natural catch-up mechanism. 
+		- Children in orphanage had never eaten  enough food to allow them to learn feelings  of satiety (Fisher et al., 1997). 
+		-  Three  years after adoption, orphanage children had no more eating problems than did Canadian  born or early-adopted children (Ames, 1997)
 - 
-
 # Caregiving
 
 ## Observations on Caregiver behavior wrt Nutrition
