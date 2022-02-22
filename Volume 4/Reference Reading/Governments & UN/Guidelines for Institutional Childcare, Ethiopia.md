@@ -424,13 +424,11 @@ A family is eligible for child-family reunification if it is:
 
 ## Reunification Services
 
-
-
-* Services at the Time of Reunification
+* ### Services at the Time of Reunification
     * Provide where necessary material and financial support to the child’s parent/s or members of extended family to cover costs that may arise due to inclusion of the child into the family
     * Provide the child with basic material support, including, clothing, sanitary materials, etc., and financial input covering transport and other expenses; and
     * Support where necessary economically disadvantaged families to guarantee the child’s healthy post-reunification adjustment
-* Post Reunification Follow-up
+* ### Post Reunification Follow-up
     * A childcare organization working on child-family reunification, after reunifying the child, shall conduct follow-up at least once in a year on the overall and specific development of a child till the child is well adjusted within the family and the surrounding environment. The follow up shall include child’s development with respect to:
         * health status
         * nutritional status
@@ -440,35 +438,30 @@ A family is eligible for child-family reunification if it is:
         * emotional and spiritual development
     * A childcare organisation shall provide the necessary periodic counselling of the childcare institution till the child is well adjusted within the family and the surrounding environment
     * The summary of the periodic follow-up shall be included in reports that shall be submitted to the accredited governmental body.
+
+
 * Record Keeping
-
     A childcare organization working on child-family reunification shall keep records of the periodic follow-up on the development of a child on a standardised form with respect to the child's
+	*  health status
+	* nutritional status
+	* physical development
+	* educational development
+	* social development; and
+	* emotional and spiritual development.
 
-*  health status
-* nutritional status
-* physical development
-* educational development
-* social development; and
-* emotional and spiritual development.
 
-
-# FOSTER FAMILY CARE
+## FOSTER FAMILY CARE
 
 
 ## The Need for the Guideline
 
 A consistent and high-quality level of foster family care is recommended as an alternative temporary substitute care for a child deprived of his/her biological family for:
 
-
-
 * Foster family care offers temporary care for an unaccompanied child and creates an opportunity to cater for the child’s basic physical, emotional, social, mental and spiritual needs.
 * A guideline provides standards for adherence and application and prevents abuse and neglect of the child.
 * A guideline defines an optimal quality of service where, monitoring, assessment and evaluation would be possible.
 
 The Guideline is based on the ethical principles given in:
-
-
-
 * UN Convention on the Rights of the Child; and
 * UN Declaration on Social and Legal Principles Relating to the Protection and Welfare of Children, with Special Reference to Foster Placement and Adoption Nationally and Internationally.
 
