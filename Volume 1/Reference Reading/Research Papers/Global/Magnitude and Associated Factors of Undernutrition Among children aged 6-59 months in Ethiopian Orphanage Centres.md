@@ -22,8 +22,7 @@ Link: [Google Drive](https://drive.google.com/file/d/1z3n0d72KrjnfxbW_31ATp_n6HI
 -  Illness in the last two weeks before the survey [AOR= 4.9 (1.345, 1.865)] was a significant predictor of wasting.
 - Majority of children in orphanages are nutritionally challenged because of many factors including the fact that they have never been breastfed or exclusively breastfed, low rates of vaccination, and basic hygiene.
 
-- Being a double orphaned, lack of vitamin A supplement, and illness in the last two
-weeks were associated with undernutrition.
+- Being a double orphaned, lack of vitamin A supplement, and illness in the last two weeks were associated with undernutrition.
 
 - In some cases, children are kept unhealthy conditions to appeal to donors and volunteers. (Page 2)
 
@@ -58,10 +57,9 @@ weeks were associated with undernutrition.
 Prevalence of wasting : 4.4%
 underweight, and stunting was 4.4%, 12.3%and 34.8%,
 respectively.
+
 # Wasting
-
 - Prevalence of wasting : 4.4%
-
 - The odds of wasting among OVC who had the illness before 2 weeks were 4.9 times an increased risk than OVC who did not have an illness. This due to illness may result in lower appetite, poor digestion, and malabsorption which leads to at least one parent alive. (Page 6)
 - This finding was similar to the study in the rural community of Hawassa, Mygoma orphanage center, Khartoum, Sudan, and Tangle, district of Bangladesh which showed a significant relationship between occurred disease type and wasting.
 
