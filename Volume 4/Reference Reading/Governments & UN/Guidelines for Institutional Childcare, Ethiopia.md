@@ -323,7 +323,7 @@ The specific objectives of a childcare institution shall include the provision o
         * The counsellor should follow-up the vocational development of trainees attending vocational training monthly.
         * The counsellor should prepare a quarterly report on the vocational development of children attending vocational training and submit the same to the administration of the childcare institution.
         * A childcare institution shall provide the necessary support to beneficiaries who complete vocational training in securing employment opportunities.
-    * **Play and Recreation: **A childcare institution shall make the necessary play and recreational materials available to the children.
+    * **Play and Recreation**: A childcare institution shall make the necessary play and recreational materials available to the children.
     * **Guidance and Counselling**
         * A childcare institution shall provide guidance and counselling service to the children. Guidance and Counselling service in a childcare institution shall include:
             * educational guidance
@@ -358,8 +358,6 @@ The specific objectives of a childcare institution shall include the provision o
 
 ## Community Participation
 
-
-
 * The childcare institution shall advocate for children’s rights in the surrounding communities
 * A childcare institution shall facilitate conditions for the children to interact among themselves and for the community to interact with the children in the institution.
 * A childcare institution shall facilitate conditions for children to participate in the activities within the institution as well as in community activities
@@ -373,8 +371,6 @@ The specific objectives of a childcare institution shall include the provision o
 
 The child-family reunification program, is a primary option for unaccompanied children. The operations of child-family reunification need to be carried out on the basis of standard procedures that ensure the best interest of the child. Hence, this Guideline is developed to:
 
-
-
 * upgrade the existing child-family reunification services
 * provide basic operational guide for childcare organizations providing child-family reunification service; and
 * facilitate monitoring and evaluation of child-family reunification services as it defines optimal level of performance or practice.
@@ -382,22 +378,16 @@ The child-family reunification program, is a primary option for unaccompanied ch
 **Child-Family Reunification:** Child-family reunification refers to a rehabilitative intervention designed to facilitate the reunion of an unaccompanied child or a child in an alternative care with his/her biological parents or member/s of extended family to restore a family environment as a means of a permanent placement for the proper growth and development of the child.
 
 
-## Specific Objectives
-
-
-
+## Why is reintegration so important? 
 * preventing the various psycho-social problems that arise among children due to deprivation of familial care
 * facilitating conditions for the assimilation of children with their parents and/or members of extended family and promote their all rounded development
 * creating opportunities for children in which they can learn familial and social values and norms living with their parents and/or members of the extended family; and
 * supporting parents and/or members of extended families to re-assume their responsibility to cater for their children.
 
 
-## Eligibility of a Child 
+## What makes a child eligible for reunification?
 
 A child is eligible for child-family reunification if he/she is:
-
-
-
 * below the age of eighteen;
 * unaccompanied; and
 * willing to reunify with his/her biological parents or member/s of extended family.
@@ -406,16 +396,11 @@ A child is eligible for child-family reunification if he/she is:
 ## Eligibility of a Parents and/or member/s of Extended Family for Child-Family Reunification 
 
 A family is eligible for child-family reunification if it is:
-
-
-
 * willing to accept and care for the child; and
 * able to produce documents from a local governmental administrative body as to its credibility.
 
 
 ## Pre-unification Procedure
-
-
 
 * Identifying a Child and Confirming Eligibility
     * Identifying an unaccompanied child or a child placed in an alternative childcare program for child-family reunification
