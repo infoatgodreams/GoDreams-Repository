@@ -15,10 +15,10 @@ Attachments:
  # Health & Nutrition
 
 - A study assessed the health and nutritional status of the institutionalised children from four states of Andhra Pradesh, Uttar Pradesh, West Bengal and Karnataka ;clinical status of these children showed that  (Page 7)
-- Vitamin A and B complex deficiency were the most common nutritional deficiency signs among children (Page 7) 
-- Common conditions of cough, fever, sore throat, sore eyes, scabies and other skin infections were prevalent. Other conditions like anaemia, phrynoderma and dental caries werealso observed. (Page 7)
-- one out of every four children suffered from sickness, fatigue and bad sleep (Page 7) 
--  Health check-ups comprised quarterly health checkups including haemoglobin test and annual detailed checkup of eye, hearing and dental checkup of children and caregiving team. (Page 11)  
+	- Vitamin A and B complex deficiency were the most common nutritional deficiency signs among children (Page 7) 
+	- Common conditions of cough, fever, sore throat, sore eyes, scabies and other skin infections were prevalent. Other conditions like anaemia, phrynoderma and dental caries werealso observed. (Page 7)
+	- one out of every four children suffered from sickness, fatigue and bad sleep (Page 7) 
+- Health check-ups comprised quarterly health checkups including haemoglobin test and annual detailed checkup of eye, hearing and dental checkup of children and caregiving team. (Page 11)  
 - Children’s height and weight were measured on a monthly basis with a medically approved height measurement stand and digital weight machine.  (Page 12) 
 - plotted on children’s individual WHO (World Health Organisation)growth charts on a quarterly basis (Page 12) 
 - biannual water test analysis for physio-chemical and bacterial content, thewater quality was ensured and maintained at each channel of distribution.  (Page 12) 

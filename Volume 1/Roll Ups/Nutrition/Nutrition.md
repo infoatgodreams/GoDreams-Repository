@@ -33,9 +33,13 @@ tags:
 	- Malaria
 	- Diarrhoea
 - According to a study in Ethiopia [^9]  Majority of children in orphanages are nutritionally challenged because of many factors including the fact that
-	-  they have never been breastfed or exclusively breastfed, 
+	- they have never been breastfed or exclusively breastfed, 
 	- low rates of vaccination, 
 	- and lack of basic hygiene.
+- According to Miracle Foundation [^14], a study assessed the health and nutritional status of the institutionalized children from four states of Andhra Pradesh, Uttar Pradesh, West Bengal and Karnataka ;clinical status of these children showed that  (Page 7)
+	- Vitamin A and B complex deficiency were the most common nutritional deficiency signs among children (Page 7) 
+	- Common conditions of cough, fever, sore throat, sore eyes, scabies and other skin infections were prevalent. Other conditions like anaemia, phrynoderma and dental caries werealso observed. (Page 7)
+	- one out of every four children suffered from sickness, fatigue and bad sleep (Page 7) 
 ## Stunting
 - [Stunting in a nutshell (who.int)](https://www.who.int/news/item/19-11-2015-stunting-in-a-nutshell#:~:text=Stunting%20is%20the%20impaired%20growth,WHO%20Child%20Growth%20Standards%20median.) : Stunting is the impaired growth and development that children experience from poor nutrition, repeated infection, and inadequate psychosocial stimulation. Children are defined as stunted if their height-for-age is more than two standard deviations below the [WHO Child Growth Standards](Volume%201/Reference%20Reading/Governments%20&%20UN/WHO/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md) median.
 - According to a meta study of global research, stunting prevalence can vary from 9–72%; [^12]
@@ -138,3 +142,4 @@ tags:
 [^11]: [Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres](Volume%201/Reference%20Reading/Research%20Papers/Global/Magnitude%20and%20Associated%20Factors%20of%20Undernutrition%20Among%20children%20aged%206-59%20months%20in%20Ethiopian%20Orphanage%20Centres.md)
 [^12]: [The nutritional status of children living within institutionalized care, a systematic review](Volume%202/Reference%20Reading/Research%20Papers/The%20nutritional%20status%20of%20children%20living%20within%20institutionalized%20care,%20a%20systematic%20review.md)
 [^13]: Unread
+[^14]: [MiracleFoundation_Institutionalise Children Explorations and Beyond](Volume%201/Volume%201%20Public%20Resource%20Links/Other%20service%20providers/MiracleFoundation_Institutionalise%20Children%20Explorations%20and%20Beyond.pdf)
