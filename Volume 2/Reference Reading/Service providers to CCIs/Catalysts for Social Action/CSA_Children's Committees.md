@@ -1,6 +1,6 @@
 ---
 title: Enabling Children’s Right to Participation Through Children’s Committees in CCIs
-author: Catalysts for Social Action
+author: Akshay
 tags :
 - Practitioner
 ---

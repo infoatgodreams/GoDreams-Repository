@@ -1,6 +1,6 @@
 ---
 title: Bonds of Hope, Connecting to children in the observation homes of Rajasthan
-author: Counsel to Secure Justice, UNICEF
+author: Akshay
 tags :
 - Practitioner
 ---

@@ -1,18 +1,16 @@
+---
+title: Guidelines for Institutional Childcare, Ethiopia
+author: Akshay
+tags : 
+- intlgovernment
+---
+Tags: [Care Practices](Volume%201/Roll%20Ups/Caregiving/Care%20Practices.md) [Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md) [Child Safety](Volume%201/Roll%20Ups/Child%20Safety/Child%20Safety.md)
 
-
-
-
-
-
-This paper was made in 1998 and covers the different care practices (including alternative care methods)
-
-Highlighted PDF: [Here](https://drive.google.com/file/d/1qP7Hxnor9J8aFLV1INEfHAYGeFyk19Oc/view?usp=sharing)
-
+Link: https://drive.google.com/file/d/1qP7Hxnor9J8aFLV1INEfHAYGeFyk19Oc/view?usp=sharing
+Context: This paper was made in 1998 and covers the different care practices (including alternative care methods)
 
 
 ## The Need for the Guideline
-
-
 
 1. Upgrade the existing services of childcare institutions; set regulations for service provision as well as requirements for establishment of childcare institution;
 2. Define optimal level of performance or practice on institutional childcare to achieve standards of excellence; and
@@ -20,14 +18,12 @@ Highlighted PDF: [Here](https://drive.google.com/file/d/1qP7Hxnor9J8aFLV1INEfHAY
 
 Note: This guideline is based on UN Convention on the Rights of the Child and the Ethiopian laws
 
-Note [page 3]: In this document - children who are orphaned or abandoned or ill are old included. Does not include families who financially struggle to look after children
+Note page 3: In this document - children who are orphaned or abandoned or ill are old included. Does not include families who financially struggle to look after children
 
 
-## Specific Objectives/Childcare Focussed input areas
+## Childcare focus domains:
 
 The specific objectives of a childcare institution shall include the provision of:
-
-
 
 * food
 * loading
@@ -43,8 +39,6 @@ The specific objectives of a childcare institution shall include the provision o
 
 ## Areas of involvement of a childcare institution
 
-
-
 * **preventive Intervention** or activities undertaken within the childcare institution to avoid or avert the development of undesirable psycho- social, health, economic, educational, etc., aspects of the unaccompanied children
 * **remedial Intervention** or activities undertaken within the childcare institution to modify undesirable psycho-social, health, economic, educational, etc., aspects of the unaccompanied children
 * **rehabilitative Intervention **or activities undertaken within the childcare institution to restore the psycho-social, health, economic, educational, etc., status of the unaccompanied children
@@ -56,24 +50,14 @@ The specific objectives of a childcare institution shall include the provision o
 
 
 ## Infrastructure Requirements
-
-
 ### Location
+**Distance from the main road**.
+- If the childcare institution is in an urban center, its distance from the main road shall be at least one Kilometer and at most three kilometers.
+- If the childcare institution is in a rural area and the main road is a dry whether road, its distance from the main road shall not be more than five kilometers. 
+- If the childcare institution is in a rural area and the main road is an all whether road, its distance from the main road shall not be more than ten kilometers.
 
-Distance from the main road
-
-
-
-    * If the childcare institution is in an urban center, its distance from the main road shall be at least one Kilometer and at most three kilometers.
-    * If the childcare institution is in a rural area and the main road is a dry whether road, its distance from the main road shall not be more than five kilometers.
-    * If the childcare institution is in a rural area and the main road is an all whether road, its distance from the main road shall not be more than ten kilometers.
-
-
-### Compound
-
-
-
-* A compound of a childcare institution shall have** adequate space relative to the number of beneficiaries**. 
+**Compound** 
+- A compound of a childcare institution shall have adequate space relative to the number of beneficiaries.**
 * Thus, a childcare institution shall have **adequate space for building** 
     * homes and/or dormitories
     * service giving rooms
@@ -93,9 +77,6 @@ Distance from the main road
 
 
 ### Building
-
-
-
 * A childcare institution shall, at least, have separate buildings designed for:
     * Lodging
     * administration 

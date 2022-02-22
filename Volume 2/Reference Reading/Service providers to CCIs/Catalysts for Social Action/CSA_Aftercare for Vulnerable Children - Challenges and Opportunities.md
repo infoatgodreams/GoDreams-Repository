@@ -1,6 +1,6 @@
 ---
 title: Empowering Youth leaving care at 18, Learnings from providing atercare services
-author: Catalysts for Social Action
+author: Akshay
 tags :
 - Practitioner
 ---
