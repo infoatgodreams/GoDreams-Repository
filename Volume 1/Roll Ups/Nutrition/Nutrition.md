@@ -71,6 +71,8 @@ tags:
 ## WHO standards
 
 - WHO has built a software tool and graphs/tables for field measurements of height to age , weight to age and BMI to age ratios [^5]
+	- The tool is more accurate for children below the age of 5
+	- For children above the age of 5, a loose reference version of the tool modified by the Indian Pediatrics Association, is available as part of the [Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children](Volume%201/Reference%20Reading/Governments%20&%20UN/IAP/Revised%20IAP%20Growth%20Charts%20for%20Height,%20Weight%20and%20Body%20Mass%20Index%20for%205%20to%2018%20year%20old%20Indian%20Children.md) [^6]  written in 
 
 
 # Footnotes 
@@ -80,3 +82,4 @@ tags:
 [^3]: [Nutrition, Health & Psychosocial Profile of Institutionalized Children](Volume%201/Reference%20Reading/Research%20Papers/India/Nutrition,%20Health%20&%20Psychosocial%20Profile%20of%20Institutionalized%20Children.md)
 [^4]: [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Reference%20Reading/Research%20Papers/Global/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md) 
 [^5]: [WHO Child Growth Standards](Volume%201/Reference%20Reading/Governments%20&%20UN/WHO/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md)
+[^6]: [Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children](Volume%201/Reference%20Reading/Governments%20&%20UN/IAP/Revised%20IAP%20Growth%20Charts%20for%20Height,%20Weight%20and%20Body%20Mass%20Index%20for%205%20to%2018%20year%20old%20Indian%20Children.md)
