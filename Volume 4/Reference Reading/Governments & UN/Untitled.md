@@ -9,8 +9,6 @@ This paper was made in 1998 and covers the different care practices (including a
 Highlighted PDF: [Here](https://drive.google.com/file/d/1qP7Hxnor9J8aFLV1INEfHAYGeFyk19Oc/view?usp=sharing)
 
 
-# INSTITUTIONAL CARE
-
 
 ## The Need for the Guideline
 
