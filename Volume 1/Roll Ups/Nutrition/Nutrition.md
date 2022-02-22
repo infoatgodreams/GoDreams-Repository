@@ -106,6 +106,7 @@ tags:
 
 ## Observations on Caregiver behavior wrt Nutrition
 - In some cases in the Ethiopian study [^11] , children were kept unhealthy conditions to appeal to donors and volunteers.
+- In the Kenyan Study [^10] Children whose caregivers had not received any form of training on childcare practices were more likely to be underweight, wasted and stunted respectively. 
 - Factors impacting children’s nutrition status in care centers [^12] include (Franketal.,1996;vanIJzendoornetal.,2011;TheSt.Petersburg-USAOrphanageResearchTeam,2008) 
 		- Inadequate or poor quality of food
 		- inappropriate types of food
