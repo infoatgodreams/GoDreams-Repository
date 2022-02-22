@@ -3,7 +3,8 @@ title: Nutrition
 tags: 
 - Rollups
 ---
-
+# Introduction
+- According to the [Global Childhood Report 2021](Volume%203/Reference%20Reading/Research%20Papers/Global%20Research/Global%20Childhood%20Report%202021.md)[^7] , malnutrition has been classified as a "childhood ender". 
 # Signs and symptoms of deficiencies
 
  - Small Head Circumference : Especially for children under the age of 4
@@ -87,3 +88,4 @@ tags:
 [^4]: [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Reference%20Reading/Research%20Papers/Global/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md) 
 [^5]: [WHO Child Growth Standards](Volume%201/Reference%20Reading/Governments%20&%20UN/WHO/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md)
 [^6]: [Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children](Volume%201/Reference%20Reading/Governments%20&%20UN/IAP/Revised%20IAP%20Growth%20Charts%20for%20Height,%20Weight%20and%20Body%20Mass%20Index%20for%205%20to%2018%20year%20old%20Indian%20Children.md)
+[^7]: [Global Childhood Report 2021](Volume%203/Reference%20Reading/Research%20Papers/Global%20Research/Global%20Childhood%20Report%202021.md)
