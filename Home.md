@@ -23,11 +23,11 @@ title: Home - CAP Design Portal
 - Alternative Care
 	- [Adoption](Volume%201/Roll%20Ups/Alternative%20Care/Adoption.md)
 	- [Foster Care](Volume%201/Roll%20Ups/Alternative%20Care/Foster%20Care.md)
-	- [[Kinship Care]]
-	- [[Restoration]]
-- [[Caregiving]]
-	- [[Care Practices]]
-	- [[Individualised Care]]
+	- [Kinship Care](Volume%201/Roll%20Ups/Alternative%20Care/Kinship%20Care.md)
+	- [Restoration](Volume%201/Roll%20Ups/Alternative%20Care/Restoration.md)
+- [Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md)
+	- [Care Practices](Volume%201/Roll%20Ups/Caregiving/Care%20Practices.md)
+	- [Individualised Care](Volume%201/Roll%20Ups/Caregiving/Individualised%20Care.md)
 	- [TIC-Trauma Informed Care](Volume%201/Roll%20Ups/Caregiving/TIC-Trauma%20Informed%20Care.md)
 - [CCI Operations](Volume%201/Roll%20Ups/CCI%20Operations/CCI%20Operations.md)
 	- [CCI Finances](Volume%201/Roll%20Ups/CCI%20Operations/CCI%20Finances.md)
@@ -35,11 +35,11 @@ title: Home - CAP Design Portal
 	- [Emergency Protocol](Volume%201/Roll%20Ups/CCI%20Operations/Emergency%20Protocol.md)
 	- [Program Operations](Volume%201/Roll%20Ups/CCI%20Operations/Program%20Operations.md)
 - [Education](Volume%201/Roll%20Ups/Education/Education.md)
-	- [[IQ]]
+	- [IQ](Volume%201/Roll%20Ups/Education/IQ.md)
 	- [Skilling](Volume%201/Roll%20Ups/Education/Skilling.md)
-- [[Hygiene]]
+- [Hygiene](Volume%201/Roll%20Ups/Hygiene/Hygiene.md)
 - [Mental Health](Volume%201/Roll%20Ups/Mental%20Health/Mental%20Health.md)
-- [[Nutrition]]
+- [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md)
 - [Physical Health](Volume%201/Roll%20Ups/Physical%20Health/Physical%20Health.md)
 - [Assessment Tools](Volume%201/Roll%20Ups/Assessment%20Tools.md)
 - [Infrastructure](Volume%201/Roll%20Ups/Infrastructure.md)
