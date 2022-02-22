@@ -11,7 +11,6 @@ tags:
 	- Nutritional deficiencies have been shown to have a negative impact on cognition [^9], 
 - In a study in orphanages in Kenya [^10], Prevalence of undernutrition seemed to increase significantly with an increase in length of stay in the orphanage
 # Signs and symptoms of nutritional deficiencies
-
 - Small Head Circumference : Especially for children under the age of 4 
 - Atypically short height and weight
 - Symptoms of Vitamin deficiencies observed in India  [^3]
@@ -86,8 +85,6 @@ tags:
 		- improper use of medications
 		- inappropriate feeding practices
 		- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients 
-
-- 
 # Micro Nutrients
 *Nutrients that the body requires in small amounts*	
  -  A study[^3]  in 4 states in India noted that :
