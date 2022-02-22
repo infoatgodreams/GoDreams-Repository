@@ -6,6 +6,7 @@
       {
         "id": "68ed60e56e451fb1",
         "type": "leaf",
+        "dimension": 78.96645512239347,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -20,10 +21,11 @@
       {
         "id": "15ce68873c69e3c5",
         "type": "leaf",
+        "dimension": 21.033544877606527,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md",
+            "file": "Volume 2/Reference Reading/Research Papers/The nutritional status of children living within institutionalized care, a systematic review.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+                "file": "Volume 2/Reference Reading/Research Papers/The nutritional status of children living within institutionalized care, a systematic review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+                "file": "Volume 2/Reference Reading/Research Papers/The nutritional status of children living within institutionalized care, a systematic review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,10 +133,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.02418518066406
+    "width": 562.0242309570312
   },
-  "active": "68ed60e56e451fb1",
+  "active": "15ce68873c69e3c5",
   "lastOpenFiles": [
+    "Volume 2/Reference Reading/Research Papers/The nutritional status of children living within institutionalized care, a systematic review.md",
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
     "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md",
     "Volume 3/Reference Reading/Research Papers/Global Research/Global Childhood Report 2021.md",
@@ -143,7 +146,6 @@
     "conflict-files-obsidian-git.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Save the Children/Save the Children_ SOP for Care and Protection of Children in Street Situations.md",
-    "Volume 1/Reference Reading/Governments & UN/WHO/WHO_Growth reference for school aged children and adolescents.md",
-    "Volume 1/Reference Reading/Governments & UN/Guidelines on Alternative Care_UN.md"
+    "Volume 1/Reference Reading/Governments & UN/WHO/WHO_Growth reference for school aged children and adolescents.md"
   ]
 }
