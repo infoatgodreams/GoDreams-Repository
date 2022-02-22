@@ -54,8 +54,7 @@ Link: [Google Drive](https://drive.google.com/file/d/1z3n0d72KrjnfxbW_31ATp_n6HI
 	- diarrhea, and 
 	- fever.
 
-Prevalence of wasting : 4.4%
-underweight, and stunting was 4.4%, 12.3%and 34.8%,
+- Prevalence of wasting,underweight, and stunting was 4.4%, 12.3%and 34.8%,
 respectively.
 
 # Wasting

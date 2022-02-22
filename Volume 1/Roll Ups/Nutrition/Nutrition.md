@@ -26,12 +26,16 @@ tags:
 		 		 - Eye infections
 		 		 - Otolaryngological issues: 
 		 - Girls from age 12-18
-		 		 - Anemia - Pallor 
+		 		 - Anemia 
+		 		 - Pallor 
 - A study in Kenya [^10] suggested that the following were very common in malnourished orphanage children: 
 	- ARI (Accute respiratory infections)
 	- Malaria
 	- Diarrhoea
-	- 
+- According to a study in Ethiopia [^9]  Majority of children in orphanages are nutritionally challenged because of many factors including the fact that
+	-  they have never been breastfed or exclusively breastfed, 
+	- low rates of vaccination, 
+	- and lack of basic hygiene.
 ## Stunting
 - [Stunting in a nutshell (who.int)](https://www.who.int/news/item/19-11-2015-stunting-in-a-nutshell#:~:text=Stunting%20is%20the%20impaired%20growth,WHO%20Child%20Growth%20Standards%20median.) : Stunting is the impaired growth and development that children experience from poor nutrition, repeated infection, and inadequate psychosocial stimulation. Children are defined as stunted if their height-for-age is more than two standard deviations below the [WHO Child Growth Standards](Volume%201/Reference%20Reading/Governments%20&%20UN/WHO/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md) median.
 - According to a meta study of global research, stunting prevalence can vary from 9–72%; [^12]
@@ -51,8 +55,11 @@ tags:
 
 ## Under-Weight
 - The NFHS-5 data [^8] also shows that 16 out of the 22 States and Union Territories surveyed registered a rise in the percentage of under-five children who are underweight and severely wasted in 2022. 
+- According to a meta study of global research, wasting prevalence can vary from 7-79%; [^12]
 - In a study carried out in Botswana (Misra & Bignami, 2008)[^13] it was found that children in orphanages were 49% more likely to be underweight than non-orphanage children. [^10]
-- 
+- In the Ethiopean study [^11], underweight had a 12.3% prevalence in orphanages.
+- 45·7% of respondents were underweight in the study on nutrition and its linkages to cognitive outcomes in India. [^9]
+- Solutions for this seem to be meeting adequate nutritional intake on a daily basis. No specifics found.
 # Macro Nutrients
 *Nutrients that the body requires in large amounts*
 
