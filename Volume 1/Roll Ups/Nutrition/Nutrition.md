@@ -126,15 +126,35 @@ tags:
 		- inappropriate feeding practices
 		- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients
 ## Caregiver Best Practices
+### Setting Up Nutritional Care Systems
+
+- SoPs are to be created and put up [^2] [^15], that define the 
+	- Meal Plans
+		- Minimum Nutritional Standards
+		- Meal Timings and Daily Menus
+			- Standardized Recipes
+			- Special meals on holidays and festivals
+		- Individual Nutrition Plans
+		- Special Diets -- medical or otherwise
+			- Liquid/Semi-liquid/Minced foods
+			- Cultural Modification to diets
+	- Food Operational Systems
+		- Ingredient purchase lists
+			- Guidelines for purchase
+			- Purchase lists from standardized recipes
+		- Kitchen and Food Preparation Safety Checklists
+		- Food program monitoring systems
+		- Feedback system from children and staff
+		-  Emergency Plans in case of 
+			- scarcity
+			- disasters
+	- Caregiver: Child Guidelines
+		- Mealtime assistance to children
+		- Accident/Emergency Training
+		- Dining environment and routines
+
+
 ### Meal Prep
-- Children's Nutrition and Diet Scale
-	- SoPs are to be created and put up [^2], that define the 
-		- Minimum Nutritional Standard
-		- Special meals on holidays and festivals
-		- Special diets for infants and sick children
-		- Meal Timings and Daily Menu
-
-
 ### During Meals
 
 - Sitting with the children during meals 
@@ -177,3 +197,4 @@ tags:
 [^12]: [The nutritional status of children living within institutionalized care, a systematic review](Volume%202/Reference%20Reading/Research%20Papers/The%20nutritional%20status%20of%20children%20living%20within%20institutionalized%20care,%20a%20systematic%20review.md)
 [^13]: Unread
 [^14]: [MiracleFoundation_Institutionalise Children Explorations and Beyond](Volume%201/Volume%201%20Public%20Resource%20Links/Other%20service%20providers/MiracleFoundation_Institutionalise%20Children%20Explorations%20and%20Beyond.pdf)
+[^15]: [Canada_British Columbia_Food and Nutrition Manual for homes](Volume%201/Reference%20Reading/Governments%20&%20UN/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md)
