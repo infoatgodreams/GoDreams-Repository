@@ -6,8 +6,10 @@ tags:
 # Introduction
 - According to the [Global Childhood Report 2021](Volume%203/Reference%20Reading/Research%20Papers/Global%20Research/Global%20Childhood%20Report%202021.md)[^7] by Save the Children, malnutrition has been classified as a "childhood ender". India ranks 118/186 countries on the list
 	- 34.7% of children between the ages of 0-5 have been classified as "Stunted" 
-- 
-# Signs and symptoms of deficiencies
+- According to the [Budget for Children 2022-23 Analysis](Volume%203/Reference%20Reading/Governments%20&%20UN/Budget%20for%20Children%202022-23%20Analysis.md)[^8]
+	- The share of children under the [[Saksham Anganwadi]] and [[Poshan 2.0]] scheme has observed a reduced allocation of 11.28 per cent with allocations going down from INR 19412.5 Crore in 2021-22 (BE) to INR 17223.61 Crore in Union Budget 2022-23 (BE).
+	- Nutritional deficiencies have been shown to have a negative impact on cognition [^9], 
+# Signs and symptoms of nutritional deficiencies
 
  - Small Head Circumference : Especially for children under the age of 4
  - Atypically short height and weight
@@ -31,8 +33,8 @@ tags:
 
  -  A study[^3]  in 4 states in India noted that 
 	 - Protein levels were not low
-	 - Energy intake falling short of RDA
-
+	 - Energy intake falling short of RDA (Recommended Dietary Allowances)
+	 - 
 
 # Micro Nutrients
 *Nutrients that the body requires in small amounts*	
@@ -91,3 +93,5 @@ tags:
 [^5]: [WHO Child Growth Standards](Volume%201/Reference%20Reading/Governments%20&%20UN/WHO/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md)
 [^6]: [Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children](Volume%201/Reference%20Reading/Governments%20&%20UN/IAP/Revised%20IAP%20Growth%20Charts%20for%20Height,%20Weight%20and%20Body%20Mass%20Index%20for%205%20to%2018%20year%20old%20Indian%20Children.md)
 [^7]: [Global Childhood Report 2021](Volume%203/Reference%20Reading/Research%20Papers/Global%20Research/Global%20Childhood%20Report%202021.md)
+[^8]: [Budget for Children 2022-23 Analysis](Volume%203/Reference%20Reading/Governments%20&%20UN/Budget%20for%20Children%202022-23%20Analysis.md)
+[^9]: [Impact of Nutritional Status on Cognition in Institutionalized Orphans, A Pilot Study](Volume%202/Reference%20Reading/Research%20Papers/Impact%20of%20Nutritional%20Status%20on%20Cognition%20in%20Institutionalized%20Orphans,%20A%20Pilot%20Study.md)
