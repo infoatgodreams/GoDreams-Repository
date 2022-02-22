@@ -129,8 +129,9 @@ tags:
 ### Setting Up Nutritional Care Systems
 
 - SoPs are to be created and put up [^2] [^15], that define the 
-	- Meal Plans
+	- **Meal Plans**
 		- Minimum Nutritional Standards
+		- Number of meals 
 		- Meal Timings and Daily Menus
 			- Standardized Recipes
 			- Special meals on holidays and festivals
@@ -138,7 +139,7 @@ tags:
 		- Special Diets -- medical or otherwise
 			- Liquid/Semi-liquid/Minced foods
 			- Cultural Modification to diets
-	- Food Operational Systems
+	- **Kitchen Operations**
 		- Ingredient purchase lists
 			- Guidelines for purchase
 			- Purchase lists from standardized recipes
@@ -148,20 +149,22 @@ tags:
 		-  Emergency Plans in case of 
 			- scarcity
 			- disasters
-	- Caregiver: Child Guidelines
+		- Child safe cutlery
+	- **Caregiver: Child Guidelines**
 		- Mealtime assistance to children
 		- Accident/Emergency Training
 		- Dining environment and routines
 
-
 ### Meal Prep
 ### During Meals
 
-- Sitting with the children during meals 
+- **Sitting with the children during meals** 
 	-  Paying attention to whether children eat properly is critical to noticing eating patterns and in increasing the caregiver : child bond. [^1]
-	- 
-
-
+	- It allows caregiver to provide mealtime assistance to children who have difficulty eating independently [^15]
+	- It also ensures caregivers are alert to incidents of choking etc. that can occur during mealtime. 
+- **Second helpings**
+	- Studies [^4]  have suggested that children in institutional care may not learn how to judge feelings of satiety and ask for more or less food, with a tendency to overeat when food is available in abundance.
+		- Not filling the plate, and allowing children to ask for seconds might be a best practice here. 
 ### Post Meal
 
 
