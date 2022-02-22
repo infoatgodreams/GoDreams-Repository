@@ -35,7 +35,7 @@ tags:
 ## Stunting
 - [Stunting in a nutshell (who.int)](https://www.who.int/news/item/19-11-2015-stunting-in-a-nutshell#:~:text=Stunting%20is%20the%20impaired%20growth,WHO%20Child%20Growth%20Standards%20median.) : Stunting is the impaired growth and development that children experience from poor nutrition, repeated infection, and inadequate psychosocial stimulation. Children are defined as stunted if their height-for-age is more than two standard deviations below the [WHO Child Growth Standards](Volume%201/Reference%20Reading/Governments%20&%20UN/WHO/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md) median.
 - According to a meta study of global research, stunting prevalence can vary from 9–72%; [^12]
-- According to NFHS5 data ,13 out of 22 states in India have witnessed a reversal in stunting outcomes, recording a rise in the percentage of children under five years who are stunted in 2022 in comparison to 2015- 16.
+- According to NFHS5 [^8] (National Familiy and Health Survey, 2019-20) data ,13 out of 22 states in India have witnessed a reversal in stunting outcomes, recording a rise in the percentage of children under five years who are stunted in 2022 in comparison to 2015- 16.
 - In a study in Ethiopia [^11], Being a double orphaned child and lack of vitamin A supplement in the last six months were significant predictors of stunting in children aged 1-5
 	- Children who did not take **Vitamin A supplement** in the last six months had a 1.9 times greater risk of stunting in comparison with children who took the recommended dose.
 	-  This effect was greater in children who were not breastfed
@@ -50,7 +50,8 @@ tags:
 - ==Solutions for wasting is missing in the research==
 
 ## Under-Weight
-- The NFHS-5 data also shows that 16 out of the 22 States and Union Territories surveyed registered a rise in the percentage of under-five children who are underweight and severely wasted in 2022. 
+- The NFHS-5 data [^8] also shows that 16 out of the 22 States and Union Territories surveyed registered a rise in the percentage of under-five children who are underweight and severely wasted in 2022. 
+- In a study carried out in Botswana (Misra & Bignami, 2008)[^13] it was found that children in orphanages were 49% more likely to be underweight than non-orphanage children. [^10]
 - 
 # Macro Nutrients
 *Nutrients that the body requires in large amounts*
@@ -129,3 +130,4 @@ tags:
 [^10]: [Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya](Volume%202/Reference%20Reading/Research%20Papers/Childcare%20practices,%20morbidity%20status%20and%20nutrition%20status%20of%20Pre-school%20children%20in%20Orphanages,%20Kenya.md)
 [^11]: [Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres](Volume%201/Reference%20Reading/Research%20Papers/Global/Magnitude%20and%20Associated%20Factors%20of%20Undernutrition%20Among%20children%20aged%206-59%20months%20in%20Ethiopian%20Orphanage%20Centres.md)
 [^12]: [The nutritional status of children living within institutionalized care, a systematic review](Volume%202/Reference%20Reading/Research%20Papers/The%20nutritional%20status%20of%20children%20living%20within%20institutionalized%20care,%20a%20systematic%20review.md)
+[^13]: Unread
