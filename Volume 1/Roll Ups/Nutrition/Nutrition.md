@@ -113,8 +113,7 @@ tags:
 		- inadequate stimulation or attention
 		- improper use of medications
 		- inappropriate feeding practices
-		- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients 
-- 
+		- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients
 ## Caregiver Best Practices
 ### Meal Prep
 - Children's Nutrition and Diet Scale
