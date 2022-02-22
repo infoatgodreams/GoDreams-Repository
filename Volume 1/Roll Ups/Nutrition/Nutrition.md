@@ -33,8 +33,8 @@ tags:
 
  -  A study[^3]  in 4 states in India noted that 
 	 - Protein levels were not low
-	 - Energy intake falling short of RDA
-
+	 - Energy intake falling short of RDA (Recommended Dietary Allowances)
+	 - 
 
 # Micro Nutrients
 *Nutrients that the body requires in small amounts*	
