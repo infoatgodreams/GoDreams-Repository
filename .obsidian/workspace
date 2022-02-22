@@ -18,12 +18,12 @@
         }
       },
       {
-        "id": "9479f00ec84d556f",
+        "id": "80e4f1a65a20884e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
+            "file": "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
             "mode": "source",
             "source": false
           }
@@ -89,7 +89,7 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "fever",
+                "searchQuery": "macro",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,14 +135,14 @@
   "active": "68ed60e56e451fb1",
   "lastOpenFiles": [
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+    "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
+    "Volume 1/Reference Reading/Research Papers/India/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
     "Volume 1/Reference Reading/Research Papers/Global/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md",
-    "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
     "Volume 2/Reference Reading/Research Papers/Impact of Nutritional Status on Cognition in Institutionalized Orphans, A Pilot Study.md",
     "Volume 2/Reference Reading/Research Papers/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
     "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md",
     "conflict-files-obsidian-git.md",
-    "Volume 2/Reference Reading/Research Papers/The nutritional status of children living within institutionalized care, a systematic review.md",
-    "Volume 3/Reference Reading/Research Papers/Global Research/Global Childhood Report 2021.md"
+    "Volume 2/Reference Reading/Research Papers/The nutritional status of children living within institutionalized care, a systematic review.md"
   ]
 }

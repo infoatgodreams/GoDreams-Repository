@@ -70,7 +70,23 @@ tags:
  -  A study[^3]  in 4 states in India noted that 
 	 - Protein levels were not low (reflected in a study on orphanages in kenya as well [^10] )
 	 - Energy intake falling short of RDA (Recommended Dietary Allowances)
-	 - 
+
+- According to a meta study [^12] on the nutritional status of institutionalized children : 
+	- Hearstetal.(2014)concluded that the growth-related indicators coincide with the **high prevalence of low albumin**, indicating generalized chronic undernutrition, and suggested macronutrient deficiencies could be due to 
+		- inadequate diets,
+		- infections and/ or inflammation,
+		- impaired nutrient absorption or utilization
+		- psychosocial stress of living in an institution.
+	- Dietary diversity was reported to be low for children in institutional care , especially in terms of fruits, vegetables and protein
+		- Limited funding and reliance on donations for food were frequently mentioned issues, contributing to low diet diversity and resulted in diets high in starches and legumes (Mwaniki,Makokha&Muttunga,2014). 
+	-  Factors impacting children’s nutrition status in care centers [^12] include (Franketal.,1996;vanIJzendoornetal.,2011;TheSt.Petersburg-USAOrphanageResearchTeam,2008) 
+		- Inadequate or poor quality of food
+		- inappropriate types of food
+		- inadequate stimulation or attention
+		- improper use of medications
+		- inappropriate feeding practices
+		- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients 
+
 
 # Micro Nutrients
 *Nutrients that the body requires in small amounts*	
@@ -90,6 +106,13 @@ tags:
 
 ## Observations on Caregiver behavior wrt Nutrition
 - In some cases in the Ethiopian study [^11] , children were kept unhealthy conditions to appeal to donors and volunteers.
+- Factors impacting children’s nutrition status in care centers [^12] include (Franketal.,1996;vanIJzendoornetal.,2011;TheSt.Petersburg-USAOrphanageResearchTeam,2008) 
+		- Inadequate or poor quality of food
+		- inappropriate types of food
+		- inadequate stimulation or attention
+		- improper use of medications
+		- inappropriate feeding practices
+		- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients 
 - 
 ## Caregiver Best Practices
 ### Meal Prep

@@ -71,7 +71,7 @@ Link : https://drive.google.com/file/d/1xbldLE1U9c-s2pljL2RLdgv72IDisiLc/view?us
 	- Inadequate or poor quality of food
 	- inappropriate types of food
 	- inadequate stimulation or attention
-	- improper use of midcations
+	- improper use of medications
 	- inappropriate feeding practices
 	- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients 
 
