@@ -1,18 +1,16 @@
+---
+title: Guidelines for Institutional Childcare, Ethiopia
+author: Akshay
+tags : 
+- intlgovernment
+---
+Tags: [Care Practices](Volume%201/Roll%20Ups/Caregiving/Care%20Practices.md) [Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md) [Child Safety](Volume%201/Roll%20Ups/Child%20Safety/Child%20Safety.md)
 
-
-
-
-
-
-This paper was made in 1998 and covers the different care practices (including alternative care methods)
-
-Highlighted PDF: [Here](https://drive.google.com/file/d/1qP7Hxnor9J8aFLV1INEfHAYGeFyk19Oc/view?usp=sharing)
-
+Link: https://drive.google.com/file/d/1qP7Hxnor9J8aFLV1INEfHAYGeFyk19Oc/view?usp=sharing
+Context: This paper was made in 1998 and covers the different care practices (including alternative care methods)
 
 
 ## The Need for the Guideline
-
-
 
 1. Upgrade the existing services of childcare institutions; set regulations for service provision as well as requirements for establishment of childcare institution;
 2. Define optimal level of performance or practice on institutional childcare to achieve standards of excellence; and
@@ -20,14 +18,12 @@ Highlighted PDF: [Here](https://drive.google.com/file/d/1qP7Hxnor9J8aFLV1INEfHAY
 
 Note: This guideline is based on UN Convention on the Rights of the Child and the Ethiopian laws
 
-Note [page 3]: In this document - children who are orphaned or abandoned or ill are old included. Does not include families who financially struggle to look after children
+Note page 3: In this document - children who are orphaned or abandoned or ill are old included. Does not include families who financially struggle to look after children
 
 
-## Specific Objectives/Childcare Focussed input areas
+## Childcare focus domains:
 
 The specific objectives of a childcare institution shall include the provision of:
-
-
 
 * food
 * loading
@@ -43,8 +39,6 @@ The specific objectives of a childcare institution shall include the provision o
 
 ## Areas of involvement of a childcare institution
 
-
-
 * **preventive Intervention** or activities undertaken within the childcare institution to avoid or avert the development of undesirable psycho- social, health, economic, educational, etc., aspects of the unaccompanied children
 * **remedial Intervention** or activities undertaken within the childcare institution to modify undesirable psycho-social, health, economic, educational, etc., aspects of the unaccompanied children
 * **rehabilitative Intervention **or activities undertaken within the childcare institution to restore the psycho-social, health, economic, educational, etc., status of the unaccompanied children
@@ -56,24 +50,14 @@ The specific objectives of a childcare institution shall include the provision o
 
 
 ## Infrastructure Requirements
-
-
 ### Location
+**Distance from the main road**.
+- If the childcare institution is in an urban center, its distance from the main road shall be at least one Kilometer and at most three kilometers.
+- If the childcare institution is in a rural area and the main road is a dry whether road, its distance from the main road shall not be more than five kilometers. 
+- If the childcare institution is in a rural area and the main road is an all whether road, its distance from the main road shall not be more than ten kilometers.
 
-Distance from the main road
-
-
-
-    * If the childcare institution is in an urban center, its distance from the main road shall be at least one Kilometer and at most three kilometers.
-    * If the childcare institution is in a rural area and the main road is a dry whether road, its distance from the main road shall not be more than five kilometers.
-    * If the childcare institution is in a rural area and the main road is an all whether road, its distance from the main road shall not be more than ten kilometers.
-
-
-### Compound
-
-
-
-* A compound of a childcare institution shall have** adequate space relative to the number of beneficiaries**. 
+**Compound** 
+- A compound of a childcare institution shall have adequate space relative to the number of beneficiaries.**
 * Thus, a childcare institution shall have **adequate space for building** 
     * homes and/or dormitories
     * service giving rooms
@@ -93,9 +77,6 @@ Distance from the main road
 
 
 ### Building
-
-
-
 * A childcare institution shall, at least, have separate buildings designed for:
     * Lodging
     * administration 
@@ -153,10 +134,7 @@ Distance from the main road
                 * one radio set; and
                 * other indoor facilities common in the locality.
 
-
 ## Human Power
-
-
 
 * To provide an optimal caring environment, a childcare institution shall accommodate a maximum of 150 children and shall, at least, have the following organisational structure and human-power input:
     * Manager / Administrator
@@ -170,21 +148,19 @@ Distance from the main road
     * Counsellor; and
     * Home Mothers.
 * The profile of the human-power shall be:
-    * **Manager / Administrator: **The manager / administrator shall have at least his/her first degree in sociology, psychology, or other related fields of study with, at least, two years of relevant experience.
-    * **Secretary: **The Secretary shall, at least, have a diploma in office management, accounting or other related fields with, at least, two years of experience in similar line of work.
-    * **Finance Officer: **The Finance officer shall, at least, have a diploma in accounting or other related fields with a minimum experience of two years in the area.
-    * **Purchaser: **The Purchaser shall, at least, have a diploma in material management or other related fields with a minimum experience of two years in the area.
-    * **Storekeeper: **The Storekeeper shall, at least, complete grade twelve with a minimum experience of two years in the area.
-    * **Cashier: **The Cashier shall, at least, have a diploma in accounting or other related fields with a minimum experience of two years in the area.
-    * **Sanitary and Guards:** Sanitary and guards should complete at least grade six with a minimum experience of two years in the area.
-    * **Health assistant;** A Health Assistant shall, at least, have a certificate with a minimum experience of two years in the area.
-    * **Counselor:** A Counselor shall, at least, have his/her first degree in psychology with a minimum experience of two years in the area.
-    * **Home Mothers:** A Home Mother should complete at least grade six and shall have at least a three months relevant training and a minimum experience of one year as an assistant home mother.
+    * Manager / Administrator: The manager / administrator shall have at least his/her first degree in sociology, psychology, or other related fields of study with, at least, two years of relevant experience.
+    * Secretary: The Secretary shall, at least, have a diploma in office management, accounting or other related fields with, at least, two years of experience in similar line of work.
+    * Finance Officer: The Finance officer shall, at least, have a diploma in accounting or other related fields with a minimum experience of two years in the area.
+    * Purchaser:The Purchaser shall, at least, have a diploma in material management or other related fields with a minimum experience of two years in the area.
+    * Storekeeper: The Storekeeper shall, at least, complete grade twelve with a minimum experience of two years in the area.
+    * Cashier: The Cashier shall, at least, have a diploma in accounting or other related fields with a minimum experience of two years in the area.
+    * Sanitary and Guards: Sanitary and guards should complete at least grade six with a minimum experience of two years in the area.
+    * Health assistant: A Health Assistant shall, at least, have a certificate with a minimum experience of two years in the area.
+    * Counselor: A Counselor shall, at least, have his/her first degree in psychology with a minimum experience of two years in the area.
+    * Home Mothers: A Home Mother should complete at least grade six and shall have at least a three months relevant training and a minimum experience of one year as an assistant home mother.
 
 
 ## Technical/Administrative aspects
-
-
 
 * **Financial System:** A childcare institution shall prepare and approve its standardised financial system during establishment.
 * **Admission: **A childcare institution shall only accept a beneficiary child through the Regional Labour and Social Affairs Bureau or any other authorised organisation.
@@ -242,9 +218,6 @@ Distance from the main road
 
 
 ## Services
-
-
-
 * Types of Services
     * A childcare institution shall render the following services to its beneficiaries:
         * Lodging
@@ -350,7 +323,7 @@ Distance from the main road
         * The counsellor should follow-up the vocational development of trainees attending vocational training monthly.
         * The counsellor should prepare a quarterly report on the vocational development of children attending vocational training and submit the same to the administration of the childcare institution.
         * A childcare institution shall provide the necessary support to beneficiaries who complete vocational training in securing employment opportunities.
-    * **Play and Recreation: **A childcare institution shall make the necessary play and recreational materials available to the children.
+    * **Play and Recreation**: A childcare institution shall make the necessary play and recreational materials available to the children.
     * **Guidance and Counselling**
         * A childcare institution shall provide guidance and counselling service to the children. Guidance and Counselling service in a childcare institution shall include:
             * educational guidance
@@ -385,8 +358,6 @@ Distance from the main road
 
 ## Community Participation
 
-
-
 * The childcare institution shall advocate for children’s rights in the surrounding communities
 * A childcare institution shall facilitate conditions for the children to interact among themselves and for the community to interact with the children in the institution.
 * A childcare institution shall facilitate conditions for children to participate in the activities within the institution as well as in community activities
@@ -400,8 +371,6 @@ Distance from the main road
 
 The child-family reunification program, is a primary option for unaccompanied children. The operations of child-family reunification need to be carried out on the basis of standard procedures that ensure the best interest of the child. Hence, this Guideline is developed to:
 
-
-
 * upgrade the existing child-family reunification services
 * provide basic operational guide for childcare organizations providing child-family reunification service; and
 * facilitate monitoring and evaluation of child-family reunification services as it defines optimal level of performance or practice.
@@ -409,22 +378,16 @@ The child-family reunification program, is a primary option for unaccompanied ch
 **Child-Family Reunification:** Child-family reunification refers to a rehabilitative intervention designed to facilitate the reunion of an unaccompanied child or a child in an alternative care with his/her biological parents or member/s of extended family to restore a family environment as a means of a permanent placement for the proper growth and development of the child.
 
 
-## Specific Objectives
-
-
-
+## Why is reintegration so important? 
 * preventing the various psycho-social problems that arise among children due to deprivation of familial care
 * facilitating conditions for the assimilation of children with their parents and/or members of extended family and promote their all rounded development
 * creating opportunities for children in which they can learn familial and social values and norms living with their parents and/or members of the extended family; and
 * supporting parents and/or members of extended families to re-assume their responsibility to cater for their children.
 
 
-## Eligibility of a Child 
+## What makes a child eligible for reunification?
 
 A child is eligible for child-family reunification if he/she is:
-
-
-
 * below the age of eighteen;
 * unaccompanied; and
 * willing to reunify with his/her biological parents or member/s of extended family.
@@ -433,16 +396,11 @@ A child is eligible for child-family reunification if he/she is:
 ## Eligibility of a Parents and/or member/s of Extended Family for Child-Family Reunification 
 
 A family is eligible for child-family reunification if it is:
-
-
-
 * willing to accept and care for the child; and
 * able to produce documents from a local governmental administrative body as to its credibility.
 
 
 ## Pre-unification Procedure
-
-
 
 * Identifying a Child and Confirming Eligibility
     * Identifying an unaccompanied child or a child placed in an alternative childcare program for child-family reunification

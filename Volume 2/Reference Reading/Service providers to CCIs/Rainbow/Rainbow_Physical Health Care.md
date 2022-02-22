@@ -1,6 +1,6 @@
 ---
 title: Comprehensive Care for Street Children, Handbook for Planners & Practitioners, Physical Health
-author: Indhradhanush Academy, Centre for Equity Studies, Save the Children, 
+author: Akshay 
 tags :
 - Practitioner
 ---

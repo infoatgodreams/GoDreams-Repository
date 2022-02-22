@@ -1,6 +1,6 @@
 ---
 title: Impact of Nutritional Status on Cognition in Institutionalized Orphans: A Pilot Study
-author:  Sanjana M Kamath, AJ Institute of Medical Sciences and Research
+author:  Akshay
 tags :
 - indianresearch
 ---

@@ -1,6 +1,6 @@
 ---
 title: Child Protection Policy for Rainbow Homes and Sneh Ghars
-author: Rainbow Foundation
+author: Akshay
 tags :
 - Practitioner
 ---

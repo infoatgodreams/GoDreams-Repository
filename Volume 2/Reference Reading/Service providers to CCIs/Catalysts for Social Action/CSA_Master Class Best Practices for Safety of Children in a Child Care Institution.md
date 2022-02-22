@@ -1,6 +1,6 @@
 ---
 title: Best Practices for Safety of Children in a Child Care Institution
-author: Catalysts for Social Action
+author: Akshay
 tags :
 - Practitioner
 ---
