@@ -106,25 +106,24 @@ tags:
 	 - 1/3 of young children refused to eat solid food
 	 - ~1/3 overate, many children never refused food either due to catch up mechanism as a response to malnourishment or because they had never eaten enough food to allow them to learn feelings of satiety. 
 - Older children are often fed the same quantity of food as the younger children resulting in lower than required intake [^3]
-- Eleven months after adoption 65% of  orphanage children adopted into Canada from Romanian orphanages [^4] had eating problems 
-		-  Parents reported that one-third of children refused to eat solid foods and almost one-third of children overate. 
-		-  In the Canadian  sample, many parents of orphanage children  reported that they continued to offer food to  children after a meal and that it was never refused
-		- Given orphanage children’s malnutrition and small size, such overeating probably  represents their bodies’ natural catch-up mechanism. 
-		- Children in orphanage had never eaten  enough food to allow them to learn feelings  of satiety (Fisher et al., 1997). 
-		-  Three  years after adoption, orphanage children had no more eating problems than did Canadian  born or early-adopted children (Ames, 1997)
-- 
+- Eleven months after adoption 65% of  orphanage children adopted into Canada from Romanian orphanages [^4] had eating problems: 
+	- Parents reported that one-third of children refused to eat solid foods and almost one-third of children overate.
+	-  In the Canadian  sample, many parents of orphanage children  reported that they continued to offer food to  children after a meal and that it was never refused
+	- Given orphanage children’s malnutrition and small size, such overeating probably  represents their bodies’ natural catch-up mechanism.
+	- Children in orphanage had never eaten  enough food to allow them to learn feelings  of satiety (Fisher et al., 1997).
+	-  Three  years after adoption, orphanage children had no more eating problems than did Canadian  born or early-adopted children (Ames, 1997)
 # Caregiving
 
 ## Observations on Caregiver behavior wrt Nutrition
 - In some cases in the Ethiopian study [^11] , children were kept unhealthy conditions to appeal to donors and volunteers.
 - In the Kenyan Study [^10] Children whose caregivers had not received any form of training on childcare practices were more likely to be underweight, wasted and stunted respectively. 
 - Factors impacting children’s nutrition status in care centers [^12] include (Franketal.,1996;vanIJzendoornetal.,2011;TheSt.Petersburg-USAOrphanageResearchTeam,2008) 
-		- Inadequate or poor quality of food
-		- inappropriate types of food
-		- inadequate stimulation or attention
-		- improper use of medications
-		- inappropriate feeding practices
-		- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients
+	- Inadequate or poor quality of food
+	- inappropriate types of food
+	- inadequate stimulation or attention
+	- improper use of medications
+	- inappropriate feeding practices
+	- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients
 ## Caregiver Best Practices
 ### Setting Up Nutritional Care Systems
 
