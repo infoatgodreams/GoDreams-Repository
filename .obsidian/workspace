@@ -6,7 +6,7 @@
       {
         "id": "68ed60e56e451fb1",
         "type": "leaf",
-        "dimension": 78.96645512239347,
+        "dimension": 78.96645512239348,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -21,7 +21,22 @@
       {
         "id": "15ce68873c69e3c5",
         "type": "leaf",
-        "dimension": 21.033544877606527,
+        "dimension": 10.516772438803265,
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "787a9ddfe1694643",
+        "type": "leaf",
+        "dimension": 10.516772438803265,
         "state": {
           "type": "markdown",
           "state": {
@@ -56,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Rollups",
+                "query": "nutritional status of children",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631,
-    "collapsed": true
+    "width": 377.0093288421631
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -133,11 +147,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 562.0242309570312
+    "width": 288.02423095703125
   },
-  "active": "15ce68873c69e3c5",
+  "active": "787a9ddfe1694643",
   "lastOpenFiles": [
     "Volume 2/Reference Reading/Research Papers/The nutritional status of children living within institutionalized care, a systematic review.md",
+    "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
     "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md",
     "Volume 3/Reference Reading/Research Papers/Global Research/Global Childhood Report 2021.md",
@@ -145,7 +160,6 @@
     "Volume 2/Reference Reading/Research Papers/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
     "conflict-files-obsidian-git.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Save the Children/Save the Children_ SOP for Care and Protection of Children in Street Situations.md",
-    "Volume 1/Reference Reading/Governments & UN/WHO/WHO_Growth reference for school aged children and adolescents.md"
+    "Volume 1/Reference Reading/Service Providers to CCIs/Save the Children/Save the Children_ SOP for Care and Protection of Children in Street Situations.md"
   ]
 }
