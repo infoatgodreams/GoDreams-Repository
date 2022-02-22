@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 4/Voc-research-final-book.md",
-            "mode": "source",
+            "file": "Home.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 4/Voc-research-final-book.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 4/Voc-research-final-book.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -133,6 +133,7 @@
   },
   "active": "9126153d637cb7ff",
   "lastOpenFiles": [
+    "Home.md",
     "Volume 4/Voc-research-final-book.md",
     "Volume 4/Research Journal_Mekha.md",
     "Volume 4/Butterflies_Child Participation Research.md",
@@ -141,7 +142,6 @@
     "Volume 4/Reference Reading/Research & Books/Exploring and Addressing the Sexual Violence of Boys in nNepal.md",
     "Volume 4/Reference Reading/Governments & UN/Guidelines for Institutional Childcare, Ethiopia.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Physical Health Care.md"
+    "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md"
   ]
 }
