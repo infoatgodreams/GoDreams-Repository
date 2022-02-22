@@ -43,7 +43,13 @@ tags:
 
 ## Wasting
 - [Malnutrition (who.int)](https://www.who.int/health-topics/malnutrition) Wasting is defined as low weight-for-height. It often indicates recent and severe weight loss, although it can also persist for a long time. It usually occurs when a person has not had food of adequate quality and quantity and/or they have had frequent or prolonged illnesses. Wasting in children is associated with a higher risk of death if not treated properly.
-- 
+- According to a meta study of global research, wasting prevalence can vary from 0–27%; [^12]
+- In the Kenyan study [^10] the levels of undernutrition were also lower than the WHO acceptable levels with an exception of wasting which was higher than the WHO acceptable levels of under-nutrition
+- In the Ethiopean study [^11], illness in the 2 weeks before the survey was conducted was a significant predictor of wasting. 
+- ==Solutions for wasting is missing in the research==
+
+## Under-Weight
+
 # Macro Nutrients
 *Nutrients that the body requires in large amounts*
 

@@ -20,8 +20,8 @@ Link : https://drive.google.com/file/d/1xbldLE1U9c-s2pljL2RLdgv72IDisiLc/view?us
 	- wasting from 0–27%; 
 	- under-weight from 7–79%;
 	- low BMI from 5–27%.
-	- Overweight/obesity ranged from10–32%
-	- small head circumference from17–41%.
+	- Overweight/obesity ranged from 10–32%
+	- small head circumference from 17–41%.
 	- The prevalence of HIV was from 2–23%
 	- Anemia from 3 – 90%.
 	- Skin conditions or infections ranged from 10–31%

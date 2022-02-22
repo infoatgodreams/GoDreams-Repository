@@ -19,7 +19,7 @@ Link: [Google Drive](https://drive.google.com/file/d/1z3n0d72KrjnfxbW_31ATp_n6HI
 # Results Summary: 
 
 - Being a double orphaned child [AOR= 2.9 (1.201, 7.167)] and lack of vitamin A supplement in the last six months (AOR=1.9 (1.049, 3.799) were significant predictors of stunting
--  Illness in the last two weeks before the survey [AOR= 4.9 (1.345, 1.865)] was a significant predictor of wasting.
+- Illness in the last two weeks before the survey [AOR= 4.9 (1.345, 1.865)] was a significant predictor of wasting.
 - Majority of children in orphanages are nutritionally challenged because of many factors including the fact that they have never been breastfed or exclusively breastfed, low rates of vaccination, and basic hygiene.
 
 - Being a double orphaned, lack of vitamin A supplement, and illness in the last two weeks were associated with undernutrition.
