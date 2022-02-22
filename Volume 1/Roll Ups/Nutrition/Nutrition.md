@@ -4,7 +4,9 @@ tags:
 - Rollups
 ---
 # Introduction
-- According to the [Global Childhood Report 2021](Volume%203/Reference%20Reading/Research%20Papers/Global%20Research/Global%20Childhood%20Report%202021.md)[^7] , malnutrition has been classified as a "childhood ender". 
+- According to the [Global Childhood Report 2021](Volume%203/Reference%20Reading/Research%20Papers/Global%20Research/Global%20Childhood%20Report%202021.md)[^7] by Save the Children, malnutrition has been classified as a "childhood ender". India ranks 118/186 countries on the list
+	- 34.7% of children between the ages of 0-5 have been classified as "Stunted" 
+	- 
 # Signs and symptoms of deficiencies
 
  - Small Head Circumference : Especially for children under the age of 4
