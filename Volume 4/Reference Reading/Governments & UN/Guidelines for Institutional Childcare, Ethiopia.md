@@ -364,7 +364,7 @@ The specific objectives of a childcare institution shall include the provision o
 * A childcare institution shall make continuous efforts to secure the collaboration of the community.
 
 
-# CHILD-FAMILY REUNIFICATION
+# CHILD-FAMILY REUNIFICATION [Restoration](Volume%201/Roll%20Ups/Alternative%20Care/Restoration.md)
 
 
 ## The Need for A Guideline
@@ -450,7 +450,7 @@ A family is eligible for child-family reunification if it is:
 	* emotional and spiritual development.
 
 
-## FOSTER FAMILY CARE
+## FOSTER FAMILY CARE [Foster Care](Volume%201/Roll%20Ups/Alternative%20Care/Foster%20Care.md)
 
 
 ## The Need for the Guideline
@@ -472,16 +472,14 @@ The Guideline is based on the ethical principles given in:
 **An Applicant:** For the purpose of this Guideline, an applicant is a person who applies to a foster family care organization to be a foster parent.
 
 
-## Mandate
-
-
-
+## What does the foster family mandate include?(Rights, Duties)
 * A foster family care organization with respect to the child, has the right to:
     * apply to competent authority for the review of and to get information on the status of a child when there are adequate grounds that the child is abused, neglected and/or exploited and for his/her best interest can not be allowed to remain in his/her family environment
     * select the appropriate foster family for a child when the biological parents, the extended family and or guardians are absent or deemed unable to give their views on the characteristics of the foster family
     * seek and get information on the growth and development of the child from the foster family through periodic reports and home visits
     * terminate the foster placement and change the foster family when the care given to the child is deemed to be not adequate to the child’s healthy development and growth; and
     * terminate the foster family care and transfer the child to other permanent alternative childcare program.
+
 * A foster family care organization, with respect to the child, has the obligation to:
     * work in close collaboration with the police and whenever available with child protection units and child focused organizations in order to reach out for a child who is abused, neglected and/or exploited and for her/his best interest place him/her in foster care
     * consult and involve the child in a manner appropriate to his/her age and degree of maturity in the process of foster care placement;
@@ -518,18 +516,13 @@ The Guideline is based on the ethical principles given in:
 
 
 ## Illegal Acts
-
-
-
 * Use the placement of a child in a foster family as a source of financial or other gains
 * Placing a child into a foster family against the regulations of the competent authority.
 
 
-## Specific Objectives 
+## Services provided by Foster Care 
 
 The specific objectives of a foster care organization involves securing basic services to a child through foster family placement, including:
-
-
 
 * Shelter
 * Food
@@ -631,23 +624,18 @@ It is recommended that based on local conditions, an individual or a family to b
 * Record keeping on Follow-up of a Child Placed in Foster Family: The foster family care organization that conducts the follow-up on a child placed in a foster family shall keep follow-up records of the child.
 * Personnel: The foster care organization shall have personnel with multidisciplinary professional qualifications, including, social workers, psychologists, etc., with adequate experience in foster family care and/or related childcare programs.
 
-
-# ADOPTION
+## ADOPTION [Adoption](Volume%201/Roll%20Ups/Alternative%20Care/Adoption.md)
 
 
 ## The Need for A Guideline 
 
 A consistent and high-quality level of adoption is recommended as an alternative substitute care for a child deprived of his/her biological family and could not be cared for within his/her community for:
 
-
-
 * Adoption offers permanent and substitute family care for a child and establishes a legal parent-child relationship;
 * Policies and practices in adoption at national and international levels vary; a guideline shall provide nationally and internationally recognized standards for adherence and application and prevent malpractice as in the sale, trafficking and abduction of children; and
 * Guideline defines an optimal level of performance or practice, monitoring, assessment and evaluation would be practicable.
 
 The Guideline is based on the ethical principles given in:
-
-
 
 * The Ethiopian Laws
 * UN Convention on the Rights of the Child
@@ -661,9 +649,7 @@ The Guideline is based on the ethical principles given in:
 **Child’s Identitty:** The child, after reaching majority, has the right to choose and decide on his/her identity.
 
 
-## Mandate
-
-
+## Mandate for Adoption
 
 * An adoption agency, with respect to the child, has the right to:
     * select a child to be adopted on the basis of age and sex; and
@@ -676,22 +662,16 @@ The Guideline is based on the ethical principles given in:
     * submit a quarterly, bi-annual and annual report; and
     * treat all case records as classified documents.
     * 
-
-
 ## Illegal Acts
-
-
 
 * Use the adoption of children as a source of financial or other gains;
 * Abuse, sale and/or trafficking of children through adoption; and
 * Facilitating an adoption without the knowledge of the Ministry of Labour and Social Affairs.
 
 
-## Specific Objective 
+## Adoption services:
 
 Securing basic services to an adopted child, including:
-
-
 
 * Shelter
 * Food
@@ -701,8 +681,6 @@ Securing basic services to an adopted child, including:
 
 
 ## Eligibility of an Applicant
-
-
 
 * An applicant is eligible for domestic adoption if he/she is:
     * Ethiopian by nationality;
@@ -724,8 +702,6 @@ Securing basic services to an adopted child, including:
 
 ## Effects of Adoption
 
-
-
 * Once a contract of adoption has taken place the biological parents, members of the extended family, and/or guardians of the child have no obligation concerning the up bringing of the child.
 * Once a contract of adoption has taken place the adoptive parents, assume all parental, duties, rights and responsibilities over the child
 * Once a contract of adoption has taken place it is irrevocable. However, the court may revoke the adoption, if the adopter instead of looking after the adopted child as his own child handles him as slave or in conditions resembling slavery, or makes him engage in immoral acts for his gain, or handles him in any other manner that is detrimental to his future
@@ -739,8 +715,6 @@ Securing basic services to an adopted child, including:
 
 
 ## Adoption Procedure
-
-
 
 * Application:
     * Domestic Adoption:
