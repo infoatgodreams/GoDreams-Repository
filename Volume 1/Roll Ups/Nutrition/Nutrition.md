@@ -14,19 +14,19 @@ tags:
 - Small Head Circumference : Especially for children under the age of 4 
 - Atypically short height and weight
 - Symptoms of Vitamin deficiencies observed in India  [^3]
-		 - All genders from ages 6-11 were: 
-		 		 - Phrynoderma
-		 		 - Dental Mottling : Fluorosis
-		 		 - Fever
-		 		 - Common Cold
-		 		 - Cough
-		 		 - Diarrhea
-		 		 - Skin infections
-		 		 - Eye infections
-		 		 - Otolaryngological issues: 
-		 - Girls from age 12-18
-		 		 - Anemia 
-		 		 - Pallor 
+	- All genders from ages 6-11 : 
+		- Phrynoderma
+		- Dental Mottling : Fluorosis
+		- Fever
+		- Common Cold
+		- Cough
+		- Diarrhea
+		- Skin infections
+		- Eye infections
+		- Otolaryngological issues: 
+	- Girls from age 12-18
+		- Anemia 
+		- Pallor 
 - A study in Kenya [^10] suggested that the following were very common in malnourished orphanage children: 
 	- ARI (Accute respiratory infections)
 	- Malaria

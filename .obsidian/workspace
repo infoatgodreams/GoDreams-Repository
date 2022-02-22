@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631
+    "width": 377.0093288421631,
+    "collapsed": true
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 3/Research Journal - Glo.md",
+                "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 3/Research Journal - Glo.md",
+                "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,8 +132,9 @@
     "direction": "horizontal",
     "width": 288.02423095703125
   },
-  "active": "1ae2cb4ce9d963ee",
+  "active": "68ed60e56e451fb1",
   "lastOpenFiles": [
+    "Volume 1/Roll Ups/Nutrition/Nutrition.md",
     "Volume 3/Research Journal - Glo.md",
     "Volume 3/Reference Reading/Service Providers to CCIs/Rainbow/Supporting Carers Author_ Rainbow Home.md",
     "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Working with Children Sensitively.md",
@@ -141,7 +143,6 @@
     "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Institutional Care Model Author_ Prerana Org.md",
     "Volume 3/Reference Reading/Research Papers/Global Research/Global Childhood Report 2021.md",
     "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md",
-    "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 (Manual Notes- Printable).md",
-    "Volume 1/Roll Ups/Nutrition/Nutrition.md"
+    "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 (Manual Notes- Printable).md"
   ]
 }
