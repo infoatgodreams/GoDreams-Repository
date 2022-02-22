@@ -9,7 +9,7 @@ tags:
 - According to the [Budget for Children 2022-23 Analysis](Volume%203/Reference%20Reading/Governments%20&%20UN/Budget%20for%20Children%202022-23%20Analysis.md)[^8]
 	- The share of children under the [[Saksham Anganwadi]] and [[Poshan 2.0]] scheme has observed a reduced allocation of 11.28 per cent with allocations going down from INR 19412.5 Crore in 2021-22 (BE) to INR 17223.61 Crore in Union Budget 2022-23 (BE).
 	- Nutritional deficiencies have been shown to have a negative impact on cognition [^9], 
-- 
+- In a study in orphanages in Kenya [^10], Prevalence of undernutrition seemed to increase significantly with an increase in length of stay in the orphanage
 # Signs and symptoms of nutritional deficiencies
 
 - Small Head Circumference : Especially for children under the age of 4 
