@@ -1,5 +1,5 @@
 ---
-title:Prerana_Safety Guidelines for Girls in Naunihal
+title: Prerana_Safety Guidelines for Girls in Naunihal
 author: Navneeth
 tags: 
 - Practioners

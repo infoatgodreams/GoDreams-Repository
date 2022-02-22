@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Governments & UN/IAP/Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children.md",
+            "file": "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
             "mode": "source",
             "source": false
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "revised growth",
+                "query": "file: ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Governments & UN/IAP/Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children.md",
+                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Governments & UN/IAP/Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children.md",
+                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,15 +133,15 @@
   },
   "active": "9126153d637cb7ff",
   "lastOpenFiles": [
-    "Volume 1/Reference Reading/Governments & UN/IAP/Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Udayan Care/UdayanCare_Standards Of Care in Child Care Institutions.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Save the Children/Save the Children_ SOP for Care and Protection of Children in Street Situations.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
+    "Volume 2/Reference Reading/Research Papers/Untitled.md",
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-    "Volume 1/Reference Reading/Research Papers/Global/Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya.md",
-    "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
-    "Volume 2/Reference Reading/Research Papers/Impact of Nutritional Status on Cognition in Institutionalized Orphans, A Pilot Study.md",
-    "Volume 1/Reference Reading/Governments & UN/British Columbnia/Canada_British Columbia_Food and Nutrition Manual for homes.md",
-    "conflict-files-obsidian-git.md",
-    "files without tags.md",
-    "List of Tags being used (Live).md",
-    "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md"
+    "Volume 1/Reference Reading/Governments & UN/IAP/Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children.md"
   ]
 }
