@@ -1,7 +1,5 @@
 ---
-title: |
-    <span id="_50e13958t68z" class="anchor"></span>Mental Health at CCIs
-    during Covid-19
+title: Mental Health at CCIs during Covid-19
 tags: 
 - Practitioner
 ---
