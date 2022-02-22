@@ -87,20 +87,29 @@ tags:
 		- inappropriate feeding practices
 		- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients 
 
-
+- 
 # Micro Nutrients
 *Nutrients that the body requires in small amounts*	
  -  A study[^3]  in 4 states in India noted that :
 	 - Common deficiencies from age 6-11 were 
 		 - Vitamin A - Bitots Spots
 		 - Vitamin B Complex  - Angular Stomatitis
-
+- Miracle Foundation [^14] cites a study conducted in India (AP, UP, WB and KA) that suggests: 
+	-  Vitamin A and B complex deficiency were the most common nutritional deficiency signs among children
+- In a meta study of children in institutional care between 1990 and 2019 [^12] 
+	- Anemia prevelance ranged from 3-90%
+	- 33% of children had low vitamin D
+	- Common deficiencies were iodine, zinc, albumin , vitamin A and B
+	- Edema, Conjunctival pallor, xerophthalmia and goiter were also found
+- A Canadian guide to institutions suggests that specialized diets need to be constructed for people showing these lab test markers: 
+	-  if any of these are abnormal: blood sugars (random, fasting), albumin, cholesterol (total, HDL, LDL), hemoglobin, hematrocrit, ferritin, serum creatinine, hemoglobin A1c, prealbumin, total lymphocyte count, liver enzymes, triglycerides, potassium,sodium, folate, vitamin B12, homocysteine or microalbumin.
+	- ==Markers from tests that can indicate dietary issues need to be assessed with the help of a Physician==
 # Eating Behaviors
  - According to a meta analysis[^4]  including children adopted from Romanian orphanages and others, 65% of orphanage children continued to have eating problems even 11 months after adoption :
 	 - 1/3 of young children refused to eat solid food
 	 - ~1/3 overate, many children never refused food either due to catch up mechanism as a response to malnourishment or because they had never eaten enough food to allow them to learn feelings of satiety. 
 - Older children are often fed the same quantity of food as the younger children resulting in lower than required intake [^3]
-
+- 
 
 # Caregiving
 

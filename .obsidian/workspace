@@ -18,12 +18,12 @@
         }
       },
       {
-        "id": "e813e77e9c9c1c2a",
+        "id": "9635935bd4821c36",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
             "mode": "source",
             "source": false
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631
+    "width": 377.0093288421631,
+    "collapsed": true
   },
   "right": {
     "id": "9a6c82b356728bc7",
@@ -83,12 +84,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "protein",
+                "searchQuery": "behavior",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,17 +132,17 @@
     "direction": "horizontal",
     "width": 288.02423095703125
   },
-  "active": "e813e77e9c9c1c2a",
+  "active": "9635935bd4821c36",
   "lastOpenFiles": [
-    "Home.md",
+    "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+    "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
+    "Volume 1/Reference Reading/Governments & UN/British Columbnia/Canada_British Columbia_Food and Nutrition Manual for homes.md",
     "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
     "Volume 1/Reference Reading/Research Papers/India/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
-    "Volume 2/Reference Reading/Research Papers/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
-    "Volume 1/Reference Reading/Governments & UN/British Columbnia/Canada_British Columbia_Food and Nutrition Manual for homes.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-    "Volume 1/Reference Reading/Research Papers/Global/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md",
-    "Volume 2/Reference Reading/Research Papers/Impact of Nutritional Status on Cognition in Institutionalized Orphans, A Pilot Study.md",
-    "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md"
+    "Home.md",
+    "Volume 2/Reference Reading/Research Papers/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
+    "Volume 1/Reference Reading/Research Papers/Global/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md"
   ]
 }
