@@ -9,7 +9,7 @@ tags:
 - According to the [Budget for Children 2022-23 Analysis](Volume%203/Reference%20Reading/Governments%20&%20UN/Budget%20for%20Children%202022-23%20Analysis.md)[^8]
 	- The share of children under the [[Saksham Anganwadi]] and [[Poshan 2.0]] scheme has observed a reduced allocation of 11.28 per cent with allocations going down from INR 19412.5 Crore in 2021-22 (BE) to INR 17223.61 Crore in Union Budget 2022-23 (BE).
 	- Nutritional deficiencies have been shown to have a negative impact on cognition [^9], 
-- 
+- In a study in orphanages in Kenya [^10], Prevalence of undernutrition seemed to increase significantly with an increase in length of stay in the orphanage
 # Signs and symptoms of nutritional deficiencies
 
 - Small Head Circumference : Especially for children under the age of 4 
@@ -106,6 +106,7 @@ tags:
 
 ## Observations on Caregiver behavior wrt Nutrition
 - In some cases in the Ethiopian study [^11] , children were kept unhealthy conditions to appeal to donors and volunteers.
+- In the Kenyan Study [^10] Children whose caregivers had not received any form of training on childcare practices were more likely to be underweight, wasted and stunted respectively. 
 - Factors impacting children’s nutrition status in care centers [^12] include (Franketal.,1996;vanIJzendoornetal.,2011;TheSt.Petersburg-USAOrphanageResearchTeam,2008) 
 		- Inadequate or poor quality of food
 		- inappropriate types of food
