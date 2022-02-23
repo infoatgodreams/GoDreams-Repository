@@ -144,6 +144,7 @@ tags:
 			- Guidelines for purchase
 			- Purchase lists from standardized recipes
 		- Kitchen and Food Preparation Safety Checklists
+		- Food Storage Guidelines
 		- Food program monitoring systems
 		- Feedback system from children and staff
 		-  Emergency Plans in case of 
@@ -170,6 +171,7 @@ tags:
 
 
 
+# Indian Regulations, Acts and Schemes
 
 # Diagnostic Tools
 
