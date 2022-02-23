@@ -1,47 +1,70 @@
 {
   "main": {
-    "id": "d1c112a4aba6d553",
+    "id": "b107357176c2e9d8",
     "type": "split",
     "children": [
       {
-        "id": "5d20d865ca093171",
+        "id": "cd3710404d1920f0",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-            "mode": "preview",
-            "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "8a454fa22ab120e2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 2/Daily Log/Akshays Log.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "fae993b44392afbc"
+      },
+      {
+        "id": "0ffcf433550adecf",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": false
+            }
+          }
+        },
+        "group": "fae993b44392afbc"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c173cb3e1af6d8f4",
+    "id": "c65e2a251474bb47",
     "type": "split",
     "children": [
       {
-        "id": "386e36db78707c18",
+        "id": "6bfec5a50c586349",
         "type": "tabs",
         "children": [
           {
-            "id": "3f8477a80b9da850",
+            "id": "8471557d1ce927ba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,12 +72,12 @@
             }
           },
           {
-            "id": "7ccbc8e61f761066",
+            "id": "a2aac9cc8c78f954",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "infrastructure requirements",
+                "query": "tag:#ERROR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,27 +90,28 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 377.0093288421631,
+    "collapsed": true
   },
   "right": {
-    "id": "7e698accb92ee8ea",
+    "id": "9a6c82b356728bc7",
     "type": "split",
     "children": [
       {
-        "id": "fd8d794f02cc8d21",
+        "id": "e52e8948ad67ddc1",
         "type": "tabs",
         "children": [
           {
-            "id": "2157d14326f9bd68",
+            "id": "1c9c1235ba6cb94b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Daily Log/Akshays Log.md",
+                "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -95,19 +119,19 @@
             }
           },
           {
-            "id": "ea71b2c36ed38c90",
+            "id": "de07364c32839472",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 2/Daily Log/Akshays Log.md",
+                "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "33ab9bef57fe3aec",
+            "id": "18279d5b5dbfe7be",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -117,25 +141,24 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 496.0242004394531,
     "collapsed": true
   },
-  "active": "8a454fa22ab120e2",
+  "active": "0ffcf433550adecf",
   "lastOpenFiles": [
-    "Volume 2/Daily Log/Akshays Log.md",
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-    "Volume 2/Reference Reading/Research Papers/Nutrition Papers/Impact of Nutritional Status on Cognition in Institutionalized Orphans, A Pilot Study.md",
-    "Volume 3/Reference Reading/Research Papers/Global Research/Global Childhood Report 2021.md",
-    "Volume 2/Daily Log/Untitled.md",
-    "Volume 4/Butterflies_Child Participation Research.md",
-    "conflict-files-obsidian-git.md",
-    "Volume 1/Volume 1 Public Resource Links/Other service providers/UdayanCare_Standardsofcareinchildcareinstitutions.pdf",
-    "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries Which is more important, quality of care or care setting?.md",
-    "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Psychosocial distress and coping mechanism of Orphan Children in Institutional Care in Delhi.md"
+    "Volume 3/Global Childhood Report 2021.md",
+    "Volume 3/Institutional Care Model Author_ Prerana Org.md",
+    "Volume 3/Mental Health at CCIs during Covid-19_Prerana Guide.md",
+    "Volume 3/Research Journal - Glo.md",
+    "Volume 3/Restoration Model by Prerana.md",
+    "Volume 3/Supporting Carers Author_ Rainbow Home.md",
+    "Volume 3/Working with Children Sensitively.md",
+    "Home.md",
+    "Volume 3/Budget for Children 2022-23 Analysis.md"
   ]
 }
