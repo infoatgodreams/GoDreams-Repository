@@ -11,6 +11,12 @@ Nutrition roll-up:
 Questions: 
 1. Does institutionalisation affect nutritional outcomes and consequently affect development? 
 2. Which of these deficiencies have the most impact on adult outcomes or child development? Is there an order of priority we can provide? 
+3. What are the solutions to common deficiencies? -Can we find papers on specific interventions that look at supplementation as an effective strategy to make up for these deficiencies
+**Want papers on supplementation**
+4. 
+Program suggestions: 
+- Tracking these vitamin levels through a yearly blood test seems easy enough to do
+- 
 
 # 21-02-2022
 - United Nations International Children Education Fund study during 2005–2013 reported that CSA in Indian girls was 42%.[[8](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8445113/#ref8)] A Government of India, Ministry of Women and Child Development (MWCD) study in 2007 which interviewed 125,000 children in 13 Indian states revealed that the prevalence of all forms of child abuse is extremely high (physical abuse [66%], sexual abuse [50%], and emotional abuse [50%]). This major state-sponsored survey in India reported the prevalence of CSA as 53%.[[9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8445113/#ref9)] 
