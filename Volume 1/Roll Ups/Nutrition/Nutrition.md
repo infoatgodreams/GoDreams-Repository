@@ -11,23 +11,22 @@ tags:
 	- Nutritional deficiencies have been shown to have a negative impact on cognition [^9], 
 - In a study in orphanages in Kenya [^10], Prevalence of undernutrition seemed to increase significantly with an increase in length of stay in the orphanage
 # Signs and symptoms of nutritional deficiencies
-
 - Small Head Circumference : Especially for children under the age of 4 
 - Atypically short height and weight
 - Symptoms of Vitamin deficiencies observed in India  [^3]
-		 - All genders from ages 6-11 were: 
-		 		 - Phrynoderma
-		 		 - Dental Mottling : Fluorosis
-		 		 - Fever
-		 		 - Common Cold
-		 		 - Cough
-		 		 - Diarrhea
-		 		 - Skin infections
-		 		 - Eye infections
-		 		 - Otolaryngological issues: 
-		 - Girls from age 12-18
-		 		 - Anemia 
-		 		 - Pallor 
+	- All genders from ages 6-11 : 
+		- Phrynoderma
+		- Dental Mottling : Fluorosis
+		- Fever
+		- Common Cold
+		- Cough
+		- Diarrhea
+		- Skin infections
+		- Eye infections
+		- Otolaryngological issues: 
+	- Girls from age 12-18
+		- Anemia 
+		- Pallor 
 - A study in Kenya [^10] suggested that the following were very common in malnourished orphanage children: 
 	- ARI (Accute respiratory infections)
 	- Malaria
@@ -86,57 +85,93 @@ tags:
 		- improper use of medications
 		- inappropriate feeding practices
 		- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients 
-
-
 # Micro Nutrients
 *Nutrients that the body requires in small amounts*	
  -  A study[^3]  in 4 states in India noted that :
 	 - Common deficiencies from age 6-11 were 
 		 - Vitamin A - Bitots Spots
 		 - Vitamin B Complex  - Angular Stomatitis
-
+- Miracle Foundation [^14] cites a study conducted in India (AP, UP, WB and KA) that suggests: 
+	-  Vitamin A and B complex deficiency were the most common nutritional deficiency signs among children
+- In a meta study of children in institutional care between 1990 and 2019 [^12] 
+	- Anemia prevelance ranged from 3-90%
+	- 33% of children had low vitamin D
+	- Common deficiencies were iodine, zinc, albumin , vitamin A and B
+	- Edema, Conjunctival pallor, xerophthalmia and goiter were also found
+- A Canadian guide to institutions suggests that specialized diets need to be constructed for people showing these lab test markers: 
+	-  if any of these are abnormal: blood sugars (random, fasting), albumin, cholesterol (total, HDL, LDL), hemoglobin, hematrocrit, ferritin, serum creatinine, hemoglobin A1c, prealbumin, total lymphocyte count, liver enzymes, triglycerides, potassium,sodium, folate, vitamin B12, homocysteine or microalbumin.
+	- ==Markers from tests that can indicate dietary issues need to be assessed with the help of a Physician==
 # Eating Behaviors
  - According to a meta analysis[^4]  including children adopted from Romanian orphanages and others, 65% of orphanage children continued to have eating problems even 11 months after adoption :
 	 - 1/3 of young children refused to eat solid food
 	 - ~1/3 overate, many children never refused food either due to catch up mechanism as a response to malnourishment or because they had never eaten enough food to allow them to learn feelings of satiety. 
 - Older children are often fed the same quantity of food as the younger children resulting in lower than required intake [^3]
-
-
+- Eleven months after adoption 65% of  orphanage children adopted into Canada from Romanian orphanages [^4] had eating problems: 
+	- Parents reported that one-third of children refused to eat solid foods and almost one-third of children overate.
+	-  In the Canadian  sample, many parents of orphanage children  reported that they continued to offer food to  children after a meal and that it was never refused
+	- Given orphanage children’s malnutrition and small size, such overeating probably  represents their bodies’ natural catch-up mechanism.
+	- Children in orphanage had never eaten  enough food to allow them to learn feelings  of satiety (Fisher et al., 1997).
+	-  Three  years after adoption, orphanage children had no more eating problems than did Canadian  born or early-adopted children (Ames, 1997)
 # Caregiving
 
 ## Observations on Caregiver behavior wrt Nutrition
 - In some cases in the Ethiopian study [^11] , children were kept unhealthy conditions to appeal to donors and volunteers.
 - In the Kenyan Study [^10] Children whose caregivers had not received any form of training on childcare practices were more likely to be underweight, wasted and stunted respectively. 
 - Factors impacting children’s nutrition status in care centers [^12] include (Franketal.,1996;vanIJzendoornetal.,2011;TheSt.Petersburg-USAOrphanageResearchTeam,2008) 
-		- Inadequate or poor quality of food
-		- inappropriate types of food
-		- inadequate stimulation or attention
-		- improper use of medications
-		- inappropriate feeding practices
-		- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients 
-- 
+	- Inadequate or poor quality of food
+	- inappropriate types of food
+	- inadequate stimulation or attention
+	- improper use of medications
+	- inappropriate feeding practices
+	- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients
 ## Caregiver Best Practices
+### Setting Up Nutritional Care Systems
+
+- SoPs are to be created and put up [^2] [^15], that define the 
+	- **Meal Plans**
+		- Minimum Nutritional Standards
+		- Number of meals 
+		- Meal Timings and Daily Menus
+			- Standardized Recipes
+			- Special meals on holidays and festivals
+		- Individual Nutrition Plans
+		- Special Diets -- medical or otherwise
+			- Checklist to identify need for special diets
+			- Liquid/Semi-liquid/Minced foods
+			- Cultural Modification to diets
+	- **Kitchen Operations**
+		- Ingredient purchase lists
+			- Guidelines for purchase
+			- Purchase lists from standardized recipes
+		- Kitchen and Food Preparation Safety Checklists
+		- Food Storage Guidelines
+		- Food program monitoring systems
+		- Feedback system from children and staff
+		-  Emergency Plans in case of 
+			- scarcity
+			- disasters
+		- Child safe cutlery
+	- **Caregiver: Child Guidelines**
+		- Mealtime assistance to children
+		- Accident/Emergency Training
+		- Dining environment and routines
+
 ### Meal Prep
-- Children's Nutrition and Diet Scale
-	- SoPs are to be created and put up [^2], that define the 
-		- Minimum Nutritional Standard
-		- Special meals on holidays and festivals
-		- Special diets for infants and sick children
-		- Meal Timings and Daily Menu
-
-
 ### During Meals
 
-- Sitting with the children during meals 
+- **Sitting with the children during meals** 
 	-  Paying attention to whether children eat properly is critical to noticing eating patterns and in increasing the caregiver : child bond. [^1]
-	- 
-
-
+	- It allows caregiver to provide mealtime assistance to children who have difficulty eating independently [^15]
+	- It also ensures caregivers are alert to incidents of choking etc. that can occur during mealtime. 
+- **Second helpings**
+	- Studies [^4]  have suggested that children in institutional care may not learn how to judge feelings of satiety and ask for more or less food, with a tendency to overeat when food is available in abundance.
+		- Not filling the plate, and allowing children to ask for seconds might be a best practice here. 
 ### Post Meal
+ - ==no information yet on waste disposal and safe food disposal practices at institutions==
 
 
 
-
+# Indian Regulations, Acts and Schemes
 
 # Diagnostic Tools
 
@@ -153,7 +188,7 @@ tags:
 
 # Footnotes 
 
-[^1]: [MiracleFoundation_Institutionalise Children Explorations and Beyond](Volume%201/Volume%201%20Public%20Resource%20Links/Other%20service%20providers/MiracleFoundation_Institutionalise%20Children%20Explorations%20and%20Beyond.pdf)
+[^1]: [Miracle Foundation_Institutionalised Children_Explorations and Beyond](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Miracle%20Foundation/Miracle%20Foundation_Institutionalised%20Children_Explorations%20and%20Beyond.md)
 [^2]: [UdayanCare_Standardsofcareinchildcareinstitutions](Volume%201/Volume%201%20Public%20Resource%20Links/Other%20service%20providers/UdayanCare_Standardsofcareinchildcareinstitutions.pdf)
 [^3]: [Nutrition, Health & Psychosocial Profile of Institutionalized Children](Volume%201/Reference%20Reading/Research%20Papers/India/Nutrition,%20Health%20&%20Psychosocial%20Profile%20of%20Institutionalized%20Children.md)
 [^4]: [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Reference%20Reading/Research%20Papers/Global/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md) 
@@ -167,3 +202,4 @@ tags:
 [^12]: [The nutritional status of children living within institutionalized care, a systematic review](Volume%202/Reference%20Reading/Research%20Papers/Nutrition%20Papers/The%20nutritional%20status%20of%20children%20living%20within%20institutionalized%20care,%20a%20systematic%20review.md)
 [^13]: Unread
 [^14]: [MiracleFoundation_Institutionalise Children Explorations and Beyond](Volume%201/Volume%201%20Public%20Resource%20Links/Other%20service%20providers/MiracleFoundation_Institutionalise%20Children%20Explorations%20and%20Beyond.pdf)
+[^15]: [Canada_British Columbia_Food and Nutrition Manual for homes](Volume%201/Reference%20Reading/Governments%20&%20UN/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md)

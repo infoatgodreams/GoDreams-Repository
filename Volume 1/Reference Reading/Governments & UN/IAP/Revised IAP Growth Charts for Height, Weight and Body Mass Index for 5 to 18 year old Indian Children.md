@@ -1,6 +1,5 @@
 ---
-title:Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian
-Children
+title: Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children
 author: Navneeth
 tags:
 - indianresearch

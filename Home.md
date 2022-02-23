@@ -9,6 +9,42 @@ title: Home - CAP Design Portal
 - **[Intervention Map](Volume%201/Program%20Design/Intervention%20Map.md)**
 
 
+# Topic Roll Ups: 
+- [Child Development](Volume%201/Roll%20Ups/Child%20Development/Child%20Development.md)
+	- Child Life Cycle
+		- [Admissions](Volume%201/Roll%20Ups/Child%20Development/Child%20Lifecycle/Admissions.md)
+		- [Aftercare](Volume%201/Roll%20Ups/Child%20Development/Child%20Lifecycle/Aftercare.md)
+		- [Pre-admission to CCIs](Volume%201/Roll%20Ups/Child%20Development/Child%20Lifecycle/Pre-admission%20to%20CCIs.md)
+	- [Child Profile](Volume%201/Roll%20Ups/Child%20Development/Child%20Profile.md)
+	- [ChildParticipation](Volume%201/Roll%20Ups/Child%20Development/ChildParticipation.md)
+	- [Childrens Committees](Volume%201/Roll%20Ups/Child%20Development/Childrens%20Committees.md)
+	- [Indiscriminately Sociable Behavior](Volume%201/Roll%20Ups/Child%20Development/Indiscriminately%20Sociable%20Behavior.md)
+	- [Observed behavior assessments](Volume%201/Roll%20Ups/Child%20Development/Observed%20behavior%20assessments.md)
+- Alternative Care
+	- [Adoption](Volume%201/Roll%20Ups/Alternative%20Care/Adoption.md)
+	- [Foster Care](Volume%201/Roll%20Ups/Alternative%20Care/Foster%20Care.md)
+	- [Kinship Care](Volume%201/Roll%20Ups/Alternative%20Care/Kinship%20Care.md)
+	- [Restoration](Volume%201/Roll%20Ups/Alternative%20Care/Restoration.md)
+- [Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md)
+	- [Care Practices](Volume%201/Roll%20Ups/Caregiving/Care%20Practices.md)
+	- [Individualised Care](Volume%201/Roll%20Ups/Caregiving/Individualised%20Care.md)
+	- [TIC-Trauma Informed Care](Volume%201/Roll%20Ups/Caregiving/TIC-Trauma%20Informed%20Care.md)
+- [CCI Operations](Volume%201/Roll%20Ups/CCI%20Operations/CCI%20Operations.md)
+	- [CCI Finances](Volume%201/Roll%20Ups/CCI%20Operations/CCI%20Finances.md)
+	- [CCI Compliance](Volume%201/Roll%20Ups/CCI%20Operations/CCI%20Compliance.md)
+	- [Emergency Protocol](Volume%201/Roll%20Ups/CCI%20Operations/Emergency%20Protocol.md)
+	- [Program Operations](Volume%201/Roll%20Ups/CCI%20Operations/Program%20Operations.md)
+- [Education](Volume%201/Roll%20Ups/Education/Education.md)
+	- [IQ](Volume%201/Roll%20Ups/Education/IQ.md)
+	- [Skilling](Volume%201/Roll%20Ups/Education/Skilling.md)
+- [Hygiene](Volume%201/Roll%20Ups/Hygiene/Hygiene.md)
+- [Mental Health](Volume%201/Roll%20Ups/Mental%20Health/Mental%20Health.md)
+- [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md)
+- [Physical Health](Volume%201/Roll%20Ups/Physical%20Health/Physical%20Health.md)
+- [Assessment Tools](Volume%201/Roll%20Ups/Assessment%20Tools.md)
+- [Infrastructure](Volume%201/Roll%20Ups/Infrastructure.md)
+---
+
 # Reference Reading:
 
 ## Other Organizations :
@@ -78,45 +114,6 @@ title: Home - CAP Design Portal
 - [Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres](Volume%201/Reference%20Reading/Research%20Papers/Global/Magnitude%20and%20Associated%20Factors%20of%20Undernutrition%20Among%20children%20aged%206-59%20months%20in%20Ethiopian%20Orphanage%20Centres.md)
 - [Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya](Volume%201/Reference%20Reading/Research%20Papers/Global/Nutrition%20status%20of%20children%20in%20orphanages%20in%20selected%20primary%20schools%20in%20dagoretti%20division%20nairobi%20kenya.md)
 - [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Reference%20Reading/Research%20Papers/Global/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md)
-
-
-
-# Topic Roll Ups: 
-- [Admissions](Admissions)
-* [Adoption](Adoption)
-* [Aftercare](Aftercare)
-* [Assessment Tools](Assessment Tools)
-* [Care Practices](Care Practices)
-* [Caregiving](Caregiving)
-* [CCI Compliance](CCI Compliance)
-* [CCI Finances](CCI Finances)
-* [CCI Operations](CCI Operations)
-* [Child Development](Child Development)
-* [Child Profile](Child Profile)
-* [Child Rights Law](Child Rights Law)
-* [Child Safety](Child Safety)
-* [Child Sexual Abuse](Child Sexual Abuse)
-* [ChildParticipation](ChildParticipation)
-* [Childrens Committees](Childrens Committees)
-* [Education](Education)
-* [Emergency Protocol](Emergency Protocol)
-* [Foster Care](Foster Care)
-* [Hygiene](Hygiene)
-* [Indiscriminately Sociable Behavior](Indiscriminately Sociable Behavior)
-* [Individualised Care](Individualised Care)
-* [Infrastructure](Infrastructure)
-* [IQ](IQ)
-* [Kinship Care](Kinship Care)
-* [Mental Health](Mental Health)
-* [Nutrition](Nutrition)
-* [Observed behavior assessments](Observed behavior assessments)
-* [Physical Health](Physical Health)
-* [Pre-admission to CCIs](Pre-admission to CCIs)
-* [Program Operations](Program Operations)
-* [Restoration](Restoration)
-* [Risks](Risks)
-* [Skilling](Skilling)
-* [TIC-Trauma Informed Care](TIC-Trauma Informed Care)
 
 # Logs
 - [Navneeths Log](Volume%201/Daily%20Log/Navneeths%20Log.md)

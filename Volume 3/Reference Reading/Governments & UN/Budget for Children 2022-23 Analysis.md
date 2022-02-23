@@ -1,7 +1,5 @@
 ---
-title: |
-    <span id="_eqsy6zcuhnvh" class="anchor"></span>Budget for Children
-    2022-23
+title: Budget for Children 2022-23 (Analysis)
 author: gloria
 tags: 
 - government

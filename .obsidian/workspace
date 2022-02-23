@@ -7,8 +7,12 @@
         "id": "5d20d865ca093171",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Volume 2/Daily Log/Untitled.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Volume 2/Daily Log/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,6 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Volume 2/Daily Log/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,6 +113,7 @@
   },
   "active": "5d20d865ca093171",
   "lastOpenFiles": [
+    "Volume 2/Daily Log/Untitled.md",
     "Volume 4/Butterflies_Child Participation Research.md",
     "conflict-files-obsidian-git.md",
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
@@ -115,7 +122,6 @@
     "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Psychosocial distress and coping mechanism of Orphan Children in Institutional Care in Delhi.md",
     "Volume 2/Daily Log/Akshays Log.md",
     "Volume 2/Reference Reading/Research Papers/Nutrition Papers/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
-    "Volume 2/Reference Reading/Research Papers/Nutrition Papers/The nutritional status of children living within institutionalized care, a systematic review.md",
-    "Volume 2/Reference Reading/Research Papers/Untitled.md"
+    "Volume 2/Reference Reading/Research Papers/Nutrition Papers/The nutritional status of children living within institutionalized care, a systematic review.md"
   ]
 }

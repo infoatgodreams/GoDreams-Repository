@@ -1,7 +1,5 @@
 ---
-title: |
-    <span id="_7o34tj772a0c" class="anchor"></span>Title: Working with
-    Children Sensitively
+title: Prerana_Working with Children Sensitively 
 tags: 
 - Practitioner
 - researchedinterventions

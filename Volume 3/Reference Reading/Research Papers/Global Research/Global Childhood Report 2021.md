@@ -1,7 +1,5 @@
 ---
-title: |
-    <span id="_u91ypik6vm3p" class="anchor"></span>GLOBAL CHILDHOOD REPORT 
-    2021
+title: GLOBAL CHILDHOOD REPORT 2021
 ---
 
 # GLOBAL CHILDHOOD REPORT 2021

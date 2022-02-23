@@ -1,6 +1,6 @@
 ---
-title: Impact of Nutritional Status on Cognition in Institutionalized Orphans: A Pilot Study
-author:  Akshay
+title: Impact of Nutritional Status on Cognition in Institutionalized Orphans - A Pilot Study
+author: Akshay
 tags :
 - indianresearch
 ---
