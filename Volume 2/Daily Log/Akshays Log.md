@@ -14,7 +14,9 @@ Questions:
 3. What are the solutions to common deficiencies? -Can we find papers on specific interventions that look at supplementation as an effective strategy to make up for these deficiencies
   **Want papers on supplementation**
 4. Something I'm curious about is the importance of flexibility in meal planning for the children to develop a fairly healthy relationship with food. While quality is a given, is there a problem with regimens? If yes, how does this show up in boarding schools
-5. 
+5. What are the vaccination rates for kids in orphanages? Do we have records of them going through the National Immunization Schedule?
+6. There are vaccines even kids get 5+ years, for eg DPT second dose and TT at 10 and 16. Do our CCIs give these doses? 
+7. 
 Program suggestions: 
 - Tracking these vitamin levels through a yearly blood test seems easy enough to do
 - 
