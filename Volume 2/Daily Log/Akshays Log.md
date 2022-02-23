@@ -16,10 +16,11 @@ Questions:
 4. Something I'm curious about is the importance of flexibility in meal planning for the children to develop a fairly healthy relationship with food. While quality is a given, is there a problem with regimens? If yes, how does this show up in boarding schools
 5. What are the vaccination rates for kids in orphanages? Do we have records of them going through the National Immunization Schedule?
 6. There are vaccines even kids get 5+ years, for eg DPT second dose and TT at 10 and 16. Do our CCIs give these doses? 
-7. 
+7. What do we know about these nutrition drinks like complan and horlicks and pediasure? They seem like an easy enough additive but I'm unsure how much is marketing vs actually backed by science. 
+8. 
 Program suggestions: 
 - Tracking these vitamin levels through a yearly blood test seems easy enough to do
-- Can we have a list of some geographically/culturally suitable foods high in essential nutrients so they can pick and choose?
+- Can we have a list of some geographically/culturally suitable foods high in essential nutrients so they can pick and choose in creating a meal plan?
 - 
 
 # 21-02-2022
