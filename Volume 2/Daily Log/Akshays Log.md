@@ -19,6 +19,7 @@ Questions:
 7. 
 Program suggestions: 
 - Tracking these vitamin levels through a yearly blood test seems easy enough to do
+- Can we have a list of some geographically/culturally suitable foods high in essential nutrients so they can pick and choose?
 - 
 
 # 21-02-2022
