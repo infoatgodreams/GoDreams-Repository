@@ -1,13 +1,16 @@
-Page 1
-Multidimensionalscaleforchildsexualabuse(MSCSA):Developmentand
-psychometricproperties
-ground:InrecognitiontotherisingincidencesofchildsexualabuseinIndia,variouschallengesofexisting
-traumameasuresandabsenceofindigenouseffortsatdevelopmentofcomprehensiveimpactassessmentscale,
-presentstudywasconceptualized.
-Objective:TodevelopandestablishpsychometricpropertiesofMultidimensionalScaleforChildrenwithSexual
-Abuse.
-ParticipantsandSettings:Outpatientdepartmentofgovernmenthospitals,non-governmentalorganizationsand
-childcareinstituteswereprimarydatasettingfromwhichatotalof457participantsweresampled.
+---
+title: Multidimensional Scale for Child Sexual Abuse 
+author: navneeth
+tags: 
+
+- indianresearch
+---
+
+- Scope:  Multidimensional scale for child sexual abuse (MSCSA): Development and psychometric properties
+	- In recognition to the rising incidences of child sexual abuse in India, various challenges of existing trauma measures and absence of indigenous efforts at development of comprehensive impact assessment scale, present study was conceptualized.
+	- Objective : To develop and establish psychometric properties of Multidimensional Scale for Children with Sexual Abuse.
+	- Participants and Setting :Out patient department of government hospitals,non-governmental organizations and
+childcare institutes were primarydatasettingfromwhichatotalof457participantsweresampled.
 ArecentCSAassessmenttoolreview((Satapathyetal.,2017)
 revealedthattheprimaryindicatorsoftraumainmostscalesare
 behaviourmanifestationsandsymptomsofpost-traumaticstressdisor
