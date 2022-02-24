@@ -28,88 +28,85 @@ Link: https://drive.google.com/file/d/1ba6V07RmNMZ5LgVSiQN99VWg3a1a30sx/view?usp
 		- [[Children’s Global Assessment Scale (CGAS)]]: The CGAS is a clinician completed numeric scale ranging from lowest (1) to highest (100)functioning. It captures behavioural descriptors of functioning within the last month for children that is independent of specific mental health diagnosis.
 - # Indicators of CSA
 	- **The first factor “psychopathology”** consists of 27 items on symptoms of PTSD, depression, anxiety, and somatization. 
+		- Bed Wetting
+		- Loneliness
+		- FeelingofDirtinessinBody0.674
+		- FaintsOften0.670
+		- IntrusiveThoughtsabouttheIncident0.621
+		- Repetitive FFlashbacks oof tthe IIncident0.606
+		- SuicidalWishes0.594
+		- AvoidanceofthePlaceofAbuse0.577
+		- Anger(Generalized)0.568
+		- Sadness0.566
+		- NightTerror(Nightmare)0.564
+		- GeneralizedAnxiety0.551
+		- Anger(UponTouching)0.548
+		- InabilitytoTrustAnyone0.541
+		- Anger(TowardsPerpetrator)0.536
+		- Anhedonia0.505
+		- Hypervigilance0.499
+		- Worthlessness0.499
+		- Repetitive FFlashbacks oof tthe IIncident0.495
+		- SleepDifficulties0.448
+		- ReducedConcentration0.445
+		- ReducedTalkativeness0.437
+		- RecurringPaininBody0.432
+		- Headache0.412
+		- Hypersensitivity0.400
+		- AvoidsTalkingAboutIncident0.400
+		- AvoidanceoftheTraumaMemories0.400
 	- **The second factor, “socio-emotional difficulties”** included 14 items on sub-factors, guilt, shame, emotional reactions due to critical comments or due to stigma, and discrimination. 
+		- SocialBlaming0.650
+		- BlamesSelfforFamilyy’ss CompromisedSecurity0.605
+		- BlamesSelfforFamilydistress0.565
+		- DislikeDiscussingAbuse0.559
+		- BlamesSelfforFamilyShame0.523
+		- FearofCriticalComments0.510
+		- PerceivesSelf-blame0.484
+		- Hopelessness0.416
+		- FearofAbuseReoccurrence0.429
+		- Teasing0.409
+		- Self-blame0.400
+		- Dislike/AvoidanceOthersSympathy0.400
+		- Shame0.400
+		- AnxietyofNovelStimuli0.400
 	- **The third factor, “externalizing behaviour”** included 7 items on sub-factors, aggression, self-harm, and other difficult behaviour. 
+		- Verbally Abusive 0.544
+		- Physical Fights in Anger0.529
+		- Stubbornness 0.469
+		- ScreaminginAnger 0.430
+		- Self-Harm 0.427
+		- PeerAvoidance 0.409
+		- NailBiting 0.407
 	- **The fourth factor, “sexualized behaviour and pain”** included 7 items on sub-factors, sexual self-stimulation, sexual stimulation of others, and pain in private parts.
+		- PaininPrivateParts 0.615
+		- LikesTalkingAboutSex 0.533
+		- LikesSexualStimulationby Touchingothers’’Genitals 0.524
+		- LikesFrequentMasturbating 0.520
+		- LikesSexualSelf-Stimulation 0.446
+		- PainDuringUrination&while PassingStool 0.444
+		- LikesSexualActswithOthers 0.400
 	- **The fifth factor “academic difficulty”** included 7 items on sub-factorsdeclined interest in studies, deteriorating academic performance, poor academic self-efficacy, and reduced attention and concentration. 
+		- ReducedInterestinSchool0.616
+		- DislikePeerInteractionatSchool0.507
+		- RegularStomachUpsetinSchool0.474
+		- SchoolWithdrawal0.454
+		- ReducedAcademicPerformance0.441
+		- PoorSelf-efficacies(InAcademics)0.438
+		- TroubleConcentrating 0.437
+
 	- Though most items distributed on factors were clinically and conceptually relevant to it, however, seven items loaded on the factor domain irrelevant to the allocated category which were re-shuffled based on cross-loading values and clinical relevance.
 
-1.BedWetting0.723
-2.Loneliness0.696
-3.FeelingofDirtinessinBody0.674
-4.FaintsOften0.670
-5.IntrusiveThoughtsaboutthe
-Incident0.621
-6.Repetitive FFlashbacks oof tthe IIncident0.606
-7.SuicidalWishes0.594
-8.AvoidanceofthePlaceofAbuse0.577
-9.Anger(Generalized)0.568
-10.Sadness0.566
-11.NightTerror(Nightmare)0.564
-12.GeneralizedAnxiety0.551
-13.Anger(UponTouching)0.548
-14.InabilitytoTrustAnyone0.541
-15.Anger(TowardsPerpetrator)0.536
-16.Anhedonia0.505
-17.Hypervigilance0.499
-18.Worthlessness0.499
-19.Repetitive FFlashbacks oof tthe IIncident0.495
-20.SleepDifficulties0.448
-21.ReducedConcentration0.445
-22.ReducedTalkativeness0.437
-23.RecurringPaininBody0.432
-24.Headache0.412
-25.Hypersensitivity0.400
-26.AvoidsTalkingAboutIncident0.400
-27.AvoidanceoftheTraumaMemories0.400
-28.SocialBlaming0.650
-29.BlamesSelfforFamilyy’ss
-CompromisedSecurity0.605
-30.BlamesSelfforFamilydistress0.565
-31.DislikeDiscussingAbuse0.559
-32.BlamesSelfforFamilyShame0.523
-33.FearofCriticalComments0.510
-34.PerceivesSelf-blame0.484
-35.Hopelessness0.416
-36.FearofAbuseReoccurrence0.429
-37.Teasing0.409
-38.Self-blame0.400
-39.Dislike/AvoidanceOthersSympathy0.400
-40.Shame0.400
-41.AnxietyofNovelStimuli0.400
-42.VerballyAbusive0.544
-43.PhysicalFightsinAnger0.529
-44.Stubbornness0.469
-45.ScreaminginAnger0.430
-46.Self-Harm0.427
-47.PeerAvoidance0.409
-48.NailBiting0.407
-49.PaininPrivateParts0.615
-50.LikesTalkingAboutSex0.533
-51.LikesSexualStimulationby
-Touchingothers’’Genitals0.524
-52.LikesFrequentMasturbating0.520
-53.LikesSexualSelf-Stimulation0.446
-54.PainDuringUrination&while
-PassingStool0.444
-55.LikesSexualActswithOthers0.400
-56.ReducedInterestinSchool0.616
-57.DislikePeerInteractionatSchool0.507
-58.RegularStomachUpsetinSchool0.474
-59.SchoolWithdrawal0.454
-60.ReducedAcademicPerformance0.441
-61.PoorSelf-efficacies(InAcademics)0.438
-62.TroubleConcentrating
 
 
-Babiker,G.,Herbert,M.,1998.Criticalissuesintheassessmentofchildsexualabuse.
-Clin.ChildFam.Psychol.Rev.1(4),2311––2522.
-Besharov,D.J.,1994.Respondingtochildsexualabuse:theneedforabalanced
-approach.FutureChild.1355––1555.
-Briere,J.,Johnson,K.,Bissada,A.,Damon,L.,Crouch,J.,Gil,E.,etal.,2001.The
-TraumaSymptomChecklistforYoungChildren(TSCYC):reliabilityandassociation
-withabuseexposureinamulti-sitestudy.ChildAbuseNegl.25(8),1001–1014.
-Kacker,L.,Varadan,S.,Kumar,P.,2007.StudyonChildAbuse:India2007.Ministryof
-WomenandChildDevelopment,GovernmentofIndiaa.
-Ministry oof WWomen aand CChild DDevelopment, 22013. MModel GGuidelines UUnder SSection 339 oof
-theProtectionofChildrenFromSexualOffencesAct,2012.MWCD,India.
+# #readinglist 
+
+- Babiker, G., Herbert, M., 1998. Critical issues in the assessment of child sexual abuse. Clin. Child Fam. Psychol. Rev. 1 (4), 231–252.
+
+- Besharov, D.J., 1994. Responding to child sexual abuse: the need for a balanced approach. Future Child. 135–155.
+
+- Briere, J., Johnson, K., Bissada, A., Damon, L., Crouch, J., Gil, E., et al., 2001. The Trauma Symptom Checklist for Young Children (TSCYC): reliability and association with abuse exposure in a multi-site study. Child Abuse Negl. 25 (8), 1001–1014.
+
+- Kacker, L., Varadan, S., Kumar, P., 2007. Study on Child Abuse: India 2007. Ministry of Women and Child Development, Government of India.
+
+- Ministry of Women and Child Development, 2013. Model Guidelines Under Section 39 of the Protection of Children From Sexual Offences Act, 2012. MWCD, India.

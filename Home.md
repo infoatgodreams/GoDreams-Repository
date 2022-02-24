@@ -98,6 +98,7 @@ title: Home - CAP Design Portal
 - [Guidelines on Alternative Care_UN](Volume%201/Reference%20Reading/Governments%20&%20UN/Guidelines%20on%20Alternative%20Care_UN.md)
 - [SOP on Escape Runaway Sexual Abuse Death of Children in CCIs](Volume%202/Reference%20Reading/Governments%20&%20UN/SOP%20on%20Escape%20Runaway%20Sexual%20Abuse%20Death%20of%20Children%20in%20CCIs.md)
 - [WHO Child Growth Standards](Volume%201/Reference%20Reading/Governments%20&%20UN/WHO/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md)
+-  [Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia](Volume%201/Reference%20Reading/Governments%20&%20UN/Minimum%20Standards%20of%20Care%20and%20Support%20for%20the%20Victims%20of%20Trafficking%20and%20other%20forms%20of%20violence%20in%20South%20Asia.md)
 
 ## Research
 ## USA
@@ -107,6 +108,7 @@ title: Home - CAP Design Portal
 
 ## Indian
 - [Nutrition, Health & Psychosocial Profile of Institutionalized Children](Volume%201/Reference%20Reading/Research%20Papers/India/Nutrition,%20Health%20&%20Psychosocial%20Profile%20of%20Institutionalized%20Children.md)
+- [Multidimensional Scale for Child Sexual Abuse (MSCSE)](Volume%201/Reference%20Reading/Research%20Papers/India/Multidimensional%20Scale%20for%20Child%20Sexual%20Abuse%20(MSCSE).md)
 
 ## Global
 - [Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries](Volume%201/Reference%20Reading/Research%20Papers/Global/Ideal%20Components%20and%20current%20characteristics%20of%20alternative%20care%20options%20for%20children%20outside%20of%20parental%20care%20in%20low%20resource%20countries.md)
