@@ -6,103 +6,34 @@ tags:
 - indianresearch
 ---
 
-- Scope:  Multidimensional scale for child sexual abuse (MSCSA): Development and psychometric properties
-	- In recognition to the rising incidences of child sexual abuse in India, various challenges of existing trauma measures and absence of indigenous efforts at development of comprehensive impact assessment scale, present study was conceptualized.
-	- Objective : To develop and establish psychometric properties of Multidimensional Scale for Children with Sexual Abuse.
-	- Participants and Setting :Out patient department of government hospitals,non-governmental organizations and
-childcare institutes were primarydatasettingfromwhichatotalof457participantsweresampled.
-ArecentCSAassessmenttoolreview((Satapathyetal.,2017)
-revealedthattheprimaryindicatorsoftraumainmostscalesare
-behaviourmanifestationsandsymptomsofpost-traumaticstressdisor
-der(PTSD
-Page 2
-Participantswereincludediftheywere
-between77––13yearsofagewithahistoryofCSA(asperProtectionOf
-Children aagainst SSexual OOffence AAct, 22012)) ffrom 00 wweeks tto 22 yyears wwith
-IQ ≥≥90, ppsychological ttreatment nnaïve, rready tto ggive aassent aand hhave aa
-consentingparent,caregiveroralegallyauthorisedrepresentative
-(LRA)
-Emotionalexperiencesvary
-widelydependingonthebasictenetsofaculture.Forexample,
-socio-centricculturestendedtogiverisetoamoresocialfeelingof
-shameafterCSA,incontrasttoprivatefeelingofguiltinegocentric
-cultures(Zimmerling,2003).Especially,inanAsiancountrysuchas
-India, ddespite nnational ddata iindicating aa hhigh pprevalence oof CCSA aamong
-young cchildren (((Kacker eet aal., 220077), ssocio-cultural ffactors ((stigma, ppoor
-awareness, llack oof aaccess tto tthe hhealth ccare ffacility, fifinancial ddifficulties,
-fear oof ppublic eexposure uupon ddisclosure aand ffear oof rreceiving aa cculturally
-insensitiveresponsefrompeople)limitstimelyreportingor
-treatment-seeking((GilliganandAkhtar,2005
-Tofulfilthegapsintheliterature,MultidimensionalScaleforChill
-drenwithSexualAbuse(henceforth,referredasMSCSA)hasbeen
-designed tto aassess tthe nnature aand eextent oof ttrauma iin cchildren ffrom 77 tto
-13 yyears oof aage wwith hhistory oof ssexual aabuse
-Socio-Demographic PPerforma wwas cconstructed ffor tthe sstudy cconsisting
-of2majorsections.First,wasthepersonalhistoryregardingachild’’s
-age,gender,socio-economicstatus(SES),andschoolhistory.Kup
-puswamy sscale wwas uused ffor SSES aassessment (((Tabassum aand RRao, 220177).
-Thesecondsectiononfamilyhistoryincludedinformationontheage,
-education, aand iincome oof pparents oor hhead oof tthe ffamily, ffamily hhistory oof
-psychiatricorphysicalillness,typeoffamily,numberoffamilymemm
-bers,livingspace,historyofsubstanceuse,historyofotherformsof
-abuse,historyofexposuretoparentalviolenceoranyothersignificant
-lifeevents.
-Abuse FForm: TThe fifirst ssection iincluded iincident iinformation oon cchild’’s
-ageatthetimeoftheabuse,frequencyofabuse,timesincetheabuse,
-and ttype oof aabuse. DDisclosure iinformation wwas tthe ssecond ssection wwhich
-includeddetailsontimetakenfordisclosure,threatfordisclosure,and
-sourcesofsupportafterdisclosure.
-Child PPTSD SSymptom SScale ((CPSS) (((Foa eet aal., 22001)1): CCPSS aassesses oon
-a4-pointlikertscale,thefrequencyofPTSDsymptomswithinthepast
-month ffor aa cchild wwho hhas eexperienced aa ttraumatic eevent. TThe sscale hhad
-satisfactoryinternalandtest-retestreliabilityalongwithadequate
-convergent vvalidity wwith oother PPTSD mmeasures. WWHO gguideline ffor sscale
-translationwasfollowedtotranslatethescaleintotheHindilanguage.
-Children’ssImpactofEventsScale––13(CRIES-13)((Horowitzetal.,
-1979)9):Itcomprisesof13itemson4point llikertscaletoassessesPTSD
-symptomsinchildrenbetweenagerangeof7––16years.Thescalehas
-satisfactory iinternal cconsistency. WWHOO’’s gguidelines ffor sscale ttranslation
-werefollowedtotranslatethescaleintotheHindilanguage.
-Developmental PPsychopathology CChecklist ((DPCL) (((Kapur eet aal., 11995)5):
-DPCLisanIndianadaptedversionoftheChildBehaviourChecklist
-(CBCL) bby AAchenbach aand EEdelbrock, cconsisting oof 66 ssubsections. IIn tthe
-presentstudy,sub-scalepsychopathologywasonlyused.
-Children’ssGlobalAssessmentScale(CGAS):TheCGASisaclinician
-completednumericscalerangingfromlowest(1)tohighest(100)
-Page 3
-functioning.Itcapturesbehaviouraldescriptorsoffunctioningwithin
-the llast mmonth ffor cchildren tthat iis iindependent oof sspecific mmental hhealth
-diagnosis.
-Page 4
-Meanageof30childrenrecruitedinpilotgroupwere10yearsand
-66%belongedtoupperlowersocio-economicstatus.Allchildren
-registeredacaseofpenetrativesexualassaultunderPOCSO,in56%
-cases pperpetrator wwas aa kknown pperson, 224 %% wwere ssurvivors oof iincest aand
-in 220 %% ccases, aabuse wwas ccommitted bby aan uunknown pperson
-Page 5
-The fifirst ffactor “““psychopathologyy” cconsists oof 227 iitems oon ssymptoms
-ofPTSD,depression,anxiety,andsomatization.Thesecondfactor,
-““socio-emotionaldifficultiess”included14itemsonsub-factors,guilt,
-shame,emotionalreactionsduetocriticalcommentsorduetostigma,
-and ddiscrimination. TThe tthird ffactor, “““externalizing bbehaviourr” iincluded
-7itemsonsub-factors,aggression,self-harm,andotherdifficult
-behaviour. TThe ffourth ffactor, “““sexualized bbehaviour aand ppain”included
-7itemsonsub-factors,sexualself-stimulation,sexualstimulationof
-others,andpaininprivateparts.Thefifthfactor““academicdifficulty”
-included7itemsonsub-factors-declinedinterestinstudies,deterioo
-rating aacademic pperformance, ppoor aacademic sself-efficacy, aand rreduced
-attentionandconcentration.Thoughmostitemsdistributedonfactors
-wereclinicallyandconceptuallyrelevanttoit,however,sevenitems
-loadedonthefactordomainirrelevanttotheallocatedcategorywhich
-werere-shuffledbasedoncross-loadingvaluesandclinicalrelevance.
-Page 6
-S.
-NoItemNameFactor1
-PsychopathologyFactor2Socio
-EmotionalDifficultyFactor3Externalizing
-BehaviourFactor4Sexualized
-Behaviour&PainFactor5Academic
-Difficulty
+Link: https://drive.google.com/file/d/1ba6V07RmNMZ5LgVSiQN99VWg3a1a30sx/view?usp=sharing
+- # Scope
+- Multidimensional scale for child sexual abuse (MSCSA): Development and psychometric properties
+- In recognition to the rising incidences of child sexual abuse in India, various challenges of existing trauma measures and absence of indigenous efforts at development of comprehensive impact assessment scale, present study was conceptualized.
+	-  Objective: To develop and establish psychometric properties of Multidimensional Scale for Children with Sexual Abuse. Participants and 
+	- Settings: Outpatient department of government hospitals, non-governmental organizations and child care institutes were primary data setting from which a total of 457 participants were sampled.
+	- A recent CSA assessment tool review (Satapathy et al., 2017) revealed that the primary indicators of trauma in most scales are behaviour manifestations and symptoms of post-traumatic stress disorder (PTSD)
+	- Participants were included if they were between 7–13 years of age with a history of CSA (as per Protection Of Children against Sexual Offence Act, 2012) from 0 weeks to 2 years with IQ ≥ 90, psychological treatment naïve, ready to give assent and have a consenting parent, caregiver or a legally authorised representative (LRA)
+- Emotional experiences vary widely depending on the basic tenets of a culture. For example, socio-centric cultures tended to give rise to a more social feeling of shame after CSA, in contrast to private feeling of guilt in egocentric cultures (Zimmerling, 2003).
+	-  Especially, in an Asian country such as India, despite national data indicating a high prevalence of CSA among young children (Kacker et al., 2007), socio-cultural factors (stigma, poor awareness, lack of access to the health care facility, financial difficulties, fear of public exposure upon disclosure and fear of receiving a culturally insensitive response from people) limits timely reporting or treatment-seeking (Gilligan and Akhtar, 2005
+- To fulfil the gaps in the literature, Multidimensional Scale for Children with Sexual Abuse (henceforth, referred as MSCSA) has been designed to assess the nature and extent of trauma in children from 7 to 13 years of age with history of sexual abuse
+- Mean age of 30 children recruited in pilot group were 10 years and 66 % belonged to upper lower socio-economic status. All children registered a case of penetrative sexual assault under POCSO, in 56 % cases perpetrator was a known person, 24 % were survivors of incest and in 20 % cases, abuse was committed by an unknown person
+- # Measurement tools: [Assessment Tools](Volume%201/Roll%20Ups/Assessment%20Tools.md)
+	- Socio-Demographic Performa was constructed for the study consisting of 2 major sections. First, was the personal history regarding a child’s age, gender, **socio-economic status (SES),** and school history. [[Kuppuswamy scale]] was used for SES assessment (Tabassum and Rao, 2017).
+	- The second section on **family history** included information on the age, education, and income of parents or head of the family, family history of psychiatric or physical illness, type of family, number of family members, living space, history of substance use, history of other forms of abuse, history of exposure to parental violence or any other significant life events.
+		- [[Child PTSD Symptom Scale (CPSS)]] (Foa et al., 2001): CPSS assesses on a 4-point likert scale, the frequency of PTSD symptoms within the past month for a child who has experienced a traumatic event. The scale had satisfactory internal and test-retest reliability along with adequate convergent validity with other PTSD measures. WHO guideline for scale translation was followed to translate the scale into the Hindi language.
+		- [[Children’s Impact of Events Scale –13 (CRIES-13)]] (Horowitz et al., 1979): It comprises of 13 items on 4 point likert scale to assesses PTSD symptoms in children between age range of 7–16 years. The scale has satisfactory internal consistency. WHO’s guidelines for scale translation were followed to translate the scale into the Hindi language.
+		- [[Developmental Psychopathology Checklist (DPCL)]] (Kapur et al., 1995): DPCL is an Indian adapted version of the Child Behaviour Checklist (CBCL) by Achenbach and Edelbrock, consisting of 6 subsections. In the present study, sub-scale psychopathology was only used.
+		- [[Abuse Form]]: The first section included incident information on child’s age at the time of the abuse, frequency of abuse, time since the abuse, and type of abuse. Disclosure information was the second section which included details on time taken for disclosure, threat for disclosure, and sources of support after disclosure.
+		- [[Children’s Global Assessment Scale (CGAS)]]: The CGAS is a clinician completed numeric scale ranging from lowest (1) to highest (100)functioning. It captures behavioural descriptors of functioning within the last month for children that is independent of specific mental health diagnosis.
+- # Indicators of CSA
+	- **The first factor “psychopathology”** consists of 27 items on symptoms of PTSD, depression, anxiety, and somatization. 
+	- **The second factor, “socio-emotional difficulties”** included 14 items on sub-factors, guilt, shame, emotional reactions due to critical comments or due to stigma, and discrimination. 
+	- **The third factor, “externalizing behaviour”** included 7 items on sub-factors, aggression, self-harm, and other difficult behaviour. 
+	- **The fourth factor, “sexualized behaviour and pain”** included 7 items on sub-factors, sexual self-stimulation, sexual stimulation of others, and pain in private parts.
+	- **The fifth factor “academic difficulty”** included 7 items on sub-factorsdeclined interest in studies, deteriorating academic performance, poor academic self-efficacy, and reduced attention and concentration. 
+	- Though most items distributed on factors were clinically and conceptually relevant to it, however, seven items loaded on the factor domain irrelevant to the allocated category which were re-shuffled based on cross-loading values and clinical relevance.
+
 1.BedWetting0.723
 2.Loneliness0.696
 3.FeelingofDirtinessinBody0.674
@@ -169,7 +100,8 @@ PassingStool0.444
 60.ReducedAcademicPerformance0.441
 61.PoorSelf-efficacies(InAcademics)0.438
 62.TroubleConcentrating
-Page 8
+
+
 Babiker,G.,Herbert,M.,1998.Criticalissuesintheassessmentofchildsexualabuse.
 Clin.ChildFam.Psychol.Rev.1(4),2311––2522.
 Besharov,D.J.,1994.Respondingtochildsexualabuse:theneedforabalanced
