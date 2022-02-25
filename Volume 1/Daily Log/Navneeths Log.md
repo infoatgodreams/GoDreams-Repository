@@ -42,6 +42,18 @@ tags:
 				- Practices that result in better outcomes in comparison 
 				- Outcome measurement tools 
 				- Data suggesting gaps in outcomes specifically in institutional care settings
+		- Associated Sectors and Innovations
+			- We will be looking at: 
+				- Diverse sectors and domain specific sectors such as 
+					- Traditional education sector
+					- Ed tech
+					- Hostel care
+					- Pediatric hospital wards
+					- Sporting academies
+					- School kitches/cafeterias
+				- What we are looking for:
+					- Best Practices and Manuals
+					- Outcome Measurement Tools
 - We have dived deep into Nutrition and Child Safety, looking at what the current realities are for CCIs and attempting to identify key levers for our program.
 -  The questions we have begun asking ourselves through the readings are: 
 	- What don't we know about how CCIs in India operate? What do we still not know post literature review?
