@@ -24,7 +24,24 @@ tags:
 	- Alternative Care
 	- Diversity & Inclusion
 - Parallelly, to ensure we are getting in inputs from diverse sources, we are using a Human Centered Design framework to identify publications under: 
-	- 
+	- Gold Standards and Innovations in Institutional Child Care 
+		- We will be looking at :
+			- Domestic and International CCIs
+			- Domestic and Intl Service Providers to CCIs
+			- Domestic and Intl Services available for vulnerable children outside of institutions
+			- Domestic and Foreign Govt Regulations and UN/International Body Regulations
+		- What we are looking for:
+			- Successful interventions in institutional care settings
+			- Inputs and best practices that have led to excellent outcomes
+			- Outcome measurement tools used
+			- Indicators of excellent outcomes
+		- Baselines for Institutional Care
+			- We will be looking at:
+				- Domestic and International CCIs
+			- What we are looking for: 
+				- Practices that result in better outcomes in comparison 
+				- Outcome measurement tools 
+				- Data suggesting gaps in outcomes specifically in institutional care settings
 - We have dived deep into Nutrition and Child Safety, looking at what the current realities are for CCIs and attempting to identify key levers for our program.
 -  The questions we have begun asking ourselves through the readings are: 
 	- What don't we know about how CCIs in India operate? What do we still not know post literature review?
