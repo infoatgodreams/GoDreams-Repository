@@ -60,33 +60,33 @@ Reading List : **[Master Reading List - Google Sheets](https://docs.google.com/s
     
 ### **Research Sources:**
 - #### 1. Gold Standards and Innovations in Institutional Child Care 
-	- We will be looking at :
+	- *We will be looking at :*
 		- Domestic and International CCIs
 		- Domestic and Intl Service Providers to CCIs
 		- Domestic and Intl Services available for vulnerable children outside of institutions
 		- Domestic and Foreign Govt Regulations and UN/International Body Regulations
-	-  What we are looking for:
+	-  *What we are looking for:*
 		- Successful interventions in institutional care settings
 		-  Inputs and best practices that have led to excellent outcomes
 		- Outcome measurement tools used
 		- Indicators of excellent outcomes
 - #### 2. Baselines for Institutional Care
-	-  We will be looking at:
+	-  *We will be looking at:*
 		-  Domestic and International CCIs
-	- What we are looking for: 
+	- *What we are looking for:* 
 		- Practices that result in better outcomes in comparison 
 		- Outcome measurement tools
 		- Data suggesting gaps in outcomes specifically in institutional care settings
 - ### 3. Associated Sectors and Innovations
-	- We will be looking at: 
+	- *We will be looking at:* 
 		- Diverse sectors and domain specific sectors such as 
 			- Traditional education sector
 			- Ed tech
 			- Hostel care
 			- Pediatric hospital wards
 			- Sporting academies
-			- School kitches/cafeterias
-	- What we are looking for:
+			- School kitchens/cafeterias
+	- *What we are looking for:*
 		- Best Practices and Manuals
 		- Outcome Measurement Tools
 
