@@ -23,6 +23,8 @@ tags:
 	- Govt Schemes and Acts
 	- Alternative Care
 	- Diversity & Inclusion
+- Parallelly, to ensure we are getting in inputs from diverse sources, we are using a Human Centered Design framework to identify publications under: 
+	- 
 - We have dived deep into Nutrition and Child Safety, looking at what the current realities are for CCIs and attempting to identify key levers for our program.
 -  The questions we have begun asking ourselves through the readings are: 
 	- What don't we know about how CCIs in India operate? What do we still not know post literature review?
