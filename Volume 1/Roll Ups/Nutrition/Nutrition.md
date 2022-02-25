@@ -172,6 +172,7 @@ tags:
 
 
 # Indian Regulations, Acts and Schemes
+- ## [[Juvenile Justice Act]]
 
 # Diagnostic Tools
 

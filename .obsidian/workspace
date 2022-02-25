@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           },
           "pinned": true
@@ -38,7 +38,7 @@
           "state": {
             "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
             "options": {
-              "collapse-filter": false,
+              "collapse-filter": true,
               "search": "-tag:#indexpage",
               "localJumps": 1,
               "localBacklinks": true,
@@ -47,19 +47,19 @@
               "showTags": false,
               "showAttachments": false,
               "hideUnresolved": false,
-              "collapse-color-groups": false,
+              "collapse-color-groups": true,
               "colorGroups": [],
-              "collapse-display": false,
+              "collapse-display": true,
               "showArrow": false,
-              "textFadeMultiplier": -0.4,
-              "nodeSizeMultiplier": 0.904607601859448,
+              "textFadeMultiplier": -3,
+              "nodeSizeMultiplier": 1.4251572327044,
               "lineSizeMultiplier": 2.06227782335247,
-              "collapse-forces": false,
+              "collapse-forces": true,
               "centerStrength": 0.213631391851244,
               "repelStrength": 20,
               "linkStrength": 0.707957342083675,
               "linkDistance": 250,
-              "scale": 0.40432400032171467,
+              "scale": 0.5286226359267583,
               "close": false
             }
           }
@@ -104,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.0093288421631
+    "width": 308.0093288421631,
+    "collapsed": true
   },
   "right": {
     "id": "7e698accb92ee8ea",
