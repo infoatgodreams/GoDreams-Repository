@@ -30,7 +30,23 @@ tags:
 	- What are considered the gold standards (best practices, high quality inputs, outcome measurements) in institutional childcare?
 	- What are the current realities (gaps observed in institutional care, how are these measured?)
 - Through asking these questions, we are preparing to immerse in our sandbox CCIs and validate what the literature review has told us and hasn't told us. 
-- 
+
+## Nutrition
+- Some of the key points that emerged from the literature review could be categorized into:
+	 - Nutritional inputs influenced by cultural aspects and belief systems
+	 - Children's Individual Experiences with Food
+	 - Market supply chain and food prices
+	 - Overlaps between heath outcomes and nutritional inputs
+	 - Skill level of care and cooking staff
+	 - Processes for food preparation and mealtimes
+	 - Nutritional inputs influenced by donor/sponsor behavior
+- Some of the highlights were:
+	- SoPs: SoPs for kitchen management and food supply chain from the market to the table can be contextualized from high quality soup kitchens, hostels and school cafeteria systems. These would include aspects like proper storage hygiene and temperatures, streamlining of the preparation process, standardized recipes and purchase lists for max. cost efficiency, regular variations in menu and integration of individual needs of children
+	- Eating Behaviors: A lot of the eating behaviors of children were influenced by the mealtime environment. Not being able to ask for second helpings meant children not knowing how to self regulate quantity of food/knowing satiety. Not having conversations with caregivers around the "dinner table" , leading to caregivers minimum influence on eating behaviors and inability to identify eating disorders early. 
+	- Individual Nutrition Plan : This will have to be a part of the Individual Care Plan for each child, ensuring that food disorders, health issues, diet preferences, religious and cultural aspects are all taken into account at the CCI. 
+-  A snapshot into some critical questions for experts: 
+	- While macro measurement tools for malnourishment are available from the WHO and Indian Pediatrics Association, what are quick signs and tells that CCI staff can look for, towards early identification of issues?
+	- 
 
 # 2022-02-07
 
