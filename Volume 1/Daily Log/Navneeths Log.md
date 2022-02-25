@@ -23,8 +23,14 @@ tags:
 	- Govt Schemes and Acts
 	- Alternative Care
 	- Diversity & Inclusion
-- We have dived deep into Nutrition and Child Safety, looking at what the current realities are for CCIs and attempting to identify key levers for our program. The questions we have begun asking ourselves through the readings are: 
-	- 
+- We have dived deep into Nutrition and Child Safety, looking at what the current realities are for CCIs and attempting to identify key levers for our program.
+-  The questions we have begun asking ourselves through the readings are: 
+	- What don't we know about how CCIs in India operate? What do we still not know?
+	- What have others done already that we can learn from? (Identifying innovations in institutional care and otherwise)
+	- What are considered the gold standards (best practices, high quality inputs, outcome measurements) in institutional childcare?
+	- What are the current realities (gaps observed in institutional care, how are these measured?)
+- Through asking these questions, we are preparing to immerse in our sandbox CCIs and validate what the literature review has told us and hasn't told us. 
+- 
 
 # 2022-02-07
 
