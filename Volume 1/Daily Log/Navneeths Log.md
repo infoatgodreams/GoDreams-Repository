@@ -25,7 +25,7 @@ tags:
 	- Diversity & Inclusion
 - We have dived deep into Nutrition and Child Safety, looking at what the current realities are for CCIs and attempting to identify key levers for our program.
 -  The questions we have begun asking ourselves through the readings are: 
-	- What don't we know about how CCIs in India operate? What do we still not know?
+	- What don't we know about how CCIs in India operate? What do we still not know post literature review?
 	- What have others done already that we can learn from? (Identifying innovations in institutional care and otherwise)
 	- What are considered the gold standards (best practices, high quality inputs, outcome measurements) in institutional childcare?
 	- What are the current realities (gaps observed in institutional care, how are these measured?)
@@ -48,11 +48,12 @@ tags:
 		- While macro measurement tools for malnourishment are available from the WHO and Indian Pediatrics Association that seek to identify stunting and under-weight children , what are quick signs and tells that CCI staff can look for, towards early identification of issues? 
 		- While standard frameworks can be used to identify malnourishment in children upto the age of 5 and arguably upto the age of 9, what are ways to do this during teenage growth spurts where larger data is only indicative and cannot be applied to individual children?
 - Some of the questions among the many emerging to observe from our sandbox CCIs are: 
-	- How many standardized kitchen/food procedures are the cooking staff aware of? 
-	- Do children have individual nutrition plans formally(on paper) or informally(in the minds of staff)
-	- Are meal table procedures strict or personalized? 
-	- Are the meals served favoring certain food groups over others?
+	- How many standardized kitchen/food procedures are the cooking staff aware of?  Are meal portions, diet diversity consistent over time? Is there a fixed food budget or is it variable based on incoming donations etc? Is there a fixed grocery purchase template? Is the food stored, transported and cooked in a safe and sanitary way?
+	- Do children have individual nutrition plans formally(on paper) or informally(in the minds of staff)? Are food types and quantity adjusted by age and preference? Are special dietary needs accounted for?
+	- Are meal table routines strict and process based or personalized? How many children have eating disorders? How many of them are the staff aware of?
+	- Are the meals served favoring certain food groups over others? How much of the causation of this is tradition, market availability, funding and taste preferences?
 	- Are there emergency procedures in place for lack of funding, drop in food supply etc. ? 
+- The larger design question here is narrowing down into : How might we enable the kitchen to be able to quickly identify nutritional deficiencies, eating disorders, psychological & behavioral issues related to food, likes and dislikes and incorporate individual nutrition plans into an efficient, simple and templatized catering system? 
 
 
 ## Child Safety
