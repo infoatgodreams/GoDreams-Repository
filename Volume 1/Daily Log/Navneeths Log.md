@@ -44,9 +44,21 @@ tags:
 	- SoPs: SoPs for kitchen management and food supply chain from the market to the table can be contextualized from high quality soup kitchens, hostels and school cafeteria systems. These would include aspects like proper storage hygiene and temperatures, streamlining of the preparation process, standardized recipes and purchase lists for max. cost efficiency, regular variations in menu and integration of individual needs of children
 	- Eating Behaviors: A lot of the eating behaviors of children were influenced by the mealtime environment. Not being able to ask for second helpings meant children not knowing how to self regulate quantity of food/knowing satiety. Not having conversations with caregivers around the "dinner table" , leading to caregivers minimum influence on eating behaviors and inability to identify eating disorders early. 
 	- Individual Nutrition Plan : This will have to be a part of the Individual Care Plan for each child, ensuring that food disorders, health issues, diet preferences, religious and cultural aspects are all taken into account at the CCI. 
--  A snapshot into some critical questions for experts: 
-	- While macro measurement tools for malnourishment are available from the WHO and Indian Pediatrics Association, what are quick signs and tells that CCI staff can look for, towards early identification of issues?
-	- 
+	- Measurement Tools: 
+		- While macro measurement tools for malnourishment are available from the WHO and Indian Pediatrics Association that seek to identify stunting and under-weight children , what are quick signs and tells that CCI staff can look for, towards early identification of issues? 
+		- While standard frameworks can be used to identify malnourishment in children upto the age of 5 and arguably upto the age of 9, what are ways to do this during teenage growth spurts where larger data is only indicative and cannot be applied to individual children?
+- Some of the questions among the many emerging to observe from our sandbox CCIs are: 
+	- How many standardized kitchen/food procedures are the cooking staff aware of? 
+	- Do children have individual nutrition plans formally(on paper) or informally(in the minds of staff)
+	- Are meal table procedures strict or personalized? 
+	- Are the meals served favoring certain food groups over others?
+	- Are there emergency procedures in place for lack of funding, drop in food supply etc. ? 
+
+
+## Child Safety
+
+
+
 
 # 2022-02-07
 
