@@ -43,59 +43,82 @@ Quality of care delivered at Child Care Institutions is on average inadequate an
 
 **Goal** -To put together information in core areas of program development and draw insights that will allow us to : 
 
-1.  Ask the right questions during primary research with stakeholders
-    
-2.  Avoid reinventing the wheel during program design
-
-3.  Identify key levers and critical factors that influence the care quality at CCIs  based on existing studies/practices in the sector under the following categories: 
-			1. Gold Standards for childcare under all domains
-			2. Baseline/Current Reality for childcare under all domains
-			3. Successful and unsuccessful interventions in institutional childcare under all domains
+1.  Identify questions for primary research : What don't we know about how CCIs in India operate?
+2. Avoid reinventing the wheel during program design : What have others done already?
+3. Identify key levers and critical factors that influence the care quality at CCIs  based on existing studies/practices in the sector under the following categories: 
+	- Gold Standards for childcare under all domains :
+		-  Best Practices
+		- M&E and Outcome Measurements
+		- Successful Interventions
+	- Baseline/Current Reality for childcare under all domains:
+		- Gaps observed specifically in institutional care
+		- Outcome Measurements
+4.	 Identify innovations in associated sectors and document potential practices that can be implemented in CCIs.		
 
 **Links**
 Reading List : **[Master Reading List - Google Sheets](https://docs.google.com/spreadsheets/d/1GRiS7QFPiak-1Ob3TdobKnaHqgUBb_8B-fErHP1BXUA/edit?usp=sharing)**
     
 ### **Research Sources:**
 
-#### 1.  Status Quo:
-- CCIs (Domestic)
-	- Care Practices
-	- Management Practices
-	- Financial Practices
-- CNCP
-- Service Providers to CCIs
-- CCIs, CNCP & Service Providers (Intl)
-- Government and UN regulations
-    
-#### 2.  Innovations in the space:
-- Practitioners(Other capacity building orgs)
-- Bright Spots (CCIs)
-- Practitioners & Bright Spots (Intl)
-    
-#### 3.  Associated sector innovations
--  Education Sector (Traditional)
--  Ed. Tech
--  Hostel Care
--  Pediatric Hospital Wards
--  Sporting Academies
+#### 1.  Gold Standards & Innovations in Institutional Child Care:
+- Sources
+	- CCIs (Domestic)
+	- Services for Children in Need of Care and Protection 
+	- Service Providers to CCIs
+	- CCIs, CNCP & Service Providers (Intl)
+	- Government and UN regulations
+- What we are looking for
+	- Successful Interventions in institutional care
+	- Inputs and best practices that lead to excellent outcomes
+	- Outcomes measurement tools
+	- Indicators of excellent outcomes
+	    
+#### 2.  Baselines for Institutional Child Care
+- Sources
+	- CCIs (Domestic)
+	- CCIs (International)
+- What we are looking for
+	- Practices that result in better outcomes in comparison
+	- Outcome measurement tools
+	- Larger gaps observed specifically in institutional care under each domain
+	    
+#### 3.  Associated Sectors
+- Sources
+	-  Education Sector (Traditional)
+	-  Ed. Tech
+	-  Hostel Care
+	-  Pediatric Hospital Wards
+	-  Sporting Academies
+	-  School Kitchens/Cafeterias
+- What we are looking for
+	- Best Practices and Manuals
+	- Outcome measurement tools
 
 #### 4. Research and Books
-- Books  
-- Academic studies on Childcare and Institutional Care
-- Practitioner studies on Childcare and Institutional Care
-    
+- Sources 
+	- Books  
+	- Practitioner studies on Childcare and Institutional Care on status quo 
+	- Academic studies on Childcare and Institutional Care on status quo
+
 ## Primary Research
-**Goal** - Speak to x CCIs to decode : 
 
-1.  What is the current reality of the CCIs in the factors and key levers identified as part of Secondary Research
-    
-2.  Build a basic profile of CCIs towards future use in city expansion and demographic context
+### Focus Groups
+**Goal** -Work closely with 10 CCIs  to decode : 
+1. What are the current practices and outcomes of the CCIs in the domains, sub-domains and key areas identified in the secondary research
+2. Map and evaluate the support ecosystem available to CCIs
+3. Identify the challenges preventing CCIs from adopting best practices and create case studies for the same
+4. Convert case studies into design problems for the design sprint
 
-3. What does the current ecosystem around the CCIs look like in terms of stakeholders and services available to them? What are their thoughts on a product like ours?
+### CCI Landscape Survey
+1. Build a basic profile of CCIs across the country through quantitative data towards future use in city expansion and demographic context
+2. What does the current ecosystem around CCIs across the country look like in terms of stakeholders and services available to them? 
+3. Identify challenges preventing CCIs across the country from adopting best practices and create 1 case profile per city 
+4. Convert case profiles into design problems for the design sprint
 
 
 ## Prototyping
 
+- 
 - **[Intervention Map](Volume%201/Program%20Design/Intervention%20Map.md)**
 
 
