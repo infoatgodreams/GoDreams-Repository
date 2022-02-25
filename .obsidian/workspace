@@ -23,11 +23,48 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Program Design/CAP Design Framework.md",
+            "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "2273220ca736ceaa"
+      },
+      {
+        "id": "de3291b7bbed09f2",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "-tag:#indexpage",
+              "localJumps": 1,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": true,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": false,
+              "colorGroups": [],
+              "collapse-display": false,
+              "showArrow": false,
+              "textFadeMultiplier": -0.4,
+              "nodeSizeMultiplier": 0.904607601859448,
+              "lineSizeMultiplier": 2.06227782335247,
+              "collapse-forces": false,
+              "centerStrength": 0.213631391851244,
+              "repelStrength": 20,
+              "linkStrength": 0.707957342083675,
+              "linkDistance": 250,
+              "scale": 0.40432400032171467,
+              "close": false
+            }
+          }
+        },
+        "group": "2273220ca736ceaa"
       }
     ],
     "direction": "vertical"
@@ -83,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Program Design/CAP Design Framework.md",
+                "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Program Design/CAP Design Framework.md",
+                "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b16e6c84465cc80c",
+  "active": "de3291b7bbed09f2",
   "lastOpenFiles": [
-    "Volume 1/Program Design/CAP Design Framework.md",
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-    "Volume 1/Daily Log/Navneeths Log.md",
     "Home.md",
+    "Volume 1/Roll Ups/Roll Up Index.md",
+    "Volume 1/Program Design/CAP Design Framework.md",
+    "Volume 1/Daily Log/Navneeths Log.md",
     "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Mental Health_1_Annotated.md",
     "Volume 1/Reference Reading/Governments & UN/Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia.md",
     "Volume 1/Reference Reading/Research Papers/India/Multidimensional Scale for Child Sexual Abuse (MSCSE).md",
     "Untitled.md",
-    "Volume 2/Daily Log/Akshays Log.md",
-    "Volume 2/Reference Reading/Research Papers/Nutrition Papers/Impact of Nutritional Status on Cognition in Institutionalized Orphans, A Pilot Study.md"
+    "Volume 2/Daily Log/Akshays Log.md"
   ]
 }
