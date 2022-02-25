@@ -46,10 +46,10 @@ Quality of care delivered at Child Care Institutions is on average inadequate an
 1.  Identify questions for primary research : What don't we know about how CCIs in India operate?
 2. Avoid reinventing the wheel during program design : What have others done already?
 3. Identify key levers and critical factors that influence the care quality at CCIs  based on existing studies/practices in the sector under the following categories: 
-	- Gold Standards for childcare under all domains :
-		-  Best Practices
-		- M&E and Outcome Measurements
-		- Successful Interventions
+	- Gold Standard Practices and outcomes under all domains :
+		-  Best Practices and Inputs
+		-  M&E and Outcome Measurements
+		-  Successful Interventions
 	- Baseline/Current Reality for childcare under all domains:
 		- Gaps observed specifically in institutional care
 		- Outcome Measurements
