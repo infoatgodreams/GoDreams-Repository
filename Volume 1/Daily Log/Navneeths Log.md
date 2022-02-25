@@ -4,6 +4,28 @@ author: Navneeth
 tags:
 - dailylog
 ---
+
+# Feb 2022 Summary
+- As of today we have identified 16 different areas of interest for the Care Standards Framework
+	- Caregiving standards
+	- Child Safety
+	- Education & Play
+	- Physical Health
+	- Nutrition
+	- Care Manual & SoPs
+	- Aftercare
+	- Restoration
+	- Child Development
+	- Mental Health
+	- Finance & Compliance
+	- Leadership & Org Transformation
+	- HR Systems & Training
+	- Govt Schemes and Acts
+	- Alternative Care
+	- Diversity & Inclusion
+- We have dived deep into Nutrition and Child Safety, looking at what the current realities are for CCIs and attempting to identify key levers for our program. The questions we have begun asking ourselves through the readings are: 
+	- 
+
 # 2022-02-07
 
 ## Residual impacts of institutionalization post adoption

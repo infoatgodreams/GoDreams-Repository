@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Program Design/CAP Design Framework.md",
+            "file": "Volume 1/Daily Log/Navneeths Log.md",
             "mode": "source",
             "source": false
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Program Design/CAP Design Framework.md",
+                "file": "Volume 1/Daily Log/Navneeths Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Program Design/CAP Design Framework.md",
+                "file": "Volume 1/Daily Log/Navneeths Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,6 +127,7 @@
   },
   "active": "b16e6c84465cc80c",
   "lastOpenFiles": [
+    "Volume 1/Daily Log/Navneeths Log.md",
     "Volume 1/Program Design/CAP Design Framework.md",
     "Home.md",
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
@@ -136,7 +136,6 @@
     "Volume 1/Reference Reading/Research Papers/India/Multidimensional Scale for Child Sexual Abuse (MSCSE).md",
     "Untitled.md",
     "Volume 2/Daily Log/Akshays Log.md",
-    "Volume 2/Reference Reading/Research Papers/Nutrition Papers/Impact of Nutritional Status on Cognition in Institutionalized Orphans, A Pilot Study.md",
-    "Volume 3/Reference Reading/Research Papers/Global Research/Global Childhood Report 2021.md"
+    "Volume 2/Reference Reading/Research Papers/Nutrition Papers/Impact of Nutritional Status on Cognition in Institutionalized Orphans, A Pilot Study.md"
   ]
 }
