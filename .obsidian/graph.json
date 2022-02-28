@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "-path: templates -file: home -file: index",
+  "search": "-path: templates -file: home -file: index - tag:#indexpage -tag:#dailylog",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Practitioner",
@@ -32,7 +32,7 @@
       "query": "tag:#Government tag:#UN tag:",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 14048348
       }
     },
     {
@@ -57,16 +57,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.4,
-  "nodeSizeMultiplier": 1.03357260049221,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "textFadeMultiplier": 2.4,
+  "nodeSizeMultiplier": 1.11899097621001,
+  "lineSizeMultiplier": 1.01213426305715,
+  "collapse-forces": true,
   "centerStrength": 0.408828923238145,
   "repelStrength": 18.6560125753209,
   "linkStrength": 0.828006287660466,
   "linkDistance": 281,
-  "scale": 0.19546410499688494,
+  "scale": 0.30739886140172884,
   "close": false
 }

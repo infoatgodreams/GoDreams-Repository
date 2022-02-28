@@ -23,23 +23,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+            "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
             "mode": "source",
             "source": false
           }
         },
-        "group": "2273220ca736ceaa"
+        "group": "7e263fb2f120a623"
       },
       {
-        "id": "de3291b7bbed09f2",
+        "id": "a0540cd7cd54da07",
         "type": "leaf",
         "state": {
           "type": "localgraph",
           "state": {
-            "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+            "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
             "options": {
               "collapse-filter": true,
-              "search": "-tag:#indexpage",
+              "search": "",
               "localJumps": 1,
               "localBacklinks": true,
               "localForelinks": true,
@@ -49,22 +49,22 @@
               "hideUnresolved": false,
               "collapse-color-groups": true,
               "colorGroups": [],
-              "collapse-display": true,
+              "collapse-display": false,
               "showArrow": false,
               "textFadeMultiplier": -3,
-              "nodeSizeMultiplier": 1.4251572327044,
-              "lineSizeMultiplier": 2.06227782335247,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 2.39812637034084,
               "collapse-forces": true,
-              "centerStrength": 0.213631391851244,
-              "repelStrength": 20,
-              "linkStrength": 0.707957342083675,
-              "linkDistance": 250,
-              "scale": 0.5286226359267583,
+              "centerStrength": 0.410445720535958,
+              "repelStrength": 18.0092972381734,
+              "linkStrength": 0.58552091878589,
+              "linkDistance": 200,
+              "scale": 0.6358647657495379,
               "close": false
             }
           }
         },
-        "group": "2273220ca736ceaa"
+        "group": "7e263fb2f120a623"
       }
     ],
     "direction": "vertical"
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.0093288421631,
-    "collapsed": true
+    "width": 308.0093288421631
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+                "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+                "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,25 +154,24 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "de3291b7bbed09f2",
+  "active": "a0540cd7cd54da07",
   "lastOpenFiles": [
+    "Volume 1/Roll Ups/Child Safety/Child Safety.md",
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+    "R-DPDQ.md",
     "Home.md",
     "Volume 1/Roll Ups/Roll Up Index.md",
     "Volume 1/Program Design/CAP Design Framework.md",
     "Volume 1/Daily Log/Navneeths Log.md",
     "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Mental Health_1_Annotated.md",
     "Volume 1/Reference Reading/Governments & UN/Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia.md",
-    "Volume 1/Reference Reading/Research Papers/India/Multidimensional Scale for Child Sexual Abuse (MSCSE).md",
-    "Untitled.md",
-    "Volume 2/Daily Log/Akshays Log.md"
+    "Volume 1/Reference Reading/Research Papers/India/Multidimensional Scale for Child Sexual Abuse (MSCSE).md"
   ]
 }
