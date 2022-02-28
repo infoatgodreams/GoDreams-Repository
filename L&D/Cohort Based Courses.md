@@ -16,3 +16,7 @@ tag:
 		- Teachers no longer have to create content 
 		- They can focus on engaging the students 
 	- Online communities
+- ## Community vs independent learning
+	- Community aspect helps the cohort push through difficult period of low performance, demotivation or the slump before seeing outcomes/ success
+		- This could be critical to the CCIs becomes many strategies do not work instantly but require consistent reinforcement
+		- 
