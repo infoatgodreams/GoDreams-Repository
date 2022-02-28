@@ -4,101 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d20d865ca093171",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
-        },
-        "group": "86b894718744d8ca"
-      },
-      {
-        "id": "c774fc51f5b9740a",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "- tag:#indexpage",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": -0.7,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 3.31327486545744,
-              "collapse-forces": false,
-              "centerStrength": 0,
-              "repelStrength": 10,
-              "linkStrength": 0.438907713773171,
-              "linkDistance": 250,
-              "scale": 0.6358647657495379,
-              "close": false
-            }
-          },
-          "pinned": true
-        },
-        "group": "86b894718744d8ca"
-      },
-      {
         "id": "b16e6c84465cc80c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "7e263fb2f120a623"
-      },
-      {
-        "id": "a0540cd7cd54da07",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
+          "type": "markdown",
           "state": {
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": true,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": false,
-              "showArrow": false,
-              "textFadeMultiplier": -3,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 2.39812637034084,
-              "collapse-forces": true,
-              "centerStrength": 0.410445720535958,
-              "repelStrength": 18.0092972381734,
-              "linkStrength": 0.58552091878589,
-              "linkDistance": 200,
-              "scale": 0.6358647657495379,
-              "close": false
-            }
+            "file": "L&D/Cohort Based Courses.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "7e263fb2f120a623"
+        }
       }
     ],
     "direction": "vertical"
@@ -138,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.0093288421631
+    "width": 308.0093288421631,
+    "collapsed": true
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -154,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+                "file": "L&D/Cohort Based Courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+                "file": "L&D/Cohort Based Courses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,8 +111,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c774fc51f5b9740a",
+  "active": "b16e6c84465cc80c",
   "lastOpenFiles": [
+    "L&D/Cohort Based Courses.md",
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
     "Volume 2/Reference Reading/Research Papers/Nutrition Papers/The nutritional status of children living within institutionalized care, a systematic review.md",
     "Volume 4/Reference Reading/Research & Books/Study of Foster Care in Nepal.md",
@@ -205,7 +122,6 @@
     "Volume 1/Roll Ups/Child Safety/Child Safety.md",
     "R-DPDQ.md",
     "Home.md",
-    "Volume 1/Roll Ups/Roll Up Index.md",
-    "Volume 1/Daily Log/Navneeths Log.md"
+    "Volume 1/Roll Ups/Roll Up Index.md"
   ]
 }
