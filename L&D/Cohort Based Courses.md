@@ -27,18 +27,19 @@ tag:
 	- Maven
 	- Teachfirst?
 		- Check this out, tfi affiliated
+	- Lambda School 
+
 
 ## Format for CBCs
 - What to teach? (Topic) + Whom to teach? (Audience) + What pressing problem(s) does your audience have that the course can help address
 - Core components: Student group selectivity + Proof of work
-- 
-- Whats the ideal length of  CBC? are they better in shorter formats with narrower learning outcomes? (starters recommend 1 hour) 
+- What's the ideal length of  CBC? are they better in shorter formats with narrower learning outcomes? (starters recommend 1 hour) 
 	- Smaller sized cohorts do better 
 	- Since its the same cohort in multiple courses, shorter vs longer?
 	- Are there changes in completion rate proportionate to length? 
-	- Are students differentiated into the CBC groups based on an entrance test? Are group homogenously created based on skill level etc or heterogenous?
-		- Define the target group so its people only a max of 3-4 steps ahead  
-			- homogenous is better for unknown people
-			- for known people you could change this
-- Lambda School 
+	- Are students differentiated into the CBC groups based on an entrance test? 
+		- Are group homogenously created based on skill level etc or heterogenous?
+			- Define the target group so its people only a max of 3-4 steps ahead  
+				- homogenous is better for unknown people
+				- for known people you could change this
 - 
