@@ -30,6 +30,9 @@ tag:
 
 ## Format for CBCs
 - What to teach? (Topic) + Whom to teach? (Audience) + What pressing problem(s) does your audience have that the course can help address
-- Whats the ideal length of  CBC? are they better in shorter formats with narrower learning outcomes?
-	- Are students differentiated based on an entrance test? Are group homogenously created based on skill level etc or heterogenous? 
+- Whats the ideal length of  CBC? are they better in shorter formats with narrower learning outcomes? (starters recommend 1 hour) 
+	- Smaller sized cohorts do better 
+	- Since its the same cohort in multiple courses, shorter vs longer?
+	- Are there changes in completion rate proportionate to length? 
+	- Are students differentiated into the CBC groups based on an entrance test? Are group homogenously created based on skill level etc or heterogenous? 
 - 
