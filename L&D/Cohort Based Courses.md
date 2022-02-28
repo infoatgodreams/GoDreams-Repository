@@ -28,6 +28,6 @@ tag:
 	- Teachfirst?
 		- Check this out, tfi affiliated
 
-## How to create a CBC topic
--What to teach? (Topic) + Whom to teach? (Audience) + What pressing problem(s) does your audience have that the course can help address
-	- Example: 
+## Format for CBCs
+- What to teach? (Topic) + Whom to teach? (Audience) + What pressing problem(s) does your audience have that the course can help address
+- Whats the ideal length of  CBC? are they better in shorter formats with narrower learning outcomes?
