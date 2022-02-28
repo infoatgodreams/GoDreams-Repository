@@ -35,4 +35,6 @@ tag:
 	- Since its the same cohort in multiple courses, shorter vs longer?
 	- Are there changes in completion rate proportionate to length? 
 	- Are students differentiated into the CBC groups based on an entrance test? Are group homogenously created based on skill level etc or heterogenous? 
+		- homogenous is better for unknown people
+		- for known people you could change this
 - 
