@@ -12,7 +12,7 @@ tag:
 - How CBC is maximizing the internet's potential: 
 	- Extensive use of tech tools
 	- No Geographical Limitations
-	- **Internet upgrade of pedagogical techniques**
+	- Internet upgrade of pedagogical techniques
 		- Teachers no longer have to create content 
 		- They can focus on engaging the students 
 	- Online communities
@@ -20,7 +20,7 @@ tag:
 	- Community aspect helps the cohort push through difficult period of low performance, demotivation or the slump before seeing outcomes/ success
 		- This could be critical to the CCIs becomes many strategies do not work instantly but require consistent reinforcement
 		- It also pushed for completion of courses because of peer pressure/community based motivations
-			- While completion rates are high, any stats on learning outcomes? Long term application of learning?
+			- ==While completion rates are high, any stats on learning outcomes? Long term application of learning?==
 - ## Players in CBC
 	- Growth School
 	- Airtribe
