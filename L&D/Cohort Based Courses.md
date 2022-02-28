@@ -30,6 +30,8 @@ tag:
 
 ## Format for CBCs
 - What to teach? (Topic) + Whom to teach? (Audience) + What pressing problem(s) does your audience have that the course can help address
+- Core components: Student group selectivity + Proof of work
+- 
 - Whats the ideal length of  CBC? are they better in shorter formats with narrower learning outcomes? (starters recommend 1 hour) 
 	- Smaller sized cohorts do better 
 	- Since its the same cohort in multiple courses, shorter vs longer?
