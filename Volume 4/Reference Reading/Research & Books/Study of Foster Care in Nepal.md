@@ -1,5 +1,5 @@
 ---
-title: Study of Foster Family Care: An Alternative Solution for Children without Parental Care (Focussing on former street children) in Nepal
+title: Study of Foster Family Care - An Alternative Solution for Children without Parental Care (Focussing on former street children) in Nepal
 author : Mekha
 tags:
 - 
