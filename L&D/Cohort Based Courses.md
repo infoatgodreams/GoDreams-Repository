@@ -13,5 +13,6 @@ tag:
 	- Extensive use of tech tools
 	- No Geographical Limitations
 	- **Internet upgrade of pedagogical techniques**
-		- 
+		- Teachers no longer have to create content 
+		- They can focus on engaging the students 
 	- Online communities
