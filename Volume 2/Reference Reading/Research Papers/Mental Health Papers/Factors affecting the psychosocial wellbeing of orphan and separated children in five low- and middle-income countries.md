@@ -1,5 +1,5 @@
 ---
-title: Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries Which is more important, quality of care or care setting?
+title: Factors affecting the psychosocial wellbeing of orphan and separated children in five low and middleincome countries
 author: Akshay
 tags :
 - globalresearch
