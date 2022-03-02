@@ -46,7 +46,7 @@ Link: [Google Drive] (https://drive.google.com/file/d/1vdk7A7TmDlbYb8IXDMvjHvOvW
 		- Fighting in order to resist it could result in the risk of getting hurt. Money and other possessions likely to be lost in such situations can be later recovered or replaced. The harm caused to the child may be irreversible. 
 	- Under any circumstances, no form of sexual maltreatment is ever alright. Have regular conversations with children with regard to personal safety
 	- Discuss with the child that it is never her fault if any such situation arises
-	- Inform the child that any incidents of being followed, being teased or troubledshould be reported to Naunihal staff immediately, even if it is a hunch. 
+	- Inform the child that any incidents of being followed, being teased or troubled should be reported to Naunihal staff immediately, even if it is a hunch. 
 	- Instruct the child to cross the street if she feels like she is being followed, and notice if the person following her does the same. If this happens, the child should start running immediately. Develop an understanding in the child that there is no harm in running, and there is no need to wait till theperson is very close to take action
 	- Explain to the child that while getting into a taxi, she should ensure that the child lock of the doors isn’t activated
 	- Discuss instances like maintaining distance from the car and never getting into the car — even if the stranger is going in the same direction that the child is headed, or the stranger says there is an emergency or a disaster along the way
