@@ -46,10 +46,10 @@ Quality of care delivered at Child Care Institutions is on average inadequate an
 1.  Identify questions for primary research : What don't we know about how CCIs in India operate?
 2. Avoid reinventing the wheel during program design : What have others done already?
 3. Identify key levers and critical factors that influence the care quality at CCIs  based on existing studies/practices in the sector under the following categories: 
-	- Gold Standards for childcare under all domains :
-		-  Best Practices
-		- M&E and Outcome Measurements
-		- Successful Interventions
+	- Gold Standard Practices and outcomes under all domains :
+		-  Best Practices and Inputs
+		-  M&E and Outcome Measurements
+		-  Successful Interventions
 	- Baseline/Current Reality for childcare under all domains:
 		- Gaps observed specifically in institutional care
 		- Outcome Measurements
@@ -59,46 +59,36 @@ Quality of care delivered at Child Care Institutions is on average inadequate an
 Reading List : **[Master Reading List - Google Sheets](https://docs.google.com/spreadsheets/d/1GRiS7QFPiak-1Ob3TdobKnaHqgUBb_8B-fErHP1BXUA/edit?usp=sharing)**
     
 ### **Research Sources:**
-
-#### 1.  Gold Standards & Innovations in Institutional Child Care:
-- Sources
-	- CCIs (Domestic)
-	- Services for Children in Need of Care and Protection 
-	- Service Providers to CCIs
-	- CCIs, CNCP & Service Providers (Intl)
-	- Government and UN regulations
-- What we are looking for
-	- Successful Interventions in institutional care
-	- Inputs and best practices that lead to excellent outcomes
-	- Outcomes measurement tools
-	- Indicators of excellent outcomes
-	    
-#### 2.  Baselines for Institutional Child Care
-- Sources
-	- CCIs (Domestic)
-	- CCIs (International)
-- What we are looking for
-	- Practices that result in better outcomes in comparison
-	- Outcome measurement tools
-	- Larger gaps observed specifically in institutional care under each domain
-	    
-#### 3.  Associated Sectors
-- Sources
-	-  Education Sector (Traditional)
-	-  Ed. Tech
-	-  Hostel Care
-	-  Pediatric Hospital Wards
-	-  Sporting Academies
-	-  School Kitchens/Cafeterias
-- What we are looking for
-	- Best Practices and Manuals
-	- Outcome measurement tools
-
-#### 4. Research and Books
-- Sources 
-	- Books  
-	- Practitioner studies on Childcare and Institutional Care on status quo 
-	- Academic studies on Childcare and Institutional Care on status quo
+- #### 1. Gold Standards and Innovations in Institutional Child Care 
+	- *We will be looking at :*
+		- Domestic and International CCIs
+		- Domestic and Intl Service Providers to CCIs
+		- Domestic and Intl Services available for vulnerable children outside of institutions
+		- Domestic and Foreign Govt Regulations and UN/International Body Regulations
+	-  *What we are looking for:*
+		- Successful interventions in institutional care settings
+		-  Inputs and best practices that have led to excellent outcomes
+		- Outcome measurement tools used
+		- Indicators of excellent outcomes
+- #### 2. Baselines for Institutional Care
+	-  *We will be looking at:*
+		-  Domestic and International CCIs
+	- *What we are looking for:* 
+		- Practices that result in better outcomes in comparison 
+		- Outcome measurement tools
+		- Data suggesting gaps in outcomes specifically in institutional care settings
+- ### 3. Associated Sectors and Innovations
+	- *We will be looking at:* 
+		- Diverse sectors and domain specific sectors such as 
+			- Traditional education sector
+			- Ed tech
+			- Hostel care
+			- Pediatric hospital wards
+			- Sporting academies
+			- School kitchens/cafeterias
+	- *What we are looking for:*
+		- Best Practices and Manuals
+		- Outcome Measurement Tools
 
 ## Primary Research
 

@@ -4,6 +4,94 @@ author: Navneeth
 tags:
 - dailylog
 ---
+
+# Feb 2022 Summary
+- As of today we have identified 16 different areas of interest for the Care Standards Framework
+	- Caregiving standards
+	- Child Safety
+	- Education & Play
+	- Physical Health
+	- Nutrition
+	- Care Manual & SoPs
+	- Aftercare
+	- Restoration
+	- Child Development
+	- Mental Health
+	- Finance & Compliance
+	- Leadership & Org Transformation
+	- HR Systems & Training
+	- Govt Schemes and Acts
+	- Alternative Care
+	- Diversity & Inclusion
+- Parallelly, to ensure we are getting in inputs from diverse sources, we are using a Human Centered Design framework to identify publications under: 
+	- Gold Standards and Innovations in Institutional Child Care 
+		- We will be looking at :
+			- Domestic and International CCIs
+			- Domestic and Intl Service Providers to CCIs
+			- Domestic and Intl Services available for vulnerable children outside of institutions
+			- Domestic and Foreign Govt Regulations and UN/International Body Regulations
+		- What we are looking for:
+			- Successful interventions in institutional care settings
+			- Inputs and best practices that have led to excellent outcomes
+			- Outcome measurement tools used
+			- Indicators of excellent outcomes
+		- Baselines for Institutional Care
+			- We will be looking at:
+				- Domestic and International CCIs
+			- What we are looking for: 
+				- Practices that result in better outcomes in comparison 
+				- Outcome measurement tools 
+				- Data suggesting gaps in outcomes specifically in institutional care settings
+		- Associated Sectors and Innovations
+			- We will be looking at: 
+				- Diverse sectors and domain specific sectors such as 
+					- Traditional education sector
+					- Ed tech
+					- Hostel care
+					- Pediatric hospital wards
+					- Sporting academies
+					- School kitches/cafeterias
+				- What we are looking for:
+					- Best Practices and Manuals
+					- Outcome Measurement Tools
+- We have dived deep into Nutrition and Child Safety, looking at what the current realities are for CCIs and attempting to identify key levers for our program.
+-  The questions we have begun asking ourselves through the readings are: 
+	- What don't we know about how CCIs in India operate? What do we still not know post literature review?
+	- What have others done already that we can learn from? (Identifying innovations in institutional care and otherwise)
+	- What are considered the gold standards (best practices, high quality inputs, outcome measurements) in institutional childcare?
+	- What are the current realities (gaps observed in institutional care, how are these measured?)
+- Through asking these questions, we are preparing to immerse in our sandbox CCIs and validate what the literature review has told us and hasn't told us. 
+
+## Nutrition
+- Some of the key points that emerged from the literature review could be categorized into:
+	 - Nutritional inputs influenced by cultural aspects and belief systems
+	 - Children's Individual Experiences with Food
+	 - Market supply chain and food prices
+	 - Overlaps between heath outcomes and nutritional inputs
+	 - Skill level of care and cooking staff
+	 - Processes for food preparation and mealtimes
+	 - Nutritional inputs influenced by donor/sponsor behavior
+- Some of the highlights were:
+	- SoPs: SoPs for kitchen management and food supply chain from the market to the table can be contextualized from high quality soup kitchens, hostels and school cafeteria systems. These would include aspects like proper storage hygiene and temperatures, streamlining of the preparation process, standardized recipes and purchase lists for max. cost efficiency, regular variations in menu and integration of individual needs of children
+	- Eating Behaviors: A lot of the eating behaviors of children were influenced by the mealtime environment. Not being able to ask for second helpings meant children not knowing how to self regulate quantity of food/knowing satiety. Not having conversations with caregivers around the "dinner table" , leading to caregivers minimum influence on eating behaviors and inability to identify eating disorders early. 
+	- Individual Nutrition Plan : This will have to be a part of the Individual Care Plan for each child, ensuring that food disorders, health issues, diet preferences, religious and cultural aspects are all taken into account at the CCI. 
+	- Measurement Tools: 
+		- While macro measurement tools for malnourishment are available from the WHO and Indian Pediatrics Association that seek to identify stunting and under-weight children , what are quick signs and tells that CCI staff can look for, towards early identification of issues? 
+		- While standard frameworks can be used to identify malnourishment in children upto the age of 5 and arguably upto the age of 9, what are ways to do this during teenage growth spurts where larger data is only indicative and cannot be applied to individual children?
+- Some of the questions among the many emerging to observe from our sandbox CCIs are: 
+	- How many standardized kitchen/food procedures are the cooking staff aware of?  Are meal portions, diet diversity consistent over time? Is there a fixed food budget or is it variable based on incoming donations etc? Is there a fixed grocery purchase template? Is the food stored, transported and cooked in a safe and sanitary way?
+	- Do children have individual nutrition plans formally(on paper) or informally(in the minds of staff)? Are food types and quantity adjusted by age and preference? Are special dietary needs accounted for?
+	- Are meal table routines strict and process based or personalized? How many children have eating disorders? How many of them are the staff aware of?
+	- Are the meals served favoring certain food groups over others? How much of the causation of this is tradition, market availability, funding and taste preferences?
+	- Are there emergency procedures in place for lack of funding, drop in food supply etc. ? 
+- The larger design question here is narrowing down into : How might we enable the kitchen to be able to quickly identify nutritional deficiencies, eating disorders, psychological & behavioral issues related to food, likes and dislikes and incorporate individual nutrition plans into an efficient, simple and templatized catering system? 
+
+
+## Child Safety
+
+
+
+
 # 2022-02-07
 
 ## Residual impacts of institutionalization post adoption

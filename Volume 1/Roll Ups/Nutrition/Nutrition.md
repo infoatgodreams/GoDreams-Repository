@@ -172,6 +172,7 @@ tags:
 
 
 # Indian Regulations, Acts and Schemes
+- ## [[Juvenile Justice Act]]
 
 # Diagnostic Tools
 
@@ -199,7 +200,7 @@ tags:
 [^9]: [Impact of Nutritional Status on Cognition in Institutionalized Orphans, A Pilot Study](Volume%202/Reference%20Reading/Research%20Papers/Nutrition%20Papers/Impact%20of%20Nutritional%20Status%20on%20Cognition%20in%20Institutionalized%20Orphans,%20A%20Pilot%20Study.md)
 [^10]: [Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya](Volume%202/Reference%20Reading/Research%20Papers/Nutrition%20Papers/Childcare%20practices,%20morbidity%20status%20and%20nutrition%20status%20of%20Pre-school%20children%20in%20Orphanages,%20Kenya.md)
 [^11]: [Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres](Volume%201/Reference%20Reading/Research%20Papers/Global/Magnitude%20and%20Associated%20Factors%20of%20Undernutrition%20Among%20children%20aged%206-59%20months%20in%20Ethiopian%20Orphanage%20Centres.md)
-[^12]: [The nutritional status of children living within institutionalized care, a systematic review](Volume%202/Reference%20Reading/Research%20Papers/Nutrition%20Papers/The%20nutritional%20status%20of%20children%20living%20within%20institutionalized%20care,%20a%20systematic%20review.md)
+[^12]: [The nutritional status of children living within institutionalized care _ a systematic review](Volume%201/Reference%20Reading/Research%20Papers/US/The%20nutritional%20status%20of%20children%20living%20within%20institutionalized%20care%20_%20a%20systematic%20review.md)
 [^13]: Unread
 [^14]: [MiracleFoundation_Institutionalise Children Explorations and Beyond](Volume%201/Volume%201%20Public%20Resource%20Links/Other%20service%20providers/MiracleFoundation_Institutionalise%20Children%20Explorations%20and%20Beyond.pdf)
 [^15]: [Canada_British Columbia_Food and Nutrition Manual for homes](Volume%201/Reference%20Reading/Governments%20&%20UN/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md)
