@@ -6,7 +6,6 @@ tags:
 ---
 
 Potential outline for the roll-up
-
 - Principles of Child Protection
 - Relevant Acts & Guidelines
 - Types of vulnerabilities in children 
@@ -19,3 +18,16 @@ Potential outline for the roll-up
 - Remedial Protocol
 - Rehabilitative Practices
 -  
+
+
+
+## Child Sexual Abuse
+
+## Physical Abuse
+
+## Managing Behavior
+
+## Caregiver Training
+
+## Signs of Abuse
+
