@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "194c63f734d70e85",
+        "id": "b16e6c84465cc80c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-<<<<<<< HEAD
             "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "8c5465e95ec627ba",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-=======
-            "file": "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries.md",
->>>>>>> 3ce3690465f218bb5a024f2029dadb054d215095
             "mode": "source",
             "source": false
           }
@@ -56,13 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
                 "query": "rainbow",
                 "matchingCase": false,
-=======
-                "query": "tag:#Rollups",
-                "matchingCase": true,
->>>>>>> 3ce3690465f218bb5a024f2029dadb054d215095
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -74,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 308.0093288421631
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -90,11 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md",
-=======
-                "file": "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries.md",
->>>>>>> 3ce3690465f218bb5a024f2029dadb054d215095
+                "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,11 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "conflict-files-obsidian-git.md",
-=======
-                "file": "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries.md",
->>>>>>> 3ce3690465f218bb5a024f2029dadb054d215095
+                "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,11 +110,10 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "8c5465e95ec627ba",
+  "active": "b16e6c84465cc80c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Volume 1/Roll Ups/Child Safety/Child Safety.md",
+    "conflict-files-obsidian-git.md",
     "Volume 1/Roll Ups/Child Safety/Child Rights Law.md",
     "Volume 1/Roll Ups/Child Safety/Child Sexual Abuse.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
@@ -152,19 +122,5 @@
     "Volume 1/Reference Reading/Books/Books Index.md",
     "Volume 1/Program Design/Intervention Map.md",
     "L&D/Cohort Based Courses.md"
-=======
-  "active": "194c63f734d70e85",
-  "lastOpenFiles": [
-    "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries.md",
-    "conflict-files-obsidian-git.md",
-    "Volume 4/Butterflies_Child Participation Research.md",
-    "Volume 1/Roll Ups/Child Safety/Child Safety.md",
-    "Volume 4/Reference Reading/Governments & UN/Guidelines for Institutional Childcare, Ethiopia.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Child Protection Policy.md",
-    "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
-    "Volume 1/Roll Ups/Nutrition/Nutrition.md"
->>>>>>> 3ce3690465f218bb5a024f2029dadb054d215095
   ]
 }
