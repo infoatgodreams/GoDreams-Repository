@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Program Design/Context Document/V0 Op Support.md",
+            "file": "Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.0093288421631
+    "width": 269.0093288421631,
+    "collapsed": true
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Program Design/Context Document/V0 Op Support.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Program Design/Context Document/V0 Op Support.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +113,7 @@
   },
   "active": "4053149d4b85d5b9",
   "lastOpenFiles": [
+    "Untitled.md",
     "Volume 1/Program Design/Context Document/V0 Op Support.md",
     "conflict-files-obsidian-git.md",
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
@@ -120,7 +122,6 @@
     "Volume 1/Reference Reading/Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Children's Committees.md",
     "Volume 4/Reference Reading/Governments & UN/Guidelines for Institutional Childcare, Ethiopia.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Master Class Best Practices for Safety of Children in a Child Care Institution.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md"
+    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Master Class Best Practices for Safety of Children in a Child Care Institution.md"
   ]
 }
