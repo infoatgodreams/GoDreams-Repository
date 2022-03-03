@@ -97,6 +97,8 @@ author: Navneeth
 		1. Enable transparent, independent, professional work style
 	4. Care Practices
 	5. Exposure/Opportunities
+		1. Networking Opportunities
+		2. Site visits
 # CAP Operational Plan
 [[CAP Operational Plan]]
 
