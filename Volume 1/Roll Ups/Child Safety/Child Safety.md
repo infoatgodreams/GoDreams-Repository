@@ -92,6 +92,10 @@ Thus, a childcare institution shall have
  
  The surface area for one bedroom shall be at least twelve sq. meters.
 
+shall have at least one toilet, with a total surface area of at least two sq. meters.
+shall have at least one bathroom/shower, with a total surface area of at least six sq. meters.
+
+
 
 
 
