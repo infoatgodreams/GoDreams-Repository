@@ -16,18 +16,6 @@
           },
           "pinned": true
         }
-      },
-      {
-        "id": "3565fa8a5d598cbb",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -84,12 +72,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
+                "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "training",
+                "searchQuery": "physical",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -101,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
+                "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +112,17 @@
     "direction": "horizontal",
     "width": 420
   },
-  "active": "3565fa8a5d598cbb",
+  "active": "ff4fb74c36920924",
   "lastOpenFiles": [
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
     "Volume 1/Roll Ups/Child Safety/Child Safety.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Child Protection Policy.md",
-    "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
-    "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Working with Children Sensitively.md",
     "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
     "Volume 1/Reference Reading/Governments & UN/Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia.md",
-    "conflict-files-obsidian-git.md"
+    "Volume 4/Reference Reading/Governments & UN/Guidelines for Institutional Childcare, Ethiopia.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Children's Committees.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Child Protection Policy.md"
   ]
 }

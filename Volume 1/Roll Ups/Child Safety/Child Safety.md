@@ -59,6 +59,13 @@ For Rainbow's caregivers
 ## Physical Abuse
 -Child is a victim of extreme violence is a part of the Childhood Enders index [^4]
 
+- [^6]any action that causes pain, injury, hurt or discomfort 
+#opinion: adding things that are not commonly understood as physical abuse
+- Hitting, slapping, pinching, pushing them down, pulling hair, pulling ears, throwing things at them, shaking, flinging them down, hitting head against the wall
+- Also includes making them carry heavy weights beyond capacity 
+- Uncomfy positions like: Standing on a bench with hands raised, kneeling, holding ears through the legs, weight on their heads, carrying weight more than they can
+- Forced ingestion of inedible things, burning, poisoning, smothering, hurting genitals, giving electric shocks. 
+
 ## Managing Behavior
 
 ## Caregiver Training
