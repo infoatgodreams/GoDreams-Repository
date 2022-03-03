@@ -65,6 +65,7 @@ author: Navneeth
 		- Not enough transparency in operations
 		- Suspicion based approach
 	- **Lack of Exposure**
+	- **Care Practices**
 
 
 
