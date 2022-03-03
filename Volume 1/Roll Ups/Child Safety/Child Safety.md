@@ -54,6 +54,11 @@ Potential outline for the roll-up
 
 ### Emotional signs
 
+- According to Rainbow Homes [^6] , these are the following signs of emotional abuse
+	- Lack of concentration
+	- Apathy and hopelessness
+	- Threatening to leave the home 
+
 
 
 
@@ -63,3 +68,4 @@ Potential outline for the roll-up
 [^4]: [Global Childhood Report 2021](Volume%203/Reference%20Reading/Research%20Papers/Global%20Research/Global%20Childhood%20Report%202021.md)
 [^5]: [Volume 4/Guidelines for Institutional Childcare - Ethiopia](Volume%204/Guidelines%20for%20Institutional%20Childcare%20-%20Ethiopia)
 [^6]: [Rainbow_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Child%20Protection%20Policy.md)
+[^7]: 
