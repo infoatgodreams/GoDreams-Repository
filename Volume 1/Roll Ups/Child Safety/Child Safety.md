@@ -60,7 +60,17 @@ Potential outline for the roll-up
 	- Threatening to leave the home 
 - Fisher et al. (1997) have pointed  out that most of the characteristic early problems of children adopted from orphanages  might indicate brain damage or emotionally produced pathology if they were found in children reared in families.[^3]
 - In the U.K. sample  children’s scores on disinhibited attachment disturbance were positively correlated with  their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years.[^3]
-- 
+
+### Sexual: 
+According to Rainbow Homes [^6], these are the signs of Sexual Abuse
+1. Difficulty walking/sitting- unexplained rashes or pain
+2. Refuses to change in front of other children 
+3. Demonstrates excessive, exaggerated sexual curiosity 
+4. Avoids conversations related to sexuality 
+5. Pays either excessive or no attention to their body
+6. Reduced self care and grooming 
+7. Becomes pregnant or gets an STD
+8. Medical complaints such as UTI
 
 
 
@@ -72,4 +82,3 @@ Potential outline for the roll-up
 [^4]: [Global Childhood Report 2021](Volume%203/Reference%20Reading/Research%20Papers/Global%20Research/Global%20Childhood%20Report%202021.md)
 [^5]: [Volume 4/Guidelines for Institutional Childcare - Ethiopia](Volume%204/Guidelines%20for%20Institutional%20Childcare%20-%20Ethiopia)
 [^6]: [Rainbow_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Child%20Protection%20Policy.md)
-[^7]: 
