@@ -32,14 +32,15 @@ author: Navneeth
 [[CSF]]
 
 - APPI Applications
-	-  CSF Components
-		1. Training/ Workshops
-		2. Operating Systems (software, equipment,facilities)
+	- Comprehensive CCI Standardization Framework(CSF) (Care standards checkboxes, processes and routines for inputs & outputs(M&E, Outcome measurement & Benchmark Assessments)  - > backend can contain first princples and front ended by a clear task list for CCI stakeholders)  that acts as a blueprint/wireframe for running a CCI.
 	-  CSF Design Stages
 		1. Landscape study of the existing care standards followed and current budget
 		2. Create benchmarks for care standards (based on the JJ Act and SME recommendations) and estimate budgets for the same: 
 		3. Define eligibility criteria based on care standards, legal, organisational, financial standards expected of CCIs
 		4. Prepare a standard budget range for grant submission (based on JJ Act rules): 
+	-  CSF Components
+		1. Training/ Workshops
+		2. Operating Systems (software, equipment,facilities)
 
 
 
@@ -96,6 +97,10 @@ author: Navneeth
 	3. Operating Systems
 		1. Enable transparent, independent, professional work style
 	4. Care Practices
+		1. Know-how on the science behind child care
+		2. Practices allowing childs individuality & agency to flourish
+		3. Childs link to family to be cultivated in healthy fashios
+		4. Childs exposure to non institutional word designed for in advance
 	5. Exposure/Opportunities
 		1. Networking Opportunities
 		2. Site visits
