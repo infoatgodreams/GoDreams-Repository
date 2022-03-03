@@ -35,4 +35,5 @@
 			- I wanted to explore and understand the sector before I go for Post Grad or enter the sector : 
 				- Post Grad: I do want to do post grad in 2-3 years
 - What is the vision for Guardians: 
-	- 
+- Stays independently
+- 
