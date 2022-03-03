@@ -53,8 +53,27 @@ For Rainbow's caregivers
 -Half day refresher training once a year for all staff
 
 ### Response to CSA
-- According to a manual by Aangan [^1]individual meetings for serious or personal issues such as sexual abuse.
-- 
+- According to a manual by Aangan [^1]individual meetings for serious or personal issues such as sexual abuse
+
+## Emotional Abuse
+#opinion: adding things that are not commonly understood as emotional abuse
+[^6]
+- Repeatedly rejecting the child
+- Using derogatory terms to insult the child 
+- Ridiculing, pressurizing  the child 
+- Unnecessary Reference to the child’s past and health status of the child’s parents 
+- Intimidating the child 
+- Imposing developmentally inappropriate expectations
+- Belittling the child about not meeting teacher’s expectations
+- Using abusive language
+- Shaming the child about a disability 
+- Caste, religion, race based discrimination 
+- Showing favouritism 
+- Threatening to kick a child out of the home 
+
+## Neglect: 
+Persistent lack of care: can include failure to meet physical, safety, health and emotional needs 
+
 
 ## Physical Abuse
 -Child is a victim of extreme violence is a part of the Childhood Enders index [^4]
@@ -239,6 +258,28 @@ HR Systems:
 -   Verdict after trial
 -   Sentence imposed
 
+## Child Protection Committee
+[^6]
+-Select one staff as CPO
+-CPO needs to be mature, approachable, trusted by children, has been there for at least a year and doesnt plan to leave soon, listens well and maintain privacy, drives everything in the interest of the children.
+
+**What does the CPO do?**
+1. CPO ensures quarterly meeting with CPC
+2. Enforces the prevention guidelines with the rest of the team 
+3. Raise awareness about child protection in the home 
+4. Ensures that CPC information is publicly displayed
+5. CPO brings up a violation immediately with CPC or project-in charge
+6. CPO meets children every month to orient them about child protection 
+7. Support survivors with sensitivity and care
+
+**Who constitutes the child protection committee?** 
+- 5 members, 3 women 
+- 3 mature persons with child work experience 
+- 1 is the project in charge or home coordinator 
+- Mature dedicated long term volunteers
+PS: If more than 3 are not available for an enquiry, then a teacher/counsellor can be asked to join
+
+
 
 
 
@@ -251,3 +292,5 @@ HR Systems:
 [^7]: [Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia](Volume%201/Reference%20Reading/Governments%20&%20UN/Minimum%20Standards%20of%20Care%20and%20Support%20for%20the%20Victims%20of%20Trafficking%20and%20other%20forms%20of%20violence%20in%20South%20Asia.m
 [^8]: [Working with Children Sensitively](Volume%203/Reference%20Reading/Service%20Providers%20to%20CCIs/Prerana/Working%20with%20Children%20Sensitively.md)
 [^9]: [CSA_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Child%20Protection%20Policy.md)
+[^10]: 
+[^11]: 
