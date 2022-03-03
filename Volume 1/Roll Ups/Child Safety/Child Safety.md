@@ -74,7 +74,23 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 
 ## Infrastructure requirements for Child Safety
 
+### Basic Facilities 
+Thus, a childcare institution shall have
+- an adequate potable water supply;
+- preferably electric power; and in case of power failure generator;
+- preferably telephone communication; and
+- a waste disposal system. 
 
+## Hazards
+- free from chemical, noise, air, etc., pollution; and
+- Free from hazardous physical structures like wells, swamps, unprotected ponds, open sewers, deep ditches etc.
+
+## Accommodation arrangements
+ A self-contained home in a childcare institution shall not have more than three bedrooms for the children and one for the home mother.
+ 
+ The number of children residing in one bedroom shall not exceed four.
+ 
+ The surface area for one bedroom shall be at least twelve sq. meters.
 
 
 
