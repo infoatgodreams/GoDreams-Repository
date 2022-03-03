@@ -32,6 +32,7 @@ Potential outline for the roll-up
 - 
 
 ## Physical Abuse
+-Child is a victim of extreme violence is a part of the Childhood Enders index [^4]
 
 ## Managing Behavior
 
@@ -41,10 +42,24 @@ Potential outline for the roll-up
 ## Signs of Abuse
 
 ### Physical signs
+- According to Ethiopian guidelines [^5], the applicant's physical status needs to be evaluated, along with any disability during the screening process.
 - From a paper on institutional childcare [^3], Romanian children they assessed had physical scarring that appeared to have resulted from lacerations, burns or broken bones 
-- 
+- According to Rainbow Homes [^6] , these are the following signs of physical abuse commonly found
+	- Unexplained bruises and cuts 
+	- Describes adults as evil
+	- Bite marks or welts in the shape of objects
+	- Fractures
+	- Excessive crying
+	- Excessive fear of adults 
+
+### Emotional signs
+
+
 
 
 [^1]: [Aangan - Changing Spaces](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Aangan/Aangan%20-%20Changing%20Spaces.md)
 [^2]: [Prerana_Safety Guidelines for Girls in Naunihal](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Prerana/Prerana_Safety%20Guidelines%20for%20Girls%20in%20Naunihal.md)
 [^3]: [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Reference%20Reading/Research%20Papers/Global/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md)
+[^4]: [Global Childhood Report 2021](Volume%203/Reference%20Reading/Research%20Papers/Global%20Research/Global%20Childhood%20Report%202021.md)
+[^5]: [Volume 4/Guidelines for Institutional Childcare - Ethiopia](Volume%204/Guidelines%20for%20Institutional%20Childcare%20-%20Ethiopia)
+[^6]: [Rainbow_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Child%20Protection%20Policy.md)
