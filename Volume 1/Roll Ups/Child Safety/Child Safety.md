@@ -25,6 +25,8 @@ Potential outline for the roll-up
 
 ### Prevention of CSA
 
+### Child training
+
 - Acc to a manual by Prerana [^2] Under any circumstances, no form of sexual maltreatment is ever alright. Have regular conversations with children with regard to personal safety
 
 ### Response to CSA
