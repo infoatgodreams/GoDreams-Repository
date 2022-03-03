@@ -105,6 +105,19 @@ A dormitory building shall have at least one toilet compartment for each bedroom
 A dormitory building in a childcare institution shall have at least one bathroom/shower compartment for each bedroom, with a total surface area of at least one and half sq. meters.
 A dormitory building in a childcare institution shall have at least one washing basin for each bedroom.
 
+[^9]• Separate accommodation for boys and girls above the age of 6 years
+
+• The home should have access to transport facility
+
+• The shelter must have sufficient space for children inclusive of stipulated number of toilets & bathing rooms as per JJ ACT 2015
+
+Safety equipment such as fire extinguisher should be available in the premise
+
+• A room must be allocated to keep the bedding of the children, locker system to keep the personal belongings of the children
+
+• The provision for security to guard the place, should be as per the ICPS standards
+
+
 ### For victims of trafficking [^7]
 
 -   Each victim shall have a separate single bed or his/her own area in a double or triple room of a suitable size, with a suitable bed and bedding, seating, storage for clothes, lockable or otherwise saffe storage ffor personal possessions, a window with sufficient light for study and other work.
@@ -123,7 +136,19 @@ A dormitory building in a childcare institution shall have at least one washing 
 -   The whole process should not take more than 15 days
 -   The CPC will make a report and copy given to parent, head of org and CWC
 -   Info about the incident should be reported to the state officer immediately and keep them updated about progress
--   Any aggrieved party if they disagree with the CPC can make an appeal to the appeal committee with national and state team members
+-   Any aggrieved party if they disagree with the CPC can make an appeal to the appeal committee with national and state team members. 
+
+[^9]
+ Report the matter in writing, directly to the Director-CSA
+ • The Director together with the Program Officer will investigate the matter and take appropriate action in accordance with the guidelines for disciplinary action as has been followed in the past OR outlined in the CSA’s Employee Handbook
+
+While the matter is under investigation, the individual who is suspected of having committed a child protection violation must be removed from direct contact with children
+
+ The matter is to be addressed and brought to closure within a month of having been reportED
+
+ If the abuse falls under IPC (Indian Penal Court) or any other relevant law, First Information Report (FIR) must be filed with the local police by CSA
+HR Systems:
+
 
 ## Caregiving
 - [^6] Find a quiet place to talk and listen to the child carefully
@@ -187,3 +212,4 @@ A dormitory building in a childcare institution shall have at least one washing 
 [^6]: [Rainbow_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Child%20Protection%20Policy.md)
 [^7]: [Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia](Volume%201/Reference%20Reading/Governments%20&%20UN/Minimum%20Standards%20of%20Care%20and%20Support%20for%20the%20Victims%20of%20Trafficking%20and%20other%20forms%20of%20violence%20in%20South%20Asia.m
 [^8]: [Working with Children Sensitively](Volume%203/Reference%20Reading/Service%20Providers%20to%20CCIs/Prerana/Working%20with%20Children%20Sensitively.md)
+[^9]: [CSA_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Child%20Protection%20Policy.md)
