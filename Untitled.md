@@ -36,4 +36,8 @@
 				- Post Grad: I do want to do post grad in 2-3 years
 - What is the vision for Guardians: 
 - Stays independently
-- 
+- Advocacy/activism
+	- Teachers would slap kids while we were teaching 
+	- HM was aggressive
+	- Overtime the only way to get around this is to rope in the headmistress and show them that there is no threat
+	- 
