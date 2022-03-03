@@ -28,6 +28,29 @@ Potential outline for the roll-up
 ### Child training
 
 - Acc to a manual by Prerana [^2] Under any circumstances, no form of sexual maltreatment is ever alright. Have regular conversations with children with regard to personal safety
+- -Orientation for all kids within a week of their arrival 
+-Once in 3 months refresher 
+-Talk about appropriate and inappropriate touching, teach them to trust their intuition 
+-Children with disabilities paid more attention to 
+-Teach the children concept of private zones 
+-Use anatomically appropriate terms in training 
+-Establish clear safety rules in interacting with staff
+-Encourage children to exercise body autonomy, to change their own clothes and bathe independently- teach them boundaries and privacy 
+-Teach them to say no and run away if they’re uncomfortable. Tell them that it is never their fault 
+-Show them that they can talk to you, encourage them to report 
+-Show them that mechanisms exist to take care of them and their concerns will be taken up seriously 
+-Teach them that secrets are not good, no matter who asks them to keep the secrets 
+-Celebrate certain child specific days to reiterate these points like child labour, international children’s day, etc 
+
+### Caregiver training
+For Rainbow's caregivers
+-Full day orientation about the policy is mandatory 
+-Gender and sexuality training recommended 
+-All  donors and visitors need to be trained and informed of comms and behaviour protocol 
+-Orient and train bus drivers on child protection concepts and the severity of punishment 
+-Code of conduct needs to be signed by all stakeholders within 7 days of their engagement 
+-Two training sessions conducted with all staff, parents and local police 
+-Half day refresher training once a year for all staff
 
 ### Response to CSA
 - According to a manual by Aangan [^1]individual meetings for serious or personal issues such as sexual abuse.
@@ -119,6 +142,12 @@ Safety equipment such as fire extinguisher should be available in the premise
 
 • The provision for security to guard the place, should be as per the ICPS standards
 
+[^6]
+-Have clearly marked areas for sleeping for children and staff
+-Have adequate number of beds and rotate bed allocation regularly-weekly or fortnightly 
+-Keep light bulks on at night in the dormitory and toilets 
+-Mark secluded spots and ask the children to “keep off” 
+-Child protection committee numbers available on the wall
 
 ### For victims of trafficking [^7]
 
