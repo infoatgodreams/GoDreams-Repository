@@ -80,6 +80,16 @@ author: Navneeth
 		- Reduce weightage on grant writing abilities
 	- Improve care quality through operational funding
 		- Provide aspirational opportunity for CCIs to upgrade quality of care
+- A.I Versioning
+	- CSF 
+		- Based on first principles
+		- Relying on SME expertise
+		- Domains classified into
+			- First principles known
+			- Established/professional domains
+			- Uncharted domains
+	- Build fundraising vertical to be able to fund 100% CAP Costs
+	- 
 
 ## Care Quality Definition
 - APPI Applications
