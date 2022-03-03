@@ -84,8 +84,10 @@ Thus, a childcare institution shall have
 ## Hazards
 - free from chemical, noise, air, etc., pollution; and
 - Free from hazardous physical structures like wells, swamps, unprotected ponds, open sewers, deep ditches etc.
+- 
 
 ## Accommodation arrangements
+### For a small home
  A self-contained home in a childcare institution shall not have more than three bedrooms for the children and one for the home mother.
  
  The number of children residing in one bedroom shall not exceed four.
@@ -94,6 +96,23 @@ Thus, a childcare institution shall have
 
 shall have at least one toilet, with a total surface area of at least two sq. meters.
 shall have at least one bathroom/shower, with a total surface area of at least six sq. meters.
+
+### For a dormitory
+Dormitory buildings shall not be more than one storey.
+The number of children residing in one bedroom in a dormitory building shall not exceed sixteen.
+The surface area for one bedroom in a dormitory building shall be at least forty-eight sq. meters.
+A dormitory building shall have at least one toilet compartment for each bedroom with a total surface area of at least one sq. meter.
+A dormitory building in a childcare institution shall have at least one bathroom/shower compartment for each bedroom, with a total surface area of at least one and half sq. meters.
+A dormitory building in a childcare institution shall have at least one washing basin for each bedroom.
+
+### For victims of trafficking [^7]
+
+-   Each victim shall have a separate single bed or his/her own area in a double or triple room of a suitable size, with a suitable bed and bedding, seating, storage for clothes, lockable or otherwise saffe storage ffor personal possessions, a window with sufficient light for study and other work.
+-   Staff sleeping rooms shall not be part of the communal living area (except in case of very young or sick children) but should be located close to the victims' bedrooms to respond to night time needs.
+
+# Response to child abuse 
+
+
 
 
 
@@ -105,3 +124,7 @@ shall have at least one bathroom/shower, with a total surface area of at least s
 [^4]: [Global Childhood Report 2021](Volume%203/Reference%20Reading/Research%20Papers/Global%20Research/Global%20Childhood%20Report%202021.md)
 [^5]: [Volume 4/Guidelines for Institutional Childcare - Ethiopia](Volume%204/Guidelines%20for%20Institutional%20Childcare%20-%20Ethiopia)
 [^6]: [Rainbow_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Child%20Protection%20Policy.md)
+[^7]: [Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia](Volume%201/Reference%20Reading/Governments%20&%20UN/Minimum%20Standards%20of%20Care%20and%20Support%20for%20the%20Victims%20of%20Trafficking%20and%20other%20forms%20of%20violence%20in%20South%20Asia.m
+## Protocol
+
+## Caregiving
