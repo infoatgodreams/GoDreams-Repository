@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "impact of instit",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
