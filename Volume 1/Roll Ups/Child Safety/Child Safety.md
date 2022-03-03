@@ -41,9 +41,10 @@ Potential outline for the roll-up
 ## Signs of Abuse
 
 ### Physical signs
-- From a paper on institutional childcare, Romanian children they assessed had physical scarring that appeared to have resulted from lacerations, burns or broken bones 
+- From a paper on institutional childcare [^3], Romanian children they assessed had physical scarring that appeared to have resulted from lacerations, burns or broken bones 
+- 
 
 
 [^1]: [Aangan - Changing Spaces](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Aangan/Aangan%20-%20Changing%20Spaces.md)
 [^2]: [Prerana_Safety Guidelines for Girls in Naunihal](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Prerana/Prerana_Safety%20Guidelines%20for%20Girls%20in%20Naunihal.md)
-[^3]: 
+[^3]: [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Reference%20Reading/Research%20Papers/Global/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md)
