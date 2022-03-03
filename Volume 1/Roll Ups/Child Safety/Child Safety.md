@@ -132,6 +132,26 @@ A dormitory building in a childcare institution shall have at least one washing 
 - Tell the child action will be taken to keep them safe but do not promise things outside your control like the abuser going to jail
 - Provide medical attention if needed, send them with a trusted adult. This includes counselling support. 
 - Shift the child to another home during investigation, esp if its sexual abuse
+-     * Acknowledge that the child is [^8]being courageous in sharing a difficult experience or information
+    * Validate that their decision to trust and share with you was a good, safe and responsible one
+    * Reassure the child that specific steps will be taken to protect them and other children or adults affected by the event/experience
+    * *  Ensure that consistent messages are given to the child. Hence, it is important for caregivers to regularly communicate with each other.
+
+
+
+## Response to child perpetrator 
+[^8]
+- *  Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
+- Whenever a child is seen engaging in unacceptable behavior or is found doing something that is unacceptable, the child should be first asked what he/she was up to. Listen to children. After knowing what the child was doing, an adult can explain why a behavior is inappropriate.
+* In order to avoid shaming, embarrassing or humiliating the child, the caregivers should hold this conversation one- on-one with the child and avoid confronting the child in front of the other children.
+* Talk about inappropriate behavior without demeaning their self worth or attacking their personality or character.
+* When correcting behavior, provide a calm explanation for your preferences. Giving a reason helps children understand the implications of their behavior for others
+* Do not verbally or physically abuse children. This hurts them and teaches them that abuse is a problem-solving technique, which they are bound to use to solve their own problems.
+* Take abuse between children seriously as well and teach them alternate ways to solve problems.
+* Avoid impatient body language like eye rolling, foot tapping or sighing. This can discourage a child from talking.
+* Hold conversations at the appropriate time and place. It is also important to address an issue in a timely manner. If one waits too long to address a situation, sometimes the child will not remember the incident or more often than not, it will not register that they did something wrong or unacceptable, thereby causing them to repeat the behavior.
+* Refrain from labeling children negatively (for eg: manda, aalsi, moti, sukdi, bewakoof). All labels related to looks, intellect and behavior should be avoided.
+* If you see a child lying, you can talk about the situation and address the lying instead of labeling the child as “liar” r “chor/stealer”
 
 ## Police and it's role
 
@@ -166,3 +186,4 @@ A dormitory building in a childcare institution shall have at least one washing 
 [^5]: [Volume 4/Guidelines for Institutional Childcare - Ethiopia](Volume%204/Guidelines%20for%20Institutional%20Childcare%20-%20Ethiopia)
 [^6]: [Rainbow_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Child%20Protection%20Policy.md)
 [^7]: [Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia](Volume%201/Reference%20Reading/Governments%20&%20UN/Minimum%20Standards%20of%20Care%20and%20Support%20for%20the%20Victims%20of%20Trafficking%20and%20other%20forms%20of%20violence%20in%20South%20Asia.m
+[^8]: [Working with Children Sensitively](Volume%203/Reference%20Reading/Service%20Providers%20to%20CCIs/Prerana/Working%20with%20Children%20Sensitively.md)
