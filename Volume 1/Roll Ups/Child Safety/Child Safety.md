@@ -112,8 +112,49 @@ A dormitory building in a childcare institution shall have at least one washing 
 
 # Response to child abuse 
 
+## Protocol
+[^6]
+- CPC should meet before 3 days has passed after the incident
+-   CPC can suspend the accused but will continue to respect both the child and the accused
+-   Benefit of doubt given to the child, burden of proof on the adult
+-   After inquiry, the complainant can be fired, make a police complaint, transfer them or do nothing based on the results.
+-   If filing a police complaint, the CPC is responsible for the FIR and a copy of FIR to be kept at the home
+-   If there is even a slight danger, the person is removed from caring for children.
+-   The whole process should not take more than 15 days
+-   The CPC will make a report and copy given to parent, head of org and CWC
+-   Info about the incident should be reported to the state officer immediately and keep them updated about progress
+-   Any aggrieved party if they disagree with the CPC can make an appeal to the appeal committee with national and state team members
 
+## Caregiving
+- [^6] Find a quiet place to talk and listen to the child carefully
+- Be careful not to make any negative comments about the abuser because the child might care about them
+- Write down the info in as much detail as possible. Dont correct the language. Respect the child’s feelings and listen carefully.
+- Tell the child action will be taken to keep them safe but do not promise things outside your control like the abuser going to jail
+- Provide medical attention if needed, send them with a trusted adult. This includes counselling support. 
+- Shift the child to another home during investigation, esp if its sexual abuse
 
+## Police and it's role
+
+-DD entry made and read to the informant  
+-FIR registered under relevant section of POCSO and free copy handed over to the person reporting  
+-Medical exam should be done acc to section 164 crpc. Should be in the presence of a guardian or support person + done by a woman doc recommended by head of hospital.  
+-If child is CNCP, the IO makes arrangements to move into a shelter within 24 hours of the report  
+-Victim cannot be called to the police station. Should be recorded at any other place or residence, preferably by women officers  
+-IO must submit report to the cwc and special court within 24 hours for all POCSO cases  
+-Only SI or above can handle POCSO cases
+
+**The IO needs to give the following info the the child + guardian/support person**
+
+-   Private and public emergency centres
+-   Procedural steps of prosecution
+-   Victim compensation benefits
+-   Status of investigation as long as it doesn't interfere with the investigation.
+-   Arrest of the offender
+-   Filing of charges against offender
+-   Schedule of court proceedings the child needs to attend
+-   Bail, release, detention status
+-   Verdict after trial
+-   Sentence imposed
 
 
 
@@ -125,6 +166,3 @@ A dormitory building in a childcare institution shall have at least one washing 
 [^5]: [Volume 4/Guidelines for Institutional Childcare - Ethiopia](Volume%204/Guidelines%20for%20Institutional%20Childcare%20-%20Ethiopia)
 [^6]: [Rainbow_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Child%20Protection%20Policy.md)
 [^7]: [Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia](Volume%201/Reference%20Reading/Governments%20&%20UN/Minimum%20Standards%20of%20Care%20and%20Support%20for%20the%20Victims%20of%20Trafficking%20and%20other%20forms%20of%20violence%20in%20South%20Asia.m
-## Protocol
-
-## Caregiving
