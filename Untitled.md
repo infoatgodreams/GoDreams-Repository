@@ -23,4 +23,16 @@
 	- Specifics about research
 		- Fonts used
 		- Sources that you get info from (list of acceptable sources) 
-		- 
+- Journalism transition to dev sector
+	- Issues: 
+		- Work Culture: Very different kind of toxic work culture
+		- Objectivity: 
+			- At the hindu i had a lot of autonomy, but a lot of moments when very big stories were not published because of ads etc. 
+			- Mumbai Coastal Road Project Protesters : engaged with them, attended protests etc. and documented, at some point the editor was dealing with stories himself and said you don't have the other municipality side of the story
+				- Municipality didnt give us quotes
+				- I wasn't able to publish the story because of that
+			- I knew what my reason to be in the space is and i felt underutilized in journalism
+			- I wanted to explore and understand the sector before I go for Post Grad or enter the sector : 
+				- Post Grad: I do want to do post grad in 2-3 years
+- What is the vision for Guardians: 
+	- 
