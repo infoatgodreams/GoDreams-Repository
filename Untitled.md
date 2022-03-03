@@ -17,4 +17,10 @@
 		- April all of us got Covid during the second wave 
 		- School reopened technically from 1st September 2021
 		- June we started getting more students, post second wave.
-- 
+- Internship
+	- Opposition has no money
+	- Political strategy around doing the best with minimal money
+	- Specifics about research
+		- Fonts used
+		- Sources that you get info from (list of acceptable sources) 
+		- 
