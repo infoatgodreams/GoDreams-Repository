@@ -40,4 +40,21 @@
 	- Teachers would slap kids while we were teaching 
 	- HM was aggressive
 	- Overtime the only way to get around this is to rope in the headmistress and show them that there is no threat
-	- 
+- Back-ground 
+	- I'm from kerala, brought up in Gujarat
+	-  Father is an engineer , mother is a vice principal of a school
+	- Was active in politics as a kid
+		- Lots of conversations around this at home
+		- Grew up aware of surroundings/privileges etc.
+		- Moved into thinking how can this political thing move into actions -- thats how journalism came in
+		- Main motivaiton - working for/with communities
+	- As a malayali in Guj, very vastly diff communities
+	- Slowly I moved to bombay and there was covid and realized I'm not able to access spaces like artists/reading groups etc. so created one there, along with a post doctoral fellow in theology at Harvard
+		- Interested in intersection of theology, politics, caste etc. 
+			- Engaged with the church during stan swamy issue on their response
+			- We would write open letters to church authorities and ask for answers/tell them to make statements about things
+	- Was in a convent school in Guj, and a womens college in Bombay
+	- TIJ : Had a diff approach this year, they selected some classrooms upfront (117) and ours was selected due to the rapid growth in literacy/numeracy/classroom culture. 
+		- They selected 20, we didn't get through to that shortlist
+
+- 
