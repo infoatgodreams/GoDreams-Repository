@@ -19,6 +19,14 @@ Potential outline for the roll-up
 - Rehabilitative Practices
 
 
+## Principles guiding child safety(Intro)
+[^6]
+-recognition of best interests of the child 
+-respect for dignity, liberty and freedom
+-respect for agency and active participation of the child 
+-respect for privacy and confidentiality 
+-zero tolerance of any form of abuse
+-child protection is a responsibility for anyone who is directly or indirectly associated with the children 
 
 
 ## Child Sexual Abuse
@@ -53,6 +61,24 @@ For Rainbow's caregivers
 -Half day refresher training once a year for all staff
 -Aangan, Rainbow and CSA recommend a standardised discipline code/code of conduct 
 @aangan Child-friendly material should be created along with capacity building workshops for staff on how to use this material at the time of the child’s entry. The objective would be to welcome and reassure the child and prepare him/her for the interview with the PO.
+-All children have rights to privacy for bathing, dressing, sleeping etc
+-Have clearly marked areas for sleeping for children and staff
+-Have adequate number of beds and rotate bed allocation regularly-weekly or fortnightly 
+-Duty of taking care of sick children who need help bathing, using toilets should be rotated regularly 
+-Children’s committees are created for peer learning and sharing, take their complaints seriously 
+-Keep light bulks on at night in the dormitory and toilets 
+-Mark secluded spots and ask the children to “keep off” 
+-A female caregiver always accompanies the children on the bus 
+-All visitors must be accompanied by staff
+-One manager in the home at all times, day and night 
+-Male visitors not allowed after 7 pm 
+-Security guard mandatory, visitors given passes
+-Two phones for children to use, easily accessible
+-Child protection committee numbers available on the wall
+-Avoid sending child home if there’s a history of abuse or if the child is scared
+-relatives/guardians need to sign a register before taking the child out
+-Open box for anonymous complaints 
+-Create a code of conduct for all stakeholders 
 
 
 ### Code of conduct
