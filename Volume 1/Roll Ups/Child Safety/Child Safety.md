@@ -187,6 +187,37 @@ A dormitory building in a childcare institution shall have at least one washing 
 Safety equipment such as fire extinguisher should be available in the premise
 
 • A room must be allocated to keep the bedding of the children, locker system to keep the personal belongings of the children
+• Separate accommodation for boys and girls above the age of 6 years
+
+• The home should have access to transport facility
+
+• The shelter must have sufficient space for children inclusive of stipulated number of toilets & bathing rooms as per JJ ACT 2015
+
+Safety equipment such as fire extinguisher should be available in the premise
+
+• A room must be allocated to keep the bedding of the children, locker system to keep the personal belongings of the children
+
+• The provision for security to guard the place, should be as per the ICPS standards
+
+Caregiving requirements for partner CCIs: 
+
+• A trained social worker must be appointed
+
+• Counselor must be appointed
+
+• Visiting doctor once a week
+
+• Care taker/ House parent must be available
+
+• 1 Tutor/ Teacher appointed for every 25 children
+
+• Same gender employees with same gender children, however, women staff can be taken in at boy’s home
+
+• NO male staff in girl’s home
+
+• Child protection to be included in capacity building programs of staff
+
+• Complaint box where children can leave notes explaining their issues. The box should be opened periodically by the Management / Trustee of the institution and or by the board member of the organization
 
 • The provision for security to guard the place, should be as per the ICPS standards
 
