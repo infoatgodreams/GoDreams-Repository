@@ -279,7 +279,7 @@ Some of them are listed as follows:
 
 
 
-# CHILD SEXUAL ABUSE 
+# CHILD ABUSE 
 
 ## SYSTEMS IN PLACE 
 
@@ -309,7 +309,7 @@ PS: If more than 3 are not available for an enquiry, then a teacher/counsellor c
 - Highlight [page 8]: Child Participation means that children can discuss and co-decide on all matters that affect them, like family, school, community matters, government policies, legal policies.
 - Person-in-charge of every institution for children shall facilitate the setting up of children’s committees for different age groups of children, that is in the age group of 6 to 10 years, 11 to 15 years and 16 to 18 years and these children’s committees shall be constituted solely by children.
 
-## Responsibilities of the committee
+### Responsibilities of the committee
 - Improvement of the condition of the institution
 - Reviewing standards of care being followed
 - Creative expression of their views through wall papers or newsletters or paintings or music or theater;
@@ -376,23 +376,20 @@ PS: If more than 3 are not available for an enquiry, then a teacher/counsellor c
 - In case of unnatural deaths or suicides, photos and videos need to be captured for future records 
 - In all cases, magistrate needs to complete an inquiry within 4 weeks of receiving the notice 
 
-## Caregiving
+## RESPONDING TO THE SURVIVOR
 - [^6] Find a quiet place to talk and listen to the child carefully
 - Be careful not to make any negative comments about the abuser because the child might care about them
 - Write down the info in as much detail as possible. Dont correct the language. Respect the child’s feelings and listen carefully.
 - Tell the child action will be taken to keep them safe but do not promise things outside your control like the abuser going to jail
 - Provide medical attention if needed, send them with a trusted adult. This includes counselling support. 
 - Shift the child to another home during investigation, esp if its sexual abuse
--     * Acknowledge that the child is [^8]being courageous in sharing a difficult experience or information
-    * Validate that their decision to trust and share with you was a good, safe and responsible one
-    * Reassure the child that specific steps will be taken to protect them and other children or adults affected by the event/experience
-    * *  Ensure that consistent messages are given to the child. Hence, it is important for caregivers to regularly communicate with each other.
+-  Acknowledge that the child is [^8]being courageous in sharing a difficult experience or informatioN
+- Validate that their decision to trust and share with you was a good, safe and responsible one.
+- Ensure that consistent messages are given to the child. Hence, it is important for caregivers to regularly communicate with each other.
 
-
-
-## Response to child perpetrator 
+## RESPONDING TO A CHILD PERPETRATOR
 [^8]
-- *  Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
+- Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
 - Whenever a child is seen engaging in unacceptable behavior or is found doing something that is unacceptable, the child should be first asked what he/she was up to. Listen to children. After knowing what the child was doing, an adult can explain why a behavior is inappropriate.
 * In order to avoid shaming, embarrassing or humiliating the child, the caregivers should hold this conversation one- on-one with the child and avoid confronting the child in front of the other children.
 * Talk about inappropriate behavior without demeaning their self worth or attacking their personality or character.
@@ -406,18 +403,17 @@ PS: If more than 3 are not available for an enquiry, then a teacher/counsellor c
 * In severe cases of physical or sexual abuse the PO could also conduct group sessions with the perpetrators on relevant themes.
 
 
-## Police and it's role
+## ROLE OF POLICE IN RESPONDING TO CHILD ABUSE
 
--DD entry made and read to the informant  
--FIR registered under relevant section of POCSO and free copy handed over to the person reporting  
--Medical exam should be done acc to section 164 crpc. Should be in the presence of a guardian or support person + done by a woman doc recommended by head of hospital.  
--If child is CNCP, the IO makes arrangements to move into a shelter within 24 hours of the report  
--Victim cannot be called to the police station. Should be recorded at any other place or residence, preferably by women officers  
--IO must submit report to the cwc and special court within 24 hours for all POCSO cases  
--Only SI or above can handle POCSO cases
+- DD entry made and read to the informant  
+- FIR registered under relevant section of POCSO and free copy handed over to the person reporting  
+- Medical exam should be done acc to section 164 crpc. Should be in the presence of a guardian or support person + done by a woman doc recommended by head of hospital.  
+- If child is CNCP, the IO makes arrangements to move into a shelter within 24 hours of the report  
+- Victim cannot be called to the police station. Should be recorded at any other place or residence, preferably by women officers  
+- IO must submit report to the cwc and special court within 24 hours for all POCSO cases  
+- Only SI or above can handle POCSO cases
 
-**The IO needs to give the following info the the child + guardian/support person**
-
+### INFORMATION THAT THE CHILD NEEDS ACCESS TO
 -   Private and public emergency centres
 -   Procedural steps of prosecution
 -   Victim compensation benefits
@@ -429,32 +425,22 @@ PS: If more than 3 are not available for an enquiry, then a teacher/counsellor c
 -   Verdict after trial
 -   Sentence imposed
 
-# Concerned penalties:
+## CONCERNED PENALTIES:
 - For non registration of CCIs- up to 1 year imprisonment or minimum 1 lakh fine or both 
 - Punishment for cruelty to a child- up to 3 year imprisonment or minimum 1 lakh fine or both (if proved that the circumstances are beyond the control  of biological parents to take care of them, then the penal position doesnt apply)
 - CCI caregiver convicted - 5 years rigorous imprisonment and fine upto 5 L or both
 - Corporal punishment: 10,000 fine for first offence, subsequent offences will land in imprisonment for 3 months or fine or both 
 - Adoption: Adoption without regulations can lead to imprisonment for upto 3 years and a fine of a lakh or both
 
-
-
-## Media and Safety
+## RESPONSE TO MEDIA
 [^9]
-Highlight [page 10]: • CSA needs to ensure, to the best of its ability, that while highlighting child protection issues, the media does not disclose the identity and details such as name, address, photograph of the child, locality and school
+- Need to ensure, to the best of its ability, that while highlighting child protection issues, the media does not disclose the identity and details such as name, address, photograph of the child, locality and school.
+- All calls from media referred to the project head first 
+- Do not release the names of children or any identifying information to the media without prior clearance or clear consent from the guardian and the child 
+- General images where the child is not identifiable does not require parental/guardian permission
+- If it's shot from an educational/co-curricular perspective, prior permission is not needed, as long as the video is instructional or for an extracurricular activity. 
 
-Highlight [page 10]: • CSA should ensure informed consent from the CCI before disclosing any story to the media
-
-Highlight [page 10]: • In case of representation of CSA cases in publications, it must be ensured that names are changed and photographs do not reveal identity
-
-Rainbow policies 
-1. All calls from media referred to the project head first 
-2. Do not release the names of children or any identifying information to the media without prior clearance or clear consent from the guardian and the child 
-3. General images where the child is not identifiable does not require parental/guardian permission
-4. If it's shot from an educational/co-curricular perspective, prior permission is not needed, as long as the video is instructional or for an extracurricular activity. 
-
-
-## Post Crisis Reflection
-
+## POST CRISIS REFLECTION
 Important questions to ask: 
 1. Overall, did the emergency plan work? 
 2. What worked well, why? 
