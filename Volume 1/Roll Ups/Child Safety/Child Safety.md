@@ -288,7 +288,7 @@ HR Systems:
 PS: If more than 3 are not available for an enquiry, then a teacher/counsellor can be asked to join
 
 ## Children's Committees:
-
+[^10]
 - Highlight [page 8]: Child Participation means that children can discuss and co-decide on all matters that affect them, like family, school, community matters, government policies, legal policies.
 - Person-in-charge of every institution for children shall facilitate the setting up of children’s committees for different age groups of children, that is in the age group of 6 to 10 years, 11 to 15 years and 16 to 18 years and these children’s committees shall be constituted solely by children.
 
@@ -307,6 +307,31 @@ Reporting abuse and exploitation by peers and caregivers
 
 Management of institution through the Management Committee.
 
+### Governance
+
+• President chairs the monthly meetings, reviews work done, plan.
+
+• Ministers report and discuss issues related to their portfolio. President reports to CCI superintendent
+
+• CCI superintendent must provide Committee with stationary, suggestion box, register, petty cash, badges to the children who constitute the committee.
+
+• Meetings must be minuted.
+
+• Review of suggestions is carried out
+
+• When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
+
+### Expected outcomes
+
+- Children will be safe, and be able to voice out concerns, highlight red flags, if any.
+
+- Children will develop leadership skills, be self-confident, aware of social issues
+
+- Behavioral issues will decrease, children’s participation will increase
+
+- Children will be able to articulate problems, find solutions and work with CCI management to resolve…
+
+
 
 
 
@@ -323,3 +348,4 @@ Management of institution through the Management Committee.
 [^7]: [Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia](Volume%201/Reference%20Reading/Governments%20&%20UN/Minimum%20Standards%20of%20Care%20and%20Support%20for%20the%20Victims%20of%20Trafficking%20and%20other%20forms%20of%20violence%20in%20South%20Asia.m
 [^8]: [Working with Children Sensitively](Volume%203/Reference%20Reading/Service%20Providers%20to%20CCIs/Prerana/Working%20with%20Children%20Sensitively.md)
 [^9]: [CSA_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Child%20Protection%20Policy.md)
+[^10]: [CSA_Children's Committees](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Children's%20Committees.md)
