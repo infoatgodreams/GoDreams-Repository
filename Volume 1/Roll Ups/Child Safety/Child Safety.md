@@ -176,11 +176,24 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 • Protect the child by not disclosing the identity of the child outside the team
 • Uphold the privacy of the child by not disclosing the identity of the child to the media
 • Ensure that there are staff members of the same gender when escorting the child between locations and also when taking care of the child/children at any location
-• Sleep alone with any child
-• Stay back at the child care institution/orphanage or interact with children after dark/ 19:00 hours
-• Do things for children of a personal nature that they can do themselves, such as use the toilet, bathe or change clothes (unless the child is severely ill or injured - in such case, another staff / caretaker should also be present)
-• Give gifts directly to children
-• Share any sensitive and confidential personal & family information shared by the child with CCI staff & management without taking the child’s permission
+- All relatives/guardians need to sign a register before taking the child out
+- A female caregiver always accompanies the children on the bus 
+- All visitors must be accompanied by staff
+
+
+
+• Do not sleep alone with any child
+• Do not stay back at the child care institution/orphanage or interact with children after dark/ 19:00 hours
+• Do not do things for children of a personal nature that they can do themselves, such as use the toilet, bathe or change clothes (unless the child is severely ill or injured - in such case, another staff / caretaker should also be present)
+• Do not give gifts directly to children
+• Do not share any sensitive and confidential personal & family information shared by the child with CCI staff & management without taking the child’s permission
+- Do not send child home if there’s a history of abuse or if the child is scared
+- Do not allow Male visitors after 7 pm 
+
+
+- One manager in the home at all times, day and night 
+- Security guard mandatory, visitors given passes
+
 
 ### Training Operations
 
@@ -248,16 +261,6 @@ For Rainbow's caregivers
 -Half day refresher training once a year for all staff
 -Aangan, Rainbow and CSA recommend a standardised discipline code/code of conduct 
 @aangan Child-friendly material should be created along with capacity building workshops for staff on how to use this material at the time of the child’s entry. The objective would be to welcome and reassure the child and prepare him/her for the interview with the PO.
--Duty of taking care of sick children who need help bathing, using toilets should be rotated regularly 
--Children’s committees are created for peer learning and sharing, take their complaints seriously 
--A female caregiver always accompanies the children on the bus 
--All visitors must be accompanied by staff
--One manager in the home at all times, day and night 
--Male visitors not allowed after 7 pm 
--Security guard mandatory, visitors given passes
--Avoid sending child home if there’s a history of abuse or if the child is scared
--relatives/guardians need to sign a register before taking the child out
--Create a code of conduct for all stakeholders 
 
 
 ### Code of conduct
