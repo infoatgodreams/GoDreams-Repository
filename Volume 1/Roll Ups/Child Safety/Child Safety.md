@@ -5,20 +5,6 @@ tags:
 - Rollups
 ---
 
-Potential outline for the roll-up
-- Principles of Child Protection
-- Relevant Acts & Guidelines
-- Types of vulnerabilities in children 
-	- Physical 
-	- Sexual 
-	- Emotional 
-	- Neglect 
-	- Emergencies/Disasters
-- Preventive mechanisms
-- Remedial Protocol
-- Rehabilitative Practices
-
-
 # INTRODUCTION
 [^6]
 The child safety principles in a childcare institution are based on the following principles 
@@ -120,22 +106,22 @@ According to Rainbow Homes, CCIs need to be prepared for the following emergency
 
 ## SEXUAL SIGNS OF ABUSE
 According to Rainbow Homes [^6], these are the signs of Sexual Abuse
-1. Difficulty walking/sitting- unexplained rashes or pain
-2. Refuses to change in front of other children 
-3. Demonstrates excessive, exaggerated sexual curiosity 
-4. Avoids conversations related to sexuality 
-5. Pays either excessive or no attention to their body
-6. Reduced self care and grooming 
-7. Becomes pregnant or gets an STD
-8. Medical complaints such as UTI
+- Difficulty walking/sitting- unexplained rashes or pain
+- Refuses to change in front of other children
+- Demonstrates excessive, exaggerated sexual curiosity 
+- Avoids conversations related to sexuality 
+- Pays either excessive or no attention to their bod
+- Reduced self care and grooming
+- Becomes pregnant or gets an ST
+- Medical complaints such as UTI
 
 
-# PREVENTION OF ABUSE
+# PREVENTION OF HARM
 
 ## LOGISTICAL ARRANGEMENTS FOR CHILD SAFETY
 - The CCI needs to be free from chemical, noise, air, etc., pollution; and
 - Free from hazardous physical structures like wells, swamps, unprotected ponds, open sewers, deep ditches etc.
-- According to Ethiopian[^5] Guidelines:
+- ### According to Ethiopian[^5] Guidelines:
 	-  **For a small home**
 		 - A self-contained home in a childcare institution shall not have more than three bedrooms for the children and one for the home mother.
 		 - The number of children residing in one bedroom shall not exceed four.
@@ -150,23 +136,42 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 		- A dormitory building in a childcare institution shall have at least one bathroom/shower compartment for each bedroom, with a total surface area of at least one and half sq. meters.
 		- A dormitory building in a childcare institution shall have at least one washing basin for each bedroom.
 
-- According to practices recommended by Rainbow Homes, Catalysts for Social Action and Aangan, there are a number of key priorities in arranging accommodation for children
+- ### According to practices recommended by Indian CCIs/Service providers 
+- According to  Rainbow Homes, Catalysts for Social Action and Aangan, there are a number of key priorities in arranging accommodation for children
 	- [^9]Separate accommodation for boys and girls above the age of 6 years
 	- The shelter must have sufficient space for children inclusive of stipulated number of toilets & bathing rooms as per JJ ACT 2015
 	- A room must be allocated to keep the bedding of the children, locker system to keep the personal belongings of the children
 	- Safety equipment such as fire extinguisher should be available in the premise
 	- The provision for security to guard the place, should be as per the ICPS standards
-	- -Two phones for children to use, easily accessible
+	- Two phones for children to use, easily accessible
 	- Child protection committee numbers available on the wall
 	- Have clearly marked areas for sleeping for children and staff
 	- All children have rights to privacy for bathing, dressing, sleeping etc
 	- Have adequate number of beds and rotate bed allocation regularly-weekly or fortnightly 
 	- Keep light bulks on at night in the dormitory and toilets 
 	- Mark secluded spots and ask the children to “keep off” 
-	- Open box for anonymous complaints 
+	- Open box for anonymous complaints.The box should be opened periodically by the Management / Trustee of the institution and or by the board member of the organization
+
+
+- ### For victims of trafficking [^7]
+-   Each victim shall have a separate single bed or his/her own area in a double or triple room of a suitable size, with a suitable bed and bedding, seating, storage for clothes, lockable or otherwise safe storage for personal possessions, a window with sufficient light for study and other work.
+-   Staff sleeping rooms shall not be part of the communal living area (except in case of very young or sick children) but should be located close to the victims' bedrooms to respond to night time needs.
+
 
 ## CAREGIVING REQUIREMENTS FOR CHILD SAFETY
+### Who are the caregivers? 
 
+• A trained social worker must be appointed
+• Counselor must be appointed
+• Visiting doctor once a week
+• Care taker/ House parent must be available
+• 1 Tutor/ Teacher appointed for every 25 children
+• Same gender employees with same gender children, however, women staff can be taken in at boy’s home
+• NO male staff in girl’s home
+• The provision for security to guard the place, should be as per the ICPS standards
+
+### How do they need to be trained? 
+### Code of Conduct
 
 
 
@@ -303,41 +308,6 @@ Capacity building of staff to use tool for internal monitoring and goal setting 
 * While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
 * Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
 
-
-
-Caregiving requirements for partner CCIs: 
-
-• A trained social worker must be appointed
-
-• Counselor must be appointed
-
-• Visiting doctor once a week
-
-• Care taker/ House parent must be available
-
-• 1 Tutor/ Teacher appointed for every 25 children
-
-• Same gender employees with same gender children, however, women staff can be taken in at boy’s home
-
-• NO male staff in girl’s home
-
-• Child protection to be included in capacity building programs of staff
-
-• Complaint box where children can leave notes explaining their issues. The box should be opened periodically by the Management / Trustee of the institution and or by the board member of the organization
-
-• The provision for security to guard the place, should be as per the ICPS standards
-
-[^6]
--Have clearly marked areas for sleeping for children and staff
--Have adequate number of beds and rotate bed allocation regularly-weekly or fortnightly 
--Keep light bulks on at night in the dormitory and toilets 
--Mark secluded spots and ask the children to “keep off” 
--Child protection committee numbers available on the wall
-
-### For victims of trafficking [^7]
-
--   Each victim shall have a separate single bed or his/her own area in a double or triple room of a suitable size, with a suitable bed and bedding, seating, storage for clothes, lockable or otherwise saffe storage ffor personal possessions, a window with sufficient light for study and other work.
--   Staff sleeping rooms shall not be part of the communal living area (except in case of very young or sick children) but should be located close to the victims' bedrooms to respond to night time needs.
 
 # Response to child abuse 
 
