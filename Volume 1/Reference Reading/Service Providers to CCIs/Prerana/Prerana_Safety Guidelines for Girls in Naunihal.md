@@ -20,15 +20,15 @@ Link: [Google Drive] (https://drive.google.com/file/d/1vdk7A7TmDlbYb8IXDMvjHvOvW
 - Orienting the child with these safety tips is not to curb the child’s right to freedom, but to equipthe child in becoming self-reliant, and thus truly, free.
 - This information is to be shared with the child by any of the following functionaries: Counselor, Superintendent, Child Welfare Officer or Caseworker, or the Probation Officer.
 
-# Instructions to chilren
+# Instructions to children
 - The prior approval obtained from the CWC is only for the child to attend her college and/or vocational training program, and return to Naunihal. Ensure the child understands this too.
-- Inform the child that if there is any other outing she is required to or wishes toattend; she should inform the Superintendent or Case Worker at Naunihal inadvance. The necessary permission for the same will then be sought from the respective CWC. 
+- Inform the child that if there is any other outing she is required to or wishes to attend; she should inform the Superintendent or Case Worker at Naunihal in advance. The necessary permission for the same will then be sought from the respective CWC. 
 	- The child going for any such outing without explicit approval from the CWC is not permitted
 - Ensure that the child is aware of the practice of reporting to the staff before leaving and after returning to Naunihal.
 - Inculcate in the child, a habit of checking her belongings before leaving Naunihal. One shouldn’t leave Naunihal without emergency money, sanitary napkins, meal box, water bottle, personal medicines, if any, etc.
 - Inform the child that if she is likely to return later than her usual time, sheshould contact the Superintendent or any staff of Naunihal and share the reasonfor the delay from her college/training center. 
 - Explore possible situations with the child, like if she faces any obstacles like a traffic jam, etc., she should take the help of a fellow passenger to call and inform the staff at Naunihal the reason for the delay. 
-- Discuss with the child that how these measures are to ensure the staffat Naunihal is informed that the child is safe, and the reasons for the delay – and they do not report the matter to authorities fearing a breach of the child’s safety.
+- Discuss with the child that how these measures are to ensure the staff at Naunihal is informed that the child is safe, and the reasons for the delay – and they do not report the matter to authorities fearing a breach of the child’s safety.
 - The child should be well informed that if she feels unwell while traveling, she should call Naunihal or request someone to call Naunihal so that a staff member could reach out to her to pick her up
 - Ensure that the child is well-versed with the route which is to be taken by the child and discuss the same in detail with the child. Go over the route multiple times, accompany the child, till she understands it thoroughly
  
