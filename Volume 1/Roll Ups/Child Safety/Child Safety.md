@@ -200,6 +200,14 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 	- Two training sessions conducted with all staff, parents and local police 
 	- Half day refresher training once a year for all staff
 
+## Working with Children 
+-  Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
+* Children may not conform to all the rules and the staff can decide what are acceptable.
+* Extreme disciplining may lead to defiance in children.
+* Encourage children to ask questions about rules and have a discussion with them on why certain rules are important. By teaching children to be blindly compliant, we are discouraging critical thinking, which is a valuable characteristic. This not only hampers critical thinking but teaches them that adults are always right which is untrue.
+* While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
+* Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
+
 ## CHILD TRAINING REQUIREMENTS FOR CHILD SAFETY
 
 ### GENERAL SAFETY AND CULTURE
@@ -251,8 +259,6 @@ Some of them are listed as follows:
  - Initiate a discussion with the child on the importance of trusting an individualafter obtaining information about the person and the situation. The child must understand that not all strangers are rude or forceful right away. It is important to be aware of strangers, both men and women, who seem nice — the ones whomake conversation easily and get important information without the person realizing it
  - Educate the child that she is not obligated to share any personal information withany person. If a stranger or a nominally familiar person discloses his or her personal information, it doesn’t mean the child is obligated to share similar information about herself with him/her.
  - Discuss with the child about consent. Inform her that there is nothing wrong with sounding ‘rude’ and saying NO if the person continues to pressurize or botherher. Saying NO is the child’s right, and it is a complete sentence without requiring any further elaboration or justification.
-### Caregiver training
-
 
 
 ## Evaluation tools
@@ -289,16 +295,6 @@ Capacity building of staff to use tool for internal monitoring and goal setting 
 *  Encourage parent(s)/guardian(s)to meet the children as much as they can. it helps the child to build trust and reduces the attachment issues they face which reflect on their behavior.
 * In early childhood it also helps in the brain development of the child. Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
 * It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
-
-
-## Caregiver Training
--  In severe cases of physical or sexual abuse the PO could also conduct group sessions with the perpetrators on relevant themes.
--  Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
-* Children may not conform to all the rules and the staff can decide what are acceptable.
-* Extreme disciplining may lead to defiance in children.
-* Encourage children to ask questions about rules and have a discussion with them on why certain rules are important. By teaching children to be blindly compliant, we are discouraging critical thinking, which is a valuable characteristic. This not only hampers critical thinking but teaches them that adults are always right which is untrue.
-* While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
-* Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
 
 
 # Response to child abuse 
@@ -377,6 +373,8 @@ HR Systems
 * Hold conversations at the appropriate time and place. It is also important to address an issue in a timely manner. If one waits too long to address a situation, sometimes the child will not remember the incident or more often than not, it will not register that they did something wrong or unacceptable, thereby causing them to repeat the behavior.
 * Refrain from labeling children negatively (for eg: manda, aalsi, moti, sukdi, bewakoof). All labels related to looks, intellect and behavior should be avoided.
 * If you see a child lying, you can talk about the situation and address the lying instead of labeling the child as “liar” r “chor/stealer”
+* In severe cases of physical or sexual abuse the PO could also conduct group sessions with the perpetrators on relevant themes.
+
 
 ## Police and it's role
 
