@@ -279,18 +279,10 @@ Some of them are listed as follows:
 
 
 
-
-
-### Response to CSA
-- According to a manual by Aangan [^1]individual meetings for serious or personal issues such as sexual abuse
-
-
-
-
+# CHILD SEXUAL ABUSE 
 
 # Response to child abuse 
-
-## Protocol
+## Protocol recommended by service providers
 [^6]
 - CPC should meet before 3 days has passed after the incident
 -   CPC can suspend the accused but will continue to respect both the child and the accused
