@@ -220,15 +220,15 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 
 ### TRAVEL GUIDELINES FOR CHILDREN
 Some of them are listed as follows:
-	- Inform the child not to get into a crowded bus/train as it is unsafe and risky. Wait for the next bus to arrive.
-	- Inform the child to always carry the correct railway pass/ticket.
-	- The child should be asked to not travel on the footboard, lean out of a running train, or cross the railway tracks. Always use the footbridge to change platforms.
-	- In trains, the child should preferably travel by compartments reserved for women. On buses, she should make use of seats reserved for ladies. 
-	- While using facilities in public spaces like bathrooms, etc. – the child should avoid common facilities and use those reserved for females only. The concept of reservation for her safety and convenience should be discussed with the child.
-	- Educate the child about road traffic safety. The child should follow the traffic rules and road safety regulations. She should check the traffic signals before crossing the street, look out for any approaching vehicles, and use the zebra crossing wherever available.
-	- Brief the child to follow the route discussed with the Naunihal staff. The child should make use of the usual path. The child should be informed to take a busy and well-lit road, and the dangers of taking short-cuts and unknown routes should be discussed with the child.
-	- Prepare the child to be attentive to her surroundings, her belongings and the people around her
-	- Inform the child that she must run away raise an alarm and seek help. She should not refrain from asking for help if there is a feeling of being in trouble or danger.
+- Inform the child not to get into a crowded bus/train as it is unsafe and risky. Wait for the next bus to arrive.
+- Inform the child to always carry the correct railway pass/ticket.
+- The child should be asked to not travel on the footboard, lean out of a running train, or cross the railway tracks. Always use the footbridge to change platforms.
+- In trains, the child should preferably travel by compartments reserved for women. On buses, she should make use of seats reserved for ladies. 
+- While using facilities in public spaces like bathrooms, etc. – the child should avoid common facilities and use those reserved for females only. The concept of reservation for her safety and convenience should be discussed with the child.
+- Educate the child about road traffic safety. The child should follow the traffic rules and road safety regulations. She should check the traffic signals before crossing the street, look out for any approaching vehicles, and use the zebra crossing wherever available.
+- Brief the child to follow the route discussed with the Naunihal staff. The child should make use of the usual path. The child should be informed to take a busy and well-lit road, and the dangers of taking short-cuts and unknown routes should be discussed with the child.
+- Prepare the child to be attentive to her surroundings, her belongings and the people around her
+- Inform the child that she must run away raise an alarm and seek help. She should not refrain from asking for help if there is a feeling of being in trouble or danger.
 	- Explain to the child that if someone makes an attempt to grab her purse or bag, then at that moment, it is advisable to let it go. 
 		- Fighting in order to resist it could result in the risk of getting hurt. Money and other possessions likely to be lost in such situations can be later recovered or replaced. The harm caused to the child may be irreversible. 
 	- Under any circumstances, no form of sexual maltreatment is ever alright. Have regular conversations with children with regard to personal safety
@@ -241,7 +241,7 @@ Some of them are listed as follows:
 	- Help can always be sought at the nearest police station. Discuss police stations falling in the child’s route with the child if there are any.
 		- Educate the child about the Railway Protection Force and the possibility of seeking help from them atrailway stations. 
 		- Make the child aware that she can also approach a store in a nearby mall, a supermarket, or a well-lit, family restaurant.
-		- Ensure that the child memorizes some important toll-free and such other emergency phone /helpline numbers e.g. of Naunihal, the police, Childline Helpline number,
+		- Ensure that the child memorizes some important toll-free and such other emergency phone /helpline numbers e.g. of Naunihal, the police, Childline Helpline numb
 ## Stranger Danger
  Discuss with the child the benefit of yelling when in trouble, as it is a discuss with the child the benefit of yelling as a good way to seek attention from passers-by
 	- Cultivate an understanding in the child that it is unsafe to leave food and drinks unattended at any point. The child should not accept anything to eat or drink from a stranger. 
