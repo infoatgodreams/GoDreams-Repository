@@ -98,6 +98,41 @@ According to Rainbow Homes, CCIs need to be prepared for the following emergency
 - Medical Emergencies
 - Sexual Abuse
 
+# SIGNS OF ABUSE IN CHILDREN
+## PHYSICAL SIGNS OF ABUSE
+- According to Ethiopian guidelines [^5], the applicant's physical status needs to be evaluated, along with any disability during the screening process.
+- From a paper on institutional childcare [^3], Romanian children they assessed had physical scarring that appeared to have resulted from lacerations, burns or broken bones 
+- According to Rainbow Homes [^6] , these are the following signs of physical abuse commonly found
+	- Unexplained bruises and cuts 
+	- Describes adults as evil
+	- Bite marks or welts in the shape of objects
+	- Fractures
+	- Excessive crying
+	- Excessive fear of adults 
+
+## EMOTIONAL SIGNS OF ABUSE
+- According to Rainbow Homes [^6] , these are the following signs of emotional abuse
+	- Lack of concentration
+	- Apathy and hopelessness
+	- Threatening to leave the home 
+- Fisher et al. (1997) have pointed  out that most of the characteristic early problems of children adopted from orphanages  might indicate brain damage or emotionally produced pathology if they were found in children reared in families.[^3]
+- In the U.K. sample  children’s scores on disinhibited attachment disturbance were positively correlated with  their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years.[^3]
+
+## SEXUAL SIGNS OF ABUSE
+According to Rainbow Homes [^6], these are the signs of Sexual Abuse
+1. Difficulty walking/sitting- unexplained rashes or pain
+2. Refuses to change in front of other children 
+3. Demonstrates excessive, exaggerated sexual curiosity 
+4. Avoids conversations related to sexuality 
+5. Pays either excessive or no attention to their body
+6. Reduced self care and grooming 
+7. Becomes pregnant or gets an STD
+8. Medical complaints such as UTI
+
+
+# PREVENTION OF ABUSE
+## LOGISTICAL REQUIREMENTS FOR CHILD SAFETY
+
 
 
 ### Prevention of CSA
@@ -240,40 +275,6 @@ Capacity building of staff to use tool for internal monitoring and goal setting 
 * While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
 * Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
 
-
-
-## Signs of Abuse
-
-### Physical signs
-- According to Ethiopian guidelines [^5], the applicant's physical status needs to be evaluated, along with any disability during the screening process.
-- From a paper on institutional childcare [^3], Romanian children they assessed had physical scarring that appeared to have resulted from lacerations, burns or broken bones 
-- According to Rainbow Homes [^6] , these are the following signs of physical abuse commonly found
-	- Unexplained bruises and cuts 
-	- Describes adults as evil
-	- Bite marks or welts in the shape of objects
-	- Fractures
-	- Excessive crying
-	- Excessive fear of adults 
-
-### Emotional signs
-
-- According to Rainbow Homes [^6] , these are the following signs of emotional abuse
-	- Lack of concentration
-	- Apathy and hopelessness
-	- Threatening to leave the home 
-- Fisher et al. (1997) have pointed  out that most of the characteristic early problems of children adopted from orphanages  might indicate brain damage or emotionally produced pathology if they were found in children reared in families.[^3]
-- In the U.K. sample  children’s scores on disinhibited attachment disturbance were positively correlated with  their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years.[^3]
-
-### Sexual: 
-According to Rainbow Homes [^6], these are the signs of Sexual Abuse
-1. Difficulty walking/sitting- unexplained rashes or pain
-2. Refuses to change in front of other children 
-3. Demonstrates excessive, exaggerated sexual curiosity 
-4. Avoids conversations related to sexuality 
-5. Pays either excessive or no attention to their body
-6. Reduced self care and grooming 
-7. Becomes pregnant or gets an STD
-8. Medical complaints such as UTI
 
 ## Infrastructure requirements for Child Safety
 
