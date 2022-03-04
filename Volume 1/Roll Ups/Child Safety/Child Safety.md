@@ -241,7 +241,7 @@ Some of them are listed as follows:
 	- Help can always be sought at the nearest police station. Discuss police stations falling in the child’s route with the child if there are any.
 		- Educate the child about the Railway Protection Force and the possibility of seeking help from them atrailway stations. 
 		- Make the child aware that she can also approach a store in a nearby mall, a supermarket, or a well-lit, family restaurant.
-		- Ensure that the child memorizes some important toll-free and such other emergency phone /helpline numbers e.g. of Naunihal, the police, Childline Helpline number, etc.
+		- Ensure that the child memorizes some important toll-free and such other emergency phone /helpline numbers e.g. of Naunihal, the police, Childline Helpline number,
 ## Stranger Danger
  Discuss with the child the benefit of yelling when in trouble, as it is a discuss with the child the benefit of yelling as a good way to seek attention from passers-by
 	- Cultivate an understanding in the child that it is unsafe to leave food and drinks unattended at any point. The child should not accept anything to eat or drink from a stranger. 
