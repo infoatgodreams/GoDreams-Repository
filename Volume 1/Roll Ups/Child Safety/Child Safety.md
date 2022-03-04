@@ -159,6 +159,14 @@ Persistent lack of care: can include failure to meet physical, safety, health an
 
 ## Caregiver Training
 -  In severe cases of physical or sexual abuse the PO could also conduct group sessions with the perpetrators on relevant themes.
+-  Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
+* Children may not conform to all the rules and the staff can decide what are acceptable.
+* Extreme disciplining may lead to defiance in children.
+* Encourage children to ask questions about rules and have a discussion with them on why certain rules are important. By teaching children to be blindly compliant, we are discouraging critical thinking, which is a valuable characteristic. This not only hampers critical thinking but teaches them that adults are always right which is untrue.
+* While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
+* Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
+
+
 
 ## Signs of Abuse
 
