@@ -16,18 +16,6 @@
           },
           "pinned": true
         }
-      },
-      {
-        "id": "929afa55beb4d66c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -84,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md",
+                "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md",
+                "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,10 +112,10 @@
     "direction": "horizontal",
     "width": 420
   },
-  "active": "929afa55beb4d66c",
+  "active": "ff4fb74c36920924",
   "lastOpenFiles": [
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md",
     "Volume 1/Roll Ups/Child Safety/Child Safety.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md",
     "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Working with Children Sensitively.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
     "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",

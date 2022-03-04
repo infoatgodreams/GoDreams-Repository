@@ -201,6 +201,17 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 7. Becomes pregnant or gets an STD
 8. Medical complaints such as UTI
 
+## Emergency Situations
+- Child missing
+- Death
+- Report of a weapon in the home
+- Fire
+- Natural Disasters
+- Bomb Threats
+- Civil Disturbance
+- Medical Emergencies
+- Sexual Abuse
+
 ## Infrastructure requirements for Child Safety
 
 ### Basic Facilities 
