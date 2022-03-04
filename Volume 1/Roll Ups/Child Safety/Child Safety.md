@@ -29,6 +29,9 @@ The child safety principles in a childcare institution are based on the followin
 - zero tolerance of any form of abuse
 - child protection is a responsibility for anyone who is directly or indirectly associated with the children 
 
+# TYPES OF VULNERABILITIES IN CHILDREN 
+
+
 
 ## Child Sexual Abuse
 
