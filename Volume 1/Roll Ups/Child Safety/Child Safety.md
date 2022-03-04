@@ -62,7 +62,6 @@ Capacity building of staff to use tool for internal monitoring and goal setting 
 [^5]Ethiopia believes that it is important to create favorable conditions for efficient monitoring and evaluation of the services in childcare institutions.
 
 
-
 ### Response to CSA
 - According to a manual by Aangan [^1]individual meetings for serious or personal issues such as sexual abuse
 
@@ -289,6 +288,9 @@ HR Systems:
 PS: If more than 3 are not available for an enquiry, then a teacher/counsellor can be asked to join
 
 ## Children's Committees:
+
+- Highlight [page 8]: Child Participation means that children can discuss and co-decide on all matters that affect them, like family, school, community matters, government policies, legal policies.
+- Person-in-charge of every institution for children shall facilitate the setting up of children’s committees for different age groups of children, that is in the age group of 6 to 10 years, 11 to 15 years and 16 to 18 years and these children’s committees shall be constituted solely by children.
 
 
 
