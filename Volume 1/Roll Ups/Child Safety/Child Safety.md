@@ -283,7 +283,11 @@ While the matter is under investigation, the individual who is suspected of havi
  The matter is to be addressed and brought to closure within a month of having been reportED
 
  If the abuse falls under IPC (Indian Penal Court) or any other relevant law, First Information Report (FIR) must be filed with the local police by CSA
-HR Systems:
+HR Systems
+
+## NCPCR Protocol
+[^11]
+
 
 
 ## Caregiving
@@ -402,9 +406,31 @@ Management of institution through the Management Committee.
 
 - Children will be able to articulate problems, find solutions and work with CCI management to resolve…
 
+## Media and Safety
+[^9]
+Highlight [page 10]: • CSA needs to ensure, to the best of its ability, that while highlighting child protection issues, the media does not disclose the identity and details such as name, address, photograph of the child, locality and school
+
+Highlight [page 10]: • CSA should ensure informed consent from the CCI before disclosing any story to the media
+
+Highlight [page 10]: • In case of representation of CSA cases in publications, it must be ensured that names are changed and photographs do not reveal identity
+
+Rainbow policies 
+1. All calls from media referred to the project head first 
+2. Do not release the names of children or any identifying information to the media without prior clearance or clear consent from the guardian and the child 
+3. General images where the child is not identifiable does not require parental/guardian permission
+4. If it's shot from an educational/co-curricular perspective, prior permission is not needed, as long as the video is instructional or for an extracurricular activity. 
 
 
+## Post Crisis Reflection
 
+Important questions to ask: 
+1. Overall, did the emergency plan work? 
+2. What worked well, why? 
+3. What didnt work well, why?
+4. Was the comms timely and accurate? 
+5. Were the stakeholders updated regularly? 
+6. What specific problems arose? Were they resolved and if yes, how? 
+7. Was comms ongoing until the situation was resolved? 
 
 
 
@@ -420,3 +446,4 @@ Management of institution through the Management Committee.
 [^8]: [Working with Children Sensitively](Volume%203/Reference%20Reading/Service%20Providers%20to%20CCIs/Prerana/Working%20with%20Children%20Sensitively.md)
 [^9]: [CSA_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Child%20Protection%20Policy.md)
 [^10]: [CSA_Children's Committees](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Children's%20Committees.md)
+[^11]: [SOP on Escape Runaway Sexual Abuse Death of Children in CCIs](Volume%202/Reference%20Reading/Governments%20&%20UN/SOP%20on%20Escape%20Runaway%20Sexual%20Abuse%20Death%20of%20Children%20in%20CCIs.md)

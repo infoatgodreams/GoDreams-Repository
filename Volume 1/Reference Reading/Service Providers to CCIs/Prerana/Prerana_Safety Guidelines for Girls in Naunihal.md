@@ -56,7 +56,7 @@ Link: [Google Drive] (https://drive.google.com/file/d/1vdk7A7TmDlbYb8IXDMvjHvOvW
 		- Make the child aware that she can also approach a store in a nearby mall, a supermarket, or a well-lit, family restaurant.
 		- Ensure that the child memorizes some important toll-free and such other emergency phone /helpline numbers e.g. of Naunihal, the police, Childline Helpline number, etc.
 ## Stranger Danger
-	- Discuss with the child the benefit of yelling when in trouble, as it is a discuss with the child the benefit of yelling as a good way to seek attention from passers-by
+ Discuss with the child the benefit of yelling when in trouble, as it is a discuss with the child the benefit of yelling as a good way to seek attention from passers-by
 	- Cultivate an understanding in the child that it is unsafe to leave food and drinks unattended at any point. The child should not accept anything to eat or drink from a stranger. 
 		- Discuss with children how consuming unattended/already opened food and beverages is harmful as the food or drink can be spiked with drugs causing intoxication, etc.
 	- The child should be made aware that if anyone hastens the child to immediately leave with him or her on the grounds of a disaster like fire, earthquake, etc. she should not leave with the said person – but call Naunihalimmediately and take their advice
