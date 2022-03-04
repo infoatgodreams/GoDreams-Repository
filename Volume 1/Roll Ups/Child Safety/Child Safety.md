@@ -133,6 +133,60 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 # PREVENTION OF ABUSE
 ## LOGISTICAL REQUIREMENTS FOR CHILD SAFETY
 
+### SLEEPING
+-Have clearly marked areas for sleeping for children and staff
+-All children have rights to privacy for bathing, dressing, sleeping etc
+-Have adequate number of beds and rotate bed allocation regularly-weekly or fortnightly 
+
+-Keep light bulks on at night in the dormitory and toilets 
+-Mark secluded spots and ask the children to “keep off” 
+-Open box for anonymous complaints 
+
+## Hazards
+- free from chemical, noise, air, etc., pollution; and
+- Free from hazardous physical structures like wells, swamps, unprotected ponds, open sewers, deep ditches etc.
+- 
+
+## Accommodation arrangements
+### For a small home
+ A self-contained home in a childcare institution shall not have more than three bedrooms for the children and one for the home mother.
+ 
+ The number of children residing in one bedroom shall not exceed four.
+ 
+ The surface area for one bedroom shall be at least twelve sq. meters.
+
+shall have at least one toilet, with a total surface area of at least two sq. meters.
+shall have at least one bathroom/shower, with a total surface area of at least six sq. meters.
+
+### For a dormitory
+Dormitory buildings shall not be more than one storey.
+The number of children residing in one bedroom in a dormitory building shall not exceed sixteen.
+The surface area for one bedroom in a dormitory building shall be at least forty-eight sq. meters.
+A dormitory building shall have at least one toilet compartment for each bedroom with a total surface area of at least one sq. meter.
+A dormitory building in a childcare institution shall have at least one bathroom/shower compartment for each bedroom, with a total surface area of at least one and half sq. meters.
+A dormitory building in a childcare institution shall have at least one washing basin for each bedroom.
+
+[^9]• Separate accommodation for boys and girls above the age of 6 years
+
+• The home should have access to transport facility
+
+• The shelter must have sufficient space for children inclusive of stipulated number of toilets & bathing rooms as per JJ ACT 2015
+
+Safety equipment such as fire extinguisher should be available in the premise
+
+• A room must be allocated to keep the bedding of the children, locker system to keep the personal belongings of the children
+• Separate accommodation for boys and girls above the age of 6 years
+
+• The home should have access to transport facility
+
+• The shelter must have sufficient space for children inclusive of stipulated number of toilets & bathing rooms as per JJ ACT 2015
+
+Safety equipment such as fire extinguisher should be available in the premise
+
+• A room must be allocated to keep the bedding of the children, locker system to keep the personal belongings of the children
+
+• The provision for security to guard the place, should be as per the ICPS standards
+
 
 
 ### Prevention of CSA
@@ -198,13 +252,8 @@ For Rainbow's caregivers
 -Half day refresher training once a year for all staff
 -Aangan, Rainbow and CSA recommend a standardised discipline code/code of conduct 
 @aangan Child-friendly material should be created along with capacity building workshops for staff on how to use this material at the time of the child’s entry. The objective would be to welcome and reassure the child and prepare him/her for the interview with the PO.
--All children have rights to privacy for bathing, dressing, sleeping etc
--Have clearly marked areas for sleeping for children and staff
--Have adequate number of beds and rotate bed allocation regularly-weekly or fortnightly 
 -Duty of taking care of sick children who need help bathing, using toilets should be rotated regularly 
 -Children’s committees are created for peer learning and sharing, take their complaints seriously 
--Keep light bulks on at night in the dormitory and toilets 
--Mark secluded spots and ask the children to “keep off” 
 -A female caregiver always accompanies the children on the bus 
 -All visitors must be accompanied by staff
 -One manager in the home at all times, day and night 
@@ -214,7 +263,6 @@ For Rainbow's caregivers
 -Child protection committee numbers available on the wall
 -Avoid sending child home if there’s a history of abuse or if the child is scared
 -relatives/guardians need to sign a register before taking the child out
--Open box for anonymous complaints 
 -Create a code of conduct for all stakeholders 
 
 
@@ -276,59 +324,6 @@ Capacity building of staff to use tool for internal monitoring and goal setting 
 * Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
 
 
-## Infrastructure requirements for Child Safety
-
-### Basic Facilities 
-Thus, a childcare institution shall have
-- an adequate potable water supply;
-- preferably electric power; and in case of power failure generator;
-- preferably telephone communication; and
-- a waste disposal system. 
-
-## Hazards
-- free from chemical, noise, air, etc., pollution; and
-- Free from hazardous physical structures like wells, swamps, unprotected ponds, open sewers, deep ditches etc.
-- 
-
-## Accommodation arrangements
-### For a small home
- A self-contained home in a childcare institution shall not have more than three bedrooms for the children and one for the home mother.
- 
- The number of children residing in one bedroom shall not exceed four.
- 
- The surface area for one bedroom shall be at least twelve sq. meters.
-
-shall have at least one toilet, with a total surface area of at least two sq. meters.
-shall have at least one bathroom/shower, with a total surface area of at least six sq. meters.
-
-### For a dormitory
-Dormitory buildings shall not be more than one storey.
-The number of children residing in one bedroom in a dormitory building shall not exceed sixteen.
-The surface area for one bedroom in a dormitory building shall be at least forty-eight sq. meters.
-A dormitory building shall have at least one toilet compartment for each bedroom with a total surface area of at least one sq. meter.
-A dormitory building in a childcare institution shall have at least one bathroom/shower compartment for each bedroom, with a total surface area of at least one and half sq. meters.
-A dormitory building in a childcare institution shall have at least one washing basin for each bedroom.
-
-[^9]• Separate accommodation for boys and girls above the age of 6 years
-
-• The home should have access to transport facility
-
-• The shelter must have sufficient space for children inclusive of stipulated number of toilets & bathing rooms as per JJ ACT 2015
-
-Safety equipment such as fire extinguisher should be available in the premise
-
-• A room must be allocated to keep the bedding of the children, locker system to keep the personal belongings of the children
-• Separate accommodation for boys and girls above the age of 6 years
-
-• The home should have access to transport facility
-
-• The shelter must have sufficient space for children inclusive of stipulated number of toilets & bathing rooms as per JJ ACT 2015
-
-Safety equipment such as fire extinguisher should be available in the premise
-
-• A room must be allocated to keep the bedding of the children, locker system to keep the personal belongings of the children
-
-• The provision for security to guard the place, should be as per the ICPS standards
 
 Caregiving requirements for partner CCIs: 
 
