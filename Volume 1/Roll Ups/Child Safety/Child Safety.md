@@ -59,13 +59,9 @@ This is commonly seen as
 - **NEGLECT**: Persistent lack of care: can include failure to meet physical, safety, health and emotional needs 
 
 ## SEXUAL ABUSE
-**Definition**: 
-
-
-## Child Sexual Abuse
+**Definition**: The World Health Organization (WHO) defines Child Sexual Abuse (CSA) as the involvement of a child in sexual activity that he or she does not fully comprehend, is unable to give informed consent to, or for which the child is not developmentally prepared and cannot give consent, or that violates the laws or social taboos of society
 
 ### Contact abuse: 
-#opinion: adding things that are not commonly understood as sexual abuse
 - Touching the kids in any way that makes them uncomfortable 
 - Touching private parts
 - Oral sex 
@@ -88,6 +84,21 @@ This is commonly seen as
 - Exposing genitals to the child
 - Sharing intimate personal details with the child 
 - talking/discussing erotic scenes from a movie 
+
+## EMERGENCIES & NATURAL DISASTERS
+
+According to Rainbow Homes, CCIs need to be prepared for the following emergency situations 
+- Child missing
+- Death of a child or caregiver
+- Report of a weapon in the home
+- Fire
+- Natural Disasters
+- Bomb Threats
+- Civil Disturbance
+- Medical Emergencies
+- Sexual Abuse
+
+
 
 ### Prevention of CSA
 
@@ -219,8 +230,6 @@ Capacity building of staff to use tool for internal monitoring and goal setting 
 * In early childhood it also helps in the brain development of the child. Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
 * It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
 
-## Neglect: 
-
 
 ## Caregiver Training
 -  In severe cases of physical or sexual abuse the PO could also conduct group sessions with the perpetrators on relevant themes.
@@ -265,17 +274,6 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 6. Reduced self care and grooming 
 7. Becomes pregnant or gets an STD
 8. Medical complaints such as UTI
-
-## Emergency Situations
-- Child missing
-- Death
-- Report of a weapon in the home
-- Fire
-- Natural Disasters
-- Bomb Threats
-- Civil Disturbance
-- Medical Emergencies
-- Sexual Abuse
 
 ## Infrastructure requirements for Child Safety
 
@@ -564,7 +562,7 @@ Important questions to ask:
 6. What specific problems arose? Were they resolved and if yes, how? 
 7. Was comms ongoing until the situation was resolved? 
 
-
+# POCSO 
 
 
 
