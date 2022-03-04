@@ -20,15 +20,15 @@ Link: [Google Drive] (https://drive.google.com/file/d/1vdk7A7TmDlbYb8IXDMvjHvOvW
 - Orienting the child with these safety tips is not to curb the child’s right to freedom, but to equipthe child in becoming self-reliant, and thus truly, free.
 - This information is to be shared with the child by any of the following functionaries: Counselor, Superintendent, Child Welfare Officer or Caseworker, or the Probation Officer.
 
-# Instructions to chilren
+# Instructions to children
 - The prior approval obtained from the CWC is only for the child to attend her college and/or vocational training program, and return to Naunihal. Ensure the child understands this too.
-- Inform the child that if there is any other outing she is required to or wishes toattend; she should inform the Superintendent or Case Worker at Naunihal inadvance. The necessary permission for the same will then be sought from the respective CWC. 
+- Inform the child that if there is any other outing she is required to or wishes to attend; she should inform the Superintendent or Case Worker at Naunihal in advance. The necessary permission for the same will then be sought from the respective CWC. 
 	- The child going for any such outing without explicit approval from the CWC is not permitted
 - Ensure that the child is aware of the practice of reporting to the staff before leaving and after returning to Naunihal.
 - Inculcate in the child, a habit of checking her belongings before leaving Naunihal. One shouldn’t leave Naunihal without emergency money, sanitary napkins, meal box, water bottle, personal medicines, if any, etc.
 - Inform the child that if she is likely to return later than her usual time, sheshould contact the Superintendent or any staff of Naunihal and share the reasonfor the delay from her college/training center. 
 - Explore possible situations with the child, like if she faces any obstacles like a traffic jam, etc., she should take the help of a fellow passenger to call and inform the staff at Naunihal the reason for the delay. 
-- Discuss with the child that how these measures are to ensure the staffat Naunihal is informed that the child is safe, and the reasons for the delay – and they do not report the matter to authorities fearing a breach of the child’s safety.
+- Discuss with the child that how these measures are to ensure the staff at Naunihal is informed that the child is safe, and the reasons for the delay – and they do not report the matter to authorities fearing a breach of the child’s safety.
 - The child should be well informed that if she feels unwell while traveling, she should call Naunihal or request someone to call Naunihal so that a staff member could reach out to her to pick her up
 - Ensure that the child is well-versed with the route which is to be taken by the child and discuss the same in detail with the child. Go over the route multiple times, accompany the child, till she understands it thoroughly
  
@@ -56,7 +56,7 @@ Link: [Google Drive] (https://drive.google.com/file/d/1vdk7A7TmDlbYb8IXDMvjHvOvW
 		- Make the child aware that she can also approach a store in a nearby mall, a supermarket, or a well-lit, family restaurant.
 		- Ensure that the child memorizes some important toll-free and such other emergency phone /helpline numbers e.g. of Naunihal, the police, Childline Helpline number, etc.
 ## Stranger Danger
-	- Discuss with the child the benefit of yelling when in trouble, as it is a discuss with the child the benefit of yelling as a good way to seek attention from passers-by
+ Discuss with the child the benefit of yelling when in trouble, as it is a discuss with the child the benefit of yelling as a good way to seek attention from passers-by
 	- Cultivate an understanding in the child that it is unsafe to leave food and drinks unattended at any point. The child should not accept anything to eat or drink from a stranger. 
 		- Discuss with children how consuming unattended/already opened food and beverages is harmful as the food or drink can be spiked with drugs causing intoxication, etc.
 	- The child should be made aware that if anyone hastens the child to immediately leave with him or her on the grounds of a disaster like fire, earthquake, etc. she should not leave with the said person – but call Naunihalimmediately and take their advice
