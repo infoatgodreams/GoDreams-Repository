@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4053149d4b85d5b9",
+        "id": "9c15a68479db7f48",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "program operations",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.0093288421631
+    "width": 300
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -70,13 +70,13 @@
               "type": "backlink",
               "state": {
                 "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -107,20 +107,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 747.5913696289062,
+    "width": 420,
     "collapsed": true
   },
-  "active": "4053149d4b85d5b9",
+  "active": "9c15a68479db7f48",
   "lastOpenFiles": [
     "Volume 1/Roll Ups/Child Safety/Child Safety.md",
-    "Volume 1/Program Design/Context Document/V0 Op Support.md",
-    "conflict-files-obsidian-git.md",
-    "Volume 1/Roll Ups/CCI Operations/Program Operations.md",
+    "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+    "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
     "Home.md",
-    "Volume 1/Roll Ups/CCI Operations/Emergency Protocol.md",
-    "Volume 1/Roll Ups/Assessment Tools.md",
-    "Volume 1/Roll Ups/Child Development/Child Development.md",
-    "Untitled.md",
-    "Volume 1/Roll Ups/Nutrition/Nutrition.md"
+    "Volume 4/Guidelines for Institutional Childcare - Ethiopia.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
+    "Volume 1/Reference Reading/Governments & UN/Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia.md",
+    "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Working with Children Sensitively.md",
+    "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md"
   ]
 }

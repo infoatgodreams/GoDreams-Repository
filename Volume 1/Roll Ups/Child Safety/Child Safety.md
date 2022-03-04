@@ -327,6 +327,14 @@ PS: If more than 3 are not available for an enquiry, then a teacher/counsellor c
 • Review of suggestions is carried out
 • When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
 
+### EVALUATION TOOLS TO ASSESS SAFETY
+- Aangan recommend a Standardized Evaluation of performance, criteria &systems. 
+- Standardize monitoring tool combining criteria related to infrastructure, interaction and activity . 
+- External Evaluation through Vigilance Committees. 
+- Develop self monitoring tool.  
+- Capacity building of staff to use tool for internal monitoring and goal setting
+
+
 ### Expected outcomes
 
 - Children will be safe, and be able to voice out concerns, highlight red flags, if any.
@@ -450,25 +458,16 @@ Important questions to ask:
 6. What specific problems arose? Were they resolved and if yes, how? 
 7. Was comms ongoing until the situation was resolved? 
 
-# EVALUATION TOOLS TO ASSESS SAFETY
-Aangan recommends:	- Standardized Evaluation of performance, criteria &systems. 
-Standardize monitoring tool combining criteria related to infrastructure, interaction and activity . 
-External Evaluation through Vigilance Committees. 
-Develop self monitoring tool.  
-Capacity building of staff to use tool for internal monitoring and goal setting   (Page 12)
-[^5]Ethiopia believes that it is important to create favorable conditions for efficient monitoring and evaluation of the services in childcare institutions.
 
 # POCSO 
-
-
-
+Footnotes:
 [^1]: [Aangan - Changing Spaces](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Aangan/Aangan%20-%20Changing%20Spaces.md)
 [^2]: [Prerana_Safety Guidelines for Girls in Naunihal](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Prerana/Prerana_Safety%20Guidelines%20for%20Girls%20in%20Naunihal.md)
 [^3]: [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Reference%20Reading/Research%20Papers/Global/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md)
 [^4]: [Global Childhood Report 2021](Volume%203/Reference%20Reading/Research%20Papers/Global%20Research/Global%20Childhood%20Report%202021.md)
 [^5]: [Volume 4/Guidelines for Institutional Childcare - Ethiopia](Volume%204/Guidelines%20for%20Institutional%20Childcare%20-%20Ethiopia)
 [^6]: [Rainbow_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Child%20Protection%20Policy.md)
-[^7]: [Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia](Volume%201/Reference%20Reading/Governments%20&%20UN/Minimum%20Standards%20of%20Care%20and%20Support%20for%20the%20Victims%20of%20Trafficking%20and%20other%20forms%20of%20violence%20in%20South%20Asia.m
+[^7]: [Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia](Volume%201/Reference%20Reading/Governments%20&%20UN/Minimum%20Standards%20of%20Care%20and%20Support%20for%20the%20Victims%20of%20Trafficking%20and%20other%20forms%20of%20violence%20in%20South%20Asia.md)
 [^8]: [Working with Children Sensitively](Volume%203/Reference%20Reading/Service%20Providers%20to%20CCIs/Prerana/Working%20with%20Children%20Sensitively.md)
 [^9]: [CSA_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Child%20Protection%20Policy.md)
 [^10]: [CSA_Children's Committees](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Children's%20Committees.md)
