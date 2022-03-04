@@ -31,6 +31,31 @@ Potential outline for the roll-up
 
 ## Child Sexual Abuse
 
+### Contact abuse: 
+#opinion: adding things that are not commonly understood as sexual abuse
+- Touching the kids in any way that makes them uncomfortable 
+- Touching private parts
+- Oral sex 
+- Vaginal and anal penetration with finger, penis or any object
+- Asking child to touch inappropriate places
+- Tickling and accidentally touching the private parts of the child 
+- Wrestling or playing games that involve contact 
+- Massaging the child or asking for a massage 
+
+## Non contact: 
+- Deliberately walking in when the child is in the bathroom/changing clothes 
+- Jokes with sexual overtones
+- Teasing the child about their body development 
+- Showing sexually explicit images or porn 
+- Taking pictures of child changing, bathing 
+- Asking or making the child watch when changing clothes or using the bathroom 
+- Involving child in watching or making porn 
+- Encouraging child to masturbate 
+- Masturbate in the presence of a child
+- Exposing genitals to the child
+- Sharing intimate personal details with the child 
+- talking/discussing erotic scenes from a movie 
+
 ### Prevention of CSA
 
 ### Child training
