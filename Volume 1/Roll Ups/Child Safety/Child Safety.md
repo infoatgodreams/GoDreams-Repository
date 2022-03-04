@@ -51,6 +51,16 @@ For Rainbow's caregivers
 -Code of conduct needs to be signed by all stakeholders within 7 days of their engagement 
 -Two training sessions conducted with all staff, parents and local police 
 -Half day refresher training once a year for all staff
+-Aangan, Rainbow and CSA recommend a standardised discipline code/code of conduct 
+
+## Evaluation tools
+Aangan recommends:	- Standardized Evaluation of performance, criteria &systems. 
+Standardize monitoring tool combining criteria related to infrastructure, interaction and activity . 
+External Evaluation through Vigilance Committees. 
+Develop self monitoring tool.  
+Capacity building of staff to use tool for internal monitoring and goal setting   (Page 12)
+
+
 
 ### Response to CSA
 - According to a manual by Aangan [^1]individual meetings for serious or personal issues such as sexual abuse
@@ -84,8 +94,6 @@ Persistent lack of care: can include failure to meet physical, safety, health an
 - Also includes making them carry heavy weights beyond capacity 
 - Uncomfy positions like: Standing on a bench with hands raised, kneeling, holding ears through the legs, weight on their heads, carrying weight more than they can
 - Forced ingestion of inedible things, burning, poisoning, smothering, hurting genitals, giving electric shocks. 
-
-## Managing Behavior
 
 ## Caregiver Training
 -  In severe cases of physical or sexual abuse the PO could also conduct group sessions with the perpetrators on relevant themes.
