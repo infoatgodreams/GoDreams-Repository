@@ -59,6 +59,7 @@ Standardize monitoring tool combining criteria related to infrastructure, intera
 External Evaluation through Vigilance Committees. 
 Develop self monitoring tool.  
 Capacity building of staff to use tool for internal monitoring and goal setting   (Page 12)
+Ethiopia 
 
 
 
