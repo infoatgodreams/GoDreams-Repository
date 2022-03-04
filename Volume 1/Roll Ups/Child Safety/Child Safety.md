@@ -31,7 +31,29 @@ The child safety principles in a childcare institution are based on the followin
 
 # TYPES OF VULNERABILITIES IN CHILDREN 
 
+## PHYSICAL ABUSE 
 
+**Definition:**- [^6]any action that causes pain, injury, hurt or discomfort is considered to be childhood abuse 
+- According to the Childhood Enders index, extreme violence is a common childhood ender. [^4]
+- Typical violent actions like Hitting, slapping, pinching, pushing them down, pulling hair, pulling ears, throwing things at them, shaking, flinging them down, hitting head against the wall
+- Also includes making them carry heavy weights beyond capacity.
+- Forcing children to be in uncomfortable positions like: Standing on a bench with hands raised, kneeling, holding ears through the legs, weight on their heads.
+- Forced ingestion of inedible things, burning, poisoning, smothering, hurting genitals, giving electric shocks. 
+
+## EMOTIONAL ABUSE
+**Definition**
+Repeatedly rejecting the child
+- Using derogatory terms to insult the child 
+- Ridiculing, pressurizing  the child 
+- Unnecessary Reference to the child’s past and health status of the child’s parents 
+- Intimidating the child 
+- Imposing developmentally inappropriate expectations
+- Belittling the child about not meeting teacher’s expectations
+- Using abusive language
+- Shaming the child about a disability 
+- Caste, religion, race based discrimination 
+- Showing favouritism 
+- Threatening to kick a child out of the home 
 
 ## Child Sexual Abuse
 
@@ -171,18 +193,6 @@ Capacity building of staff to use tool for internal monitoring and goal setting 
 
 #opinion: adding things that are not commonly understood as emotional abuse
 [^6]
-- Repeatedly rejecting the child
-- Using derogatory terms to insult the child 
-- Ridiculing, pressurizing  the child 
-- Unnecessary Reference to the child’s past and health status of the child’s parents 
-- Intimidating the child 
-- Imposing developmentally inappropriate expectations
-- Belittling the child about not meeting teacher’s expectations
-- Using abusive language
-- Shaming the child about a disability 
-- Caste, religion, race based discrimination 
-- Showing favouritism 
-- Threatening to kick a child out of the home 
 
 ### DEALING WITH EMOTIONS & ATTACHMENT
 *  The best way to work with children is to be empathetic towards them.
@@ -208,16 +218,6 @@ Capacity building of staff to use tool for internal monitoring and goal setting 
 ## Neglect: 
 Persistent lack of care: can include failure to meet physical, safety, health and emotional needs 
 
-
-## Physical Abuse
--Child is a victim of extreme violence is a part of the Childhood Enders index [^4]
-
-- [^6]any action that causes pain, injury, hurt or discomfort 
-#opinion: adding things that are not commonly understood as physical abuse
-- Hitting, slapping, pinching, pushing them down, pulling hair, pulling ears, throwing things at them, shaking, flinging them down, hitting head against the wall
-- Also includes making them carry heavy weights beyond capacity 
-- Uncomfy positions like: Standing on a bench with hands raised, kneeling, holding ears through the legs, weight on their heads, carrying weight more than they can
-- Forced ingestion of inedible things, burning, poisoning, smothering, hurting genitals, giving electric shocks. 
 
 ## Caregiver Training
 -  In severe cases of physical or sexual abuse the PO could also conduct group sessions with the perpetrators on relevant themes.
