@@ -172,11 +172,20 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 
 ### How do they need to be trained? 
 ### Code of Conduct
+• Be visible and not in a secluded place while in contact with children at the work place
+• Protect the child by not disclosing the identity of the child outside the team
+• Uphold the privacy of the child by not disclosing the identity of the child to the media
+• Ensure that there are staff members of the same gender when escorting the child between locations and also when taking care of the child/children at any location
+• Sleep alone with any child
+• Stay back at the child care institution/orphanage or interact with children after dark/ 19:00 hours
+• Do things for children of a personal nature that they can do themselves, such as use the toilet, bathe or change clothes (unless the child is severely ill or injured - in such case, another staff / caretaker should also be present)
+• Give gifts directly to children
+• Share any sensitive and confidential personal & family information shared by the child with CCI staff & management without taking the child’s permission
+
+### Training Operations
 
 
 
-
-### Prevention of CSA
 
 ### Child training
 
@@ -252,15 +261,7 @@ For Rainbow's caregivers
 
 
 ### Code of conduct
-• Be visible and not in a secluded place while in contact with children at the work place
-• Protect the child by not disclosing the identity of the child outside the team
-• Uphold the privacy of the child by not disclosing the identity of the child to the media
-• Ensure that there are staff members of the same gender when escorting the child between locations and also when taking care of the child/children at any location
-• Sleep alone with any child
-• Stay back at the child care institution/orphanage or interact with children after dark/ 19:00 hours
-• Do things for children of a personal nature that they can do themselves, such as use the toilet, bathe or change clothes (unless the child is severely ill or injured - in such case, another staff / caretaker should also be present)
-• Give gifts directly to children
-• Share any sensitive and confidential personal & family information shared by the child with CCI staff & management without taking the child’s permission
+
 
 
 ## Evaluation tools
