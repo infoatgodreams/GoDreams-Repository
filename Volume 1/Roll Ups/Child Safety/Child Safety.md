@@ -132,10 +132,10 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 
 # PREVENTION OF ABUSE
 
-## LOGISTICAL REQUIREMENTS FOR CHILD SAFETY
+## LOGISTICAL ARRANGEMENTS FOR CHILD SAFETY
 - The CCI needs to be free from chemical, noise, air, etc., pollution; and
 - Free from hazardous physical structures like wells, swamps, unprotected ponds, open sewers, deep ditches etc.
-- According to Ethiopian Guidelines:
+- According to Ethiopian[^5] Guidelines:
 	-  **For a small home**
 		 - A self-contained home in a childcare institution shall not have more than three bedrooms for the children and one for the home mother.
 		 - The number of children residing in one bedroom shall not exceed four.
@@ -143,46 +143,31 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 		 - shall have at least one toilet, with a total surface area of at least two sq. meters
 		 - shall have at least one bathroom/shower, with a total surface area of at least six sq. meters.
 	- **For a dormitory**
-Dormitory buildings shall not be more than one storey.
-The number of children residing in one bedroom in a dormitory building shall not exceed sixteen.
-The surface area for one bedroom in a dormitory building shall be at least forty-eight sq. meters.
-A dormitory building shall have at least one toilet compartment for each bedroom with a total surface area of at least one sq. meter.
-A dormitory building in a childcare institution shall have at least one bathroom/shower compartment for each bedroom, with a total surface area of at least one and half sq. meters.
-A dormitory building in a childcare institution shall have at least one washing basin for each bedroom.
+		- Dormitory buildings shall not be more than one storey.
+		- The number of children residing in one bedroom in a dormitory building shall not exceed sixteen.
+		- The surface area for one bedroom in a dormitory building shall be at least forty-eight sq. meters.
+		- A dormitory building shall have at least one toilet compartment for each bedroom with a total surface area of at least one sq. meter.
+		- A dormitory building in a childcare institution shall have at least one bathroom/shower compartment for each bedroom, with a total surface area of at least one and half sq. meters.
+		- A dormitory building in a childcare institution shall have at least one washing basin for each bedroom.
+
+- According to practices recommended by Rainbow Homes, Catalysts for Social Action and Aangan, there are a number of key priorities in arranging accommodation for children
+	- [^9]Separate accommodation for boys and girls above the age of 6 years
+	- The shelter must have sufficient space for children inclusive of stipulated number of toilets & bathing rooms as per JJ ACT 2015
+	- A room must be allocated to keep the bedding of the children, locker system to keep the personal belongings of the children
+	- Safety equipment such as fire extinguisher should be available in the premise
+	- The provision for security to guard the place, should be as per the ICPS standards
+	- -Two phones for children to use, easily accessible
+	- Child protection committee numbers available on the wall
+	- Have clearly marked areas for sleeping for children and staff
+	- All children have rights to privacy for bathing, dressing, sleeping etc
+	- Have adequate number of beds and rotate bed allocation regularly-weekly or fortnightly 
+	- Keep light bulks on at night in the dormitory and toilets 
+	- Mark secluded spots and ask the children to “keep off” 
+	- Open box for anonymous complaints 
+
+## CAREGIVING REQUIREMENTS FOR CHILD SAFETY
 
 
-
-### SLEEPING
--Have clearly marked areas for sleeping for children and staff
--All children have rights to privacy for bathing, dressing, sleeping etc
--Have adequate number of beds and rotate bed allocation regularly-weekly or fortnightly 
-
--Keep light bulks on at night in the dormitory and toilets 
--Mark secluded spots and ask the children to “keep off” 
--Open box for anonymous complaints 
-
-## Accommodation arrangements
-
-[^9]• Separate accommodation for boys and girls above the age of 6 years
-
-• The home should have access to transport facility
-
-• The shelter must have sufficient space for children inclusive of stipulated number of toilets & bathing rooms as per JJ ACT 2015
-
-Safety equipment such as fire extinguisher should be available in the premise
-
-• A room must be allocated to keep the bedding of the children, locker system to keep the personal belongings of the children
-• Separate accommodation for boys and girls above the age of 6 years
-
-• The home should have access to transport facility
-
-• The shelter must have sufficient space for children inclusive of stipulated number of toilets & bathing rooms as per JJ ACT 2015
-
-Safety equipment such as fire extinguisher should be available in the premise
-
-• A room must be allocated to keep the bedding of the children, locker system to keep the personal belongings of the children
-
-• The provision for security to guard the place, should be as per the ICPS standards
 
 
 
@@ -256,8 +241,6 @@ For Rainbow's caregivers
 -One manager in the home at all times, day and night 
 -Male visitors not allowed after 7 pm 
 -Security guard mandatory, visitors given passes
--Two phones for children to use, easily accessible
--Child protection committee numbers available on the wall
 -Avoid sending child home if there’s a history of abuse or if the child is scared
 -relatives/guardians need to sign a register before taking the child out
 -Create a code of conduct for all stakeholders 
@@ -570,3 +553,4 @@ Important questions to ask:
 [^9]: [CSA_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Child%20Protection%20Policy.md)
 [^10]: [CSA_Children's Committees](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Children's%20Committees.md)
 [^11]: [SOP on Escape Runaway Sexual Abuse Death of Children in CCIs](Volume%202/Reference%20Reading/Governments%20&%20UN/SOP%20on%20Escape%20Runaway%20Sexual%20Abuse%20Death%20of%20Children%20in%20CCIs.md)
+[^12]: 
