@@ -43,24 +43,6 @@
       "key": "E"
     }
   ],
-  "obsidian-outliner:indent-list": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
-  "obsidian-outliner:outdent-list": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
   "obsidian-excel-to-markdown-table:excel-to-markdown-table": [
     {
       "modifiers": [
@@ -85,6 +67,24 @@
         "Shift"
       ],
       "key": "S"
+    }
+  ],
+  "obsidian-outliner:indent-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "obsidian-outliner:outdent-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowLeft"
     }
   ]
 }

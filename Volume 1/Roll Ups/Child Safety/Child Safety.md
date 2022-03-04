@@ -24,10 +24,10 @@ Potential outline for the roll-up
 The child safety principles in a childcare institution are based on the following principles 
 - recognition of best interests of the child 
 - respect for dignity, liberty and freedom
--respect for agency and active participation of the child 
--respect for privacy and confidentiality 
--zero tolerance of any form of abuse
--child protection is a responsibility for anyone who is directly or indirectly associated with the children 
+- respect for agency and active participation of the child 
+- respect for privacy and confidentiality 
+- zero tolerance of any form of abuse
+- child protection is a responsibility for anyone who is directly or indirectly associated with the children 
 
 
 ## Child Sexual Abuse
