@@ -281,9 +281,62 @@ Some of them are listed as follows:
 
 # CHILD SEXUAL ABUSE 
 
-# Response to child abuse 
+## SYSTEMS IN PLACE 
+
+### CHILD PROTECTION COMMITTEE (CPC)
+- [^6]
+-Select one staff as CPO
+-CPO needs to be mature, approachable, trusted by children, has been there for at least a year and doesn't plan to leave soon, listens well and maintain privacy, drives everything in the interest of the children.
+
+**What does the CPO do?**
+1. CPO ensures quarterly meeting with CPC
+2. Enforces the prevention guidelines with the rest of the team 
+3. Raise awareness about child protection in the home 
+4. Ensures that CPC information is publicly displayed
+5. CPO brings up a violation immediately with CPC or project-in charge
+6. CPO meets children every month to orient them about child protection 
+7. Support survivors with sensitivity and care
+
+**Who constitutes the child protection committee at Rainbow Homes?** 
+- 5 members, 3 women 
+- 3 mature persons with child work experience 
+- 1 is the project in charge or home coordinator 
+- Mature dedicated long term volunteers
+PS: If more than 3 are not available for an enquiry, then a teacher/counsellor can be asked to join
+
+### CHILDREN'S COMMITTEE
+[^10]
+- Highlight [page 8]: Child Participation means that children can discuss and co-decide on all matters that affect them, like family, school, community matters, government policies, legal policies.
+- Person-in-charge of every institution for children shall facilitate the setting up of children’s committees for different age groups of children, that is in the age group of 6 to 10 years, 11 to 15 years and 16 to 18 years and these children’s committees shall be constituted solely by children.
+
+## Responsibilities of the committee
+- Improvement of the condition of the institution
+- Reviewing standards of care being followed
+- Creative expression of their views through wall papers or newsletters or paintings or music or theater;
+- Developing educational, vocational and recreational plans
+- Respecting each other and supporting each other in managing crisis
+- Reporting abuse and exploitation by peers and caregivers
+- Management of institution through the Management Committee.
+
+### Governance
+
+• President chairs the monthly meetings, reviews work done, plan.
+• Ministers report and discuss issues related to their portfolio. President reports to CCI superintendent
+• CCI superintendent must provide Committee with stationary, suggestion box, register, petty cash, badges to the children who constitute the committee.
+• Meetings must be minuted.
+• Review of suggestions is carried out
+• When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
+
+### Expected outcomes
+
+- Children will be safe, and be able to voice out concerns, highlight red flags, if any.
+- Children will develop leadership skills, be self-confident, aware of social issues
+- Behavioral issues will decrease, children’s participation will increase
+- Children will be able to articulate problems, find solutions and work with CCI management to resolve…
+
+# RESPONSE TO CHILD ABUSE 
 ## Protocol recommended by service providers
-[^6]
+[^6] **AT RAINBOW HOMES**
 - CPC should meet before 3 days has passed after the incident
 -   CPC can suspend the accused but will continue to respect both the child and the accused
 -   Benefit of doubt given to the child, burden of proof on the adult
@@ -295,16 +348,12 @@ Some of them are listed as follows:
 -   Info about the incident should be reported to the state officer immediately and keep them updated about progress
 -   Any aggrieved party if they disagree with the CPC can make an appeal to the appeal committee with national and state team members. 
 
-[^9]
- Report the matter in writing, directly to the Director-CSA
+[^9] **AT CSA**
+ - Report the matter in writing, directly to the Director-CSA
  • The Director together with the Program Officer will investigate the matter and take appropriate action in accordance with the guidelines for disciplinary action as has been followed in the past OR outlined in the CSA’s Employee Handbook
-
-While the matter is under investigation, the individual who is suspected of having committed a child protection violation must be removed from direct contact with children
-
- The matter is to be addressed and brought to closure within a month of having been reportED
-
- If the abuse falls under IPC (Indian Penal Court) or any other relevant law, First Information Report (FIR) must be filed with the local police by CSA
-HR Systems
+ - While the matter is under investigation, the individual who is suspected of having committed a child protection violation must be removed from direct contact with children
+ - The matter is to be addressed and brought to closure within a month of having been reported
+ - If the abuse falls under IPC (Indian Penal Court) or any other relevant law, First Information Report (FIR) must be filed with the local police by CSA HR Systems
 
 ## NCPCR Protocol
 [^11]
@@ -326,8 +375,6 @@ HR Systems
 - CCI needs to ensure post mortem happens within 24 hours 
 - In case of unnatural deaths or suicides, photos and videos need to be captured for future records 
 - In all cases, magistrate needs to complete an inquiry within 4 weeks of receiving the notice 
-
-
 
 ## Caregiving
 - [^6] Find a quiet place to talk and listen to the child carefully
@@ -390,70 +437,6 @@ HR Systems
 - Adoption: Adoption without regulations can lead to imprisonment for upto 3 years and a fine of a lakh or both
 
 
-## Child Protection Committee
-[^6]
--Select one staff as CPO
--CPO needs to be mature, approachable, trusted by children, has been there for at least a year and doesnt plan to leave soon, listens well and maintain privacy, drives everything in the interest of the children.
-
-**What does the CPO do?**
-1. CPO ensures quarterly meeting with CPC
-2. Enforces the prevention guidelines with the rest of the team 
-3. Raise awareness about child protection in the home 
-4. Ensures that CPC information is publicly displayed
-5. CPO brings up a violation immediately with CPC or project-in charge
-6. CPO meets children every month to orient them about child protection 
-7. Support survivors with sensitivity and care
-
-**Who constitutes the child protection committee?** 
-- 5 members, 3 women 
-- 3 mature persons with child work experience 
-- 1 is the project in charge or home coordinator 
-- Mature dedicated long term volunteers
-PS: If more than 3 are not available for an enquiry, then a teacher/counsellor can be asked to join
-
-## Children's Committees:
-[^10]
-- Highlight [page 8]: Child Participation means that children can discuss and co-decide on all matters that affect them, like family, school, community matters, government policies, legal policies.
-- Person-in-charge of every institution for children shall facilitate the setting up of children’s committees for different age groups of children, that is in the age group of 6 to 10 years, 11 to 15 years and 16 to 18 years and these children’s committees shall be constituted solely by children.
-
-## Responsibilities of the committee
-Improvement of the condition of the institution
-
-Reviewing standards of care being followed
-
-Creative expression of their views through wall papers or newsletters or paintings or music or theater;
-
-Developing educational, vocational and recreational plans
-
-Respecting each other and supporting each other in managing crisis
-
-Reporting abuse and exploitation by peers and caregivers
-
-Management of institution through the Management Committee.
-
-### Governance
-
-• President chairs the monthly meetings, reviews work done, plan.
-
-• Ministers report and discuss issues related to their portfolio. President reports to CCI superintendent
-
-• CCI superintendent must provide Committee with stationary, suggestion box, register, petty cash, badges to the children who constitute the committee.
-
-• Meetings must be minuted.
-
-• Review of suggestions is carried out
-
-• When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
-
-### Expected outcomes
-
-- Children will be safe, and be able to voice out concerns, highlight red flags, if any.
-
-- Children will develop leadership skills, be self-confident, aware of social issues
-
-- Behavioral issues will decrease, children’s participation will increase
-
-- Children will be able to articulate problems, find solutions and work with CCI management to resolve…
 
 ## Media and Safety
 [^9]
