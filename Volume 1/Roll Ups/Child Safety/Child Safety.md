@@ -131,7 +131,26 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 
 
 # PREVENTION OF ABUSE
+
 ## LOGISTICAL REQUIREMENTS FOR CHILD SAFETY
+- The CCI needs to be free from chemical, noise, air, etc., pollution; and
+- Free from hazardous physical structures like wells, swamps, unprotected ponds, open sewers, deep ditches etc.
+- According to Ethiopian Guidelines:
+	-  **For a small home**
+		 - A self-contained home in a childcare institution shall not have more than three bedrooms for the children and one for the home mother.
+		 - The number of children residing in one bedroom shall not exceed four.
+		 - The surface area for one bedroom shall be at least twelve sq. meters.
+		 - shall have at least one toilet, with a total surface area of at least two sq. meters
+		 - shall have at least one bathroom/shower, with a total surface area of at least six sq. meters.
+	- **For a dormitory**
+Dormitory buildings shall not be more than one storey.
+The number of children residing in one bedroom in a dormitory building shall not exceed sixteen.
+The surface area for one bedroom in a dormitory building shall be at least forty-eight sq. meters.
+A dormitory building shall have at least one toilet compartment for each bedroom with a total surface area of at least one sq. meter.
+A dormitory building in a childcare institution shall have at least one bathroom/shower compartment for each bedroom, with a total surface area of at least one and half sq. meters.
+A dormitory building in a childcare institution shall have at least one washing basin for each bedroom.
+
+
 
 ### SLEEPING
 -Have clearly marked areas for sleeping for children and staff
@@ -142,29 +161,7 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 -Mark secluded spots and ask the children to “keep off” 
 -Open box for anonymous complaints 
 
-## Hazards
-- free from chemical, noise, air, etc., pollution; and
-- Free from hazardous physical structures like wells, swamps, unprotected ponds, open sewers, deep ditches etc.
-- 
-
 ## Accommodation arrangements
-### For a small home
- A self-contained home in a childcare institution shall not have more than three bedrooms for the children and one for the home mother.
- 
- The number of children residing in one bedroom shall not exceed four.
- 
- The surface area for one bedroom shall be at least twelve sq. meters.
-
-shall have at least one toilet, with a total surface area of at least two sq. meters.
-shall have at least one bathroom/shower, with a total surface area of at least six sq. meters.
-
-### For a dormitory
-Dormitory buildings shall not be more than one storey.
-The number of children residing in one bedroom in a dormitory building shall not exceed sixteen.
-The surface area for one bedroom in a dormitory building shall be at least forty-eight sq. meters.
-A dormitory building shall have at least one toilet compartment for each bedroom with a total surface area of at least one sq. meter.
-A dormitory building in a childcare institution shall have at least one bathroom/shower compartment for each bedroom, with a total surface area of at least one and half sq. meters.
-A dormitory building in a childcare institution shall have at least one washing basin for each bedroom.
 
 [^9]• Separate accommodation for boys and girls above the age of 6 years
 
