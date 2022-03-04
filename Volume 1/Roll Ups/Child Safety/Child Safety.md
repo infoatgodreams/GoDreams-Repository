@@ -292,6 +292,22 @@ PS: If more than 3 are not available for an enquiry, then a teacher/counsellor c
 - Highlight [page 8]: Child Participation means that children can discuss and co-decide on all matters that affect them, like family, school, community matters, government policies, legal policies.
 - Person-in-charge of every institution for children shall facilitate the setting up of children’s committees for different age groups of children, that is in the age group of 6 to 10 years, 11 to 15 years and 16 to 18 years and these children’s committees shall be constituted solely by children.
 
+## Responsibilities of the committee
+Improvement of the condition of the institution
+
+Reviewing standards of care being followed
+
+Creative expression of their views through wall papers or newsletters or paintings or music or theater;
+
+Developing educational, vocational and recreational plans
+
+Respecting each other and supporting each other in managing crisis
+
+Reporting abuse and exploitation by peers and caregivers
+
+Management of institution through the Management Committee.
+
+
 
 
 
