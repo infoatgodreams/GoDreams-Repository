@@ -170,54 +170,55 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 • NO male staff in girl’s home
 • The provision for security to guard the place, should be as per the ICPS standards
 
-### How do they need to be trained? 
 ### Code of Conduct
+**DOs**
 • Be visible and not in a secluded place while in contact with children at the work place
 • Protect the child by not disclosing the identity of the child outside the team
 • Uphold the privacy of the child by not disclosing the identity of the child to the media
 • Ensure that there are staff members of the same gender when escorting the child between locations and also when taking care of the child/children at any location
 - All relatives/guardians need to sign a register before taking the child out
 - A female caregiver always accompanies the children on the bus 
-- All visitors must be accompanied by staff
+- All visitors must be accompanied by staff, security guard mandatory, visitors given passes
+- One manager in the home at all times, day and night 
 
-
-
+**DONTs**
 • Do not sleep alone with any child
 • Do not stay back at the child care institution/orphanage or interact with children after dark/ 19:00 hours
 • Do not do things for children of a personal nature that they can do themselves, such as use the toilet, bathe or change clothes (unless the child is severely ill or injured - in such case, another staff / caretaker should also be present)
 • Do not give gifts directly to children
 • Do not share any sensitive and confidential personal & family information shared by the child with CCI staff & management without taking the child’s permission
 - Do not send child home if there’s a history of abuse or if the child is scared
-- Do not allow Male visitors after 7 pm 
+- Do not allow Male visitors after 7 pm
 
+### Caregiver training
+- For Rainbow's caregivers
+	- Full day orientation about the policy is mandatory 
+	- Gender and sexuality training recommended 
+	- All  donors and visitors need to be trained and informed of comms and behaviour protocol 
+	- Orient and train bus drivers on child protection concepts and the severity of punishment 
+	- Code of conduct needs to be signed by all stakeholders within 7 days of their engagement 
+	- Two training sessions conducted with all staff, parents and local police 
+	- Half day refresher training once a year for all staff
 
-- One manager in the home at all times, day and night 
-- Security guard mandatory, visitors given passes
+## CHILD TRAINING REQUIREMENTS FOR CHILD SAFETY
 
-
-### Training Operations
-
-
-
-
-### Child training
-
+### GENERAL SAFETY AND CULTURE
 - Acc to a manual by Prerana [^2] Under any circumstances, no form of sexual maltreatment is ever alright. Have regular conversations with children with regard to personal safety
-- -Orientation for all kids within a week of their arrival 
--Once in 3 months refresher 
--Talk about appropriate and inappropriate touching, teach them to trust their intuition 
--Children with disabilities paid more attention to 
--Teach the children concept of private zones 
--Use anatomically appropriate terms in training 
--Establish clear safety rules in interacting with staff
--Encourage children to exercise body autonomy, to change their own clothes and bathe independently- teach them boundaries and privacy 
--Teach them to say no and run away if they’re uncomfortable. Tell them that it is never their fault 
--Show them that they can talk to you, encourage them to report 
--Show them that mechanisms exist to take care of them and their concerns will be taken up seriously 
--Teach them that secrets are not good, no matter who asks them to keep the secrets 
--Celebrate certain child specific days to reiterate these points like child labour, international children’s day, etc 
+- Orientation for all kids within a week of their arrival 
+- Once in 3 months refresher 
+- Talk about appropriate and inappropriate touching, teach them to trust their intuition 
+- Children with disabilities paid more attention to 
+- Teach the children concept of private zones 
+- Use anatomically appropriate terms in training 
+- Establish clear safety rules in interacting with staff
+- Encourage children to exercise body autonomy, to change their own clothes and bathe independently- teach them boundaries and privacy 
+- Teach them to say no and run away if they’re uncomfortable. Tell them that it is never their fault 
+- Show them that they can talk to you, encourage them to report 
+- Show them that mechanisms exist to take care of them and their concerns will be taken up seriously
+- Teach them that secrets are not good, no matter who asks them to keep the secrets 
+- Celebrate certain child specific days to reiterate these points like child labour, international children’s day, etc 
 
-## Travel guidelines
+### TRAVEL GUIDELINES FOR CHILDREN
 Some of them are listed as follows:
 	- Inform the child not to get into a crowded bus/train as it is unsafe and risky. Wait for the next bus to arrive.
 	- Inform the child to always carry the correct railway pass/ticket.
@@ -251,19 +252,6 @@ Some of them are listed as follows:
  - Educate the child that she is not obligated to share any personal information withany person. If a stranger or a nominally familiar person discloses his or her personal information, it doesn’t mean the child is obligated to share similar information about herself with him/her.
  - Discuss with the child about consent. Inform her that there is nothing wrong with sounding ‘rude’ and saying NO if the person continues to pressurize or botherher. Saying NO is the child’s right, and it is a complete sentence without requiring any further elaboration or justification.
 ### Caregiver training
-For Rainbow's caregivers
--Full day orientation about the policy is mandatory 
--Gender and sexuality training recommended 
--All  donors and visitors need to be trained and informed of comms and behaviour protocol 
--Orient and train bus drivers on child protection concepts and the severity of punishment 
--Code of conduct needs to be signed by all stakeholders within 7 days of their engagement 
--Two training sessions conducted with all staff, parents and local police 
--Half day refresher training once a year for all staff
--Aangan, Rainbow and CSA recommend a standardised discipline code/code of conduct 
-@aangan Child-friendly material should be created along with capacity building workshops for staff on how to use this material at the time of the child’s entry. The objective would be to welcome and reassure the child and prepare him/her for the interview with the PO.
-
-
-### Code of conduct
 
 
 
