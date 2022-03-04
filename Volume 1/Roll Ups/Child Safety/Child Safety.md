@@ -19,10 +19,11 @@ Potential outline for the roll-up
 - Rehabilitative Practices
 
 
-## Principles guiding child safety(Intro)
+# INTRODUCTION
 [^6]
--recognition of best interests of the child 
--respect for dignity, liberty and freedom
+The child safety principles in a childcare institution are based on the following principles 
+- recognition of best interests of the child 
+- respect for dignity, liberty and freedom
 -respect for agency and active participation of the child 
 -respect for privacy and confidentiality 
 -zero tolerance of any form of abuse
