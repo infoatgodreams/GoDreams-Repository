@@ -41,11 +41,13 @@ The child safety principles in a childcare institution are based on the followin
 - Forced ingestion of inedible things, burning, poisoning, smothering, hurting genitals, giving electric shocks. 
 
 ## EMOTIONAL ABUSE
-**Definition**
-Repeatedly rejecting the child
+**Definition**: According to the Child Welfare Department in the US, Emotional or psychological child abuse is a pattern of behavior that impairs a child's emotional development or sense of self-worth.
+This is commonly seen as
+
+- Repeatedly rejecting the child
 - Using derogatory terms to insult the child 
 - Ridiculing, pressurizing  the child 
-- Unnecessary Reference to the child’s past and health status of the child’s parents 
+- Unnecessary reference to the child’s past and health status of the child’s parents 
 - Intimidating the child 
 - Imposing developmentally inappropriate expectations
 - Belittling the child about not meeting teacher’s expectations
@@ -54,6 +56,11 @@ Repeatedly rejecting the child
 - Caste, religion, race based discrimination 
 - Showing favouritism 
 - Threatening to kick a child out of the home 
+- **NEGLECT**: Persistent lack of care: can include failure to meet physical, safety, health and emotional needs 
+
+## SEXUAL ABUSE
+**Definition**: 
+
 
 ## Child Sexual Abuse
 
@@ -189,9 +196,6 @@ Capacity building of staff to use tool for internal monitoring and goal setting 
 ### Response to CSA
 - According to a manual by Aangan [^1]individual meetings for serious or personal issues such as sexual abuse
 
-## Emotional Abuse
-
-#opinion: adding things that are not commonly understood as emotional abuse
 [^6]
 
 ### DEALING WITH EMOTIONS & ATTACHMENT
@@ -216,7 +220,6 @@ Capacity building of staff to use tool for internal monitoring and goal setting 
 * It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
 
 ## Neglect: 
-Persistent lack of care: can include failure to meet physical, safety, health and emotional needs 
 
 
 ## Caregiver Training
