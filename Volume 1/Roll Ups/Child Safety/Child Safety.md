@@ -59,7 +59,7 @@ Standardize monitoring tool combining criteria related to infrastructure, intera
 External Evaluation through Vigilance Committees. 
 Develop self monitoring tool.  
 Capacity building of staff to use tool for internal monitoring and goal setting   (Page 12)
-Ethiopia 
+[^5]Ethiopia believes that it is important to create favorable conditions for efficient monitoring and evaluation of the services in childcare institutions.
 
 
 
@@ -305,5 +305,3 @@ PS: If more than 3 are not available for an enquiry, then a teacher/counsellor c
 [^7]: [Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia](Volume%201/Reference%20Reading/Governments%20&%20UN/Minimum%20Standards%20of%20Care%20and%20Support%20for%20the%20Victims%20of%20Trafficking%20and%20other%20forms%20of%20violence%20in%20South%20Asia.m
 [^8]: [Working with Children Sensitively](Volume%203/Reference%20Reading/Service%20Providers%20to%20CCIs/Prerana/Working%20with%20Children%20Sensitively.md)
 [^9]: [CSA_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Catalysts%20for%20Social%20Action/CSA_Child%20Protection%20Policy.md)
-[^10]: 
-[^11]: 
