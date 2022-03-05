@@ -4,9 +4,11 @@ author: Navneeth
 tags: 
 - Rollups
 ---
+
+# Current reality of child safety
 - Fisher et al. (1997) have pointed  out that most of the characteristic early problems of children adopted from orphanages  might indicate brain damage or emotionally produced pathology if they were found in children reared in families.[^3]
 - In the U.K. sample  children’s scores on disinhibited attachment disturbance were positively correlated with  their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years.[^3]
-## What is child safety?
+# What is child safety?
 
 - According to Rainbows Child Protection Policy - The child safety principles in a childcare institution are based on the following  [^6]
 	- recognition of best interests of the child 
@@ -71,7 +73,7 @@ tags:
 - Sharing intimate personal details with the child 
 - talking/discussing erotic scenes from a movie 
 
-## CCI Operations
+# CCI Operations
 ### Emergencies & Natural Disaster Preparedness
 - According to Rainbow Homes [^6], CCIs need to be prepared for the following emergency situations 
 	- Child missing
@@ -153,9 +155,9 @@ tags:
 - #### For victims of trafficking [^7]
 	-   Each victim shall have a separate single bed or his/her own area in a double or triple room of a suitable size, with a suitable bed and bedding, seating, storage for clothes, lockable or otherwise safe storage for personal possessions, a window with sufficient light for study and other work.
 	-   Staff sleeping rooms shall not be part of the communal living area (except in case of very young or sick children) but should be located close to the victims' bedrooms to respond to night time needs.
-### CHILD PROTECTION COMMITTEE (CPC)
+### Child Protection Committee
 - According to Rainbow Guidelines[^6]
-	- Select one staff as CPO
+	- Select one staff as CPO (Chief Protection Officer)
 	- CPO needs to be mature, approachable, trusted by children, has been there for at least a year and doesn't plan to leave soon, listens well and maintain privacy, drives everything in the interest of the children.
 
 - **What does the CPO do?**
@@ -174,7 +176,7 @@ tags:
 	- Mature dedicated long term volunteers
 	- PS: If more than 3 are not available for an enquiry, then a teacher/counsellor can be asked to join
 
-### CHILDREN'S COMMITTEE
+### Children's Committee
 - According to CSA [^10]
 	-  Child Participation means that children can discuss and co-decide on all matters that affect them, like family, school, community matters, government policies, legal policies.
 	- Person-in-charge of every institution for children shall facilitate the setting up of children’s committees for different age groups of children, that is in the age group of 6 to 10 years, 11 to 15 years and 16 to 18 years and these children’s committees shall be constituted solely by children.
@@ -193,7 +195,124 @@ tags:
 		- Meetings must be minuted.
 		- Review of suggestions is carried out
 		-  When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
-## CAREGIVING 
+
+# Response to Child Abuse 
+## Protocol recommended by service providers
+- **AT RAINBOW HOMES** [^6]
+	- CPC should meet before 3 days has passed after the incident
+	-   CPC can suspend the accused but will continue to respect both the child and the accused
+	-   Benefit of doubt given to the child, burden of proof on the adult
+	-   After inquiry, the complainant can be fired, make a police complaint, transfer them or do nothing based on the results.
+	-   If filing a police complaint, the CPC is responsible for the FIR and a copy of FIR to be kept at the home
+	-   If there is even a slight danger, the person is removed from caring for children.
+	-   The whole process should not take more than 15 days
+	-   The CPC will make a report and copy given to parent, head of org and CWC
+	-   Info about the incident should be reported to the state officer immediately and keep them updated about progress
+	-   Any aggrieved party if they disagree with the CPC can make an appeal to the appeal committee with national and state team members. 
+
+- **AT CSA** [^9]
+	 - Report the matter in writing, directly to the Director-CSA
+	 - The Director together with the Program Officer will investigate the matter and take appropriate action in accordance with the guidelines for disciplinary action as has been followed in the past OR outlined in the CSA’s Employee Handbook
+	 - While the matter is under investigation, the individual who is suspected of having committed a child protection violation must be removed from direct contact with children
+	 - The matter is to be addressed and brought to closure within a month of having been reported
+	 - If the abuse falls under IPC (Indian Penal Court) or any other relevant law, First Information Report (FIR) must be filed with the local police by CSA HR Systems
+
+## NCPCR Protocol 
+- According to the NCPCR [^11],the protocol to be followed is: 
+	- Lodge a complaint with the police
+	- Conduct initial enquiry and send report to the Board or Committee or Children’s court within 24 hours 
+	- No punitive action taken against the child in conflict with law or CNCP who is recovered/found
+	- Police files FIR
+	- Police informs the child welfare police officer 
+	- Police forwards FIR to Special Juvenile Police Unit to trace the child 
+	- DCPO will be responsible for organizing counselling sessions for the child in question
+	- The person in charge needs to send a report to the DM, Police and the Board/Committee/ Children’s court 
+	- In the case of natural death, the person in charge needs a report from the medical officer about cause of death within 15 days and needs to send written intimation to 
+		-  police station
+	    -  board/committee/children’s court 
+	    -   DM/SP
+		-  NHRC
+		- NCPCR
+		- Every death needs to be investigated by the police 
+- CCI needs to ensure post mortem happens within 24 hours 
+- In case of unnatural deaths or suicides, photos and videos need to be captured for future records 
+- In all cases, magistrate needs to complete an inquiry within 4 weeks of receiving the notice 
+
+## RESPONDING TO THE SURVIVOR
+- According to Rainbow Homes guidelines: [^6]
+	-  Find a quiet place to talk and listen to the child carefully
+	- Be careful not to make any negative comments about the abuser because the child might care about them
+	- Write down the info in as much detail as possible. Dont correct the language. Respect the child’s feelings and listen carefully.
+	- Tell the child action will be taken to keep them safe but do not promise things outside your control like the abuser going to jail
+	- Provide medical attention if needed, send them with a trusted adult. This includes counselling support. 
+	- Shift the child to another home during investigation, esp if its sexual abuse
+	-  Acknowledge that the child is [^8]being courageous in sharing a difficult experience or informatioN
+	- Validate that their decision to trust and share with you was a good, safe and responsible one.
+	- Ensure that consistent messages are given to the child. Hence, it is important for caregivers to regularly communicate with each other.
+
+## RESPONDING TO A CHILD PERPETRATOR
+- According to a manual titles "working with children sensitively" by Prerana, [^8]
+	- Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
+	- Whenever a child is seen engaging in unacceptable behavior or is found doing something that is unacceptable, the child should be first asked what he/she was up to. Listen to children. After knowing what the child was doing, an adult can explain why a behavior is inappropriate.
+	* In order to avoid shaming, embarrassing or humiliating the child, the caregivers should hold this conversation one- on-one with the child and avoid confronting the child in front of the other children.
+	* Talk about inappropriate behavior without demeaning their self worth or attacking their personality or character.
+	* When correcting behavior, provide a calm explanation for your preferences. Giving a reason helps children understand the implications of their behavior for others
+	* Do not verbally or physically abuse children. This hurts them and teaches them that abuse is a problem-solving technique, which they are bound to use to solve their own problems.
+	* Take abuse between children seriously as well and teach them alternate ways to solve problems.
+	* Avoid impatient body language like eye rolling, foot tapping or sighing. This can discourage a child from talking.
+	* Hold conversations at the appropriate time and place. It is also important to address an issue in a timely manner. If one waits too long to address a situation, sometimes the child will not remember the incident or more often than not, it will not register that they did something wrong or unacceptable, thereby causing them to repeat the behavior.
+	* Refrain from labeling children negatively (for eg: manda, aalsi, moti, sukdi, bewakoof). All labels related to looks, intellect and behavior should be avoided.
+	* If you see a child lying, you can talk about the situation and address the lying instead of labeling the child as “liar” r “chor/stealer”
+	* In severe cases of physical or sexual abuse the PO could also conduct group sessions with the perpetrators on relevant themes.
+
+
+## ROLE OF POLICE IN RESPONDING TO CHILD ABUSE
+
+- DD entry made and read to the informant  
+- FIR registered under relevant section of POCSO and free copy handed over to the person reporting  
+- Medical exam should be done acc to section 164 crpc. Should be in the presence of a guardian or support person + done by a woman doc recommended by head of hospital.  
+- If child is CNCP, the IO makes arrangements to move into a shelter within 24 hours of the report  
+- Victim cannot be called to the police station. Should be recorded at any other place or residence, preferably by women officers  
+- IO must submit report to the cwc and special court within 24 hours for all POCSO cases  
+- Only SI or above can handle POCSO cases
+
+### INFORMATION THAT THE CHILD NEEDS ACCESS TO
+-   Private and public emergency centres
+-   Procedural steps of prosecution
+-   Victim compensation benefits
+-   Status of investigation as long as it doesn't interfere with the investigation.
+-   Arrest of the offender
+-   Filing of charges against offender
+-   Schedule of court proceedings the child needs to attend
+-   Bail, release, detention status
+-   Verdict after trial
+-   Sentence imposed
+
+## CONCERNED PENALTIES:
+- For non registration of CCIs- up to 1 year imprisonment or minimum 1 lakh fine or both 
+- Punishment for cruelty to a child- up to 3 year imprisonment or minimum 1 lakh fine or both (if proved that the circumstances are beyond the control  of biological parents to take care of them, then the penal position doesnt apply)
+- CCI caregiver convicted - 5 years rigorous imprisonment and fine upto 5 L or both
+- Corporal punishment: 10,000 fine for first offence, subsequent offences will land in imprisonment for 3 months or fine or both 
+- Adoption: Adoption without regulations can lead to imprisonment for upto 3 years and a fine of a lakh or both
+
+## RESPONSE TO MEDIA
+- According to CSA's child protection policy, [^9]
+	- Need to ensure, to the best of its ability, that while highlighting child protection issues, the media does not disclose the identity and details such as name, address, photograph of the child, locality and school.
+	- All calls from media referred to the project head first 
+	- Do not release the names of children or any identifying information to the media without prior clearance or clear consent from the guardian and the child 
+	- General images where the child is not identifiable does not require parental/guardian permission
+	- If it's shot from an educational/co-curricular perspective, prior permission is not needed, as long as the video is instructional or for an extracurricular activity. 
+
+## POST CRISIS REFLECTION
+Important questions to ask: 
+1. Overall, did the emergency plan work? 
+2. What worked well, why? 
+3. What didn't work well, why?
+4. Was the comms timely and accurate? 
+5. Were the stakeholders updated regularly? 
+6. What specific problems arose? Were they resolved and if yes, how? 
+7. Was comms ongoing until the situation was resolved? 
+# Caregiving 
 ### Who are the caregivers? 
 
 • A trained social worker must be appointed
@@ -258,7 +377,7 @@ tags:
 		* In early childhood it also helps in the brain development of the child. Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
 		* It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
 
-## Training Children
+# Training Children
 
 ### GENERAL SAFETY AND CULTURE
 - Acc to a manual by Prerana [^2] Under any circumstances, no form of sexual maltreatment is ever alright. Have regular conversations with children with regard to personal safety
@@ -312,7 +431,7 @@ Some of them are listed as follows:
 
 
 
-## Assessment Tools
+# Assessment Tools
 
 ### EVALUATION TOOLS TO ASSESS SAFETY
 - Aangan recommend a Standardized Evaluation of performance, criteria &systems. 
@@ -328,125 +447,8 @@ Some of them are listed as follows:
 - Behavioral issues will decrease, children’s participation will increase
 - Children will be able to articulate problems, find solutions and work with CCI management to resolve…
 
-# RESPONSE TO CHILD ABUSE 
-## Protocol recommended by service providers
-[^6] **AT RAINBOW HOMES**
-- CPC should meet before 3 days has passed after the incident
--   CPC can suspend the accused but will continue to respect both the child and the accused
--   Benefit of doubt given to the child, burden of proof on the adult
--   After inquiry, the complainant can be fired, make a police complaint, transfer them or do nothing based on the results.
--   If filing a police complaint, the CPC is responsible for the FIR and a copy of FIR to be kept at the home
--   If there is even a slight danger, the person is removed from caring for children.
--   The whole process should not take more than 15 days
--   The CPC will make a report and copy given to parent, head of org and CWC
--   Info about the incident should be reported to the state officer immediately and keep them updated about progress
--   Any aggrieved party if they disagree with the CPC can make an appeal to the appeal committee with national and state team members. 
-
-[^9] **AT CSA**
- - Report the matter in writing, directly to the Director-CSA
- • The Director together with the Program Officer will investigate the matter and take appropriate action in accordance with the guidelines for disciplinary action as has been followed in the past OR outlined in the CSA’s Employee Handbook
- - While the matter is under investigation, the individual who is suspected of having committed a child protection violation must be removed from direct contact with children
- - The matter is to be addressed and brought to closure within a month of having been reported
- - If the abuse falls under IPC (Indian Penal Court) or any other relevant law, First Information Report (FIR) must be filed with the local police by CSA HR Systems
-
-## NCPCR Protocol
-[^11]
-- Lodge a complaint with the police 
-- Conduct initial enquiry and send report to the Board or Committee or Children’s court within 24 hours 
-- No punitive action taken against the child in conflict with law or CNCP who is recovered/found
-- Police files FIR
-- Police informs the child welfare police officer 
-- Police forwards FIR to Special Juvenile Police Unit to trace the child 
-- DCPO will be responsible for organizing counselling sessions for the child in question
-- The person in charge needs to send a report to the DM, Police and the Board/Committee/ Children’s court 
-- In the case of natural death, the person in charge needs a report from the medical officer about cause of death within 15 days and needs to send written intimation to 
-	-  police station
-    - board/committee/children’s court 
-    -   DM/SP
-	-  NHRC
-	- NCPCR
-- Every death needs to be investigated by the police 
-- CCI needs to ensure post mortem happens within 24 hours 
-- In case of unnatural deaths or suicides, photos and videos need to be captured for future records 
-- In all cases, magistrate needs to complete an inquiry within 4 weeks of receiving the notice 
-
-## RESPONDING TO THE SURVIVOR
-- [^6] Find a quiet place to talk and listen to the child carefully
-- Be careful not to make any negative comments about the abuser because the child might care about them
-- Write down the info in as much detail as possible. Dont correct the language. Respect the child’s feelings and listen carefully.
-- Tell the child action will be taken to keep them safe but do not promise things outside your control like the abuser going to jail
-- Provide medical attention if needed, send them with a trusted adult. This includes counselling support. 
-- Shift the child to another home during investigation, esp if its sexual abuse
--  Acknowledge that the child is [^8]being courageous in sharing a difficult experience or informatioN
-- Validate that their decision to trust and share with you was a good, safe and responsible one.
-- Ensure that consistent messages are given to the child. Hence, it is important for caregivers to regularly communicate with each other.
-
-## RESPONDING TO A CHILD PERPETRATOR
-[^8]
-- Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
-- Whenever a child is seen engaging in unacceptable behavior or is found doing something that is unacceptable, the child should be first asked what he/she was up to. Listen to children. After knowing what the child was doing, an adult can explain why a behavior is inappropriate.
-* In order to avoid shaming, embarrassing or humiliating the child, the caregivers should hold this conversation one- on-one with the child and avoid confronting the child in front of the other children.
-* Talk about inappropriate behavior without demeaning their self worth or attacking their personality or character.
-* When correcting behavior, provide a calm explanation for your preferences. Giving a reason helps children understand the implications of their behavior for others
-* Do not verbally or physically abuse children. This hurts them and teaches them that abuse is a problem-solving technique, which they are bound to use to solve their own problems.
-* Take abuse between children seriously as well and teach them alternate ways to solve problems.
-* Avoid impatient body language like eye rolling, foot tapping or sighing. This can discourage a child from talking.
-* Hold conversations at the appropriate time and place. It is also important to address an issue in a timely manner. If one waits too long to address a situation, sometimes the child will not remember the incident or more often than not, it will not register that they did something wrong or unacceptable, thereby causing them to repeat the behavior.
-* Refrain from labeling children negatively (for eg: manda, aalsi, moti, sukdi, bewakoof). All labels related to looks, intellect and behavior should be avoided.
-* If you see a child lying, you can talk about the situation and address the lying instead of labeling the child as “liar” r “chor/stealer”
-* In severe cases of physical or sexual abuse the PO could also conduct group sessions with the perpetrators on relevant themes.
-
-
-## ROLE OF POLICE IN RESPONDING TO CHILD ABUSE
-
-- DD entry made and read to the informant  
-- FIR registered under relevant section of POCSO and free copy handed over to the person reporting  
-- Medical exam should be done acc to section 164 crpc. Should be in the presence of a guardian or support person + done by a woman doc recommended by head of hospital.  
-- If child is CNCP, the IO makes arrangements to move into a shelter within 24 hours of the report  
-- Victim cannot be called to the police station. Should be recorded at any other place or residence, preferably by women officers  
-- IO must submit report to the cwc and special court within 24 hours for all POCSO cases  
-- Only SI or above can handle POCSO cases
-
-### INFORMATION THAT THE CHILD NEEDS ACCESS TO
--   Private and public emergency centres
--   Procedural steps of prosecution
--   Victim compensation benefits
--   Status of investigation as long as it doesn't interfere with the investigation.
--   Arrest of the offender
--   Filing of charges against offender
--   Schedule of court proceedings the child needs to attend
--   Bail, release, detention status
--   Verdict after trial
--   Sentence imposed
-
-## CONCERNED PENALTIES:
-- For non registration of CCIs- up to 1 year imprisonment or minimum 1 lakh fine or both 
-- Punishment for cruelty to a child- up to 3 year imprisonment or minimum 1 lakh fine or both (if proved that the circumstances are beyond the control  of biological parents to take care of them, then the penal position doesnt apply)
-- CCI caregiver convicted - 5 years rigorous imprisonment and fine upto 5 L or both
-- Corporal punishment: 10,000 fine for first offence, subsequent offences will land in imprisonment for 3 months or fine or both 
-- Adoption: Adoption without regulations can lead to imprisonment for upto 3 years and a fine of a lakh or both
-
-## RESPONSE TO MEDIA
-[^9]
-- Need to ensure, to the best of its ability, that while highlighting child protection issues, the media does not disclose the identity and details such as name, address, photograph of the child, locality and school.
-- All calls from media referred to the project head first 
-- Do not release the names of children or any identifying information to the media without prior clearance or clear consent from the guardian and the child 
-- General images where the child is not identifiable does not require parental/guardian permission
-- If it's shot from an educational/co-curricular perspective, prior permission is not needed, as long as the video is instructional or for an extracurricular activity. 
-
-## POST CRISIS REFLECTION
-Important questions to ask: 
-1. Overall, did the emergency plan work? 
-2. What worked well, why? 
-3. What didnt work well, why?
-4. Was the comms timely and accurate? 
-5. Were the stakeholders updated regularly? 
-6. What specific problems arose? Were they resolved and if yes, how? 
-7. Was comms ongoing until the situation was resolved? 
-
-
-# POCSO 
-Footnotes:
+# POCSO
+# Footnotes:
 [^1]: [Aangan - Changing Spaces](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Aangan/Aangan%20-%20Changing%20Spaces.md)
 [^2]: [Prerana_Safety Guidelines for Girls in Naunihal](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Prerana/Prerana_Safety%20Guidelines%20for%20Girls%20in%20Naunihal.md)
 [^3]: [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Reference%20Reading/Research%20Papers/Global/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md)
