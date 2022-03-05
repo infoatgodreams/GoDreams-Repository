@@ -153,9 +153,6 @@ tags:
 - #### For victims of trafficking [^7]
 	-   Each victim shall have a separate single bed or his/her own area in a double or triple room of a suitable size, with a suitable bed and bedding, seating, storage for clothes, lockable or otherwise safe storage for personal possessions, a window with sufficient light for study and other work.
 	-   Staff sleeping rooms shall not be part of the communal living area (except in case of very young or sick children) but should be located close to the victims' bedrooms to respond to night time needs.
-
-### Systems that need to be in place
-
 ### CHILD PROTECTION COMMITTEE (CPC)
 - According to Rainbow Guidelines[^6]
 	- Select one staff as CPO
