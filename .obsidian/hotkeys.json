@@ -61,14 +61,7 @@
       "key": "F"
     }
   ],
-  "global-search:open": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
+  "global-search:open": [],
   "obsidian-outliner:indent-list": [
     {
       "modifiers": [

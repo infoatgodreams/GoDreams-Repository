@@ -4,47 +4,47 @@ author: Navneeth
 tags: 
 - Rollups
 ---
+- Fisher et al. (1997) have pointed  out that most of the characteristic early problems of children adopted from orphanages  might indicate brain damage or emotionally produced pathology if they were found in children reared in families.[^3]
+- In the U.K. sample  children’s scores on disinhibited attachment disturbance were positively correlated with  their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years.[^3]
+## What is child safety?
 
-# INTRODUCTION
+- According to Rainbows Child Protection Policy - The child safety principles in a childcare institution are based on the following  [^6]
+	- recognition of best interests of the child 
+	- respect for dignity, liberty and freedom
+	- respect for agency and active participation of the child 
+	- respect for privacy and confidentiality 
+	- zero tolerance of any form of abuse
+	- child protection is a responsibility for anyone who is directly or indirectly associated with the children 
 
-The child safety principles in a childcare institution are based on the following principles. [^6]
-- recognition of best interests of the child 
-- respect for dignity, liberty and freedom
-- respect for agency and active participation of the child 
-- respect for privacy and confidentiality 
-- zero tolerance of any form of abuse
-- child protection is a responsibility for anyone who is directly or indirectly associated with the children 
+## Key Definitions of Type of Abuse
 
-# TYPES OF VULNERABILITIES IN CHILDREN 
+### PHYSICAL ABUSE 
 
-## PHYSICAL ABUSE 
-
-**Definition:**- [^6]any action that causes pain, injury, hurt or discomfort is considered to be childhood abuse 
+**Definition:**- any action that causes pain, injury, hurt or discomfort is considered to be childhood abuse [^6]
 - According to the Childhood Enders index, extreme violence is a common childhood ender. [^4]
 - Typical violent actions like Hitting, slapping, pinching, pushing them down, pulling hair, pulling ears, throwing things at them, shaking, flinging them down, hitting head against the wall
 - Also includes making them carry heavy weights beyond capacity.
 - Forcing children to be in uncomfortable positions like: Standing on a bench with hands raised, kneeling, holding ears through the legs, weight on their heads.
 - Forced ingestion of inedible things, burning, poisoning, smothering, hurting genitals, giving electric shocks. 
 
-## EMOTIONAL ABUSE
-**Definition**: According to the Child Welfare Department in the US, Emotional or psychological child abuse is a pattern of behavior that impairs a child's emotional development or sense of self-worth.
-This is commonly seen as
-
-- Repeatedly rejecting the child
-- Using derogatory terms to insult the child 
-- Ridiculing, pressurizing  the child 
-- Unnecessary reference to the child’s past and health status of the child’s parents 
-- Intimidating the child 
-- Imposing developmentally inappropriate expectations
-- Belittling the child about not meeting teacher’s expectations
-- Using abusive language
-- Shaming the child about a disability 
-- Caste, religion, race based discrimination 
-- Showing favouritism 
-- Threatening to kick a child out of the home 
+### EMOTIONAL ABUSE
+- **Definition**: According to the Child Welfare Department in the US, Emotional or psychological child abuse is a pattern of behavior that impairs a child's emotional development or sense of self-worth.
+- This is commonly seen as
+	- Repeatedly rejecting the child
+	- Using derogatory terms to insult the child 
+	- Ridiculing, pressurizing  the child 
+	- Unnecessary reference to the child’s past and health status of the child’s parents 
+	- Intimidating the child 
+	- Imposing developmentally inappropriate expectations
+	- Belittling the child about not meeting teacher’s expectations
+	- Using abusive language
+	- Shaming the child about a disability 
+	- Caste, religion, race based discrimination 
+	- Showing favouritism 
+	- Threatening to kick a child out of the home 
 - **NEGLECT**: Persistent lack of care: can include failure to meet physical, safety, health and emotional needs 
 
-## SEXUAL ABUSE
+### SEXUAL ABUSE
 **Definition**: The World Health Organization (WHO) defines Child Sexual Abuse (CSA) as the involvement of a child in sexual activity that he or she does not fully comprehend, is unable to give informed consent to, or for which the child is not developmentally prepared and cannot give consent, or that violates the laws or social taboos of society
 
 ### Contact abuse: 
@@ -57,7 +57,7 @@ This is commonly seen as
 - Wrestling or playing games that involve contact 
 - Massaging the child or asking for a massage 
 
-## Non contact: 
+### NON CONTACT ABUSE: 
 - Deliberately walking in when the child is in the bathroom/changing clothes 
 - Jokes with sexual overtones
 - Teasing the child about their body development 
@@ -71,21 +71,21 @@ This is commonly seen as
 - Sharing intimate personal details with the child 
 - talking/discussing erotic scenes from a movie 
 
-## EMERGENCIES & NATURAL DISASTERS
+## CCI Operations
+### Emergencies & Natural Disaster Preparedness
+- According to Rainbow Homes [^6], CCIs need to be prepared for the following emergency situations 
+	- Child missing
+	- Death of a child or caregiver
+	- Report of a weapon in the home
+	- Fire
+	- Natural Disasters
+	- Bomb Threats
+	- Civil Disturbance
+	- Medical Emergencies
+	- Sexual Abuse
 
-According to Rainbow Homes, CCIs need to be prepared for the following emergency situations 
-- Child missing
-- Death of a child or caregiver
-- Report of a weapon in the home
-- Fire
-- Natural Disasters
-- Bomb Threats
-- Civil Disturbance
-- Medical Emergencies
-- Sexual Abuse
-
-# SIGNS OF ABUSE IN CHILDREN
-## PHYSICAL SIGNS OF ABUSE
+### Identification of Abuse
+#### Physical Signs of Abuse
 - According to Ethiopian guidelines [^5], the applicant's physical status needs to be evaluated, along with any disability during the screening process.
 - From a paper on institutional childcare [^3], Romanian children they assessed had physical scarring that appeared to have resulted from lacerations, burns or broken bones 
 - According to Rainbow Homes [^6] , these are the following signs of physical abuse commonly found
@@ -96,32 +96,31 @@ According to Rainbow Homes, CCIs need to be prepared for the following emergency
 	- Excessive crying
 	- Excessive fear of adults 
 
-## EMOTIONAL SIGNS OF ABUSE
+#### Emotional Signs of Abuse
 - According to Rainbow Homes [^6] , these are the following signs of emotional abuse
 	- Lack of concentration
 	- Apathy and hopelessness
 	- Threatening to leave the home 
-- Fisher et al. (1997) have pointed  out that most of the characteristic early problems of children adopted from orphanages  might indicate brain damage or emotionally produced pathology if they were found in children reared in families.[^3]
-- In the U.K. sample  children’s scores on disinhibited attachment disturbance were positively correlated with  their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years.[^3]
-
-## SEXUAL SIGNS OF ABUSE
-According to Rainbow Homes [^6], these are the signs of Sexual Abuse
-- Difficulty walking/sitting- unexplained rashes or pain
-- Refuses to change in front of other children
-- Demonstrates excessive, exaggerated sexual curiosity 
-- Avoids conversations related to sexuality 
-- Pays either excessive or no attention to their bod
-- Reduced self care and grooming
-- Becomes pregnant or gets an ST
-- Medical complaints such as UTI
 
 
-# PREVENTION OF HARM
+#### Sexual Signs of Abuse
+- According to Rainbow Homes [^6], these are the signs of Sexual Abuse
+	- Difficulty walking/sitting- unexplained rashes or pain
+	- Refuses to change in front of other children
+	- Demonstrates excessive, exaggerated sexual curiosity 
+	- Avoids conversations related to sexuality 
+	- Pays either excessive or no attention to their bod
+	- Reduced self care and grooming
+	- Becomes pregnant or gets an ST
+	- Medical complaints such as UTI
 
-## LOGISTICAL ARRANGEMENTS FOR CHILD SAFETY
+
+#### PREVENTION OF HARM
+
+### Building a safe environment
 - The CCI needs to be free from chemical, noise, air, etc., pollution; and
 - Free from hazardous physical structures like wells, swamps, unprotected ponds, open sewers, deep ditches etc.
-- ### According to Ethiopian[^5] Guidelines:
+- #### According to Ethiopian[^5] Guidelines:
 	-  **For a small home**
 		 - A self-contained home in a childcare institution shall not have more than three bedrooms for the children and one for the home mother.
 		 - The number of children residing in one bedroom shall not exceed four.
@@ -129,36 +128,75 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 		 - shall have at least one toilet, with a total surface area of at least two sq. meters
 		 - shall have at least one bathroom/shower, with a total surface area of at least six sq. meters.
 	- **For a dormitory**
-		- Dormitory buildings shall not be more than one storey.
+		- Dormitory buildings shall not be more than one story.
 		- The number of children residing in one bedroom in a dormitory building shall not exceed sixteen.
 		- The surface area for one bedroom in a dormitory building shall be at least forty-eight sq. meters.
 		- A dormitory building shall have at least one toilet compartment for each bedroom with a total surface area of at least one sq. meter.
 		- A dormitory building in a childcare institution shall have at least one bathroom/shower compartment for each bedroom, with a total surface area of at least one and half sq. meters.
 		- A dormitory building in a childcare institution shall have at least one washing basin for each bedroom.
 
-- ### According to practices recommended by Indian CCIs/Service providers 
-- According to  Rainbow Homes, Catalysts for Social Action and Aangan, there are a number of key priorities in arranging accommodation for children
-	- [^9]Separate accommodation for boys and girls above the age of 6 years
-	- The shelter must have sufficient space for children inclusive of stipulated number of toilets & bathing rooms as per JJ ACT 2015
-	- A room must be allocated to keep the bedding of the children, locker system to keep the personal belongings of the children
-	- Safety equipment such as fire extinguisher should be available in the premise
-	- The provision for security to guard the place, should be as per the ICPS standards
-	- Two phones for children to use, easily accessible
-	- Child protection committee numbers available on the wall
-	- Have clearly marked areas for sleeping for children and staff
-	- All children have rights to privacy for bathing, dressing, sleeping etc
-	- Have adequate number of beds and rotate bed allocation regularly-weekly or fortnightly 
-	- Keep light bulks on at night in the dormitory and toilets 
-	- Mark secluded spots and ask the children to “keep off” 
-	- Open box for anonymous complaints.The box should be opened periodically by the Management / Trustee of the institution and or by the board member of the organization
+- #### According to practices recommended by Indian CCIs/Service providers 
+	- According to  Rainbow Homes, Catalysts for Social Action and Aangan, there are a number of key priorities in arranging accommodation for children
+		- [^9]Separate accommodation for boys and girls above the age of 6 years
+		- The shelter must have sufficient space for children inclusive of stipulated number of toilets & bathing rooms as per JJ ACT 2015
+		- A room must be allocated to keep the bedding of the children, locker system to keep the personal belongings of the children
+		- Safety equipment such as fire extinguisher should be available in the premise
+		- The provision for security to guard the place, should be as per the ICPS standards
+		- Two phones for children to use, easily accessible
+		- Child protection committee numbers available on the wall
+		- Have clearly marked areas for sleeping for children and staff
+		- All children have rights to privacy for bathing, dressing, sleeping etc
+		- Have adequate number of beds and rotate bed allocation regularly-weekly or fortnightly 
+		- Keep light bulks on at night in the dormitory and toilets 
+		- Mark secluded spots and ask the children to “keep off” 
+		- Open box for anonymous complaints.The box should be opened periodically by the Management / Trustee of the institution and or by the board member of the organization
+- #### For victims of trafficking [^7]
+	-   Each victim shall have a separate single bed or his/her own area in a double or triple room of a suitable size, with a suitable bed and bedding, seating, storage for clothes, lockable or otherwise safe storage for personal possessions, a window with sufficient light for study and other work.
+	-   Staff sleeping rooms shall not be part of the communal living area (except in case of very young or sick children) but should be located close to the victims' bedrooms to respond to night time needs.
 
+### Systems that need to be in place
 
-- ### For victims of trafficking [^7]
--   Each victim shall have a separate single bed or his/her own area in a double or triple room of a suitable size, with a suitable bed and bedding, seating, storage for clothes, lockable or otherwise safe storage for personal possessions, a window with sufficient light for study and other work.
--   Staff sleeping rooms shall not be part of the communal living area (except in case of very young or sick children) but should be located close to the victims' bedrooms to respond to night time needs.
+### CHILD PROTECTION COMMITTEE (CPC)
+- According to Rainbow Guidelines[^6]
+	- Select one staff as CPO
+	- CPO needs to be mature, approachable, trusted by children, has been there for at least a year and doesn't plan to leave soon, listens well and maintain privacy, drives everything in the interest of the children.
 
+- **What does the CPO do?**
+	1. CPO ensures quarterly meeting with CPC
+	2. Enforces the prevention guidelines with the rest of the team 
+	3. Raise awareness about child protection in the home 
+	4. Ensures that CPC information is publicly displayed
+	5. CPO brings up a violation immediately with CPC or project-in charge
+	6. CPO meets children every month to orient them about child protection 
+	7. Support survivors with sensitivity and care
 
-## CAREGIVING REQUIREMENTS FOR CHILD SAFETY
+- **Who constitutes the child protection committee at Rainbow Homes?** 
+	- 5 members, 3 women 
+	- 3 mature persons with child work experience 
+	- 1 is the project in charge or home coordinator 
+	- Mature dedicated long term volunteers
+	- PS: If more than 3 are not available for an enquiry, then a teacher/counsellor can be asked to join
+
+### CHILDREN'S COMMITTEE
+- According to CSA [^10]
+	-  Child Participation means that children can discuss and co-decide on all matters that affect them, like family, school, community matters, government policies, legal policies.
+	- Person-in-charge of every institution for children shall facilitate the setting up of children’s committees for different age groups of children, that is in the age group of 6 to 10 years, 11 to 15 years and 16 to 18 years and these children’s committees shall be constituted solely by children.
+	- #### Responsibilities of the Children's Committee
+		- Improvement of the condition of the institution
+		- Reviewing standards of care being followed
+		- Creative expression of their views through wall papers or newsletters or paintings or music or theater;
+		- Developing educational, vocational and recreational plans
+		- Respecting each other and supporting each other in managing crisis
+		- Reporting abuse and exploitation by peers and caregivers
+		- Management of institution through the Management Committee.
+	- #### Governance of Children's Committee
+		- President chairs the monthly meetings, reviews work done, plan.
+		- Ministers report and discuss issues related to their portfolio. President reports to CCI superintendent
+		- CCI superintendent must provide Committee with stationary, suggestion box, register, petty cash, badges to the children who constitute the committee.
+		- Meetings must be minuted.
+		- Review of suggestions is carried out
+		-  When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
+## CAREGIVING 
 ### Who are the caregivers? 
 
 • A trained social worker must be appointed
@@ -191,7 +229,7 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 - Do not allow Male visitors after 7 pm
 
 ### Caregiver training
-- For Rainbow's caregivers
+- For Rainbow's caregivers [^6]
 	- Full day orientation about the policy is mandatory 
 	- Gender and sexuality training recommended 
 	- All  donors and visitors need to be trained and informed of comms and behaviour protocol 
@@ -199,33 +237,31 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 	- Code of conduct needs to be signed by all stakeholders within 7 days of their engagement 
 	- Two training sessions conducted with all staff, parents and local police 
 	- Half day refresher training once a year for all staff
+	- #### WORKING WITH CHILDREN
+		-  Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
+		* Children may not conform to all the rules and the staff can decide what are acceptable.
+		* Extreme disciplining may lead to defiance in children.
+		* Encourage children to ask questions about rules and have a discussion with them on why certain rules are important. By teaching children to be blindly compliant, we are discouraging critical thinking, which is a valuable characteristic. This not only hampers critical thinking but teaches them that adults are always right which is untrue.
+		* While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
+		* Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
+	- #### DEALING WITH EMOTIONS & ATTACHMENT
+		*  The best way to work with children is to be empathetic towards them.
+		*  Children can quickly understand who understands them and who cannot understand them. When a child has a fight and is angry with everyone, caregiver could go near and ask permission to sit nearby. The caregiver could say that “I can understand that you are angry and do you want to talk about it?”
+		* As an adult living with children, express your emotions on the child’s behavior. Only being patient is not the way to deal with children experiencing emotional and behavioral challenges.
+		* Having conversations about others feelings is required too as it helps the child build skills for empathy and considering different perspectives. Let them know that the staff is human too and not just an authoritarian figure.
+		* Use the language of “anger expression” (appropriate and inappropriate) instead of anger management or “controlling anger”. Do not seek tips for “controlling” child’s anger.
+		* Anger may have been a useful emotion for children who were abused as that emotion made them protect themselves and realize that they don’t feel safe.
+		* When children are distressed or aggressive, help them to calm down and then try to have a conversation.When children are triggered (having a strong emotional and physical reaction) they do not have access to the part of the brain that helps them think rationally.
+		* Therefore, it is important and will be more effective if caregivers help the child stabilize emotionally by using a range of tools such as grounding or relaxation exercises before disciplining, discussing behavior corrective measures. After the child has calmed down, the staff/parent should have a conversation with the child about what made him/her angry. It is not helpful if you ask children not to be angry. Anger is an emotion and an adult can teach the child to express it healthily. Address the anger and tell the child to express it in words.
+		* If the child does not have a dialogue about the anger, it will lead to bottling up of the anger and resentment towards the adult causing defiance to follow anything that is told to the child.
+		* When a staff realizes that the child is going to be aggressive and say bad things about the staff’s character, the staff can tell her/him to think about what s/he actually feels and write it down in a letter rather than trying to hurt the staff by saying nasty things. It may help to acknowledge the impact the child’s words are having in a manner that does not place the responsibility on the child, for example, “I can see that you are angry and hurting. The words that you are saying are hurting me and making me angry/frustrated as well. I don’t think we can have a helpful conversation when we are both so upset.”
+		* Teach the child the difference between response and reaction.
+		* Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
+		*  Encourage parent(s)/guardian(s)to meet the children as much as they can. it helps the child to build trust and reduces the attachment issues they face which reflect on their behavior.
+		* In early childhood it also helps in the brain development of the child. Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
+		* It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
 
-## WORKING WITH CHILDREN
--  Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
-* Children may not conform to all the rules and the staff can decide what are acceptable.
-* Extreme disciplining may lead to defiance in children.
-* Encourage children to ask questions about rules and have a discussion with them on why certain rules are important. By teaching children to be blindly compliant, we are discouraging critical thinking, which is a valuable characteristic. This not only hampers critical thinking but teaches them that adults are always right which is untrue.
-* While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
-* Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
-
-### DEALING WITH EMOTIONS & ATTACHMENT
-*  The best way to work with children is to be empathetic towards them.
-*  Children can quickly understand who understands them and who cannot understand them. When a child has a fight and is angry with everyone, caregiver could go near and ask permission to sit nearby. The caregiver could say that “I can understand that you are angry and do you want to talk about it?”
-* As an adult living with children, express your emotions on the child’s behavior. Only being patient is not the way to deal with children experiencing emotional and behavioral challenges.
-* Having conversations about others feelings is required too as it helps the child build skills for empathy and considering different perspectives. Let them know that the staff is human too and not just an authoritarian figure.
-* Use the language of “anger expression” (appropriate and inappropriate) instead of anger management or “controlling anger”. Do not seek tips for “controlling” child’s anger.
-* Anger may have been a useful emotion for children who were abused as that emotion made them protect themselves and realize that they don’t feel safe.
-* When children are distressed or aggressive, help them to calm down and then try to have a conversation.When children are triggered (having a strong emotional and physical reaction) they do not have access to the part of the brain that helps them think rationally.
-* Therefore, it is important and will be more effective if caregivers help the child stabilize emotionally by using a range of tools such as grounding or relaxation exercises before disciplining, discussing behavior corrective measures. After the child has calmed down, the staff/parent should have a conversation with the child about what made him/her angry. It is not helpful if you ask children not to be angry. Anger is an emotion and an adult can teach the child to express it healthily. Address the anger and tell the child to express it in words.
-* If the child does not have a dialogue about the anger, it will lead to bottling up of the anger and resentment towards the adult causing defiance to follow anything that is told to the child.
-* When a staff realizes that the child is going to be aggressive and say bad things about the staff’s character, the staff can tell her/him to think about what s/he actually feels and write it down in a letter rather than trying to hurt the staff by saying nasty things. It may help to acknowledge the impact the child’s words are having in a manner that does not place the responsibility on the child, for example, “I can see that you are angry and hurting. The words that you are saying are hurting me and making me angry/frustrated as well. I don’t think we can have a helpful conversation when we are both so upset.”
-* Teach the child the difference between response and reaction.
-* Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
-*  Encourage parent(s)/guardian(s)to meet the children as much as they can. it helps the child to build trust and reduces the attachment issues they face which reflect on their behavior.
-* In early childhood it also helps in the brain development of the child. Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
-* It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
-
-## CHILD TRAINING REQUIREMENTS FOR CHILD SAFETY
+## Training Children
 
 ### GENERAL SAFETY AND CULTURE
 - Acc to a manual by Prerana [^2] Under any circumstances, no form of sexual maltreatment is ever alright. Have regular conversations with children with regard to personal safety
@@ -267,7 +303,7 @@ Some of them are listed as follows:
 		- Educate the child about the Railway Protection Force and the possibility of seeking help from them atrailway stations. 
 		- Make the child aware that she can also approach a store in a nearby mall, a supermarket, or a well-lit, family restaurant.
 		- Ensure that the child memorizes some important toll-free and such other emergency phone /helpline numbers e.g. of Naunihal, the police, Childline Helpline numb
-## Stranger Danger
+### Stranger Danger
  Discuss with the child the benefit of yelling when in trouble, as it is a discuss with the child the benefit of yelling as a good way to seek attention from passers-by
 	- Cultivate an understanding in the child that it is unsafe to leave food and drinks unattended at any point. The child should not accept anything to eat or drink from a stranger. 
 		- Discuss with children how consuming unattended/already opened food and beverages is harmful as the food or drink can be spiked with drugs causing intoxication, etc.
@@ -279,53 +315,7 @@ Some of them are listed as follows:
 
 
 
-# CHILD ABUSE 
-
-## SYSTEMS IN PLACE 
-
-### CHILD PROTECTION COMMITTEE (CPC)
-- [^6]
--Select one staff as CPO
--CPO needs to be mature, approachable, trusted by children, has been there for at least a year and doesn't plan to leave soon, listens well and maintain privacy, drives everything in the interest of the children.
-
-**What does the CPO do?**
-1. CPO ensures quarterly meeting with CPC
-2. Enforces the prevention guidelines with the rest of the team 
-3. Raise awareness about child protection in the home 
-4. Ensures that CPC information is publicly displayed
-5. CPO brings up a violation immediately with CPC or project-in charge
-6. CPO meets children every month to orient them about child protection 
-7. Support survivors with sensitivity and care
-
-**Who constitutes the child protection committee at Rainbow Homes?** 
-- 5 members, 3 women 
-- 3 mature persons with child work experience 
-- 1 is the project in charge or home coordinator 
-- Mature dedicated long term volunteers
-PS: If more than 3 are not available for an enquiry, then a teacher/counsellor can be asked to join
-
-### CHILDREN'S COMMITTEE
-[^10]
-- Highlight [page 8]: Child Participation means that children can discuss and co-decide on all matters that affect them, like family, school, community matters, government policies, legal policies.
-- Person-in-charge of every institution for children shall facilitate the setting up of children’s committees for different age groups of children, that is in the age group of 6 to 10 years, 11 to 15 years and 16 to 18 years and these children’s committees shall be constituted solely by children.
-
-### Responsibilities of the committee
-- Improvement of the condition of the institution
-- Reviewing standards of care being followed
-- Creative expression of their views through wall papers or newsletters or paintings or music or theater;
-- Developing educational, vocational and recreational plans
-- Respecting each other and supporting each other in managing crisis
-- Reporting abuse and exploitation by peers and caregivers
-- Management of institution through the Management Committee.
-
-### Governance
-
-• President chairs the monthly meetings, reviews work done, plan.
-• Ministers report and discuss issues related to their portfolio. President reports to CCI superintendent
-• CCI superintendent must provide Committee with stationary, suggestion box, register, petty cash, badges to the children who constitute the committee.
-• Meetings must be minuted.
-• Review of suggestions is carried out
-• When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
+## Assessment Tools
 
 ### EVALUATION TOOLS TO ASSESS SAFETY
 - Aangan recommend a Standardized Evaluation of performance, criteria &systems. 
@@ -333,7 +323,6 @@ PS: If more than 3 are not available for an enquiry, then a teacher/counsellor c
 - External Evaluation through Vigilance Committees. 
 - Develop self monitoring tool.  
 - Capacity building of staff to use tool for internal monitoring and goal setting
-
 
 ### Expected outcomes
 
