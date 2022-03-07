@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           },
           "pinned": true
@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,14 +115,14 @@
   "active": "132d6a958c38cdf3",
   "lastOpenFiles": [
     "Volume 1/Roll Ups/Child Safety/Child Safety.md",
+    "Volume 4/Reference Reading/Governments & UN/Guidelines for Institutional Childcare, Ethiopia.md",
+    "Volume 4/Guidelines for Institutional Childcare - Ethiopia.md",
     "^6.md",
     "Volume 1/Volume 1 Public Resource Links/Other service providers/MiracleFoundation_Institutionalise Children Explorations and Beyond.pdf",
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
     "Volume 3/Reference Reading/Research Papers/Global Research/Global Childhood Report 2021.md",
     "Volume 1/Reference Reading/Governments & UN/WHO/WHO_Growth reference for school aged children and adolescents.md",
     "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
-    "Volume 4/Reference Reading/Governments & UN/Dietary Gudelines for Indians.md",
-    "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
-    "Home.md"
+    "Volume 4/Reference Reading/Governments & UN/Dietary Gudelines for Indians.md"
   ]
 }
