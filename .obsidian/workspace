@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "96f4596541d4c327",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Roll Ups/Child Safety/Child Safety.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,8 +122,9 @@
     "width": 420,
     "collapsed": true
   },
-  "active": "f76d0d044e3d7675",
+  "active": "96f4596541d4c327",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Volume 1/Roll Ups/Child Safety/Child Safety.md",
     "Volume 4/Guidelines for Institutional Childcare - Ethiopia.md",
     "Volume 1/Roll Ups/Nutrition/Nutrition.md",
@@ -120,7 +133,6 @@
     "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md",
     "Volume 1/Reference Reading/Governments & UN/Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia.md",
     "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Working with Children Sensitively.md",
-    "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md"
+    "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md"
   ]
 }
