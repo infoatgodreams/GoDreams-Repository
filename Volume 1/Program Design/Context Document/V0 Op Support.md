@@ -89,7 +89,43 @@ author: Navneeth
 			- Established/professional domains
 			- Uncharted domains
 	- Build fundraising vertical to be able to fund 100% CAP Costs
-	- 
+	- The Project aims to transform the quality of care at Children's Homes through empowering CCI management to continually improve care standards, processes and systems at their Institutions.
+	- Through this program CCIs will be supported across the following broad areas: 
+		- Child Centric Components
+		- Child Rights & Safety
+		- Physical Health 
+		- Nutrition
+		- Education & Play
+		- Mental Health
+		- Family Interaction/ Restoration
+		- Organizational Sustainability 
+		- HR Systems
+		- Finance & Compliance
+		- Fundraising Capacity
+		- Vendor Management
+		- Digitization/IT
+	- The following are the proposed activities under the program: 
+		- Landscape study of care standards across a wide spectrum of organizations in the sector including large and small CCIs, CCIs with excellent care practices and subject matter experts(SMEs) in the support areas
+		- Creating benchmarks for care standards (based on above study, Government regulations (JJ Act etc.) and SME recommendations across  support areas. 
+		- Design frameworks and modules including SoPs, workshops/conferences, monitoring & evaluation mechanism across the support areas. 
+		- Conduct an outreach program to identify CCIs for the program based on eligibility criteria such as leadership, governance, compliance, need etc.
+		- Conduct due diligence process and onboard selected CCIs
+		- Identify support and growth areas for the CCI and prepare a support plan.
+		- A full time project manager from Guardians to support the selected CCIs. 
+		- Workshops are conducted 12 times a year per city on topics that are identified based on the need analysis and support plan for the CCI leadership, caregiving staff, fundraising staff etc. These workshops will be facilitated by SMEs or by Guardians based on SOPs and modules created with SMEs. 
+		- Field visits to CCIs are conducted by the full time project manager twice a week at each CCI, towards providing support and collecting data.
+		- Regular cohort group calls/video conferences for collaborative opportunities.and evaluation methods will be put in place across indicators to track progress indicators towards improvement in care quality.
+	- In Year 1, we expect to have the following results: 
+		- Report on sector wide care practices at CCIs
+		- Collation of subject matter experts and literature across the mentioned domains
+		- Team of subject matter experts across domains relevant to care and organization building
+		- First group of CCIs selected and having completed 6 months of being supported through the program
+		- First version of modules and SoPs across domain areas
+		- List of sector wide vendors, partners and service providers available to CCIs
+		- Impact Assessment of organizational sustainability, growth in childcare inputs and immediate outputs at partner CCIs
+
+
+
 
 ## Care Quality Definition
 - APPI Applications
