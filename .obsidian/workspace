@@ -6,6 +6,7 @@
       {
         "id": "8891ee40147b8add",
         "type": "split",
+        "dimension": 45.268138801261834,
         "children": [
           {
             "id": "944456d19f56d0ad",
@@ -41,6 +42,7 @@
       {
         "id": "19328fd436b4de90",
         "type": "split",
+        "dimension": 54.73186119873817,
         "children": [
           {
             "id": "7ba6617c6d8613b5",
@@ -109,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -125,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Program Design/Context Document/V2 CAP Scope.md",
+                "file": "Volume 1/Program Design/Context Document/V0 Op Support.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Program Design/Context Document/V2 CAP Scope.md",
+                "file": "Volume 1/Program Design/Context Document/V0 Op Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,12 +169,12 @@
     "width": 420,
     "collapsed": true
   },
-  "active": "f25b37e1210e00e4",
+  "active": "944456d19f56d0ad",
   "lastOpenFiles": [
+    "Volume 1/Program Design/Context Document/V0 Op Support.md",
     "Volume 1/Program Design/Context Document/V2 CAP Scope.md",
     "Volume 1/Program Design/CAP Design Framework.md",
     "Volume 1/Program Design/Context Document/V1 A&S CAP.md",
-    "Volume 1/Program Design/Context Document/V0 Op Support.md",
     "Volume 1/Roll Ups/Child Safety/Child Safety.md",
     "images/image12.png.md",
     "Volume 4/Reference Reading/Governments & UN/Guidelines for Institutional Childcare, Ethiopia.md",
