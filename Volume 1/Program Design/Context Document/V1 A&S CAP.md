@@ -61,4 +61,40 @@ author: Navneeth
 	- Long time for outcomes to be visible: It might take 15-20 years for a child who enters the system to attain positive adult outcomes. 
 	- Difficulty measuring outcomes: Due to the long duration for outcomes to become visible, the sector focusses primarily on measuring inputs
 	- Consistency of inputs: For consistency and regularly of childhood inputs, funding needs to be sustainable and institutional stability/continuity is key. 
-- 
+- Org Direction / Mission: An anchor institution operating in research, upgradation and aggregation of CCIs and operating on the ground to fill systemic gaps in India’s child care sector (ecosystem).
+- The organization addresses various problems faced by the key stakeholders: 
+	- Solve for scale 
+	- Minimises risk 
+	- Fills systemic gaps
+	- Fixes knowledge deficit
+	- Builds intellectual capital / establishes sector 
+	- Capital mobilization & infusion
+
+
+
+# Opportunities & Risks
+- Opportunity / Risks:
+- Operating at a training & partnership level, scaling quality child care by utilizing the reach of the 1000s of small, under-resourced neglected CCIs.
+- Acquiring influence without risks associated with ownerships / operations. Can attach a name to it. Describe it as franchising instead of ownership. ie. Franchise 2.0, Acquisition 2.0.
+- Due to the lack of profit motive, it is imperative that we work with existing players. 
+- Scale issues due to lack of incentives. Strategically sacrifice some quality in the interest of scale.
+- This plays the role of professionalizing the sector. Warden isn’t a profession like teacher, doctor or nurse. 
+	- Advantages: 
+	- asset light, 
+	- cost-efficient, 
+	- fast, 
+	- breaks scale wall, 
+	- side steps the regulatory risks
+	- fills a crucial sector gap. 
+- Infra upgrade is a lowest hanging, significant fruit that utilises partnership models to rapidly upgrade infrastructure in small CCIs. 
+	- Advantages: fast, tangible, straight forward, CSR fit. 
+
+
+# CAP Definition
+- A vast majority of children living in CCIs are served by small, under-resourced, unorganized operators facing resource crunches in terms of know-how, finances, manpower and support systems. 
+- The larger players invariably seem to hit a scale wall at around 5000-7000 children which is too small a number given the size of the problem (estimates of children-in-need-of-care-and-protection vary between 4 lakhs to 2 crores). 
+- Besides this, the fact that state capacity is severely limited (<5% of CCIs in Bangalore, Chennai & Kochi), the only available solution to bring about sector level change in the quality of child care in the short & medium term is to work on aggregation and capacity building of the smaller, individual CCIs. In our opinion, this is also the most scalable model even in the long term. 
+- The Capacity Accelerator Program is designed to help the small CCIs upgrade and build capacity to offer the gold standard in child care. The Program will provide a standardized framework for quality upgradation and support CCIs through grants, training and embedded management support. 
+- This will give us the ability to ensure the delivery of quality child care at a scale beyond that which is achievable through a direct operator model. 
+- Within 10 years, this Program will impact 70,000 children annually across 2000 CCIs in 20 cities while bringing an additional 300 Cr annual funding into the sector -- thereby altering the face of CCI ecosystem in India. 
+
