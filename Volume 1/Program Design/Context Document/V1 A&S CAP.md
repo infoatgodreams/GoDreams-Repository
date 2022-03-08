@@ -52,4 +52,13 @@ author: Navneeth
 	- Caregiving not a professional discipline
 	- Training infrastructure is missing
 - Lack of financial capital
-	- 
+	- Market Failure : Incentives in the market don't align with increasing the funding available to institutions. 
+	- State Failure: The constituency of children in institutions is not electorally significant, leading to a lack of investment in the issue. 
+- Problem of attention
+	- Not a state priority: Lack of funding and time put into the space means the policy environment is hostile to on ground operators, as it is not based in data.
+	- Not a societal priority: Charity mindset and ad-hoc inputs focused approach leads to neglect and apathy. Low media focus unless mishaps happen. 
+- Problem of duration
+	- Long time for outcomes to be visible: It might take 15-20 years for a child who enters the system to attain positive adult outcomes. 
+	- Difficulty measuring outcomes: Due to the long duration for outcomes to become visible, the sector focusses primarily on measuring inputs
+	- Consistency of inputs: For consistency and regularly of childhood inputs, funding needs to be sustainable and institutional stability/continuity is key. 
+- 
