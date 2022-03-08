@@ -51,7 +51,7 @@ author: Navneeth
 	- Care Services increase in intensity from:
 		- Low Intensity, High Coverage:  Specialized services for families with additional needs
 		- Medium Intensity and Coverage: Targeted support for families and children at risk
-		- High Intensity and Coverage: Universal support for caregivers and children
+		- High Intensity and low Coverage: Universal support for caregivers and children
 	- Majority of CCIs currently not operating at a level where they can access/qualify for funding from grant making organizations
 		- They have a capacity and capability deficit caused due to lack of resources
 	- **Lack of Resources/Money**:
