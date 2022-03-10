@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f76d0d044e3d7675",
+        "id": "f59e2cd2b6164090",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
+            "file": "Volume 1/Roll Ups/Mental Health/Mental Health.md",
             "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -69,12 +71,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
+                "file": "Volume 1/Roll Ups/Mental Health/Mental Health.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "reali",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -86,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
+                "file": "Volume 1/Roll Ups/Mental Health/Mental Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,17 +111,17 @@
     "direction": "horizontal",
     "width": 420
   },
-  "active": "f76d0d044e3d7675",
+  "active": "f59e2cd2b6164090",
   "lastOpenFiles": [
-    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
     "Volume 1/Roll Ups/Mental Health/Mental Health.md",
+    "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Working with Children Sensitively.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Counsel to Secure Justice/CSJ_Connecting to children in the observation homes of Rajasthan.md",
+    "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Psychosocial distress and coping mechanism of Orphan Children in Institutional Care in Delhi.md",
+    "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Mental Health at CCIs during Covid-19_Prerana Guide.md",
     "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries.md",
     "Volume 1/Roll Ups/Child Safety/Child Safety.md",
     "conflict-files-obsidian-git.md",
-    "Volume 4/Guidelines for Institutional Childcare - Ethiopia.md",
-    "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-    "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
-    "Home.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Child Protection Policy.md"
+    "Volume 4/Guidelines for Institutional Childcare - Ethiopia.md"
   ]
 }
