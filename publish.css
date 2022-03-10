@@ -1201,14 +1201,6 @@ For a fun quotemark:
 }
 
 
-/* ----------------------------------- */
-/* Hide irrelevant documents */
-/* ----------------------------------- */
-/*.tree-item-self:not([data-path^='Bible Study Kit']):not([data-path^='Scripture (WEB)']):not([data-path^='✌️ Welcome']):not([data-path^='✝️*/ 
-/*Faith']):not([data-path^='🌱 About']):not([data-path^='💭 Interests']):not([data-path^='📚 Books']):not([data-path^='🗞 Blog']):not([data-path^= */
-/* 'Sign up for my Newsletter! 📮']):not([data-path^='💞 Favourites']) {*/
-/*  display: none; */
-/*} */
 
 /* ----------------------------------- */
 /* Side logo */
@@ -1217,10 +1209,10 @@ For a fun quotemark:
   text-align: center;
   margin: 0 auto;
 }
-/*.site-body-left-column-site-name::before {*/
- /*   background: none;*/
- /*   display: block;*/
- /*   content: url(https://publish-01.obsidian.md/access/7468061a2fce94dfd507e531380e776b/garden-icon.svg);*/
-/*    width: 60%;*/
-/*    margin: 0 auto;*/
-/*}*/
+.site-body-left-column-site-name::before {
+   background: none;
+   display: block;
+   content: url(https://i.imgur.com/JPBUSMl.png);
+   width: 60%;
+   margin: 0 auto;
+}
