@@ -52,53 +52,19 @@
         "direction": "horizontal"
       },
       {
-        "id": "19328fd436b4de90",
-        "type": "split",
+        "id": "7ba6617c6d8613b5",
+        "type": "leaf",
         "dimension": 54.73186119873817,
-        "children": [
-          {
-            "id": "7ba6617c6d8613b5",
-            "type": "leaf",
-            "dimension": 27.548209366391184,
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Volume 1/Program Design/CAP Design Framework.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Program Design/CAP Design Framework.md",
+            "mode": "source",
+            "source": false
           },
-          {
-            "id": "f25b37e1210e00e4",
-            "type": "leaf",
-            "dimension": 36.225895316804404,
-            "pinned": true,
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Volume 1/Volume 1 Public Resource Links/Program Design/Guardians-of-dreams-logo-Dark-(transparent-bg) (2).png"
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "5ac08f5e34b112e8",
-            "type": "leaf",
-            "dimension": 36.225895316804404,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
+          "pinned": true
+        }
       }
     ],
     "direction": "vertical"
@@ -154,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Volume 1/Program Design/Context Document/V0 Op Support.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Volume 1/Program Design/Context Document/V0 Op Support.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,16 +161,16 @@
     "width": 420,
     "collapsed": true
   },
-  "active": "5ac08f5e34b112e8",
+  "active": "944456d19f56d0ad",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Volume 1/Program Design/Context Document/V0 Op Support.md",
     "Volume 1/Volume 1 Public Resource Links/Program Design/Guardians-of-dreams-logo-Dark-(transparent-bg) (2).png",
+    "conflict-files-obsidian-git.md",
     "Home.md",
     "Volume 1/Program Design/Context Document/V1 A&S CAP.md",
     "Volume 1/Volume 1 Public Resource Links/Program Design/Program&techecosystem.png",
     "Volume 1/Program Design/Context Document/V2 CAP Scope.md",
     "Volume 1/Program Design/CAP Design Framework.md",
-    "Volume 1/Program Design/Context Document/V0 Op Support.md",
     "Volume 1/Roll Ups/Child Safety/Child Safety.md",
     "images/image12.png.md"
   ]
