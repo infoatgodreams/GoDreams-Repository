@@ -6,7 +6,7 @@
       {
         "id": "8891ee40147b8add",
         "type": "split",
-        "dimension": 45.26813880126183,
+        "dimension": 62.323561346362645,
         "children": [
           {
             "id": "944456d19f56d0ad",
@@ -54,7 +54,7 @@
       {
         "id": "7ba6617c6d8613b5",
         "type": "leaf",
-        "dimension": 27.365930599369086,
+        "dimension": 37.67643865363735,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -64,19 +64,6 @@
             "source": false
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "8e1eb32f54d744bd",
-        "type": "leaf",
-        "dimension": 27.365930599369086,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
-            "mode": "source",
-            "source": false
-          }
         }
       }
     ],

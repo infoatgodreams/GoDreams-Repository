@@ -1200,5 +1200,7 @@ For a fun quotemark:
     display: none;
 }
 
-
+.nav-view-outer {
+    margin-bottom: 1px;
+}
 
