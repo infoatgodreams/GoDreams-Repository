@@ -54,7 +54,7 @@
       {
         "id": "7ba6617c6d8613b5",
         "type": "leaf",
-        "dimension": 54.73186119873817,
+        "dimension": 27.365930599369086,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -64,6 +64,19 @@
             "source": false
           },
           "pinned": true
+        }
+      },
+      {
+        "id": "8e1eb32f54d744bd",
+        "type": "leaf",
+        "dimension": 27.365930599369086,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -164,9 +177,9 @@
   "active": "7ba6617c6d8613b5",
   "lastOpenFiles": [
     "Volume 1/Program Design/CAP Design Framework.md",
+    "conflict-files-obsidian-git.md",
     "Volume 1/Program Design/Context Document/V0 Op Support.md",
     "Volume 1/Volume 1 Public Resource Links/Program Design/Guardians-of-dreams-logo-Dark-(transparent-bg) (2).png",
-    "conflict-files-obsidian-git.md",
     "Home.md",
     "Volume 1/Program Design/Context Document/V1 A&S CAP.md",
     "Volume 1/Volume 1 Public Resource Links/Program Design/Program&techecosystem.png",
