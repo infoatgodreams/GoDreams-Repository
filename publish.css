@@ -1202,17 +1202,11 @@ For a fun quotemark:
 
 
 
+
 /* ----------------------------------- */
 /* Side logo */
 /* ----------------------------------- */
 .site-body-left-column-site-name {
   text-align: center;
   margin: 0 auto;
-}
-.site-body-left-column-site-name::before {
-   background: none;
-   display: block;
-   content: url(https://i.imgur.com/JPBUSMl.png);
-   width: 60%;
-   margin: 0 auto;
 }
