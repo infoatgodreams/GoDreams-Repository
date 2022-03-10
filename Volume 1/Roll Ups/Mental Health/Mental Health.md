@@ -6,6 +6,7 @@ tags:
 ---
 
 # Current realities in the sector
+
 - In a paper on psychosocial distress among children in institutional care in Delhi, Statistics show that India is home for the 30 million orphan and vulnerable children (OVC), the largest in the South Asian region
 - According to Udayan Care, [^1]Some studies have found that violence in residential institutions is six times higher than violence in foster care, and that children in group care are almost four times more likely to experience sexual abuse than children-in family-based care.16 (Page 17)
 - Small institutions developed on community based models can actually guarantee a healthy growth to specific kinds of children. For example a small group setting with trained staff  can provide the needed therapeutic care-or treatment for children who have suffered trauma or severe abuse or neglect. To enable large sibling groups to-remain together, a residential care setting may also be the best option. 
@@ -16,7 +17,15 @@ tags:
 -  Findings suggested that higher levels of all four components of quality of care (food security, quality of shelter, quality of caregiving, and access to health care services) significantly predicted more positive psychosocial well-being. Compared to the 0% variance explained by care setting in this current model, food security explained 13.4% of the variance in psychosocial well-being, while quality of shelter explained 10%, quality of caregiving explained 8.9%, and access to health care services explained 7.3%. Moreover, mean SDQ total difficulties scores across “high” and “low” levels of quality of care showed differences between care settings to be minimal, and are therefore considered null results.
 - Acc to Udayan Care [^1], the Study on Child Abuse conducted in 2007 by the Ministry of Women and Child Development(MWCD) recorded that 56.73 percent of children in institutions in 13 Indian states reported having been subjected to physical abuse by the staff  members of institutions. (Page 43)
 
-## MOST COMMON DISORDERS THAT AFFECTED CHILDREN IN INSTITUTIONAL CARE
+	### MOST COMMON DISORDERS THAT AFFECTED CHILDREN IN INSTITUTIONAL CARE
+	
+	- Somatic disorders (eating disorders, skin lesions
+	- respiratory disorders, 
+	- digestive disorders, sphincter disorders);
+	- Attachment disorders (unable to attach or permanent fusion attachment);
+	- Behavioural and thinking disorders (mood disorders, delinquency, impulsivity, inhibition, violence, failures in learning)
+	- Self-injury (cuts, burns, bites – prostitution, drug addiction, homelessness), suicide
+	- Psychiatric disorders (anorexia, anxiety neurosis and traumatic childhood psychoses).
 
 
 
