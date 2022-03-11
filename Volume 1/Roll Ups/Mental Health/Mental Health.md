@@ -10,7 +10,6 @@ tags:
 
 - In a paper on psychosocial distress among children in institutional care in Delhi, Statistics show that India is home for the 30 million orphan and vulnerable children (OVC), the largest in the South Asian region
 - According to Udayan Care, [^1]Some studies have found that violence in residential institutions is six times higher than violence in foster care, and that children in group care are almost four times more likely to experience sexual abuse than children-in family-based care.16 (Page 17)
-- Small institutions developed on community based models can actually guarantee a healthy growth to specific kinds of children. For example a small group setting with trained staff  can provide the needed therapeutic care-or treatment for children who have suffered trauma or severe abuse or neglect. To enable large sibling groups to-remain together, a residential care setting may also be the best option. 
 - According to a study on psychosocial well-being conducted by Duke [^2], that used a sample population of 2013 children (923 in institutions and 1,090 community-based care settings) from Cambodia, Hyderabad, Nagaland, Kenya, Tanzania, Ethipia, Child psychosocial well-being across “high” and “low” levels of quality of care showed negligible differences between residential- and community-based care settings, suggesting the important factor in child well-being is quality of care rather than setting of care. 
 - Several oft-cited studies of infant children who lived in socially and emotionally deprived institutions in Europe have concluded that institutional care is damaging to the development of young children relative to community-based foster care. Indeed, some studies demonstrated powerful negative effects of deprivation on infant development, and positive development when the infants were moved to live with well trained and paid foster parents.[18,24] These studies of infants in a very specific and negative caregiving environment have been generalized to a belief that all residential care settings across the world must have the same poor caregiving characteristics: high child-to-caregiver ratios, shift work, low compensation for caregivers, regimented and non-individualized care, and a lack of psychological investment in the children.
 - In addition, Whetten et al.[37] found that children in residential care centers across five LMICs (Cambodia, India, Kenya, Tanzania, and Ethiopia) fared better than those in community settings on several outcomes, including physical health, behavioral and emotional health, intellectual functioning, and memory. They also reported great variability between individuals within care settings (larger than variability between sites or variability between care settings within a site), and after adjusting for sites, age, and gender, discovered that residential care vs. community-based care settings explained only 0.3–7% of the variability in child outcomes.
@@ -70,7 +69,6 @@ tags:
 - Secure attachment in childhood makes us grow up with a view of ourselves as secure and competent, and of the world as safe. Secure attachment buffers the impact of trauma, it basically keeps humans alive.
 - The risk of developmental and psychological damage is particularly acute for young children under the age of four, which is a critical period for children to bond to their parents or care-givers. Even in a very well-equipped institution with focused staff , it is unlikely that the attention they would receive by the personnel could replace good parental care.71
 - [4]Bowlby (1969/1982), the architect of attachment theory, proposed that human infants, like the young of many other species, have a need to form attachments to primary caregivers. The attachment system serves to enhance the child’s likelihood of survival (andthus survival of the genes) because the infant seeks to maintain proximity to the caregiver under conditions of threat. (Page 3)
-- 
 
 
 ### ATTACHMENT STRUGGLES
@@ -123,7 +121,7 @@ tags:
 ### CARE PRACTICES 
 - At Miracle Foundation, [^6] Earlier, during meal time children stood in a line, were served food, after which they sat in the dining room and ate quietly. There was no concept of house parents sitting with the children, narrating stories, paying attention to whether children were eating properly or not [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md), whereas with setting up of family units, children sat in groups with their respective house parents, talked about their day at school and had fun. This helped to strengthen the bond and attachment between the house parents and the children. (Page 11)
 - According to a review paper on institutional care [^8]The number of children each caregiver has under her care seems to be crucial, with larger groups of children experiencing difficulties in establishing a secure attachment, while smaller groups facilitate security (Page 30)
-- 
+- Small institutions developed on community based models can actually guarantee a healthy growth to specific kinds of children. For example a small group setting with trained staff  can provide the needed therapeutic care-or treatment for children who have suffered trauma or severe abuse or neglect. To enable large sibling groups to-remain together, a residential care setting may also be the best option. 
 
 
 ### CONSTRAINTS OF AN INSTITUTIONAL SETTING
@@ -148,6 +146,14 @@ tags:
 	- The quality and diversity of care
 	- Self-esteem and resilience of each child. (Page 62)
 
+## TRAUMA INFORMED CARE
+- The model of TIC used in this article comes from Institute on Trauma and Trauma-Informed Care at the University of Buffalo, and is based on Harris and Fallot’s Using Trauma Theory to Design Service Systems(Page 3)
+- The five guiding principles of TIC-Trauma Informed Care
+	•Safety: Ensuring individual’s physical and emotional safety. 
+	•Choice: Individual has choice and control. They are made well aware oftheir rights and responsibilities. 
+	•Collaboration: Making decisions with the individual and sharing powerincreases participation in and effectiveness of services. 
+	•Trustworthiness: Task clarity, consistency and interpersonal boundaries between an individual and her/his care provider. 
+	•Empowerment: Building on individuals’ strength and developing coping skills for them to fall back on if and when services stop. Individuals feel validated and affirmed with every contact with the agency. (Page 3)
 
 
 
