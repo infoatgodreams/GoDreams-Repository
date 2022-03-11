@@ -101,6 +101,25 @@ tags:
 - [^8]Many of these evidenced a negative impact of residential environments on attachment styles compared to family environments (Barone et al., 2016; Quiroga & Hamilton-Giachritsis, 2017; Vacaru et al., 2018), (Page 38)
 ### INTERVENTIONS 
 - According to a review paper on institutional care[^8], Use of the Attachment Regulation and Competency framework inresidential care was found to be associated with a reduction in post-traumatic stress symptomology, (Page 32)
+- [[Attachment and Bio-Behavioral Catchup Approach (ABC)]]
+- The ABC intervention targets regulatory issues, attachment quality, and indiscriminatesociability. 
+- The original ABC intervention model had been shown to be effective with high-risk birth children and with foster children (Bernard et al., in press; Dozier et al., 2006). 
+- The adapted intervention is currently being tested in a randomized clinical trial with internationally adopted children. 
+- Three issues targeted in the intervention are described below:
+	- The first component of ABC targets children’s self-regulatory capabilities by helping parents to learn to behave in synchronous ways with their children. 
+		- This component is adapted from interventions that have targeted the importance of interactional synchrony in enhancing regulatory capabilities among infants(Calkins, 2011). 
+		- Shonkoff and colleagues (Shonkoff & Bales, 2011; Shonkoff,Boyce, & McEwen, 2009) have suggested that such interactions be referred to as“serve and return” in that the caring adult “returns” the child’s “serve.” For example, when a child bangs two blocks together, the parent is urged to follow along (e.g., banging two blocks together herself or commenting on what the child is doing) rather than to direct the play (e.g., suggest that the child build a tower orcomment on the color or shape of the blocks).
+		- Children who have been institutionalized are often dysregulated biologically (e.g.,as seen in HPA axis functioning), and behaviorally (e.g., as seen in problems in sustained attention). It is expected that this intervention component will enhance children’s cortisol regulation, attention, and behavioral control. 
+		- In randomized clinical trials with foster and high-risk children living with their birth parents, the intervention has been found to enhance cortisol regulation and behavioral outcomes(Dozier et al., 2006; Dozier et al., 2009; Dozier, Peloso, Lewis, Laurenceau, &Levine, 2008). (Page 11).
+- In the intervention, adoptive parents are helped to reinterpret their children’s behavioral signals, providing nurturance even when it is not elicited. 
+	- This intervention component is expected to enhance parental nurturance, and to enhance children’s attachment quality. 
+	- Stovall and Dozier (Stovall & Dozier, 2000;Stovall-McClough & Dozier, 2004) found that children who experienced early adversity often behave in avoidant or resistant ways (e.g., turning away from caregivers when distressed), eliciting complementary behaviors from their parents
+-  The final issue addressed by the ABC intervention is indiscriminately sociable behaviors.
+	-  These behaviors are targeted by helping adoptive parents recognize thesigns of indiscriminate sociability and develop strategies for discouraging thebehavior.
+	-  Decreased indiscriminate sociability is expected as a result of this intervention component. 
+	- We do not yet have data that suggest whether we will be successful in affecting this behavior because we have not targeted this behavior in other interventions. (Page 11)
+- In our randomized clinical trial with high-risk birthparents, only 32% of the children whose parents received the ABC intervention showed disorganized attachments, as contrasted with 57% of the children whose parents received the control intervention (Bernard et al., 2011). (Page 11)
+
 ### CARE PRACTICES 
 - At Miracle Foundation, [^6] Earlier, during meal time children stood in a line, were served food, after which they sat in the dining room and ate quietly. There was no concept of house parents sitting with the children, narrating stories, paying attention to whether children were eating properly or not [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md), whereas with setting up of family units, children sat in groups with their respective house parents, talked about their day at school and had fun. This helped to strengthen the bond and attachment between the house parents and the children. (Page 11)
 - According to a review paper on institutional care [^8]The number of children each caregiver has under her care seems to be crucial, with larger groups of children experiencing difficulties in establishing a secure attachment, while smaller groups facilitate security (Page 30)
