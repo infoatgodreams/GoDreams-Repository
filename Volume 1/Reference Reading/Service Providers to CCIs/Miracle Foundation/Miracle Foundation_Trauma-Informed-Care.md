@@ -8,7 +8,7 @@ Tags: [TIC-Trauma Informed Care](TIC-Trauma%20Informed%20Care)  [Child Profile](
 Status: [ReferenceReading](ReferenceReading)
 Link: https://drive.google.com/file/d/1XoYO7EMTQ4h07bsPBPFXp2wQ_jy6Q6Hn/view?usp=sharing
 ## Trauma Informed Care
-- The article defines the principles of TIC-Trauma Informed Care: safety, choice, collaboration, trustworthinessand empowerment. (Page 1) 
+- The article defines the principles of TIC-Trauma Informed Care: safety, choice, collaboration, trustworthiness and empowerment. (Page 1) 
 - Evidence indicates that early separation from parents is a risk factor for developing a chronic response to traumatic stressors, meaning that an individual would beless able to positively cope with negative stressors that come up in their life(Udayan Care, 2014). (Page 2)
 - regimented nature and lack of individualized care (Child Profile) in institutions can further enable or add additional trauma. Such conditions can result in poor life outcomes for children after they leave CCIs: 
 	 •Cognitive and emotional developmental issues such as lower IQ, poorattachment, behavioural issues and distrust of others (Center on theDeveloping Child, 2007). 
