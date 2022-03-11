@@ -17,7 +17,7 @@ Context:
 
  *Highlight [page 4]:* A semi-structured open-ended guideline was used to gather data from respondents. This guideline covered information of children’s background, their admission in the orphanage, education, nutrition and physical, psychological and social wellbeing
 
- *Highlight [page 5]:* Most children were happy to be in the orphanage because they not only got access to food, clothing, and shelter but also to the health and educational facilities. A
+ *Highlight [page 5]:* Most children were happy to be in the orphanage because they not only got access to food, clothing, and shelter but also to the health and educational facilities. 
 
  *Highlight [page 6]:* On the contrary few children expressed their grief over residing in the orphanage. They criticized the sub-standard conditions of the orphanage and poor quality of facilities
 

@@ -20,13 +20,13 @@ Link: https://drive.google.com/file/d/1SlSecmlye3dZoMYh06tW3y3oDqBGmETN/view?usp
 
 # Mental Health
  ## [[Volume 1/Roll Ups/Indiscriminately Sociable Behavior]] : 
-- Indiscriminately sociable behavior refers to children’s lack of reticence with unfamiliar adults, willingness to approach and engage strangers, and failure to maintain proximity toattachment figures in unfamiliar settings. 
+- Indiscriminately sociable behavior refers to children’s lack of reticence with unfamiliar adults, willingness to approach and engage strangers, and failure to maintain proximity to attachment figures in unfamiliar settings. 
 - Bowlby (1969/1982), the architect of attachment theory, proposed that human infants, like the young of many other species, have a need to form attachments to primary caregivers. The attachment system serves to enhance the child’s likelihood of survival (andthus survival of the genes) because the infant seeks to maintain proximity to the caregiver under conditions of threat. (Page 3)
--  O’Connor and colleagues (O’Connor et al., 2000;O’Connor & Zeanah, 2003) have emphasized the lack of social boundaries among childrenwith this behavior pattern. Zeanah et al. (2005) found that 44% of institutionalized children showed high levels of indiscriminately sociable behavior as contrasted with 18% of children who had never been institutionalized. (Page 6)
+-  O’Connor and colleagues (O’Connor et al., 2000;O’Connor & Zeanah, 2003) have emphasized the lack of social boundaries among children with this behavior pattern. Zeanah et al. (2005) found that 44% of institutionalized children showed high levels of indiscriminately sociable behavior as contrasted with 18% of children who had never been institutionalized. (Page 6)
 - Interventions for post-institutionalized children that have gained considerable attention among adoptive parents and clinicians are sometimes called “attachment therapy” (Cline, 1992; Keck & Kupecky, 1995) or “holding therapy.”
-	- Many of these interventions use coercive techniques, such as rage induction or forcedholding.
+	- Many of these interventions use coercive techniques, such as rage induction or forced holding.
 	-  A number of researchers have called such therapies into question (e.g., Chaffin etal., 2006; Lilienfield, 2007; Pignotti & Mercer, 2007), suggesting that the treatment may actually be harmful to children and families. In fact, at least six children have died fromcoercive holding therapies (Chaffin et al., 2006). This illustrates the urgency of developingevidence-based practice for this population. (Page 9)
-- the experience of visiting institutions is likely to bepowerful for many donors because institutionalized children, often displaying signs of indiscriminately sociability, make visitors feel valued and needed.  (Page 12)
+- the experience of visiting institutions is likely to be powerful for many donors because institutionalized children, often displaying signs of indiscriminately sociability, make visitors feel valued and needed.  (Page 12)
 - An education effort should target helping donors and volunteers develop a sophisticated understanding of institutional care and its effects,  (Page 12)
 ## Cognitive Functioning
 -  To assess cognitive functioning at the level of differential brain activation, Marshall, Fox,and the BEIP Core Group (2004) examined differences in alpha and theta power throughelectroencephalogram (EEG) data among institutionalized and never institutionalized children. 
