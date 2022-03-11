@@ -157,6 +157,8 @@ tags:
 	•Trustworthiness: Task clarity, consistency and interpersonal boundaries between an individual and her/his care provider. 
 	•Empowerment: Building on individuals’ strength and developing coping skills for them to fall back on if and when services stop. Individuals feel validated and affirmed with every contact with the agency. (Page 3)
 
+# COMMON MENTAL HEALTH DIFFICULTIES- CHILDREN'S PERSPECTIVE 
+
 
 
 

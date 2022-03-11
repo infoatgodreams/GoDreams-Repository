@@ -16,6 +16,18 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "0b93a924375a893d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Psychosocial distress and coping mechanism of Orphan Children in Institutional Care in Delhi.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -76,7 +88,7 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "trauma",
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -115,14 +127,14 @@
   "active": "f59e2cd2b6164090",
   "lastOpenFiles": [
     "Volume 1/Roll Ups/Mental Health/Mental Health.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
+    "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Psychosocial distress and coping mechanism of Orphan Children in Institutional Care in Delhi.md",
     "Volume 1/Roll Ups/Child Safety/Child Safety.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Counsel to Secure Justice/CSJ_Connecting to children in the observation homes of Rajasthan.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
     "Volume 1/Reference Reading/Research Papers/India/Multidimensional Scale for Child Sexual Abuse (MSCSE).md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
     "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Mental Health at CCIs during Covid-19_Prerana Guide.md",
     "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Institutional Care Model Author_ Prerana Org.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
-    "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Udayan Care/UdayanCare_Standards Of Care in Child Care Institutions.md"
+    "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md"
   ]
 }
