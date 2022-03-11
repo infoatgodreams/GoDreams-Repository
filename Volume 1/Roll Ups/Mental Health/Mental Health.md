@@ -29,7 +29,11 @@ tags:
 	- child maltreatment has been related to epigenetic changes in the stress response axis (Hecker, Radtke, Hermenau, Papassotiropoulos, &amp; Elbert, 2016; McGowan et al., 2009)
 	- Usually, the child care institutions are able to offer basic provisions of food and shelter, but they lack adequate means to offer sensitive, child-oriented care, possibly leading to the emotional and physical neglect of many children (Oliveira et al., 2012; Vashchenko et al., 2010)
 	- the reported worldwide rates of violence against children in institutional care were 6 times higher than those of children living in family-based foster care
-- 
+- According to Miracle Foundation [^6], 
+	- - Evidence indicates that early separation from parents is a risk factor for developing a chronic response to traumatic stressors, meaning that an individual would beless able to positively cope with negative stressors that ome up in their life(Udayan Care, 2014). 
+	- regimented nature and lack of individualized care (Child Profile) in institutions can further enable or add additional trauma. Such conditions can result in poor life outcomes for children after they leave CCIs: 
+		 •Cognitive and emotional developmental issues such as lower IQ, poorattachment, behavioural issues and distrust of others (Center on theDeveloping Child, 2007). 
+		 •Increased likelihood of becoming victims of trafficking, exploitation,substance abuse and suicide (Pashkina, 2001; Udayan Care, 2014). (Page 2)
 
 
 
@@ -46,6 +50,23 @@ tags:
 	- Psychiatric disorders (anorexia, anxiety neurosis and traumatic childhood psychoses).
 
 ## ATTACHMENT
+### INFANT ATTACHMENT BEHAVIOURS
+- According to Udayan Care[^1], The most important emotional ties a child builds are those created before s/he reaches five years of age; (Page 56)
+- Infant Attachment Behaviours
+- Young Child Attachment Behaviours
+- Adolescent Attachment Behaviours
+	- Smiling
+	- Reaching
+	- Vocalising• Crying• Crawling• Walking• Affection• Comfort Seeking• Reliance on caregiver for help• Cooperation• Exploration• Controlling behaviour• Reunion response• Response to strangers• Active avoidance of caregiver in times of stress• Emphasis on the exploratory aspects of the attachment systems • Autonomy-seeking behaviour in adolescence is positively correlated to secure infant attachment• Expansion of attachment relationships into intimate peer relationships (Page 57)
+
+### ATTACHMENT STRUGGLES
+- In a qualitative interview study of children in a home in Delhi[^7], children reported that they refrained from interacting with any outsider because they didn’t know what to say and hesitated to put forth their opinions. Attachment disorders were also reported among participants.
+- 
+### INTERVENTIONS 
+### CARE PRACTICES 
+At Miracle Foundation, [^6] Earlier, during meal time children stood in a line, were served food, after which they sat in the dining room and ate quietly. There was no concept of house parents sitting with the children, narrating stories, paying attention to whether children were eating properly or not [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md), whereas with setting up of family units, children sat in groups with their respective house parents, talked about their day at school and had fun. This helped to strengthen the bond and attachment between the house parents and the children. (Page 11)
+
+
 ## ASSESSING TRAUMA RESPONSE IN CHILDREN
 - According to Udayan Care [^1], The impact of trauma for each child can vary extremely and must be correctly evaluated. It depends on different variables:
 	- The age and sex of the child at the time of loss
@@ -64,3 +85,5 @@ tags:
 [^3]: [CSJ_Connecting to children in the observation homes of Rajasthan](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Counsel%20to%20Secure%20Justice/CSJ_Connecting%20to%20children%20in%20the%20observation%20homes%20of%20Rajasthan.md)
 [^4]: [Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI)](Volume%201/Reference%20Reading/Research%20Papers/US/Institutional%20Care%20for%20Young%20Children%20-%20%20Review%20of%20Literature%20and%20Policy%20Implications%20%20(with%20DOI).md)
 [^5]: [Fostering Child Development _ Systematic Review of caregiver training and structural interventions](Volume%201/Reference%20Reading/Research%20Papers/US/Fostering%20Child%20Development%20_%20Systematic%20Review%20of%20caregiver%20training%20and%20structural%20interventions.md)
+[^6]: [Miracle Foundation_Institutionalised Children_Explorations and Beyond](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Miracle%20Foundation/Miracle%20Foundation_Institutionalised%20Children_Explorations%20and%20Beyond.md)
+[^7]: [Psychosocial screening and monitoring for children in foster care_ a dutch study](Volume%201/Volume%201%20Public%20Resource%20Links/Queue/Mental%20Health/Psychosocial%20screening%20and%20monitoring%20for%20children%20in%20foster%20care_%20a%20dutch%20study.pdf)
