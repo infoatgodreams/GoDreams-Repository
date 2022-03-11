@@ -137,6 +137,8 @@ tags:
 • Only a limited set of livelihood training programmes can be made available – not sufficient to cater to individual future aspirations.
 • Limited access to the outer world due to lack of mobility and exposure.
 
+# TRAUMA
+
 ## ASSESSING TRAUMA RESPONSE IN CHILDREN
 - According to Udayan Care [^1], The impact of trauma for each child can vary extremely and must be correctly evaluated. It depends on different variables:
 	- The age and sex of the child at the time of loss
