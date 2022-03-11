@@ -161,6 +161,7 @@ tags:
 - Practitioners, to ensure that children do not suffer additional victimisation through adverse labelling. (Page 64)
 - We need to ensure ties are maintained between children in institutions and their families.Siblings have to be kept together in institutions and in cases of adoption (Page 65)
 - Caregivers should be as constant as possible and, when about to leave their jobs for any reason, they should know how toprepare the children to de-attach. (Page 66)
+- Bedwetting incidents decreased significantly as the children were able to identify and express their feelings of fear, anger and guilt. (Page 4) 
 
 # COMMON MENTAL HEALTH DIFFICULTIES- CHILDREN'S PERSPECTIVE 
 
