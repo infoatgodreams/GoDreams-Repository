@@ -126,24 +126,12 @@ _67 pages brought down to 26 pages_
 The life of a child living in a CCI is very different from their life in the family. Thus, the JJA mandates that a child shall only be placed in institutional care as the last resort based on social inquiry.
 
 **1.4. Needs Identified in the Institutional Model**
-
-
-        ● Shelter
-
-
-        ● Health
-
-
-        ● Development
-
-
-        ● Social Protection/Welfare Schemes
-
-
-        ● Legal
-
-
-        ● Social Integration
+● Shelter
+ ● Health
+ ● Development
+ ● Social Protection/Welfare Schemes
+  ● Legal
+  ● Social Integration
 
 
 
@@ -156,7 +144,7 @@ The life of a child living in a CCI is very different from their life in the fam
  **2.1.1. Social and Legal Status:** The care provided to the child victim must be trauma-informed and sensitive so that they are not re- victimized. The JJA states that a CH must be set up in every district for the placement of a CNCP. Usually, the Superintendent or the person in-charge of the CH (if the CH has been registered previously) coordinates with the State and District authorities about document submissions and maintains regular follow-ups. The State Government may, at times, grant a provisional registration within one month of receiving the application. This provisional registration may be valid for a maximum period of six months. In cases where the provisional registration is not received, the CCI can use the proof of receipt of the application as a provisional registration to run an institution for a maximum period of six months. The State Government may, at times, grant a provisional registration within one month of receiving the application. However, even during this period, it is advisable to communicate with the District WCD Office regularly to check the status of the application. It is also advisable that the CCI informs CWC of all the children residing in the CH. No admissions or discharges from the CCI should be done without their Order.
 
 
-    **Prerana Practices: **The organization has actively practiced, developed, and disseminated protocols on the minimum standards of care and protection for children in institutions. Some of the activities undertaken by Prerana are:
+ **Prerana Practices: **The organization has actively practiced, developed, and disseminated protocols on the minimum standards of care and protection for children in institutions. Some of the activities undertaken by Prerana are:
 
 
 
@@ -172,7 +160,7 @@ The life of a child living in a CCI is very different from their life in the fam
 A provision to this Section also empowers the Central Government to frame Model Rules until such
 
 
-    time as the State Government publishes its own Rules. One objective of the Rules is to ensure that the CH in which a child victim is placed is fit and equipped to provide comprehensive care and protection. Following are certain criteria that have been laid down by the Model Rules (to be adopted by State Government to form their own Rules) to ensure that the children receive due care and protection:
+time as the State Government publishes its own Rules. One objective of the Rules is to ensure that the CH in which a child victim is placed is fit and equipped to provide comprehensive care and protection. Following are certain criteria that have been laid down by the Model Rules (to be adopted by State Government to form their own Rules) to ensure that the children receive due care and protection:
 
 Following are certain criteria that have been laid down by the Model Rules (to be adopted by State	Government to form their own Rules) to ensure that the children receive due care and protection:
 
@@ -227,7 +215,7 @@ of a CH.
     **2.2.2. Access to open society**
 
 
-   	It is important to ensure that the closed setting of the institution does not become the child’s only
+   It is important to ensure that the closed setting of the institution does not become the child’s only
 
 way of life. Even while living in an institution, the child’s contact with the outside world should not be
 
@@ -236,21 +224,21 @@ suspended permanently. Every child should have access to society on a case-to-ca
 interactions of the child must be supervised by the case worker or staff members in the CH. One of
 
 
-    the common ways of ensuring this regular contact is by helping the child access educational and vocational opportunities outside the institution.
+the common ways of ensuring this regular contact is by helping the child access educational and vocational opportunities outside the institution.
 
 The Maharashtra State JJ Rules has the following provisions to ensure the same:
 
 
-    RULE 38(1): Provision of educational opportunities, both inside and outside the premises, as per the age and ability of the victim.
+ RULE 38(1): Provision of educational opportunities, both inside and outside the premises, as per the age and ability of the victim.
 
 
-    RULE 39(1): Provision of vocational training, both inside and outside the premises, as per the age, aptitude, interest and ability.
+ RULE 39(1): Provision of vocational training, both inside and outside the premises, as per the age, aptitude, interest and ability.
 
 
-    RULE 39(3): When a victim attends vocational training outside the premises of the institution, the victim shall be escorted with proper security planning and services.
+ RULE 39(3): When a victim attends vocational training outside the premises of the institution, the victim shall be escorted with proper security planning and services.
 
 
-    RULE 40: Options for recreational facilities may include indoor and outdoor games, picnics and outings, etc.
+RULE 40: Options for recreational facilities may include indoor and outdoor games, picnics and outings, etc.
 
 **Prerana Practices**
 
