@@ -1147,6 +1147,7 @@ For a fun quotemark:
 .nav-view-outer .tree-item-self.mod-active {
   background-color: transparent;
   color: var(--text-accent-hover) !important;
+  margin-left: 1px;
 }
 
 .site-body-right-column {
@@ -1199,6 +1200,5 @@ For a fun quotemark:
 .site-footer {
     display: none;
 }
-
 
 
