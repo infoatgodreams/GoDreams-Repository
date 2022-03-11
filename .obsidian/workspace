@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "7c2a9018691ca87d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7cfbf4b4745c1544",
             "type": "leaf",
             "pinned": true,
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Program Design/Context Document/V0 Op Support.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Program Design/Context Document/V0 Op Support.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,11 +173,11 @@
     "width": 420,
     "collapsed": true
   },
-  "active": "944456d19f56d0ad",
+  "active": "7c2a9018691ca87d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Volume 1/Program Design/Context Document/V0 Op Support.md",
     "Volume 1/Program Design/CAP Design Framework.md",
-    "conflict-files-obsidian-git.md",
     "Volume 1/Volume 1 Public Resource Links/Program Design/Guardians-of-dreams-logo-Dark-(transparent-bg) (2).png",
     "Home.md",
     "Volume 1/Program Design/Context Document/V1 A&S CAP.md",
