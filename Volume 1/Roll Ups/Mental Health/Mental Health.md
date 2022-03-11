@@ -228,6 +228,7 @@ From a qualitative study of children in children's homes in Delhi, following con
 - Children recognizing these gender stereotypes as social constructs paves the way for them to understand their role in perpetuating these, as well as in the adverse impact of these stereotypes on them (Page 26)
 - Children increasingly felt comfortable voicing themselves and their opinion in the circle, including expressing actions/thoughts which may not be perceived as socially desirable. (Page 28)
 - children space to think through their strengths and build on these. This allows children to believe that they have something to offer and achieve (Holcomb-McCoy, 2007). (Page 29)
+- 
 
 
 [^1]: [UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Udayan%20Care/UdayanCare_Institutionalised%20Children,%20Seminar%20on%20Standards%20of%20Mental%20Health%20and%20Care.md)
