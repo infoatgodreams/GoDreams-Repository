@@ -21,7 +21,7 @@ Context:
 
  *Highlight [page 6]:* On the contrary few children expressed their grief over residing in the orphanage. They criticized the sub-standard conditions of the orphanage and poor quality of facilities
 
- *Highlight [page 6]:* Psychological problems
+# Psychological problems
 
  *Highlight [page 6]:* Depression and stress: study revealed that the majority of children felt sad and depressed due to their stay in the orphanage and also due to parental bereavement
 
@@ -61,9 +61,7 @@ Context:
 
  *Highlight [page 11]:* v. Substance abuse some older children accepted that many times they smoked and chewed tobacco to avoid tension and be carefree. Some other reported that they often used pain relieving balms as inhalants to relieve tension and anxiety. vi. Self-discrimination: these practices were more common among younger children or those who were new to the atmosphere of the orphanage they often sit alone, cry a lot, skip meals and isolate themselves which was harmful to their wellbeing. vii. Misbehavior: some children accepted that whenever they are stressed, they get irritated very easily on small things and felt agitated and therefore, took out their anger on fellow children and sometimes even on the caregivers. viii. Detachment: some children also reported that to keep the emotions at bay they try not to be sentimental or emotionally attached to people around them. They feel that detachment from others would save and secure them from getting hurt.
 
- *Highlight [page 11]:* Even if all the socio-economic factors shaping child’s 10
-
- *Highlight [page 12]:* IUSSP 2017, CAPETOWN development and achievement are taken out of the equation, parental involvement during the transition from childhood to adolescence and adulthood remains an important predictor of child’s social well-being [36]
+ *Highlight [page 11]:* Even if all the socio-economic factors shaping child’s development and achievement are taken out of the equation, parental involvement during the transition from childhood to adolescence and adulthood remains an important predictor of child’s social well-being [36]
 
  *Highlight [page 16]:* Desforges C, Abouchaar A. The impact of parental involvement, parental support and family education on pupil achievement and adjustment: A literature review Nottingham: Department of Education and Skills Publications; 2003. Report No.: 1 84185 999 0.
 
