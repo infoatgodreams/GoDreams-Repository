@@ -52,6 +52,7 @@ tags:
 ## ATTACHMENT
 ### INFANT ATTACHMENT BEHAVIOURS
 - According to Udayan Care[^1], The most important emotional ties a child builds are those created before s/he reaches five years of age; (Page 56)
+- The risk of developmental and psychological damage is particularly acute for young children under the age of four, which is a critical period for children to bond to their parents or care-givers. Even in a very well-equipped institution with focused staff , it is unlikely that the attention they would receive by the personnel could replace good parental care.71
 - Infant Attachment Behaviours
 - Young Child Attachment Behaviours
 - Adolescent Attachment Behaviours
@@ -66,6 +67,17 @@ tags:
 ### CARE PRACTICES 
 At Miracle Foundation, [^6] Earlier, during meal time children stood in a line, were served food, after which they sat in the dining room and ate quietly. There was no concept of house parents sitting with the children, narrating stories, paying attention to whether children were eating properly or not [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md), whereas with setting up of family units, children sat in groups with their respective house parents, talked about their day at school and had fun. This helped to strengthen the bond and attachment between the house parents and the children. (Page 11)
 
+
+### CONSTRAINTS OF AN INSTITUTIONAL SETTING
+
+• Compulsion to follow an imposed structure in day to day activities.
+• Lack of access to the world outside the boundaries of the institutional structure.
+• Inability to get special care and personalised space.
+• Moral code imposed by the administrative policies of the institutional set up.
+• Lack of provisions to accommodate the change in individual rights when girls turn 18 years of age.
+• Provisions for a counselor are insufficient to appoint competent individuals.
+• Only a limited set of livelihood training programmes can be made available – not sufficient to cater to individual future aspirations.
+• Limited access to the outer world due to lack of mobility and exposure.
 
 ## ASSESSING TRAUMA RESPONSE IN CHILDREN
 - According to Udayan Care [^1], The impact of trauma for each child can vary extremely and must be correctly evaluated. It depends on different variables:

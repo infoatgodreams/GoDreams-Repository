@@ -85,6 +85,17 @@ Link: https://drive.google.com/file/d/10nuywFDUmvMr4wwNlF3qHIJhb096x5Pz/view?usp
 - ion to spend some time out of the institutions alone (Page 84)
 - Children should participate more intensively in the life in institutions, (Page 84)
 
+### CONSTRAINTS OF AN INSTITUTIONAL SETTING
+
+• Compulsion to follow an imposed structure in day to day activities.
+• Lack of access to the world outside the boundaries of the institutional structure.
+• Inability to get special care and personalised space.
+• Moral code imposed by the administrative policies of the institutional set up.
+• Lack of provisions to accommodate the change in individual rights when girls turn 18 years of age.
+• Provisions for a counselor are insufficient to appoint competent individuals.
+• Only a limited set of livelihood training programmes can be made available – not sufficient to cater to individual future aspirations.
+• Limited access to the outer world due to lack of mobility and exposure.
+
 ## Source
 [[Institutionalised _Children_Revised Annotated_Akshay.pdf]]
 
