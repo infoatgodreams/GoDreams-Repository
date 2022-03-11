@@ -210,6 +210,25 @@ From a qualitative study of children in children's homes in Delhi, following con
 ## OBJECTIVES OF SHARING CIRCLES
 - reduce the adverse impact of institutionalization and 
 - build positive impact through promoting social emotional learning. 
+- to learn the five components of social emotional learning are: self-awareness; self-management; social awareness; relationship skills; and responsible decision-making. (Page 11)
+- improving social emotional learning skills (Page 12)
+- empathy for any person they may have harmed (Page 12)
+- empathy for their own families by thinking through the impact on them. (Page 12)
+- a sense of accountability: (Page 12)
+- reducing bullying and violence within the home (Page 12)
+- change in harmful belief patterns. (Page 12)
+
+## POSITIVE OUTCOMES OBSERVED
+- Young girls with low self-esteem began perceiving themselves as more competent and confident after participating in circles (Page 12)
+- Boys with emotional and behavioral disorders showed improved behavior after participating in circles (Page 12)
+- Over four months of circle processes, children have become equipped to identify emotions usingtangible tools such as feeling charts and emotion temperature scales. (Page 15)
+- Crucial learning for children as it helps them to understand that the emotions are transient and do not have to control them or their behaviour. This helps children develop more control over their emotions. (Page 17)
+- - Circles helped children think through how their emotions are separate from their behaviours, and behaviours do not need to be driven by emotions (Page 19)
+- Along with identifying emotions, children indicated an understanding of how emotional experiences can vary in intensity. Art based tools are helpful for children to understand this variance in intensity of emotions (Page 19)
+- Children recognizing these gender stereotypes as social constructs paves the way for them to understand their role in perpetuating these, as well as in the adverse impact of these stereotypes on them (Page 26)
+- Children increasingly felt comfortable voicing themselves and their opinion in the circle, including expressing actions/thoughts which may not be perceived as socially desirable. (Page 28)
+- children space to think through their strengths and build on these. This allows children to believe that they have something to offer and achieve (Holcomb-McCoy, 2007). (Page 29)
+
 
 [^1]: [UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Udayan%20Care/UdayanCare_Institutionalised%20Children,%20Seminar%20on%20Standards%20of%20Mental%20Health%20and%20Care.md)
 [^2]: [Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries](Volume%202/Reference%20Reading/Research%20Papers/Mental%20Health%20Papers/Factors%20affecting%20the%20psychosocial%20wellbeing%20of%20orphan%20and%20separated%20children%20in%20five%20low-%20and%20middle-income%20countries.md)
