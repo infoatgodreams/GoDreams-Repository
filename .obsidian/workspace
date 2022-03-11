@@ -55,8 +55,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -110,19 +109,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420
+    "width": 420,
+    "collapsed": true
   },
   "active": "f59e2cd2b6164090",
   "lastOpenFiles": [
     "Volume 1/Roll Ups/Mental Health/Mental Health.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
+    "Volume 1/Roll Ups/Child Safety/Child Safety.md",
+    "Volume 1/Reference Reading/Research Papers/India/Multidimensional Scale for Child Sexual Abuse (MSCSE).md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
     "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Mental Health at CCIs during Covid-19_Prerana Guide.md",
     "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Institutional Care Model Author_ Prerana Org.md",
     "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
     "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Udayan Care/UdayanCare_Standards Of Care in Child Care Institutions.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
-    "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries.md",
-    "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md"
+    "Volume 1/Reference Reading/Service Providers to CCIs/Udayan Care/UdayanCare_Standards Of Care in Child Care Institutions.md"
   ]
 }
