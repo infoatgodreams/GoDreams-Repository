@@ -229,6 +229,11 @@ From a qualitative study of children in children's homes in Delhi, following con
 - Children increasingly felt comfortable voicing themselves and their opinion in the circle, including expressing actions/thoughts which may not be perceived as socially desirable. (Page 28)
 - children space to think through their strengths and build on these. This allows children to believe that they have something to offer and achieve (Holcomb-McCoy, 2007). (Page 29)
 
+# MONITORING AND EVALUATION
+- It is important to distinguish the monitoring mechanism carried out by independent bodies from the children’s complaint mechanisms. Th e latter should work as a first call at the facility level; the children, or eventually, their-parents or the staff , should be able to communicate any type of concern to the institution’s management. Th independent monitoring mechanisms instead is a national structure, ideally with regional and local outreach, that might be contacted by anybody if a direct approach to the facility is deemed impossible or unsatisfactory inits results.36 (Page 28)
+- . They should be granted access to all information and records about the treatment and condition of children and should be allowed to conduct interviews with children on a confidential basis. Th e inclusion of women as part of the inspection teams is particularly significant where the institution hosts girls.37 (Page 28)
+- Visits are much more effective in terms of promoting sustained improvement in the conditions and treatment of children if they take place regularly and systematically. If visits to the institutions by external commissions are carried out only sporadically, they may do more harm than good. Especially with regard to cases of violence and abuse, visits might create expectations of justice among the children, which are often not fulfilled; they migh tgenerate more violence and abuse in a circle of punishment for spies and reward for silent spectators; and, in a system prone to corruption, external commissions might even be monitored by some lobbies.
+
 # MENTAL HEALTH CONCERNS DURING COVID 
  **Feelings of isolation**: 
     * Many children are experiencing loneliness as their normal routine continues to be put on hold due to the COVID-19 imposed restrictions. 
