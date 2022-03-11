@@ -50,19 +50,25 @@ tags:
 	- Psychiatric disorders (anorexia, anxiety neurosis and traumatic childhood psychoses).
 
 ## ATTACHMENT
-### INFANT ATTACHMENT BEHAVIOURS
+### INTRO TO ATTACHMENT
 - According to Udayan Care[^1], The most important emotional ties a child builds are those created before s/he reaches five years of age; (Page 56)
+- Early attachment accounts for differences in people’s cognition, behaviour, social skills, and emotional responses, and also leads to the development of internal working models.
+- Secure attachment in childhood makes us grow up with a view of ourselves as secure and competent, and of the world as safe. Secure attachment buffers the impact of trauma, it basically keeps humans alive.
 - The risk of developmental and psychological damage is particularly acute for young children under the age of four, which is a critical period for children to bond to their parents or care-givers. Even in a very well-equipped institution with focused staff , it is unlikely that the attention they would receive by the personnel could replace good parental care.71
-- Infant Attachment Behaviours
-- Young Child Attachment Behaviours
-- Adolescent Attachment Behaviours
-	- Smiling
-	- Reaching
-	- Vocalising• Crying• Crawling• Walking• Affection• Comfort Seeking• Reliance on caregiver for help• Cooperation• Exploration• Controlling behaviour• Reunion response• Response to strangers• Active avoidance of caregiver in times of stress• Emphasis on the exploratory aspects of the attachment systems • Autonomy-seeking behaviour in adolescence is positively correlated to secure infant attachment• Expansion of attachment relationships into intimate peer relationships (Page 57)
+
 
 ### ATTACHMENT STRUGGLES
-- In a qualitative interview study of children in a home in Delhi[^7], children reported that they refrained from interacting with any outsider because they didn’t know what to say and hesitated to put forth their opinions. Attachment disorders were also reported among participants.
+**INSECURE ATTACHMENT**
+- A child can also develop insecure attachment when caregivers are generally unavailable or they are rejecting him/her. In this way the infant develops internal representations of low self-worth. Insecure attachment is not a psychopathology but it is a risk factor for it. Possible consequences of insecure attachment are:
+	• Poor self-esteem and self-regulation;
+	• Aggressive/rejecting and/or withdrawn/ isolating relations with peers;
+	• Low frustration tolerance;
+	• Less positive affect;
+	• Lags in cognitive, developmental and academic competence;
+	• Increase in behavioural symptomatology (anxiety and depression).
+- **DISORGANIZED ATTACHMENT**
 - 
+- In a qualitative interview study of children in a home in Delhi[^7], children reported that they refrained from interacting with any outsider because they didn’t know what to say and hesitated to put forth their opinions. Attachment disorders were also reported among participants.
 ### INTERVENTIONS 
 ### CARE PRACTICES 
 At Miracle Foundation, [^6] Earlier, during meal time children stood in a line, were served food, after which they sat in the dining room and ate quietly. There was no concept of house parents sitting with the children, narrating stories, paying attention to whether children were eating properly or not [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md), whereas with setting up of family units, children sat in groups with their respective house parents, talked about their day at school and had fun. This helped to strengthen the bond and attachment between the house parents and the children. (Page 11)
@@ -87,7 +93,7 @@ At Miracle Foundation, [^6] Earlier, during meal time children stood in a line, 
 	- The context of early breaks
 	- The quality and diversity of care
 	- Self-esteem and resilience of each child. (Page 62)
-- 
+
 
 
 
