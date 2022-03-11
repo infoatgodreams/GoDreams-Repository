@@ -156,6 +156,11 @@ tags:
 	•Collaboration: Making decisions with the individual and sharing powerincreases participation in and effectiveness of services. 
 	•Trustworthiness: Task clarity, consistency and interpersonal boundaries between an individual and her/his care provider. 
 	•Empowerment: Building on individuals’ strength and developing coping skills for them to fall back on if and when services stop. Individuals feel validated and affirmed with every contact with the agency. (Page 3)
+- - Words like institutions, residential care facilities andHomes are more appropriate and their widespread usage would reduce the general misconception that children living inthem do not have a family.Besides that, many of the words used to refer to children in institutions might victimise them further, labelling them withtheir past experiences of abuse and neglect, or with their present experience within an institution. M (Page 63)
+- It is important to attend to the language used to deﬁne both institutions and the children living in them, especially among (Page 64)
+- Practitioners, to ensure that children do not suffer additional victimisation through adverse labelling. (Page 64)
+- We need to ensure ties are maintained between children in institutions and their families.Siblings have to be kept together in institutions and in cases of adoption (Page 65)
+- Caregivers should be as constant as possible and, when about to leave their jobs for any reason, they should know how toprepare the children to de-attach. (Page 66)
 
 # COMMON MENTAL HEALTH DIFFICULTIES- CHILDREN'S PERSPECTIVE 
 
