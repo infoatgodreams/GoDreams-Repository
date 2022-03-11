@@ -230,6 +230,46 @@ From a qualitative study of children in children's homes in Delhi, following con
 - children space to think through their strengths and build on these. This allows children to believe that they have something to offer and achieve (Holcomb-McCoy, 2007). (Page 29)
 
 # MENTAL HEALTH CONCERNS DURING COVID 
+ **Feelings of isolation**: 
+    * Many children are experiencing loneliness as their normal routine continues to be put on hold due to the COVID-19 imposed restrictions. 
+    * Children are unable to maintain essential social interactions as schools remain shut, they are unable to meet visitors, donors, or even interact with their family members.
+* **Uncertainty about the future:** Many children residing in CCIs are experiencing distress due to the uncertainty of their future. Some signs of distress observed:
+    * Changes in sleeping and eating habits.
+    * Increased crying.
+    * Increase in conflicts and fights among the residents.
+* Increased mood fluctuation. (anger, sadness, irritability) Compulsive information gathering about COVID-19 especially regarding the end of the lockdown period.
+* Narratives of hopelessness.
+* Thoughts of self-harm such as, ‘I am already dead inside, how does it matter if I live or die’.
+* Seeking out adults to gather COVID related information asking questions such as, ‘When will the lockdown be lifted?
+* Many children are seeking out stability and support during these tough times, prior to COVID they wished to focus on their careers and access After care facilities now they are considering returning to their families.
+* **Feeling stuck**: Children may share feelings of frustration such as being stuck at the Institution especially if their restoration process was previously underway. Some signs of distress that may be observed in them are:
+	* Anger 
+	* Denial 
+	* Irrational thoughts
+* **Re-traumatization:** The lack of control and feeling of helplessness created by the pandemic is akin to their experiences of trauma and may lead to re-experiencing of traumatic memories. Signs include: 
+* **Regressive behavior**: bed-wetting, thumb sucking, using childlike voice, egocentric views, immediate gratifications Compulsive cleaning (especially for victims of sexual trauma).
+* **Changes in sleeping patterns**: insomnia or oversleeping Hypervigilance and increased sensitivity to external sounds, smells, and colors.
+* **Mood fluctuations:** angry, sad, irritable, and frustrated Seeking out support and comfort through regular questions such as.
+* **Lack of understanding of the news:** The influx of information regarding COVID-19 may not always be understood by children.
+* **Concern for family’s well-being**: Children living away from their family are apprehensive of their family’s safety and well-being. Some concerns like: 
+	* Is the family able to procure basic necessities like ration and other essentials to survive.
+	* Worried about their families income
+	* Experiencing guilt of not being with their family or in anticipatory grief that they might not have been able to say goodbye.
+	* In situations where the loved one of a child may pass away, the child may experience intense grief.
+	* Concern about being a burden on their families in times of extreme financial crisis 
+* **Behavioral concerns:** Children are experiencing severe distress and it often manifests in their behavior.
+	* Mood fluctuations i.e.
+	* Unwillingness to do chores.
+	* Decreased interest in activities.
+	* Seeking the comfort of adult caregivers i.e sitting next to them, following them around etc.
+	* Decrease in hygiene.
+	* Inability to concentrate on activities.
+	* Increased impulsivity and reckless behavior i.e.
+* **Anticipatory and disenfranchised grief**: Experiencing difficulty in verbally articulating experiences of grief over events. These feelings may be  manifested in children’s behavior.
+* **Children with special needs**: Children with special needs may find it more difficult to accept the information and adjust to the new normal. They may begin to show a decline in their progress. They are also more likely to be frustrated but find it difficult to articulate the same resorting to self-harm
+* **Relapse to pre-existing mental illness**
+* **Insensitivity of Caregivers:** The lack of sensitive communication with the children may lead to additional feelings of distress among them.
+* **Fear of stigma or discrimination:** Children may have a fear of stigma or discrimination if they have flu-like symptoms.
 
 
 [^1]: [UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Udayan%20Care/UdayanCare_Institutionalised%20Children,%20Seminar%20on%20Standards%20of%20Mental%20Health%20and%20Care.md)
