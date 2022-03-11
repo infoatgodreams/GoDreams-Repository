@@ -80,6 +80,8 @@ tags:
 		- Cycles get repeated when they grow up and have kids of their own.
 
 - In a qualitative interview study of children in a home in Delhi[^7], children reported that they refrained from interacting with any outsider because they didn’t know what to say and hesitated to put forth their opinions. Attachment disorders were also reported among participants.
+- According to a study on fostering [^5], Children may develop a low-quality attachment bond or even lack an attachment relationship altogether in the absence of adequate care
+- Taken together with the experience of violence and abuse, this lack may impact the child’s stress response system, and, in this way, the development and structure of the brain as well. These changes to neurodevelopment may lead to mental health problems, such as depression, post traumatic stress disorder, and internalising and externalising problems
 ### INTERVENTIONS 
 ### CARE PRACTICES 
 At Miracle Foundation, [^6] Earlier, during meal time children stood in a line, were served food, after which they sat in the dining room and ate quietly. There was no concept of house parents sitting with the children, narrating stories, paying attention to whether children were eating properly or not [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md), whereas with setting up of family units, children sat in groups with their respective house parents, talked about their day at school and had fun. This helped to strengthen the bond and attachment between the house parents and the children. (Page 11)
