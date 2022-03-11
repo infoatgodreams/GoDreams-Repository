@@ -190,7 +190,12 @@ From a qualitative study of children in children's homes in Delhi, following con
 
 # BEST PRACTICES IN CCIs
 ## SHARING CIRCLES 
+## What is a circle process and how was it conducted? 
 
+[3]Restorative circles are a talking-based activity which give participants an opportunity to speak and listen to one another in an atmosphere of safety and without hierarchy. (Page 11)
+- Circle processes –a talking-based activity where participants sit in a circle facing each other. Each participant gets an opportunity to speak sequentially. While one person is speaking, others listen to them without interrupting.
+- Circle facilitators/keepers – one or two individuals who facilitate the circle processes.They ask questions which guide the discussion but, apart from that, participate in equal ways as other in the circle.
+- Master Trainers – six designated individuals trained during this project to facilitate restorative circles. (Page 5)
 
 
 
