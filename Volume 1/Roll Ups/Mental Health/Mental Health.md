@@ -197,8 +197,19 @@ From a qualitative study of children in children's homes in Delhi, following con
 - Circle facilitators/keepers – one or two individuals who facilitate the circle processes.They ask questions which guide the discussion but, apart from that, participate in equal ways as other in the circle.
 - Master Trainers – six designated individuals trained during this project to facilitate restorative circles. (Page 5)
 
+## STEPS IN A SHARING CIRCLE
+ Children sit in a circular formation facing each otherso that each person can see the others. (Page 13)
+- Two circle keepers facilitate the process and are also referred to as co-facilitators. (Page 13)
+- Circles use a talking piece, any object which is passed around from one person to the other sequentially (Wilbur, Wilbur, Garrett, & Yuhas, 2001).Each person gets the opportunity to share when they hold the talking piece, while all others are invited to listen to them. (Page 13)
+- Circles use a sequential format, where one person speaks at a time, and the opportunity to speak moves in one direction around the circle. Each person must wait to speak until their turn, and no one may interrupt while another person is speaking. (Page 14)
+- Circles reflect Vygotsky’s constructivist theory of learning, i.e., children learn from their surroundings when the environment is inclusive and supportive (Page 14)
+- Circles are designed in a structured way, planned once a week on a specific day with a specific plan (Mosley, 2016). Each circle plan has distinct stages, with each stage having a predetermined purpose which allow children to feel safe, comfortable, talk, and experience enjoyment. (Page 14)
+- No one is judged based on their performance or the extent of their involvement. (Page 15)
+- All participants are told that participation is voluntary and that they can leave at any time. (Page 15)
 
-
+## OBJECTIVES OF SHARING CIRCLES
+- reduce the adverse impact of institutionalization and 
+- build positive impact through promoting social emotional learning. 
 
 [^1]: [UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Udayan%20Care/UdayanCare_Institutionalised%20Children,%20Seminar%20on%20Standards%20of%20Mental%20Health%20and%20Care.md)
 [^2]: [Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries](Volume%202/Reference%20Reading/Research%20Papers/Mental%20Health%20Papers/Factors%20affecting%20the%20psychosocial%20wellbeing%20of%20orphan%20and%20separated%20children%20in%20five%20low-%20and%20middle-income%20countries.md)
