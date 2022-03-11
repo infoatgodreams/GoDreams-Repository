@@ -145,6 +145,7 @@ tags:
 	- The context of early breaks
 	- The quality and diversity of care
 	- Self-esteem and resilience of each child. (Page 62)
+- According to Prerana [^9] Lack of sensitivity towards the child’s health concerns: The principle of confidentiality is not upheld in the highest regard when addressing a child’s health concerns. In the past, staff of government hospitals have been insensitive towards victims of sexual exploitation. Some CH staff members may also lack the awareness about mental health and disorders, may not be equipped to deal with children who have been through traumatic experiences which may end up in re-victimizing the resident.
 
 ## TRAUMA INFORMED CARE
 - The model of TIC used in this article comes from Institute on Trauma and Trauma-Informed Care at the University of Buffalo, and is based on Harris and Fallot’s Using Trauma Theory to Design Service Systems(Page 3)
@@ -167,3 +168,4 @@ tags:
 [^6]: [Miracle Foundation_Institutionalised Children_Explorations and Beyond](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Miracle%20Foundation/Miracle%20Foundation_Institutionalised%20Children_Explorations%20and%20Beyond.md)
 [^7]: [Psychosocial screening and monitoring for children in foster care_ a dutch study](Volume%201/Volume%201%20Public%20Resource%20Links/Queue/Mental%20Health/Psychosocial%20screening%20and%20monitoring%20for%20children%20in%20foster%20care_%20a%20dutch%20study.pdf)
 [^8]: [Function, quality and outcomes of residential care](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/SOS/Function,%20quality%20and%20outcomes%20of%20residential%20care.md)
+[^9]: [Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI)](Volume%201/Reference%20Reading/Research%20Papers/US/Institutional%20Care%20for%20Young%20Children%20-%20%20Review%20of%20Literature%20and%20Policy%20Implications%20%20(with%20DOI).md)
