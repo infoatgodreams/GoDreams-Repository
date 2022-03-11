@@ -34,6 +34,20 @@ tags:
 	- regimented nature and lack of individualized care (Child Profile) in institutions can further enable or add additional trauma. Such conditions can result in poor life outcomes for children after they leave CCIs: 
 		 •Cognitive and emotional developmental issues such as lower IQ, poorattachment, behavioural issues and distrust of others (Center on theDeveloping Child, 2007). 
 		 •Increased likelihood of becoming victims of trafficking, exploitation,substance abuse and suicide (Pashkina, 2001; Udayan Care, 2014). (Page 2)
+- [8]Romanian orphanages being characterised as offering extremely basic care, with high child to caregiver ratios, minimal personalisation of experience, and ‘severe psycho social deprivation’ (Page 42)
+- - The negative psychological or psycho-social outcomes highlighted by the remaining studies include higher ADHD rates for ‘high deprivation’ groups (Kennedy et al., 2016), lower verbal reasoning and attention compared to family reared children(Barone et al., 2016), lower phonological awareness, nonverbal reasoning, picture vocabulary, kindergarten readiness and pseudo-word decoding (Rakhlin et al., 2017), higher frequency of mental health problems (Rodrigues et al., 2019), and lower cognitive, intellectual, and emotional functions than on- institutionalised children (Deambrosio et al., 2017). (Page 39)
+- The BEIP is a large scale, Randomised Control Trial (RCT) of children and young people who were resident in Romanian orphanages in 2001. RCTs are the ‘gold standard’ of research methodologies due to their lack of potential bias’. Children in the BEIP were randomised into either the ‘Care As UsualGroup’ (CAUG) (the group who remained in institutional care), or ‘High Quality Foster Care Group’(FCG), and a comparison group of non-institutionally raised children were matched by age and gender.Measures were taken at the point of allocation, and the children were followed up at ages eight (2009),twelve (2013), and 16 (2017). (Page 41)
+- 40The findings from the BEIP in relation to outcomes for children and young people who are cared for in institutional settings include
+	- No biological differences between children who were raised in institutional environments and those in the comparison group who had never been cared for in an institutional environment ,nor with those who had been randomised to high quality foster care.
+	- Lower IQ scores for both FCG and CAUG as compared to the comparison group.
+	- Higher levels of callous-unemotional traits among children who experienced any institutional (Page 41)care as opposed to the comparison group. 
+	- Those randomised to the FCG had significantly lower levels of these traits compared to the CAUG. These differences were mediated by caregiver responsiveness to distress in boys.
+	- Children in the FCG were more likely to display adaptive functioning than those in the CAUG, with those placed into the FCG prior to age 20 months more likely to display adaptive functioning than those placed aged 20+ months.
+	- Slight developmental delay in processing of fearful faces in the CAUG compared to the comparison and FCG.
+	- Higher psychopathology among those in CAUG and the FCG compared to the comparison group at ages 8, 12, and 16. The FCG had significantly lower psychopathology than the CAUGat age 16. Particularly high rates of attention problems, poor self-regulation, attachment disorders and anxiety are noted among those who experienced institutional care.
+	- Children who experienced institutional care had reduced cognitive processing speed compared to the comparison group.
+	- Together, the studies demonstrate that while institutional care can result in significant detriment in a wide range of domains, moving to high quality foster care placements can go a long way to mitigating or entirely reversing these detriments. 
+	- Throughout the studies, it is demonstrated that being removed from institutional care and placed in a foster care environment reduced the prevalence of psychiatric disorders, and promoted healthy brain and socio-emotional development. (Page 42)
 
 
 
@@ -55,6 +69,8 @@ tags:
 - Early attachment accounts for differences in people’s cognition, behaviour, social skills, and emotional responses, and also leads to the development of internal working models.
 - Secure attachment in childhood makes us grow up with a view of ourselves as secure and competent, and of the world as safe. Secure attachment buffers the impact of trauma, it basically keeps humans alive.
 - The risk of developmental and psychological damage is particularly acute for young children under the age of four, which is a critical period for children to bond to their parents or care-givers. Even in a very well-equipped institution with focused staff , it is unlikely that the attention they would receive by the personnel could replace good parental care.71
+- [4]Bowlby (1969/1982), the architect of attachment theory, proposed that human infants, like the young of many other species, have a need to form attachments to primary caregivers. The attachment system serves to enhance the child’s likelihood of survival (andthus survival of the genes) because the infant seeks to maintain proximity to the caregiver under conditions of threat. (Page 3)
+- 
 
 
 ### ATTACHMENT STRUGGLES
@@ -82,9 +98,13 @@ tags:
 - In a qualitative interview study of children in a home in Delhi[^7], children reported that they refrained from interacting with any outsider because they didn’t know what to say and hesitated to put forth their opinions. Attachment disorders were also reported among participants.
 - According to a study on fostering [^5], Children may develop a low-quality attachment bond or even lack an attachment relationship altogether in the absence of adequate care
 - Taken together with the experience of violence and abuse, this lack may impact the child’s stress response system, and, in this way, the development and structure of the brain as well. These changes to neurodevelopment may lead to mental health problems, such as depression, post traumatic stress disorder, and internalising and externalising problems
+- [^8]Many of these evidenced a negative impact of residential environments on attachment styles compared to family environments (Barone et al., 2016; Quiroga & Hamilton-Giachritsis, 2017; Vacaru et al., 2018), (Page 38)
 ### INTERVENTIONS 
+- According to a review paper on institutional care[^8], Use of the Attachment Regulation and Competency framework inresidential care was found to be associated with a reduction in post-traumatic stress symptomology, (Page 32)
 ### CARE PRACTICES 
-At Miracle Foundation, [^6] Earlier, during meal time children stood in a line, were served food, after which they sat in the dining room and ate quietly. There was no concept of house parents sitting with the children, narrating stories, paying attention to whether children were eating properly or not [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md), whereas with setting up of family units, children sat in groups with their respective house parents, talked about their day at school and had fun. This helped to strengthen the bond and attachment between the house parents and the children. (Page 11)
+- At Miracle Foundation, [^6] Earlier, during meal time children stood in a line, were served food, after which they sat in the dining room and ate quietly. There was no concept of house parents sitting with the children, narrating stories, paying attention to whether children were eating properly or not [Nutrition](Volume%201/Roll%20Ups/Nutrition/Nutrition.md), whereas with setting up of family units, children sat in groups with their respective house parents, talked about their day at school and had fun. This helped to strengthen the bond and attachment between the house parents and the children. (Page 11)
+- According to a review paper on institutional care [^8]The number of children each caregiver has under her care seems to be crucial, with larger groups of children experiencing difficulties in establishing a secure attachment, while smaller groups facilitate security (Page 30)
+- 
 
 
 ### CONSTRAINTS OF AN INSTITUTIONAL SETTING
@@ -118,3 +138,4 @@ At Miracle Foundation, [^6] Earlier, during meal time children stood in a line, 
 [^5]: [Fostering Child Development _ Systematic Review of caregiver training and structural interventions](Volume%201/Reference%20Reading/Research%20Papers/US/Fostering%20Child%20Development%20_%20Systematic%20Review%20of%20caregiver%20training%20and%20structural%20interventions.md)
 [^6]: [Miracle Foundation_Institutionalised Children_Explorations and Beyond](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Miracle%20Foundation/Miracle%20Foundation_Institutionalised%20Children_Explorations%20and%20Beyond.md)
 [^7]: [Psychosocial screening and monitoring for children in foster care_ a dutch study](Volume%201/Volume%201%20Public%20Resource%20Links/Queue/Mental%20Health/Psychosocial%20screening%20and%20monitoring%20for%20children%20in%20foster%20care_%20a%20dutch%20study.pdf)
+[^8]: [Function, quality and outcomes of residential care](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/SOS/Function,%20quality%20and%20outcomes%20of%20residential%20care.md)
