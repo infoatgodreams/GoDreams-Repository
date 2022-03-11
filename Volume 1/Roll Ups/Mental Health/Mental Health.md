@@ -168,31 +168,25 @@ From a qualitative study of children in children's homes in Delhi, following con
 - The majority of children stated that they still miss their parents and often have a problem falling asleep due to their memories. Seeing other kids with parents often reminded them of their families
 - Social issues
 
- Behavioral disorders:
+## Behavioral concerns:
+- Others reported that they refrained from interacting with any outsider because they didn’t know what to say and hesitated to put forth their opinions. Attachment disorders were also reported among participants.
+- Lack of guidance: the majority of OVC reported that they lack adult guidance and advocacy. Although children were going to school, they didn’t know what to do afterward or what they will do once they go out of the orphanage
+- Rejection: children staying in orphanages often feel rejected and disowned by own people. These dejected children enter children homes which in no ways can replace familial love and affection.
+- Recognition and approval: most of the times OVC have to experience stigmatization by society.
+- Many children reported their concern about whether they will be able to fit in the society or more so be accepted by the society.
+- Security: these children lead a stressful life, and once they go out of orphanage they are likely to slip into poverty. They don’t have any special training or any assurance of a job
+- Isolation: this was the most common problem of children living in institutional care. Most of them felt that they were not free enough to interact with people outside the orphanage.
 
- *Highlight [page 8]:* Others reported that they refrained from interacting with any outsider because they didn’t know what to say and hesitated to put forth their opinions. Attachment disorders were also reported among participants.
-
- *Highlight [page 8]:* Lack of guidance: the majority of OVC reported that they lack adult guidance and advocacy. Although children were going to school, they didn’t know what to do afterward or what they will do once they go out of the orphanage
-
- *Highlight [page 9]:* Rejection: children staying in orphanages often feel rejected and disowned by own people. These dejected children enter children homes which in no ways can replace familial love and affection.
-
- *Highlight [page 9]:* Recognition and approval: most of the times OVC have to experience stigmatization by society.
-
- *Highlight [page 9]:* Many children reported their concern about whether they will be able to fit in the society or more so be accepted by the society.
-
- *Highlight [page 9]:* Security: these children lead a stressful life, and once they go out of orphanage they are likely to slip into poverty. They don’t have any special training or any assurance of a job
-
- *Highlight [page 10]:* Isolation: this was the most common problem of children living in institutional care. Most of them felt that they were free enough to interact with people outside the orphanage.
-
- *Highlight [page 10]:* Coping strategies Children used different coping strategies to deal with psychosocial issues they faced on a day-to-day basis as discussed below. i. Spiritual approach: Most of the children reported that whenever they are worried or upset about something they prayed to the God. They said that they often complained to the God about the hardships of life and felt better.
-
- *Highlight [page 10]:* ii. Supporting inmates: the majority of children said they whenever some children have a problem especially younger ones we try to solve it and support them.
-
- *Highlight [page 10]:* iii. Suppressing feelings: it was found that while most of the children yearned for their parents, some considered that actively suppressing feelings and forgetting about problems associated with parents is the key to psychological recovery and happines
-
- *Highlight [page 10]:* iv. Shifting focus to other activities: many children reported that whenever they felt down, they tried to focus on something else like any activity which made them happy like playing with other inmates, studying, watching television or simply by going to sleep.
-
- *Highlight [page 11]:* v. Substance abuse some older children accepted that many times they smoked and chewed tobacco to avoid tension and be carefree. Some other reported that they often used pain relieving balms as inhalants to relieve tension and anxiety. vi. Self-discrimination: these practices were more common among younger children or those who were new to the atmosphere of the orphanage they often sit alone, cry a lot, skip meals and isolate themselves which was harmful to their wellbeing. vii. Misbehavior: some children accepted that whenever they are stressed, they get irritated very easily on small things and felt agitated and therefore, took out their anger on fellow children and sometimes even on the caregivers. viii. Detachment: some children also reported that to keep the emotions at bay they try not to be sentimental or emotionally attached to people around them. They feel that detachment from others would save and secure them from getting hurt.
+## Coping Strategies
+ 
+- Spiritual approach: Most of the children reported that whenever they are worried or upset about something they prayed to the God. They said that they often complained to the God about the hardships of life and felt better.
+- Supporting inmates: the majority of children said they whenever some children have a problem especially younger ones we try to solve it and support them.
+- Suppressing feelings: it was found that while most of the children yearned for their parents, some considered that actively suppressing feelings and forgetting about problems associated with parents is the key to psychological recovery and happiness
+- Shifting focus to other activities: many children reported that whenever they felt down, they tried to focus on something else like any activity which made them happy like playing with other inmates, studying, watching television or simply by going to sleep.
+- Substance abuse some older children accepted that many times they smoked and chewed tobacco to avoid tension and be carefree. Some other reported that they often used pain relieving balms as inhalants to relieve tension and anxiety. 
+- Self-discrimination: these practices were more common among younger children or those who were new to the atmosphere of the orphanage they often sit alone, cry a lot, skip meals and isolate themselves which was harmful to their wellbeing.
+-  Misbehavior: some children accepted that whenever they are stressed, they get irritated very easily on small things and felt agitated and therefore, took out their anger on fellow children and sometimes even on the caregivers.
+- Detachment: some children also reported that to keep the emotions at bay they try not to be sentimental or emotionally attached to people around them. They feel that detachment from others would save and secure them from getting hurt.
 
 
 
