@@ -18,12 +18,12 @@
         }
       },
       {
-        "id": "e5968f0afedb56b7",
+        "id": "a395bbaab631be40",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
+            "file": "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
             "mode": "source",
             "source": false
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
+                "file": "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
+                "file": "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +124,17 @@
     "direction": "horizontal",
     "width": 420
   },
-  "active": "e5968f0afedb56b7",
+  "active": "a395bbaab631be40",
   "lastOpenFiles": [
-    "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
     "Volume 1/Roll Ups/Mental Health/Mental Health.md",
+    "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Udayan Care/UdayanCare_Standards Of Care in Child Care Institutions.md",
     "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
     "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Mental Health at CCIs during Covid-19_Prerana Guide.md",
     "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries.md",
     "Volume 1/Reference Reading/Research Papers/US/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
-    "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md"
+    "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md"
   ]
 }

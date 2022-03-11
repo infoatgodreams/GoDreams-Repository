@@ -148,6 +148,7 @@ tags:
 
 ## TRAUMA INFORMED CARE
 - The model of TIC used in this article comes from Institute on Trauma and Trauma-Informed Care at the University of Buffalo, and is based on Harris and Fallot’s Using Trauma Theory to Design Service Systems(Page 3)
+- On the latter point, studies point to the implementation of organisation wideapproaches to trauma informed care as a mechanism to prevent staff ‘burnout’ and reduce turnover(Bailey et al., 2019). (Page 30)
 - The five guiding principles of TIC-Trauma Informed Care
 	•Safety: Ensuring individual’s physical and emotional safety. 
 	•Choice: Individual has choice and control. They are made well aware oftheir rights and responsibilities. 
