@@ -159,20 +159,16 @@ tags:
 
 # COMMON MENTAL HEALTH DIFFICULTIES- CHILDREN'S PERSPECTIVE 
 
-From a qualitative study of children in children's homes
- *Highlight [page 6]:* Depression and stress: study revealed that the majority of children felt sad and depressed due to their stay in the orphanage and also due to parental bereavement
+From a qualitative study of children in children's homes in Delhi, following concerns were highlighted by children
 
- *Highlight [page 6]:* Low self-esteem and purpose: children reported low levels of self-esteem and lacked purpose in life. The majority of children felt they were worthless and good for nothing.
+- Depression and stress: study revealed that the majority of children felt sad and depressed due to their stay in the orphanage and also due to parental bereavement
+- Low self-esteem and purpose: children reported low levels of self-esteem and lacked purpose in life. The majority of children felt they were worthless and good for nothing.
+- Loneliness and helplessness: in-depth interviews of participants reflected that most of them were lonely and often felt helpless. Two boys told (12-year-old and 10-year-old) stated that, “We feel we are a burden on others. Nobody is interested to know how was our day at school or how we are feeling. No one bothers about us.”
+- Love and affection: Results also indicated that due to parental bereavement children were longing for love and affection especially the younger ones; they would not understand why they ended up living in an orphanage.
+- The majority of children stated that they still miss their parents and often have a problem falling asleep due to their memories. Seeing other kids with parents often reminded them of their families
+- Social issues
 
- *Highlight [page 7]:* Loneliness and helplessness: in-depth interviews of participants reflected that most of them were lonely and often felt helpless. Two boys told (12-year-old and 10-year-old) stated that, “We feel we are a burden on others. Nobody is interested to know how was our day at school or how we are feeling. No one bothers about us.”
-
- *Highlight [page 7]:* Love and affection: Results also indicated that due to parental bereavement children were longing for love and affection especially the younger ones; they would not understand why they ended up living in an orphanage.
-
- *Highlight [page 8]:* The majority of children stated that they still miss their parents and often have a problem falling asleep due to their memories. Seeing other kids with parents often reminded them of their families
-
- *Highlight [page 8]:* Social issues
-
- *Highlight [page 8]:* Behavioral disorders:
+ Behavioral disorders:
 
  *Highlight [page 8]:* Others reported that they refrained from interacting with any outsider because they didn’t know what to say and hesitated to put forth their opinions. Attachment disorders were also reported among participants.
 
