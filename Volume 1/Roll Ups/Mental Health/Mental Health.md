@@ -188,6 +188,10 @@ From a qualitative study of children in children's homes in Delhi, following con
 -  Misbehavior: some children accepted that whenever they are stressed, they get irritated very easily on small things and felt agitated and therefore, took out their anger on fellow children and sometimes even on the caregivers.
 - Detachment: some children also reported that to keep the emotions at bay they try not to be sentimental or emotionally attached to people around them. They feel that detachment from others would save and secure them from getting hurt.
 
+# BEST PRACTICES IN CCIs
+## SHARING CIRCLES 
+
+
 
 
 
