@@ -66,8 +66,12 @@ tags:
 	• Less positive affect;
 	• Lags in cognitive, developmental and academic competence;
 	• Increase in behavioural symptomatology (anxiety and depression).
+
 - **DISORGANIZED ATTACHMENT**
-- 
+Freud defined attachment important because it creates a stimulus barrier, a sort of protective shield for the child. Every age has in fact appropriate emotional tasks and burdens to be taken. When this protective shield gets broken too early because of emotional abuse, the child will be damaged internally and develop disorganised
+attachment. Disorganised attachment is a pathology, which leads to difficulties in emotional regulation and social function.
+Disorganised attachment is significant in traumatised children because it takes place when the child does not receive enough emotional support, directions and structure by his/her care givers or when the environment surrounding the child is particularly stressful. Continuous changes in the caregiver’s emotional functioning and in mother-child interactions can lead to disorganised attachment.
+
 - In a qualitative interview study of children in a home in Delhi[^7], children reported that they refrained from interacting with any outsider because they didn’t know what to say and hesitated to put forth their opinions. Attachment disorders were also reported among participants.
 ### INTERVENTIONS 
 ### CARE PRACTICES 
