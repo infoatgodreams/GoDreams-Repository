@@ -437,7 +437,7 @@ In addition to the Maharashtra State JJ Rules, Prerana practices the following t
 **Prerana Practices**
 
 
-    Some children are referred to counselors by the case workers while others may directly approach the counselor themselves. The counselor and the staff members try to maintain a non- threatening and non-judgmental conduct, providing the necessary safe space to the children to share their thoughts and feelings. As per the Maharashtra State JJ Rules,** a counseling room is set up** for individual therapy and it is stocked up with stationery, art supplies, and other resources as directed by the counselor. External assistance from practicing psychiatrists is also sought.
+Some children are referred to counselors by the case workers while others may directly approach the counselor themselves. The counselor and the staff members try to maintain a non- threatening and non-judgmental conduct, providing the necessary safe space to the children to share their thoughts and feelings. As per the Maharashtra State JJ Rules,** a counseling room is set up** for individual therapy and it is stocked up with stationery, art supplies, and other resources as directed by the counselor. External assistance from practicing psychiatrists is also sought.
 
 **3.5. Challenges Faced While Addressing This Need**
 
