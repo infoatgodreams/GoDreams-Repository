@@ -1051,9 +1051,9 @@ code.language-co.is-loaded {
 }
 
 /* Site header */
-.page-header {
-  display: none !important;
-}
+/*.page-header { */
+ /* display: none !important; */
+/*}*/
 
 /* Site bars */
 .site-body-left-column,
