@@ -1072,12 +1072,8 @@ code.language-co.is-loaded {
 }
 /* ----------------------------------- */
 /* || Epistemological status styling via Highlighting */
-.markdown-preview-view mark {
-    background-color: var(--background-primary);
-    color: var(--text-faint);
-    font-size: var(--font-small);
-    font-style: italic;
-}
+/*.markdown-preview-view mark { background-color: var(--background-primary); color: var(--text-faint); font-size: var(--font-small) */ 
+/*font style: italic;} */
 
 .markdown-preview-view mark .internal-link.internal-link.is-unresolved {
   color: #a4a4a4
