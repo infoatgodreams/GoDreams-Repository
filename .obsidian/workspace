@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+            "file": "Volume 1/Reference Reading/Governments & UN/British Columbnia/Canada_British Columbia_Food and Nutrition Manual for homes.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kim mclean",
+                "query": "volume",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+                "file": "Volume 1/Reference Reading/Governments & UN/British Columbnia/Canada_British Columbia_Food and Nutrition Manual for homes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+                "file": "Volume 1/Reference Reading/Governments & UN/British Columbnia/Canada_British Columbia_Food and Nutrition Manual for homes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +113,15 @@
   },
   "active": "e0848661e513ca62",
   "lastOpenFiles": [
+    "Volume 1/Reference Reading/Governments & UN/British Columbnia/Canada_British Columbia_Food and Nutrition Manual for homes.md",
+    "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 Analysis.md",
+    "Volume 3/Reference Reading/Governments & UN/Budget for Children 2022-23 (Manual Notes- Printable).md",
+    "Volume 1/Reference Reading/Books/Books Index.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
     "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Volume 1/Roll Ups/Child Safety/Child Safety.md",
     "Home.md",
     "Volume 1/Program Design/Context Document/V0 Op Support.md",
-    "conflict-files-obsidian-git.md",
-    "Volume 1/Program Design/CAP Design Framework.md",
-    "Volume 1/Volume 1 Public Resource Links/Program Design/Guardians-of-dreams-logo-Dark-(transparent-bg) (2).png",
-    "Volume 1/Program Design/Context Document/V1 A&S CAP.md",
-    "Volume 1/Volume 1 Public Resource Links/Program Design/Program&techecosystem.png",
-    "Volume 1/Program Design/Context Document/V2 CAP Scope.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
