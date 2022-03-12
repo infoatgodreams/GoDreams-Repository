@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f59e2cd2b6164090",
+        "id": "3f43b750cec70ba5",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -15,18 +15,6 @@
             "source": false
           },
           "pinned": true
-        }
-      },
-      {
-        "id": "18117969a2f1310b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
-            "mode": "source",
-            "source": false
-          }
         }
       }
     ],
@@ -63,13 +51,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -90,7 +76,7 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "trauma informed ca",
+                "searchQuery": "covid",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,17 +111,17 @@
     "direction": "horizontal",
     "width": 420
   },
-  "active": "f59e2cd2b6164090",
+  "active": "3f43b750cec70ba5",
   "lastOpenFiles": [
     "Volume 1/Roll Ups/Mental Health/Mental Health.md",
+    "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Mental Health at CCIs during Covid-19_Prerana Guide.md",
+    "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Psychosocial distress and coping mechanism of Orphan Children in Institutional Care in Delhi.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
     "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
-    "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Psychosocial distress and coping mechanism of Orphan Children in Institutional Care in Delhi.md",
     "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
     "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
     "Volume 1/Program Design/CAP Design Framework.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Counsel to Secure Justice/CSJ_Connecting to children in the observation homes of Rajasthan.md",
-    "Volume 1/Roll Ups/Child Safety/Child Safety.md"
+    "Volume 2/Reference Reading/Service providers to CCIs/Counsel to Secure Justice/CSJ_Connecting to children in the observation homes of Rajasthan.md"
   ]
 }

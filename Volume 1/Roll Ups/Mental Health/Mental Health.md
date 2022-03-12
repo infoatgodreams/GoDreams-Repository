@@ -241,6 +241,7 @@ From a qualitative study of children in children's homes in Delhi, following con
 - Visits are much more effective in terms of promoting sustained improvement in the conditions and treatment of children if they take place regularly and systematically. If visits to the institutions by external commissions are carried out only sporadically, they may do more harm than good. Especially with regard to cases of violence and abuse, visits might create expectations of justice among the children, which are often not fulfilled; they migh tgenerate more violence and abuse in a circle of punishment for spies and reward for silent spectators; and, in a system prone to corruption, external commissions might even be monitored by some lobbies.
 
 # MENTAL HEALTH CONCERNS DURING COVID 
+[^12]
  **Feelings of isolation**: 
     * Many children are experiencing loneliness as their normal routine continues to be put on hold due to the COVID-19 imposed restrictions. 
     * Children are unable to maintain essential social interactions as schools remain shut, they are unable to meet visitors, donors, or even interact with their family members.
@@ -294,3 +295,4 @@ From a qualitative study of children in children's homes in Delhi, following con
 [^9]: [Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI)](Volume%201/Reference%20Reading/Research%20Papers/US/Institutional%20Care%20for%20Young%20Children%20-%20%20Review%20of%20Literature%20and%20Policy%20Implications%20%20(with%20DOI).md)
 [^10]: [Psychosocial distress and coping mechanism of Orphan Children in Institutional Care in Delhi](Volume%202/Reference%20Reading/Research%20Papers/Mental%20Health%20Papers/Psychosocial%20distress%20and%20coping%20mechanism%20of%20Orphan%20Children%20in%20Institutional%20Care%20in%20Delhi.md)
 [^11]: [Miracle Foundation_Trauma-Informed-Care](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Miracle%20Foundation/Miracle%20Foundation_Trauma-Informed-Care.md)
+[^12]: [Mental Health at CCIs during Covid-19_Prerana Guide](Volume%203/Reference%20Reading/Service%20Providers%20to%20CCIs/Prerana/Mental%20Health%20at%20CCIs%20during%20Covid-19_Prerana%20Guide.md)
