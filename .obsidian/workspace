@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6ce2dcd7f48c7222",
+        "id": "a7578dca5b207bf6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +103,7 @@
     "direction": "horizontal",
     "width": 420
   },
-  "active": "6ce2dcd7f48c7222",
+  "active": "a7578dca5b207bf6",
   "lastOpenFiles": [
     "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
     "Volume 1/Roll Ups/Mental Health/Mental Health.md",
