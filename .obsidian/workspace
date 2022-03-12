@@ -4,66 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8891ee40147b8add",
-        "type": "split",
-        "dimension": 62.32356134636265,
-        "children": [
-          {
-            "id": "944456d19f56d0ad",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Volume 1/Program Design/Context Document/V0 Op Support.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "7cfbf4b4745c1544",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Volume 1/Program Design/Context Document/V1 A&S CAP.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e0848661e513ca62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "7ba6617c6d8613b5",
+        "id": "e0848661e513ca62",
         "type": "leaf",
-        "dimension": 37.67643865363735,
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Program Design/CAP Design Framework.md",
+            "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
             "mode": "source",
             "source": false
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -91,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "kim mclean",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Program Design/Context Document/V0 Op Support.md",
+                "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Program Design/Context Document/V0 Op Support.md",
+                "file": "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,17 +111,17 @@
     "width": 420,
     "collapsed": true
   },
-  "active": "944456d19f56d0ad",
+  "active": "e0848661e513ca62",
   "lastOpenFiles": [
+    "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+    "Volume 1/Roll Ups/Child Safety/Child Safety.md",
+    "Home.md",
     "Volume 1/Program Design/Context Document/V0 Op Support.md",
     "conflict-files-obsidian-git.md",
     "Volume 1/Program Design/CAP Design Framework.md",
     "Volume 1/Volume 1 Public Resource Links/Program Design/Guardians-of-dreams-logo-Dark-(transparent-bg) (2).png",
-    "Home.md",
     "Volume 1/Program Design/Context Document/V1 A&S CAP.md",
     "Volume 1/Volume 1 Public Resource Links/Program Design/Program&techecosystem.png",
-    "Volume 1/Program Design/Context Document/V2 CAP Scope.md",
-    "Volume 1/Roll Ups/Child Safety/Child Safety.md",
-    "images/image12.png.md"
+    "Volume 1/Program Design/Context Document/V2 CAP Scope.md"
   ]
 }
