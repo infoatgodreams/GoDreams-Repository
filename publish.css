@@ -101,7 +101,7 @@ Minimal Styling
   --text-error: #800000;
   --text-error-hover: #990000;
  /* --text-highlight-bg: rgba(59, 176, 131, 0.4); */
-  --text-highlight-bg: rgba(252, 190, 8, 255);
+  --text-highlight-bg: rgba(255, 255, 0, 1);
   --text-selection: var(--text-accent-hover);
   --text-on-accent: #f2f3f5;
   --interactive-normal: #f2f3f5;
