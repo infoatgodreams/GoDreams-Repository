@@ -8,6 +8,8 @@ tags:
 
 The purpose of this portal is to access information that we've compiled from studying the ecosystem surrounding **Child Care Institutions (CCIs)** in India towards the development of what we are calling the "Capacity Accelerator Program"
 
+>The ongoing activity is the the [Literature Review](Program%20Design/Literature%20Review.md). A good place to start digging into the content would be the [Domain Roll Up Index](Domain%20Roll%20Up%20Index.md) or the [Stakeholder Index](Stakeholder%20Index.md).  (Alternatively use the  [Comprehensive Index](Comprehensive%20Index.md) for a full deep dive)
+
 ## The Problem 
 
 ```co
@@ -29,7 +31,7 @@ This is primarily a consequence of:
 ```
 
 
-## The solution
+## The Solution
 
 The CCI **Capacity Accelerator Program** will
 ```co
@@ -47,3 +49,13 @@ through the following pillars:
 	2. ==Tied to inputs that lead to long term outcomes==, ensuring that spending decisions are rooted in the best interest of the child
 3. **Embedded Management**
 	1. ==Hands-on support to CCI leadership and staff== to facilitate contextualized progress to benchmark care quality targets.
+
+
+## The timeline
+
+1. Jan 2022 - June 2022 : [[Literature Review]]
+2. April 2022 - June 2022: [CCI Immersion](Program%20Design/CCI%20Immersion.md)
+3. June 2022 - Dec 2022: Prototyping
+4. June 2022 - Dec 2022: Partnership Building
+5. Jan 2023 - Mar 2023: Prepare for Test Launch
+6. April 2023: Launch Test
