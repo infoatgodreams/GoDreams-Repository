@@ -9,6 +9,6 @@ tags:
 The purpose of this portal is to access information that we've compiled from studying the ecosystem surrounding Child Care Institutions in India towards the development of what we are calling the "Capacity Accelerator Program"
 
 ```co
-The ***Capacity Accelerator Program 
+***The Problem***: Children who grow up in CCIs in India are not achieving ***positive adult outcomes***
 ```
 
