@@ -4,11 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "a7578dca5b207bf6",
+        "id": "1c4d31ede4207585",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Roll Ups/Mental Health/Mental Health.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "08dcf605ab51b3a0",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,11 +83,12 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "function",
+                "searchQuery": "interventions",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -81,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,17 +123,17 @@
     "direction": "horizontal",
     "width": 420
   },
-  "active": "a7578dca5b207bf6",
+  "active": "08dcf605ab51b3a0",
   "lastOpenFiles": [
     "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
     "Volume 1/Roll Ups/Mental Health/Mental Health.md",
-    "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Mental Health at CCIs during Covid-19_Prerana Guide.md",
-    "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Psychosocial distress and coping mechanism of Orphan Children in Institutional Care in Delhi.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
     "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
+    "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Working with Children Sensitively.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
+    "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Mental Health at CCIs during Covid-19_Prerana Guide.md",
     "Volume 2/Reference Reading/Research Papers/Mental Health Papers/Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries.md",
-    "Volume 1/Program Design/CAP Design Framework.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Counsel to Secure Justice/CSJ_Connecting to children in the observation homes of Rajasthan.md"
+    "Volume 2/Reference Reading/Service providers to CCIs/Udayan Care/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
+    "Volume 1/Reference Reading/Research Papers/Global/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md"
   ]
 }
