@@ -16,13 +16,14 @@ Children in Need of Care and Protection (CNCP) in India are not achieving positi
 
 CCIs are the bedrock of childcare, intended to offer a safe space for children outside of family units to thrive. 
 
- >95% of CCIs in India are **small privately run institutions**.
- Most of these CCIs do not have the capability or capacity to deliver high quality care or to reach all CNCP.
+ >95% of CCIs in India are **small privately run institutions** that do not have the capability or capacity to deliver high quality care or to reach all CNCP.
 
 This is primarily a consequence of:
  
-Lack of **outcome focused financial capital**.
+```co
+Lack of outcome focused financial capital.
+```
 
-and 
-
-Limited access to **evidence based care practices and benchmarks.** 
+```co 
+Limited access to evidence based care practices and benchmarks. 
+```
