@@ -148,7 +148,7 @@ tags:
 - According to Prerana [^9] Lack of sensitivity towards the child’s health concerns: The principle of confidentiality is not upheld in the highest regard when addressing a child’s health concerns. In the past, staff of government hospitals have been insensitive towards victims of sexual exploitation. Some CH staff members may also lack the awareness about mental health and disorders, may not be equipped to deal with children who have been through traumatic experiences which may end up in re-victimizing the resident.
 
 ## TRAUMA INFORMED CARE
-- The model of TIC used in this article comes from Institute on Trauma and Trauma-Informed Care at the University of Buffalo, and is based on Harris and Fallot’s Using Trauma Theory to Design Service Systems(Page 3)
+- [^11]The model of TIC used in this article comes from Institute on Trauma and Trauma-Informed Care at the University of Buffalo, and is based on Harris and Fallot’s Using Trauma Theory to Design Service Systems(Page 3)
 - On the latter point, studies point to the implementation of organisation wideapproaches to trauma informed care as a mechanism to prevent staff ‘burnout’ and reduce turnover(Bailey et al., 2019). (Page 30)
 - The five guiding principles of TIC-Trauma Informed Care
 	•Safety: Ensuring individual’s physical and emotional safety. 
@@ -161,6 +161,7 @@ tags:
 - Practitioners, to ensure that children do not suffer additional victimisation through adverse labelling. (Page 64)
 - We need to ensure ties are maintained between children in institutions and their families.Siblings have to be kept together in institutions and in cases of adoption (Page 65)
 - Caregivers should be as constant as possible and, when about to leave their jobs for any reason, they should know how toprepare the children to de-attach. (Page 66)
+- Bedwetting incidents decreased significantly as the children were able to identify and express their feelings of fear, anger and guilt. (Page 4) 
 
 # COMMON MENTAL HEALTH DIFFICULTIES- CHILDREN'S PERSPECTIVE 
 
@@ -240,6 +241,7 @@ From a qualitative study of children in children's homes in Delhi, following con
 - Visits are much more effective in terms of promoting sustained improvement in the conditions and treatment of children if they take place regularly and systematically. If visits to the institutions by external commissions are carried out only sporadically, they may do more harm than good. Especially with regard to cases of violence and abuse, visits might create expectations of justice among the children, which are often not fulfilled; they migh tgenerate more violence and abuse in a circle of punishment for spies and reward for silent spectators; and, in a system prone to corruption, external commissions might even be monitored by some lobbies.
 
 # MENTAL HEALTH CONCERNS DURING COVID 
+[^12]
  **Feelings of isolation**: 
     * Many children are experiencing loneliness as their normal routine continues to be put on hold due to the COVID-19 imposed restrictions. 
     * Children are unable to maintain essential social interactions as schools remain shut, they are unable to meet visitors, donors, or even interact with their family members.
@@ -292,3 +294,5 @@ From a qualitative study of children in children's homes in Delhi, following con
 [^8]: [Function, quality and outcomes of residential care](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/SOS/Function,%20quality%20and%20outcomes%20of%20residential%20care.md)
 [^9]: [Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI)](Volume%201/Reference%20Reading/Research%20Papers/US/Institutional%20Care%20for%20Young%20Children%20-%20%20Review%20of%20Literature%20and%20Policy%20Implications%20%20(with%20DOI).md)
 [^10]: [Psychosocial distress and coping mechanism of Orphan Children in Institutional Care in Delhi](Volume%202/Reference%20Reading/Research%20Papers/Mental%20Health%20Papers/Psychosocial%20distress%20and%20coping%20mechanism%20of%20Orphan%20Children%20in%20Institutional%20Care%20in%20Delhi.md)
+[^11]: [Miracle Foundation_Trauma-Informed-Care](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Miracle%20Foundation/Miracle%20Foundation_Trauma-Informed-Care.md)
+[^12]: [Mental Health at CCIs during Covid-19_Prerana Guide](Volume%203/Reference%20Reading/Service%20Providers%20to%20CCIs/Prerana/Mental%20Health%20at%20CCIs%20during%20Covid-19_Prerana%20Guide.md)

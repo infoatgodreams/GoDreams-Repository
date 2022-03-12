@@ -81,8 +81,7 @@ Link: https://drive.google.com/file/d/10nuywFDUmvMr4wwNlF3qHIJhb096x5Pz/view?usp
 - Every child should have an individual care plan on the basis of his/her qualities and capabilities; the staff  should not focus only on talented children, but give equal attention and opportunities to all the children. (Page 84)
 - All the members of the staff  should be well-prepared to work in an institution (Page 84)
 - discipline but also freedom (Page 84)
-- Teenagers have to be given little freedom of carrying out some responsibilities on their own and boysand girls about to reach 18 have to get permiss (Page 84)
-- ion to spend some time out of the institutions alone (Page 84)
+- Teenagers have to be given little freedom of carrying out some responsibilities on their own and boysand girls about to reach 18 have to get permission to spend some time out of the institutions alone (Page 84)
 - Children should participate more intensively in the life in institutions, (Page 84)
 
 ### CONSTRAINTS OF AN INSTITUTIONAL SETTING
