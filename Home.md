@@ -21,9 +21,9 @@ CCIs are the bedrock of childcare, intended to offer a safe space for children o
 This is primarily a consequence of:
  
 ```co
-Lack of outcome focused financial capital.
+1. Lack of outcome focused financial capital.
 ```
 
 ```co 
-Limited access to evidence based care practices and benchmarks. 
+2. Limited access to evidence based care practices and benchmarks. 
 ```
