@@ -16,7 +16,7 @@ DURATION OF AFTERCARE: After care services may be available to young adults upto
 
 FINANCIAL NORMS : Financial assistance per month per young adult will be provided as per ICPS norms applicable at that time for meeting the basic needs including food, clothing, health care and shelter; age appropriate and need based education and vocationa l training; stipend; and any other requirements. 
 
-IDENTIFICATION AND S ELECTION OF A FTER CARE ORGANISATIONS : 
+IDENTIFICATION AND S ELECTION OF AFTER CARE ORGANISATIONS : 
 - The DCPU shall form a committee comprising of the DCPO ( Chairman), PO - IC and PO - NIC, and  a  member  of  the  CWC,  which  will  identify  suitable  Government  and  voluntary organisations to run the different models After Care programme. 
 - Criteria for selection of After Care Organisations:
 	- The Organization should be registered under the JJ Act.
