@@ -26,7 +26,7 @@ IDENTIFICATION AND S ELECTION OF AFTER CARE ORGANISATIONS :
 	- A well established Counselling programme 
 
 PREPARATION OF YOUNG ADULT BY CCIs:
-- The process of transition from institutional care to after care should take into consideration the gender, maturity and p articular circumstances of the child .  
+- The process of transition from institutional care to after care should take into consideration the gender, maturity and particular circumstances of the child .  
 - Young adults leaving institutional care should be encouraged to take part in the planning of their own after care. 
 - An aptitude test /career guidance should be done by the counselor of DCPU with the help of a technical ly qualified person/agency before placing the young adult into appropriate after care programmes. 
 
@@ -60,97 +60,30 @@ In the circumstances enumerated hereunder, the After Care organisation shall pro
 	- Picking fights with other residents, neighbours, staff etc.
 	- Spoiling the atmosphere of the Home by his/her behaviour
 	- Becoming a negative influence on other residents due to his/her habits such as drinking, drug abuse etc. 
-	- In case of girls, if it is found that there is no family support or fails to get a suitable employment, she may be referred to Swa dhar Homes for shelter and continuation of vocational training.  In case girl/boy gets married  If the young adult is absent for more than 15 days without information 
+- In case of girls, if it is found that there is no family support or fails to get a suitable employment, she may be referred to Swadhar Homes for shelter and continuation of vocational training. 
+-  In case girl/boy gets married 
+- If the young adult is absent for more than 15 days without information 
 
-p. 7
+SERVICES TO BE PROVID ED BY THE AFTER CARE ORGANISATION 
+- Housing facility, for a maximum period of 3 years as per selected model
+- Professional emotional and psychological counselling on a weekly basis. 
+- Health care through tie ups with nearby medical centres/doctors 
+- Vocational training facilities through tie ups with educational institutions teaching certified skill development courses under ‘National Skill De velopment Programme”/ITIs and other recognised vocational training institutes. 
+-  Assistance in opening bank accounts and for getting identification such as “Aadhar” number, ration cards, voting cards, etc. 
+- Out of pocket expenses during the course of the vocational training till such time that the youth gets employment. 
+- In addition the above, assistance would be provided for the following
+	- If the child is interested in education, in addition to the vocational training, he/she may be encouraged/assisted to pursue the NIOS programme. 
+	- Training, apprenticeships and placement in collaboration with professional agencies and corporates. This may include convergence with Labour Department and other agencies for skill development.
+	- Arranging loans for entrepreneurial activities along with professional advice and training Peer counselling
+	- Legal services that may be required by the chil d through DCPU or linkages with other organisations .  
+	- Computers, recreational material and other facilities at the place of stay. 
+	- Specialized counseling services in polyclinics may be provided to those children who have disciplinary issues, problems of substance abuse, frequent absenteeism etc. so that they can be mainstreamed into society. 
 
-S ERVICES TO BE PROVID ED BY THE A FTER C ARE O RGANISATION The After Care Organisation shall essentially provide for every child :     Housing facility, for a maximum period of 3 years as per selected model  Professional emotional and psychological counselling on a weekly basis.  Health care through tie ups with nearby medical centres/doctors  Vocational training facilities through tie ups with educational institutions teaching certified skill development courses under ‘National Skill De velopment Programme”/ITIs and other recognised vocational training institutes. The aim is that the child is prepared for employment through a certificate course and can be gainfully employed thereafter on this basis.  Assistance in opening bank accounts and for getting identification such as “Aadhar” number, ration cards, voting cards, etc.  Out of pocket expenses during the course of the vocational training till such time that the youth gets employment. In addition the above, assistance would be provided fo r the following:  If the child is interested in education, in addition to the vocational training, he/she may be encouraged/assisted to pursue the NIOS programme.  Training, apprenticeships and placement in collaboration with professional agencies and corpor ates. This may include convergence with Labour Department and other agencies for skill development.  Arranging loans for entrepreneurial activities along with professional advice and training  Peer counselling  L egal services that may be required by the chil d through DCPU or linkages with other organisations .   Computers, recreational material and other facilities at the place of stay.  Specialized counseling services in polyclinics may be provided to those children who have disciplinary issues, problems of su bstance abuse, frequent absenteeism etc. so that they can be mainstreamed into society. 
-
-p. 8
-
-M ODELS FOR A FTER C ARE : i) Option I : Living Arrangements : Children will stay in groups of 4 to 8 in an accommodation taken on rent in a suitable, safe residenti al locality. Here, children will be encouraged to live together as a family unit and learn to share responsibilities of running their own kitchen and home. The Organisation will assist in providing the rent and deposit for the accommodation. 
+MODELS FOR AFTER CARE : 
+i) Option I : Living Arrangements : Children will stay in groups of 4 to 8 in an accommodation taken on rent in a suitable, safe residential locality. Here, children will be encouraged to live together as a family unit and learn to share responsibilities of running their own kitchen and home. The Organisation will assist in providing the rent and deposit for the accommodation. 
 
 i) Option II: If the first option is not feasible in the District/State as the number of children is too low or if there is no suitable NGO available, then the DCPU could identify an existing children’s Home which is run by the Government / NGO , where a portion will be earmarked for After Care. 
+Living Arrangements: The After Care programme will be housed in a portion of an existing C hildren’s Home, in which a portion has been earmarked for children eligible for after care. The children ca n stay in groups of 4 to 8. There will be a common kitchen for all the children. The institution may have a maximum of 25 children. 
 
-Living Arrangements: The After Care programme will be hous ed in a portion of an existing C hildren’s Home, in which a portion has been earmarked for children eligible for after care. The children ca n stay in groups of 4 to 8. There will be a common kitchen for all the children. The institution may have a maximum of 25 children. 
-
-iii) Option III: In metropolitan cities (Mumbai, Delhi, Bangalore, Chennai and Kolkata) a dedicated institution for After Care can be considered in case it is available. Living Arrangements: The children will stay in larger accommodation, with dormit ory style arrangements. There will be a common kitchen for all the children. The institution may have a maximum of 25 children. Here, the home is run by the after care organisation including, housekeeping, kitchen etc 
-
-p. 9
-
-F ACILITIES : The following facilities must be provided for the young adults irrespective of the model adopted . i) Expenditure on daily needs : The children will be provided, on a weekly basis, a fixed amount per residential unit for meeting their dail y needs including cost of running the kitchen, cleaning etc. ii) Out of pocket expenses : The children will also be provided o n an individual basis, out of pocket expenses to meet their expenses including transportation, personal expenses etc. iii) Counsel ling : Individual and group counselling will be provided on a regular basis to ensure that the children are able to adjust to their new surroundings and peers. As the children would have been in institutions for long periods of time, counselling is essentia l for emotional and social development. This is to help in building their self esteem, build 
-
-F ACILITIES  following facilities must be provided for the young adults irrespective of the model adopted . i) Expenditure on daily needs : The children will be provided, on a weekly basis, a fixed amount per residential unit for meeting their dail y needs including cost of running the kitchen, cleaning etc. ii) : The children will also be provided o n an individual basis, out of pocket expenses to meet their expenses including transportation, personal expenses etc. iii) Counsel ling : Individual and group counselling will be provided on a regular basis to ensure that the children are able to adjust to their new surroundings and peers. As the children would have been in institutions for long periods of time, counselling is essentia l for emotional and social development. This is to help in building their self esteem, build 
-
-1 
-
-TIES : The 
-
-F ACILITIES : The following facilities must be provided for the young adults irrespective of the model adopted . i) Expenditure on daily needs : The children will be provided, on a weekly basis, a fixed amount per residential unit for meeting their dail y needs including cost of running the kitchen, cleaning etc. ii) Out of pocket expenses : The children will also be provided o n an individual basis, out of pocket expenses to meet their expenses including transportation, personal expenses etc. iii) Counsel ling : Individual and group counselling will be provided on a regular basis to ensure that the children are able to adjust to their new surroundings and peers. As the children would have been in institutions for long periods of time, counselling is essentia l for emotional and social development. 
-
-F ACILITIES  following facilities must be provided for the young adults irrespective of the model adopted . i) Expenditure on daily needs : The children will be provided, on a weekly basis, a fixed amount per residential unit for meeting their dail y needs including cost of running the kitchen, cleaning etc. ii) : The children will also be provided o n an individual basis, out of pocket expenses to meet their expenses including transportation, personal expenses etc. iii) Counsel ling : Individual and group counselling will be provided on a regular basis to ensure that the children are able to adjust to their new surroundings and peers. As the children would have been in institutions for long periods of time, counselling is essentia l for emotional and social development. This is to help in building their self esteem, build 
-
-v) Savings : The children would be encouraged to save their earnings which can be used later. The Organisation will help all children to open an individual bank account which they can operate independently 
-
-v) Vocational Training : All children will be facilitated to join a suitable vocation, enroll in certified skill development courses under “National Skill Development Programme”/ITI or assisted in getting job placements which are suitable for them. This is to help them to become financially  independent 
-
-vi) Linkages with Corporate sector and Civil Society groups: The after care organization must establish and build a network with companies and NGOs where the youth can be placed or trained as apprentices 
-
-9 13. 
-
-9 3.1 F ACILITIES  following facilities must be provided for the young adults irrespective of the model The 
-
-9 13. F ACILITIES  following facilities must be provided for the young adults irrespective of the model The adopte 
-
-9 13. 
-
-9 13. 
-
-9 13. 
-
-9 13. 
-
-9 13. 
-
-9 13. 
-
-9 13. 
-
-p. 10
-
-other relevant documents which they will require for their future life. viii) Health: T he a fter care organizations must hold regular health check up camps and aware 
-
-ness camps for all youth at the programme. awar 
-
-ess camps for all youth at the programme. aware The aftercare organisation should h ave linkages with a nearby doctor/hospital which the child can access on his/her own in case of illness. ix) Volunteers : Volunteers can play a major role in the after care system. A volunteer programme is r 
-
-eness camps for all youth at the programme. awar 
-
-ecommended for all after care organizations to helprogramme is r p the youth in their eeducation programmes, languag 
-
-Out of pocket expenses vocational  training  facilities  should  also  be  made available for children with special needs depending upon their capabilities vii) Identity: As children who have been in institutions do not have any proof of identity, it is essential for the after care organization to help in getting a voter card, Aadhar number or any 10 other relevant documents which they will require for their future life. viii) Health: T he a fter care organizations must hold regular health check up camps and awareness camps for all youth at the programme. The aftercare organisation should h ave linkages with a nearby doctor/hospital which the child can access on his/her own in case of illness. ix) Volunteers : Volunteers can play a major role in the after care system. A volunteer programme is recommended for all after care organizations to hel p the youth in their education programmes 
-
-10 other relevant documents which they will require for their future life. viii) Health: T he a fter care organizations must hold regular health check up camps and awareness camps for all youth at the programme. The aftercare organisation should h ave linkages with a nearby doctor/hospital which the child can access on his/her own in case of illness. ix) Volunteers : Volunteers can play a major role in the after care system. A volunteer programme is recommended for all after care organizations to hel p the youth in their education programmes, language 
-
-10 other relevant documents which they will require for their future life. viii) Health: T he a fter care organizations must hold regular health check up camps and awareness camps for all youth at the programme. The aftercare organisation should h ave linkages with a nearby doctor/hospital which the child can access on his/her own in case of illness. ix) Volunteers : Volunteers can play a major role in the after care system. A volunteer programme is recommended for all after care organizations to hel p the youth in their education programmes, language 
-
-10 other relevant documents which they will require for their future life. viii) Health: T he a fter care organizations must hold regular health check up camps and awareness camps for all youth at the programme. The aftercare organisation should h ave linkages with a nearby doctor/hospital which the child can access on his/her own in case of illness. ix) Volunteers : Volunteers can play a major role in the after care system. A volunteer programme is recommended for all after care organizations to hel p the youth in their education programmes, languag 
-
-10 other relevant documents which they will require for their future life. viii) Health: T he a fter care organizations must hold regular health check up camps and awareness camps for all youth at the programme. The aftercare organisation should h ave linkages with a nearby doctor/hospital which the child can access on his/her own in case of illness. ix) Volunteers : Volunteers can play a major role in the after care system. A volunteer programme is recommended for all after care organizations to hel p the youth in their education programmes, languag 
-
-10 other relevant documents which they will require for their future life. viii) Health: T he a fter care organizations must hold regular health check up camps and awareness camps for all youth at the programme. The aftercare organisation should h ave linkages with a nearby doctor/hospital which the child can access on his/her own in case of illness. ix) Volunteers : Volunteers can play a major role in the after care system. A volunteer programme is recommended for all after care organizations to hel p the youth in their 
-
-10 other relevant documents which they will require for their future life. viii) Health: T he a fter care organizations must hold regular health check up camps and awareness camps for all youth at the programme. The aftercare organisation should h ave linkages with a nearby doctor/hospital which the child can access on his/her own in case of illness. ix) Volunteers : Volunteers can play a major role in the after care system. A volunteer programme is recommended for all after care organizations to hel p the youth in their education programmes, language 
-
-10 ness camps for all youth at the programme. aware The aftercare organisation should h ave linkages with a nearby doctor/hospital which the child can access on his/her own in case of illness. ix) Volunteers : Volunteers can play a major role in the after care system. A volunteer programme is recommended for all after care organizations to hel p the youth in their 
-
-10 other relevant documents which they will require for their future life. viii) Health: T he a fter care organizations must hold regular health check up camps and awareness camps for all youth at the programme. The aftercare organisation should h ave linkages with a nearby doctor/hospital which the child can access on his/her own in case of illness. ix) Volunteers : Volunteers can play a major role in the after care system. A volunteer programme is recommended for all after care organizations to hel p the youth in their education programmes, language 
-
-10 ness 
-
-10 ness camps for all youth at the programme. aware 
-
-10 ness camps for all youth at the programme. aware 
-
-9 13. 
+iii) Option III: In metropolitan cities (Mumbai, Delhi, Bangalore, Chennai and Kolkata) a dedicated institution for After Care can be considered in case it is available. Living Arrangements: The children will stay in larger accommodation, with dormitory style arrangements. There will be a common kitchen for all the children. The institution may have a maximum of 25 children. Here, the home is run by the after care organisation including, housekeeping, kitchen etc 
 
