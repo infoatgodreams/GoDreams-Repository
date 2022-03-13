@@ -100,7 +100,8 @@ Minimal Styling
   --text-faint: #999999;
   --text-error: #800000;
   --text-error-hover: #990000;
-  --text-highlight-bg: rgba(59, 176, 131, 0.4);
+ /* --text-highlight-bg: rgba(59, 176, 131, 0.4); */
+  --text-highlight-bg: rgba(255, 255, 0, 1);
   --text-selection: var(--text-accent-hover);
   --text-on-accent: #f2f3f5;
   --interactive-normal: #f2f3f5;
@@ -1051,9 +1052,9 @@ code.language-co.is-loaded {
 }
 
 /* Site header */
-.page-header {
-  display: none !important;
-}
+/*.page-header { */
+ /* display: none !important; */
+/*}*/
 
 /* Site bars */
 .site-body-left-column,
@@ -1072,14 +1073,10 @@ code.language-co.is-loaded {
 }
 /* ----------------------------------- */
 /* || Epistemological status styling via Highlighting */
-.markdown-preview-view mark {
-    background-color: var(--background-primary);
-    color: var(--text-faint);
-    font-size: var(--font-small);
-    font-style: italic;
-}
+/*.markdown-preview-view mark { background-color: var(--background-primary); color: var(--text-faint); font-size: var(--font-small) */ 
+/*font style: italic;} */
 
-.markdown-preview-view mark .internal-link.internal-link.is-unresolved {
+/*.markdown-preview-view mark .internal-link.internal-link.is-unresolved {
   color: #a4a4a4
 }
 
@@ -1109,8 +1106,7 @@ code.language-co.is-loaded {
       font-style: normal;
       color: var(--text-muted);
 
-}
-
+} */
 /* ----------------------------------- */
 /* Bible verse embeds */
 div.markdown-embed .markdown-preview-view h6 {
