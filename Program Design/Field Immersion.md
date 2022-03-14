@@ -1,8 +1,8 @@
-# Primary Research
-## 💬 Immersion Phase
+# Field Immersion
+## 💬 In-depth immersion in CCIs
 ### Goal
 Work closely with 10 CCIs  to decode : 
-1. What are the current practices and outcomes of  CCIs in the domains, sub-domains and key areas identified in the secondary research
+1. What are the current practices and outcomes of CCIs in the domains, sub-domains and key areas identified in the secondary research
 2. Map and evaluate the support ecosystem available to CCIs
 3. Identify the challenges preventing CCIs from adopting best practices and create case studies for the same
 4. Convert case studies into design problems for the design sprint

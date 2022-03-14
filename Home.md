@@ -54,7 +54,7 @@ through the following pillars:
 ## ⏰The Timeline
 
 1. Jan 2022 - June 2022 : [[Literature Review]]
-2. April 2022 - June 2022: [CCI Immersion](Program%20Design/CCI%20Immersion.md)
+2. April 2022 - June 2022: [Field Immersion](Program%20Design/Field%20Immersion.md)
 3. June 2022 - Dec 2022: Prototyping
 4. June 2022 - Dec 2022: Partnership Building
 5. Jan 2023 - Mar 2023: Prepare for Test Launch
