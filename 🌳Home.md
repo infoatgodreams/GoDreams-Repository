@@ -4,11 +4,11 @@ tags:
 - indexpage
 ---
 
-# 🌳Welcome to the Repository for CAP 3 Research
+# Welcome to the Repository for CAP 3 Research
 
 The purpose of this portal is to access information that we've compiled from studying the ecosystem surrounding **Child Care Institutions (CCIs)** in India towards the development of what we are calling the "Capacity Accelerator Program"
 
->The ongoing activity is the the [Literature Review](Program%20Design/Literature%20Review.md). A good place to start digging into the content would be the [Domain Roll Up Index](Roll%20Ups/Domain%20Roll%20Up%20Index.md) or the [Stakeholder Index](Stakeholder%20Index.md).  (Alternatively use the  [Comprehensive Index](Comprehensive%20Index.md) for a full deep dive)
+>The ongoing activity is the the [Literature Review](Program%20Design/Literature%20Review.md). A good place to start digging into the content would be the [📜Domain Roll Up Index](Roll%20Ups/📜Domain%20Roll%20Up%20Index.md) or the [📜Stakeholder Index](📜Stakeholder%20Index.md).  (Alternatively use the  [📜Comprehensive Index](📜Comprehensive%20Index.md) for a full deep dive)
 
 ## The Problem 
 
