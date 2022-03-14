@@ -19,25 +19,25 @@ We started by testing specific _hypotheses_ that we had about a market. We evalu
  
  I believe you can more efficiently run a number of MVTs, create a vision for a product that fits a market and _then_ go into a “build phase.”
 
-## **The case against the Minimum Viable Product (MVP)**
+## The case against the Minimum Viable Product (MVP)
 
 I’ve seen founders make dozens of mistakes during the pre-product/market fit phase. Here are a few examples:
 
-### **First, their vision is bigger than their insight**
+### First, their vision is bigger than their insight
 You can’t have 20 insights and be successful — you must have just one.
 
-### **Second, founders over-focus on what the customer says**.
+### Second, founders over-focus on what the customer says.
 
-### **Third, founders get caught up in company-building before nailing product/market fit**
+### Third, founders get caught up in company-building before nailing product/market fit
 
-### **Fourth, the word “product” in MVP implies an experience that has a distinct form**. 
+### Fourth, the word “product” in MVP implies an experience that has a distinct form. 
 You’ve created the user journey you want your customer to go through, and you’ve narrowed that down to the smallest possible thing you can launch with. In many cases, this smallest possible thing isn’t small. It could entail a login system, a tech stack, a database and sometimes even an admin dashboard. For the user, it involves an onboarding flow and a “customer experience.” This leads to overbuilt MVPs and isn’t really where you should start. You only want to build the login systems and onboarding flows _after_ you’ve proven that you have something you can sell, aka after you have succeeded with a minimum viable test.
 
-### **Finally, MVPs often make for horrible core products.** 
+### Finally, MVPs often make for horrible core products.
 When you start building a product, you start from a blank command screen. Once you start writing code, you start to add technical and product debt. So many startups I know end up spending half of their engineering cycles paying back this debt in years 2-4. Instead, I suggest you run MVTs and then _delete the code_ (better yet, don’t use code at all!) This allows you to start from a fresh slate when you are actually building the longer-term vision.
 
 
-## **Add Minimum Viable Tests (MVT) to the process of creating a startup**
+## Add Minimum Viable Tests (MVT) to the process of creating a startup
 
 - Immerse yourself in a new industry.
 
@@ -62,7 +62,7 @@ Jobs-to-be-done for CAP will be codetermined by users and by gold standard resea
 - Scale
 
 
-## **How do I design & run a MVT?**
+## How do I design & run a MVT?
 
 Something you _must_ be right about, or else the company won’t stand a chance.**Can you predict success before you launch?**
 
@@ -70,25 +70,25 @@ Something you _must_ be right about, or else the company won’t stand a chance.
 What are Guardians hypothesis for CAP that we must be right about to achieve excellent adult outcomes?
 
 ```
-### **Find your value proposition.**
+### Find your value proposition
 
 **Focus on actions**. This is often driven by customer development, but remember that customers do not always know nor are they forthcoming about their desires and needs. Their actions, however, speak volumes. Find a value proposition that speaks to their actions: What are they already trying to do? How can you help them achieve their goals better than they know they can?
 
 **Stay away from ideas that are too complicated**. Think about Stripe, AirBnB, Dropbox, Uber. They each had a ridiculously simple value proposition. The solution might have been complex or controversial, but the value to the consumer was not. Who wouldn’t want a taxi that arrives on demand in <5 minutes? Who wouldn’t want one line of code to replace the days of implementing complex payment processing systems? Find a value proposition that’s a no-brainer.
 
-### **List your risky Assumptions.**
+### List your risky Assumptions.
 
 **The #1 riskiest assumption is building something people don’t want**.
 
 **Execution risk is real**  Lots of great ideas die because they simply don’t work in reality.
 
-**Marketing**.: Do you know enough about your market to know how to sell it and who will buy it?
+**Marketing**: Do you know enough about your market to know how to sell it and who will buy it?
 
 **Market size**. This is almost impossible to guess at and so many people hand wave their potential market size and put in fuzzy numbers. Low confidence is still better than no confidence. I strongly believe you should have a clear understanding of what you would want to see in order to believe there’s a big enough market for what you’re doing
 
 **Profit**. Almost all startups start with upside down profit margins. That’s okay, but some companies will never get to positive margins.
 
-### **Test the atomic unit.**
+### Test the atomic unit.
 
 **Pick your risky assumption and test just one at a time**.
 
@@ -99,15 +99,15 @@ What are Guardians hypothesis for CAP that we must be right about to achieve exc
 
 **Pick a clear and specific atomic unit**. The more niche the better in this case. You are looking for the smallest possible item that you could distill your product down to.
 
-## **Pathways post MVT**
+## Pathways post MVT
 
-### **Path #1: Nail what your customers care about most** 
+### Path #1: Nail what your customers care about most
 
 Don't build a full fledged product, start aggregative essential services
 
-### **Path #2: Ship the first version of your product**
+### Path #2: Ship the first version of your product
 
-## **Jobs to be done**
+## Jobs to be done
 
 Jobs are _not_ the same as your mission, vision or goals.
 Jobs describe the **underlying human needs**, _not_ the features of the product.
@@ -115,7 +115,7 @@ Jobs illuminate **consumer insights on underlying motivations and struggles**, _
 Importantly, a job should highlight a **promising specific market opportunity about an unmet need**
 
 
-## **Templates**
+## Templates
 
 ## MVT
 Value Proposition: 
