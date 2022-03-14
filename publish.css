@@ -227,9 +227,9 @@ h1,h2,h3,h4,h5 {font-family: var(--font-header);}
 
 .frontmatter-container
 {
-display: inline;
-border: 1 px;
-border-colour:var(--background-modifier-border)
+display: inline-block;
+border: 0 px;
+
 }
 
 
