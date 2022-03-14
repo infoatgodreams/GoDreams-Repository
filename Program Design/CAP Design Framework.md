@@ -4,7 +4,6 @@ author: Navneeth
 tags: 
 - programdesign
 ---
-**Working Document** : **[Design Framework - Google Sheets](https://docs.google.com/document/d/18LmCHl_Ezc972JXLlXttSo_Ewm3-W5dfq9bTspdv_bQ/edit)**
 
 ## Problem
 Quality of care delivered at Child Care Institutions is on average inadequate and widely disparate. 
