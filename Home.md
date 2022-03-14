@@ -51,7 +51,7 @@ through the following pillars:
 	1. ==Hands-on support to CCI leadership and staff== to facilitate contextualized progress to benchmark care quality targets.
 
 
-## The timeline
+## The Timeline
 
 1. Jan 2022 - June 2022 : [[Literature Review]]
 2. April 2022 - June 2022: [CCI Immersion](Program%20Design/CCI%20Immersion.md)

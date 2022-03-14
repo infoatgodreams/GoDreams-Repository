@@ -96,7 +96,7 @@ tags:
 	- [Marvin Olasky](Marvin%20Olasky)
 
 ## Design Theory
-- [Human Centered Design - IDEO](Volume%201/Program%20Design%20Tools/Human%20Centered%20Design%20-%20IDEO.md)
+- [Human Centered Design - IDEO](L&D/Human%20Centered%20Design%20-%20IDEO.md)
 
 # Governments and UN
 - [Guidelines on Alternative Care_UN](Volume%201/Reference%20Reading/Governments%20&%20UN/Guidelines%20on%20Alternative%20Care_UN.md)
