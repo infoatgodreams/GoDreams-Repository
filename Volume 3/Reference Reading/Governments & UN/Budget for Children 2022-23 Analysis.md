@@ -61,7 +61,7 @@ tags:
 * According to the report, while more girls compared to boys suffer from shortness, anaemia affects 40% of adolescent girls, compared to 18% of boys, and worsens as they get older.
 * Although the Ministry of Health and Family Welfare (MoHFW), Government of India has launched the Anemia Mukt Bharat Programme for accelerating decline in anemia prevalence and to achieve the POSHAN Abhiyaan (2018-20) target of reducing prevalence of anemia among children aged 6-59 months, adolescents and women of reproductive age 15-49 years by 3 percentage points per year, 4the implementation remains tardy.
 
-Anaemia Mukt Bharat Scorecard [Assessment Tools](Volume%201/Roll%20Ups/Assessment%20Tools.md)
+Anaemia Mukt Bharat Scorecard [Assessment Tools](Roll%20Ups/Assessment%20Tools.md)
 **A Glimpse into the Realities of Anaemia Mukt Bharat:**
 
 * AMB program is yet to be launched in 18 States and UTs.
@@ -111,7 +111,7 @@ Anaemia Mukt Bharat Scorecard [Assessment Tools](Volume%201/Roll%20Ups/Assessmen
     * Of the females who committed suicides, highest number (22,372) was of house-wives followed by students (5,559).
 
 
-## CHILD DEVELOPMENT  [[nutrition]] [[assessment tools]]
+## CHILD DEVELOPMENT  [[Roll Ups/Nutrition/Nutrition]] [[Roll Ups/Assessment Tools]]
 
 * The overall budget for Child Development programmes as a part of the Union Budget 2022-23 accounts for an allocation of INR 17826.03 Crore.
 * Child Development programmes, which largely include nutrition and day care related programmes for children under 6 years that used to be part of the Umbrella ICDS scheme, have seen a reduced allocation of 10.97 per cent in the 2022-23 Union Budget.
@@ -132,7 +132,7 @@ Anaemia Mukt Bharat Scorecard [Assessment Tools](Volume%201/Roll%20Ups/Assessmen
 	* Gaps and inadequacies in ICDS financing, infrastructure and human resources have detrimental effects on service delivery and require renewed attention.
 
 ## CHILD PROTECTION
-[Child Safety](Child%20Safety)
+[Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md)
 * Child protection has been one of the least prioritized sectors in terms of resource allocation over the years. 
 * In 2022-23, child protection has received **only 0.04 per cent **of the **total Union Budget.**
 * The overall allocation for Child Protection remains at INR 1573.82 Crore.

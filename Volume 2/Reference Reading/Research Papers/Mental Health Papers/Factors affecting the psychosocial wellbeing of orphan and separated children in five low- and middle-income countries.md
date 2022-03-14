@@ -4,7 +4,7 @@ author: Akshay
 tags :
 - globalresearch
 ---
-Tags: [Mental Health](Volume%201/Roll%20Ups/Mental%20Health/Mental%20Health.md)
+Tags: [Mental Health](Roll%20Ups/Mental%20Health/Mental%20Health.md)
 Link: https://drive.google.com/drive/folders/19zIgoriQtg0tULa6kIr1c7F55FQTQ94o
 
 Context: This study was designed to (1) examine if the psychosocial well-being of OSC in underresourced societies in LMICs is more dependent on the availability of certain components of quality of care rather than the care setting itself (i.e. the residential care-based or community family-based setting), and (2) identify the relative significance of certain components of quality of care that are associated with a child’s psychosocial well-being across different OSC care settings

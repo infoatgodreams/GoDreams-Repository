@@ -6,7 +6,7 @@ tags:
 - usresearch
 ---
 
-Tags: [CCI Operations](CCI%20Operations), [[Caregiving]], [Education](Education), [Child Profile](Volume%201/Roll%20Ups/Child%20Development/Child%20Profile.md)
+Tags: [CCI Operations](Roll%20Ups/CCI%20Operations/CCI%20Operations.md), [[Roll Ups/Caregiving/Caregiving]], [Education](Roll%20Ups/Education/Education.md), [Child Profile](Roll%20Ups/Child%20Development/Child%20Profile.md)
 Link: [Google Drive](https://drive.google.com/file/d/1pENHpcWf9VVSC70AT2ajXwmFHaZKYag9/view?usp=sharing)
 
 
@@ -14,7 +14,7 @@ Link: [Google Drive](https://drive.google.com/file/d/1pENHpcWf9VVSC70AT2ajXwmFHa
 Scope: A study of change of intellectual level in 132 "dependent and neglected" children aged two through seven - at Irvington House over a period of 4.5 years. The study tests for IQ changes (Stanford Binet Test) over the period. 
 
 # CCI Operations 
-[CCI Operations](CCI%20Operations)
+[CCI Operations](Roll%20Ups/CCI%20Operations/CCI%20Operations.md)
 
 - Irvington House has kept to the original intention of having no more than 50 children in the 4 dormitories regardless of outside pressures
 - In initial planning, they considered trying to imitate some sort of family life, but quickly came to realize that this was not only impractical but probably undesirable and dishonest as well. 
@@ -25,7 +25,7 @@ Scope: A study of change of intellectual level in 132 "dependent and neglected" 
 - The older groups eat in our main dining room. For the three older units, we regularly scheduled 20 shifts a week of four staff members. 
 
 # Caregiving
-[Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md)[ Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)
+[Caregiving](Roll%20Ups/Caregiving/Caregiving.md)[ Child Profile](Volume%201/Roll%20Ups/Child%20Profile.md)
 
 - For young children a paramount need is to feel that there is someone who really cares for him or her as an individual human being, someone with whom and for whom he is special. In addition to this special one to one relationship, the child must also feel that all, or most, of the people around him like and respect him for what he is. We have called this basic concept, along with teh child-care practices that have grown out of it, "individualization. 
 - We assumed that small children need relatively small, self-contained settings for their basic physical care. They need the opportunity for privacy, some belongings which are their very own, some which are to be shared and the freedom to explore within boundaries that set unobtrusive but firm limits on impulse. 
@@ -44,7 +44,7 @@ Scope: A study of change of intellectual level in 132 "dependent and neglected" 
 	- A child-care worker once assigned to a given dormitory, has remained there throughout his employment at the house. 
 	- Each worker has a case load of approximately 20 children. 
 # Results of the study
-[[Education]]
+[[Roll Ups/Education/Education]]
 - Mean initial IQ level of 89 and terminal level of 97.58 with roughly 8.72 months of gap between tests. 
 - Smallest increments are found among chidlren functioning within the average range at the time of their admission. 
 	- This data suggests that many of the children who fall initially into the below-average groups are children of normal intelligence who are suffering impairments based on lack of environmental opportunity, or emotional difficulties, or both, and that these cases respond favorably to the institutional environment provided. 
@@ -53,7 +53,7 @@ Scope: A study of change of intellectual level in 132 "dependent and neglected" 
 	- It is suggested that this group is composed of the brighter children whose previous environments provided markedly inadequate intellectual stimulation or markedly severe emotional deprivation. 
 - The magnitude of increment seems directly related to the duration of stay in the institution but the optimal interval appears to be approximately one year, as children remaining much longer do not show significantly greater improvement that children remaining upto a year. 
 - The children who appear ot gain most from the institution setting are those whose functioning is far below their ability because of environmental or emotional deprivation 
-	- [Restoration](Restoration)Where foster home placement subsequent to the institutional placement is indicated, however, perhaps we should plan in terms of allowing the child to achieve the maximum benefits of the institution before transferring him, instead of following the policy which is now general, namely, transferring the child as soon as a home is available.
+	- [Restoration](Roll%20Ups/Alternative%20Care/Restoration.md)Where foster home placement subsequent to the institutional placement is indicated, however, perhaps we should plan in terms of allowing the child to achieve the maximum benefits of the institution before transferring him, instead of following the policy which is now general, namely, transferring the child as soon as a home is available.
 - With respect to age, there is no doubt that separation from the natural parents for practically all children under three, for most children between three and five, and for very many children between give and eight, creates anxiety, a sense of loss, a sense of guilt and unworthiness and extreme emotional privation, which thereafter handicap the child's future intellectual, school and social adjustment.  
 # #readinglist  
 

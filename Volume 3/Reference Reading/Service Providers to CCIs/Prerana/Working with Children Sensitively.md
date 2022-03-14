@@ -11,7 +11,7 @@ Link to the file (public): [https://www.fighttrafficking.org/wp-content/uploads/
 
 Link to the file (drive): [https://drive.google.com/file/d/1EWnA65veROlBUhBg9Lk-B1-xlfUq6_E1/view?usp=sharing](https://drive.google.com/file/d/1EWnA65veROlBUhBg9Lk-B1-xlfUq6_E1/view?usp=sharing)
 
-Tags:  [Care Practices](Volume%201/Roll%20Ups/Caregiving/Care%20Practices.md) [[Mental Health]]
+Tags:  [Care Practices](Roll%20Ups/Caregiving/Care%20Practices.md) [[Roll Ups/Mental Health/Mental Health]]
 
 **Context:** This document is developed based on actual observations and field experiences of counselors and caregivers working with children in institutional settings. It surveys 300 caregivers across 6 countries. #opinion
 
@@ -20,7 +20,7 @@ Tags:  [Care Practices](Volume%201/Roll%20Ups/Caregiving/Care%20Practices.md) [[
 Here are some tips for caregivers to deal with children sensitively:
 
 ## **COMMUNICATION WITH CHILDREN**
-[Child Safety](Child%20Safety) [Child Profile](Volume%201/Roll%20Ups/Child%20Development/Child%20Profile.md)
+[Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md) [Child Profile](Roll%20Ups/Child%20Development/Child%20Profile.md)
 * Whenever a child is seen engaging in unacceptable behavior or is found doing something that is unacceptable, the child should be first asked what he/she was up to. Listen to children. After knowing what the child was doing, an adult can explain why a behavior is inappropriate.
 * In order to avoid shaming, embarrassing or humiliating the child, the caregivers should hold this conversation one- on-one with the child and avoid confronting the child in front of the other children.
 * Talk about inappropriate behavior without demeaning their self worth or attacking their personality or character.

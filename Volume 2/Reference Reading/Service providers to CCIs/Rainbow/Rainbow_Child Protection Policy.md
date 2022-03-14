@@ -4,7 +4,7 @@ author: Akshay
 tags :
 - Practitioner
 ---
-Tags: [Child Safety](Child%20Safety) [[Volume 1/Roll Ups/Child Safety/Child Sexual Abuse]] 
+Tags: [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md) [[Roll Ups/Child Safety/Child Sexual Abuse]] 
 Link: https://issuu.com/rainbowfoundationindia/docs/cpp_for_sneh_ghar
 
 **Context**: It is a fairly extensive policy and I would recommend reading this entirely again because it applies to all Rainbow homes and includes all stakeholders 

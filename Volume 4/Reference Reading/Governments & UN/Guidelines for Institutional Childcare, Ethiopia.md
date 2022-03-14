@@ -4,7 +4,7 @@ author: Akshay
 tags : 
 - intlgovernment
 ---
-Tags: [Care Practices](Volume%201/Roll%20Ups/Caregiving/Care%20Practices.md) [Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md) [Child Safety](Volume%201/Roll%20Ups/Child%20Safety/Child%20Safety.md)
+Tags: [Care Practices](Roll%20Ups/Caregiving/Care%20Practices.md) [Caregiving](Roll%20Ups/Caregiving/Caregiving.md) [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md)
 
 Link: https://drive.google.com/file/d/1qP7Hxnor9J8aFLV1INEfHAYGeFyk19Oc/view?usp=sharing
 Context: This paper was made in 1998 and covers the different care practices (including alternative care methods)
@@ -364,7 +364,7 @@ The specific objectives of a childcare institution shall include the provision o
 * A childcare institution shall make continuous efforts to secure the collaboration of the community.
 
 
-# CHILD-FAMILY REUNIFICATION [Restoration](Volume%201/Roll%20Ups/Alternative%20Care/Restoration.md)
+# CHILD-FAMILY REUNIFICATION [Restoration](Roll%20Ups/Alternative%20Care/Restoration.md)
 
 
 ## The Need for A Guideline
@@ -450,7 +450,7 @@ A family is eligible for child-family reunification if it is:
 	* emotional and spiritual development.
 
 
-## FOSTER FAMILY CARE [Foster Care](Volume%201/Roll%20Ups/Alternative%20Care/Foster%20Care.md)
+## FOSTER FAMILY CARE [Foster Care](Roll%20Ups/Alternative%20Care/Foster%20Care.md)
 
 
 ## The Need for the Guideline
@@ -624,7 +624,7 @@ It is recommended that based on local conditions, an individual or a family to b
 * Record keeping on Follow-up of a Child Placed in Foster Family: The foster family care organization that conducts the follow-up on a child placed in a foster family shall keep follow-up records of the child.
 * Personnel: The foster care organization shall have personnel with multidisciplinary professional qualifications, including, social workers, psychologists, etc., with adequate experience in foster family care and/or related childcare programs.
 
-## ADOPTION [Adoption](Volume%201/Roll%20Ups/Alternative%20Care/Adoption.md)
+## ADOPTION [Adoption](Roll%20Ups/Alternative%20Care/Adoption.md)
 
 
 ## The Need for A Guideline 

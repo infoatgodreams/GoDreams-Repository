@@ -4,7 +4,7 @@ tags:
 - Practitioner
 ---
 
-Tags: [Mental Health](Mental%20Health) 
+Tags: [Mental Health](Roll%20Ups/Mental%20Health/Mental%20Health.md) 
 # Mental Health at CCIs during Covid-19
 
 **Introduction:** Children are often silent victims of any calamity. The pandemic and the unprecedented measures to contain its spread are disrupting nearly every aspect of children’s lives: their health, development, learning, behavior, their families’ economic security, and their protection from violence and abuse.
@@ -113,7 +113,7 @@ Tags: [Mental Health](Mental%20Health)
 
 
 ## Self care tips for Caregivers
-[Caregiving](Volume%201/Roll%20Ups/Caregiving/Caregiving.md)
+[Caregiving](Roll%20Ups/Caregiving/Caregiving.md)
 * Get 8 hours of sleep.
 * Drink adequate water and make sure you are eating healthy meals.
 * Be self compassionate: You are also going through a difficult time, it's okay to struggle

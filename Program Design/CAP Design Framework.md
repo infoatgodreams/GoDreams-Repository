@@ -40,6 +40,5 @@ Quality of care delivered at Child Care Institutions is on average inadequate an
 
 ![Literature Review](Program%20Design/Literature%20Review.md)
 
+![CCI Immersion](Program%20Design/CCI%20Immersion.md)
 
-
-## Prototyping

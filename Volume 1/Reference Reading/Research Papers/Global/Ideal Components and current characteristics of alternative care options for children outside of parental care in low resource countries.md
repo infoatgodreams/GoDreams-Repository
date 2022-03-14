@@ -6,7 +6,7 @@ tags:
 - alternativecare
 ---
 
-Tags: [[Foster Care]] [[Adoption]] [[Kinship Care]] 
+Tags: [[Roll Ups/Alternative Care/Foster Care]] [[Roll Ups/Alternative Care/Adoption]] [[Roll Ups/Alternative Care/Kinship Care]] 
 
 Link: [Google Drive](https://drive.google.com/file/d/1SLOMR8yJWlLkJuByyfuaQ7YMo3NWdaO_/view?usp=sharing)
 
@@ -34,7 +34,7 @@ In contrast, the foundation of most child welfare systems in low-resource countr
 
 
 ## Family Assessment
-[[Restoration]]
+[[Roll Ups/Alternative Care/Restoration]]
 
 
 - (Page 7) Assessments should place priority on cases where preservation or reunification is likely to happen rapidly, putting more resources in these cases (Kelley, 2000).
