@@ -1,6 +1,5 @@
 
-# Literature Review
-## 🏹 **Goal** 
+# 🏹 **Goal** 
 To put together information in core areas of program development and draw insights that will allow us to : 
 
 1.  Identify questions for primary research : ==What don't we know about how CCIs in India operate?==
@@ -15,8 +14,8 @@ To put together information in core areas of program development and draw insigh
 		- Outcome Measurements
 4.	 Identify ==innovations in associated sectors== and document potential practices that can be implemented in CCIs.		
 
-## 📜**Research Sources:**
-- ### 1. Gold Standards and Innovations in Institutional Child Care 
+# 📜**Research Sources:**
+- ## 1. Gold Standards and Innovations in Institutional Child Care 
 	- *We will be looking at :*
 		- Domestic and International CCIs
 		- Domestic and Intl Service Providers to CCIs
@@ -27,14 +26,14 @@ To put together information in core areas of program development and draw insigh
 		-  Inputs and best practices that have led to excellent outcomes
 		- Outcome measurement tools used
 		- Indicators of excellent outcomes
-- ### 2. Baselines for Institutional Care
+- ## 2. Baselines for Institutional Care
 	-  *We will be looking at:*
 		-  Domestic and International CCIs
 	- *What we are looking for:* 
 		- Practices that result in better outcomes in comparison 
 		- Outcome measurement tools
 		- Data suggesting gaps in outcomes specifically in institutional care settings
-- ### 3. Associated Sectors and Innovations
+- ## 3. Associated Sectors and Innovations
 	- *We will be looking at:* 
 		- Diverse sectors and domain specific sectors such as 
 			- Traditional education sector
@@ -47,8 +46,8 @@ To put together information in core areas of program development and draw insigh
 		- Best Practices and Manuals
 		- Outcome Measurement Tools
 
-## 🔗**Related Links**
+# 🔗**Related Links**
 Reading List : **[Master Reading List - Google Sheets](https://docs.google.com/spreadsheets/d/1GRiS7QFPiak-1Ob3TdobKnaHqgUBb_8B-fErHP1BXUA/edit?usp=sharing)**
 Research Tools: [[Program Design/Research Tools]]
-The Next Phase: [Field Immersion](Program%20Design/Field%20Immersion.md)
+The Next Phase: [03 Field Immersion](Program%20Design/03%20Field%20Immersion.md)
 

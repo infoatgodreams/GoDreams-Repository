@@ -8,7 +8,7 @@ tags:
 
 The purpose of this portal is to access information that we've compiled from studying the ecosystem surrounding **Child Care Institutions (CCIs)** in India towards the development of what we are calling the "Capacity Accelerator Program"
 
->The ongoing activity is the the [Literature Review](Program%20Design/Literature%20Review.md). A good place to start digging into the content would be the [📜Domain Roll Up Index](Index%20Pages/📜Domain%20Roll%20Up%20Index.md) or the [📜Stakeholder Index](Index%20Pages/📜Stakeholder%20Index.md).  (Alternatively use the  [📜Comprehensive Index](Index%20Pages/📜Comprehensive%20Index.md) for a full deep dive)
+>The ongoing activity is the the [02 Literature Review](Program%20Design/02%20Literature%20Review.md). A good place to start digging into the content would be the [📜Domain Roll Up Index](Index%20Pages/📜Domain%20Roll%20Up%20Index.md) or the [📜Stakeholder Index](Index%20Pages/📜Stakeholder%20Index.md).  (Alternatively use the  [📜Comprehensive Index](Index%20Pages/📜Comprehensive%20Index.md) for a full deep dive)
 
 ## ⚠️The Problem 
 
@@ -53,8 +53,8 @@ through the following pillars:
 
 ## ⏰The Timeline
 
-1. Jan 2022 - June 2022 : [[Literature Review]]
-2. April 2022 - June 2022: [Field Immersion](Program%20Design/Field%20Immersion.md)
+1. Jan 2022 - June 2022 : [[Program Design/02 Literature Review]]
+2. April 2022 - June 2022: [03 Field Immersion](Program%20Design/03%20Field%20Immersion.md)
 3. June 2022 - Dec 2022: Prototyping
 4. June 2022 - Dec 2022: Partnership Building
 5. Jan 2023 - Mar 2023: Prepare for Test Launch
