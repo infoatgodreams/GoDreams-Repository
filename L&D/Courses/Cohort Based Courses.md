@@ -16,23 +16,30 @@ tag:
 		- Teachers no longer have to create content 
 		- They can focus on engaging the students 
 	- Online communities
-- ## Community vs independent learning
-	- Community aspect helps the cohort push through difficult period of low performance, demotivation or the slump before seeing outcomes/ success
-		- This could be critical to the CCIs becomes many strategies do not work instantly but require consistent reinforcement
-		- It also pushed for completion of courses because of peer pressure/community based motivations
-			- ==While completion rates are high, any stats on learning outcomes? Long term application of learning?==
-- ## Players in CBC
-	- Growth School
-	- Airtribe
-	- Maven
-	- Teachfirst?
-		- Check this out, tfi affiliated
-	- Lambda School 
+
+ 
+ ## Community vs independent learning
+ 
+- Community aspect helps the cohort push through difficult period of low performance, demotivation or the slump before seeing outcomes/ success
+	- This could be critical to the CCIs becomes many strategies do not work instantly but require consistent reinforcement
+	- It also pushed for completion of courses because of peer pressure/community based motivations
+		- ==While completion rates are high, any stats on learning outcomes? Long term application of learning?==
+
+
+ ## Players in CBC
+- Growth School
+- Lambda School 
+- Teachfirst
+- Maven
+- Airtribe
 
 
 ## Format for CBCs
 - What to teach? (Topic) + Whom to teach? (Audience) + What pressing problem(s) does your audience have that the course can help address
 - Core components: Student group selectivity + Proof of work
+
+
+## Q&A
 - What's the ideal length of  CBC? are they better in shorter formats with narrower learning outcomes? (starters recommend 1 hour) 
 	- Smaller sized cohorts do better 
 	- Since its the same cohort in multiple courses, shorter vs longer?

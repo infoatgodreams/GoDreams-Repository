@@ -3,15 +3,14 @@
 
 
 URL: [The Minimum Viable Testing Process for Evaluating Startup Ideas | First Round Review](https://review.firstround.com/the-minimum-viable-testing-process-for-evaluating-startup-ideas)
-
- # Scope: _
+Discussion Version: 
+ # Scope 
  
- This article is written by_ _[Gagan Biyani](https://twitter.com/gaganbiyani "null")__, co-founder and CEO at_ _[Maven](https://maven.com/ "null")_
+This article is written by_ _[Gagan Biyani](https://twitter.com/gaganbiyani "null")__, co-founder and CEO at_ _[Maven](https://maven.com/ "null")_
 
-# Summary: 
+# Summary
 
 The traditional dogma in the startup ecosystem is that you can’t predict whether people will want your product. Instead, you do some customer research, throw an MVP out there as fast as possible, and hope it hits. That’s not my approach.
-
 
 We started by testing specific _hypotheses_ that we had about a market. We evaluated the veracity of those hypotheses individually using Minimum Viable Tests. Collectively, these tests allowed us to predict whether a market was going to appreciate our product before we even launched an MVP.]
 
@@ -19,23 +18,25 @@ We started by testing specific _hypotheses_ that we had about a market. We evalu
  
  I believe you can more efficiently run a number of MVTs, create a vision for a product that fits a market and _then_ go into a “build phase.”
 
-# **THE CASE AGAINST THE MINIMUM VIABLE PRODUCT:**
+## **The case against the Minimum Viable Product (MVP)**
 
 I’ve seen founders make dozens of mistakes during the pre-product/market fit phase. Here are a few examples:
 
-**First, their vision is bigger than their insight**
+### **First, their vision is bigger than their insight**
 You can’t have 20 insights and be successful — you must have just one.
 
-**Second, founders over-focus on what the customer says**.
+### **Second, founders over-focus on what the customer says**.
 
-**Third, founders get caught up in company-building before nailing product/market fit**
+### **Third, founders get caught up in company-building before nailing product/market fit**
 
-**Fourth, the word “product” in MVP implies an experience that has a distinct form**. You’ve created the user journey you want your customer to go through, and you’ve narrowed that down to the smallest possible thing you can launch with. In many cases, this smallest possible thing isn’t small. It could entail a login system, a tech stack, a database and sometimes even an admin dashboard. For the user, it involves an onboarding flow and a “customer experience.” This leads to overbuilt MVPs and isn’t really where you should start. You only want to build the login systems and onboarding flows _after_ you’ve proven that you have something you can sell, aka after you have succeeded with a minimum viable test.
+### **Fourth, the word “product” in MVP implies an experience that has a distinct form**. 
+You’ve created the user journey you want your customer to go through, and you’ve narrowed that down to the smallest possible thing you can launch with. In many cases, this smallest possible thing isn’t small. It could entail a login system, a tech stack, a database and sometimes even an admin dashboard. For the user, it involves an onboarding flow and a “customer experience.” This leads to overbuilt MVPs and isn’t really where you should start. You only want to build the login systems and onboarding flows _after_ you’ve proven that you have something you can sell, aka after you have succeeded with a minimum viable test.
 
-**Finally, MVPs often make for horrible core products.** When you start building a product, you start from a blank command screen. Once you start writing code, you start to add technical and product debt. So many startups I know end up spending half of their engineering cycles paying back this debt in years 2-4. Instead, I suggest you run MVTs and then _delete the code_ (better yet, don’t use code at all!) This allows you to start from a fresh slate when you are actually building the longer-term vision.
+### **Finally, MVPs often make for horrible core products.** 
+When you start building a product, you start from a blank command screen. Once you start writing code, you start to add technical and product debt. So many startups I know end up spending half of their engineering cycles paying back this debt in years 2-4. Instead, I suggest you run MVTs and then _delete the code_ (better yet, don’t use code at all!) This allows you to start from a fresh slate when you are actually building the longer-term vision.
 
 
-# **ADD MINIMUM VIABLE TESTS TO THE PROCESS OF CREATING A STARTUP:**
+## **Add Minimum Viable Tests (MVT) to the process of creating a startup**
 
 - Immerse yourself in a new industry.
 
@@ -60,10 +61,9 @@ Jobs-to-be-done for CAP will be codetermined by users and by gold standard resea
 - Scale
 
 
-# **WHAT’S A MINIMUM VIABLE TEST?**
+## **How do I design & run a MVT?**
 
 Something you _must_ be right about, or else the company won’t stand a chance.**Can you predict success before you launch?**
-
 
 ```co
 What are Guardians hypothesis for CAP that we must be right about to achieve excellent adult outcomes?
@@ -101,7 +101,7 @@ What are Guardians hypothesis for CAP that we must be right about to achieve exc
 
 **Pick a clear and specific atomic unit**. The more niche the better in this case. You are looking for the smallest possible item that you could distill your product down to.
 
-# **Pathways post MVT**
+### **Pathways post MVT**
 
 ### **Path #1: Nail what your customers care about most** 
 
@@ -109,11 +109,17 @@ Don't build a full fledged product, start aggregative essential services
 
 ### **Path #2: Ship the first version of your product**
 
+## **Jobs to be done**
+
+Jobs are _not_ the same as your mission, vision or goals.
+Jobs describe the **underlying human needs**, _not_ the features of the product.
+Jobs illuminate **consumer insights on underlying motivations and struggles**, _not_ business objectives
+Importantly, a job should highlight a **promising specific market opportunity about an unmet need**
 
 
+## **Templates**
 
-## Templates
-
+## MVT
 Value Proposition: 
 
 
@@ -122,3 +128,25 @@ Risky Assumption:
 
 Atomic Unit Test: 
 
+
+## Job to be done
+
+When I…… (context)
+
+But…… (barrier)
+
+Help me…. (goal)
+
+So I….. (outcome)
+
+
+## Stakeholder Research
+
+**Core audience**
+
+**Motivations**
+
+**Barriers:**
+
+
+**What else are they hiring/firing**

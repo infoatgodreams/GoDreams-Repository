@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web Clippings/The Minimum Viable Testing Process for Evaluating Startup Ideas.md",
+            "file": "L&D/Web Clippings/The Minimum Viable Testing Process for Evaluating Startup Ideas.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Clippings/The Minimum Viable Testing Process for Evaluating Startup Ideas.md",
+                "file": "L&D/Web Clippings/The Minimum Viable Testing Process for Evaluating Startup Ideas.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Clippings/The Minimum Viable Testing Process for Evaluating Startup Ideas.md",
+                "file": "L&D/Web Clippings/The Minimum Viable Testing Process for Evaluating Startup Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,15 +112,15 @@
   },
   "active": "851ce1f666c01fe2",
   "lastOpenFiles": [
-    "Web Clippings/The Minimum Viable Testing Process for Evaluating Startup Ideas.md",
+    "L&D/Web Clippings/The Minimum Viable Testing Process for Evaluating Startup Ideas.md",
+    "L&D/Courses/Cohort Based Courses.md",
+    "Archived/Jan - March 2022/L&D Archive/Human Centered Design - IDEO.md",
     "Home.md",
     "Program Design/02 Literature Review.md",
     "Program Design/04 Partnership Landscape Study.md",
     "Program Design/Research Tools.md",
     "Program Design/01 CAP Design Framework.md",
     "Program Design/03 Field Immersion.md",
-    "Index Pages/📜Domain Roll Up Index.md",
-    "Roll Ups/Caregiving/Care Practices.md",
-    "Roll Ups/Child Development/Observed behavior assessments 1.md"
+    "Index Pages/📜Domain Roll Up Index.md"
   ]
 }
