@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "851ce1f666c01fe2",
+        "id": "88d213179a6cf7ad",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "L&D/Web Clippings/The Minimum Viable Testing Process for Evaluating Startup Ideas.md",
+            "file": "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#readinglist",
+                "query": "file: kim mclean",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L&D/Web Clippings/The Minimum Viable Testing Process for Evaluating Startup Ideas.md",
+                "file": "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L&D/Web Clippings/The Minimum Viable Testing Process for Evaluating Startup Ideas.md",
+                "file": "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,8 +111,10 @@
     "width": 420,
     "collapsed": true
   },
-  "active": "851ce1f666c01fe2",
+  "active": "88d213179a6cf7ad",
   "lastOpenFiles": [
+    "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+    "Roll Ups/Education/IQ.md",
     "L&D/Web Clippings/The Minimum Viable Testing Process for Evaluating Startup Ideas.md",
     "L&D/Courses/Cohort Based Courses.md",
     "Archived/Jan - March 2022/L&D Archive/Human Centered Design - IDEO.md",
@@ -119,8 +122,6 @@
     "Program Design/02 Literature Review.md",
     "Program Design/04 Partnership Landscape Study.md",
     "Program Design/Research Tools.md",
-    "Program Design/01 CAP Design Framework.md",
-    "Program Design/03 Field Immersion.md",
-    "Index Pages/📜Domain Roll Up Index.md"
+    "Program Design/01 CAP Design Framework.md"
   ]
 }
