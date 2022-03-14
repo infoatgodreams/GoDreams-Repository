@@ -93,13 +93,13 @@ tags:
 		-  peer relationships
 	-   Eleven months after adoption 65% of  orphanage children had eating problems [[Roll Ups/Nutrition/Nutrition]]
 		-  Parents reported that one-third of children refused to eat solid foods and almost one-third of children overate. 
-		-  In the Canadian  sample, many parents of orphanage children  reported that they continued to offer food to  children after a meal and that it was never refused. [[Roll Ups/Observed behavior assessments]]
+		-  In the Canadian  sample, many parents of orphanage children  reported that they continued to offer food to  children after a meal and that it was never refused. [[Roll Ups/Child Development/Observed behavior assessments 1]]
 		- Given orphanage children’s malnutrition and small size, such overeating probably  represents their bodies’ natural catch-up mechanism. 
 		- Children in orphanage had never eaten  enough food to allow them to learn feelings  of satiety (Fisher et al., 1997). 
 		-   Three  years after adoption, orphanage children had no more eating problems than did Canadian  born or early-adopted children (Ames, 1997)
 	- A common behavior problem found in  most samples of orphanage children is stereotyped behavior, that is, repeating the same movement over and over, as in body rocking
 		- In the Fisher et al. orphanage sample, 84% of orphanage children displayed one or more stereotyped behaviors. 
-			- 67% rocked, and 19% moved their hands stereotypically **[[Roll Ups/Observed behavior assessments]]**
+			- 67% rocked, and 19% moved their hands stereotypically **[[Roll Ups/Child Development/Observed behavior assessments 1]]**
 			- Tizard (1977). Fisher et al. (1997) suggested that the stereotyped behavior of orphanage children may represent the prolongation of the stereotyped behaviors found in normal infants around the time they learn to sit, stand, or walk (Thelan, 1979, 1981). It may also reflect a self-soothing strategy or an attempt to self-stimulate in the barren orphan age rooms.
 			-   In the Canadian sample, stereotyped be  havior was the most frequently reported be  havior problem of orphanage children but it  was also a behavior that improved quite rapidly (Fisher et al., 1997). 
 			-  Young orphanage children show the same stereotyped behaviors as family-reared children just starting  to sit, stand, or walk (Thelen, 1979),  but when restriction to a crib for 18–20 hr/day does  not permit them to develop their motor skills  (Ames, 1997), these early stereotyped behaviors are practiced for a prolonged period. 
@@ -122,7 +122,7 @@ tags:
 		-   Kreppner, O’Connor, and Rutter  (2001) found that at both 4 and 6 years of  age the children who had been adopted from  Romania after 6 months of age were rated by  both teachers and parents on the [[Revised Rutter Parent and Teacher scales]] (Hogg, Rut  ter, & Richman, 1997) as displaying higher inattention/overactivity than did Romanian  children or U.K. children who were adopted  before 6 months of age.  
 		- The Canadian adoptees from Romania continued to display more attention problems 8 or  more years after adoption (Le Mare & Audet,  2002): orphanage children scored higher than  both Canadian-born and early-adopted children  on the Attention subscale of the CBCL and  on the Impulsivity and Inhibitory Control sub  scales of the [[Children’s Behavior Questionnaire]]] (Ahadi, Rothbart, & Ye, 1993) and lower  on the questionnaire’s Attention Focusing sub scale. 
 		-  **29%  of children in the orphanage group had received a clinical diagnosis of attention-deficit  disorder (ADD) or attention-deficit/hyperactivity disorder (ADHD)** whereas none of the  comparison group children had received such a diagnosis (Le Mare & Audet, 2002).
-		-   Marcovitch et al. 1997). In addition, Le Mare  and Audet (2002) found that children’s attentional difficulties at 8 years of age were negatively correlated with their [Home Observation for Measurement of the Environment](Home%20Observation%20for%20Measurement%20of%20the%20Environment) environment scores (Caldwell & Bradley, 1984) [[Roll Ups/Observed behavior assessments]]
+		-   Marcovitch et al. 1997). In addition, Le Mare  and Audet (2002) found that children’s attentional difficulties at 8 years of age were negatively correlated with their [Home Observation for Measurement of the Environment](Home%20Observation%20for%20Measurement%20of%20the%20Environment) environment scores (Caldwell & Bradley, 1984) [[Roll Ups/Child Development/Observed behavior assessments 1]]
 		- Problems in attending may be at least  partly explained by the abrupt move from the  very low levels of stimulation in the orphan  age to the overwhelming sensory stimulation  of an adoptive home without any opportunity to gradually learn how to deal with greater sensory complexity. 
 
 -  Some behavior problems last up to 8 or more years after removal from the  institution. 
@@ -152,15 +152,15 @@ tags:
 		-  or children’s weight or developmental delay at adoption (O’Connor et al.,1999; O’Connor, Rutter, et al., 2000) 
 		- [[Roll Ups/Education/IQ]] does not appear to be strongly related to indiscriminate friendliness
 	-  Researchers have  consistently found associations between orphanage children’s indiscriminate friendliness  and their behavior problems. [Caregiving](Volume%201/Roll%20Ups/Caregiving.md)
-		- Chisholm (1998)  found that at 3 years postadoption, children’s  indiscriminate friendliness scores were positively correlated with their scores on the [CBCL](CBCL). [[Roll Ups/Observed behavior assessments]]
+		- Chisholm (1998)  found that at 3 years postadoption, children’s  indiscriminate friendliness scores were positively correlated with their scores on the [CBCL](CBCL). [[Roll Ups/Child Development/Observed behavior assessments 1]]
 		- Le Mare and Audet (2002) found that children's scores on indiscriminate friendliness at 3 years after adoption were positively correlated with their attention problem scores more than 8 years after adoption. [Attention Problems](Attention%20Problems)
-		- In the U.K. sample  children’s scores on disinhibited attachment disturbance were positively correlated with  their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years. [[Roll Ups/Observed behavior assessments]]
+		- In the U.K. sample  children’s scores on disinhibited attachment disturbance were positively correlated with  their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years. [[Roll Ups/Child Development/Observed behavior assessments 1]]
 
 - Unlike  many of the initial behaviors of concern in institutionalized children, displays of indiscriminate friendliness do not appear to dissipate over time but are still in evidence up to 8 years after leaving the orphanage environment (Fernyhough et al., 2002; O’Connor, Rutter,  et al., 2000) and may persist even longer (Goldfarb, 1955). 
 
 - Chisholm (1998) has suggested that indiscriminate friendliness may serve an adaptive function in the context of the orphanage environment where emotional  resources are extremely limited. 
 	- Amid the passivity of the orphanage an indiscriminately friendly child may receive what little attention caregivers have to offer. 
-	- The fact that indiscriminate friendliness was associated with having been a favorite in the orphanage supports this contention but does not explain what function such behavior serves after adoption. [[Roll Ups/Observed behavior assessments]]
+	- The fact that indiscriminate friendliness was associated with having been a favorite in the orphanage supports this contention but does not explain what function such behavior serves after adoption. [[Roll Ups/Child Development/Observed behavior assessments 1]]
 
 -  O’Connor et al.  (1999) also suggested that indiscriminate friendliness may represent a form of developmental  delay in the [[attachment]] behavioral system
 	-  although their use of the term “disinhibited at-  tachment disturbance” seems to suggest atten-  tion problems as well as involvement of the  attachment system.
@@ -195,10 +195,10 @@ tags:
 	-  In each of these studies researchers used a separation reunion procedure with preschool-aged children in which children first interacted with their mothers in play, stayed in the same room with a stranger while their mother left, and  then were reunited with their mothers. 
 	-   Chisholm (1998) used [[Crittenden’s Pre school Assessment of Attachment (PAA)]]to  code preschool attachment patterns, whereas  both Marcovitch et al. (1997) and O’Connor  et al. (2003) used the [[Cassidy, Marvin, and  MacArthur Working Group Preschool  Attachment System]]. 
 	-  Chisholm (1998) found that, compared to orphanage children classified as secure, those who were classified as insecure lower IQs, more behavior problems, parents who reported higher levels of parenting  stress, and lower socioeconomic status backgrounds. 
--   The distribution of atypical patterns in previously institutionalized children is not the  same as in other maltreated samples. [Observed behavior assessments](Roll%20Ups/Observed%20behavior%20assessments.md)
+-   The distribution of atypical patterns in previously institutionalized children is not the  same as in other maltreated samples. [Observed behavior assessments 1](Roll%20Ups/Child%20Development/Observed%20behavior%20assessments%201.md)
 	- One difference is that orphanage samples display a **lower percentage of the Defended/Coercive (A/C) insecure pattern** than do other maltreated  samples. 
 	- A child classified as A/C shifts back and forth between defended and coercive strategies in response to the behavior of an often unpredictable caregiver.
-	-   Orphanage children in the Canadian sample also displayed a higher percentage of compulsive caregiving (A3), a pattern more commonly seen in neglected samples than in abused  samples of children (Crittenden & Claussen,  2000). [Observed behavior assessments](Roll%20Ups/Observed%20behavior%20assessments.md)
+	-   Orphanage children in the Canadian sample also displayed a higher percentage of compulsive caregiving (A3), a pattern more commonly seen in neglected samples than in abused  samples of children (Crittenden & Claussen,  2000). [Observed behavior assessments 1](Roll%20Ups/Child%20Development/Observed%20behavior%20assessments%201.md)
 		-  The compulsive caregiving pattern is adopted  in response to a withdrawn or unresponsive  caregiver.
 		-  A child displaying an A3 pattern inhibits negative affect and attempts to cheer  an unresponsive caregiver with overbrightness  and nurturance (Crittenden, 1992a). 
 	-  Another difference is that the Insecure (other) pattern is more common in orphanage samples than in maltreated samples. **Insecure (other), by definition indicates behavior that is difficult to classify. This classification is given when a child is clearly insecure, but the  strategy that he or she uses in interaction does  not fit any of the established insecure patterns.** 

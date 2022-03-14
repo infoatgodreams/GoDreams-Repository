@@ -6,11 +6,25 @@
       {
         "id": "f20a60b0a366a27c",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Index Pages/📜Domain Roll Up Index.md",
-            "mode": "preview",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "9b10547fe20948b0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Program Design/CAP Design Framework.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index Pages/📜Domain Roll Up Index.md",
+                "file": "Program Design/CAP Design Framework.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index Pages/📜Domain Roll Up Index.md",
+                "file": "Program Design/CAP Design Framework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,17 +124,17 @@
     "width": 420,
     "collapsed": true
   },
-  "active": "f20a60b0a366a27c",
+  "active": "9b10547fe20948b0",
   "lastOpenFiles": [
+    "Program Design/CAP Design Framework.md",
+    "Program Design/CCI Immersion.md",
+    "Program Design/Literature Review.md",
     "Index Pages/📜Domain Roll Up Index.md",
-    "Home.md",
-    "Index Pages/📜Stakeholder Index.md",
-    "Index Pages/📜List of Tags being used.md",
-    "conflict-files-obsidian-git.md",
-    "Volume 2/Volume 2 Index.md",
-    "Volume 2/Daily Log/📕Akshay's Log.md",
-    "Volume 2/Daily Log/📕Mekha's Log.md",
-    "Volume 1/Daily Log/📕Glo's Log.md",
-    "Volume 2/Care Standards/India - Service Providers to CCIs/Enfold/Facilitation of Life Skills in CCIs Enfold.md"
+    "Roll Ups/Caregiving/Care Practices.md",
+    "Roll Ups/Child Development/Observed behavior assessments 1.md",
+    "Roll Ups/Risks.md",
+    "Index Pages/📜Reading List.md",
+    "Roll Ups/CCI Operations/CCI Compliance.md",
+    "Home.md"
   ]
 }
