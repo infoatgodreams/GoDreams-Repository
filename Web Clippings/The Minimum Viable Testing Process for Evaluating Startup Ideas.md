@@ -109,6 +109,9 @@ Don't build a full fledged product, start aggregative essential services
 
 ### **Path #2: Ship the first version of your product**
 
+
+
+
 ## Templates
 
 Value Proposition: 
