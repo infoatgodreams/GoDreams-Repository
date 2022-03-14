@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e0848661e513ca62",
+        "id": "09c7ae4024a73848",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
+            "file": "Volume 2/Reference Reading/Governments & UN/Guidelines for After Care of Children under ICPS.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
+                "file": "Volume 2/Reference Reading/Governments & UN/Guidelines for After Care of Children under ICPS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
+                "file": "Volume 2/Reference Reading/Governments & UN/Guidelines for After Care of Children under ICPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,17 +110,17 @@
     "width": 420,
     "collapsed": true
   },
-  "active": "e0848661e513ca62",
+  "active": "09c7ae4024a73848",
   "lastOpenFiles": [
-    "Volume 1/Program Design Tools/Human Centered Design - IDEO.md",
-    "Test Note.md",
-    "Untitled.md",
-    "Program Design/Literature Review.md",
-    "Program Design/CAP Design Framework-old 1.md",
-    "Program Design/Archived/CAP Design Framework-old.md",
-    "Home.md",
-    "Program Design/CCI Immersion.md",
-    "Program Design/Archived/Context Documents/V0 Op Support.md",
-    "Program Design/Archived/Stakeholder Map.md"
+    "Volume 2/Reference Reading/Governments & UN/Guidelines for After Care of Children under ICPS.md",
+    "Volume 1/Roll Ups/Child Safety/Child Safety.md",
+    "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
+    "conflict-files-obsidian-git.md",
+    "Volume 1/Roll Ups/Observed behavior assessments.md",
+    "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+    "Volume 1/Roll Ups/Mental Health/Mental Health.md",
+    "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md",
+    "Volume 1/Reference Reading/Research Papers/US/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md",
+    "Volume 3/Reference Reading/Service Providers to CCIs/Prerana/Working with Children Sensitively.md"
   ]
 }
