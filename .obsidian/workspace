@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Program Design/Research Tools.md",
+            "file": "Program Design/CCI Immersion.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program Design/Research Tools.md",
+                "file": "Program Design/CCI Immersion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program Design/Research Tools.md",
+                "file": "Program Design/CCI Immersion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,10 +113,10 @@
   },
   "active": "851ce1f666c01fe2",
   "lastOpenFiles": [
+    "Program Design/CCI Immersion.md",
     "Program Design/Research Tools.md",
     "Program Design/CAP Design Framework.md",
     "Program Design/Literature Review.md",
-    "Program Design/CCI Immersion.md",
     "Index Pages/📜Domain Roll Up Index.md",
     "Roll Ups/Caregiving/Care Practices.md",
     "Roll Ups/Child Development/Observed behavior assessments 1.md",
