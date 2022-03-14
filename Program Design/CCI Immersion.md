@@ -10,32 +10,13 @@ Work closely with 10 CCIs  to decode :
 ### Research Methods
 
 ```co
-- Focus Groups  
-	- CNCP in Institutions (Age 8-18)
-	- Care Leavers (Age 19 - 35)
-	- Caregiving Staff
-	- Administrative Staff
-	- CCI Leadership
-	- Service Providers to CCIs
-	- Mixed Grouping
+Focus Groups : CNCP in Institutions (Age 8-18), Care Leavers (Age 19 - 35),Caregiving Staff,Administrative Staff,CCI Leadership,Service Providers to CCIs,Mixed Grouping
 ```
 ```co
-- 1 on 1 Interviews
-	- CNCP in Institutions (Age 5 - 7) (Art/Play)
-	- CNCP in Institutions (Age 8-18)
-	- Caregiving Staff
-	- Administrative Staff
-	- CCI Leadership
-	- Service Providers to CCIs
-	- Government Stakeholders
+1 on 1 Interviews:CNCP in Institutions (Age 5 - 7) (Art/Play)CNCP in Institutions (Age 8-18)Caregiving StaffAdministrative StaffCCI LeadershipService Providers to CCIs Government Stakeholders
 ```
 ```co
-- CCI Observational Immersion
-	- Third party observation of day to day operations at CCIs 
-	- Self Reflection Journaling 
-		- Caregiving Staff
-		- Administrative Staff
-		- CCI Leadership
+CCI Observational Immersion: Third party observation of day to day operations at CCIs, Self Reflection Journaling Caregiving Staff, Administrative Staff CCI Leadership
 ```
 
 ## 🏠CCI Landscape Survey
