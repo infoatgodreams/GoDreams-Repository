@@ -117,7 +117,7 @@ Importantly, a job should highlight a **promising specific market opportunity ab
 
 ## Templates
 
-## MVT
+### MVT
 Value Proposition: 
 
 
@@ -127,7 +127,7 @@ Risky Assumption:
 Atomic Unit Test: 
 
 
-## Job to be done
+### Job to be done
 
 When I…… (context)
 
@@ -138,7 +138,7 @@ Help me…. (goal)
 So I….. (outcome)
 
 
-## Stakeholder Research
+### Stakeholder Research
 
 Core audience
 
