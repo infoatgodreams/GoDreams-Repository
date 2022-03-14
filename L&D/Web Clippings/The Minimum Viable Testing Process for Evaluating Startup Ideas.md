@@ -3,8 +3,9 @@
 
 
 URL: [The Minimum Viable Testing Process for Evaluating Startup Ideas | First Round Review](https://review.firstround.com/the-minimum-viable-testing-process-for-evaluating-startup-ideas)
-Discussion Version: 
- # Scope 
+Discussion Version: [The Minimum Viable Testing Process for Evaluating Startup Ideas.docx - Google Docs](https://docs.google.com/document/d/1jb3B6rAM836D34GYBcW0i2mayitC-Cje/edit#)
+ 
+# Scope 
  
 This article is written by_ _[Gagan Biyani](https://twitter.com/gaganbiyani "null")__, co-founder and CEO at_ _[Maven](https://maven.com/ "null")_
 
@@ -71,11 +72,9 @@ What are Guardians hypothesis for CAP that we must be right about to achieve exc
 ```
 ### **Find your value proposition.**
 
-
 **Focus on actions**. This is often driven by customer development, but remember that customers do not always know nor are they forthcoming about their desires and needs. Their actions, however, speak volumes. Find a value proposition that speaks to their actions: What are they already trying to do? How can you help them achieve their goals better than they know they can?
 
 **Stay away from ideas that are too complicated**. Think about Stripe, AirBnB, Dropbox, Uber. They each had a ridiculously simple value proposition. The solution might have been complex or controversial, but the value to the consumer was not. Who wouldn’t want a taxi that arrives on demand in <5 minutes? Who wouldn’t want one line of code to replace the days of implementing complex payment processing systems? Find a value proposition that’s a no-brainer.
-
 
 ### **List your risky Assumptions.**
 
@@ -89,7 +88,6 @@ What are Guardians hypothesis for CAP that we must be right about to achieve exc
 
 **Profit**. Almost all startups start with upside down profit margins. That’s okay, but some companies will never get to positive margins.
 
-
 ### **Test the atomic unit.**
 
 **Pick your risky assumption and test just one at a time**.
@@ -101,7 +99,7 @@ What are Guardians hypothesis for CAP that we must be right about to achieve exc
 
 **Pick a clear and specific atomic unit**. The more niche the better in this case. You are looking for the smallest possible item that you could distill your product down to.
 
-### **Pathways post MVT**
+## **Pathways post MVT**
 
 ### **Path #1: Nail what your customers care about most** 
 
@@ -142,11 +140,10 @@ So I….. (outcome)
 
 ## Stakeholder Research
 
-**Core audience**
+Core audience
 
-**Motivations**
+Motivations
 
-**Barriers:**
+Barriers:
 
-
-**What else are they hiring/firing**
+What else are they hiring/firing
