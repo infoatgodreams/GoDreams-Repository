@@ -7,8 +7,8 @@ tags:
 # Master Index: 
 
 # Program Design:
-- **[CAP Design Framework-old](Archived/CAP%20Design%20Framework-old.md)**
-- **[Intervention Map](Archived/Intervention%20Map.md)**
+- **[CAP Design Framework-old](Archived/Jan%20-%20March%202022/CAP%20Design%20Framework-old.md)**
+- **[Intervention Map](Archived/Jan%20-%20March%202022/Intervention%20Map.md)**
 
 
 # Topic Roll Ups: 
@@ -123,7 +123,7 @@ tags:
 
 # Logs
 - [📕Navneeth's Log](Volume%201/Daily%20Log/📕Navneeth's%20Log.md)
-- [Akshays Log](Volume%202/Daily%20Log/Akshays%20Log.md)
+- [📕Akshay's Log](Volume%202/Daily%20Log/📕Akshay's%20Log.md)
 - [Glorias Log](Volume%201/Daily%20Log/📕Glo's%20Log.md)
 - [Mekhas Log](Volume%204/Research%20Journal_Mekha.md)
 
@@ -139,8 +139,8 @@ tags:
 # Summary Index 
 
 # Program Design
-- **[CAP Design Framework-old](Archived/CAP%20Design%20Framework-old.md)**
-- **[Intervention Map](Archived/Intervention%20Map.md)**
+- **[CAP Design Framework-old](Archived/Jan%20-%20March%202022/CAP%20Design%20Framework-old.md)**
+- **[Intervention Map](Archived/Jan%20-%20March%202022/Intervention%20Map.md)**
 
 
 # Secondary Research Home Pages
