@@ -98,7 +98,7 @@ tags:
 
  ![Impact of institutionalization on child development_backlinks](https://i.imgur.com/GBTp3Za.png)
 
-- [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Reference%20Reading/Research%20Papers/Global/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md)
+- [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Current%20Reality/International%20CCIs/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md)
 	- There are several tools that can be used to measure children's IQ, developmental progress and behavior progress. Some examples are : [R-DPDQ](R-DPDQ) [CBCL](CBCL) [Home Observation for Measurement of the Environment](Home%20Observation%20for%20Measurement%20of%20the%20Environment) [SB4](SB4) . I have classified these as [Assessment Tools](Roll%20Ups/Assessment%20Tools.md). 
 	- There are also behaviors that children exhibit during interactions that can be observed and tied back to inputs. I have classified these as [Observed behavior assessments](Roll%20Ups/Observed%20behavior%20assessments.md)
 		- For Example, children not being able to refuse food likely means that they have not felt satiated often enough and food shortages might be seen in the CCI
@@ -115,7 +115,7 @@ tags:
 # 2022-02-01
 ## IQ Growth, Differentiation and period of institutionalization
 
-- [Irvington HouseGrowth Potential of Pre-school aged children in institutional care](Volume%201/Reference%20Reading/CCIs/Intl/Irvington%20HouseGrowth%20Potential%20of%20Pre-school%20aged%20children%20in%20institutional%20care.md) 
+- [Irvington HouseGrowth Potential of Pre-school aged children in institutional care](Volume%201/Care%20Standards/International%20CCIs/Irvington%20HouseGrowth%20Potential%20of%20Pre-school%20aged%20children%20in%20institutional%20care.md) 
 	- An IQ test conducted in Irvington house suggests that the maximum growth in IQ occurs around the 12 month mark since admission. 
 	- It also suggests that institutional care has the maximum impact on IQ of children who either enter with
 		- Low IQ and High IQ : As it compensates for environmental factors in the child's history that held them back

@@ -81,11 +81,11 @@ Implications for Practice, Policy and Research
 
 - Frank, D. A., Klass, P. E., Earls, F., &amp; Eisenberg, L. (1996). Infants and young children in orphanages: One view from pediatrics and child psychiatry. Pediatrics, 97, 569–578.
 
-- Bakermans-Kranenburg, M. J., van IJzendoorn, M. H., &amp; Juffer, F. (2008). [Earlier Is Better](Volume%201/Reference%20Reading/Books/Earlier%20Is%20Better.md) A meta-analysis of 70 years of intervention improving cognitive development in institutionalized children. Monographs of the Society for Research of Child Development, 73, 279–293. doi:10.1111/j.1540-5834.2008. 00498.x
+- Bakermans-Kranenburg, M. J., van IJzendoorn, M. H., &amp; Juffer, F. (2008). [Earlier Is Better](Volume%201/Care%20Standards/Books/Earlier%20Is%20Better.md) A meta-analysis of 70 years of intervention improving cognitive development in institutionalized children. Monographs of the Society for Research of Child Development, 73, 279–293. doi:10.1111/j.1540-5834.2008. 00498.x
 
 - *Gavrin, J. B., &amp; Sacks, L. S. (1963). Growth potential of preschoolaged children in institutional care: A positive approach to a negative condition. American Journal ofOrthopsychiatry, 33, 399–408.
 
-- Groza, V. K., McCreeryBunkers,K., &amp;Gamer,G.N.(2011). VII.[Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries](Volume%201/Reference%20Reading/Research%20Papers/Global/Ideal%20Components%20and%20current%20characteristics%20of%20alternative%20care%20options%20for%20children%20outside%20of%20parental%20care%20in%20low%20resource%20countries.md). Monographs of the Society for Research in Child Development, 76, 163–189. doi:10.1111/j.1540-5834.2011. 00632.x 
+- Groza, V. K., McCreeryBunkers,K., &amp;Gamer,G.N.(2011). VII.[Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries](Volume%201/Care%20Standards/International%20-%20Services%20for%20CNCP/Ideal%20Components%20and%20current%20characteristics%20of%20alternative%20care%20options%20for%20children%20outside%20of%20parental%20care%20in%20low%20resource%20countries.md). Monographs of the Society for Research in Child Development, 76, 163–189. doi:10.1111/j.1540-5834.2011. 00632.x 
 
 - Hakimi-Manesh, Y., Mojdehi, H., &amp; Tashakkori, A. (1984). Short communication: Effects of environmental enrichment on the mental and psychomotor development of orphanage children. Journal ofChild Psychology and Psychiatry, 25, 643–650.
 

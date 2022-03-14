@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
+            "file": "Stakeholder Index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
+                "file": "Stakeholder Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
+                "file": "Stakeholder Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,15 +112,15 @@
   },
   "active": "64ae6948edd42159",
   "lastOpenFiles": [
-    "Volume 1/Reference Reading/Research Papers/US/The nutritional status of children living within institutionalized care _ a systematic review.md",
     "Stakeholder Index.md",
-    "Home.md",
-    "List of Tags being used (Live).md",
-    "Comprehensive Index.md",
-    "Roll Ups/Domain Roll Up Index.md",
-    "childsafety.md",
-    "Roll Ups/Child Development/Child Lifecycle/Admissions.md",
-    "Roll.md",
-    "Program Design/Literature Review.md"
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Institutional Care Model Author_ Prerana Org.md",
+    "Volume 1/Daily Log/📕Glo's Log.md",
+    "Volume 1/Daily Log/📕Navneeth's Log.md",
+    "Volume 1/Reference Reading/Books/Books Index.md",
+    "Volume 1/Care Standards/International - Govts, UN & World Bodies/UN/Guidelines on Alternative Care_UN.md",
+    "Volume 1/Care Standards/International - Govts, UN & World Bodies/Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia.md",
+    "Volume 1/Current Reality/International CCIs/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
+    "Volume 1/Current Reality/International CCIs/The nutritional status of children living within institutionalized care _ a systematic review.md",
+    "Home.md"
   ]
 }

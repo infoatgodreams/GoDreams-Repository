@@ -4,9 +4,9 @@ tags:
 - Rollups
 ---
 # Introduction
-- According to the [Global Childhood Report 2021](Volume%203/Reference%20Reading/Research%20Papers/Global%20Research/Global%20Childhood%20Report%202021.md)[^7] by Save the Children, malnutrition has been classified as a "childhood ender". India ranks 118/186 countries on the list
+- According to the [Global Childhood Report 2021](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/Global%20Childhood%20Report%202021.md)[^7] by Save the Children, malnutrition has been classified as a "childhood ender". India ranks 118/186 countries on the list
 	- 34.7% of children between the ages of 0-5 have been classified as "Stunted" 
-- According to the [Budget for Children 2022-23 Analysis](Volume%203/Reference%20Reading/Governments%20&%20UN/Budget%20for%20Children%202022-23%20Analysis.md)[^8]
+- According to the [Budget for Children 2022-23 Analysis](Volume%201/Care%20Standards/GOI%20&%20Indian%20Standards/Budget%20for%20Children%202022%20-%20HAQ/Budget%20for%20Children%202022-23%20Analysis.md)[^8]
 	- The share of children under the [[Saksham Anganwadi]] and [[Poshan 2.0]] scheme has observed a reduced allocation of 11.28 per cent with allocations going down from INR 19412.5 Crore in 2021-22 (BE) to INR 17223.61 Crore in Union Budget 2022-23 (BE).
 	- Nutritional deficiencies have been shown to have a negative impact on cognition [^9], 
 - In a study in orphanages in Kenya [^10], Prevalence of undernutrition seemed to increase significantly with an increase in length of stay in the orphanage
@@ -40,7 +40,7 @@ tags:
 	- Common conditions of cough, fever, sore throat, sore eyes, scabies and other skin infections were prevalent. Other conditions like anaemia, phrynoderma and dental caries werealso observed. (Page 7)
 	- one out of every four children suffered from sickness, fatigue and bad sleep (Page 7) 
 ## Stunting
-- [Stunting in a nutshell (who.int)](https://www.who.int/news/item/19-11-2015-stunting-in-a-nutshell#:~:text=Stunting%20is%20the%20impaired%20growth,WHO%20Child%20Growth%20Standards%20median.) : Stunting is the impaired growth and development that children experience from poor nutrition, repeated infection, and inadequate psychosocial stimulation. Children are defined as stunted if their height-for-age is more than two standard deviations below the [WHO Child Growth Standards](Volume%201/Reference%20Reading/Governments%20&%20UN/WHO/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md) median.
+- [Stunting in a nutshell (who.int)](https://www.who.int/news/item/19-11-2015-stunting-in-a-nutshell#:~:text=Stunting%20is%20the%20impaired%20growth,WHO%20Child%20Growth%20Standards%20median.) : Stunting is the impaired growth and development that children experience from poor nutrition, repeated infection, and inadequate psychosocial stimulation. Children are defined as stunted if their height-for-age is more than two standard deviations below the [WHO Child Growth Standards](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/WHO/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md) median.
 - According to a meta study of global research, stunting prevalence can vary from 9–72%; [^12]
 - According to NFHS5 [^8] (National Familiy and Health Survey, 2019-20) data ,13 out of 22 states in India have witnessed a reversal in stunting outcomes, recording a rise in the percentage of children under five years who are stunted in 2022 in comparison to 2015- 16.
 - In a study in Ethiopia [^11], Being a double orphaned child and lack of vitamin A supplement in the last six months were significant predictors of stunting in children aged 1-5
@@ -180,7 +180,7 @@ tags:
 
 - WHO has built a software tool and graphs/tables for field measurements of height to age , weight to age and BMI to age ratios [^5]
 	- The tool is more accurate for children below the age of 5
-	- For children above the age of 5, a loose reference version of the tool modified by the Indian Pediatrics Association, is available as part of the [Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children](Volume%201/Reference%20Reading/Governments%20&%20UN/IAP/Revised%20IAP%20Growth%20Charts%20for%20Height,%20Weight%20and%20Body%20Mass%20Index%20for%205%20to%2018%20year%20old%20Indian%20Children.md) [^6]  written in 2014
+	- For children above the age of 5, a loose reference version of the tool modified by the Indian Pediatrics Association, is available as part of the [Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children](Volume%201/Care%20Standards/GOI%20&%20Indian%20Standards/IAP/Revised%20IAP%20Growth%20Charts%20for%20Height,%20Weight%20and%20Body%20Mass%20Index%20for%205%20to%2018%20year%20old%20Indian%20Children.md) [^6]  written in 2014
 - These tools can be used to assess overall dietary inputs and gaps at a macro level
 
 ## CCI Level Assessments
@@ -189,18 +189,18 @@ tags:
 
 # Footnotes 
 
-[^1]: [Miracle Foundation_Institutionalised Children_Explorations and Beyond](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Miracle%20Foundation/Miracle%20Foundation_Institutionalised%20Children_Explorations%20and%20Beyond.md)
+[^1]: [Miracle Foundation_Institutionalised Children_Explorations and Beyond](Volume%201/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/Miracle%20Foundation/Miracle%20Foundation_Institutionalised%20Children_Explorations%20and%20Beyond.md)
 [^2]: [UdayanCare_Standardsofcareinchildcareinstitutions](Volume%201/Volume%201%20Public%20Resource%20Links/Other%20service%20providers/UdayanCare_Standardsofcareinchildcareinstitutions.pdf)
-[^3]: [Nutrition, Health & Psychosocial Profile of Institutionalized Children](Volume%201/Reference%20Reading/Research%20Papers/India/Nutrition,%20Health%20&%20Psychosocial%20Profile%20of%20Institutionalized%20Children.md)
-[^4]: [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Reference%20Reading/Research%20Papers/Global/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md) 
-[^5]: [WHO Child Growth Standards](Volume%201/Reference%20Reading/Governments%20&%20UN/WHO/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md)
-[^6]: [Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children](Volume%201/Reference%20Reading/Governments%20&%20UN/IAP/Revised%20IAP%20Growth%20Charts%20for%20Height,%20Weight%20and%20Body%20Mass%20Index%20for%205%20to%2018%20year%20old%20Indian%20Children.md)
-[^7]: [Global Childhood Report 2021](Volume%203/Reference%20Reading/Research%20Papers/Global%20Research/Global%20Childhood%20Report%202021.md)
-[^8]: [Budget for Children 2022-23 Analysis](Volume%203/Reference%20Reading/Governments%20&%20UN/Budget%20for%20Children%202022-23%20Analysis.md)
+[^3]: [Nutrition, Health & Psychosocial Profile of Institutionalized Children](Volume%201/Current%20Reality/India%20CCIs/Nutrition,%20Health%20&%20Psychosocial%20Profile%20of%20Institutionalized%20Children.md)
+[^4]: [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Current%20Reality/International%20CCIs/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md) 
+[^5]: [WHO Child Growth Standards](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/WHO/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md)
+[^6]: [Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children](Volume%201/Care%20Standards/GOI%20&%20Indian%20Standards/IAP/Revised%20IAP%20Growth%20Charts%20for%20Height,%20Weight%20and%20Body%20Mass%20Index%20for%205%20to%2018%20year%20old%20Indian%20Children.md)
+[^7]: [Global Childhood Report 2021](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/Global%20Childhood%20Report%202021.md)
+[^8]: [Budget for Children 2022-23 Analysis](Volume%201/Care%20Standards/GOI%20&%20Indian%20Standards/Budget%20for%20Children%202022%20-%20HAQ/Budget%20for%20Children%202022-23%20Analysis.md)
 [^9]: [Impact of Nutritional Status on Cognition in Institutionalized Orphans, A Pilot Study](Volume%202/Reference%20Reading/Research%20Papers/Nutrition%20Papers/Impact%20of%20Nutritional%20Status%20on%20Cognition%20in%20Institutionalized%20Orphans,%20A%20Pilot%20Study.md)
 [^10]: [Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya](Volume%202/Reference%20Reading/Research%20Papers/Nutrition%20Papers/Childcare%20practices,%20morbidity%20status%20and%20nutrition%20status%20of%20Pre-school%20children%20in%20Orphanages,%20Kenya.md)
-[^11]: [Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres](Volume%201/Reference%20Reading/Research%20Papers/Global/Magnitude%20and%20Associated%20Factors%20of%20Undernutrition%20Among%20children%20aged%206-59%20months%20in%20Ethiopian%20Orphanage%20Centres.md)
-[^12]: [The nutritional status of children living within institutionalized care _ a systematic review](Volume%201/Reference%20Reading/Research%20Papers/US/The%20nutritional%20status%20of%20children%20living%20within%20institutionalized%20care%20_%20a%20systematic%20review.md)
+[^11]: [Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres](Volume%201/Current%20Reality/International%20CCIs/Magnitude%20and%20Associated%20Factors%20of%20Undernutrition%20Among%20children%20aged%206-59%20months%20in%20Ethiopian%20Orphanage%20Centres.md)
+[^12]: [The nutritional status of children living within institutionalized care _ a systematic review](Volume%201/Current%20Reality/International%20CCIs/The%20nutritional%20status%20of%20children%20living%20within%20institutionalized%20care%20_%20a%20systematic%20review.md)
 [^13]: Unread
 [^14]: [MiracleFoundation_Institutionalise Children Explorations and Beyond](Volume%201/Volume%201%20Public%20Resource%20Links/Other%20service%20providers/MiracleFoundation_Institutionalise%20Children%20Explorations%20and%20Beyond.pdf)
-[^15]: [Canada_British Columbia_Food and Nutrition Manual for homes](Volume%201/Reference%20Reading/Governments%20&%20UN/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md)
+[^15]: [Canada_British Columbia_Food and Nutrition Manual for homes](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md)
