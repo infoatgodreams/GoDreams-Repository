@@ -10,7 +10,7 @@ The purpose of this portal is to access information that we've compiled from stu
 
 >The ongoing activity is the the [Literature Review](Program%20Design/Literature%20Review.md). A good place to start digging into the content would be the [📜Domain Roll Up Index](Index%20Pages/📜Domain%20Roll%20Up%20Index.md) or the [📜Stakeholder Index](Index%20Pages/📜Stakeholder%20Index.md).  (Alternatively use the  [📜Comprehensive Index](Index%20Pages/📜Comprehensive%20Index.md) for a full deep dive)
 
-## The Problem 
+## ⚠️The Problem 
 
 ```co
 Children in Need of Care and Protection (CNCP) in India are not achieving positive adult outcomes.
@@ -31,7 +31,7 @@ This is primarily a consequence of:
 ```
 
 
-## The Solution
+## 🔍The Solution
 
 The CCI **Capacity Accelerator Program** will
 ```co
@@ -51,7 +51,7 @@ through the following pillars:
 	1. ==Hands-on support to CCI leadership and staff== to facilitate contextualized progress to benchmark care quality targets.
 
 
-## The Timeline
+## ⏰The Timeline
 
 1. Jan 2022 - June 2022 : [[Literature Review]]
 2. April 2022 - June 2022: [CCI Immersion](Program%20Design/CCI%20Immersion.md)

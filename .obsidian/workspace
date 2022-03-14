@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -114,6 +113,7 @@
   "active": "851ce1f666c01fe2",
   "lastOpenFiles": [
     "Program Design/CCI Immersion.md",
+    "Home.md",
     "Program Design/Research Tools.md",
     "Program Design/CAP Design Framework.md",
     "Program Design/Literature Review.md",
@@ -121,7 +121,6 @@
     "Roll Ups/Caregiving/Care Practices.md",
     "Roll Ups/Child Development/Observed behavior assessments 1.md",
     "Roll Ups/Risks.md",
-    "Index Pages/📜Reading List.md",
-    "Roll Ups/CCI Operations/CCI Compliance.md"
+    "Index Pages/📜Reading List.md"
   ]
 }
