@@ -205,6 +205,19 @@ h1,h2,h3,h4,h5 {font-family: var(--font-header);}
 /* --------------- */
 /* Tags */
 
+.frontmatter-container
+{
+display: inline;
+border: 0px;
+}
+
+.frontmatter-container
+{
+display: inline;
+border: 0px;
+}
+
+
 .frontmatter-container .tag,
 .tag,
 .markdown-preview-view .tag:not(.token) {
@@ -223,6 +236,9 @@ h1,h2,h3,h4,h5 {font-family: var(--font-header);}
   position: relative;
   bottom: 1px;
 }
+
+
+
 .tag:hover {
   color:var(--text-normal);
   border-color:var(--background-modifier-border-hover);
