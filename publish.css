@@ -203,20 +203,7 @@ h1,h2,h3,h4,h5 {font-family: var(--font-header);}
 }
 
 /* --------------- */
-/* Tags */
-
-.frontmatter-container
-{
-display: inline;
-border: 0px;
-}
-
-.frontmatter-container
-{
-display: inline;
-border: 0px;
-}
-
+/* Tags 
 
 .frontmatter-container .tag,
 .tag,
@@ -235,9 +222,19 @@ border: 0px;
   line-height: 20px;
   position: relative;
   bottom: 1px;
+} */
+
+
+.frontmatter-container
+{
+display: inline;
+border: 0px;
 }
 
-
+.markdown-preview-view:not(.show-frontmatter) .frontmatter
+{
+display: inline;
+}
 
 .tag:hover {
   color:var(--text-normal);
