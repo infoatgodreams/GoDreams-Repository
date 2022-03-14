@@ -7,8 +7,8 @@ tags:
 # Master Index: 
 
 # Program Design:
-- **[CAP Design Framework-old](Program%20Design/Archived/CAP%20Design%20Framework-old.md)**
-- **[Intervention Map](Program%20Design/Archived/Intervention%20Map.md)**
+- **[CAP Design Framework-old](Archived/CAP%20Design%20Framework-old.md)**
+- **[Intervention Map](Archived/Intervention%20Map.md)**
 
 
 # Topic Roll Ups: 
@@ -139,8 +139,8 @@ tags:
 # Summary Index 
 
 # Program Design
-- **[CAP Design Framework-old](Program%20Design/Archived/CAP%20Design%20Framework-old.md)**
-- **[Intervention Map](Program%20Design/Archived/Intervention%20Map.md)**
+- **[CAP Design Framework-old](Archived/CAP%20Design%20Framework-old.md)**
+- **[Intervention Map](Archived/Intervention%20Map.md)**
 
 
 # Secondary Research Home Pages
