@@ -6,10 +6,24 @@
       {
         "id": "64ae6948edd42159",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Stakeholder Index.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "70f8e94762a1608b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Roll Ups/Domain Roll Up Index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stakeholder Index.md",
+                "file": "Roll Ups/Domain Roll Up Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stakeholder Index.md",
+                "file": "Roll Ups/Domain Roll Up Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,17 +124,17 @@
     "width": 420,
     "collapsed": true
   },
-  "active": "64ae6948edd42159",
+  "active": "70f8e94762a1608b",
   "lastOpenFiles": [
+    "Roll Ups/Domain Roll Up Index.md",
+    "Comprehensive Index.md",
+    "Home.md",
     "Stakeholder Index.md",
+    "Volume 1/Care Standards/International - Services for CNCP/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
+    "Volume 1/Care Standards/International - Govts, UN & World Bodies/UN/Guidelines on Alternative Care_UN.md",
+    "Volume 1/Care Standards/India - Services for CNCP/Multidimensional Scale for Child Sexual Abuse (MSCSE).md",
     "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Institutional Care Model Author_ Prerana Org.md",
     "Volume 1/Daily Log/📕Glo's Log.md",
-    "Volume 1/Daily Log/📕Navneeth's Log.md",
-    "Volume 1/Reference Reading/Books/Books Index.md",
-    "Volume 1/Care Standards/International - Govts, UN & World Bodies/UN/Guidelines on Alternative Care_UN.md",
-    "Volume 1/Care Standards/International - Govts, UN & World Bodies/Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia.md",
-    "Volume 1/Current Reality/International CCIs/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
-    "Volume 1/Current Reality/International CCIs/The nutritional status of children living within institutionalized care _ a systematic review.md",
-    "Home.md"
+    "Volume 1/Daily Log/📕Navneeth's Log.md"
   ]
 }
