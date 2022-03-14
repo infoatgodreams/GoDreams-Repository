@@ -101,6 +101,13 @@ What are Guardians hypothesis for CAP that we must be right about to achieve exc
 
 **Pick a clear and specific atomic unit**. The more niche the better in this case. You are looking for the smallest possible item that you could distill your product down to.
 
+# **Pathways post MVT**
+
+### **Path #1: Nail what your customers care about most** 
+
+Don't build a full fledged product, start aggregative essential services
+
+### **Path #2: Ship the first version of your product**
 
 ## Templates
 
