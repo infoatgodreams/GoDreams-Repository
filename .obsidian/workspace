@@ -4,21 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f20a60b0a366a27c",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Index Pages/📜Domain Roll Up Index.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "9b10547fe20948b0",
+        "id": "851ce1f666c01fe2",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -124,17 +110,17 @@
     "width": 420,
     "collapsed": true
   },
-  "active": "9b10547fe20948b0",
+  "active": "851ce1f666c01fe2",
   "lastOpenFiles": [
     "Program Design/CAP Design Framework.md",
-    "Program Design/CCI Immersion.md",
+    "Program Design/Research Tools.md",
     "Program Design/Literature Review.md",
+    "Program Design/CCI Immersion.md",
     "Index Pages/📜Domain Roll Up Index.md",
     "Roll Ups/Caregiving/Care Practices.md",
     "Roll Ups/Child Development/Observed behavior assessments 1.md",
     "Roll Ups/Risks.md",
     "Index Pages/📜Reading List.md",
-    "Roll Ups/CCI Operations/CCI Compliance.md",
-    "Home.md"
+    "Roll Ups/CCI Operations/CCI Compliance.md"
   ]
 }
