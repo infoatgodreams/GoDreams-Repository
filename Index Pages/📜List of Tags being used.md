@@ -5,6 +5,7 @@ author: Navneeth
 
 tags: 
 
+- indexpage
 - dailylog
 - Practitioner
 - usresearch
