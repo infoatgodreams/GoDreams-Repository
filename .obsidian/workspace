@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "88d213179a6cf7ad",
+        "id": "a72f8151039391cf",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Practitioners",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,24 +103,24 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 420,
-    "collapsed": true
+    "width": 420
   },
-  "active": "88d213179a6cf7ad",
+  "active": "a72f8151039391cf",
   "lastOpenFiles": [
     "Volume 1/Care Standards/International - Service Providers to CCIs/Hope Wordwide/Hope Worldwide_Introduction to Working with Children and Psychosocial Support.md",
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Rainbow Foundation/Supporting Carers Author_ Rainbow Home.md",
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Restoration Model by Prerana.md",
     "templates/New Page/New Note.md",
     "templates/Note Taking Instructions.md",
     "templates/Markdown Syntax.md",
     "L&D/WebClippings.md",
     "test - Google Search.md",
     "Home.md",
-    "Program Design/01 CAP Design Framework.md",
-    "Program Design/02 Literature Review.md",
-    "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md"
+    "Program Design/01 CAP Design Framework.md"
   ]
 }

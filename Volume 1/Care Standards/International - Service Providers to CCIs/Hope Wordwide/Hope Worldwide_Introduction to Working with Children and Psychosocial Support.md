@@ -1,5 +1,8 @@
-
-
+---
+title: Hope Worldwide_Introduction to Working with Children and Psychosocial Support
+tags:
+- Practitioner
+---
 
 # Brief:
 
@@ -8,35 +11,70 @@
 -   Link: (Insert Drive link to highlighted pdf)
     
 -   Original Link: -
+
+-    Date: 2006
     
--   ## Date: 2006
+-    Author: Hope Worldwide
     
--   ## Author: Hope Wordwide
-    
--   ## Gold Standard Inputs & Outcomes: 
+-    Gold Standard Inputs & Outcomes: 
 	- Workshop Facilitation Strategies
 	- Workshop Content
 	    
--   ## Baseline Inputs & Outcomes:  
+-   Baseline Inputs & Outcomes:  
 	- None
 	    
-
-]
 
 
 # Summary
 
-p. 1
+- Introduction to Working with Children and Psychosocial Support
 
-Introduction to Working with Children and Psychosocial Support
+- The Introduction to Working with Children and Psychosocial Support Workshop is designed to raise awareness around the issues that children who are affected by HIV are facing and how to offer support and build resilience. It targets volunteers and staff who are new to the childcare arena and is an introduction to a series of key topics. Each of the topics could and should be taught in more detail depending on the needs of the children in your community.
 
-p. 4
+## Workshop Topics
 
-The Introduction to Working with Children and Psychosocial Support Workshop is designed to raise awareness around the issues that children who are affected by HIV are facing and how to offer support and build resilience. It targets volunteers and staff who are new to the childcare arena and is an introduction to a series of key topics. Each of the topics could and should be taught in more detail depending on the needs of the children in your community.
-
-TABLE OF CONTENTS 1 INTRODUCTION ....................................................................................................... 6 Introduction and Expectations ........................................................................................ 6 2 THE NEEDS OF CHILDREN ...................................................................................... 6 2.1 2.2 The Needs of Children ...................................................................................... 7 Vulnerable Children .........................................................................................10 3 CHILD DEVELOPMENT............................................................................................12 3.1 3.2 3.3 Introduction .....................................................................................................12 Behaviour and Needs at Different Developmental Stages ...................................13 The Role of “Play” in Child Development ...........................................................17 4 CHILDREN’S RIGHTS ..............................................................................................20 4.1 4.2 Children’s Rights .............................................................................................20 Children’s Responsibility ..................................................................................22 5 CHILD ABUSE..........................................................................................................24 5.1 5.2 Introduction and Definition ................................................................................24 Types and Signs of Abuse................................................................................25 5.2.1 5.2.2 5.2.3 5.2.4 5.3 5.4 Physical Abuse............................................................................................25 Emotional Abuse .........................................................................................25 Neglect: ......................................................................................................26 Sexual Abuse: .............................................................................................27 Child Abuse versus Culture ..............................................................................28 Child Abuse and Our Organization ....................................................................29 6 CHILDREN LIVING IN A WORLD WITH HIV/AIDS ......................................................31 6.1 6.2 6.3 Basic Facts about HIV ......................................................................................31 Attitudes toward HIV/AIDS and their Impact.......................................................35 Helping Children Live in a World with HIV ..........................................................38 7 LOSS, GRIEF AND MOURNING................................................................................39 7.1 Understanding Loss .........................................................................................39
-
-p. 5
-
-7.2 7.3 7.4 7.5 How Children Understand Death at Different Stages ..........................................41 Stages of Grief ................................................................................................44 Helping Children to Mourn ................................................................................46 What Can I Do as a Supporting Adult? ..............................................................46 8 STRESS, COPING AND RESILIENCE .......................................................................48 8.1 8.2 8.3 8.4 8.5 8.6 What is Stress?...............................................................................................48 Signs and Symptoms of Stress .........................................................................49 Coping ............................................................................................................50 Resilience.......................................................................................................52 What Makes a Child Resilient? .........................................................................54 Building Resilience in Children..........................................................................55 9 INTRODUCTION TO PSS TOOLS .............................................................................61 9.1 9.2 9.3 9.4 9.5 9.6 9.7 9.8 What is Psychosocial Support...........................................................................61 Principles of a PSS Intervention........................................................................62 Counselling .....................................................................................................63 Support Groups ...............................................................................................64 Memory Boxes ................................................................................................66 Play Therapy ...................................................................................................68 Kidz Clubs .......................................................................................................69 Resilience Building Games and Activities ..........................................................71 CARING FOR CARERS .......................................................................................76 Annex 1: Ideas on Positive Discipline................................................................................78 10
+- Introduction and Expectations 
+- THE NEEDS OF CHILDREN 
+- Vulnerable Children 
+- CHILD DEVELOPMENT
+- Behaviour and Needs at Different Developmental Stages 
+- The Role of “Play” in Child Development
+- CHILDREN’S RIGHTS 
+- Children’s Responsibility 
+- CHILD ABUSE
+- Types and Signs of Abuse
+- Physical Abuse
+- Emotional Abuse
+- Neglect:
+- Sexual Abuse
+- Child Abuse versus Culture
+- Child Abuse and Our Organization
+- CHILDREN LIVING IN A WORLD WITH HIV/AIDS 
+- Basic Facts about HIV
+- Attitudes toward HIV/AIDS and their Impact
+- Helping Children Live in a World with HIV
+- LOSS, GRIEF AND MOURNING
+- Understanding Loss 
+- How Children Understand Death at Different Stages
+- Stages of Grief 
+- Helping Children to Mourn
+- What Can I Do as a Supporting Adult?
+- STRESS, COPING AND RESILIENCE
+- What is Stress?
+- Signs and Symptoms of Stress 
+- Coping
+- Resilience
+- What Makes a Child Resilient? 
+- Building Resilience in Children
+- INTRODUCTION TO PSS TOOLS
+- What is Psychosocial Support
+- Principles of a PSS Intervention
+- Counselling 
+- Support Groups 
+- Memory Boxes 
+- Play Therapy
+- Kidz Clubs 
+- Resilience Building Games and Activities
+- CARING FOR CARERS
+- Annex 1: Ideas on Positive Discipline
 
