@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/New Page/New Note.md",
+            "file": "Volume 1/Care Standards/International - Services for CNCP/Leaving Care and mental health _ Outcomes for children in out-of-home care during the transition to adulthood.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/New Page/New Note.md",
+                "file": "Volume 1/Care Standards/International - Services for CNCP/Leaving Care and mental health _ Outcomes for children in out-of-home care during the transition to adulthood.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/New Page/New Note.md",
+                "file": "Volume 1/Care Standards/International - Services for CNCP/Leaving Care and mental health _ Outcomes for children in out-of-home care during the transition to adulthood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +112,7 @@
   },
   "active": "a72f8151039391cf",
   "lastOpenFiles": [
+    "Volume 1/Care Standards/International - Services for CNCP/Leaving Care and mental health _ Outcomes for children in out-of-home care during the transition to adulthood.md",
     "templates/New Page/New Note.md",
     "Volume 1/Care Standards/International - Service Providers to CCIs/Hope Wordwide/Hope Worldwide_Introduction to Working with Children and Psychosocial Support.md",
     "Volume 1/Care Standards/India - Service Providers to CCIs/Rainbow Foundation/Supporting Carers Author_ Rainbow Home.md",
@@ -120,7 +121,6 @@
     "templates/Markdown Syntax.md",
     "L&D/WebClippings.md",
     "test - Google Search.md",
-    "Home.md",
-    "Program Design/01 CAP Design Framework.md"
+    "Home.md"
   ]
 }
