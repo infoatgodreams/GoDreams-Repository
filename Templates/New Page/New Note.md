@@ -12,6 +12,7 @@ tags:
 -   **Date:** 
 -   **Author:** 
 -   **Summarized By**: 
+-   **Major Tags**: 
 -  **Gold Standard Inputs & Outcomes:** 
 	- 
 	    
