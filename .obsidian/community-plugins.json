@@ -3,5 +3,7 @@
   "obsidian-git",
   "better-fn",
   "obsidian-footnotes",
-  "obsidian-emoji-toolbar"
+  "obsidian-emoji-toolbar",
+  "obsidian-tabs",
+  "obsidian-local-rest-api"
 ]
