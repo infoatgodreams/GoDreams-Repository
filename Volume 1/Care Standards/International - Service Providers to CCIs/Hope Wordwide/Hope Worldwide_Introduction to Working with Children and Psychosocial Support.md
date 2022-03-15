@@ -15,6 +15,8 @@ tags:
 -    Date: 2006
     
 -    Author: Hope Worldwide
+-    Summarized By : Navneeth
+-   Major Tags: [Mental Health](Roll%20Ups/Mental%20Health/Mental%20Health.md)
     
 -    Gold Standard Inputs & Outcomes: 
 	- Workshop Facilitation Strategies
