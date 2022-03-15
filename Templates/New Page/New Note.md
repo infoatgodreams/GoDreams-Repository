@@ -1,22 +1,20 @@
-# Brief:
+---
+title: 
+tags:
 
--   Scope & Description: 
-    
--   Drive Link: 
-    
--   Original Link: -
-    
--   ## Date: 
-    
--   ## Author: 
-    
--   ## Gold Standard Inputs & Outcomes: 
+---
+
+# Brief
+-   **Scope & Description:** 
+-   **Drive Link:** 
+-   **Original Link:** 
+-   **Date:** 
+-   **Author:** 
+-  **Gold Standard Inputs & Outcomes:** 
 	- 
 	    
--   ## Baseline Inputs & Outcomes:  
-	- None
+-   **Baseline Inputs & Outcomes:**  
+	- 
 	    
-
-
 
 # Summary

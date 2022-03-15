@@ -8,7 +8,7 @@ tags:
 
 -   Scope & Description: A workshop manual to train caregivers who are working with children with HIV in institutions in Africa around Mental Health
     
--   Link: (Insert Drive link to highlighted pdf)
+-   Link: https://drive.google.com/file/d/1MuNCMOL-7QmBebjGrzpnliGEwtn6pu3F/view?usp=sharing
     
 -   Original Link: -
 

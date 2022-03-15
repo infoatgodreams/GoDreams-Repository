@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Care Standards/International - Service Providers to CCIs/Hope Wordwide/Hope Worldwide_Introduction to Working with Children and Psychosocial Support.md",
+            "file": "templates/New Page/New Note.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Care Standards/International - Service Providers to CCIs/Hope Wordwide/Hope Worldwide_Introduction to Working with Children and Psychosocial Support.md",
+                "file": "templates/New Page/New Note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Care Standards/International - Service Providers to CCIs/Hope Wordwide/Hope Worldwide_Introduction to Working with Children and Psychosocial Support.md",
+                "file": "templates/New Page/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,10 +112,10 @@
   },
   "active": "a72f8151039391cf",
   "lastOpenFiles": [
+    "templates/New Page/New Note.md",
     "Volume 1/Care Standards/International - Service Providers to CCIs/Hope Wordwide/Hope Worldwide_Introduction to Working with Children and Psychosocial Support.md",
     "Volume 1/Care Standards/India - Service Providers to CCIs/Rainbow Foundation/Supporting Carers Author_ Rainbow Home.md",
     "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Restoration Model by Prerana.md",
-    "templates/New Page/New Note.md",
     "templates/Note Taking Instructions.md",
     "templates/Markdown Syntax.md",
     "L&D/WebClippings.md",
