@@ -1,11 +1,30 @@
 
 
 
+# Brief:
 
-# Scope
+-   Scope & Description: A workshop manual to train caregivers who are working with children with HIV in institutions in Africa around Mental Health
+    
+-   Link: (Insert Drive link to highlighted pdf)
+    
+-   Original Link: -
+    
+-   ## Date: 2006
+    
+-   ## Author: Hope Wordwide
+    
+-   ## Gold Standard Inputs & Outcomes: 
+	- Workshop Facilitation Strategies
+	- Workshop Content
+	    
+-   ## Baseline Inputs & Outcomes:  
+	- None
+	    
+
+]
 
 
-
+# Summary
 
 p. 1
 
