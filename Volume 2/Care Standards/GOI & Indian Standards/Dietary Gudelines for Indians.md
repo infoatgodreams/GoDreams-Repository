@@ -2,7 +2,7 @@
 title: Dietary Guidelines for Indians, National Institute of Nutrition, Hyderabad 
 author: Mekha
 tags : 
-- Government
+- Governmentofindia
 ---
 Tags: [Nutrition](Roll%20Ups/Nutrition/Nutrition.md)
 

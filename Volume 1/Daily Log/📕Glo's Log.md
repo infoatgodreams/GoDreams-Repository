@@ -1,7 +1,7 @@
 ---
 title: Research Journal Gloria
 tags: 
-- dailylog
+- dailylogs
 ---
 
 

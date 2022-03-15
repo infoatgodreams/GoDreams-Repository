@@ -1,15 +1,17 @@
 ---
 title: Leaving Care and mental health _ Outcomes for children in out-of-home care during the transition to adulthood
+author: Jane Akister, Matt Owners, Ian M Goodyer
 tags:
 -globalresearch
 ---
-
+#incomplete
 # Brief
 -   **Scope & Description:**  A study of Mental Heath outcomes for children leaving care in the UK
--   **Drive Link:** 
+-   **Drive Link:** https://drive.google.com/file/d/1Oy3wImFCBFL8rqreCGuFWh3PvbxeCHgP/view?usp=sharing
 -   **Original Link:** 
 -   **Date:** 
--   **Author:** 
+-   **Author:** Jane Akister, Matt Owners, Ian M Goodyer
+-  **Summarized By**: Navneeth
 -  **Gold Standard Inputs & Outcomes:** 
 	- 
 	    
@@ -21,7 +23,7 @@ tags:
 
 p. 1
 
-Leaving care and mental health: outcomesfor children in out-of-homecare during the transition to adulthood
+Leaving care and mental health:  children in out-of-homecare during the transition to adulthood
 
 There were 59,500 Children in out-of-homecare in England in 2008. Researchinto this population points to poor health and quality oflife outcomes over the transition to adult independence.
 

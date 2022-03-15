@@ -3,7 +3,7 @@ title: Rethinking Orphanages for the 21st Century
 author: Richard B McKenzie
 tag: #books 
 ---
-Tags: [Permanence](Permanence)[Marvin Olasky](Marvin%20Olasky) [Education](Roll%20Ups/Education/Education.md) [ChildParticipation](Roll%20Ups/Child%20Development/ChildParticipation.md) #risks 
+Tags: [Permanence](Permanence)[Marvin Olasky](Marvin%20Olasky) [Education](Roll%20Ups/Education/Education.md) [ChildParticipation](Roll%20Ups/Child%20Development/ChildParticipation.md) 
 
 Status: [ReferenceReading](ReferenceReading) 
 # #readinglist 
@@ -21,7 +21,7 @@ Orphanage alumni attribute successes to the following attributes of orphanage li
 
 Rising costs for institutions (page 11) are also correlated with increased stringency of child labour laws, meaning that what were chores ChildParticipation undertaken by the children often had to be moved to permanent staff. 
 
-#risks over-compliance with regulation can mean limiting innovation/improvement of practices in new directions and differentiation required as per context. (page 13)
+ over-compliance with regulation can mean limiting innovation/improvement of practices in new directions and differentiation required as per context. (page 13)
 
 
 

@@ -2,7 +2,7 @@
 title: Navneeths Log
 author: Navneeth
 tags:
-- dailylog
+- dailylogs
 ---
 
 # Feb 2022 Summary

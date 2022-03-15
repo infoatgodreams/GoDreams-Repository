@@ -1,5 +1,6 @@
 ---
-title: 
+title:
+author:
 tags:
 
 ---
@@ -10,6 +11,7 @@ tags:
 -   **Original Link:** 
 -   **Date:** 
 -   **Author:** 
+-   **Summarized By**: 
 -  **Gold Standard Inputs & Outcomes:** 
 	- 
 	    
