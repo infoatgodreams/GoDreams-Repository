@@ -14,4 +14,4 @@
 # Participate in the survey
 **[Click here for a full page version](https://tally.so/r/mYloBn)**
 
-<iframe src="https://tally.so/embed/mYloBn?hideTitle=1&transparentBackground=1" width="100%" height="400" frameborder="0" marginheight="0" marginwidth="0" title="What do you need help solving?"> </iframe>
+<iframe src="https://tally.so/embed/mYloBn?alignLeft=1&hideTitle=1&transparentBackground=1" width="100%" height="1000" frameborder="1" marginheight="0" marginwidth="0" title="What do you need help solving?"> </iframe>
