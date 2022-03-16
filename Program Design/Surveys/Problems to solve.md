@@ -12,4 +12,4 @@
 
 # Participate in the survey
 
-<button data-tally-open="mYloBn" data-tally-layout="modal" data-tally-width="600" data-tally-auto-close="1000"> Click here to add an entry!</button>
+<a href="https://tally.so#tally-open=mYloBn&tally-emoji-text=👋&tally-emoji-animation=wave">Submit Response Here</a>
