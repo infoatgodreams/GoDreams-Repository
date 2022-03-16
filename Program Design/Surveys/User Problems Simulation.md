@@ -23,10 +23,12 @@ If we can solve for this within CAP, then we ensure that the funder is invested 
 
 ```co
 Why this exercise? To identify what the most common and crucial problems are for key users before we build a solution 
-
-How do we do this? Draw on your experience with CCI stakeholders to wear their hat, simulate their environment and identify problems from their point of view;
-
-What does it look like? We are capturing data in the form of the attached survey, multiple entries are encouraged! None of the Qs are compulsory, so even partially formed thoughts work;
+```
+```co
+How do we do this? Draw on your experience with CCI stakeholders to wear their hat, simulate their environment and identify problems from their point of view
+```
+```co
+What does it look like? We are capturing data in the form of the attached survey, multiple entries are encouraged! None of the Qs are compulsory, so even partially formed thoughts work
 ```
 
 # Participate in the survey
