@@ -20,6 +20,7 @@ If we can solve for this within CAP, then we ensure that the funder is invested 
 	- **Children in CCIs** : What are the problems we have seen or assume that a child would articulate?
 	- **CCI Funders** : What are the problems we have seen or assume that a donor (either individual or corporates) would articulate?
 
+
 ```co
 Why this exercise? To identify what the most common and crucial problems are for key users before we build a solution 
 
