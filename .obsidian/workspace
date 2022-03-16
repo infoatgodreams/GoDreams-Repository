@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Program Design/Surveys/Guardians Internal Survey.md",
+            "file": "Home.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program Design/Surveys/Guardians Internal Survey.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program Design/Surveys/Guardians Internal Survey.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +112,8 @@
   },
   "active": "ec34590cad8bb91e",
   "lastOpenFiles": [
-    "Program Design/Surveys/Guardians Internal Survey.md",
+    "Home.md",
+    "Program Design/Surveys/Problems to solve.md",
     "Volume 1/Current Reality/International CCIs/Psychosocial Screening and Monitoring for children in foster care_Psychometric properties of the Brief Assessment Checklist in a Dutch population study.md",
     "Volume 1/Current Reality/International CCIs/More than the loss of a parent _ potentially traumatic events among orphaned and abandoned children.md",
     "Volume 1/Current Reality/International CCIs/Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya.md",
@@ -120,7 +121,6 @@
     "Volume 1/Care Standards/International - Service Providers to CCIs/Hope Wordwide/Hope Worldwide_Introduction to Working with Children and Psychosocial Support.md",
     "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Volume 1/Current Reality/International CCIs/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md",
-    "Volume 1/Current Reality/International CCIs/Leaving Care and mental health _ Outcomes for children in out-of-home care during the transition to adulthood.md",
-    "Volume 1/Current Reality/International CCIs/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md"
+    "Volume 1/Current Reality/International CCIs/Leaving Care and mental health _ Outcomes for children in out-of-home care during the transition to adulthood.md"
   ]
 }
