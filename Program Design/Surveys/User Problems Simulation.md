@@ -7,7 +7,7 @@ tags:
 ---
 # What is this about?
 
-One of the key data points to unlock would be problems that we, the CCIs and other stakeholders that our solution will be used by face. 
+One of the key data points to unlock would be most common problems/barriers faced while working towards adult outcomes for children, by us (Guardians), the CCIs and other stakeholders who will use our solution.
 
 ```co
 For example, if one were to ask a funder "Have you faced any issues while funding this CCI?", what would they say?
