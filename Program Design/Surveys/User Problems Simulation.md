@@ -1,5 +1,10 @@
 
-<head> <script async src="https://tally.so/widgets/embed.js"></script> </head>
+---
+title: User Problems Simulation
+author: Navneeth
+tags: 
+- designexercises
+---
 # What is this about?
 
 One of the key data points to unlock would be problems that we, the CCIs and other stakeholders that our solution will be used by face. 
@@ -16,11 +21,11 @@ If we can solve for this within CAP, then we ensure that the funder is invested 
 	- **CCI Funders** : What are the problems we have seen or assume that a donor (either individual or corporates) would articulate?
 
 ```co
-Why this exercise? To identify what the most common and crucial problems are for key users before we build a solution
+Why this exercise? To identify what the most common and crucial problems are for key users before we build a solution 
 
-How do we do this? Draw on your experience with CCI stakeholders to wear their hat, simulate their environment and identify problems from their point of view
+How do we do this? Draw on your experience with CCI stakeholders to wear their hat, simulate their environment and identify problems from their point of view;
 
-What does it look like? We are capturing data in the form of the attached survey, multiple entries are encouraged! None of the Qs are compulsory, so even partially formed thoughts work. 
+What does it look like? We are capturing data in the form of the attached survey, multiple entries are encouraged! None of the Qs are compulsory, so even partially formed thoughts work;
 ```
 
 # Participate in the survey
