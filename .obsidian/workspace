@@ -37,7 +37,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "Program Design/03 Field Immersion.md",
             "mode": "source",
             "source": false
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Program Design/03 Field Immersion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Program Design/03 Field Immersion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,15 +162,15 @@
   },
   "active": "601046da720e5886",
   "lastOpenFiles": [
+    "Program Design/03 Field Immersion.md",
+    "L&D/Courses/Cohort Based Courses.md",
+    "Index Pages/🧘Stakeholder Index.md",
     "Home.md",
+    "Program Design/Research Tools.md",
+    "Program Design/02 Literature Review.md",
     "Index Pages/🗞️Domain Roll Up Index.md",
     "Index Pages/📜Comprehensive Index.md",
     "Index Pages/📖Reading List.md",
-    "Index Pages/🧘Stakeholder Index.md",
-    "Index Pages/🏷️Tags Index.md",
-    "L&D/WebClippings.md",
-    "L&D/Web Clippings/The Minimum Viable Testing Process for Evaluating Startup Ideas.md",
-    "L&D/Courses/Cohort Based Courses.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Rainbow/Rainbow_Emergency Protocol for Sneha Ghars.md"
+    "Index Pages/🏷️Tags Index.md"
   ]
 }

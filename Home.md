@@ -55,7 +55,7 @@ through the following pillars:
 
 ## ⏰The Timeline
 
-1. Jan 2022 - June 2022 : [[Program Design/02 Literature Review]]
+1. Jan 2022 - June 2022 : [02 Literature Review](Program%20Design/02%20Literature%20Review.md)
 2. April 2022 - June 2022: [03 Field Immersion](Program%20Design/03%20Field%20Immersion.md)
 3. June 2022 - Dec 2022: Prototyping
 4. June 2022 - Dec 2022: Partnership Building
