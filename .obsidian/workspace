@@ -37,7 +37,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index Pages/📜Comprehensive Index.md",
+            "file": "Volume 2/Care Standards/International - Services for CNCP/Study of Foster Care in Nepal.md",
             "mode": "source",
             "source": false
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Alternative Care/Restoration.md",
+                "file": "Volume 2/Care Standards/International - Services for CNCP/Study of Foster Care in Nepal.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll Ups/Alternative Care/Restoration.md",
+                "file": "Volume 2/Care Standards/International - Services for CNCP/Study of Foster Care in Nepal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,17 +161,17 @@
     "direction": "horizontal",
     "width": 420
   },
-  "active": "ec34590cad8bb91e",
+  "active": "601046da720e5886",
   "lastOpenFiles": [
-    "Roll Ups/Alternative Care/Restoration.md",
-    "Index Pages/📜Comprehensive Index.md",
-    "Volume 2/Care Standards/International - Services for CNCP/Exploring and Addressing the Sexual Violence of Boys in Nepal.md",
-    "Roll Ups/Child Development/Child Profile.md",
-    "templates/Status.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Udayan Care/UdayanCare_Standards Of Care in Child Care Institutions.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md"
+    "Volume 2/Care Standards/International - Services for CNCP/Study of Foster Care in Nepal.md",
+    "templates/Set up instructions.md",
+    "Program Design/Research Tools.md",
+    "Program Design/01 CAP Design Framework.md",
+    "Volume 1/Current Reality/International CCIs/Psychosocial Screening and Monitoring for children in foster care_Psychometric properties of the Brief Assessment Checklist in a Dutch population study.md",
+    "templates/PDF Notes.md",
+    "templates/PDF Annotate.md",
+    "templates/New Page/New Note.md",
+    "Archived/Jan - March 2022/Volume 1 Archive/Reference Reading/Master Reading List.md",
+    "Volume 1/Current Reality/International CCIs/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md"
   ]
 }

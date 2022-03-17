@@ -12,7 +12,7 @@
   "showMatchStrategy": true,
   "showIndexingStatus": true,
   "descriptionOnSuggestion": "Full",
-  "selectSuggestionKeys": "Enter",
+  "selectSuggestionKeys": "Tab",
   "additionalCycleThroughSuggestionsKeys": "None",
   "openSourceFileKey": "None",
   "propagateEsc": false,

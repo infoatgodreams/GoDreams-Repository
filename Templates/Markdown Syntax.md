@@ -1,3 +1,9 @@
+---
+title: Markdown Syntax
+tags: 
+- templates
+---
+
 / # for headings
 / ** bold 
 / * italics

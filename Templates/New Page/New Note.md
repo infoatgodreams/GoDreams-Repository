@@ -2,7 +2,7 @@
 title:
 author:
 tags:
-
+- templates
 ---
 
 # Brief

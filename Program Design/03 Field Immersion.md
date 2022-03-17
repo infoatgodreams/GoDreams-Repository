@@ -1,4 +1,8 @@
-
+---
+title: Field immersion
+tags:
+- programdesign 
+---
 # 💬 In-depth immersion in CCIs
 ## Goal
 Work closely with 10 CCIs  to decode : 
