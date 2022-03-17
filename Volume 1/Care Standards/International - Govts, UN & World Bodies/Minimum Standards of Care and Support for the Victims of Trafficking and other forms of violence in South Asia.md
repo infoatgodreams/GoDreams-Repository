@@ -2,7 +2,7 @@
 title: Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia
 author: Navneeth
 tags: 
-- intlgovernment
+- worldbodies
 - Manuals
 ---
 

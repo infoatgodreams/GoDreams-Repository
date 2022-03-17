@@ -1,5 +1,5 @@
 ---
-title:Set Up Instructions
+title: Set Up Instructions
 tags:
 - templates 
 ---

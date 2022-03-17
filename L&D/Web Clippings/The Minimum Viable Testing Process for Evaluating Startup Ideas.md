@@ -1,4 +1,9 @@
 
+---
+title: The Minimum Viable Testing Process for Evaluating Startup Ideas
+tags: 
+- L&D
+---
 
 
 

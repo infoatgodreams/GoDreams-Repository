@@ -3,7 +3,6 @@ title: Ideal Components and current characteristics of alternative care options 
 author: Navneeth
 tags: 
 - globalresearch
-- alternativecare
 ---
 
 Tags: [[Roll Ups/Alternative Care/Foster Care]] [[Roll Ups/Alternative Care/Adoption]] [[Roll Ups/Alternative Care/Kinship Care]] 
