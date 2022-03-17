@@ -10,7 +10,7 @@ The purpose of this portal is to access information that we've compiled from stu
 
 ==[Click Here](Program%20Design/Surveys/User%20Problems%20Simulation.md) to participate in a user design survey, drawing on our experiences to articulate the problems we want to solve with CAP!==
 
->The ongoing activity is the the [Literature Review](Program%20Design/02%20Literature%20Review.md). A good place to start digging into the content would be the [📜Domain Roll Up Index](Index%20Pages/📜Domain%20Roll%20Up%20Index.md) or the [📜Stakeholder Index](Index%20Pages/📜Stakeholder%20Index.md).  (Alternatively use the  [📜Comprehensive Index](Index%20Pages/📜Comprehensive%20Index.md) for a full deep dive)
+>The ongoing activity is the the [Literature Review](Program%20Design/02%20Literature%20Review.md). A good place to start digging into the content would be the [🗞️Domain Roll Up Index](Index%20Pages/🗞️Domain%20Roll%20Up%20Index.md) or the [🧘Stakeholder Index](Index%20Pages/🧘Stakeholder%20Index.md).  (Alternatively use the  [📜Comprehensive Index](Index%20Pages/📜Comprehensive%20Index.md) or the [🏷️Tags Index](Index%20Pages/🏷️Tags%20Index.md) for a full deep dive)
 
 ## ⚠️The Problem 
 
