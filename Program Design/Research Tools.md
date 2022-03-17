@@ -3,14 +3,14 @@
 
 ## Documentation
 
-- Google Drive
-		 - We continue to use google drive to: 
-		 		 - Facilitate Discussions  and 'whiteboarding' with google sheets
-		 		 - Capture meeting notes
-		 		 - Collaborative editing of rolls ups and other context documents
-		 - This is because: 
-		 		 - Collaborative Features
-		 		 - Integrated with email and google suite
+- Google Drive 
+	- We continue to use google drive to: 
+		- Facilitate Discussions  and 'whiteboarding' with google sheets 
+		- Capture meeting notes 
+		- Collaborative editing of rolls ups and other context documents 
+	- This is because: 
+		- Collaborative Features 
+		-  Integrated with email and google suite
 - Obsidian
 	- We are using Obsidian to: 
 		- Capture literature review notes and summaries

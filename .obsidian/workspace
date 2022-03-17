@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/Note Taking Instructions.md",
+            "file": "Program Design/Research Tools.md",
             "mode": "source",
             "source": false
           }
@@ -49,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/Note Taking Instructions.md",
+                "file": "Program Design/Research Tools.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/Note Taking Instructions.md",
+                "file": "Program Design/Research Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,6 +112,7 @@
   },
   "active": "ec34590cad8bb91e",
   "lastOpenFiles": [
+    "Program Design/Research Tools.md",
     "templates/Note Taking Instructions.md",
     "Program Design/Surveys/User Problems Simulation.md",
     "Program Design/01 CAP Design Framework.md",
@@ -122,7 +121,6 @@
     "Volume 1/Current Reality/International CCIs/More than the loss of a parent _ potentially traumatic events among orphaned and abandoned children.md",
     "Volume 1/Current Reality/International CCIs/Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya.md",
     "Volume 1/Current Reality/International CCIs/The nutritional status of children living within institutionalized care _ a systematic review.md",
-    "Volume 1/Care Standards/International - Service Providers to CCIs/Hope Wordwide/Hope Worldwide_Introduction to Working with Children and Psychosocial Support.md",
-    "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md"
+    "Volume 1/Care Standards/International - Service Providers to CCIs/Hope Wordwide/Hope Worldwide_Introduction to Working with Children and Psychosocial Support.md"
   ]
 }
