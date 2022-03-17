@@ -66,7 +66,7 @@ Link: https://drive.google.com/file/d/18iJBlvuwu0vXDQRK9Ij6pUTAb2H1l6ER/view?usp
 		- Make sure that interaction between staff & children takes place as prescribed in the monitoring tool.
 		- The institution can ask local psychologists and psychiatrists to assist in special cases. Besides, they can establish a referral system with nearby local government and private hospitals. (Page 25)
 
-# Restoration 
+# [[Restoration]] 
 - .Superintendents, POs :Confusion regarding the status of their case be it CICL or CNCP 
 - Homesickness or conflicts with peers
 - Lack ofcommunication between the child and his/her parents which increases the confusion. 

@@ -5,10 +5,10 @@ tags :
 - worldbodies
 - Governmentofindia 
 ---
-Tags: [Restoration](Roll%20Ups/Alternative%20Care/Restoration.md) [Caregiving](Roll%20Ups/Caregiving/Caregiving.md)[[Roll Ups/CCI Operations/CCI Operations]]
+Tags: [Restoration](Roll%20Ups/Alternative%20Care/Restoration.md) [Caregiving](Roll%20Ups/Caregiving/Caregiving.md)[CCI Operations](Roll%20Ups/CCI%20Operations/CCI%20Operations.md)
 Link:https://drive.google.com/file/d/1QUK36tvk8jWxeXIrNiHVreq8lGgxWkFK/view?usp=sharing
 
-# Restoration
+# [[Restoration]]
 - All decisions concerning alternative care should take full account of the desirability, in principle, of maintaining the child as close as possible to his/her habitual place of residence, in order to facilitate contact and potential reintegration with his/her family and to minimize disruption of his/her educational, cultural and social life. (Page 4)
 - Siblings with existing bonds should in principle not be separated by placements in alternative care unless there is a clear risk of abuse or other justification in the best interests of the child. In any case, every effort should be made to enable siblings to maintain contact with each other, unless this is against their wishes or interests. (Page 4)
 - To this end, States should establish care standards to ensure the quality and conditions that are conducive to the child’s development, such as individualized and small-group care, and should evaluate existing facilities against these standards. Decisions regarding the establishment of, or permission to establish, new residential care facilities, whether public or private, should take full account of this deinstitutionalization objective and strategy. (Page 5)
@@ -20,7 +20,7 @@ Link:https://drive.google.com/file/d/1QUK36tvk8jWxeXIrNiHVreq8lGgxWkFK/view?usp=
 # CCI Operations and Caregiving
 - Decisions regarding children in alternative care, including those in informal care, should have due regard for the importance of ensuring children a stable home and of meeting their basic need for safe and continuous attachment to their caregivers, with [[permanence]] generally being a key goal. (Page 4)
 
-- The transfer of a child into alternative care should be carried out with the utmost sensitivity and in a child-friendlymanner, in particular involving specially trained and, in principle, non-uniformed personnel. (Page 13)
+- The transfer of a child into alternative care should be carried out with the utmost sensitivity and in a child-friendly manner, in particular involving specially trained and, in principle, non-uniformed personnel. (Page 13)
 - When a child is placed in alternative care, contact with his/her family, as well as with other persons close to him or her, such as friends, neighbours and previous carers, should be encouraged and facilitated, in keeping with the child’s protection and best interests. The child should have access to information on the situation of his/her family members in the absence of contact with them. (Page 13)
 - Restriction of contact with members of the child’s family and other persons of special importance to the child should never be used as a sanction. (Page 15)
 - Children in care should be offered access to a person of trust in whom they may confide in total confidentiality. This person should be designated by the competent authority with the agreement of the child concerned. The child should be informed that legal or ethical standards may require breaching confidentiality under certain circumstances. (Page 15)
