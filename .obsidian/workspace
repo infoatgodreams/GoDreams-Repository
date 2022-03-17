@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "foster care research voc ",
+                "query": "tag:#Rollups",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "85a5271004600450",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -97,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index Pages/📜Comprehensive Index.md",
+                "file": "Roll Ups/Alternative Care/Restoration.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index Pages/📜Comprehensive Index.md",
+                "file": "Roll Ups/Alternative Care/Restoration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +140,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "62b7b7b857d3c05e",
@@ -151,8 +161,9 @@
     "direction": "horizontal",
     "width": 420
   },
-  "active": "601046da720e5886",
+  "active": "ec34590cad8bb91e",
   "lastOpenFiles": [
+    "Roll Ups/Alternative Care/Restoration.md",
     "Index Pages/📜Comprehensive Index.md",
     "Volume 2/Care Standards/International - Services for CNCP/Exploring and Addressing the Sexual Violence of Boys in Nepal.md",
     "Roll Ups/Child Development/Child Profile.md",
@@ -161,7 +172,6 @@
     "Volume 1/Care Standards/India - Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
     "Volume 1/Care Standards/India - Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
     "Volume 1/Care Standards/India - Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
-    "Volume 1/Current Reality/International CCIs/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md"
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md"
   ]
 }
