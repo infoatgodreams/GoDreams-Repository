@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Program Design/Surveys/User Problems Simulation.md",
+            "file": "templates/Note Taking Instructions.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#researchedinterventions",
+                "query": "file: note taking instructions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Program Design/Surveys/User Problems Simulation.md",
+                "file": "templates/Note Taking Instructions.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +88,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Program Design/Surveys/User Problems Simulation.md",
+                "file": "templates/Note Taking Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +114,7 @@
   },
   "active": "ec34590cad8bb91e",
   "lastOpenFiles": [
+    "templates/Note Taking Instructions.md",
     "Program Design/Surveys/User Problems Simulation.md",
     "Program Design/01 CAP Design Framework.md",
     "Home.md",
@@ -120,7 +123,6 @@
     "Volume 1/Current Reality/International CCIs/Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya.md",
     "Volume 1/Current Reality/International CCIs/The nutritional status of children living within institutionalized care _ a systematic review.md",
     "Volume 1/Care Standards/International - Service Providers to CCIs/Hope Wordwide/Hope Worldwide_Introduction to Working with Children and Psychosocial Support.md",
-    "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
-    "Volume 1/Current Reality/International CCIs/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md"
+    "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md"
   ]
 }
