@@ -3,6 +3,9 @@ title: Field immersion
 tags:
 - programdesign 
 ---
+
+Current Activity : [User Problems Simulation](Program%20Design/Surveys/User%20Problems%20Simulation.md)
+
 # 💬 In-depth immersion in CCIs
 ## Goal
 Work closely with 10 CCIs  to decode : 
