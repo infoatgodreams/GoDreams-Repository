@@ -28,13 +28,13 @@ Link : https://drive.google.com/file/d/1xbldLE1U9c-s2pljL2RLdgv72IDisiLc/view?us
 	- Parasitesfrom6–76%
 	- Half the studies with dietary information found inadequate intake or diet diversity. Younger children were typically more malnourished than older children, with a few exceptions (Page 1)
 
-# [[Roll Ups/Child Development/Child Lifecycle/Pre-admission to CCIs]]
+# [Pre-admission to CCIs](Roll%20Ups/Child%20Development/Child%20Lifecycle/Pre-admission%20to%20CCIs.md)
 - Children in institutional care often face numerous adversities prior to admission and many enter institutionalized care with pre-existing nutritional, developmental, medical and neurological conditions(Baron,Baron&Spencer,2001; The Children’s Health Care Collaborative Study Group,1994; The St. Petersburg-USA Orphanage ResearchTeam,2005; The St. Petersburg-USA Orphanage ResearchTeam,2008). (Page 3)
 - Born prematurely or with low birth weight and many have had exposure to drugs or alcohol, HIV, stress or a range of other issues —all of which can impact their health.(Baron,Baron&Spencer,2001; Groceetal.,2014; The Children’s Health Care Collaborative Study Group,1994; The St. Petersburg-USA Orphanage Research Team,2008) (Page 3)
 - No information about children’s early lives or exposures prior to coming into care(The Children’s Health Care Collaborative Study Group,1994; The St Petersburg-USA Orphanage Research Team,2005; The St.Petersburg-USA Orphanage Research Team,2008). (Page 3)
 	
 
-## [Physical Health](Volume%201/Roll%20Ups/Physical%20Health.md)
+## [Physical Health](Roll%20Ups/Physical%20Health/Physical%20Health.md)
 - Common illnesses observed were (Page 11)
 	- children having three or more parasites
 	- skin infections
@@ -104,5 +104,3 @@ Link : https://drive.google.com/file/d/1xbldLE1U9c-s2pljL2RLdgv72IDisiLc/view?us
 - Preferredreportingitemsforsystematicreviewsandmeta-analyses:thePRISMAstatement.JournalofClinicalEpidemiology62:1006–1012DOI10.1016/j.jclinepi.2009.06.005.MwanikiEW,MakokhaAN,MuttungaJN.2014.
 - NutritionstatusofchildreninorphanagesinselectedprimaryschoolswithinDagorettiDivisionNairobi,Kenya.EastAfricanMedicalJournal91:289–297.MyattM,KharaT,SchoenbuchnerS,PietzschS,DolanC,LelijveldN,BriendA.2018.
 
-## Source
-[[Volume 1/Volume 1 Public Resource Links/Queue/Volume 1 Queue/The nutritional status of children living within institutionalized care _ a systematic review.pdf]]

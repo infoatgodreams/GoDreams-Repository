@@ -151,7 +151,7 @@ tags:
 		-  whether toys were available (Chisholm et al. 1998)
 		-  or children’s weight or developmental delay at adoption (O’Connor et al.,1999; O’Connor, Rutter, et al., 2000) 
 		- [[Roll Ups/Education/IQ]] does not appear to be strongly related to indiscriminate friendliness
-	-  Researchers have  consistently found associations between orphanage children’s indiscriminate friendliness  and their behavior problems. [Caregiving](Volume%201/Roll%20Ups/Caregiving.md)
+	-  Researchers have  consistently found associations between orphanage children’s indiscriminate friendliness  and their behavior problems. [Caregiving](Roll%20Ups/Caregiving/Caregiving.md)
 		- Chisholm (1998)  found that at 3 years postadoption, children’s  indiscriminate friendliness scores were positively correlated with their scores on the [CBCL](CBCL). [Observed behavior assessments](Roll%20Ups/Child%20Development/Observed%20behavior%20assessments.md)
 		- Le Mare and Audet (2002) found that children's scores on indiscriminate friendliness at 3 years after adoption were positively correlated with their attention problem scores more than 8 years after adoption. [Attention Problems](Attention%20Problems)
 		- In the U.K. sample  children’s scores on disinhibited attachment disturbance were positively correlated with  their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years. [Observed behavior assessments](Roll%20Ups/Child%20Development/Observed%20behavior%20assessments.md)
@@ -195,10 +195,10 @@ tags:
 	-  In each of these studies researchers used a separation reunion procedure with preschool-aged children in which children first interacted with their mothers in play, stayed in the same room with a stranger while their mother left, and  then were reunited with their mothers. 
 	-   Chisholm (1998) used [[Crittenden’s Pre school Assessment of Attachment (PAA)]]to  code preschool attachment patterns, whereas  both Marcovitch et al. (1997) and O’Connor  et al. (2003) used the [[Cassidy, Marvin, and  MacArthur Working Group Preschool  Attachment System]]. 
 	-  Chisholm (1998) found that, compared to orphanage children classified as secure, those who were classified as insecure lower IQs, more behavior problems, parents who reported higher levels of parenting  stress, and lower socioeconomic status backgrounds. 
--   The distribution of atypical patterns in previously institutionalized children is not the  same as in other maltreated samples. [Observed behavior assessments 1](Roll%20Ups/Child%20Development/Observed%20behavior%20assessments%201.md)
+-   The distribution of atypical patterns in previously institutionalized children is not the  same as in other maltreated samples. [Observed behavior assessments](Roll%20Ups/Child%20Development/Observed%20behavior%20assessments.md)
 	- One difference is that orphanage samples display a **lower percentage of the Defended/Coercive (A/C) insecure pattern** than do other maltreated  samples. 
 	- A child classified as A/C shifts back and forth between defended and coercive strategies in response to the behavior of an often unpredictable caregiver.
-	-   Orphanage children in the Canadian sample also displayed a higher percentage of compulsive caregiving (A3), a pattern more commonly seen in neglected samples than in abused  samples of children (Crittenden & Claussen,  2000). [Observed behavior assessments 1](Roll%20Ups/Child%20Development/Observed%20behavior%20assessments%201.md)
+	-   Orphanage children in the Canadian sample also displayed a higher percentage of compulsive caregiving (A3), a pattern more commonly seen in neglected samples than in abused  samples of children (Crittenden & Claussen,  2000). [Observed behavior assessments](Roll%20Ups/Child%20Development/Observed%20behavior%20assessments.md)
 		-  The compulsive caregiving pattern is adopted  in response to a withdrawn or unresponsive  caregiver.
 		-  A child displaying an A3 pattern inhibits negative affect and attempts to cheer  an unresponsive caregiver with overbrightness  and nurturance (Crittenden, 1992a). 
 	-  Another difference is that the Insecure (other) pattern is more common in orphanage samples than in maltreated samples. **Insecure (other), by definition indicates behavior that is difficult to classify. This classification is given when a child is clearly insecure, but the  strategy that he or she uses in interaction does  not fit any of the established insecure patterns.** 
@@ -220,7 +220,7 @@ tags:
 	-  By  1973, he claimed that the sensitive period for  attachment likely extended through the de  cade beyond a child’s fifth birthday, but that  such development would become increasingly  more difficult as a child grew older. This was  in line with a more modern emphasis on risk  and resilience in a probabilistic, rather than  deterministic, model of development (Rutter  & O’Connor, 1999).
 
 ## Sensitive Responsiveness and attachment
-[Caregiving](Volume%201/Roll%20Ups/Caregiving.md)
+[Caregiving](Roll%20Ups/Caregiving/Caregiving.md)
 
 - Children with lower IQs (Chisholm  1998; Tizard & Hodges, 1978) and more behavior problems (Chisholm, 1998; Marcovitc  et al., 1997) have more difficulty forming attachment relationships with their adoptive parents, most likely because these factors interfere with parents’ ability to be sensitively responsive to their children.
 -  These factors may help to explain the insecure attachments of the oldest five children in  the Ames and Chisholm (2001) reanalysis. 

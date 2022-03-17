@@ -20,10 +20,24 @@
       {
         "id": "df188e4daf0d1532",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roll Ups/Mental Health/Mental Health.md",
+            "file": "Index Pages/📜Comprehensive Index.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "601046da720e5886",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Index Pages/📜Comprehensive Index.md",
             "mode": "source",
             "source": false
           }
@@ -54,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: note taking instructions",
+                "query": "foster care research voc ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Alternative Care/Restoration.md",
+                "file": "Index Pages/📜Comprehensive Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll Ups/Alternative Care/Restoration.md",
+                "file": "Index Pages/📜Comprehensive Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,22 +132,36 @@
             }
           }
         ]
+      },
+      {
+        "id": "62b7b7b857d3c05e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5292d45c09767960",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 420
   },
-  "active": "ec34590cad8bb91e",
+  "active": "601046da720e5886",
   "lastOpenFiles": [
-    "Roll Ups/Alternative Care/Restoration.md",
-    "Roll Ups/Mental Health/Mental Health.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Institutional Care Model Author_ Prerana Org.md",
-    "Volume 1/Care Standards/International - Govts, UN & World Bodies/UN/Guidelines on Alternative Care_UN.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/Catalysts for Social Action/CSA_Institutional Care for Vulnerable Children The Law, Present Scenario, and Way Ahead.md",
+    "Index Pages/📜Comprehensive Index.md",
+    "Volume 2/Care Standards/International - Services for CNCP/Exploring and Addressing the Sexual Violence of Boys in Nepal.md",
+    "Roll Ups/Child Development/Child Profile.md",
+    "templates/Status.md",
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Udayan Care/UdayanCare_Standards Of Care in Child Care Institutions.md",
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
     "Volume 1/Care Standards/India - Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
-    "Program Design/Research Tools.md",
-    "templates/Note Taking Instructions.md",
-    "Program Design/Surveys/User Problems Simulation.md",
-    "Program Design/01 CAP Design Framework.md"
+    "Volume 1/Current Reality/International CCIs/Fostering Child Development _ Systematic Review of caregiver training and structural interventions.md"
   ]
 }

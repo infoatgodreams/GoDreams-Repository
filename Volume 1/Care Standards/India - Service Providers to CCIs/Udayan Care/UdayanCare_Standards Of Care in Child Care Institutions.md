@@ -6,8 +6,6 @@ tags: Practitioner
 
  Tags: [CCI Operations](Roll%20Ups/CCI%20Operations/CCI%20Operations.md) [CCI Compliance](Roll%20Ups/CCI%20Operations/CCI%20Compliance.md) [UdayanCare](UdayanCare)
 
- Status: [ReferenceReading](ReferenceReading)
-
  Links: https://drive.google.com/file/d/1XIUTlzcd11CW-R41T8B05bmdX8BBVPsz/view?usp=sharing
 # Key International Instruments on Rights of Children 
 - UN Declaration on Rights of the Child, 1959 
@@ -178,7 +176,7 @@ tags: Practitioner
 		- In suitable cases, the Person-in-charge may order payment of subsistence money and railway/road fares.
 		- If a girl child has no place to go and requests for stay in the CCI after completion of her period of stay, a limited period of stay, till suitable arrangement is made, is allowed subject to approval of the CWC or JJB or Children’s Court. (Page 22)
 # Child Safety		
-- **The Rule 69 N prescribes following actions to deal with unacceptable behaviour:** [Caregiving](Volume%201/Roll%20Ups/Caregiving.md)
+- **The Rule 69 N prescribes following actions to deal with unacceptable behaviour:** [Caregiving](Roll%20Ups/Caregiving/Caregiving.md)
 	- Formal warning 
 	- Assignment of house-keeping tasks 
 	- Imposition writing i.e. writing a number of times that the child would not repeat the behaviour 
@@ -268,7 +266,7 @@ tags: Practitioner
 - **State governments are required to constitute inspection committees for State and district for the CI registered or recognized under the JJ Act 2015**
 	- While inspections are made once in three months, reports are submitted to DCPU and state government within a week, and actions are taken within a month. 
 	- Evaluation of CCIs may be done by Central Government or State Government once in three years. Its purpose is to strengthen and improve functioning.
-- **Personnel for CCI (Rule 26)** [Caregiving](Volume%201/Roll%20Ups/Caregiving.md)
+- **Personnel for CCI (Rule 26)** [Caregiving](Roll%20Ups/Caregiving/Caregiving.md)
 	- The rule deals with the basis for staffing like categories of children, capacity of CCI, nature of duties, hours of duty etc.
 	- While key regular staff include
 		-  person-in-charge, 
@@ -363,5 +361,3 @@ tags: Practitioner
 - Essentials of Child Protection: A Handbook for Beginners, CHILDLINE India Foundation (Mumbai, 2008). Available at www.childlineindia.org.in/pdf/Essentials-of-child-protection-Oct%2008.pdfThe 
 - Juvenile Justice (Care and Protection of Children) Act, 2015 (No. 2 of 2016)The National Policy for Children, 2013. Available at http://wcd.nic.in/sites/default/files/npcenglish08072013_0.pdf (Page 34)
 
-## Source
-[[Volume 1/Volume 1 Public Resource Links/Queue/Volume 1 Queue/UdayanCare_Standardsofcareinchildcareinstitutions (1).pdf]]

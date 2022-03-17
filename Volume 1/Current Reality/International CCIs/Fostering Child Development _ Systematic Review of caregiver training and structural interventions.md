@@ -69,7 +69,7 @@ Implications for Practice, Policy and Research
 
 - One promising approach that is theory based and manualized is [[FairstartGlobal]] (www.fairstartglobal.com). It is a curriculum rooted in attachment theory that promotes appropriate caregiver–child interactions and relationships. Its unique benefits include free availability on the Internet, implementation flexibility, administrator and staff involvement in creating its implementation, translation into 26 languages, and current implementation in numerous countries around the globe (McCall, Groark, &amp; Rygaard, 2014; Rygaard, 2010). Yet, its effectiveness still needs to be evaluated.
 
-- Many of the intervention approaches included in the studies ofthe present review have some important components in common: They all aim at improving the caregiver–child relationship (attachment and bonding), enriching the caregiving environment through additional stimulation and quality time, and at least some focus on preventing maltreatment and further harm. [Caregiving](Volume%201/Roll%20Ups/Caregiving.md)
+- Many of the intervention approaches included in the studies ofthe present review have some important components in common: They all aim at improving the caregiver–child relationship (attachment and bonding), enriching the caregiving environment through additional stimulation and quality time, and at least some focus on preventing maltreatment and further harm.[Caregiving](Roll%20Ups/Caregiving/Caregiving.md)
 
 
 
