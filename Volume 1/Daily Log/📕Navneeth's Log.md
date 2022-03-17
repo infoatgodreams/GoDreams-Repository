@@ -109,7 +109,6 @@ tags:
 	- Research on institutionalized children has  shown that similar experiences early in life may  result in a variety of outcomes, a phenomenon known as [[multifinality]].
 - Reading about anti institutionalization organizations or papers that propagate the benefits of adoption/foster care/family [[Roll Ups/Alternative Care/Restoration]] over institutionalization can be useful because: 
 	-  These papers identify gaps that exist in CCIs while arguing their point. These gaps are typically based on research and accurate, and can provide a first layer of direction in intervention at the partner CCIs for CAP. 
-- I have started tagging essential reads as #essentialreads. 
 - A lot of info in this paper can go into benchmark assessments at CCIs as well as directly onto observational data collected during primary research
 
 # 2022-02-01

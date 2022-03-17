@@ -19,5 +19,6 @@
     "downscalePercent": 100
   },
   "lineWrap": true,
-  "communityThemeSortOrder": "download"
+  "communityThemeSortOrder": "download",
+  "communityPluginSortOrder": "download"
 }
