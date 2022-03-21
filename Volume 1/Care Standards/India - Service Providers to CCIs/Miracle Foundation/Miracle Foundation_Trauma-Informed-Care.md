@@ -5,7 +5,6 @@ tag: Practitioner
 ---
 Tags: [TIC-Trauma Informed Care](Roll%20Ups/Caregiving/TIC-Trauma%20Informed%20Care.md)  [Child Profile](Roll%20Ups/Child%20Development/Child%20Profile.md)[[Harris and Fallot’s Using Trauma Theory to Design Service Systems]]  [[Roll Ups/Mental Health/Mental Health]]  [[Roll Ups/Caregiving/Individualised Care]] [[Roll Ups/Alternative Care/Restoration]] [MiracleFoundation](MiracleFoundation)
 
-Status: [ReferenceReading](ReferenceReading)
 Link: https://drive.google.com/file/d/1XoYO7EMTQ4h07bsPBPFXp2wQ_jy6Q6Hn/view?usp=sharing
 ## Trauma Informed Care
 - The article defines the principles of TIC-Trauma Informed Care: safety, choice, collaboration, trustworthiness and empowerment. (Page 1) 
@@ -44,5 +43,3 @@ Link: https://drive.google.com/file/d/1XoYO7EMTQ4h07bsPBPFXp2wQ_jy6Q6Hn/view?usp
 -  Institutionalised children: Seminar on standards of care and mentalhealth. New Delhi, India: Udayan Care. Retrieved from https://www.udayancare.org/sites/default/files/Institutionalised%20_Children_Revised.pdf
 - World Health Organization. (1999). Partners in life skill education - Conclusionsfrom a United Nations Inter-Agency Meeting. Geneva, Switzerland: World HealthOrganization. Retrieved from https://www.who.int/mental_health/media/en/30.pdf (Page 9)
 
-## Source
-[Trauma-Informed-Care-in-the-Childcare-Miracle-Foundations-Approach-Within-Alternative-Care-in-India.pdf](Volume%201/Volume%201%20Public%20Resource%20Links/Other%20service%20providers/Trauma-Informed-Care-in-the-Childcare-Miracle-Foundations-Approach-Within-Alternative-Care-in-India.pdf)

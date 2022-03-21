@@ -7,9 +7,17 @@
         "id": "09c7ae4024a73848",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "ed828990e3a9bc46",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "Index Pages/📜Stakeholder Index.md",
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index Pages/📜Stakeholder Index.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index Pages/📜Stakeholder Index.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,14 +118,14 @@
     "width": 420,
     "collapsed": true
   },
-  "active": "09c7ae4024a73848",
+  "active": "ed828990e3a9bc46",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Index Pages/📜Stakeholder Index.md",
     "Index Pages/📜Domain Roll Up Index.md",
     "Volume 2/Reference Reading/Governments & UN/Guidelines for After Care of Children under ICPS.md",
     "Volume 1/Roll Ups/Child Safety/Child Safety.md",
     "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
-    "conflict-files-obsidian-git.md",
     "Volume 1/Roll Ups/Observed behavior assessments.md",
     "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Volume 1/Roll Ups/Mental Health/Mental Health.md",

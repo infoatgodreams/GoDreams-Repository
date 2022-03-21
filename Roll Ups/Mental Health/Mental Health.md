@@ -254,7 +254,7 @@ From a qualitative study of children in children's homes in Delhi, following con
 * Thoughts of self-harm such as, ‘I am already dead inside, how does it matter if I live or die’.
 * Seeking out adults to gather COVID related information asking questions such as, ‘When will the lockdown be lifted?
 * Many children are seeking out stability and support during these tough times, prior to COVID they wished to focus on their careers and access After care facilities now they are considering returning to their families.
-* **Feeling stuck**: Children may share feelings of frustration such as being stuck at the Institution especially if their restoration process was previously underway. Some signs of distress that may be observed in them are:
+* **Feeling stuck**: Children may share feelings of frustration such as being stuck at the Institution especially if their [[restoration]] process was previously underway. Some signs of distress that may be observed in them are:
 	* Anger 
 	* Denial 
 	* Irrational thoughts

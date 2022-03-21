@@ -1,3 +1,9 @@
+---
+title: Mekhas Log
+tags:
+- dailylogs 
+---
+
 ## 11th Feb
 
 Foster care rules of nepal. Pushing for later

@@ -1,3 +1,8 @@
+---
+title: Set Up Instructions
+tags:
+- templates 
+---
 ## Setting up Obsidian with Github
 
 1. Install Obsidian 

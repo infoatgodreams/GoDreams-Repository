@@ -52,7 +52,7 @@ tags:
 # Reference Reading:
 
 ## Other Organizations :
-- **[Service Providers to CCIs](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Service%20Providers%20to%20CCIs.md)**
+- Service Providers to CCIs
 	- [Miracle Foundation_Trauma-Informed-Care](Volume%201/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/Miracle%20Foundation/Miracle%20Foundation_Trauma-Informed-Care.md)
 	- [Miracle Foundation_Institutionalised Children_Explorations and Beyond](Volume%201/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/Miracle%20Foundation/Miracle%20Foundation_Institutionalised%20Children_Explorations%20and%20Beyond.md)
 	- [Rainbow - CCI Management Handbook](Volume%201/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/Rainbow%20Foundation/Rainbow%20-%20CCI%20Management%20Handbook.md)
@@ -80,23 +80,21 @@ tags:
 	- [Restoration Model by Prerana](Volume%201/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/Prerana/Restoration%20Model%20by%20Prerana.md)
 	- [Supporting Carers Author_ Rainbow Home](Volume%201/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/Rainbow%20Foundation/Supporting%20Carers%20Author_%20Rainbow%20Home.md)
 	- [Working with Children Sensitively](Volume%201/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/Prerana/Working%20with%20Children%20Sensitively.md)
-	- [Butterflies_Child Participation Research](Volume%204/Butterflies_Child%20Participation%20Research.md)
-	- [Foster Care Research 2012 by VOC Final](Volume%204/Foster%20Care%20Research%202012%20by%20VOC%20Final.md)
-	- [Guidelines for Institutional Childcare - Ethiopia](Volume%204/Guidelines%20for%20Institutional%20Childcare%20-%20Ethiopia.md)
-	- [Life-Skills-in-CCIs-during-COVID-27-Sept-2020](Volume%204/Life-Skills-in-CCIs-during-COVID-27-Sept-2020.md)
-	- [Voc-research-final-book](Volume%204/Voc-research-final-book.md)
+	- [Exploring and Addressing the Sexual Violence of Boys in Nepal](Volume%202/Care%20Standards/International%20-%20Services%20for%20CNCP/Exploring%20and%20Addressing%20the%20Sexual%20Violence%20of%20Boys%20in%20Nepal.md)
+	- [Guidelines for Institutional Childcare, Ethiopia](Volume%202/Care%20Standards/International%20-%20Govt,%20UN%20&%20World%20Bodies/Guidelines%20for%20Institutional%20Childcare,%20Ethiopia.md)
+	- [Facilitation of Life Skills in CCIs Enfold](Volume%202/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/Enfold/Facilitation%20of%20Life%20Skills%20in%20CCIs%20Enfold.md)
+
 
 ## Child Care Institutions
 - International
 	- [Irvington HouseGrowth Potential of Pre-school aged children in institutional care](Volume%201/Care%20Standards/International%20CCIs/Irvington%20HouseGrowth%20Potential%20of%20Pre-school%20aged%20children%20in%20institutional%20care.md)
 ## Books :
-- **[Books Index](Volume%201/Reference%20Reading/Books/Books%20Index.md)**
-	- [Rethinking Orphanages for the 21st Century](Volume%201/Care%20Standards/Books/Rethinking%20Orphanages%20for%20the%2021st%20Century.md)
-	- [Harris and Fallot’s Using Trauma Theory to Design Service Systems](Harris%20and%20Fallot’s%20Using%20Trauma%20Theory%20to%20Design%20Service%20Systems)
-	- [Marvin Olasky](Marvin%20Olasky)
+- [Rethinking Orphanages for the 21st Century](Volume%201/Care%20Standards/Books/Rethinking%20Orphanages%20for%20the%2021st%20Century.md)
+- [Marvin Olasky](Marvin%20Olasky)
+- [Harris and Fallot’s Using Trauma Theory to Design Service Systems](Harris%20and%20Fallot’s%20Using%20Trauma%20Theory%20to%20Design%20Service%20Systems)
 
 ## Design Theory
-- [Human Centered Design - IDEO](L&D/Human%20Centered%20Design%20-%20IDEO.md)
+- [Human Centered Design - IDEO](Archived/Jan%20-%20March%202022/L&D%20Archive/Human%20Centered%20Design%20-%20IDEO.md)
 
 # Governments and UN
 - [Guidelines on Alternative Care_UN](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/UN/Guidelines%20on%20Alternative%20Care_UN.md)
@@ -125,7 +123,7 @@ tags:
 - [📕Navneeth's Log](Volume%201/Daily%20Log/📕Navneeth's%20Log.md)
 - [📕Akshay's Log](Volume%202/Daily%20Log/📕Akshay's%20Log.md)
 - [Glorias Log](Volume%201/Daily%20Log/📕Glo's%20Log.md)
-- [Mekhas Log](Volume%204/Research%20Journal_Mekha.md)
+- [📕Mekha's Log](Volume%202/Daily%20Log/📕Mekha's%20Log.md)
 
 
 # Link to Resources
@@ -143,10 +141,6 @@ tags:
 - **[Intervention Map](Archived/Jan%20-%20March%202022/Intervention%20Map.md)**
 
 
-# Secondary Research Home Pages
-
-- [Volume 1 Index](Volume%201/Volume%201%20Index.md)
-- [Volume 2 Index](Volume%202/Volume%202%20Index.md)
 
 # Link to Resources
 - [Reading Material - Google Drive](https://drive.google.com/drive/folders/1pXvNVosGaDIU5cvTSLL_ChbHzob3tKzf?usp=sharing)

@@ -2,7 +2,7 @@
 title: Navneeths Log
 author: Navneeth
 tags:
-- dailylog
+- dailylogs
 ---
 
 # Feb 2022 Summary
@@ -100,7 +100,7 @@ tags:
 
 - [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Current%20Reality/International%20CCIs/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md)
 	- There are several tools that can be used to measure children's IQ, developmental progress and behavior progress. Some examples are : [R-DPDQ](R-DPDQ) [CBCL](CBCL) [Home Observation for Measurement of the Environment](Home%20Observation%20for%20Measurement%20of%20the%20Environment) [SB4](SB4) . I have classified these as [Assessment Tools](Roll%20Ups/Assessment%20Tools.md). 
-	- There are also behaviors that children exhibit during interactions that can be observed and tied back to inputs. I have classified these as [Observed behavior assessments 1](Roll%20Ups/Child%20Development/Observed%20behavior%20assessments%201.md)
+	- There are also behaviors that children exhibit during interactions that can be observed and tied back to inputs. I have classified these as [Observed behavior assessments](Roll%20Ups/Child%20Development/Observed%20behavior%20assessments.md)
 		- For Example, children not being able to refuse food likely means that they have not felt satiated often enough and food shortages might be seen in the CCI
 		- Repeated motions of the hands, head or feet such as rocking or twitches can be seen as stereotypical behaviors and could be a form of self stimulation, tied back possibly and debatably to :
 			- Lack of physical activity
@@ -109,7 +109,6 @@ tags:
 	- Research on institutionalized children has  shown that similar experiences early in life may  result in a variety of outcomes, a phenomenon known as [[multifinality]].
 - Reading about anti institutionalization organizations or papers that propagate the benefits of adoption/foster care/family [[Roll Ups/Alternative Care/Restoration]] over institutionalization can be useful because: 
 	-  These papers identify gaps that exist in CCIs while arguing their point. These gaps are typically based on research and accurate, and can provide a first layer of direction in intervention at the partner CCIs for CAP. 
-- I have started tagging essential reads as #essentialreads. 
 - A lot of info in this paper can go into benchmark assessments at CCIs as well as directly onto observational data collected during primary research
 
 # 2022-02-01

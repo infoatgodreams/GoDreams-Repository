@@ -2,7 +2,6 @@
 title: Prerana_Working with Children Sensitively 
 tags: 
 - Practitioner
-- researchedinterventions
 ---
 
 Author: [Chatali Ipar](https://www.linkedin.com/in/chaitali-ipar-b622b3101/?originalSubdomain=in) & Mohita M for Prerana 

@@ -3,8 +3,8 @@ title: Canada_British Columbia_Food and Nutrition Manual for Homes
 author: Navneeth
 tags: 
 - globalresearch 
-- Government
-- Manual
+- Governmentofindia
+- Manuals
 ---
 
 Tags: [Nutrition](Roll%20Ups/Nutrition/Nutrition.md)

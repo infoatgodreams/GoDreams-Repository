@@ -5,8 +5,6 @@ tags: Practitioner
 ---
 Tags:  [Physical Health](Roll%20Ups/Physical%20Health/Physical%20Health.md)  [[Roll Ups/CCI Operations/Program Operations]] [Hygiene](Roll%20Ups/Hygiene/Hygiene.md) [Caregiving](Roll%20Ups/Caregiving/Caregiving.md)  [Education](Roll%20Ups/Education/Education.md) [Mental Health](Roll%20Ups/Mental%20Health/Mental%20Health.md)  [[MiracleFoundation]]
 
-Status: [ReferenceReading](ReferenceReading)
-
 Link: https://drive.google.com/file/d/1J4yiJzziqfAb5GE1uIsEfa7fM6Sa8o9C/view?usp=sharing
 
 Attachments:

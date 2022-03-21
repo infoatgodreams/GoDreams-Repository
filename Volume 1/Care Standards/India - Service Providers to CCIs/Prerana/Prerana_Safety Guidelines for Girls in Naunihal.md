@@ -2,8 +2,8 @@
 title: Prerana_Safety Guidelines for Girls in Naunihal
 author: Navneeth
 tags: 
-- Practioners
-- Manual
+- Practitioner
+- Manuals
 ---
 
 Tags: [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md) 
