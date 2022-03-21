@@ -44,8 +44,25 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "0af0f9961b022420",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4a85945536170584",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -95,6 +112,14 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            }
+          },
+          {
+            "id": "575f47a530bd1d78",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
