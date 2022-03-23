@@ -37,7 +37,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Daily Log/📕Navneeth's Log.md",
+            "file": "Program Design/Surveys/User Problems Simulation.md",
             "mode": "source",
             "source": false
           }
@@ -78,18 +78,18 @@
             }
           },
           {
-            "id": "85a5271004600450",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {}
-            }
-          },
-          {
             "id": "76b340e1c03e0b8c",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "02abb82fe184046a",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
               "state": {}
             }
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Daily Log/📕Navneeth's Log.md",
+                "file": "Program Design/Surveys/User Problems Simulation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volume 1/Daily Log/📕Navneeth's Log.md",
+                "file": "Program Design/Surveys/User Problems Simulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,6 +178,7 @@
   },
   "active": "601046da720e5886",
   "lastOpenFiles": [
+    "Program Design/Surveys/User Problems Simulation.md",
     "Volume 1/Daily Log/📕Navneeth's Log.md",
     "Guardians CAP Repository.md",
     "Program Design/03 Field Immersion.md",
@@ -186,7 +187,6 @@
     "Program Design/Research Tools.md",
     "Program Design/02 Literature Review.md",
     "Index Pages/🗞️Domain Roll Up Index.md",
-    "Index Pages/📜Comprehensive Index.md",
-    "Index Pages/📖Reading List.md"
+    "Index Pages/📜Comprehensive Index.md"
   ]
 }
