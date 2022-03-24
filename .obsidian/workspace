@@ -46,18 +46,18 @@
             }
           },
           {
-            "id": "0af0f9961b022420",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {}
-            }
-          },
-          {
             "id": "4a85945536170584",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1799e2db8284bcdf",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
               "state": {}
             }
           }

@@ -3,7 +3,6 @@
   "obsidian-git",
   "better-fn",
   "obsidian-footnotes",
-  "obsidian-emoji-toolbar",
   "obsidian-tabs",
   "obsidian-local-rest-api",
   "various-complements",
@@ -11,5 +10,6 @@
   "obsidian-tagfolder",
   "calendar",
   "tag-wrangler",
-  "file-tree-alternative"
+  "file-tree-alternative",
+  "obsidian-emoji-toolbar"
 ]
