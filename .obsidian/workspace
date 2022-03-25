@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "09c7ae4024a73848",
+        "id": "720602fbe0a2e54b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Roll Ups/Child Safety/Child Safety.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "1799e2db8284bcdf",
+            "id": "d0b748f80022a66e",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Roll Ups/Child Safety/Child Safety.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Roll Ups/Child Safety/Child Safety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,20 +132,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420,
-    "collapsed": true
+    "width": 420
   },
-  "active": "09c7ae4024a73848",
+  "active": "720602fbe0a2e54b",
   "lastOpenFiles": [
+    "Roll Ups/Child Safety/Child Safety.md",
+    "Roll Ups/Mental Health/Mental Health.md",
+    "Volume 1/Current Reality/International CCIs/More than the loss of a parent _ potentially traumatic events among orphaned and abandoned children.md",
     "conflict-files-obsidian-git.md",
     "Index Pages/📜Stakeholder Index.md",
     "Index Pages/📜Domain Roll Up Index.md",
     "Volume 2/Reference Reading/Governments & UN/Guidelines for After Care of Children under ICPS.md",
     "Volume 1/Roll Ups/Child Safety/Child Safety.md",
     "Volume 2/Reference Reading/Governments & UN/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
-    "Volume 1/Roll Ups/Observed behavior assessments.md",
-    "Volume 1/Reference Reading/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.md",
-    "Volume 1/Roll Ups/Mental Health/Mental Health.md",
-    "Volume 2/Reference Reading/Service providers to CCIs/SOS/Function, quality and outcomes of residential care.md"
+    "Volume 1/Roll Ups/Observed behavior assessments.md"
   ]
 }
