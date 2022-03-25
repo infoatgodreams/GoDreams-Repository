@@ -98,7 +98,7 @@ tags:
 
 # Governments and UN
 - [Guidelines on Alternative Care_UN](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/UN/Guidelines%20on%20Alternative%20Care_UN.md)
-- [SOP on Escape Runaway Sexual Abuse Death of Children in CCIs](Volume%202/Reference%20Reading/Governments%20&%20UN/SOP%20on%20Escape%20Runaway%20Sexual%20Abuse%20Death%20of%20Children%20in%20CCIs.md)
+- [SOP on Escape Runaway Sexual Abuse Death of Children in CCIs](Volume%202/Care%20Standards/GOI%20&%20Indian%20Standards/SOP%20on%20Escape%20Runaway%20Sexual%20Abuse%20Death%20of%20Children%20in%20CCIs.md)
 - [WHO Child Growth Standards](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/WHO/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md)
 -  [Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/Minimum%20Standards%20of%20Care%20and%20Support%20for%20the%20Victims%20of%20Trafficking%20and%20other%20forms%20of%20violence%20in%20South%20Asia.md)
 
