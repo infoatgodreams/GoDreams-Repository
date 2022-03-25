@@ -34,5 +34,5 @@ Link: https://drive.google.com/file/d/1LtVSZkq-PWx71HL9tsJY1GdhUX62DhR8/view?usp
 - The process of funding needs to beimproved and digitised. It should bemade transparent and predictable.For example, for every CNCPapproved by CWC for placement in aregistered CCI, Rs 2000 per month (orany other predetermined sum ofmoney) should be deposited into theCCI’s bank account with no furtherquestions asked. If the data ofchildren in a CCI is accurate and realtime, the funds can be made availablewithout risk of misappropriation. (Page 23)
 
 ## Source
-[[CNCP-Paper Annotated_Akshay.pdf]]
+[[Volume 2/Volume 2 Public Resource Links/Program design/CNCP-Paper Annotated_Akshay.pdf]]
 

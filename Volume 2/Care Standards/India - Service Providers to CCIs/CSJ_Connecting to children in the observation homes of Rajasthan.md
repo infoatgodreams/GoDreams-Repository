@@ -90,4 +90,4 @@ The goal of this intervention is to promote social reintegration and rehabilitat
 - children space to think through their strengths and build on these. This allows children to believe that they have something to offer and achieve (Holcomb-McCoy, 2007). (Page 29)
 
 ## Source
-[[Bonds of Hope-UNICEF_Annotated_Akshay.pdf]]
+[[Volume 2/Volume 2 Public Resource Links/Other service providers/Bonds of Hope-UNICEF_Annotated_Akshay.pdf]]
