@@ -537,7 +537,7 @@ Some of them are listed as follows:
 [^3]: [The Impact of Institutionalization on Child Development_Kim Mclean](Volume%201/Current%20Reality/International%20CCIs/The%20Impact%20of%20Institutionalization%20on%20Child%20Development_Kim%20Mclean.md)
 [^4]: [Global Childhood Report 2021](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/Global%20Childhood%20Report%202021.md)
 [^5]: [Guidelines for Institutional Childcare, Ethiopia](Volume%202/Care%20Standards/International%20-%20Govt,%20UN%20&%20World%20Bodies/Guidelines%20for%20Institutional%20Childcare,%20Ethiopia.md)
-[^6]: [Rainbow_Child Protection Policy](Volume%202/Reference%20Reading/Service%20providers%20to%20CCIs/Rainbow/Rainbow_Child%20Protection%20Policy.md)
+[^6]: [Rainbow_Child Protection Policy](Volume%202/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/Rainbow_Child%20Protection%20Policy.md)
 [^7]: [Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/Minimum%20Standards%20of%20Care%20and%20Support%20for%20the%20Victims%20of%20Trafficking%20and%20other%20forms%20of%20violence%20in%20South%20Asia.md)
 [^8]: [Working with Children Sensitively](Volume%201/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/Prerana/Working%20with%20Children%20Sensitively.md)
 [^9]: [CSA_Child Protection Policy](Volume%202/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/CSA_Child%20Protection%20Policy.md)
