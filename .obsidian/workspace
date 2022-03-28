@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rough Notes/CCI Immersion.md",
+            "file": "Guardians Point of View/GP Nutrition.md",
             "mode": "source",
             "source": false
           }
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7e698accb92ee8ea",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rough Notes/CCI Immersion.md",
+                "file": "Guardians Point of View/GP Nutrition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rough Notes/CCI Immersion.md",
+                "file": "Guardians Point of View/GP Nutrition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,6 +179,7 @@
   },
   "active": "6c01885098a653ca",
   "lastOpenFiles": [
+    "Guardians Point of View/GP Nutrition.md",
     "Rough Notes/CCI Immersion.md",
     "Roll Ups/Alternative Care/Restoration.md",
     "conflict-files-obsidian-git.md",
@@ -188,7 +188,6 @@
     "Roll Ups/Child Safety/Child Safety.md",
     "Volume 1/Daily Log/📕Navneeth's Log.md",
     "Guardians CAP Repository.md",
-    "Program Design/03 Field Immersion.md",
-    "L&D/Courses/Cohort Based Courses.md"
+    "Program Design/03 Field Immersion.md"
   ]
 }
