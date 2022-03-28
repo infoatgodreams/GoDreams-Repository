@@ -11,6 +11,11 @@ Nutrition is one of the areas where the science is clear on straightforward inpu
 - Operationalizing hygiene, food safety and sanitization routines
 - Food emergency plans
 
-## Care Practices around food
-- Mealtimes reimagined for caregivers to help children develop positive attitudes toward food
-- 
+## Integration of care practices around food
+- Reimagined mealtimes so that children are supported by caregivers to develop positive attitudes toward food
+- Upskilling of staff for 
+	- Quick identification of eating disorders, allergies and medical issues
+	- Quick identification of malnourishment, stunting, wasting and underweight. 
+- Response guidelines for children identified as bellow age benchmarks
+
+## 
