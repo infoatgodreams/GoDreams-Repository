@@ -96,7 +96,7 @@ Link: https://drive.google.com/file/d/10nuywFDUmvMr4wwNlF3qHIJhb096x5Pz/view?usp
 • Limited access to the outer world due to lack of mobility and exposure.
 
 ## Source
-[[Institutionalised _Children_Revised Annotated_Akshay.pdf]]
+[[Volume 2/Volume 2 Public Resource Links/Other service providers/Institutionalised _Children_Revised Annotated_Akshay.pdf]]
 
 #readinglist 
 
