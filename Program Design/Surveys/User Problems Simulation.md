@@ -15,7 +15,7 @@ For example, if one were to ask a funder "Have you faced any issues while fundin
 If we can solve for this within CAP, then we ensure that the funder is invested in our solution and continues to encourage its use/use it. 
 ```
 
-Here it is ==**important that we wear the shoes of our primary roles and the role of the stakeholders, and not limit ourselves by thinking only about CAP objectives.**== Although CAP objectives remain a sub-set of our primary roles, and hence can be included. 
+==While doing this activity, make sure that you’re wearing the shoes of the stakeholder whose problem you’re describing. Do not worry about what CAP aims to do or can afford to do. Just describe the problem like you’re living the life of the stakeholder== Although CAP objectives remain a sub-set of our primary roles, and hence can be included. 
 
 - There are 4 core parties that are invested in our solution
 	- **Us (Guardians)** : What are the niggles we faced in our roles while working with CCIs?
