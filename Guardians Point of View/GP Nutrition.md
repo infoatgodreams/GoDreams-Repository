@@ -36,13 +36,13 @@ The availability of the science and the current reality of nutrition in CCIs imp
 - Allied areas such as healthcare and caregiving must have data on children's nutritional status and history via individual care plans. 
 - Recommendations from these areas must have a quick turn around into nutritional inputs. 
 
-To bridge this gap, *challenges and opportunities that exist* are: 
+To bridge this gap, **challenges and opportunities that exist** are: 
 
-## Cultural influence on food 
+``` ## Cultural influence on food 
 - Gender disparity in food - differences in expectations for quantity and quality of food, differences in participation in food preparation etc.
 - Regional, cultural and religious influences on menu - differences in type of food available to children, diversity of diet and quantity.
 - Traditional food preparation - differences in techniques used in the kitchen
-
+```
 ## Dominance of Input focused incentives
 
 - Donor behavior influencing diet - celebrations, special events, in-kind donation of food have a disproportionate influence on diet choices

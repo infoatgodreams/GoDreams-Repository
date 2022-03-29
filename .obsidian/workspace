@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,29 +113,6 @@
             }
           },
           {
-            "id": "ea71b2c36ed38c90",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Guardians Point of View/GP Nutrition.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "33ab9bef57fe3aec",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "2cb473bed554034f",
             "type": "leaf",
             "state": {
@@ -144,7 +120,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "62b7b7b857d3c05e",
@@ -162,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420
+    "width": 420,
+    "collapsed": true
   },
   "active": "6c01885098a653ca",
   "lastOpenFiles": [
