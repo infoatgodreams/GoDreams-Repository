@@ -14,7 +14,7 @@ This implies that the emphasis of this domain be on building and sustaining:
 - Infrastructure to facilitate efficient cooking, such as large vessels and adequate storage space
 
 ## Integration of care practices around food
-- Reimagined mealtimes so that children are supported by caregivers to develop positive attitudes toward food
+- Reimagined mealtime experiences so that children are supported by caregivers to develop positive attitudes toward food
 - Quick identification through observation & measurement, of malnourishment, stunting, wasting and underweight. 
 - Quick identification through observation & testing, of eating disorders, allergies and medical issues
 - Response guidelines for children identified as below age benchmarks including menu upgrades, special diets and expert consultations
