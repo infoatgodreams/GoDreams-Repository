@@ -4,7 +4,7 @@
 
 Nutrition is one of the domains where the science is clear on straightforward inputs required for children achieve positive outcomes.  The quantity of macro and micro nutrients required for children across age groups is publicly available, and local nutritionists can use this to come up with diet plans based on regional preferences.
 
-This implies that the emphasis of this domain be on building and sustaining: 
+This implies that the **emphasis of this domain be on building and sustaining:** 
 
 ## Adequate Nutritional Inputs
 - Frequent monitoring of nutritional inputs and outputs through metrics such as macro-nutrient/micro nutrient composition of diet, height vs age, weight vs age, medical reports
@@ -47,4 +47,6 @@ To bridge this gap, *challenges and opportunities that exist* are:
 - Mindset of meeting basic survival vs excellent nutritional inputs
 - Quality and type of food provided varying based on donation sources,regularity and market prices vs solely dependent on nutritional needs.
 
+
+# The Gold Standard in Nutrition
 
