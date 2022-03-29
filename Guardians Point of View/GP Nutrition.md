@@ -84,13 +84,13 @@ For these levers to work, the primary **challenges and opportunities that exist*
 
 ## Literature Review
 
-- There is a sufficient amount material available on the Nutrition domain from established entities such as the WHO and Indian Pediatrics Association. 
+- There is a sufficient amount material available on the Nutrition domain from established entities such as the WHO and Indian Pediatrics Association. Nutri
 - The WHO has defined global standards for nutritional outcomes which have been contextualized for India by the IPA
-- The [Nutrition](Roll%20Ups/Nutrition/Nutrition.md) roll up contains a summary of the learnings from the literature review phase. 
+- The [Nutrition](Roll%20Ups/Nutrition/Nutrition.md) roll up contains a summary of the learnings from the literature review phase.  
 
 ## Immersion
 
-- The goal of immersion in nutrition is 
+- The goal of the immersion phase in nutrition is 
 	- To identify gaps in nutritional outcomes in children in CCIs
 	- To identify gaps in nutrition inputs to children in CCIs
 	- To identify the key challenge areas preventing CCI caregivers and cooks from meeting these inputs (challenges in inputs, outputs, processes or stakeholders) 

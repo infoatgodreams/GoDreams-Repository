@@ -4,20 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "643d7d390ec0f9a8",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Roll Ups/Nutrition/Nutrition.md",
-            "mode": "preview",
-            "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "6c01885098a653ca",
         "type": "leaf",
         "pinned": true,
