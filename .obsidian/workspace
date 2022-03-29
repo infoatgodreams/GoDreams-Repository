@@ -74,14 +74,15 @@
             }
           },
           {
-            "id": "96394d1ecf08d3a4",
+            "id": "b99b63aa694b1253",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
