@@ -4,20 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6c01885098a653ca",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Guardians Point of View/GP Nutrition.md",
-            "mode": "preview",
-            "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "643d7d390ec0f9a8",
         "type": "leaf",
         "pinned": true,
@@ -26,6 +12,20 @@
           "state": {
             "file": "Roll Ups/Nutrition/Nutrition.md",
             "mode": "preview",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "6c01885098a653ca",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Guardians Point of View/GP Nutrition.md",
+            "mode": "source",
             "source": false
           },
           "pinned": true
@@ -103,14 +103,47 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Nutrition/Nutrition.md",
+                "file": "Guardians Point of View/GP Nutrition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52a6c0152838c19c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Guardians Point of View/GP Nutrition.md"
+              }
+            }
+          },
+          {
+            "id": "132b329950c0a9b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27bafcf3bdf6c116",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Guardians Point of View/GP Nutrition.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -134,10 +167,10 @@
     "direction": "horizontal",
     "width": 420
   },
-  "active": "643d7d390ec0f9a8",
+  "active": "6c01885098a653ca",
   "lastOpenFiles": [
-    "Roll Ups/Nutrition/Nutrition.md",
     "Guardians Point of View/GP Nutrition.md",
+    "Roll Ups/Nutrition/Nutrition.md",
     "conflict-files-obsidian-git.md",
     "Rough Notes/CCI Immersion.md",
     "Roll Ups/Alternative Care/Restoration.md",

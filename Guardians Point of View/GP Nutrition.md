@@ -6,7 +6,7 @@ Nutrition is one of the domains where the science is clear on straightforward in
 
 # The Gold Standard in Nutrition
 
-## Outcomes
+## Target Outcome
 - Young adults graduating from CCIs will be physically fit, have no preventable nutritional deficiencies or medical conditions related to food and have a positive relationship & understanding of personal nutrition.
 
 ## Outputs
@@ -48,7 +48,7 @@ The availability of the science and the current reality of nutrition in CCIs imp
 > - Allied areas such as healthcare and caregiving must have data on children's nutritional status and history via individual care plans. 
 > - Recommendations from these areas must have a quick turn around into nutritional inputs. 
 
-To bridge this gap, **challenges and opportunities that exist** are: 
+For these levers to work, the primary **challenges and opportunities that exist** are: 
 
 > [!bug]- Cultural influence on food
 > - Gender disparity in food - differences in expectations for quantity and quality of food, differences in participation in food preparation etc.
