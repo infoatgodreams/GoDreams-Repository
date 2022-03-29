@@ -6,6 +6,10 @@ Nutrition is one of the domains where the science is clear on straightforward in
 
 This implies that the emphasis of this domain be on building and sustaining: 
 
+## Adequate Nutritional Inputs
+- Frequent monitoring of nutritional inputs and outputs through metrics such as macro-nutrient/micro nutrient composition of diet, height vs age, weight vs age, medical reports
+- Diets balanced and efficient to deliver nutritional inputs on par with global standards. 
+
 ## Effective Nutrition Processes
 - Standardization of menus and grocery purchasing cycles
 - Individualization of nutritional needs and tastes
@@ -20,13 +24,14 @@ This implies that the emphasis of this domain be on building and sustaining:
 - Response guidelines for children identified as below age benchmarks including menu upgrades, special diets and expert consultations
 
 ## The child's development around food
-- Children self regulate quantity of food and provide and see implemented feedback on food quality
+- Children self regulate quantity of food and see the impact of feedback provided on food quality/diversity
 - Children exposed to diverse types of foods and cuisines 
 - Children taught about  the food cycle from purchase to waste disposal
 - Children taught to self identify and communicate symptoms of malnourishment and other deficiencies
 
 ## Information availability around food
 - Allied areas such as healthcare and caregiving must have data on children's nutritional status and history via individual care plans. 
+- Recommendations from these areas must have a quick turn around into nutritional inputs. 
 
 To bridge this gap, *challenges and opportunities that exist* are: 
 
@@ -40,5 +45,6 @@ To bridge this gap, *challenges and opportunities that exist* are:
 - Donor behavior influencing diet - celebrations, special events, in-kind donation of food have a disproportionate influence on diet choices
 - Children looking malnourished could have a benefit to maintaining "orphanage" image in some cases
 - Mindset of meeting basic survival vs excellent nutritional inputs
-- Quality and type of food provided varying based on donation sources and market prices and not only dependent on nutritional needs
+- Quality and type of food provided varying based on donation sources,regularity and market prices vs solely dependent on nutritional needs.
+
 
