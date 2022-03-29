@@ -38,17 +38,24 @@ The availability of the science and the current reality of nutrition in CCIs imp
 
 To bridge this gap, **challenges and opportunities that exist** are: 
 
-``` ## Cultural influence on food 
-- Gender disparity in food - differences in expectations for quantity and quality of food, differences in participation in food preparation etc.
-- Regional, cultural and religious influences on menu - differences in type of food available to children, diversity of diet and quantity.
-- Traditional food preparation - differences in techniques used in the kitchen
-```
-## Dominance of Input focused incentives
+> [!bug]+ Challenges & Opportunities
+> ## Cultural influence on food 
+> Gender disparity in food - differences in expectations for quantity and quality of food, differences in participation in food preparation etc.
+> 
+> Regional, cultural and religious influences on menu - differences in type of food available to children, diversity of diet and quantity.
+> 
+> Traditional food preparation - differences in techniques used in the kitchen
+> 
 
-- Donor behavior influencing diet - celebrations, special events, in-kind donation of food have a disproportionate influence on diet choices
-- Children looking malnourished could have a benefit to maintaining "orphanage" image in some cases
-- Mindset of meeting basic survival vs excellent nutritional inputs
-- Quality and type of food provided varying based on donation sources, regularity and market prices vs solely dependent on nutritional needs.
+> [!bug]+ Challenges & Opportunities
+> ## Dominance of Input focused incentives
+Donor behavior influencing diet - celebrations, special events, in-kind donation of food have a disproportionate influence on diet choices
+>
+Children looking malnourished could have a benefit to maintaining "orphanage" image in some cases
+>
+Mindset of meeting basic survival vs excellent nutritional inputs
+>
+Quality and type of food provided varying based on donation sources, regularity and market prices vs solely dependent on nutritional needs.
 
 
 # The Gold Standard in Nutrition
