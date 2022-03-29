@@ -4,8 +4,20 @@
 
 Nutrition is one of the domains where the science is clear on straightforward inputs required for children achieve positive outcomes.  The quantity of macro and micro nutrients required for children across age groups is publicly available, and local nutritionists can use this to come up with diet plans based on regional preferences.
 
+# The Gold Standard in Nutrition
 
-# Inputs to CCIs 
+## Outcomes
+- Young adults graduating from CCIs will be physically fit, have no preventable nutritional deficiencies or medical conditions related to food and have a positive relationship & understanding of personal nutrition.
+
+## Outputs
+
+ - Zero stunting and under-weight children at the CCI (Measured)
+ - Children are able to self regulate quantity of food consumed (Observed)
+ - Children enjoy a wide variety of food (self reported, staff reported)
+ - Children are have sufficient energy levels through the day (self reported, staff reported, school reported)
+ - Children have no recuring medical issues curable through special diets (staff reported, doctor reported)
+
+# Key levers at CCIs 
 
 The availability of the science and the current reality of nutrition in CCIs implies that the **emphasis of this domain be on building and sustaining:** 
 
@@ -56,14 +68,18 @@ To bridge this gap, **challenges and opportunities that exist** are:
 > - Quality and type of food provided varying based on donation sources, regularity and market prices vs solely dependent on nutritional needs.
 
 
+# References
 
-# The Gold Standard in Nutrition
+## Literature Review
 
-## Outputs
+- There is a sufficient amount material available on the Nutrition domain from established entities such as the WHO and Indian Pediatrics Association. 
+- The WHO has defined global standards for nutritional outcomes which have been contextualized for India by the IPA
+- The [Nutrition](Roll%20Ups/Nutrition/Nutrition.md) roll up contains a summary of the learnings from the literature review phase. 
 
- - Zero stunting and under-weight children at the CCI (Measured)
- - Children are able to self regulate quantity of food consumed (Observed)
- - Children enjoy a wide variety of food (self reported, staff reported)
- - Children are have sufficient energy levels through the day (self reported, staff reported, school reported)
- - Children have no recuring medical issues curable through special diets (staff reported, doctor reported)
+## Immersion
 
+- The goal of immersion in nutrition is 
+	- To identify gaps in nutritional outcomes in children in CCIs
+	- To identify gaps in nutrition inputs to children in CCIs
+	- To identify the key challenge areas preventing CCI caregivers and cooks from meeting these inputs (challenges in inputs, outputs, processes or stakeholders) 
+- The [[Nutrition Immersion]] roll up contains a summary of our learning from CCIs
