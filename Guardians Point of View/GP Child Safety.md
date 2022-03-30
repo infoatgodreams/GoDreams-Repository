@@ -16,7 +16,16 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 
 # Key Levers at CCIs
 
-> [!info]- Children's Awareness
-> - Children are able to identify cases of abuse and are aware of how to communicate it will be ciritcal in reducing rates of abuse at CCIs
-> - Children are aware of safe practices at school and online. 
+> [!info]- Children's Awareness & Rights
+> - Children are able to identify cases of abuse and are aware of how to communicate it 
+> - Children are aware of safe practices at school, in public spaces and online and have experience practicing them
+> - Children know emergency contact numbers and emergency procedures
+> - Children are aware of their rights and trained on critical issues such as sexual identity, gender issues, self regulation etc.
+> - Children are aware of avenues to participate in decision making that affects them
+
+
+> [!info]- Participatory Structures and Policies
+> - Children's committees are set up and consistently participate in decision making on children's affairs
+> - Strong relationships must be  built with stakeholders in contact with children and part of the safety process (police, school staff, cci staff, parents etc)
 > - 
+> 
