@@ -6,13 +6,15 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 
 ## Target Outcomes 
 
- - Young adults are self confident, know what to do in situations that put themselves or others around them in danger, aware of forms of abuse and protections available to them and able to voice out concerns and seek resolution from competent forums. 
+ - Young adults are self confident, know what to do in situations that put themselves or others around them in danger, aware of forms of abuse and protections available to them and confident to voice out concerns and seek resolution from competent forums.
+
 
 # Indicative Outputs
 
  - Children are not afraid to voice out concerns and highlight red flags if any, as well as work with CCI management to solve them. 
  - Children participate in the decision making at CCIs and have minimal behavioral issues
  - Children have reducing or no clinical indicators of Physical abuse, sexual abuse or emotional abuse. 
+ - Children articulate a feeling of safety, their voice being heard,  
 
 # Key Levers at CCIs
 
@@ -26,6 +28,6 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 
 > [!info]- Participatory Structures and Policies
 > - Children's committees are set up and consistently participate in decision making on children's affairs
-> - Strong relationships must be  built with stakeholders in contact with children and part of the safety process (police, school staff, cci staff, parents etc)
+> - Strong relationships must be  built with stakeholders in contact with children and part of the safety process (cwc, social workers, police, school staff, cci staff, parents , lawyers etc)
 > - 
 > 
