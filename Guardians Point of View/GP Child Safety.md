@@ -41,14 +41,16 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 >  - CCTV cameras and other safety infrastructure in place
 >  - Access to strangers monitored by primary authorities
 >  - Background checks conducted on staff and other stakeholders interacting with children
+>  - Clear response guidelines for incidents
+>  - Clear systems in place and publically known for reporting abuse/safety violations such as anonymmized complaint boxes, redressal committees children's committees etc. 
 
-> [!info]- Training and sensitization
+> [!info]- Training and sensitization of stakeholders
 >   - Visitors and other strangers go through a sensitization program before interaction with children
 >   - CCI Staff trained rigorously in safety practices and protocols
 >   - Associated stakeholders such as school teachers, parents etc also undergo sensitization training
 
 
-> [!info]- Safe Environment
+> [!info]- Facilitating a Safe Environment
 > - Separate areas for guests, private spaces for children
 > - Restorative circles facilitated on regular basis
 > - Conflict resolution systems in place for child-child, child-staff or other conflict
