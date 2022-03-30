@@ -14,7 +14,7 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
  - Children are not afraid to voice out concerns and highlight red flags if any, as well as work with CCI management to solve them. 
  - Children participate in the decision making at CCIs and have minimal behavioral issues
  - Children have reducing or no clinical indicators of Physical abuse, sexual abuse or emotional abuse. 
- - Children articulate a feeling of safety, their voice being heard,  
+ - Children articulate a feeling of safety, their voice being heard, having 1 or more people they can talk to,  
 
 # Key Levers at CCIs
 
@@ -29,5 +29,15 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 > [!info]- Participatory Structures and Policies
 > - Children's committees are set up and consistently participate in decision making on children's affairs
 > - Strong relationships must be  built with stakeholders in contact with children and part of the safety process (cwc, social workers, police, school staff, cci staff, parents , lawyers etc)
-> - 
+> - Anonymous feedback structures must be rigorously implemented
+> -
 > 
+
+> [!info]- Monitoring, audits, documentation & assessment
+>  - Pre-admission experiences and safety violation documented and access given to essential stakeholders
+>  - External safety audit conducted at a fixed frequency
+>  - Privacy of documentation held center
+>  - CCTV cameras and other safety infrastructure in place
+>  - Access to strangers monitored by primary authorities
+>  - Background checks conducted on staff and other stakeholders interacting with children
+>  - Visitors and other 
