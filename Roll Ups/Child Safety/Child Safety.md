@@ -5,7 +5,7 @@ tags:
 - Rollups
 ---
 
-# Current reality of child safety
+# CURRENT REALITIES OF CHILD SAFETY
 - Fisher et al. (1997) have pointed  out that most of the characteristic early problems of children adopted from orphanages  might indicate brain damage or emotionally produced pathology if they were found in children reared in families.[^3]
 - In the U.K. sample  children’s scores on disinhibited attachment disturbance were positively correlated with  their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years.[^3]
 # What is child safety?
