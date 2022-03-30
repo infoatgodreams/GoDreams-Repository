@@ -6,8 +6,8 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 
 ## Target Outcomes 
 
- - Young adults are self confident, know what to do in situations that put themselves or others around them in danger, aware of forms of abuse and protections available to them and confident to voice out concerns and seek resolution from competent forums.
-
+ - Young adults know what to do in situations that put themselves or others around them in danger, are aware of forms of abuse and protections available to them and confident to voice out concerns and seek resolution from competent forums.
+- Young adults have few or no syptoms or indicators of past abuse during stay at child care institution. 
 
 # Indicative Outputs
 
