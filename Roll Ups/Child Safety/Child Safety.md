@@ -243,67 +243,40 @@ For Rainbow's caregivers
 # TRAVEL GUIDELINES FOR CHILDREN
 
 Some of them are listed as follows:
-
--   Inform the child not to get into a crowded bus/train as it is unsafe and risky. Wait for the next bus to arrive.
+- Inform the child not to get into a crowded bus/train as it is unsafe and risky. Wait for the next bus to arrive.
+- Inform the child to always carry the correct railway pass/ticket.
+- The child should be asked to not travel on the footboard, lean out of a running train, or cross the railway tracks. Always use the footbridge to change platforms.
+- In trains, the child should preferably travel by compartments reserved for women. On buses, she should make use of seats reserved for ladies
+- While using facilities in public spaces like bathrooms, etc. – the child should avoid common facilities and use those reserved for females only. The concept of reservation for her safety and convenience should be discussed with the child.
+- Educate the child about road traffic safety. The child should follow the traffic rules and road safety regulations. She should check the traffic signals before crossing the street, look out for any approaching vehicles, and use the zebra crossing wherever available.
+- Brief the child to follow the route discussed with the Naunihal staff. The child should make use of the usual path. The child should be informed to take a busy and well-lit road, and the dangers of taking short-cuts and unknown routes should be discussed with the child.
+- Prepare the child to be attentive to her surroundings, her belongings and the people around her
+- Inform the child that she must run away raise an alarm and seek help. She should not refrain from asking for help if there is a feeling of being in trouble or danger.
+- Explain to the child that if someone makes an attempt to grab her purse or bag, then at that moment, it is advisable to let it go.
+- Fighting in order to resist it could result in the risk of getting hurt. Money and other possessions likely to be lost in such situations can be later recovered or replaced. The harm caused to the child may be irreversible.
+- Under any circumstances, no form of sexual maltreatment is ever alright. Have regular conversations with children with regard to personal safety
+- Discuss with the child that it is never her fault if any such situation arises
+- Inform the child that any incidents of being followed, being teased or troubled should be reported to Naunihal staff immediately, even if it is a hunch.
+- Instruct the child to cross the street if she feels like she is being followed, and notice if the person following her does the same. If this happens, the child should start running immediately. Develop an understanding in the child that there is no harm in running, and there is no need to wait till theperson is very close to take action
+- Explain to the child that while getting into a taxi, she should ensure that the child lock of the doors isn’t activated
+- Discuss instances like maintaining distance from the car and never getting into the car — even if the stranger is going in the same direction that the child is headed, or the stranger says there is an emergency or a disaster along the way
+- Inform the child to be aware of anyone in a car/taxi/ auto rickshaw/vehicle who stops to talk to her or ask her for directions if she is walking down the street, even if it is a familiar neighborhood.
+- Help can always be sought at the nearest police station. Discuss police stations falling in the child’s route with the child if there are any.
+- Educate the child about the Railway Protection Force and the possibility of seeking help from them atrailway stations.
+- Make the child aware that she can also approach a store in a nearby mall, a supermarket, or a well-lit, family restaurant.
+- Ensure that the child memorizes some important toll-free and such other emergency phone /helpline numbers e.g. of Naunihal, the police, Childline Helpline numb
     
--   Inform the child to always carry the correct railway pass/ticket.
-    
--   The child should be asked to not travel on the footboard, lean out of a running train, or cross the railway tracks. Always use the footbridge to change platforms.
-    
--   In trains, the child should preferably travel by compartments reserved for women. On buses, she should make use of seats reserved for ladies.
-    
--   While using facilities in public spaces like bathrooms, etc. – the child should avoid common facilities and use those reserved for females only. The concept of reservation for her safety and convenience should be discussed with the child.
-    
--   Educate the child about road traffic safety. The child should follow the traffic rules and road safety regulations. She should check the traffic signals before crossing the street, look out for any approaching vehicles, and use the zebra crossing wherever available.
-    
--   Brief the child to follow the route discussed with the Naunihal staff. The child should make use of the usual path. The child should be informed to take a busy and well-lit road, and the dangers of taking short-cuts and unknown routes should be discussed with the child.
-    
--   Prepare the child to be attentive to her surroundings, her belongings and the people around her
-    
--   Inform the child that she must run away raise an alarm and seek help. She should not refrain from asking for help if there is a feeling of being in trouble or danger.
-    
-
--   Explain to the child that if someone makes an attempt to grab her purse or bag, then at that moment, it is advisable to let it go.
-    
-
--   Fighting in order to resist it could result in the risk of getting hurt. Money and other possessions likely to be lost in such situations can be later recovered or replaced. The harm caused to the child may be irreversible.
-    
-
--   Under any circumstances, no form of sexual maltreatment is ever alright. Have regular conversations with children with regard to personal safety
-    
--   Discuss with the child that it is never her fault if any such situation arises
-    
--   Inform the child that any incidents of being followed, being teased or troubled should be reported to Naunihal staff immediately, even if it is a hunch.
-    
--   Instruct the child to cross the street if she feels like she is being followed, and notice if the person following her does the same. If this happens, the child should start running immediately. Develop an understanding in the child that there is no harm in running, and there is no need to wait till theperson is very close to take action
-    
--   Explain to the child that while getting into a taxi, she should ensure that the child lock of the doors isn’t activated
-    
--   Discuss instances like maintaining distance from the car and never getting into the car — even if the stranger is going in the same direction that the child is headed, or the stranger says there is an emergency or a disaster along the way
-    
--   Inform the child to be aware of anyone in a car/taxi/ auto rickshaw/vehicle who stops to talk to her or ask her for directions if she is walking down the street, even if it is a familiar neighborhood.
-    
--   Help can always be sought at the nearest police station. Discuss police stations falling in the child’s route with the child if there are any.
-    
-
--   Educate the child about the Railway Protection Force and the possibility of seeking help from them atrailway stations.
-    
--   Make the child aware that she can also approach a store in a nearby mall, a supermarket, or a well-lit, family restaurant.
-    
--   Ensure that the child memorizes some important toll-free and such other emergency phone /helpline numbers e.g. of Naunihal, the police, Childline Helpline numb
-    
-
 ## Stranger Danger
 
-Discuss with the child the benefit of yelling when in trouble, as it is a discuss with the child the benefit of yelling as a good way to seek attention from passers-by - Cultivate an understanding in the child that it is unsafe to leave food and drinks unattended at any point. The child should not accept anything to eat or drink from a stranger. - Discuss with children how consuming unattended/already opened food and beverages is harmful as the food or drink can be spiked with drugs causing intoxication, etc. - The child should be made aware that if anyone hastens the child to immediately leave with him or her on the grounds of a disaster like fire, earthquake, etc. she should not leave with the said person – but call Naunihalimmediately and take their advice - Inform the child that she should not trust a stranger who follows her around and won’t leave her alone sometimes despite telling him to. This also amounts to stalking.
-
--   Initiate a discussion with the child on the importance of trusting an individualafter obtaining information about the person and the situation. The child must understand that not all strangers are rude or forceful right away. It is important to be aware of strangers, both men and women, who seem nice — the ones whomake conversation easily and get important information without the person realizing it
+- Discuss with the child the benefit of yelling when in trouble, as it is a discuss with the child the benefit of yelling as a good way to seek attention from passers-by - 
+- Cultivate an understanding in the child that it is unsafe to leave food and drinks unattended at any point. 
+- The child should not accept anything to eat or drink from a stranger. - Discuss with children how consuming unattended/already opened food and beverages is harmful as the food or drink can be spiked with drugs causing intoxication, etc.
+- The child should be made aware that if anyone hastens the child to immediately leave with him or her on the grounds of a disaster like fire, earthquake, etc. she should not leave with the said person – but call Naunihalimmediately and take their advice
+- Inform the child that she should not trust a stranger who follows her around and won’t leave her alone sometimes despite telling him to. This also amounts to stalking.
+- Initiate a discussion with the child on the importance of trusting an individualafter obtaining information about the person and the situation. The child must understand that not all strangers are rude or forceful right away. It is important to be aware of strangers, both men and women, who seem nice — the ones whomake conversation easily and get important information without the person realizing it
+- Educate the child that she is not obligated to share any personal information withany person. If a stranger or a nominally familiar person discloses his or her personal information, it doesn’t mean the child is obligated to share similar information about herself with him/her.
+- Discuss with the child about consent. Inform her that there is nothing wrong with sounding ‘rude’ and saying NO if the person continues to pressurize or botherher. Saying NO is the child’s right, and it is a complete sentence without requiring any further elaboration or justification.
     
--   Educate the child that she is not obligated to share any personal information withany person. If a stranger or a nominally familiar person discloses his or her personal information, it doesn’t mean the child is obligated to share similar information about herself with him/her.
-    
--   Discuss with the child about consent. Inform her that there is nothing wrong with sounding ‘rude’ and saying NO if the person continues to pressurize or botherher. Saying NO is the child’s right, and it is a complete sentence without requiring any further elaboration or justification.
-    
-
 # CHILD ABUSE
 
 ## SYSTEMS IN PLACE
@@ -311,177 +284,99 @@ Discuss with the child the benefit of yelling when in trouble, as it is a discus
 ### CHILD PROTECTION COMMITTEE (CPC)
 
 -   [^6] -Select one staff as CPO -CPO needs to be mature, approachable, trusted by children, has been there for at least a year and doesn't plan to leave soon, listens well and maintains privacy, drives everything in the interest of the children.
-    
-
-What does the CPO do?
-
-1.  CPO ensures quarterly meeting with CPC
-    
-2.  Enforces the prevention guidelines with the rest of the team
-    
-3.  Raise awareness about child protection in the home
-    
-4.  Ensures that CPC information is publicly displayed
-    
-5.  CPO brings up a violation immediately with CPC or project-in charge
-    
-6.  CPO meets children every month to orient them about child protection
-    
-7.  Support survivors with sensitivity and care
-    
-
-Who constitutes the child protection committee at Rainbow Homes?
-
--   5 members, 3 women
-    
--   3 mature persons with child work experience
-    
--   1 is the project in charge or home coordinator
-    
--   Mature dedicated long term volunteers PS: If more than 3 are not available for an enquiry, then a teacher/counselor can be asked to join
-    
-
-### CHILDREN'S COMMITTEE
+- What does the CPO do?
+	- CPO ensures quarterly meeting with CPC
+	- Enforces the prevention guidelines with the rest of the team
+	- Raise awareness about child protection in the home
+	- Ensures that CPC information is publicly displayed
+	- CPO brings up a violation immediately with CPC or project-in charge
+	- CPO meets children every month to orient them about child protection
+	- Support survivors with sensitivity and care
+	    
+- Who constitutes the child protection committee at Rainbow Homes?
+	- 5 members, 3 women
+	- 3 mature persons with child work experience
+	- 1 is the project in charge or home coordinator
+	- Mature dedicated long term volunteers PS: If more than 3 are not available for an enquiry, then a teacher/counselor can be asked to join
+	    
+## CHILDREN'S COMMITTEE
 
 [^10]
-
--   Highlight [page 8]: Child Participation means that children can discuss and co-decide on all matters that affect them, like family, school, community matters, government policies, legal policies.
-    
--   Person-in-charge of every institution for children shall facilitate the setting up of children’s committees for different age groups of children, that is in the age group of 6 to 10 years, 11 to 15 years and 16 to 18 years and these children’s committees shall be constituted solely by children.
-    
+- Child Participation means that children can discuss and co-decide on all matters that affect them, like family, school, community matters, government policies, legal policies.
+- Person-in-charge of every institution for children shall facilitate the setting up of children’s committees for different age groups of children, that is in the age group of 6 to 10 years, 11 to 15 years and 16 to 18 years and these children’s committees shall be constituted solely by children.
 
 ### Responsibilities of the committee
+- Improvement of the condition of the institution
+- Reviewing standards of care being followed
+- Creative expression of their views through wall papers or newsletters or paintings or music or theater;
+- Developing educational, vocational and recreational plans
+- Respecting each other and supporting each other in managing crisis
+- Reporting abuse and exploitation by peers and caregivers
+- Management of institutions through the Management Committee.
 
--   Improvement of the condition of the institution
-    
--   Reviewing standards of care being followed
-    
--   Creative expression of their views through wall papers or newsletters or paintings or music or theater;
-    
--   Developing educational, vocational and recreational plans
-    
--   Respecting each other and supporting each other in managing crisis
-    
--   Reporting abuse and exploitation by peers and caregivers
-    
--   Management of institutions through the Management Committee.
-    
-
-### Governance
-
-• President chairs the monthly meetings, reviews work done, plan
-
-. • Ministers report and discuss issues related to their portfolio. President reports to CCI superintendent 
-
-• CCI superintendent must provide the Committee with stationary, suggestion box, register, petty cash, badges to the children who constitute the committee.
-
- • Meetings must be minuted. 
-
-• Review of suggestions is carried out
-
- • When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
+ ### Governance
+- President chairs the monthly meetings, reviews work done, plan
+- Ministers report and discuss issues related to their portfolio. President reports to CCI superintendent 
+- CCI superintendent must provide the Committee with stationary, suggestion box, register, petty cash, badges to the children who constitute the committee.
+- Meetings must be minuted. 
+- Review of suggestions is carried out
+- When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
 
 ### EVALUATION TOOLS TO ASSESS SAFETY
+- Aangan recommend a Standardized Evaluation of performance, criteria &systems.
+- Standardize monitoring tool combining criteria related to infrastructure, interaction and activity .
+- External Evaluation through Vigilance Committees.
+- Develop self monitoring tool.
+- Capacity building of staff to use tool for internal monitoring and goal setting
 
--   Aangan recommend a Standardized Evaluation of performance, criteria &systems.
-    
--   Standardize monitoring tool combining criteria related to infrastructure, interaction and activity .
-    
--   External Evaluation through Vigilance Committees.
-    
--   Develop self monitoring tool.
-    
--   Capacity building of staff to use tool for internal monitoring and goal setting
-    
-
-### Expected outcomes
-
+# EXPECTED OUTCOMES
 -   Children will be safe, and be able to voice out concerns, highlight red flags, if any.
+- Children will develop leadership skills, be self-confident, aware of social issues
+- Behavioral issues will decrease, children’s participation will increase
+- Children will be able to articulate problems, find solutions and work with CCI management to resolve…
     
--   Children will develop leadership skills, be self-confident, aware of social issues
-    
--   Behavioral issues will decrease, children’s participation will increase
-    
--   Children will be able to articulate problems, find solutions and work with CCI management to resolve…
-    
-
 # RESPONSE TO CHILD ABUSE
 
 ## Protocol recommended by service providers
 
 [^6] AT RAINBOW HOMES
-
 -   CPC should meet before 3 days has passed after the incident
-    
--   CPC can suspend the accused but will continue to respect both the child and the accused
-    
--   Benefit of doubt given to the child, burden of proof on the adult
-    
--   After inquiry, the complainant can be fired, make a police complaint, transfer them or do nothing based on the results.
-    
--   If filing a police complaint, the CPC is responsible for the FIR and a copy of FIR to be kept at the home
-    
--   If there is even a slight danger, the person is removed from caring for children.
-    
--   The whole process should not take more than 15 days
-    
--   The CPC will make a report and copy given to parent, head of org and CWC
-    
--   Info about the incident should be reported to the state officer immediately and keep them updated about progress
-    
--   Any aggrieved party if they disagree with the CPC can make an appeal to the appeal committee with national and state team members.
-    
+- CPC can suspend the accused but will continue to respect both the child and the accused
+- Benefit of doubt given to the child, burden of proof on the adult
+- After inquiry, the complainant can be fired, make a police complaint, transfer them or do nothing based on the results.
+- If filing a police complaint, the CPC is responsible for the FIR and a copy of FIR to be kept at the home
+- If there is even a slight danger, the person is removed from caring for children.
+- The whole process should not take more than 15 days
+- The CPC will make a report and copy given to parent, head of org and CWC
+- Info about the incident should be reported to the state officer immediately and keep them updated about progress
+- Any aggrieved party if they disagree with the CPC can make an appeal to the appeal committee with national and state team members.
 
-[^9] AT CSA
-
--   Report the matter in writing, directly to the Director-CSA • The Director together with the Program Officer will investigate the matter and take appropriate action in accordance with the guidelines for disciplinary action as has been followed in the past OR outlined in the CSA’s Employee Handbook
-    
--   While the matter is under investigation, the individual who is suspected of having committed a child protection violation must be removed from direct contact with children
-    
--   The matter is to be addressed and brought to closure within a month of having been reported
-    
--   If the abuse falls under IPC (Indian Penal Court) or any other relevant law, First Information Report (FIR) must be filed with the local police by CSA HR Systems
-    
+## AT CSA [^9]
+- Report the matter in writing, directly to the Director-CSA • The Director together with the Program Officer will investigate the matter and take appropriate action in accordance with the guidelines for disciplinary action as has been followed in the past OR outlined in the CSA’s Employee Handbook
+- While the matter is under investigation, the individual who is suspected of having committed a child protection violation must be removed from direct contact with children
+- The matter is to be addressed and brought to closure within a month of having been reported
+- If the abuse falls under IPC (Indian Penal Court) or any other relevant law, First Information Report (FIR) must be filed with the local police by CSA HR Systems
 
 ## NCPCR Protocol
 
 [^11]
-
--   Lodge a complaint with the police
-    
--   Conduct initial enquiry and send report to the Board or Committee or Children’s court within 24 hours
-    
--   No punitive action taken against the child in conflict with law or CNCP who is recovered/found
-    
--   Police files FIR
-    
--   Police informs the child welfare police officer
-    
--   Police forwards FIR to Special Juvenile Police Unit to trace the child
-    
--   DCPO will be responsible for organizing counselling sessions for the child in question
-    
--   The person in charge needs to send a report to the DM, Police and the Board/Committee/ Children’s court
-    
--   In the case of natural death, the person in charge needs a report from the medical officer about cause of death within 15 days and needs to send written intimation to
-    
-
--   police station
-    
--   board/committee/children’s court
-    
--   DM/SP
-    
--   NHRC
-    
--   NCPCR
-    
-
--   Every death needs to be investigated by the police
-    
--   CCI needs to ensure post mortem happens within 24 hours
-    
--   In case of unnatural deaths or suicides, photos and videos need to be captured for future records
+- Lodge a complaint with the police
+- Conduct initial enquiry and send report to the Board or Committee or Children’s court within 24 hours
+- No punitive action taken against the child in conflict with law or CNCP who is recovered/found
+- Police files FIR
+- Police informs the child welfare police officer
+- Police forwards FIR to Special Juvenile Police Unit to trace the child
+- DCPO will be responsible for organizing counselling sessions for the child in question
+- The person in charge needs to send a report to the DM, Police and the Board/Committee/ Children’s court
+- In the case of natural death, the person in charge needs a report from the medical officer about cause of death within 15 days and needs to send written intimation to
+	-   police station
+	- board/committee/children’s court
+	- DM/SP
+	- NHRC
+	- NCPCR
+- Every death needs to be investigated by the police
+- CCI needs to ensure post mortem happens within 24 hours
+- In case of unnatural deaths or suicides, photos and videos need to be captured for future records
     
 -   In all cases, magistrate needs to complete an inquiry within 4 weeks of receiving the notice
     
