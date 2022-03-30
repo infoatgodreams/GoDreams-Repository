@@ -76,7 +76,17 @@ For these levers to work, the **primary challenges and potential opportunities a
 
 ## Literature Review
 
+- Most of the material on child safety concerns itself with reporting guidelines, building awareness in children regarding their own safety and response of the institution to safety violations.
+- Current reality of safety issues in CCIs is indicative but not clear possibly due to hesitancy of CCIs in reporting this. 
+- Link to the summary of the literature review here [[Child Safety]]
 
+## CCI Immersion
+- The Goal of the immersion phase in child safety is to: 
+	- Guage childrens awareness of their rights 
+	- Guage the extent of any violations of child safety norms via sexual, physical or emotional abuse
+	- Identify gaps in Knowledge/Skills/Minsets of CCI staff and other stakeholders
+	- Identify key challenge areas preventing CCIs from building a safe environment
+- The [[Child Safety Immersion]] roll up contains a summary of our learning from CCIs
 
 
 
