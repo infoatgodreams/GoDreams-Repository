@@ -133,7 +133,7 @@ In a seminar organized by Udayan Care[^1] on Mental Health Standards in institut
     
 ## ATTACHMENT STRUGGLES IN INSTITUTIONAL CARE
 
-[^1]INSECURE ATTACHMENT
+### [^1] INSECURE ATTACHMENT
 - A child can develop insecure attachment when caregivers are generally unavailable or they are rejecting him/her. In this way the infant develops internal representations of low self-worth. 
 - Insecure attachment is not a psychopathology but it is a risk factor for it.
 - Possible consequences of insecure attachment are: 
@@ -151,12 +151,12 @@ In a seminar organized by Udayan Care[^1] on Mental Health Standards in institut
 - Disorganised attachment is significant in traumatized children because it takes place when the child does not receive enough emotional support, directions and structure by his/her caregivers or when the environment surrounding the child is particularly stressful.
 - Continuous changes in the caregiver’s emotional functioning and in mother-child interactions can lead to disorganized attachment
 - ### Outcomes of disorganized attachment
-		- Problems with affect regulation and dissociation
-		- Lack of impulse control and attention problems
-		- Controlling stance used with peers and caregiver relationships
-		- Cognitive impairments
-		- High risk for psychopathology
-		- Cycles get repeated when they grow up and have kids of their own.
+- Problems with affect regulation and dissociation
+	- Lack of impulse control and attention problems
+	- Controlling stance used with peers and caregiver relationships
+	- Cognitive impairments
+	- High risk for psychopathology
+	- Cycles get repeated when they grow up and have kids of their own.
     
 ### MANIFESTATION OF ATTACHMENT STRUGGLES
 - In a qualitative interview study of children in a home in Delhi[^7], children reported that they refrained from interacting with any outsider because they didn’t know what to say and hesitated to put forth their opinions. Attachment disorders were also reported among participants.
@@ -365,3 +365,4 @@ Footnotes:
 [^10]: [Psychosocial distress and coping mechanism of Orphan Children in Institutional Care in Delhi](Volume%202/Current%20Reality/India%20CCIs/Psychosocial%20distress%20and%20coping%20mechanism%20of%20Orphan%20Children%20in%20Institutional%20Care%20in%20Delhi.md)
 [^11]: [Miracle Foundation_Trauma-Informed-Care](Volume%201/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/Miracle%20Foundation/Miracle%20Foundation_Trauma-Informed-Care.md)
 [^12]: [Mental Health at CCIs during Covid-19_Prerana Guide](Volume%201/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/Prerana/Mental%20Health%20at%20CCIs%20during%20Covid-19_Prerana%20Guide.md)
+[^13]: 
