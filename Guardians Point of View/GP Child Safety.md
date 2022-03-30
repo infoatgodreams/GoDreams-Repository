@@ -24,6 +24,7 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 > - Children know emergency contact numbers and emergency procedures
 > - Children are aware of their rights and trained on critical issues such as sexual identity, gender issues, self regulation etc.
 > - Children are aware of avenues to participate in decision making that affects them
+> - Private spaces available for children along with storage for personal property 
 
 
 > [!info]- Participatory Structures and Policies
@@ -40,4 +41,18 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 >  - CCTV cameras and other safety infrastructure in place
 >  - Access to strangers monitored by primary authorities
 >  - Background checks conducted on staff and other stakeholders interacting with children
->  - Visitors and other 
+
+> [!info]- Training and sensitization
+>   - Visitors and other strangers go through a sensitization program before interaction with children
+>   - CCI Staff trained rigorously in safety practices and protocols
+>   - Associated stakeholders such as school teachers, parents etc also undergo sensitization training
+
+
+> [!info]- Safe Environment
+> - Separate areas for guests, private spaces for children
+> - Restorative circles facilitated on regular basis
+> - Conflict resolution systems in place for child-child, child-staff or other conflict
+> - Buddy systems during transition periods
+> - 
+>
+> 
