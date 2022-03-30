@@ -18,6 +18,10 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 
 # Key Levers at CCIs
 
+
+Since this domain is a horizontal as well as a vertical, key levers will often intersect with eachother and with other domains. Keeping this in mind, the **emphasis of this domain will be to sustain abd build**
+
+
 > [!info]- Children's Awareness & Rights
 > - Children are able to identify cases of abuse and are aware of how to communicate it 
 > - Children are aware of safe practices at school, in public spaces and online and have experience practicing them
@@ -26,15 +30,15 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 > - Children are aware of avenues to participate in decision making that affects them
 > - Private spaces available for children along with storage for personal property 
 
-
-> [!info]- Participatory Structures and Policies
+> [!info]- Participatory Structures, policies and alliances
 > - Children's committees are set up and consistently participate in decision making on children's affairs
 > - Strong relationships must be  built with stakeholders in contact with children and part of the safety process (cwc, social workers, police, school staff, cci staff, parents , lawyers etc)
-> - Anonymous feedback structures must be rigorously implemented
-> -
+> - Anonymous feedback structures must be rigorously implemented, including redressal committees, anonymous feedback boxes etc. 
+> - Peer-peer alliance built among children
+> 
 > 
 
-> [!info]- Monitoring, audits, documentation & assessment
+> [!info]- Audits, documentation & assessment
 >  - Pre-admission experiences and safety violation documented and access given to essential stakeholders
 >  - External safety audit conducted at a fixed frequency
 >  - Privacy of documentation held center
@@ -43,18 +47,41 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 >  - Background checks conducted on staff and other stakeholders interacting with children
 >  - Clear response guidelines for incidents
 >  - Clear systems in place and publically known for reporting abuse/safety violations such as anonymmized complaint boxes, redressal committees children's committees etc. 
+>  - Documentation compliant with rules and regulations
 
 > [!info]- Training and sensitization of stakeholders
 >   - Visitors and other strangers go through a sensitization program before interaction with children
 >   - CCI Staff trained rigorously in safety practices and protocols, gender sensitiziation, behavior management etc. 
 >   - Associated stakeholders such as school teachers, parents etc also undergo sensitization training
+>   - Clear code of conduct created, made accessible and communicated to all stakeholders interacting with children
 
-
-> [!info]- Facilitating a Safe Environment
+> [!info]- Facilitation of a Safe Environment
 > - Separate areas for guests, private spaces for children
 > - Restorative circles facilitated on regular basis
 > - Conflict resolution systems in place for child-child, child-staff or other conflict
 > - Buddy systems during transition periods
-> - 
->
+> - One point of contact or mentor for reporting, conflict resolution, complaints etc. 
+
+
+For these levers to work, the **primary challenges and potential opportunities are :** 
+
+> [!bug]- Traditional mindsets towards child safety
+> - Mindsets regarding corporal punishment, reporting of abuse, fear of retribution preventing reporting etc. are inherently incentivized in the system and hard to break.
+>  
+> - Non transparent attitudes  towards external audits will prevent quick upgrades of safety practices
 > 
+> - Traditional approach towards gender identities, inclusion, children with disabilities, children with learning lags at school etc can often be detrimental to creating a safe environment. 
+
+# References
+
+## Literature Review
+
+
+
+
+
+
+
+
+
+
