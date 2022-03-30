@@ -46,7 +46,7 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 
 > [!info]- Training and sensitization of stakeholders
 >   - Visitors and other strangers go through a sensitization program before interaction with children
->   - CCI Staff trained rigorously in safety practices and protocols
+>   - CCI Staff trained rigorously in safety practices and protocols, gender sensitiziation, behavior management etc. 
 >   - Associated stakeholders such as school teachers, parents etc also undergo sensitization training
 
 
