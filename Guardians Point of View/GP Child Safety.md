@@ -15,6 +15,8 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
  - Children participate in the decision making at CCIs 
  - Children have reducing or no clinical indicators of physical abuse, sexual abuse or emotional abuse
  - Children articulate a feeling of safety, their voice being heard, having 1 or more people they can talk to,  and have minimal behavioral issues. 
+ - Caregivers confident in handling and responding to cases of abuse and child safety violations
+ - Caregivers able to care for children without resorting to corporal punishment towards behavior management. 
 
 # Key Levers at CCIs
 
