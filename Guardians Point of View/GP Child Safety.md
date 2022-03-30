@@ -6,4 +6,10 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 
 ## Target Outcomes 
 
- - Children are able to articulate a feeling of safety in the CCI environment, and are confident to seek support, justice and 
+ - Young adults are self confident, know what to do in situations that put themselves or others around them in danger, aware of forms of abuse and protections available to them and able to voice out concerns and seek resolution from competent forums. 
+
+# Indicative Outputs
+
+ - Children are not afraid to voice out concerns and highlight red flags if any, as well as work with CCI management to solve them. 
+ - Children participate in the decision making at CCIs and have minimal behvaioral issues
+ - 
