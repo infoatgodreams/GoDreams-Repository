@@ -1,3 +1,6 @@
+.trash/
+.DS_Store
+.obsidian
 .obsidian\**
 .obsidian/workspace
 conflict-files-obsidian-git.md
