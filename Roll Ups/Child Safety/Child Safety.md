@@ -390,7 +390,7 @@ Some of them are listed as follows:
 - Acknowledge that the child is [^8]being courageous in sharing a difficult experience or information
 - Validate that their decision to trust and share with you was a good, safe and responsible one.
 - Ensure that consistent messages are given to the child. Hence, it is important for caregivers to regularly communicate with each other.
-    
+
 ## RESPONDING TO A CHILD PERPETRATOR
 [^8]
 - Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
@@ -405,7 +405,7 @@ Some of them are listed as follows:
 - Refrain from labeling children negatively (for eg: manda, aalsi, moti, sukdi, bewakoof). All labels related to looks, intellect and behavior should be avoided.
 - If you see a child lying, you can talk about the situation and address the lying instead of labeling the child as “liar” r “chor/stealer”
 - In severe cases of physical or sexual abuse the PO could also conduct group sessions with the perpetrators on relevant themes.
-    
+
 ## ROLE OF POLICE IN RESPONDING TO CHILD ABUSE
 
 - DD entry made and read to the informant
@@ -415,7 +415,7 @@ Some of them are listed as follows:
 - Victim cannot be called to the police station. Should be recorded at any other place or residence, preferably by women officers
 - IO must submit report to the cwc and special court within 24 hours for all POCSO cases
 - Only SI or above can handle POCSO cases
-    
+  
 
 ### INFORMATION THAT THE CHILD NEEDS ACCESS TO
 - Private and public emergency centres
@@ -428,7 +428,7 @@ Some of them are listed as follows:
 - Bail, release, detention status
 - Verdict after trial
 - Sentence imposed
-    
+
 
 ## CONCERNED PENALTIES:
 - For non registration of CCIs- up to 1 year imprisonment or minimum 1 lakh fine or both
@@ -444,7 +444,7 @@ Some of them are listed as follows:
 - Do not release the names of children or any identifying information to the media without prior clearance or clear consent from the guardian and the child
 - General images where the child is not identifiable does not require parental/guardian permission
 - If it's shot from an educational/co-curricular perspective, prior permission is not needed, as long as the video is instructional or for an extracurricular activity.
-    
+
 ## POST CRISIS REFLECTION
 Important questions to ask:
 - Overall, did the emergency plan work?
@@ -455,7 +455,8 @@ Important questions to ask:
 - What specific problems arose? Were they resolved and if yes, how?
 - Was comms ongoing until the situation was resolved?
 
-# MEASUREMENT TOOLS  [Assessment Tools](Roll%20Ups/Assessment%20Tools.md)
+# MEASUREMENT TOOLS 
+[Assessment Tools](Roll%20Ups/Assessment%20Tools.md)
 - Socio-Demographic Performa was constructed for the study consisting of 2 major sections. First, was the personal history regarding a child’s age, gender, **socio-economic status (SES),** and school history. [[Kuppuswamy scale]] was used for SES assessment (Tabassum and Rao, 2017).
 	- The second section on **family history** included information on the age, education, and income of parents or head of the family, family history of psychiatric or physical illness, type of family, number of family members, living space, history of substance use, history of other forms of abuse, history of exposure to parental violence or any other significant life events.
 		- [[Child PTSD Symptom Scale (CPSS)]] (Foa et al., 2001): CPSS assesses on a 4-point likert scale, the frequency of PTSD symptoms within the past month for a child who has experienced a traumatic event. The scale had satisfactory internal and test-retest reliability along with adequate convergent validity with other PTSD measures. WHO guideline for scale translation was followed to translate the scale into the Hindi language.
@@ -533,7 +534,7 @@ Important questions to ask:
 			- Trouble Concentrating
 
 # POCSO:
-
+- Pocso references to be added
 
 # Footnotes:
 [^1]: [Aangan - Changing Spaces](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Aangan/Aangan%20-%20Changing%20Spaces.md)
