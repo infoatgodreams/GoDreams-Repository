@@ -12,9 +12,9 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 # Indicative Outputs
 
  - Children are not afraid to voice out concerns and highlight red flags if any, as well as work with CCI management to solve them. 
- - Children participate in the decision making at CCIs and have minimal behavioral issues
- - Children have reducing or no clinical indicators of Physical abuse, sexual abuse or emotional abuse. 
- - Children articulate a feeling of safety, their voice being heard, having 1 or more people they can talk to,  
+ - Children participate in the decision making at CCIs 
+ - Children have reducing or no clinical indicators of physical abuse, sexual abuse or emotional abuse
+ - Children articulate a feeling of safety, their voice being heard, having 1 or more people they can talk to,  and have minimal behavioral issues. 
 
 # Key Levers at CCIs
 
