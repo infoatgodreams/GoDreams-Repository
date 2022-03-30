@@ -5,6 +5,115 @@ tags:
 - Rollups
 ---
 
+# INTRODUCTION
+
+[^6] The child safety principles in a childcare institution are based on the following principles
+- recognition of best interests of the child
+- respect for dignity, liberty and freedom
+- respect for agency and active participation of the child
+- respect for privacy and confidentiality
+- zero tolerance of any form of abuse
+- child protection is a responsibility for anyone who is directly or indirectly associated with the children
+ 
+ # TYPES OF VULNERABILITIES IN CHILDREN
+
+## PHYSICAL ABUSE
+Definition:- [^6]any action that causes pain, injury, hurt or discomfort is considered to be childhood abuse
+- According to the Childhood Enders index, extreme violence is a common childhood ender. [^4]
+- Typical violent actions like Hitting, slapping, pinching, pushing them down, pulling hair, pulling ears, throwing things at them, shaking, flinging them down, hitting head against the wall
+- Also includes making them carry heavy weights beyond capacity.
+- Forcing children to be in uncomfortable positions like: Standing on a bench with hands raised, kneeling, holding ears through the legs, weight on their heads.
+- Forced ingestion of inedible things, burning, poisoning, smothering, hurting genitals, giving electric shocks.
+
+## EMOTIONAL ABUSE
+Definition: According to the Child Welfare Department in the US, Emotional or psychological child abuse is a pattern of behavior that impairs a child's emotional development or sense of self-worth. This is commonly seen as
+- Repeatedly rejecting the child
+- Using derogatory terms to insult the child
+- Ridiculing, pressurizing the child
+- Unnecessary reference to the child’s past and health status of the child’s parents
+- Intimidating the child
+- Imposing developmentally inappropriate expectations
+- Belittling the child about not meeting teacher’s expectations
+- Using abusive language
+- Shaming the child about a disability
+- Caste, religion, race based discrimination
+- Showing favouritism
+- Threatening to kick a child out of the home
+- NEGLECT: Persistent lack of care: can include failure to meet physical, safety, health and emotional needs
+
+## SEXUAL ABUSE
+Definition: The World Health Organization (WHO) defines Child Sexual Abuse (CSA) as the involvement of a child in sexual activity that he or she does not fully comprehend, is unable to give informed consent to, or for which the child is not developmentally prepared and cannot give consent, or that violates the laws or social taboos of society
+
+### Contact abuse:
+-   Touching the kids in any way that makes them uncomfortable
+- Touching private parts
+- Oral sex
+- Vaginal and anal penetration with finger, penis or any object
+- Asking child to touch inappropriate places
+- Tickling and accidentally touching the private parts of the child
+- Wrestling or playing games that involve contact
+- Massaging the child or asking for a massage
+
+## Non contact:
+- Deliberately walking in when the child is in the bathroom/changing clothes
+- Jokes with sexual overtones
+- Teasing the child about their body development
+- Showing sexually explicit images or porn
+- Taking pictures of child changing, bathing
+- Asking or making the child watch when changing clothes or using the bathroom
+- Involving child in watching or making porn
+- Encouraging child to masturbate
+- Masturbate in the presence of a child
+- Exposing genitals to the child
+- Sharing intimate personal details with the child
+- talking/discussing erotic scenes from a movie
+ 
+## EMERGENCIES & NATURAL DISASTERS
+According to Rainbow Homes, CCIs need to be prepared for the following emergency situations
+- Child missing
+- Death of a child or caregiver
+- Report of a weapon in the home
+- Fire
+- Natural Disasters
+- Bomb Threats
+- Civil Disturbance
+- Medical Emergencies
+- Sexual Abuse
+    
+
+# SIGNS OF ABUSE IN CHILDREN
+
+## PHYSICAL SIGNS OF ABUSE
+- According to Ethiopian guidelines [^5], the applicant's physical status needs to be evaluated, along with any disability during the screening process.
+- From a paper on institutional childcare [^3], Romanian children they assessed had physical scarring that appeared to have resulted from lacerations, burns or broken bones
+- According to Rainbow Homes [^6] , these are the following signs of physical abuse commonly found
+	- Unexplained bruises and cuts
+	- Describes adults as evil
+	- Bite marks or welts in the shape of objects
+	- Fractures
+	- Excessive crying
+	- Excessive fear of adults
+
+ ## EMOTIONAL SIGNS OF ABUSE
+-   According to Rainbow Homes [^6] , these are the following signs of emotional abuse.
+	- Lack of concentration
+	- Apathy and hopelessness
+	- Threatening to leave the home
+- Fisher et al. (1997) have pointed out that most of the characteristic early problems of children adopted from orphanages might indicate brain damage or emotionally produced pathology if they were found in children reared in families.[^3]
+- In the U.K. sample children’s scores on disinhibited attachment disturbance were positively correlated with their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years.[^3]
+
+## SEXUAL SIGNS OF ABUSE
+According to Rainbow Homes [^6], these are the signs of Sexual Abuse
+- Difficulty walking/sitting- unexplained rashes or pain
+- Refuses to change in front of other children
+- Demonstrates excessive, exaggerated sexual curiosity
+- Avoids conversations related to sexuality
+- Pays either excessive or no attention to their bod
+- Reduced self care and grooming
+- Becomes pregnant or gets an ST
+- Medical complaints such as UTI
+    
+    
 # CURRENT REALITIES OF CHILD SAFETY
 - Fisher et al. (1997) have pointed  out that most of the characteristic early problems of children adopted from orphanages  might indicate brain damage or emotionally produced pathology if they were found in children reared in families.[^3]
 - In the U.K. sample  children’s scores on disinhibited attachment disturbance were positively correlated with  their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years.[^3]
