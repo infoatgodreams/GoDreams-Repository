@@ -350,9 +350,8 @@ A document outlined by Prerana[^12] explains how COVID has worsened the mental h
 - Relapse to pre-existing mental illness
 - Insensitivity of Caregivers: The lack of sensitive communication with the children may lead to additional feelings of distress among them.
 - Fear of stigma or discrimination: Children may have a fear of stigma or discrimination if they have flu-like symptoms.
-    
 
-
+Footnotes:
 
 [^1]: [UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care](Volume%202/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/UdayanCare_Institutionalised%20Children,%20Seminar%20on%20Standards%20of%20Mental%20Health%20and%20Care.md)
 [^2]: [Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries](Volume%202/Current%20Reality/India%20CCIs/Factors%20affecting%20the%20psychosocial%20wellbeing%20of%20orphan%20and%20separated%20children%20in%20five%20low-%20and%20middle-income%20countries.md)
