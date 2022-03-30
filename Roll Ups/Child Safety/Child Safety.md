@@ -166,128 +166,81 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 - The provision for security to guard the place, should be as per the ICPS standards
 
 ### Code of Conduct
-
-DOs • Be visible and not in a secluded place while in contact with children at the work place • Protect the child by not disclosing the identity of the child outside the team • Uphold the privacy of the child by not disclosing the identity of the child to the media • Ensure that there are staff members of the same gender when escorting the child between locations and also when taking care of the child/children at any location
-
--   All relatives/guardians need to sign a register before taking the child out
-    
--   A female caregiver always accompanies the children on the bus
-    
--   All visitors must be accompanied by staff, security guard mandatory, visitors given passes
-    
--   One manager in the home at all times, day and night
-    
-
-DONTs • Do not sleep alone with any child • Do not stay back at the child care institution/orphanage or interact with children after dark/ 19:00 hours • Do not do things for children of a personal nature that they can do themselves, such as use the toilet, bathe or change clothes (unless the child is severely ill or injured - in such case, another staff / caretaker should also be present) • Do not give gifts directly to children • Do not share any sensitive and confidential personal & family information shared by the child with CCI staff & management without taking the child’s permission
-
--   Do not send child home if there’s a history of abuse or if the child is scared
-    
--   Do not allow Male visitors after 7 pm
-    
+**DOs** 
+- Be visible and not in a secluded place while in contact with children at the work place
+- Protect the child by not disclosing the identity of the child outside the team
+- Uphold the privacy of the child by not disclosing the identity of the child to the media
+- Ensure that there are staff members of the same gender when escorting the child between locations and also when taking care of the child/children at any location
+- All relatives/guardians need to sign a register before taking the child out
+- A female caregiver always accompanies the children on the bus
+- All visitors must be accompanied by staff, security guard mandatory, visitors given passes
+- One manager in the home at all times, day and night
+ 
+ **DONTs **
+- Do not sleep alone with any child
+- Do not stay back at the child care institution/orphanage or interact with children after dark/ 19:00 hours
+- Do not do things for children of a personal nature that they can do themselves, such as use the toilet, bathe or change clothes (unless the child is severely ill or injured - in such case, another staff / caretaker should also be present)
+- Do not give gifts directly to children
+- Do not share any sensitive and confidential personal & family information shared by the child with CCI staff & management without taking the child’s permission
+- Do not send child home if there’s a history of abuse or if the child is scared
+- Do not allow Male visitors after 7 pm
 
 ### Caregiver training
-
--   For Rainbow's caregivers
+For Rainbow's caregivers
+- Full day orientation about the policy is mandatory
+- Gender and sexuality training recommended
+- All donors and visitors need to be trained and informed of comms and behaviour protocol
+- Orient and train bus drivers on child protection concepts and the severity of punishment
+- Code of conduct needs to be signed by all stakeholders within 7 days of their engagement
+- Two training sessions conducted with all staff, parents and local police
+- Half day refresher training once a year for all staff
     
 
--   Full day orientation about the policy is mandatory
-    
--   Gender and sexuality training recommended
-    
--   All donors and visitors need to be trained and informed of comms and behaviour protocol
-    
--   Orient and train bus drivers on child protection concepts and the severity of punishment
-    
--   Code of conduct needs to be signed by all stakeholders within 7 days of their engagement
-    
--   Two training sessions conducted with all staff, parents and local police
-    
--   Half day refresher training once a year for all staff
-    
+# WORKING WITH CHILDREN
+- Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
+- Children may not conform to all the rules and the staff can decide what are acceptable.
+- Extreme disciplining may lead to defiance in children.
+- Encourage children to ask questions about rules and have a discussion with them on why certain rules are important. By teaching children to be blindly compliant, we are discouraging critical thinking, which is a valuable characteristic. This not only hampers critical thinking but teaches them that adults are always right which is untrue.
+- While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
+- Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
 
-## WORKING WITH CHILDREN
-
--   Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
-    
-
--   Children may not conform to all the rules and the staff can decide what are acceptable.
-    
--   Extreme disciplining may lead to defiance in children.
-    
--   Encourage children to ask questions about rules and have a discussion with them on why certain rules are important. By teaching children to be blindly compliant, we are discouraging critical thinking, which is a valuable characteristic. This not only hampers critical thinking but teaches them that adults are always right which is untrue.
-    
--   While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
-    
--   Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
-    
-
-### DEALING WITH EMOTIONS & ATTACHMENT
-
--   The best way to work with children is to be empathetic towards them.
-    
--   Children can quickly understand who understands them and who cannot understand them. When a child has a fight and is angry with everyone, caregiver could go near and ask permission to sit nearby. The caregiver could say that “I can understand that you are angry and do you want to talk about it?”
-    
--   As an adult living with children, express your emotions on the child’s behavior. Only being patient is not the way to deal with children experiencing emotional and behavioral challenges.
-    
--   Having conversations about others feelings is required too as it helps the child build skills for empathy and considering different perspectives. Let them know that the staff is human too and not just an authoritarian figure.
-    
--   Use the language of “anger expression” (appropriate and inappropriate) instead of anger management or “controlling anger”. Do not seek tips for “controlling” child’s anger.
-    
--   Anger may have been a useful emotion for children who were abused as that emotion made them protect themselves and realize that they don’t feel safe.
-    
--   When children are distressed or aggressive, help them to calm down and then try to have a conversation.When children are triggered (having a strong emotional and physical reaction) they do not have access to the part of the brain that helps them think rationally.
-    
--   Therefore, it is important and will be more effective if caregivers help the child stabilize emotionally by using a range of tools such as grounding or relaxation exercises before disciplining, discussing behavior corrective measures. After the child has calmed down, the staff/parent should have a conversation with the child about what made him/her angry. It is not helpful if you ask children not to be angry. Anger is an emotion and an adult can teach the child to express it healthily. Address the anger and tell the child to express it in words.
-    
--   If the child does not have a dialogue about the anger, it will lead to bottling up of the anger and resentment towards the adult causing defiance to follow anything that is told to the child.
-    
--   When a staff realizes that the child is going to be aggressive and say bad things about the staff’s character, the staff can tell her/him to think about what s/he actually feels and write it down in a letter rather than trying to hurt the staff by saying nasty things. It may help to acknowledge the impact the child’s words are having in a manner that does not place the responsibility on the child, for example, “I can see that you are angry and hurting. The words that you are saying are hurting me and making me angry/frustrated as well. I don’t think we can have a helpful conversation when we are both so upset.”
-    
--   Teach the child the difference between response and reaction.
-    
--   Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
-    
--   Encourage parent(s)/guardian(s)to meet the children as much as they can. it helps the child to build trust and reduces the attachment issues they face which reflect on their behavior.
-    
--   In early childhood it also helps in the brain development of the child. Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
-    
--   It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
+## DEALING WITH EMOTIONS & ATTACHMENT
+- The best way to work with children is to be empathetic towards them.
+- Children can quickly understand who understands them and who cannot understand them. When a child has a fight and is angry with everyone, caregiver could go near and ask permission to sit nearby. The caregiver could say that “I can understand that you are angry and do you want to talk about it?”
+- As an adult living with children, express your emotions on the child’s behavior. Only being patient is not the way to deal with children experiencing emotional and behavioral challenges.
+- Having conversations about others feelings is required too as it helps the child build skills for empathy and considering different perspectives. Let them know that the staff is human too and not just an authoritarian figure.
+- Use the language of “anger expression” (appropriate and inappropriate) instead of anger management or “controlling anger”. Do not seek tips for “controlling” child’s anger.
+- Anger may have been a useful emotion for children who were abused as that emotion made them protect themselves and realize that they don’t feel safe.
+- When children are distressed or aggressive, help them to calm down and then try to have a conversation.When children are triggered (having a strong emotional and physical reaction) they do not have access to the part of the brain that helps them think rationally.
+- Therefore, it is important and will be more effective if caregivers help the child stabilize emotionally by using a range of tools such as grounding or relaxation exercises before disciplining, discussing behavior corrective measures. After the child has calmed down, the staff/parent should have a conversation with the child about what made him/her angry. It is not helpful if you ask children not to be angry. Anger is an emotion and an adult can teach the child to express it healthily. Address the anger and tell the child to express it in words.
+- If the child does not have a dialogue about the anger, it will lead to bottling up of the anger and resentment towards the adult causing defiance to follow anything that is told to the child.
+- When a staff realizes that the child is going to be aggressive and say bad things about the staff’s character, the staff can tell her/him to think about what s/he actually feels and write it down in a letter rather than trying to hurt the staff by saying nasty things. It may help to acknowledge the impact the child’s words are having in a manner that does not place the responsibility on the child, for example, “I can see that you are angry and hurting. The words that you are saying are hurting me and making me angry/frustrated as well. I don’t think we can have a helpful conversation when we are both so upset.
+- Teach the child the difference between response and reaction.
+- Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
+- Encourage parent(s)/guardian(s)to meet the children as much as they can. it helps the child to build trust and reduces the attachment issues they face which reflect on their behavior.
+- In early childhood it also helps in the brain development of the child. Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
+- It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
     
 
 ## CHILD TRAINING REQUIREMENTS FOR CHILD SAFETY
 
 ### GENERAL SAFETY AND CULTURE
-
--   Acc to a manual by Prerana [^2] Under any circumstances, no form of sexual maltreatment is ever alright. Have regular conversations with children with regard to personal safety
+- Acc to a manual by Prerana [^2] Under any circumstances, no form of sexual maltreatment is ever alright. Have regular conversations with children with regard to personal safety
+- Orientation for all kids within a week of their arrival
+- Once in 3 months refresher
+- Talk about appropriate and inappropriate touching, teach them to trust their intuition
+- Children with disabilities paid more attention to
+- Teach the children concept of private zones
+- Use anatomically appropriate terms in training
+- Establish clear safety rules in interacting with staff
+- Encourage children to exercise body autonomy, to change their own clothes and bathe independently- teach them boundaries and privacy
+- Teach them to say no and run away if they’re uncomfortable. Tell them that it is never their fault
+- Show them that they can talk to you, encourage them to report
+- Show them that mechanisms exist to take care of them and their concerns will be taken up seriously
+- Teach them that secrets are not good, no matter who asks them to keep the secrets
+- Celebrate certain child specific days to reiterate these points like child labour, international children’s day, etc
     
--   Orientation for all kids within a week of their arrival
-    
--   Once in 3 months refresher
-    
--   Talk about appropriate and inappropriate touching, teach them to trust their intuition
-    
--   Children with disabilities paid more attention to
-    
--   Teach the children concept of private zones
-    
--   Use anatomically appropriate terms in training
-    
--   Establish clear safety rules in interacting with staff
-    
--   Encourage children to exercise body autonomy, to change their own clothes and bathe independently- teach them boundaries and privacy
-    
--   Teach them to say no and run away if they’re uncomfortable. Tell them that it is never their fault
-    
--   Show them that they can talk to you, encourage them to report
-    
--   Show them that mechanisms exist to take care of them and their concerns will be taken up seriously
-    
--   Teach them that secrets are not good, no matter who asks them to keep the secrets
-    
--   Celebrate certain child specific days to reiterate these points like child labour, international children’s day, etc
-    
-
-### TRAVEL GUIDELINES FOR CHILDREN
+# TRAVEL GUIDELINES FOR CHILDREN
 
 Some of them are listed as follows:
 
