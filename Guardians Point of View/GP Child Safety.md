@@ -13,3 +13,10 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
  - Children are not afraid to voice out concerns and highlight red flags if any, as well as work with CCI management to solve them. 
  - Children participate in the decision making at CCIs and have minimal behavioral issues
  - Children have reducing or no clinical indicators of Physical abuse, sexual abuse or emotional abuse. 
+
+# Key Levers at CCIs
+
+> [!info]- Children's Awareness
+> - Children are able to identify cases of abuse and are aware of how to communicate it will be ciritcal in reducing rates of abuse at CCIs
+> - Children are aware of safe practices at school and online. 
+> - 
