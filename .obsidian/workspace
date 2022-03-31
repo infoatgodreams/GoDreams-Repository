@@ -1,70 +1,45 @@
 {
   "main": {
-    "id": "b107357176c2e9d8",
+    "id": "d1c112a4aba6d553",
     "type": "split",
     "children": [
       {
-        "id": "cd3710404d1920f0",
+        "id": "fefbc9b538108430",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
+            "file": "Roll Ups/Mental Health/Mental Health.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "fae993b44392afbc"
+        }
       },
       {
-        "id": "0ffcf433550adecf",
+        "id": "07207a25ec065146",
         "type": "leaf",
         "state": {
-          "type": "localgraph",
+          "type": "markdown",
           "state": {
-            "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
+            "file": "Roll Ups/Child Safety/Child Safety.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "fae993b44392afbc"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c65e2a251474bb47",
+    "id": "c173cb3e1af6d8f4",
     "type": "split",
     "children": [
       {
-        "id": "6bfec5a50c586349",
+        "id": "386e36db78707c18",
         "type": "tabs",
         "children": [
           {
-            "id": "8471557d1ce927ba",
+            "id": "3f8477a80b9da850",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,12 +47,12 @@
             }
           },
           {
-            "id": "a2aac9cc8c78f954",
+            "id": "7ccbc8e61f761066",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ERROR",
+                "query": "file: nutrition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,80 +60,95 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "76b340e1c03e0b8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7648962fed9993eb",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "9a6c82b356728bc7",
+    "id": "7e698accb92ee8ea",
     "type": "split",
     "children": [
       {
-        "id": "e52e8948ad67ddc1",
+        "id": "fd8d794f02cc8d21",
         "type": "tabs",
         "children": [
           {
-            "id": "1c9c1235ba6cb94b",
+            "id": "2157d14326f9bd68",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-                "collapseAll": false,
+                "file": "Roll Ups/Child Safety/Child Safety.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "de07364c32839472",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "18279d5b5dbfe7be",
+            "id": "2cb473bed554034f",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "62b7b7b857d3c05e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5292d45c09767960",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 496.0242004394531,
+    "width": 420,
     "collapsed": true
   },
-  "active": "cd3710404d1920f0",
+  "active": "07207a25ec065146",
   "lastOpenFiles": [
-    "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-    "Volume 3/Global Childhood Report 2021.md",
-    "Volume 3/Institutional Care Model Author_ Prerana Org.md",
-    "Volume 3/Mental Health at CCIs during Covid-19_Prerana Guide.md",
-    "Volume 3/Research Journal - Glo.md",
-    "Volume 3/Restoration Model by Prerana.md",
-    "Volume 3/Supporting Carers Author_ Rainbow Home.md",
-    "Volume 3/Working with Children Sensitively.md",
-    "Home.md",
-    "Volume 3/Budget for Children 2022-23 Analysis.md"
+    "Roll Ups/Child Safety/Child Safety.md",
+    "Roll Ups/Assessment Tools.md",
+    "Roll Ups/Mental Health/Mental Health.md",
+    "Volume 2/Care Standards/India - Service Providers to CCIs/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
+    "Volume 2/Care Standards/GOI & Indian Standards/Dietary Gudelines for Indians.md",
+    "Roll Ups/Caregiving/Care Practices.md",
+    "Roll Ups/Education/Education.md",
+    "Roll Ups/Education/IQ.md",
+    "Roll Ups/CCI Operations/CCI Compliance.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
