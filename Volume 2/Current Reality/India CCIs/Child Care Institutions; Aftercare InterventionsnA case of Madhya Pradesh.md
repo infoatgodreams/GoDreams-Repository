@@ -12,7 +12,7 @@ Link: https://drive.google.com/file/d/1BrO-OS4ob5h0J2gUvEhnxKl5tWbOipH7/view?usp
 
 # Brief:
 
-- Scope &amp; Description: This report focuses mainly on the functioning of the Child Care Institutions in Madhya Pradesh with a prime focus on Child in Need of Care and Protection (CNCP) under JJ Act 2015 and the Aftercare interventions. Further, the study examines the current activities of two CCIs, and one Aftercare Home (Government) in Madhya Pradesh to understand their approach and the challenges that impedes the welfare of the child. The study attempts to understand the problems faced by children who are post-18 and suggest an outline of the possible alternatives for addressing such problems.
+- Scope & Description: This report focuses mainly on the functioning of the Child Care Institutions in Madhya Pradesh with a prime focus on Child in Need of Care and Protection (CNCP) under JJ Act 2015 and the Aftercare interventions. Further, the study examines the current activities of two CCIs, and one Aftercare Home (Government) in Madhya Pradesh to understand their approach and the challenges that impedes the welfare of the child. The study attempts to understand the problems faced by children who are post-18 and suggest an outline of the possible alternatives for addressing such problems.
 - Link: [Case Study of MP](https://drive.google.com/file/d/1BrO-OS4ob5h0J2gUvEhnxKl5tWbOipH7/view?usp=sharing)
 
 • Original Link: NA

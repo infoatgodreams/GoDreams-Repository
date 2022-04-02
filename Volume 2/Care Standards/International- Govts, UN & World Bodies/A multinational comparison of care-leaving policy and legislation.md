@@ -13,7 +13,7 @@ Link: https://drive.google.com/file/d/1b3Nl-D7t3YPOUIdRhEGa1jY5maNvnrEP/view?usp
 
 # **Brief:**
 
-- Scope &amp; Description:  This paper maps multinational policy and legislation and its impact on the services to careleavers and the challenges they experience in 36 countries spread across both Americas, Europe and Asia, Africa and Australia. It provides a review of literature on multinational comparative research on care-leaving findings in relation to three foci: multinational policy and legislation, services for care-leavers and the challenges faced by them. Findings reveal that few countries have well-developed care-leaving legislation. Most countries provide little aftercare beyond the age of 18, even when legislation provides for it.
+- Scope Description:  This paper maps multinational policy and legislation and its impact on the services to careleavers and the challenges they experience in 36 countries spread across both Americas, Europe and Asia, Africa and Australia. It provides a review of literature on multinational comparative research on care-leaving findings in relation to three foci: multinational policy and legislation, services for care-leavers and the challenges faced by them. Findings reveal that few countries have well-developed care-leaving legislation. Most countries provide little aftercare beyond the age of 18, even when legislation provides for it.
 
 - Link: [A multinational comparison of care leaving policy and legislation-.pdf](https://drive.google.com/file/d/1b3Nl-D7t3YPOUIdRhEGa1jY5maNvnrEP/view?usp=sharing)
 - Original Link: NA
