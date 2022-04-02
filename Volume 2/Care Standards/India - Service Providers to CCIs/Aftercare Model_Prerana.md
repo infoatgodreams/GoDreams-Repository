@@ -127,7 +127,7 @@ Collective living is bound to cause differences of opinion and conflict among th
 - Navigating group dynamics: AHs may have authoritarian ways to resolve conflicts or handle grievances, but such authority is absent in GH - EA . In cases where the re sidents are self - reliant and driven, this process is facilitated well. 
 - However, in cases where residents are not particularly engaged in the process of leading the functioning of the GH, the process of conflict resolution might become cumbersome. When peop le of different age groups stay together, there is a risk of younger residents being dominated or bullied by the older ones. Sometimes, residents also leave the facility prematurely after joining, without ensuring a safe and secure alternative accommodatio n and/or without working on a sound future plan for themselves. This leads to excess per capita cost for the remaining residents . 
 
-###  Social vulnerabilities: 
+### Social vulnerabilities: 
 Once supervision is significantly reduced and girls get relatively greater freedom, there may be a risk of exposure to trafficking, re - trafficking, or exploitation. 
 
 Prerana Practices Prerana prepares a contact list of important local medical professionals and hospitals close to the GH - EA. 
@@ -139,40 +139,50 @@ Prerana Practices Prerana prepares a contact list of important local medical pro
 	- Need - based visits by a counselor to the GH - EA. 
 	- Need - based visits to a psychiatrist. 
 	-  Group sessions to discuss the importance of self - care and ways to practice it.  
-
-Facilitates orientation visits to the hospital: When the young care leavers move into their GH - EA, the social worker plans an orientation visit to the local hospital. In case the 34 care leavers are suffering from certain ailments which need medical intervention, the social worker orients the care leaver on how to avail OPD (Outpatient Department) services in a hospital. 
+- Facilitates orientation visits to the hospital: When the young care leavers move into their GH - EA, the social worker plans an orientation visit to the local hospital. In case the 34 care leavers are suffering from certain ailments which need medical intervention, the social worker orients the care leaver on how to avail OPD (Outpatient Department) services in a hospital. 
 - Pays for medical care, if required: Early on, when the care leavers have just moved out of their CCIs and into the GH - EA, they might not be equipped to take care of their medical expenses . In such situations, Prerana supports them financially. 
 - Creating a panel of doctors that a resident can reach out to, in case of emergency : Through local guardians, Prerana tries to create a pool of doctors that the GH - EA residents can approach in case of any medical emergencies. 
 - Encourage young women to invest in a health insurance policy : Initially, the residents might not be able to invest in an insurance policy. Sometimes, Prerana tries to arrange for health insurance for the first year through the sup port of donors. 
 - However, the residents must understand the importance of managing their health expenses and are thus encouraged to invest in a health insurance policy themselves after the first year 
 
-p. 45
+## Some Self - Care Tips
+Shared by Counselors for Residents
+- Watch an episode of your favorite TV show, then write 5 reasons why you like it.
+- Create a new, healthy, daily habit an d schedule it into your life. 
+- Reflect on previous wins and achievements.
+- Take 15 minutes to soak up the sunshine.
+- Do a household chore you’ve been putting off.
+- Watch motivating videos and speeches.
+- Speak to a loved one about their own self - care ideas or routines. 
+- Laugh! Smile at yourself in the mirror! 
+- Make your bed, change your bedsheets and have an early night. 
+- Sleep 8 hours a day whenever possible.
+- Make sure you drink at least 8 glasses of water in a day. 
+- Dance like no one is watching. 
+- Begin by taking one - hour digital detox and increase it gradually. 
+- Go to the cinema or a restaurant on your own. 
+- Do something for others. 
+-  Do something fun you used to do as a kid. 
+- Cook a meal for yourself. 
+- Write one good thing about yourself as a daily reminder on y our phone. 
+- Clean your spaces – cupboards, storage, etc. 
+-  Watch a documentary. 
+- When feeling particularly stressed, take a day off from work. 
+- Read inspiring quotes. 
 
-Some Self - Care Tips Shared by Counselors for Residents ● Watch an episode of your favorite TV show, then write 5 reasons why you like it. ● Create a new, healthy, daily habit an d schedule it into your life. ● Reflect on previous wins and achievements. ● Take 15 minutes to soak up the sunshine. ● Do a household chore you’ve been putting off. ● Watch motivating videos and speeches. ● Speak to a loved one about their own self - care ideas or routines. ● Laugh! Smile at yourself in the mirror! ● Make your bed, change your bedsheets and have an early night. ● Sleep 8 hours a day whenever possible. ● Make sure you drink at least 8 glasses of water in a day. ● Dance like no one is watching. ● Begin by taking one - hour digital detox and increase it gradually. ● Go to the cinema or a restaurant on your own. ● Do something for others. ● Do something fun you used to do as a kid. ● Cook a meal for yourself. ● Write one good thing about yourself as a daily reminder on y our phone. ● Clean your spaces – cupboards, storage, etc. ● Watch a documentary. ● When feeling particularly stressed, take a day off from work. ● Read inspiring quotes. 
+### Challenges Faced While Addressing the Need 
+Some challenges that Prerana has experienced while enabling access to health needs include: 
+- Timely access to civic amenities: There may be a mismatch between the schedules of the residents and the availability of civic amenities. 
+- Difficulty in providing special diets: In a GH - EA, creating and providing special diets is often expensive and time - consuming. While residents can gradually learn to prepare their own food, it may be difficult to meet special dietary requirements all the time. 
+- Access to health insurance: Health insurance is not accessible to most residents. Even if a resident has health insurance, it mostly covers hospitalization and not the OPD treatment. Hence, the residents end up incurring significant expenses. Most insurance packages also do not cover pre - existing condit ions or charge heavy premiums when they do 
+- Spread of infections : Control ling the spread of communicable diseases, if all residents do not agree to have a collective approach to the treatments, could become a problem. Sometimes, stray animals (dogs, cats, cattle, monkeys) in the vicinity can also spread diseases . 
+- While Aftercare Homes do have provisions like refrigeration to store leftover/surplus food, GH - EA often does not have these facilities thereby causing wastage of excess and perishable food and sometimes leading to infection if such items are consumed by the residents. 
+- Supervision of individual health issues: Issues such as substance dependence, especially alcoholism, can be a challenge for the resident as well as the others that live with them 
+- Mental health: Certain mental health concerns can cause serious adjustment issues in group living, challenging the very viability of group - living. Moreover, mental health services are costly and hence, often inaccessible for a resident in a GH - EA as they are living on their own. 
+- Residents with a disability are often made to feel unaccepted or left out in a GH. Bullying and body shaming are issues that need to be addressed effectively. 
 
-p. 46
 
-Challenges Faced While Addressing the Need Some challenges that Prerana has experienced while enabling access to health needs include: ● Timely access to civic amenities: There may be a mismatch between the schedules of the residents and the availability of civic amenities. 
-
-Difficulty in providing special diets: In a GH - EA, creating and providing special diets is often expensive and time - consuming. While residents can gradually learn to prepare their own food, it may be difficult to meet special dietary requirements all the time. 
-
-p. 47
-
-Access to health insurance: Health insurance is not accessible to most residents. Even if a resident has health insurance, it mostly covers hospitalization and not the OPD treatment. Hence, the residents end up incurring significant expenses. Most insurance packages also do not cover pre - existing condit ions or charge heavy premiums when they do 
-
-Spread of infections : Control ling the spread of communicable diseases, if all residents do not agree to have a collective approach to the treatments, could become a problem. Sometimes, stray animals (dogs, cats, cattle, monkeys) in the vicinity can also spread diseases . While Aftercar e Homes do have provisions like refrigeration to store leftover/surplus food, GH - EA often does not have these facilities thereby causing wastage of excess and perishable food and sometimes leading to infection if such items are consumed by the residents. 
-
-Supervision of individual health issues: Issues such as substance dependence, especially alcoholism, can be a challenge for the resident as well as the others that live with them 
-
-p. 48
-
-Mental health: Certain mental health concerns can cause serious adjustment issues in group living, challenging the very viability of group - living. Moreover, mental health services are costly and hence, often inaccessible for a resident in a GH - EA as they are living on t heir own. 
-
- Residents with a disability are often made to feel unaccepted or left out in a GH. Bullying and body shaming are issues that need to be addressed effectively. 
-
-p. 49
-
-SOCIAL PROTECTION AND WELFARE 
+# SOCIAL PROTECTION AND WELFARE 
 
 4.1. Documentation Procurement and verification of documents are essential to establish eligibility for a variety of welfare and development services in both the AH and GH. The documents needed to establish identity and eligibility of social protection/welfare schemes include 12 : birth certificate, caste/community certificate, domicile certificate, school - leaving certificate, Aadhar Card, Voter ID Card, Ration Card, PAN Card, PwD Certificate (Person with Disability) and BPL/EWS Certificate (Below Poverty Line/Economically Weaker Sections) 
 
