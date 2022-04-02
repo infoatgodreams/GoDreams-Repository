@@ -104,21 +104,15 @@ A person above the age of 18 years is legally an adult and should not be constra
 
 Residents Develop a System to Resolve Conflicts Internally 
 
-p. 31
-
 Collective living is bound to cause differences of opinion and conflict among the residents. These conflicts are to be dealt with constructively and fairly. However, it may not be possible for an organization to always mediate between the residents, making it necessary for them to be equipped with basic conflict - resolution skills, especially at a GH - EA. In the case of an AH, if a resident has concerns that require to be addressed by the organization, there are mechanisms already put in place. 
 
-p. 32
-
-Prerana Prac tices In the GH - EA by Prerana, the residents work together to create certain rules. The organization facilitates sessions on conflict resolution, financial management and safety for the residents. If the conflict or concerns are external, the organization acts as a mediator. 
-
-Prerana also organizes alumni meetings where the alumni share their learnings of overcoming the challenges of living together. In Prerana’s experience, the informal network of care leavers acts as great support for the care leavers. Pre rana undertakes the following activities to facilitate conflict resolution amongst residents: ● Sets up internal systems of conflict resolution: Prerana sets up systems for residents to meet regularly to discuss all kinds of concerns in group living. The residents can also report to the social worker in case of more serious grievances.  ● Sets up externally assisted systems of conflict resolution : Prerana brings in peers to help conflict resolution. This is done only after the residents agree and want an external set - up. The external peers are also decided and finalized after consultation with the residents. ● Organizes group and individual counseling sessions: This helps the residents navigate difficult situations at the individual and the group lev 
-
-l. 
-
-navigate difficult situations at the individual and the group level. 
-
-p. 33
+## Prerana Practices In the GH - EA by Prerana, 
+- the residents work together to create certain rules. The organization facilitates sessions on conflict resolution, financial management and safety for the residents. If the conflict or concerns are external, the organization acts as a mediator. 
+- Prerana also organizes alumni meetings where the alumni share their learnings of overcoming the challenges of living together. In Prerana’s experience, the informal network of care leavers acts as great support for the care leavers. 
+- Prerana undertakes the following activities to facilitate conflict resolution amongst residents:
+	- Sets up internal systems of conflict resolution: Prerana sets up systems for residents to meet regularly to discuss all kinds of concerns in group living. The residents can also report to the social worker in case of more serious grievances.
+	- Sets up externally assisted systems of conflict resolution : Prerana brings in peers to help conflict resolution. This is done only after the residents agree and want an external set - up. The external peers are also decided and finalized after consultation with the residents.
+	- Organizes group and individual counseling sessions: This helps the residents navigate difficult situations at the individual and the group level
 
 2.2.5. Physical Access To learn how to live independently, residents must be able to access public transit systems from the place of residence to access basic civic amenities, educational and vocational opportunities. Prerana Practices Prerana facilitated an ‘access audit’. It can be a deciding factor in selecting a location for a GH - EA. In certain cases, Prerana provides a predetermined travel allowance or reimbursement . The organization also carries out a hands - on orientation on accessing the public transport systems. 
 
