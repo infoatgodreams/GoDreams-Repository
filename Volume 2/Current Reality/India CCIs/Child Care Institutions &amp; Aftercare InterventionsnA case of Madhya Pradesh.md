@@ -37,26 +37,12 @@ Link: https://drive.google.com/file/d/1BrO-OS4ob5h0J2gUvEhnxKl5tWbOipH7/view?usp
   - 9% by Govt
 - Three models of accommodation provided to the Care Leavers (CLs) in MP
   - Government Aftercare Homes - shelters the young adults who leave CCIs
-    - An accommodation with kitchen, recreational hall etc. for young
-
-adults who left the CCIs.
-
-    - Run under the supervision of a DCPO as head of the home and
-
-Government 6 other staff members.
-
-    - Provide various vocational and skill traning courses along with
-
-the emotional support through counselling.
-
-    - Groups of 4 to 8 children live on their own by taking a
-
-common rental accommodation.
-
+    - An accommodation with kitchen, recreational hall etc. for young adults who left the CCIs.
+    - Run under the supervision of a DCPO as head of the home and Government 6 other staff members.
+    - Provide various vocational and skill traning courses along with the emotional support through counselling.
+    - Groups of 4 to 8 children live on their own by taking a common rental accommodation.
   - Rental Accommodation - a group 4-8 children are provided with a common rental accommodation
-
 - A supervisor from the Government is appointed to conduct regular visits to the rental accommodation to understand the problems faced by children.
-
   - Hostels- Where Careleavers who are interested in continuing their higher education are accommodated in hostels provided by the colleges/universities or private hostels, where fees and other expenditure of every child is borne majorly by the CCIs.
 
 ### Causes of abandonment
@@ -132,7 +118,7 @@ Ministry of Women and Child Development, there are more than 9,500 institutions 
 
 - JJ Act, 2015 explicitly defines the aftercare and stated in Section 46
 
-&quot;any child leaving a child care institution on completion of eighteen years of age may be provided with financial support in order to facilitate child&#39;s re-integration into the mainstream of the society in the manner as may be prescribed&quot;
+any child leaving a child care institution on completion of eighteen years of age may be provided with financial support in order to facilitate child re-integration into the mainstream of the society in the manner as may be prescribed&quot;
 
 - JJ Act Module 2016 states that the State Government shall prepare a programme for children who have to leave Child Care Institutions on attaining eighteen years of age by providing for their
 
@@ -180,7 +166,7 @@ free environment with holistic care and protection to those children who are in 
 
 - Launch Pad Scheme: Key Features.
 
-- Under the Launch Pad Scheme, Madhya Pradesh&#39;s 52 districts have been divided into 5 clusters and five divisional headquarters are being set up in Bhopal, Indore, Gwalior, Jabalpur and Sagar.
+- Under the Launch Pad Scheme, Madhya Pradesh 52 districts have been divided into 5 clusters and five divisional headquarters are being set up in Bhopal, Indore, Gwalior, Jabalpur and Sagar.
 - New opportunities for employment will be provided for the boys and girls who complete 18 years and come out of institutional supervision of the care institutions in the state.
 - Under the scheme, the District Administration will provide space to work to these youth such space for installing coffee shops, photocopying, stationery or computer typing and DTP work.
 

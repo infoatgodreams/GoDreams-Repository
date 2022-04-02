@@ -52,7 +52,7 @@ disabilities, sexual orientation, academic abilities, educational and vocational
 
 ## Definitions
 
-- &#39;Aftercare&#39; - provisions for support to young person&#39;s as a range and continuum of care
+- Aftercare: provisions for support to young person as a range and continuum of care
 
 services to enable them to
 
@@ -68,17 +68,15 @@ services to enable them to
   - pportunities for traineeship with provisions for stipend;job readiness and placement for employment
   - support for loans and subsidies,referrals, and networks with various appropriate services
   - support to reintegrate with family and access to grievance redressal.
-
-- ACO&#39; - an aftercare organization, is a government run or voluntary organization dedicated to providing programmes and services to youth
+-  an aftercare organization, is a government run or voluntary organization dedicated to providing programmes and services to youth
 - Alternative Care-formal or informal care provided to children who do not have parents or biological families to care for them and hence who have availed institutional or non-institutional care and protection from State
   - Informal Care -any private arrangement in a in a family environment whereby the child is looked after on an ongoing or indefinite basis by relatives or friends (informal kinship care without being ordered by the state
   - Formal care-ordered by a competent administrative body or judicial authority, and all care provided in a residential environment and group housing system, including private facilities
-
-- Best Interest of youth&#39;- basis for any decision taken regarding the youth, to ensure fulfillment of his basic rights and needs, identity, social well-being and physical, emotional and intellectual development
-- Care Leavers&#39; Association Network of Associations is a forum of young persons&#39; formed with the aim of spreading awareness about their rights and needs, gather support for each other,and advocates for concerns relating to all young persons
-- &#39;Grievance Redressal Forum&#39;- NCPCR and SCPCRs, who may take due cognizance of issues related to Aftercare and address them accordingly
-- &#39;Individual Aftercare Plan- comprehensive plan for the development of young person considering their age, gender, difficult circumstances, specific needs,and childhood case history including traumatic experiences,
-- &#39;Peer mentor&#39; means- person who himself/herself has been in care and who may or may not have received Aftercare programme and has achieved self-sufficiency and independence, and is willing to act voluntarily as a role model, to support, guide and counsel and facilitate a young person to lead an independent living.
+- Best Interest of youth- basis for any decision taken regarding the youth, to ensure fulfillment of his basic rights and needs, identity, social well-being and physical, emotional and intellectual development
+- Care Leavers Association Network of Associations is a forum of young persons formed with the aim of spreading awareness about their rights and needs, gather support for each other,and advocates for concerns relating to all young persons
+- Grievance Redressal Forum- NCPCR and SCPCRs, who may take due cognizance of issues related to Aftercare and address them accordingly
+- Individual Aftercare Plan- comprehensive plan for the development of young person considering their age, gender, difficult circumstances, specific needs,and childhood case history including traumatic experiences,
+- Peer mentor means- person who himself/herself has been in care and who may or may not have received Aftercare programme and has achieved self-sufficiency and independence, and is willing to act voluntarily as a role model, to support, guide and counsel and facilitate a young person to lead an independent living.
 
 ## Criteria for selection of organizations providing aftercare support
 
