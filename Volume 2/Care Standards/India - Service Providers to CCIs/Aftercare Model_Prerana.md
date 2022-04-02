@@ -1,6 +1,9 @@
 ## INTRODUCTION
 
-Once a child completes 18 years of age, they cease to be a minor and become an adult — whether living with their family or in the protective custody of the State. This age is significant for two reasons. One, it marks the end of the State’s responsibility, authority, and rights to care for the child, as per the principle of parens patriae . Two, the adult, now, possesses a different set of rights and is expected to assume more responsibility and learn to make their decisions more independently. 
+- Once a child completes 18 years of age, they cease to be a minor and become an adult — whether living with their family or in the protective custody of the State. 
+- This age is significant for two reasons. 
+	- One, it marks the end of the State’s responsibility, authority, and rights to care for the child, as per the principle of parens patriae
+	- Two, the adult, now, possesses a different set of rights and is expected to assume more responsibility and learn to make their decisions more independently. 
 
 However, for those who have been in a Child Care Institution (CCI), or an authoritative and non - participatory set - up, this transition may not always be easy. For instance, young girls who have been victims of trafficking may grow up with a sense of a lack of agency because their life decisions are usually controlled by other adults, often contradicting their own needs. Moreover, even after completing 18 years of age, many are in the phase of completing formal education or vocational training and may need upskilling to become financiall y self - reliant. Finally, older children, who are rescued from commercial sexual exploitation (CSE) around the ages of 16 and 17 years only benefit from institutionalized care and protection for a while. There is also very little time to adequately assess t heir needs and evolve an appropriate rehabilitation and social reintegration plan for them. In some cases, children experience chronic trauma and require therapy, which can take anywhere between 6 months to a year. Thus, even after completing 18 years of a ge and leaving a CCI, these care leavers may still need care, protection, and handholding.  
 
@@ -16,11 +19,15 @@ However, the legal provision of aftercare services to individua ls exiting the J
 
 p. 14
 
-On completion of 18 years of age, an individual leaving care is restored to their parents/guardians, as far as possible. Admission to Aftercare residential facilities is provided only to those youth who are orphans, or do not want to return t o the biological family, or for whom it is not safe to return to the biological family. However, the non - residential aftercare services for personal, social and vocational guidance should be made available to all the youth exiting the CCIs until they are 2 1 years of age, based on their Individual Care Plan (ICP). Youth exiting institutions for children with mental or physical disabilities, run under the Department of Social Justice/Welfare, should also be eligible for the “After Care Programme” run under th e Integrated Child Protection Scheme (ICPS) after due verification and certification by the CWC. 
+- On completion of 18 years of age, an individual leaving care is restored to their parents/guardians, as far as possible. Admission to Aftercare residential facilities is provided only to those youth who are orphans, or do not want to return t o the biological family, or for whom it is not safe to return to the biological family. 
+- However, the non - residential aftercare services for personal, social and vocational guidance should be made available to all the youth exiting the CCIs until they are 2 1 years of age, based on their Individual Care Plan (ICP). 
+- Youth exiting institutions for children with mental or physical disabilities, run under the Department of Social Justice/Welfare, should also be eligible for the “After Care Programme” run under th e Integrated Child Protection Scheme (ICPS) after due verification and certification by the CWC. 
 
-p. 15
-
-● Enable such children's smooth transition from childhood to adulthood by participation in the community life; ● Develop qualifications and skills for apprenticeship/jobs/livelihood/entrepreneurship for socio - economic self - reliance; ● Develop life skills for self - esteem, emotional intelligence, communication skills and relationship skills; and ● Develop day - to - day living skills, and citizenship rights and responsibilities for the youth such as financial literacy, identity documents, etc. ● Ensure that the youth leaving care is freed of any stigma attached to their association with the juvenile justice system. 
+- Enable such children's smooth transition from childhood to adulthood by participation in the community life; 
+- Develop qualifications and skills for apprenticeship/jobs/livelihood/entrepreneurship for socio - economic self - reliance;
+- Develop life skills for self - esteem, emotional intelligence, communication skills and relationship skills; and
+- Develop day - to - day living skills, and citizenship rights and responsibilities for the youth such as financial literacy, identity documents, etc.
+- Ensure that the youth leaving care is freed of any stigma attached to their association with the juvenile justice system. 
 
 Mahar ashtra State Rules 2018 According to the Maharashtra Rules, the State Government shall provide education, employable skills, placements, as well as a place to stay as part of the “After Care Programme” for children who leave the CCI on attaining 18 years o f age. Rule 27(7) lists the services provided under the “aftercare programme”: (1) aftercare home (AH); (2) community group housing or group home (GH) on a temporary basis for groups of six to eight persons. Both these services are shelter based — the most urgent and common need of young adults leaving the JJ system. 
 
