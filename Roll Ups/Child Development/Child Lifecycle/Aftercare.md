@@ -29,3 +29,56 @@ tags:
 
 # Legal & Policy framework
 
+### The National Policy for Children, 2013 (NPC)
+
+  - The national policy does not recognize the vulnerabilities of children leaving CCIs and the need for Aftercare. The only reference to Aftercare is in the context of preventing HIV infections at birth and ensuring that infected children receive Aftercare
+
+
+### The National Policy for Youth 2014
+
+  - recognizes &quot;Youth in institutional care, orphanages, correctional homes and prisons; as a vulnerable group but does not address the needs of the CLs particularly.
+
+### The National Policy for Skill Development and Entrepreneurship 2015
+
+  - Critical to vulnerable youth and CLs, as it provides them with an option of using the skill pathway for employability and continue their formal education
+
+
+### JJ ACT Model Rules for aftercare
+
+  - Rule 25 - State Governments to prepare an Aftercare programme for provisioning of education, employable skills, placement and housing for children, who have to leave CCIs on attaining eighteen years of age.
+-
+### State Machinery Roles
+
+  - CWC, JBs and Children&#39;s Courts can order Aftercare till the age of twenty-one years or if required, till twenty-three years of age. They are to review effectiveness of the Aftercare
+  - The State Child Protection Society (SCPS) is responsible to develop programmes for Aftercare and maintain database of ACOs.
+  - The District Child Protection Unit (DCPU) develops Aftercare-related database at the district level to share with SCPS.
+  - The Probation Officer, the Child Welfare Office Case Worker or Social Worker is supposed to prepare a post-release plan and submit the same to the Board or the Committee, two months before the release of the child.
+  - CWC has to give directions to prepare Individual Care Plan (Rule 19 (4) JJ Act)
+    - ICP has pre-release (rehabilitation and restoration) and post release components (restoration to families)
+    - The ICP refers to the &quot;plan&quot; but does not define the process followed to achieve the plans
+    - Rule 39 -the role of the Management Committee in planning, pre-release preparation, release, post-release and follow up for a period of two years in collaboration with Aftercare services for CLs.
+- Rehabilitation and Placement Officer (RPO) is responsible to develop a Rehabilitation Card which includes funds and services required by the CL.
+- JJ Act is mainly implemented by ICPS. Under this, aftercare for a per person per month is only Rs. 2000.
+
+
+## Schemes
+
+  - Insurance -PM Jeevan Jyoti Yojana, Accident Insurance PM Suraksha Bima Yojana
+  - Pradhan Mantri Jan Arogya Yojana (PM-JAY)- excludes CLs as it asks for family income
+  - Bal Sangopan Yojana in Maharashtra
+
+      - substitute family care arrangement for a temporary period to children up to 18 years
+      - A grant of Rs. 425 per child per month is given by the Government to the family/ foster
+      - 75 to the implementing NGO to meet administrative expenses
+  - Palanhaar Yojana in Rajasthan
+
+- conditional cash transfer scheme for vulnerable children to remain in family/kinship care
+
+  - Palak Mata Pita Yojana (PMPY) in Gujarat
+
+- conditional cash transfer scheme for vulnerable children to remain in family/kinship care
+- Guardians get a monthly support of Rs 3,000 per annum for essential services.
+
+  - The Prime Minister Employment Generation Programme (PMEGP)
+    - provides assistance to individuals above 18 years,
+    - with minimum education till VIII standard for projects, costing above Rs.10 lakhs in the manufacturing sector and above Rs. 5 lakhs in the business/service sector
