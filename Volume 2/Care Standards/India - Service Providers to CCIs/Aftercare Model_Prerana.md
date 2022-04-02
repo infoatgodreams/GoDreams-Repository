@@ -198,9 +198,7 @@ Documentation Procurement and verification of documents are essential to establi
 - The risks and challenges of addressing social protection/welfare needs include:
 	- Non - availability of the records: In cases where the original copies of the identity documents are not available, it is a challenge to establish identity or eligibility. The absence of basic supporting documents also makes it almost impossible to procure new documents. 
 
-p. 52
-
-Education 5.1.1 
+## Education 
 
 Access to Formal Education Programs Conventionally, formal education is considered as attending regular school. However, certified vocational education, education for individuals with special needs, adult education and distance education are also recognized as formal education. As per UNESCO , formal education programs are those which are recognized by the relevant national educational authorities or equivalent 
 
