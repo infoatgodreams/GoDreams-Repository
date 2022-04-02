@@ -97,8 +97,7 @@ Aftercare shall essentially comprise of the following four phases:
 - Mainstreaming, Exit and follow up post aftercare
 
 - All young person would be assessed using Know your Personality Type with the Holland Code  and support the young person to make decisions about their future goals.
-- Young persons&#39; receiving aftercare shall be entitled to the following support depending upon their needs:
-
+- Young persons receiving aftercare shall be entitled to the following support depending upon their needs:
 - Facilitate for obtaining Birth certificate, Adhar Card, income certificate (is it family income or individual youths income) Caste certificate (for orphans, it becomes difficult)
 - Children from CCI as separate category for receiving benefits
 - Support to reintegrate with the family (where ever possible

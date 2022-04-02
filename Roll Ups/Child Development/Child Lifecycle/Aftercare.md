@@ -201,7 +201,16 @@ free environment with holistic care and protection to those children who are in 
 # SERVICES OFFERED IN THE AFTERCARE MODEL
 
 ## PHASES OF AFTERCARE SERVICES
+Aftercare shall essentially comprise of the following four phases:
+- Preparation for Life outside institution (shall start at the earliest or at 14years onwards when the child is institutionalized/fostercare)
+- Assessment of readiness to live independently (between 17 to 18 years)
+- Placement in Aftercare: Actual care and support during Aftercare (18+ onwards till mainstreamed)
+- Mainstreaming, Exit and follow up post aftercare
 
 
 ## SHELTER 
+### Accomodation/ Housing
+- For those young persons who cannot be restored back and are assessed as not being ready to live independently on their own, accommodation shall be provided
+- There shall be separate aftercare facilities for boys and girls but there shall be no segregation on the ground of religion, caste, language, physical disability, mental capability
+- Space should be allotted for aftercare programs within community to facilitate the integration process
 
