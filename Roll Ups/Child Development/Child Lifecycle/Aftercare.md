@@ -8,6 +8,9 @@ tags:
 
 # The Need for Aftercare
 
+- Once a child completes 18 years of age, they cease to be a minor and become an adult — whether living with their family or in the protective custody of the State. This age is significant for two reasons. 
+	- One, it marks the end of the State’s responsibility, authority, and rights to care for the child, as per the principle of parens patriae . 
+	- Two, the adult, now, possesses a different set of rights and is expected to assume more responsibility and learn to make their decisions more independently. 
 - Transition of a young person from supervised CCIs to independent living throws challenges as well as opportunities to build resilience
 - Transition period is delicate and requires support and mentoring to make optimum use of resources and to realize their full potential
 
