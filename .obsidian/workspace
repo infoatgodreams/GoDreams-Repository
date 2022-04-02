@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
+                "file": "Volume 2/Care Standards/GOI & Indian Standards/Aftercare Guidelines Karnataka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,12 +98,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "8186c3fd68177610",
+  "active": "bf64c04af7805394",
   "lastOpenFiles": [
-    "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
     "Volume 2/Care Standards/GOI & Indian Standards/Aftercare Guidelines Karnataka.md",
+    "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
     "Volume 2/Current Reality/India CCIs/Child Care Institutions; Aftercare InterventionsnA case of Madhya Pradesh.md",
     "Volume 2/Care Standards/India - Service Providers to CCIs/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md",
     "Volume 2/Care Standards/International- Govts, UN & World Bodies/A multinational comparison of care-leaving policy and legislation.md",
