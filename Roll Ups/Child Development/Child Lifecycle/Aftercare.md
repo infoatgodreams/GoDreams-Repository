@@ -15,7 +15,22 @@ tags:
 
 - According to a multinational comparison of caregivers, the findings suggest that employment is the main challenge for care-leavers, being reported by all but two of the countries surveyed
 - Not far behind, education, housing and poverty were perceived as main challenges in 31 countries. Isolation or loneliness was observed as a challenge in 29 countries and mental health in 27 countries. Delinquency and substance abuse were reported in 22 countries.
+-  Children do not have basic certificates which proves their age, birth place, and caste etc.
+  - This makes it difficulty to obtain other important documents such as driving license, Passport, Aadhar card, bank account etc
+- Lack of facilities for special need children such as a counsellor or relevant medical facilities.
+- The awareness regarding the social security schemes implemented by Central and State Governments which may support in getting these children in need better employment opportunities and other social benefits is low.
+- As CLs have been living with minimum interaction with the society, they are also worried to face the world after they leave the home
+- The schools and colleges do not have a system for reservation of seats for disadvantaged/orphan children
+- The budget of ICPS scheme has not been revised from past 6 years.
+- In the Aftercare home there is no permanent counsellor to conduct regular sessions, but in case of requirement, children are taken to a private counsellor.
+- There is a good tracking system for the Care Leavers but is not strongly implemented for aftercare adults mainly above 23 or 25 years of age.
+- The children (who are between the age of 16-18) feel that they should have a personal mobile phone.
 
+## Challenges at an institutional level
+- The officials who are aware of the functioning of the CCI and their challenges, often get transferred and replaced by a new officer who has no knowledge on the functioning of the CCIs, to make the decisions
+- According to the Sponsorship programme under ICPS Scheme, if any child is being migrated from one State to another while he/she is getting a scholarship, then the sponsorship is transferred to the concerned CWC belonging to the State to which the child is being transferred. But the implementation is very poor.
+- As there is lack of special needs facilities, it is difficult for them to transfer such children to a facility where there is a provision for special facilities/medical needs.
+- If the child runs away, the CCI rescues it and as per the rules, they send him/her to the concerned CWC in their district, which sends the child back to the home, without considering if the parents are capable to rise the child, or if there is a child- friendly environment in the family.
 
 ## Guiding Principles for Aftercare
 
@@ -158,3 +173,23 @@ free environment with holistic care and protection to those children who are in 
   - The Prime Minister Employment Generation Programme (PMEGP)
     - provides assistance to individuals above 18 years,
     - with minimum education till VIII standard for projects, costing above Rs.10 lakhs in the manufacturing sector and above Rs. 5 lakhs in the business/service sector
+- The Ministry of Women and Child Development is implementing a Centrally Sponsored Scheme i.e. Child Protection Services&#39;
+  - The Scheme also identify suitable NGOs that can provide After Care Programmes.
+  - The SCPS (State Child Protection Society) shall release grants up to a maximum of Rs. 2,000/- per child per month to the NGO implementing the After Care Programme to meet the basic needs of the child/youth including food, clothing, health care and shelter and age appropriate needs
+
+### Youth Employment Schemes
+
+- Prime Minister Employment Generation Programme (PMEGP), Govt of India: A credit-linked subsidy programme introduced by the government of India in 2008.
+
+- This program focuses on generating self-employment opportunities through micro-enterprise establishments in the non-farm sector by helping unemployed youth and traditional artisans..
+
+- Pradhan Mantri Kaushal Vikas Yojana: The flagship scheme of the Ministry of Skill Development &amp; Entrepreneurship (MSDE) implemented by National Skill Development Corporation.
+
+- The objective of this Skill Certification Scheme is to enable a large number of Indian youth to take up industry-relevant skill training that will help them in securing a better livelihood..
+
+- Aam Admi Bima Yojana, Govt of India: Launched in 2013
+
+- Under this scheme, in case of death or disability, financial aid is provided to members, who are aged between 18 years completed and 59 years nearer birthday.
+- The member should normally be the head of the family or one earning member of the below poverty line family (BPL) or marginally above the poverty line under identified vocational group/rural landless household.
+
+- Rozgar mela, Govt. of India: To give impetus to the employment initiatives in the country, National Skill Development Corporation (NSDC) under the aegis of Ministry of Skill Development &amp; Entrepreneurship (MSDE), Govt. of India has been organizing Rozgar Melas across the nation for providing suitable job opportunities in private sector to the unemployed youth.

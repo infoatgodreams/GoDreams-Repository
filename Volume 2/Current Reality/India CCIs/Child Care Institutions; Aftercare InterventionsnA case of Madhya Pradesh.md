@@ -141,7 +141,7 @@ free environment with holistic care and protection to those children who are in 
 
 ### Govt of India aftercare Initiatives
 
-- The Ministry of Women and Child Development is implementing a Centrally Sponsored Scheme i.e. &#39;Child Protection Services&#39;
+- The Ministry of Women and Child Development is implementing a Centrally Sponsored Scheme i.e. Child Protection Services&#39;
   - The Scheme also identify suitable NGOs that can provide After Care Programmes.
   - The SCPS (State Child Protection Society) shall release grants up to a maximum of Rs. 2,000/- per child per month to the NGO implementing the After Care Programme to meet the basic needs of the child/youth including food, clothing, health care and shelter and age appropriate needs
 
@@ -197,7 +197,7 @@ free environment with holistic care and protection to those children who are in 
   - Students know to operate computer
   - Life Skill Classes are provided by partner NGOs
 
-- SOS Children&#39;s Village in Bhopal
+- SOS Children Village in Bhopal
   - Takes care of 232 children and 60 young adults.
   - Every child is given the care of a loving mother and an Aunt who assists the mother with her work and daily activities.
   - There are total 16 homes in SOS Children&#39;s Village, Bhopal.
@@ -211,7 +211,6 @@ free environment with holistic care and protection to those children who are in 
 ### Challenges faced by children
 
 - Children do not have basic certificates which proves their age, birth place, and caste etc.
-
   - This makes it difficulty to obtain other important documents such as driving license, Passport, Aadhar card, bank account etc
 - Lack of facilities for special need children such as a counsellor or relevant medical facilities.
 - The awareness regarding the social security schemes implemented by Central and State Governments which may support in getting these children in need better employment opportunities and other social benefits is low.
