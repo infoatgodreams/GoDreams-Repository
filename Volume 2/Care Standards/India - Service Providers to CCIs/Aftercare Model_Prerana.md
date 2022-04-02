@@ -124,21 +124,21 @@ Collective living is bound to cause differences of opinion and conflict among th
 - Apart from that, finding accommodation for a small group of single, young women is extremely challenging because of certain patriarchal norms in society. Women who stay alone are often stigmatized and frowned upon. 
 - Some societies also set limitations to the timings for the girls to abide by, try to investigate the religious and social background of the girls out of curiosity, and hence, put them in an uncomfortable position 
 - The newfound independence can also be hard to adjust to for some girls. They may like to stay out till late in the evening to be with their friends. Some have a hard time learning to prioritize savings and end up spending more on clothes, footwear, make - up, mobile phones, etc. as compared to food and hygiene supplies. 
-- Navigating group dynamics: AHs may have authoritarian ways to resolve conflicts or handle grievances, but such authority is absent in GH - EA . In cases where the re sidents are self - reliant and driven, this process is facilitated well. However, in cases where residents are not particularly engaged in the process of leading the functioning of the GH, the process of conflict resolution might become cumbersome. When peop le of different age groups stay together, there is a risk of younger residents being dominated or bullied by the older ones. Sometimes, residents also leave the facility prematurely after joining, without ensuring a safe and secure alternative accommodatio n and/or without working on a sound future plan for themselves. This leads to excess per capita cost for the remaining residents . 
+- Navigating group dynamics: AHs may have authoritarian ways to resolve conflicts or handle grievances, but such authority is absent in GH - EA . In cases where the re sidents are self - reliant and driven, this process is facilitated well. 
+- However, in cases where residents are not particularly engaged in the process of leading the functioning of the GH, the process of conflict resolution might become cumbersome. When peop le of different age groups stay together, there is a risk of younger residents being dominated or bullied by the older ones. Sometimes, residents also leave the facility prematurely after joining, without ensuring a safe and secure alternative accommodatio n and/or without working on a sound future plan for themselves. This leads to excess per capita cost for the remaining residents . 
 
-p. 36
-
-Social vulnerabilities: Once supervision is significantly reduced and girls get relatively greater freedom, there may be a risk of exposure to trafficking, re - trafficking, or exploitation. 
-
-p. 43
+###  Social vulnerabilities: 
+Once supervision is significantly reduced and girls get relatively greater freedom, there may be a risk of exposure to trafficking, re - trafficking, or exploitation. 
 
 Prerana Practices Prerana prepares a contact list of important local medical professionals and hospitals close to the GH - EA. 
 
-p. 44
-
-3.4. Mental Health 3.4.1. Access to Mental Health Services Unlike physical health, mental health is lesser - known to most. Information must be given to residents on what mental health means, how to access mental health services, and ways to tackle mental health stigma and discrimination. 
-
-Prerana Practices Prerana empanels mental health service p rofessionals, like psychiatrists, therapists and counselors for the residents to be accessed when needed. Stress management sessions are facilitated with the residents by a 35 counselor from Prerana. Following activities are undertaken to facilitate access to mental health services: ● Need - based visits by a counselor to the GH - EA. ● Need - based visits to a psychiatrist. ● Group sessions to discuss the importance of self - care and ways to practice it.  
+## Mental Health
+- Access to Mental Health Services Unlike physical health, mental health is lesser - known to most. Information must be given to residents on what mental health means, how to access mental health services, and ways to tackle mental health stigma and discrimination. 
+- Prerana Practices Prerana empanels mental health service p rofessionals, like psychiatrists, therapists and counselors for the residents to be accessed when needed. Stress management sessions are facilitated with the residents by a 35 counselor from Prerana. 
+- Following activities are undertaken to facilitate access to mental health services:
+	- Need - based visits by a counselor to the GH - EA. 
+	- Need - based visits to a psychiatrist. 
+	-  Group sessions to discuss the importance of self - care and ways to practice it.  
 
 Facilitates orientation visits to the hospital: When the young care leavers move into their GH - EA, the social worker plans an orientation visit to the local hospital. In case the 34 care leavers are suffering from certain ailments which need medical intervention, the social worker orients the care leaver o n how to avail OPD (Outpatient Department) services in a hospital.  ● Pays for medical care, if required: Early on, when the care leavers have just moved out of their CCIs and into the GH - EA, they might not be equipped to take care of their medical expenses . In such situations, Prerana supports them financially. ● Creating a panel of doctors that a resident can reach out to, in case of emergency : Through local guardians, Prerana tries to create a pool of doctors that the GH - EA residents can approach in case of any medical emergencies. ● Enco urage young women to invest in a health insurance policy : Initially, the residents might not be able to invest in an insurance policy. Sometimes, Prerana tries to arrange for health insurance for the first year through the sup port of donors. However, the residents must understand the importance of managing their health expenses and are thus encouraged to invest in a health insurance policy themselves after the first year 
 
