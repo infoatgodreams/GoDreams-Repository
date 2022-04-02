@@ -65,15 +65,14 @@ tags:
 
   - Insurance -PM Jeevan Jyoti Yojana, Accident Insurance PM Suraksha Bima Yojana
   - Pradhan Mantri Jan Arogya Yojana (PM-JAY)- excludes CLs as it asks for family income
+  
   - Bal Sangopan Yojana in Maharashtra
-
       - substitute family care arrangement for a temporary period to children up to 18 years
       - A grant of Rs. 425 per child per month is given by the Government to the family/ foster
       - 75 to the implementing NGO to meet administrative expenses
   - Palanhaar Yojana in Rajasthan
 
 - conditional cash transfer scheme for vulnerable children to remain in family/kinship care
-
   - Palak Mata Pita Yojana (PMPY) in Gujarat
 
 - conditional cash transfer scheme for vulnerable children to remain in family/kinship care

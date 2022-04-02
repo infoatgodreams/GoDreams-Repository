@@ -1,4 +1,4 @@
-I NTRODUCTION 
+## INTRODUCTION
 
 Once a child completes 18 years of age, they cease to be a minor and become an adult — whether living with their family or in the protective custody of the State. This age is significant for two reasons. One, it marks the end of the State’s responsibility, authority, and rights to care for the child, as per the principle of parens patriae . Two, the adult, now, possesses a different set of rights and is expected to assume more responsibility and learn to make their decisions more independently. 
 
