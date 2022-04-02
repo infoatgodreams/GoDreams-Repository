@@ -183,24 +183,20 @@ Some challenges that Prerana has experienced while enabling access to health nee
 
 
 # SOCIAL PROTECTION AND WELFARE 
+Documentation Procurement and verification of documents are essential to establish eligibility for a variety of welfare and development services in both the AH and GH. The documents needed to establish identity and eligibility of social protection/welfare schemes include : birth certificate, caste/community certificate, domicile certificate, school - leaving certificate, Aadhar Card, Voter ID Card, Ration Card, PAN Card, PwD Certificate (Person with Disability) and BPL/EWS Certificate (Below Poverty Line/Economically Weaker Sections) 
 
-4.1. Documentation Procurement and verification of documents are essential to establish eligibility for a variety of welfare and development services in both the AH and GH. The documents needed to establish identity and eligibility of social protection/welfare schemes include 12 : birth certificate, caste/community certificate, domicile certificate, school - leaving certificate, Aadhar Card, Voter ID Card, Ration Card, PAN Card, PwD Certificate (Person with Disability) and BPL/EWS Certificate (Below Poverty Line/Economically Weaker Sections) 
+## Prerana Practices
+- In the last five years, most girls referred to aftercare have had their essential documents such as the Aadhar card, PAN card, bank account, and school - leaving certificate through the CCI. 
+- In cases where the resident girls do not possess certain important ident ity documents, the social workers assist the residents in applying for the same. Sometimes, they also provide a reference letter or document through Prerana to aid that process. The social workers also closely follow - up with the resident and the issuing au thorities or local bodies to procure the documents. 
 
-p. 50
+## Challenges Faced When Addressing This Need 
 
-Prerana Practices In the last five years, most girls referred to aftercare have had their essential documents such as the Aadhar card, PAN card, bank account, and school - leaving certificate through the CCI. 
-
-In cases where the resident girls do not possess certain important ident ity documents, the social workers assist the residents in applying for the same. Sometimes, they also provide a reference letter or document through Prerana to aid that process. The social workers also closely follow - up with the resident and the issuing au thorities or local bodies to procure the documents. 
-
-Challenges Faced When Addressing This Need 
-
-p. 51
-
-Errors in the records : Sometimes, when documents are available, there may be a commonly observed discrepancy in the names of the individuals i.e. different names on different documents or spelling errors in parents’ names.  ● Social vulnerabilities: Desperation and sometimes, the urgency to seek necessary documents makes individuals vulnerable to frauds and deception. ● Time - consuming: As there is no single - window ap proach for building one’s set of documents. It takes a lot of time, energy, financial resources and commitment, especially while working with government bodies to procure documents. ● Updating new information: There is a general lack of clarity on which auth ority is responsible for issuing which document as well as the process for updating personal information on an already existing document. For eg, in case of an Aadhar card, it may be made by the CCI and often the address of the CCI listed in the card with a contact number of a CCI staff member. Once the child moves out, updating these credentials on the card becomes a challenge. 
-
-● 
-
-The risks and challenges of addressing social protection/welfare needs include: ● Non - availability of the records: In cases where the original copies of the identity documents are not available, it is a challenge to establish identity or eligibility. The ab sence of basic supporting documents also makes it almost impossible to procure new documents. 
+- Errors in the records : Sometimes, when documents are available, there may be a commonly observed discrepancy in the names of the individuals i.e. different names on different documents or spelling errors in parents’ names.
+- Social vulnerabilities: Desperation and sometimes, the urgency to seek necessary documents makes individuals vulnerable to frauds and deception. 
+- Time - consuming: As there is no single - window ap proach for building one’s set of documents. It takes a lot of time, energy, financial resources and commitment, especially while working with government bodies to procure documents. 
+- Updating new information: There is a general lack of clarity on which auth ority is responsible for issuing which document as well as the process for updating personal information on an already existing document. For eg, in case of an Aadhar card, it may be made by the CCI and often the address of the CCI listed in the card with a contact number of a CCI staff member. Once the child moves out, updating these credentials on the card becomes a challenge. 
+- The risks and challenges of addressing social protection/welfare needs include:
+	- Non - availability of the records: In cases where the original copies of the identity documents are not available, it is a challenge to establish identity or eligibility. The absence of basic supporting documents also makes it almost impossible to procure new documents. 
 
 p. 52
 
