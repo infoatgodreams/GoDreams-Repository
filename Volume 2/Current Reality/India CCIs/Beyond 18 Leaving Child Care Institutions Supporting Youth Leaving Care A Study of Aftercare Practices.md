@@ -14,8 +14,8 @@ Link: https://drive.google.com/file/d/1kEKXzb6boy4YZRQ6ug1RzgC_BG6I2nHC/view?usp
 
 # BRIEF:
 
-- Scope &amp; Description: The Current Aftercare Practices (CAP) report is about the status of Aftercare youth, or Care Leavers (CLs) in 5 Indian states (Gujarat, Maharashtra, Delhi, Karnataka and Rajasthan), as they transition from CCIs to adulthood in the wider community. It also looks at the promising practices that have been developed over time through Non-Governmental Organisations (NGOs) interventions.
-- The study uses a framework called the &quot;Sphere of Aftercare&quot;, prescribing eight essential and interdependent domains that can be used as pathways to support Care Leavers
+- Scope & Description: The Current Aftercare Practices (CAP) report is about the status of Aftercare youth, or Care Leavers (CLs) in 5 Indian states (Gujarat, Maharashtra, Delhi, Karnataka and Rajasthan), as they transition from CCIs to adulthood in the wider community. It also looks at the promising practices that have been developed over time through Non-Governmental Organisations (NGOs) interventions.
+- The study uses a framework called the Sphere of Aftercare, prescribing eight essential and interdependent domains that can be used as pathways to support Care Leavers
 - Link: [Supporting Youth Leaving Care](https://drive.google.com/file/d/14YNPFQql03KU2nciEVCpKPNvHT9x3PHt/view?usp=sharing)
 - Original Link: NA
 - Date: August 2019
@@ -117,7 +117,7 @@ Thematic framework: Sphere of Aftercare- a comprehensive ideology of rehabilitat
 
 ## MODEL INTERVENTIONS
 
-### **The Navajeevana Nilaya girls&#39; hostel**
+### **The Navajeevana Nilaya girls hostel**
 
   - cost-effective, safe and enabling for girls from different disadvantaged backgrounds.
   - Serves as a peer bonding and participative management space to empower the girls to manage on their own.

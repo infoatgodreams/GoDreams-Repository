@@ -16,6 +16,18 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "9e56f52f8db2ffa5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -71,12 +83,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
+                "file": "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "services",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -88,8 +100,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8186c3fd68177610",
+  "active": "9e56f52f8db2ffa5",
   "lastOpenFiles": [
+    "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md",
     "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
     "Volume 2/Care Standards/GOI & Indian Standards/Aftercare Guidelines Karnataka.md",
     "Volume 2/Current Reality/India CCIs/Child Care Institutions; Aftercare InterventionsnA case of Madhya Pradesh.md",
@@ -98,7 +111,6 @@
     "Volume 2/Care Standards/GOI & Indian Standards/Guidelines for After Care of Children under ICPS.md",
     "Roll Ups/Child Development/Child Development.md",
     "Roll Ups/Child Safety/Child Safety.md",
-    "conflict-files-obsidian-git.md",
-    "Volume 1/Care Standards/International - Govts, UN & World Bodies/Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
