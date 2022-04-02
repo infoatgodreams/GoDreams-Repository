@@ -221,5 +221,9 @@ Living Arrangements: The After Care programme will be housed in a portion of an 
 
 iii) Option III: In metropolitan cities (Mumbai, Delhi, Bangalore, Chennai and Kolkata) a dedicated institution for After Care can be considered in case it is available. Living Arrangements: The children will stay in larger accommodation, with dormitory style arrangements. There will be a common kitchen for all the children. The institution may have a maximum of 25 children. Here, the home is run by the after care organisation including, housekeeping, kitchen etc 
 
+## HEALTH 
+
+
+
 
 
