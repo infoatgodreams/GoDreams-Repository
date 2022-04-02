@@ -51,7 +51,7 @@ Link: https://drive.google.com/file/d/1b3Nl-D7t3YPOUIdRhEGa1jY5maNvnrEP/view?usp
 ### Care-leaving policy and legislation
 
 - Of the 36 countries in the study, 32 (89 per cent) reported that they have legislation that addressed children in care,
-- Of the 32 countries, 23 judged their country&#39;s legislation to be &quot;well-developed&quot; rather than &quot;rudimentary
+- Of the 32 countries, 23 judged their country legislation to be well-developed rather than rudimentary
 - Only 17 country participants (47 per cent of the total sample) reported having legislation addressing care-leavers after leaving care and/or aftercare services,
 - All the countries reporting no legislation on children in care also had no legislation on care-leavers.
 - Thus, while two thirds of countries have well developed legislation for children who are placed into alternative care, only one fifth have well-developed legislation for these children after they leave care.

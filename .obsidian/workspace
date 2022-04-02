@@ -4,12 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "2608d28cc8bfaaa7",
+        "id": "8186c3fd68177610",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "1ac828ca647db1f0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 2/Current Reality/India CCIs/Child Care Institutions &amp; Aftercare InterventionsnA case of Madhya Pradesh.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
+                "file": "Volume 2/Current Reality/India CCIs/Child Care Institutions &amp; Aftercare InterventionsnA case of Madhya Pradesh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +100,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2608d28cc8bfaaa7",
+  "active": "1ac828ca647db1f0",
   "lastOpenFiles": [
+    "Volume 2/Current Reality/India CCIs/Child Care Institutions &amp; Aftercare InterventionsnA case of Madhya Pradesh.md",
     "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
+    "Volume 2/Care Standards/GOI & Indian Standards/Guidelines for After Care of Children under ICPS.md",
+    "Volume 2/Care Standards/International- Govts, UN & World Bodies/A multinational comparison of care-leaving policy and legislation.md",
+    "Roll Ups/Child Development/Child Development.md",
     "Roll Ups/Child Safety/Child Safety.md",
     "conflict-files-obsidian-git.md",
     "Volume 2/Care Standards/GOI & Indian Standards/Aftercare Guidelines Karnataka.md",
     "Volume 1/Care Standards/International - Govts, UN & World Bodies/Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia.md",
-    "Index Pages/📜Comprehensive Index.md",
-    "Volume 2/Care Standards/International- Govts, UN & World Bodies/A multinational comparison of care-leaving policy and legislation.md",
-    "Volume 2/Care Standards/International - Govt, UN & World Bodies/Guidelines for Institutional Childcare, Ethiopia.md",
-    "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md",
-    "Volume 2/Care Standards/International CCIs/Untitled.md"
+    "Index Pages/📜Comprehensive Index.md"
   ]
 }
