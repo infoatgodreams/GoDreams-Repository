@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md",
+            "file": "Volume 2/Care Standards/India - Service Providers to CCIs/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
+                "file": "Volume 2/Care Standards/India - Service Providers to CCIs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +100,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8186c3fd68177610",
+  "active": "9e56f52f8db2ffa5",
   "lastOpenFiles": [
+    "Volume 2/Care Standards/India - Service Providers to CCIs/Untitled.md",
     "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
     "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md",
     "Volume 2/Care Standards/GOI & Indian Standards/Aftercare Guidelines Karnataka.md",
@@ -110,7 +111,6 @@
     "Volume 2/Care Standards/International- Govts, UN & World Bodies/A multinational comparison of care-leaving policy and legislation.md",
     "Volume 2/Care Standards/GOI & Indian Standards/Guidelines for After Care of Children under ICPS.md",
     "Roll Ups/Child Development/Child Development.md",
-    "Roll Ups/Child Safety/Child Safety.md",
-    "conflict-files-obsidian-git.md"
+    "Roll Ups/Child Safety/Child Safety.md"
   ]
 }
