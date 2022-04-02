@@ -68,6 +68,74 @@ tags:
     - Rule 39 -the role of the Management Committee in planning, pre-release preparation, release, post-release and follow up for a period of two years in collaboration with Aftercare services for CLs.
 - Rehabilitation and Placement Officer (RPO) is responsible to develop a Rehabilitation Card which includes funds and services required by the CL.
 - JJ Act is mainly implemented by ICPS. Under this, aftercare for a per person per month is only Rs. 2000.
+- - Apprentice Act (1850) –For orphans and poor children brought up by public charity, to learn trades, crafts and employments.
+- Reformatory Schools Act( 1897) – for children upto 15 years of age
+- In 1920 the Madras Act separate the juvenile court and residential institutions from criminal justice system.
+- After Independence Child Welfare Administration was taken over by the Central and the State Governments
+- Directive Principles for the welfare of children
+
+- Article 21A - Right to free and compulsory elementary education for all the children between the age of 6 to 14 years.
+- Article 24 - Right to be protected from any hazardous employment under the age of fourteen age.
+- Article 39(e) - Right to be protected from being abused in any form by an adult.
+- Article 39 - Right to be protected from human trafficking and forced bonded labour system.
+- Article 47 - Right to be provided with good nutrition and proper standard of living.
+- Article 15(3) - of the Constitution of India provides special powers to State to make any special laws for the upliftment and the betterment of children and women.
+
+- Children Act (1960) - enacted to provide for the care, protection, maintenance, welfare, training, education and rehabilitation of neglected or delinquent children and for the trial of delinquent children in the Union territories
+- Policy on Education and Child Labour-
+  - National Policy on Education was formulated in 1986 and
+  - In 2020 the cabinet approved a new National Education Policy with an aim to introduce several changes to the existing Indian education system,
+  - In 2009- Right of Children to Free and Compulsory Education Act was passed
+  - Child Labour (Prohibition and Regulation) Act was passed in 1986
+
+- Juvenile Justice Act-
+  - the main law relating to safeguarding and promoting the welfare of children in India.
+  - The Act outlines the principles, systems, processes and related statutory bodies to cater to the basic needs of children through proper care, protection, development, treatment and social re-integration.
+  - The main statutory bodies defined under the JJ Act are Juvenile Justice Board (JJB) to deal with children in conflict with law and Child Welfare Committee (CWC) to deal with children in need of care and protection (CNCP)
+  - CNCP
+
+- Homeless- Are homeless and without the means to obtain a house
+
+- Abused- Have been exploited or abused or have the probability of being abused, or dwell with a person/s who may have the potential to harm or abuse
+
+- Disabled-Have a physical or mental disability or illness and have no one to provide and care for them
+
+- Trafficked-Are trafficked or using drug substances
+
+- Orphaned-Are orphans, a runaway or missing child whose family or parents cannot take care of them
+
+- Victim- Are victims of armed conflict, natural disasters or civil unrest
+
+- Got unfit parent/s- Parent/guardian is in capacitated or unfit to care for them
+
+- The period of registration of an institution shall be five years, and it shall be subject to renewal in every five years
+
+- JJ Act and Aftercare
+
+- JJ Act, 2015 explicitly defines the aftercare and stated in Section 46
+
+	any child leaving a child care institution on completion of eighteen years of age may be provided with financial support in order to facilitate child re-integration into the mainstream of the society in the manner as may be prescribed&quot;
+
+- JJ Act Module 2016 states that the State Government shall prepare a programme for children who have to leave Child Care Institutions on attaining eighteen years of age by providing for their
+
+    - education,
+    - giving them employable skills
+    - placement
+    - places for stay to facilitate their re-integration into the mainstream of society.
+
+- National Charter for Children (2004)
+
+-a main focus on survival, life and liberty of the child with protection from economic exploitation
+
+- National Plan of Action for Children was formulated in 2005 for creating a violent
+
+free environment with holistic care and protection to those children who are in need
+
+- Protection of Children against Sexual Offences (POCSO) 2012-
+
+- main stakeholders in the implementation as police, Courts, medical institutions, psychologists and counsellors, as well as institutions that provide social services to the children
+
+
 
 
 ## Schemes
