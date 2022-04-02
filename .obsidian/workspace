@@ -1,65 +1,33 @@
 {
   "main": {
-    "id": "b107357176c2e9d8",
+    "id": "9730b7229b96f7e6",
     "type": "split",
     "children": [
       {
-        "id": "cd3710404d1920f0",
+        "id": "2608d28cc8bfaaa7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "fae993b44392afbc"
-      },
-      {
-        "id": "0ffcf433550adecf",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
+          "type": "markdown",
           "state": {
-            "options": {
-              "collapse-filter": true,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": false
-            }
+            "file": "Roll Ups/Child Safety/Child Safety.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "fae993b44392afbc"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c65e2a251474bb47",
+    "id": "57b06a522938d655",
     "type": "split",
     "children": [
       {
-        "id": "6bfec5a50c586349",
+        "id": "f3b4a64b4c24f8f2",
         "type": "tabs",
         "children": [
           {
-            "id": "8471557d1ce927ba",
+            "id": "805cbbb296c61901",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -67,12 +35,12 @@
             }
           },
           {
-            "id": "a2aac9cc8c78f954",
+            "id": "935199b94694109c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ERROR",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,52 +53,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 377.0093288421631,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "9a6c82b356728bc7",
+    "id": "e154e99fa257850e",
     "type": "split",
     "children": [
       {
-        "id": "e52e8948ad67ddc1",
+        "id": "9c734b918354e451",
         "type": "tabs",
         "children": [
           {
-            "id": "1c9c1235ba6cb94b",
+            "id": "2850103201c8a5f3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Roll Ups/Child Safety/Child Safety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "de07364c32839472",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "18279d5b5dbfe7be",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
               }
             }
           }
@@ -138,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.0242004394531,
-    "collapsed": true
+    "width": 300
   },
-  "active": "cd3710404d1920f0",
+  "active": "2608d28cc8bfaaa7",
   "lastOpenFiles": [
-    "Volume 1/Roll Ups/Nutrition/Nutrition.md",
-    "Volume 3/Global Childhood Report 2021.md",
-    "Volume 3/Institutional Care Model Author_ Prerana Org.md",
-    "Volume 3/Mental Health at CCIs during Covid-19_Prerana Guide.md",
-    "Volume 3/Research Journal - Glo.md",
-    "Volume 3/Restoration Model by Prerana.md",
-    "Volume 3/Supporting Carers Author_ Rainbow Home.md",
-    "Volume 3/Working with Children Sensitively.md",
-    "Home.md",
-    "Volume 3/Budget for Children 2022-23 Analysis.md"
+    "Roll Ups/Child Safety/Child Safety.md",
+    "conflict-files-obsidian-git.md",
+    "Volume 2/Care Standards/GOI & Indian Standards/Aftercare Guidelines Karnataka.md",
+    "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
+    "Volume 1/Care Standards/International - Govts, UN & World Bodies/Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia.md",
+    "Index Pages/📜Comprehensive Index.md",
+    "Volume 2/Care Standards/International- Govts, UN & World Bodies/A multinational comparison of care-leaving policy and legislation.md",
+    "Volume 2/Care Standards/International - Govt, UN & World Bodies/Guidelines for Institutional Childcare, Ethiopia.md",
+    "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md",
+    "Volume 2/Care Standards/International CCIs/Untitled.md"
   ]
 }
