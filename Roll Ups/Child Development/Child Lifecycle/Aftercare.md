@@ -223,6 +223,17 @@ iii) Option III: In metropolitan cities (Mumbai, Delhi, Bangalore, Chennai and K
 
 ## HEALTH 
 
+## BASELINE REALITY
+- ### Emotional wellbeing
+  - Over 61% CLs faced recurring emotional distress.
+  - There is a greater negative impact on the Emotional Wellbeing of female CLs than male CLs.
+  - Emotional Wellbeing Index is positively correlated to Aftercare Quality Index and Academic Career Index.
+
+- ### Physical Health
+  - 23% CLs did not have any caregiving support available during illnesses.
+  - 13% CLs did not have adequate funds for health care
+  - A greater proportion of male CLs (12% more than female CLs) had an unsatisfactory Health Index score than females
+
 
 
 
