@@ -4,20 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "2bc65e9784bccd46",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "3da7e5f0275b7cc3",
         "type": "leaf",
         "state": {
