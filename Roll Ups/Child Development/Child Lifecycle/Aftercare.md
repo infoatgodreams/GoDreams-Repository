@@ -214,3 +214,10 @@ Aftercare shall essentially comprise of the following four phases:
 - There shall be separate aftercare facilities for boys and girls but there shall be no segregation on the ground of religion, caste, language, physical disability, mental capability
 - Space should be allotted for aftercare programs within community to facilitate the integration process
 
+i) Option I : Living Arrangements : Children will stay in groups of 4 to 8 in an accommodation taken on rent in a suitable, safe residential locality. Here, children will be encouraged to live together as a family unit and learn to share responsibilities of running their own kitchen and home. The Organisation will assist in providing the rent and deposit for the accommodation. 
+
+i) Option II: If the first option is not feasible in the District/State as the number of children is too low or if there is no suitable NGO available, then the DCPU could identify an existing children’s Home which is run by the Government / NGO , where a portion will be earmarked for After Care. 
+Living Arrangements: The After Care programme will be housed in a portion of an existing C hildren’s Home, in which a portion has been earmarked for children eligible for after care. The children ca n stay in groups of 4 to 8. There will be a common kitchen for all the children. The institution may have a maximum of 25 children. 
+
+iii) Option III: In metropolitan cities (Mumbai, Delhi, Bangalore, Chennai and Kolkata) a dedicated institution for After Care can be considered in case it is available. Living Arrangements: The children will stay in larger accommodation, with dormitory style arrangements. There will be a common kitchen for all the children. The institution may have a maximum of 25 children. Here, the home is run by the after care organisation including, housekeeping, kitchen etc 
+
