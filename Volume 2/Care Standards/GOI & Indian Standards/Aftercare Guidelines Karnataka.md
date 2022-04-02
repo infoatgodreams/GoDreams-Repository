@@ -90,15 +90,13 @@ services to enable them to
 - Financial support on monthly basis and should be appropriate for implementing the IAP and for meeting the basic needs including food, clothing, health care and shelter; age appropriate and need based education and vocational training; stipend; and any other requirements
 
 ## Aftercare Facilities and Services
-
-- Aftercare shall essentially comprise of the following four phases:
-
+Aftercare shall essentially comprise of the following four phases:
 - Preparation for Life outside institution (shall start at the earliest or at 14years onwards when the child is institutionalized/fostercare)
 - Assessment of readiness to live independently (between 17 to 18 years)
 - Placement in Aftercare: Actual care and support during Aftercare (18+ onwards till mainstreamed)
 - Mainstreaming, Exit and follow up post aftercare
 
-- All young person&#39;s would be assessed using &#39;Know your Personality Type with the Holland Code&#39; and support the young person to make decisions about their future goals.
+- All young person would be assessed using Know your Personality Type with the Holland Code  and support the young person to make decisions about their future goals.
 - Young persons&#39; receiving aftercare shall be entitled to the following support depending upon their needs:
 
 - Facilitate for obtaining Birth certificate, Adhar Card, income certificate (is it family income or individual youths income) Caste certificate (for orphans, it becomes difficult)

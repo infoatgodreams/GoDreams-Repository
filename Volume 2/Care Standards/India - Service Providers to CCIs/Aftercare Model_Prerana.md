@@ -36,9 +36,14 @@ p. 12
 
 Prerana has worked tirelessly to rehabilitate minor girls rescued from the sex trade since 2000. After the initial healing and self - integration, it was seen that the victims of organized crime, including human trafficking and physical and sexual assaults s uffer from a variety of mental illnesses such as anxiety, depression, Post - Traumatic Stress Disorder (PTSD), aggression, self - destructive tendencies, etc. 
 
-p. 19
 
-1.6. Needs Identified in the Aftercare Model The chapters that follow discuss the needs identified for care leavers. Primarily, these focus on: ● Shelter ● Health ● Social Protection/Welfare Schemes ● Development ● Life Skills ● Social Integration 
+1.6. Needs Identified in the Aftercare Model The chapters that follow discuss the needs identified for care leavers. Primarily, these focus on:
+- Shelter
+- Health 
+- Social Protection/Welfare Schemes
+- Development
+- Life Skills 
+- Social Integration 
 
 p. 20
 

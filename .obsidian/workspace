@@ -6,6 +6,7 @@
       {
         "id": "8186c3fd68177610",
         "type": "leaf",
+        "dimension": 50,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -18,12 +19,13 @@
         }
       },
       {
-        "id": "dca19440363d0cf5",
+        "id": "0cbd739b200fbf41",
         "type": "leaf",
+        "dimension": 50,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 2/Care Standards/India - Service Providers to CCIs/Aftercare Model_Prerana.md",
+            "file": "Volume 2/Care Standards/GOI & Indian Standards/Aftercare Guidelines Karnataka.md",
             "mode": "source",
             "source": false
           }
@@ -83,12 +85,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Care Standards/India - Service Providers to CCIs/Aftercare Model_Prerana.md",
+                "file": "Volume 2/Care Standards/GOI & Indian Standards/Aftercare Guidelines Karnataka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "legal",
+                "searchQuery": "shelter",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -100,11 +102,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "dca19440363d0cf5",
+  "active": "0cbd739b200fbf41",
   "lastOpenFiles": [
-    "Volume 2/Care Standards/India - Service Providers to CCIs/Aftercare Model_Prerana.md",
-    "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
     "Volume 2/Care Standards/GOI & Indian Standards/Aftercare Guidelines Karnataka.md",
+    "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
+    "Volume 2/Care Standards/India - Service Providers to CCIs/Aftercare Model_Prerana.md",
     "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md",
     "Volume 2/Current Reality/India CCIs/Child Care Institutions; Aftercare InterventionsnA case of Madhya Pradesh.md",
     "Volume 2/Care Standards/International- Govts, UN & World Bodies/A multinational comparison of care-leaving policy and legislation.md",

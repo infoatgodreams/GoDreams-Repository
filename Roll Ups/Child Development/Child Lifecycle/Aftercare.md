@@ -197,3 +197,11 @@ free environment with holistic care and protection to those children who are in 
 - The member should normally be the head of the family or one earning member of the below poverty line family (BPL) or marginally above the poverty line under identified vocational group/rural landless household.
 
 - Rozgar mela, Govt. of India: To give impetus to the employment initiatives in the country, National Skill Development Corporation (NSDC) under the aegis of Ministry of Skill Development &amp; Entrepreneurship (MSDE), Govt. of India has been organizing Rozgar Melas across the nation for providing suitable job opportunities in private sector to the unemployed youth.
+
+# SERVICES OFFERED IN THE AFTERCARE MODEL
+
+## PHASES OF AFTERCARE SERVICES
+
+
+## SHELTER 
+
