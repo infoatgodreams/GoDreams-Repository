@@ -57,15 +57,13 @@ Prerana has worked tirelessly to rehabilitate minor girls rescued from the sex t
 - Life Skills 
 - Social Integration 
 
-p. 20
+# SHELTER 
 
-SHELTER 
+- The Policy and Guidelines for the ‘Integrated Programme of Non - Institutional Family - based Services for Child Protection’ (2019) recommends that aftercare services should be provided in a location where the care leaver has spent a significant number of years unless they wish to move to a different location. This helps care leavers stay in touch with a contact at the CCI who could support their transition to society. However, P rerana’s experience shows that this may not always be possible as sometimes, educational institutions, rental flats, or livelihood training and job sites may not be close to the CCI where the child used to reside. Under shelter, two specific needs have bee n identified: safety, and social protection and security. 
 
-The Policy and Guidelines for the ‘Integrated Programme of Non - Institutional Family - based Services for Child Protection’ (2019) recommends that aftercare services should be provided in a location where the care leaver has spent a significant number of years unless they wish to move to a different location. This helps care leavers stay in touch with a contact at the CCI who could support their transition to society. However, P rerana’s experience shows that this may not always be possible as sometimes, educational institutions, rental flats, or livelihood training and job sites may not be close to the CCI where the child used to reside. Under shelter, two specific needs have bee n identified: safety, and social protection and security. 
+- 2.1. Safety 2.1.1. Legal Status There is a lack of explicit and implicit legal provisions on the requirements of validating the legal status of a supervised aftercare facility, like an Aftercare Home (AH). There is no clarity on the registration of aftercare residential facilities run by voluntary organizations or the government under the JJ Act 2015. 
 
-2.1. Safety 2.1.1. Legal Status There is a lack of explicit and implicit legal provisions on the requirements of validating the legal status of a supervised aftercare facility, like an Aftercare Home (AH). There is no clarity on the registration of aftercare residential facilities run by voluntary organizations or the government under the JJ Act 2015. 
-
-p. 21
+- p. 21
 
 Prerana Practices Currently, Prerana does not run a GH on its own per se but is engaged in the Externally - Assisted Group Homes (GH - EA) for girl victims of Commercial Sexual Exploitation and other care leavers above the age of 18. Once four to six girls agree to live together, Prerana assists them with the identification of a residential unit and the registration of the leas e agreement. Sometimes, there are GHs that are being run by older girls with whom Prerana has worked in the past. Girls exiting CCIs might be placed in such GHs with external financial and other assistance provided by Prerana. 
 
