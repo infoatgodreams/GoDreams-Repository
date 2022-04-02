@@ -6,7 +6,7 @@ tags:
 ---
 
 
-## The Need for Aftercare
+# The Need for Aftercare
 
 - Transition of a young person from supervised CCIs to independent living throws challenges as well as opportunities to build resilience
 - Transition period is delicate and requires support and mentoring to make optimum use of resources and to realize their full potential
@@ -27,5 +27,5 @@ tags:
 - respect and uphold the dignity and worth of young persons and ensure rights based approachand non-discriminatory practices
 - environment in an aftercare programme should be safe, nurturing and youth friendly so young people will adapt to independent living
 
-## Aftercare Services 
+# Legal & Policy framework
 
