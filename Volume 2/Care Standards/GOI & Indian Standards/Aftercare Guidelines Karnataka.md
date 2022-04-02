@@ -36,14 +36,8 @@ Link: https://drive.google.com/file/d/1xJA3ORd7CEcYdYrEas_u9CZrTQ-xWDeD/view?usp
 
 ## Guiding Principles for Aftercare
 
-- All aftercare provisions and processes shall keep the best interest of the young person in
-
-mind.
-
-- take into consideration individuality, circumstances, background and gender, age,
-
-disabilities, sexual orientation, academic abilities, educational and vocational skills, talents,mental and other physical health conditions.
-
+- All aftercare provisions and processes shall keep the best interest of the young person in mind.
+- take into consideration individuality, circumstances, background and gender, age, disabilities, sexual orientation, academic abilities, educational and vocational skills, talents,mental and other physical health conditions.
 - All young person&#39;s shall always be consulted and their opinions are taken into consideration and their views should govern Individual Care Planfor their Aftercare.
 - Initiated as early as possible, during the child&#39;s stay in the institution.
 - Adhere to the highest possible standards of care through adequate provisioning of resources including financial/man power and trainings/capacity building for the personnel working with these children
