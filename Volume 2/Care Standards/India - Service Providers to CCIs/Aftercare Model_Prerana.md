@@ -1,3 +1,15 @@
+---
+
+title: Aftercare Model_Prerana
+author: Daya
+
+tags: IntlGovtandUN
+
+---
+Tags: [[Aftercare]]
+Link:
+
+
 ## INTRODUCTION
 
 - Once a child completes 18 years of age, they cease to be a minor and become an adult — whether living with their family or in the protective custody of the State. 
