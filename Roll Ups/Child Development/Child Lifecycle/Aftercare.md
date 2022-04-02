@@ -13,9 +13,9 @@ tags:
 	- Two, the adult, now, possesses a different set of rights and is expected to assume more responsibility and learn to make their decisions more independently. 
 - Transition of a young person from supervised CCIs to independent living throws challenges as well as opportunities to build resilience
 - Transition period is delicate and requires support and mentoring to make optimum use of resources and to realize their full potential
+- Aftercare refers to providing support, financially, or otherwise, to persons, who have completed 18 years of age but not completed 21 years, and have left any institutional care to join mainstream society. 
 
-## Challenges faced by careleavers
-
+## CHALLENGES FACED BY CARELEAVERS
 - According to a multinational comparison of caregivers, the findings suggest that employment is the main challenge for care-leavers, being reported by all but two of the countries surveyed
 - Not far behind, education, housing and poverty were perceived as main challenges in 31 countries. Isolation or loneliness was observed as a challenge in 29 countries and mental health in 27 countries. Delinquency and substance abuse were reported in 22 countries.
 -  Children do not have basic certificates which proves their age, birth place, and caste etc.
@@ -29,21 +29,22 @@ tags:
 - There is a good tracking system for the Care Leavers but is not strongly implemented for aftercare adults mainly above 23 or 25 years of age.
 - The children (who are between the age of 16-18) feel that they should have a personal mobile phone.
 
-## Challenges at an institutional level
+## CHALLENGES AT AN INSTITUTIONAL LEVEL
 - The officials who are aware of the functioning of the CCI and their challenges, often get transferred and replaced by a new officer who has no knowledge on the functioning of the CCIs, to make the decisions
 - According to the Sponsorship programme under ICPS Scheme, if any child is being migrated from one State to another while he/she is getting a scholarship, then the sponsorship is transferred to the concerned CWC belonging to the State to which the child is being transferred. But the implementation is very poor.
 - As there is lack of special needs facilities, it is difficult for them to transfer such children to a facility where there is a provision for special facilities/medical needs.
 - If the child runs away, the CCI rescues it and as per the rules, they send him/her to the concerned CWC in their district, which sends the child back to the home, without considering if the parents are capable to rise the child, or if there is a child- friendly environment in the family.
 
-## Guiding Principles for Aftercare
-
+## GUIDING PRINCIPLES OF AFTERCARE
 - All aftercare provisions and processes shall keep the best interest of the young person in mind.
 - take into consideration individuality, circumstances, background and gender, age, disabilities, sexual orientation, academic abilities, educational and vocational skills, talents,mental and other physical health conditions.
-- All young person&#39;s shall always be consulted and their opinions are taken into consideration and their views should govern Individual Care Planfor their Aftercare.
-- Initiated as early as possible, during the child&#39;s stay in the institution.
+- All young persons shall always be consulted and their opinions are taken into consideration and their views should govern Individual Care Planfor their Aftercare.
+- Initiated as early as possible, during the child's stay in the institution.
 - Adhere to the highest possible standards of care through adequate provisioning of resources including financial/man power and trainings/capacity building for the personnel working with these children
 - respect and uphold the dignity and worth of young persons and ensure rights based approachand non-discriminatory practices
 - environment in an aftercare programme should be safe, nurturing and youth friendly so young people will adapt to independent living
+
+## OBJECTIVES OF AFTERCARE
 
 # Legal & Policy framework
 

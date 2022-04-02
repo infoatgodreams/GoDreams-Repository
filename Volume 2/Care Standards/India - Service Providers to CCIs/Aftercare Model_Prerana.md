@@ -9,35 +9,30 @@ However, for those who have been in a Child Care Institution (CCI), or an author
 
 p. 12
 
-Aftercare refers to providing support, financially, or otherwise, to persons, who have completed 18 years of age but not completed 21 years, and have left any institutional care to join mainstream society. 1 
-
-s per the Juvenile Justice Act 2015 (JJA 2015), a child can receive institutional care and protection only till the time they ar e a ‘child’ as per the law — that is, until they complete 18 years of age. 2 The JJA also describes ‘aftercare,’ 3 as the extension or continuum of care for a child in need of care & protection (CNCP) or a child in conflict with law (CCL) after they complete 18 years of age. 
-
-p. 13
-
-However, the legal provision of aftercare services to individua ls exiting the JJ System is still unclear. There are certain gaps and potentially conflicting interpretations emanating from the Act and the Rules. The JJA 2015 and the Maharashtra Rules 2018 are silent on whether a child who leaves institutional care befo re completing 18 years is entitled to aftercare or not. Strictly speaking, the provision under section 46 of the JJA 2015 6 can also be read to imply that children leaving a CCI before completing 18 years are not to be provided with aftercare. 
-
-p. 14
-
+- Aftercare refers to providing support, financially, or otherwise, to persons, who have completed 18 years of age but not completed 21 years, and have left any institutional care to join mainstream society. 
+- As per the Juvenile Justice Act 2015 (JJA 2015), a child can receive institutional care and protection only till the time they ar e a ‘child’ as per the law — that is, until they complete 18 years of age. 2 The JJA also describes ‘aftercare,’ 3 as the extension or continuum of care for a child in need of care & protection (CNCP) or a child in conflict with law (CCL) after they complete 18 years of age. 
+- However, the legal provision of aftercare services to individua ls exiting the JJ System is still unclear. There are certain gaps and potentially conflicting interpretations emanating from the Act and the Rules. The JJA 2015 and the Maharashtra Rules 2018 are silent on whether a child who leaves institutional care befo re completing 18 years is entitled to aftercare or not. Strictly speaking, the provision under section 46 of the JJA 2015 6 can also be read to imply that children leaving a CCI before completing 18 years are not to be provided with aftercare. 
 - On completion of 18 years of age, an individual leaving care is restored to their parents/guardians, as far as possible. Admission to Aftercare residential facilities is provided only to those youth who are orphans, or do not want to return t o the biological family, or for whom it is not safe to return to the biological family. 
 - However, the non - residential aftercare services for personal, social and vocational guidance should be made available to all the youth exiting the CCIs until they are 2 1 years of age, based on their Individual Care Plan (ICP). 
 - Youth exiting institutions for children with mental or physical disabilities, run under the Department of Social Justice/Welfare, should also be eligible for the “After Care Programme” run under th e Integrated Child Protection Scheme (ICPS) after due verification and certification by the CWC. 
 
+## OBJECTIVES OF AFTERCARE
 - Enable such children's smooth transition from childhood to adulthood by participation in the community life; 
 - Develop qualifications and skills for apprenticeship/jobs/livelihood/entrepreneurship for socio - economic self - reliance;
 - Develop life skills for self - esteem, emotional intelligence, communication skills and relationship skills; and
 - Develop day - to - day living skills, and citizenship rights and responsibilities for the youth such as financial literacy, identity documents, etc.
 - Ensure that the youth leaving care is freed of any stigma attached to their association with the juvenile justice system. 
 
-Mahar ashtra State Rules 2018 According to the Maharashtra Rules, the State Government shall provide education, employable skills, placements, as well as a place to stay as part of the “After Care Programme” for children who leave the CCI on attaining 18 years o f age. Rule 27(7) lists the services provided under the “aftercare programme”: (1) aftercare home (AH); (2) community group housing or group home (GH) on a temporary basis for groups of six to eight persons. Both these services are shelter based — the most urgent and common need of young adults leaving the JJ system. 
 
-Mahar ashtra State Rules 2018 According to the Maharashtra Rules, the State Government shall provide education, employable skills, placements, as well as a place to stay as part of the “After Care Programme” for children who leave the CCI on attaining 18 years o f age. Rule 27(7) lists the services provided under the “aftercare programme”: (1) aftercare home (AH); (2) community group housing or group home (GH) on a temporary basis for groups of six to eight persons. Both these services are shelter based — the most urgent and common need of young adults leaving the JJ system. 
-
-p. 16
-
-Other aftercare support services — as per 27(8) of the JJ Rules of Maharashtra — for children discharged from CCIs on attaining 18 years of age, include: I. provision of stipend during the course of vocational training or scholarships for higher education and support till the person gets employment; II. arrangements for skill training and placement in commercial establishments through coordination with National Skill Development Programme, Indian 6 Institute for Skill Training and other such Central or State Government programmes and corporate, etc.; III. provi sion of a counsellor to stay in regular contact with such persons to discuss their rehabilitation plans; IV. provision of creative outlets for channelizing their energy and to tide over the crisis periods in their lives; V. arrangement of loans and subsidies fo r persons in after - care, aspiring to set up entrepreneurial activities; and VI. encouragement to sustain themselves without State or institutional support 
-
-p. 17
+## LEGAL FRAMEWORK
+- Maharashtra State Rules 2018 According to the Maharashtra Rules, the State Government shall provide education, employable skills, placements, as well as a place to stay as part of the “After Care Programme” for children who leave the CCI on attaining 18 years of age. Rule 27(7) lists the services provided under the “aftercare programme”: (1) aftercare home (AH); (2) community group housing or group home (GH) on a temporary basis for groups of six to eight persons. Both these services are shelter based — the most urgent and common need of young adults leaving the JJ system. 
+- Other aftercare support services — as per 27(8) of the JJ Rules of Maharashtra — for children discharged from CCIs on attaining 18 years of age, include: 
+	- I. provision of stipend during the course of vocational training or scholarships for higher education and support till the person gets employment; 
+	- II. arrangements for skill training and placement in commercial establishments through coordination with National Skill Development Programme, Indian 6 Institute for Skill Training and other such Central or State Government programmes and corporate, etc.; 
+	- III. provi sion of a counsellor to stay in regular contact with such persons to discuss their rehabilitation plans; 
+	- IV. provision of creative outlets for channelizing their energy and to tide over the crisis periods in their lives; 
+	- V. arrangement of loans and subsidies fo r persons in after - care, aspiring to set up entrepreneurial activities; and 
+	- VI. encouragement to sustain themselves without State or institutional support 
 
 Prerana has worked tirelessly to rehabilitate minor girls rescued from the sex trade since 2000. After the initial healing and self - integration, it was seen that the victims of organized crime, including human trafficking and physical and sexual assaults s uffer from a variety of mental illnesses such as anxiety, depression, Post - Traumatic Stress Disorder (PTSD), aggression, self - destructive tendencies, etc. 
 
