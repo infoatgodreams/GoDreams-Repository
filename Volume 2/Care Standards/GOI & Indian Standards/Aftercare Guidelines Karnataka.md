@@ -14,7 +14,7 @@ Link: https://drive.google.com/file/d/1xJA3ORd7CEcYdYrEas_u9CZrTQ-xWDeD/view?usp
 
 # **Brief**
 
-- Scope &amp; Description: Prepared by the Women and Child Development Department, Govt. of Karnataka to ensure smooth transition of all children leaving in child care institutions entering adulthood upon attaining 18 years and to provide a robust and effective mechanism of Aftercare services that leads to their successful mainstreaming in the society as an independent citizen of the state.
+- Scope & Description: Prepared by the Women and Child Development Department, Govt. of Karnataka to ensure smooth transition of all children leaving in child care institutions entering adulthood upon attaining 18 years and to provide a robust and effective mechanism of Aftercare services that leads to their successful mainstreaming in the society as an independent citizen of the state.
 
 - Drafted in accordance with JJ Act 2015, Section 46, JJ Rules 2016
 - Integrated Child Protection Scheme 2014
@@ -316,7 +316,7 @@ g) Date and reason for completion of after care.
 
 ### Duties of institutional or non-institutional childcare service providers
 
-Every institutional or non-institutional childcare service providers shall prepare a list and develop an assessment report of children who turn 17 years of age in accordance with the provisions of Section 39 and Section 40 of the JJ Act, 2015 and shall be prepared in the format as prescribed in Form 14 of the JJ Rules, 2016 to understand the readiness of the child to live independently in one year&#39;s time period and the specific requirements for smooth transition from childcare to aftercare
+Every institutional or non-institutional childcare service providers shall prepare a list and develop an assessment report of children who turn 17 years of age in accordance with the provisions of Section 39 and Section 40 of the JJ Act, 2015 and shall be prepared in the format as prescribed in Form 14 of the JJ Rules, 2016 to understand the readiness of the child to live independently in one year time period and the specific requirements for smooth transition from childcare to aftercare
 
 Prepare the Individual Aftercare Plan (IAP) for every young person depending on the assessment report and get it approved by CWC/JJB
 
