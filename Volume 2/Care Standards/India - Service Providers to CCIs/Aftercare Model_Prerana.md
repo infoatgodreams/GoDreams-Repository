@@ -208,38 +208,33 @@ Prerana undertakes the following activities to assist residents in accessing for
 - Provides financial assistance: Especially to travel (to schools, colleges, etc.) and procure study materials. Sometimes, Prerana may also procure study materials through partners and donors, and sponsor girls interested in completing their edu cation. Admission and tuition fees may also be taken care of through a scholarship. 
 - Facilitates mentorship: Actively mentor residents to keep them motivated and avoid drop - outs. This also includes career counseling to help residents make decisions about their future. 
 - Access to Functional Literacy Programs Access to functional literacy or basic writing, reading and calculation abilities is important for an individual to live efficiently and independently in society. UNESCO defines “functionally literate” as a "person who can engage in all those activities in which literacy is required for effective function of his/her group and community and also for enabling him/her to continue to use reading, writing and calculation for his/her own and community's development." For illiterate/semi - literate victims, function al literacy, coupled with vocational training, is important to manage their daily life. 
+- Skill Development for Employability Self - reliant rehabilitation of residents is not possible without first ensuring their economic self - reliance. Since the residents are largely without any assets, their chances of economic self - reliance depend on sustainable employment. 
+- Access to Vocational Training Skill - based training helps in improving an individual’s employability. According to the All India Council for Technical Education (AICTE), Vocational Education and Training (VET), also called C areer and Technical Education (CTE), prepares learners for jobs that are based on manual or practical activities.  
 
-p. 55
+### Prerana Practices Prerana
+- actively explores marketable skills for residents through consultations. It seeks to design and administer vocational training p rograms for young adults and care leavers that, eventually, help them land good jobs. 
+- The following activities are untaken by Prerana: 
+	- Provides referrals to Community - Based Organizations (CBOs) for functional literacy services: CBOs often run literacy programs in various 45 communities for young adults and women managing households. Prerana collaborates with such CBOs and refers girls from the GH who have not pursued formal education or have had limited exposure to a liter acy program.
+	- Mapping local resources for the resident girls to access such programs: In the past, some of the girls have been interested in pursuing specific courses like verbal English. Prerana assists in locating cost - effective programs for such residents
+	- Maintains a directory of re sources : Prerana puts together a list of vocational training providers along with the nature of the training. 
+	- Visits to vocational training facilities : Prerana accompanies girls to centers to make them aware of the registration process and assist them wit h admissions.
+	- Provides need - based linkages: Connects the residents with service providers, sponsorship programs, etc. to help them pursue and complete their vocational training programs. 
+	- Supports financially: Helps the residents with a travel allowance. Most of the residents are also supported with basic living costs when they first move out of the CCI into a GH and enroll for such training programs. 
+	- Liaisons with corporates: Mobilizes corporates for vocation training programs for care leavers with minimal educational restrictions. Makes referrals and follow - ups with the service provider to assess the progress of the girls, and hopefully, translate training into job placements. 
 
-Skill Development for Employability Self - reliant rehabilitation of residents is not possible without first ensuring their economic self - reliance. Since the residents are largely without any assets, their chances of economic self - reliance depend on sustainable employment. 
+### Job Placement and Preparedness 
+Children who have lived in institutions for a long period — until becoming a ‘care leaver’ at 18 years of age, are often deeply unaware of how their expenses are managed by the institution. They do not have to think about arranging funds for their routine an d non - routine expenses 
 
-5.2.1. Access to Vocational Training Skill - based training helps in improving an individual’s employability. According to the All India Council for Technical Education (AICTE), Vocational Education and Training (VET), also called C areer and Technical Education (CTE), prepares learners for jobs that are based on manual or practical activities.  
+The Sustainable Development Goals also highlight the need for “decent work” for everyone. 
 
-Prerana Practices Prerana actively explores marketable skills for residents through consultations. It seeks to design and administer vocational training p rograms for young adults and care leavers that, eventually, help them land good jobs. 
+### Prerana Practices
+Core competence or job skill in a relevant trade is an essential condition but it is not sufficient to get a sustainable job. Other skills such as participating in group discussions, interviewing, essay writing, performance in personality - tests, aptitude tests, etiquettes, and manners are very important to land a job. 
 
-The following activities are untaken by Prerana: ● Provides referrals to Community - Based Organizations (CBOs) for functional literacy services: CBOs often run literacy programs in various 45 communities for young adults and women managing households. Prerana collaborates with such CBOs and refers girls from the GH who have not pursued formal education or have had limited exposure to a liter acy program. ● Mapping local resources for the resident girls to access such programs: In the past, some of the girls have been interested in pursuing specific courses like verbal English. Prerana assists in locating cost - effective programs for such resident s. 
+- Prerana conducts a one - on - one discussion with the residents about these essential skills, and also partners with corporates and other agencies to professionally train the girls. 
 
-p. 56
-
-● Maintains a directory of re sources : Prerana puts together a list of vocational training providers along with the nature of the training. ● Visits to vocational training facilities : Prerana accompanies girls to centers to make them aware of the registration process and assist them wit h admissions. 46 ● Provides need - based linkages: Connects the residents with service providers, sponsorship programs, etc. to help them pursue and complete their vocational training programs. ● Supports financially: Helps the residents with a travel allowance. Most of the residents are also supported with basic living costs when they first move out of the CCI into a GH and enroll for such training programs. ● Liaisons with corporates: Mobilizes corporates for vocation training programs for care leavers with minimal educational restrictions. Makes referrals and follow - ups with the service provider to assess the progress of the girls, and hopefully, translate training into job placements. 
-
-p. 57
-
-5.3. Job Placement and Preparedness Children who have lived in institutions for a long period — until becoming a ‘care leaver’ at 18 years of age, are often deeply unaware of how their expenses are managed by the institution. They do not have to think about arranging funds for their routine an d non - routine expenses 
-
-The Sustainable Development Goals also highlight the need for 
-
-“decent work” for everyone. 
-
-Prerana Practices Core competence or job skill in a relevant trade is an essential condition but it is not sufficient to get a sustainable job. Other skills such as participating in group discussions, interviewing, essay writing, performance in personality - tests, aptitude t ests, etiquettes, and manners are very important to land a job. 
-
-rerana conducts a one - on - one discussion with the residents about these essential skills, and also partners with corporates and other agencies to professionally train the girls. 
-
-5.4. Life Skills 5.4.1. Access to Life Skills According to UNICEF, life skills are the “psychosocial abilities for adaptive and positive behavior that enable individuals to deal effectively w ith the demands and challenges of everyday life.” 
-
-p. 58
-
-Using the internet responsibly, operating smartphones, taking care of oneself, building relationships responsibly, at work and beyond, etc. are essential to lead a self - reliant life. Apart from that, life skills include making decisions, cultivating empathy, understanding issues of discrimination, peer pressure, self - image, self - esteem, etc. 
+## Life Skills
+- Access to Life Skills According to UNICEF, life skills are the “psychosocial abilities for adaptive and positive behavior that enable individuals to deal effectively w ith the demands and challenges of everyday life.” 
+- Using the internet responsibly, operating smartphones, taking care of oneself, building relationships responsibly, at work and beyond, etc. are essential to lead a self - reliant life. Apart from that, life skills include making decisions, cultivating empathy, understanding issues of discrimination, peer pressure, self - image, self - esteem, etc. 
 
 Prerana Practices Prerana imparts life skill training through individual and group sessions. These include sessions on understanding relationships, self & social acceptance, problem - solving skills, sex education, essentials of small - group living, self - regulation, peer pressure, consent culture, evolving code of conduct, training on security and pr otection, learning division of work and responsibilities and more recently, cyber safety. 
 
