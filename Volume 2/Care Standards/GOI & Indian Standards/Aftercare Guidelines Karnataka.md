@@ -201,17 +201,13 @@ families, after some time realizes that they are in need of Aftercare support du
 2. the roles and responsibilities and division of work in the facility.
 3. the facilities available at aftercare home.
 4. the residential and visiting staff at aftercare home.
-5. the legalities of facility. [every resident will have to give her photo
-
-identity to the police station in case the after-care programme is being run from rented
-
-premises, etc.].
+5. the legalities of facility. (every resident will have to give her photo)
+6. identity to the police station in case the after-care programme is being run from rented premises, etc.].
 
 1. the role of the Social Worker.
 2. the community resources around the aftercare home and preparing police station, hospital, banks,grocery store, mental health services, etc
 3. activities that the young person is required to participate, while residing in the aftercare home.
 4. Explaining in detail the IAP that was prepared prior to the young person leaving the childcare setting.
-
 - Financial assistance shall be provided as per ICPS norms applicable and shall include comprehensive support on all components of aftercare programme
 - The Aftercare organisation can raise additional resources for the Young Person depending on the assessment and exceptional needs of the young person
 - The funds for managing the aftercare program are to be provided by the KSICPS for all 30 districts in the state of Karnataka
