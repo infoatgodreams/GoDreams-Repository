@@ -130,6 +130,51 @@ Once supervision is significantly reduced and girls get relatively greater freed
 
 Prerana Practices Prerana prepares a contact list of important local medical professionals and hospitals close to the GH - EA. 
 
+# HEALTH
+
+- Under health, four needs have been identified: nutrition, hygiene, physical, and mental health. 3.1. Nutrition Nutrition is a primary requirement for the development of an individual. Several factors impact the nutritional requirements of an individual. One, the stage of growth. During childhood and adolescence, children require a diet that is different from what t hey require when they step into adulthood. Two, the nature of work an individual undertakes. For instance, those engaged in physical activity or sports need specific diets. The required nutrition also varies based on other conditions like pregnancy, PCOD, obesity, certain physical and mental disorders, identified malnourishment. The quantity, quality as well as the frequency and gaps in between the meals may also vary depending on these conditions. 
+
+p. 38
+
+3.1.1. Regular Diet A resident must be able to eat a nutritious diet. In an AH, the managing organization takes the responsibility of providing meals and monitors the health of its residents. 
+
+Prerana undertakes the following activities to help the residents meet their dietary requirements. ● Facilitates collective decision - making regarding the food menu: The idea is to help the residents plan and review their menu as well as the roles and responsibilitie s in the kitchen regularly. This also includes facilitating discussions around the storage of cooked food. Since most of the residents are working or studying, they may not have the time to cook all three meals. Hence, sometimes meals are prepared in advan ce, stored, and warmed from time to time to prevent them from getting spoilt. ● Educates residents on safety measures in the kitchen: The social workers discuss and sometimes demonstrate precautions to be taken, especially while using kitchen equipment such as knives, cooking stoves, and gas. ● Facilitating dis cussions on budgeting and healthy eating practices: The residents must figure out what proportion of their income should be spent on food. Initially, Prerana helps the residents budget thei r household expenses. If residents are still looking for jobs or have recently moved out of a CCI, Prerana also provides financial assistance. 
+
+p. 39
+
+3.1.2. Special Nutrition Special nutrition is the distinct and/or additional nutrition needed for an individual to address their specific deficiencies or health conditions. It is designed based on professional consultations. In an AH, the nutrition needs of an individual are taken care of by the management, but in a GH - EA , this is guided by a range of factors, inclu ding the residents’ awareness of their dietary requirements, access to a professional, and the financial capacity of the members. Prerana Practices Prerana helps the residents build an understanding of why they require special nutrition and how they can procure the same. Prerana also pays for special nutrition until a resident has a job or can pay for themselves. This is done through individual discussions and group consultations with the residents — often by sharing information using audio - visual material. 
+
+p. 40
+
+3.2. Hygiene 3.2.1. External to the Premises The victims of CSEC brought before the JJ system, by and large belong to the lower socio - economic strata of society 
+
+he GH - EAs are not always in a well - provided neighborhood, let alone a luxurious or p lush locality. The hygiene of the neighborhood may be sub - optimum and has to be carefully chosen and maintained. To ensure hygiene in the GH - EA, the external surroundings must be clean and free from stagnant water, toxic waste, solid waste, dump yards, and any other sources of contamination of water and air. Waste - water disposal systems must be in place. While the AHs have their own in - built mechanisms of sanitation, GH and GH - EAs need to be in areas that are hygienic, free from contamination, and have prop er systems of waste disposal and sanitation. 
+
+Prerana Practices Prerana prioritizes sanitation as an essential criterion while selecting the accommodation for the GH - EA. Sanitation infrastructure must comply with the minimum standards. During the initial phase of searching and shortlisting a residence, Prerana ensures that the premises are located away from dumping grounds, are equipped with sanitation facilities, and have access to a waste - water disposal system. In certain cases, Preran a also engages older resident girls in the process of selecting a residence based on such parameters to train and equip them in making these important decisions. 
+
+In urban, low - income settlements like the suburbs of Mumbai city, toilets and bathrooms might not be attached to the home. While selecting a residential unit for the GH - EA, maximum efforts are made to ensure that the residential unit is equipped with the basic facilities. 
+
+p. 41
+
+n certain communities or societies in urban cities, the water supply continues to be scarce and is restricted for certain hours in a day. Thus, the residents need to equip themselves 31 in planning the utiliza tion of the water for drinking, cooking, washing, etc. Prerana also assists the residents in this transition 
+
+p. 42
+
+Prerana Practices Prerana undertakes the following activities to help residents: ● Procures hygiene and sanitation materials: Prerana assists and guides residents in procuring items for collective (trash bins, garbage bags, menstrual supplies, sanitation material, water storage containers) and personal hygiene (bathing soap, towels, sanitary napkins, etc). ● Facilitates workshops: This includes sensitization and training workshops on hygiene, reproductive health, and safe sex practices. Prerana also helps residents in building personal hygiene habits for themselves and others around them. 
+
+3.3. Physical Health Care 3.3.1. First Aid Every kind of injury or onslaught of ill health does not necessarily need professional medical intervention. Many of them such as cuts, minor injuries, etc. can be adequately addressed by immediate non - professional interventions — especially in emergencies. 
+
+A First Aid Kit has basic medical supplies for small cuts and wounds like cotton, disinfectants, adhesives, anti - bacterial, germicidal, anti - diarrheal, oral rehydration therapy sachets, etc. A First Aid Kit is available on the premises in case of an AH but in a GH or GH - EA, the residents must put together a kit, and regula rly check the supplies for expiry dates. 
+
+p. 43
+
+3.3.2. Access to certified medica l systems Certified medical systems are needed for the diagnosis and treatment of illnesses, including super - specialized services. Certified systems can be defined as qualified services authorized and recognized by the State. An AH, being a supervised and officially - managed formal residential arrangement, has to create access to certified medical services and a hospital. In GH - EA, on the other hand, the residents are required to be trained on accessing certified medical services — including information about their availability, how to contact them, clarity about payments, how to take and keep appointments, and other tasks. Every resident must be trained in these tasks as anyone might need these services and they should be able to mobilize it. The residents mus t also know about and use of health insurance services. 
+
+Prerana Practices Prerana prepares a contact list of important local medical professionals and hospitals close to the GH - EA. 
+
+Prerana Practices In a GH - EA, Prerana helps residents to buy and put together the items needed for a First Aid kit. Prerana trains the residents about medicines to be used for specific ailments, educates them to c heck the expiration dates of medicines, and replace them. Residents are also informed of the emergency first - 33 aid methods until they can access a professional health service. The social worker during her regular visits to the GH ensures that she checks the First - Aid box with the girls. The importance of updating a First Aid Kit is also discussed during monthly meetings as the girls often forget to replenish used medicines or check expiry dates. 
+
+
 ## Mental Health
 - Access to Mental Health Services Unlike physical health, mental health is lesser - known to most. Information must be given to residents on what mental health means, how to access mental health services, and ways to tackle mental health stigma and discrimination. 
 - Prerana Practices Prerana empanels mental health service p rofessionals, like psychiatrists, therapists and counselors for the residents to be accessed when needed. Stress management sessions are facilitated with the residents by a 35 counselor from Prerana. 
