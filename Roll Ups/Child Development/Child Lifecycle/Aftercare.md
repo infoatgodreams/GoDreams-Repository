@@ -212,6 +212,12 @@ Aftercare shall essentially comprise of the following four phases:
 - Placement in Aftercare: Actual care and support during Aftercare (18+ onwards till mainstreamed)
 - Mainstreaming, Exit and follow up post aftercare
 
+## Criteria for selection of organizations providing aftercare support
+
+- registered under JJ ACT, recognized by CWC/JJB as fit person institution
+- Five years experience of management of child care institution
+- minimum 3 years experience of providing vocation training, and running placement of children in jobs and apprenticeship.
+- should also have adequate resources for counseling and mentorship for the young adults.
 
 ## SHELTER 
 ### Accomodation/ Housing
