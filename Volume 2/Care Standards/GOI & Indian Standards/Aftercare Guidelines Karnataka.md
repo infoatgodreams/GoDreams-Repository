@@ -123,10 +123,10 @@ Aftercare shall essentially comprise of the following four phases:
 
 - Spoken and written English classes to be encouraged for all young persons and to be taught by a trained teacher on a regular basis
 - Assisted to pursue National Institute of open school programme or non collegiate, any continued education or distance learning courses. Can avail scholarships under Children&#39;s Fund
-- All young person&#39;s must regularly get exposed to various art forms within the aftercare facilities such as music, dance, painting
+- All young persons must regularly get exposed to various art forms within the aftercare facilities such as music, dance, painting
 - Computer education should be provided to all young people so that they get an opportunity to enrich themselves with the technical knowledge
 - May be facilitated to join a suitable vocation or enroll in the certified skill development courses offered by the professional agencies and technical institutes
-- Efforts to provide skill development to young person&#39;s should be done through linkages with Jan Shikshan Sansthan and workshops should be organised
+- Efforts to provide skill development to young persons should be done through linkages with Jan Shikshan Sansthan and workshops should be organised
 
 ### Health, medical care and mental health
 

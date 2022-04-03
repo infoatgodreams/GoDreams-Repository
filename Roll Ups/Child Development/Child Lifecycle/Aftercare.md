@@ -418,6 +418,12 @@ Prerana undertakes the following activities to assist residents in accessing for
 - Access to Functional Literacy Programs Access to functional literacy or basic writing, reading and calculation abilities is important for an individual to live efficiently and independently in society. UNESCO defines “functionally literate” as a "person who can engage in all those activities in which literacy is required for effective function of his/her group and community and also for enabling him/her to continue to use reading, writing and calculation for his/her own and community's development." For illiterate/semi - literate victims, function al literacy, coupled with vocational training, is important to manage their daily life. 
 - Skill Development for Employability Self - reliant rehabilitation of residents is not possible without first ensuring their economic self - reliance. Since the residents are largely without any assets, their chances of economic self - reliance depend on sustainable employment. 
 - Access to Vocational Training Skill - based training helps in improving an individual’s employability. According to the All India Council for Technical Education (AICTE), Vocational Education and Training (VET), also called C areer and Technical Education (CTE), prepares learners for jobs that are based on manual or practical activities.  
+- - Spoken and written English classes to be encouraged for all young persons and to be taught by a trained teacher on a regular basis
+- Assisted to pursue National Institute of open school programme or non collegiate, any continued education or distance learning courses. Can avail scholarships under Children&#39;s Fund
+- All young persons must regularly get exposed to various art forms within the aftercare facilities such as music, dance, painting
+- Computer education should be provided to all young people so that they get an opportunity to enrich themselves with the technical knowledge
+- May be facilitated to join a suitable vocation or enroll in the certified skill development courses offered by the professional agencies and technical institutes
+- Efforts to provide skill development to young persons should be done through linkages with Jan Shikshan Sansthan and workshops should be organised
 
 ### Prerana Practices Prerana
 - actively explores marketable skills for residents through consultations. It seeks to design and administer vocational training p rograms for young adults and care leavers that, eventually, help them land good jobs. 
