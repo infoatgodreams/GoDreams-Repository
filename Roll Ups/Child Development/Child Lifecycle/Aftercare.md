@@ -14,6 +14,11 @@ tags:
 - Transition of a young person from supervised CCIs to independent living throws challenges as well as opportunities to build resilience
 - Transition period is delicate and requires support and mentoring to make optimum use of resources and to realize their full potential
 - Aftercare refers to providing support, financially, or otherwise, to persons, who have completed 18 years of age but not completed 21 years, and have left any institutional care to join mainstream society. 
+-  Despite the many difficulties care-leavers face, they have access to relatively few services and even fewer legal entitlements, which in some cases are not even actualized in practice.
+- They are left to survive on their own at age 18 or younger, even when legislation makes provisions for them to stay in care longer
+- In fact, the availability of appropriate services has a dramatic impact on whether young people thrive or falter, such that &quot;the social ecology that surrounds vulnerable youth is as important as the particular characteristics of the young person in terms of creating potential for change
+- A significant and renewed debate – or rather, a social movement – is required that champions the universal rights of care-leavers after they have turned 18 and that strongly supports them in the transition to adulthood
+- Formation of an international association of care-leavers that campaigns at a global level for reforms to promote optimal outcomes for youth from care everywhere can help promote the rights of careleavers
 
 ## CHALLENGES FACED BY CARELEAVERS
 - According to a multinational comparison of caregivers, the findings suggest that employment is the main challenge for care-leavers, being reported by all but two of the countries surveyed
