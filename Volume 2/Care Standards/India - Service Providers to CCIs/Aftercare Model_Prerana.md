@@ -252,11 +252,22 @@ Prerana works to establish recreation as a need - based right for children and y
 - Establishes constructive recreation as a right of the residents: During the initial discussions, the social workers ensure that an activity of leisure or recreation is included in the residents’ daily schedule. The counselors also engage with the resident girls regularly on the importance of self - care.
 - Ensures the participation of and consultation with the residents to identify the scope of interventions for recreation: The social workers and counselors actively engage in shari ng healthy tips on recreation with the residents during their individual and group meetings. 
 
-p. 60
+### Access to Independent Living Skills
+- Independence is not to be understood as leading an unbridled or asocial life. Instead, independent living skills focus on self - regulation and taking responsibility for one's actions. 
 
-5.4.3. Access to Independent Living Skills Independence is not to be understood as leading an unbridled or asocial life. Instead, independent living skills focus on self - regulation and taking responsibility for one's actions. 
-
-Prerana Practices As an integral part of its on - going casework, Prerana conducts regular sessions on small group living. It provides handholding support to the residents, especially during their first year of transition from CCIs to GH - EA. Prerana undertakes the following activities: ● Helps to open, access, and operate email accounts ● Assists in preparing and updating CV or resumes ● Guides in budgeting and living within one's means ● Orients the residents on how to interact at the police station and educates them on their rights. ● Helps residents to travel independently using publ ic transport ● Assists them in learning to cook for a small group, and understanding the importance of a balanced diet ● Helps residents interact with their immediate social environment, including the neighborhood committees. ● Teaches residents about the basics of banking, including opening a bank account, updating passbooks, etc. ● Trains the residents on handling Gazettes ● Helps them access helplines and other support services 
+### Prerana Practices 
+- As an integral part of its on - going casework, Prerana conducts regular sessions on small group living. It provides handholding support to the residents, especially during their first year of transition from CCIs to GH - EA. 
+- Prerana undertakes the following activities:
+	-  Helps to open, access, and operate email accounts 
+	- Assists in preparing and updating CV or resumes 
+	- Guides in budgeting and living within one's means 
+	- Orients the residents on how to interact at the police station and educates them on their rights. 
+	- Helps residents to travel independently using publ ic transport 
+	- Assists them in learning to cook for a small group, and understanding the importance of a balanced diet 
+	- Helps residents interact with their immediate social environment, including the neighborhood committees. 
+	- Teaches residents about the basics of banking, including opening a bank account, updating passbooks, etc. 
+	- Trains the residents on handling Gazettes 
+	- Helps them access helplines and other support services 
 
 ● Organizes recreational activities: Involves professional recreation leaders and facilitates the participation of residents in external recreation programs. ● Establishes constructive recreation as a right of the residents: During the initial discussions, the social workers ensure that an activity of leisure or recreation is included in the residents’ daily schedule. The counselors also engage with the resident girls regularly on the importance of self - care. 50 ● Ensures the participation of and consultation with the residents to identify the scope of interventions for recreation: The social workers and counselors actively engage in shari ng healthy tips on recreation with the residents during their individual and group meetings. 
 
