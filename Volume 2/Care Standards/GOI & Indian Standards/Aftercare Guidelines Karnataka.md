@@ -308,24 +308,19 @@ g) Date and reason for completion of after care.
 ### Duties of institutional or non-institutional childcare service providers
 
 - Every institutional or non-institutional childcare service providers shall prepare a list and develop an assessment report of children who turn 17 years of age in accordance with the provisions of Section 39 and Section 40 of the JJ Act, 2015 and shall be prepared in the format as prescribed in Form 14 of the JJ Rules, 2016 to understand the readiness of the child to live independently in one year time period and the specific requirements for smooth transition from childcare to aftercare
-
-Prepare the Individual Aftercare Plan (IAP) for every young person depending on the assessment report and get it approved by CWC/JJB
-
-Submit the approved list along with the IAPs for all children turning 18 years to the DCPU well in advance but not later than three months ahead of the child turning 18 years of age.
-
-p.19
-
-Every childcare institution must prepare and implement a post-release follow-up plan for the young person and shall conduct regular follow-up programs and maintain regular contact for all released children to ensure they do not get back to a difficult situation
-
-Make an order in prescribed format given in Form 37 under JJ Rules, 2016. A copy of this order shall be sent to the DCPO, which shall facilitate the actual placement, release of funds and monitoring the well-being of the Young Person. • Examine and approve all documents submitted to it for its effectiveness by talking to the young person and take into consideration his/her opinion before finalizing the IAP
-
-The State Government should select the DCPU as the competent authority to recognize any registered Non-Governmental Organisation as fit facility aftercare organisation through CWC &amp; JJB as case may be. • DCPO would ensure that every transition from Childcare to Aftercare is smooth • DCPO would maintain the following documentation
-
-Date of placement in aftercare ii. Gender iii. Age at time of placement iv. Parental status v. Date of completion of after care
-
-p.20
-
-The placement order of the CWC/JJB iii. Number of visits to the child and organisation, Young Person&#39;s educational level, vocational level and significant details of each visit. iv. Observations made at the time of each review of the placement in terms of extent and quality of compliance with care plans. v. Date of review of IAPs vi. Status on completion of after care.
+- Prepare the Individual Aftercare Plan (IAP) for every young person depending on the assessment report and get it approved by CWC/JJB
+- Submit the approved list along with the IAPs for all children turning 18 years to the DCPU well in advance but not later than three months ahead of the child turning 18 years of age.
+- Every childcare institution must prepare and implement a post-release follow-up plan for the young person and shall conduct regular follow-up programs and maintain regular contact for all released children to ensure they do not get back to a difficult situation
+- Make an order in prescribed format given in Form 37 under JJ Rules, 2016. A copy of this order shall be sent to the DCPO, which shall facilitate the actual placement, release of funds and monitoring the well-being of the Young Person. • Examine and approve all documents submitted to it for its effectiveness by talking to the young person and take into consideration his/her opinion before finalizing the IAP
+- The State Government should select the DCPU as the competent authority to recognize any registered Non-Governmental Organisation as fit facility aftercare organisation through CWC; JJB as case may be. 
+	- DCPO would ensure that every transition from Childcare to Aftercare is smooth
+	- DCPO would maintain the following documentation
+	- Date of placement in aftercare 
+	- ii. Gender 
+	- iii. Age at time of placement 
+	- iv. Parental status 
+	- v. Date of completion of after care
+- The placement order of the CWC/JJB iii. Number of visits to the child and organisation, Young Persons educational level, vocational level and significant details of each visit. iv. Observations made at the time of each review of the placement in terms of extent and quality of compliance with care plans. v. Date of review of IAPs vi. Status on completion of after care.
 
 Ensure that the assessment reports and IAPs have been reviewed and approval of funds have been taken by the DCPO before it makes the release/discharge order. • Ensure that the DCPO has sought proper funds and approvals before it issues the release/discharge orders. All such orders to be made as per form 44 of the JJ Rules
 
