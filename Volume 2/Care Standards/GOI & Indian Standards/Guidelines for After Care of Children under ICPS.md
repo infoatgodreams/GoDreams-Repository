@@ -16,7 +16,7 @@ DURATION OF AFTERCARE: After care services may be available to young adults upto
 
 FINANCIAL NORMS : Financial assistance per month per young adult will be provided as per ICPS norms applicable at that time for meeting the basic needs including food, clothing, health care and shelter; age appropriate and need based education and vocationa l training; stipend; and any other requirements. 
 
-IDENTIFICATION AND S ELECTION OF AFTER CARE ORGANISATIONS : 
+## IDENTIFICATION AND SELECTION OF AFTER CARE ORGANISATIONS : 
 - The DCPU shall form a committee comprising of the DCPO ( Chairman), PO - IC and PO - NIC, and  a  member  of  the  CWC,  which  will  identify  suitable  Government  and  voluntary organisations to run the different models After Care programme. 
 - Criteria for selection of After Care Organisations:
 	- The Organization should be registered under the JJ Act.
@@ -30,7 +30,7 @@ PREPARATION OF YOUNG ADULT BY CCIs:
 - Young adults leaving institutional care should be encouraged to take part in the planning of their own after care. 
 - An aptitude test /career guidance should be done by the counselor of DCPU with the help of a technical ly qualified person/agency before placing the young adult into appropriate after care programmes. 
 
-PROCESS FLOW OF AFTERCARE DELIVERY:
+## PROCESS FLOW OF AFTERCARE DELIVERY:
 - The case history of the child will be prepared by the social worker/case worker in the CCI
 -  Scrutiny of Documents by DCPU: Protection Officer (Non Institutional Care ) /Probation Officer will scrutinise the documents for eligibility of children , recommended by the CCI. 
 - The list of children would then be finalised and sent to the DCPO for approval. 
@@ -64,7 +64,7 @@ In the circumstances enumerated hereunder, the After Care organisation shall pro
 -  In case girl/boy gets married 
 - If the young adult is absent for more than 15 days without information 
 
-SERVICES TO BE PROVID ED BY THE AFTER CARE ORGANISATION 
+## SERVICES TO BE PROVID ED BY THE AFTER CARE ORGANISATION 
 - Housing facility, for a maximum period of 3 years as per selected model
 - Professional emotional and psychological counselling on a weekly basis. 
 - Health care through tie ups with nearby medical centres/doctors 
@@ -79,7 +79,7 @@ SERVICES TO BE PROVID ED BY THE AFTER CARE ORGANISATION
 	- Computers, recreational material and other facilities at the place of stay. 
 	- Specialized counseling services in polyclinics may be provided to those children who have disciplinary issues, problems of substance abuse, frequent absenteeism etc. so that they can be mainstreamed into society. 
 
-MODELS FOR AFTER CARE : 
+## MODELS FOR AFTER CARE : 
 i) Option I : Living Arrangements : Children will stay in groups of 4 to 8 in an accommodation taken on rent in a suitable, safe residential locality. Here, children will be encouraged to live together as a family unit and learn to share responsibilities of running their own kitchen and home. The Organisation will assist in providing the rent and deposit for the accommodation. 
 
 i) Option II: If the first option is not feasible in the District/State as the number of children is too low or if there is no suitable NGO available, then the DCPU could identify an existing children’s Home which is run by the Government / NGO , where a portion will be earmarked for After Care. 
