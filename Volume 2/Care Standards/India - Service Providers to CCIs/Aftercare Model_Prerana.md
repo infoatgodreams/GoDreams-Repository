@@ -204,19 +204,12 @@ Access to Formal Education Programs Conventionally, formal education is consider
 
 Prerana Practices Prerana gives importance to education and encourages children to pursue formal education depending on their interest and capacity to continue the same. 
 
-42 DEVELOPMENT 5.1 
-
-42 DEVELOPMENT 5.1 
-
-p. 53
-
-rerana undertakes the following activities to assist residents in accessing formal education: ● Develops a directory of resources: Puts together a resource directory of schools, colleges, and distance learning universities to help residents choose options based on their interests.  ● Liaisons with educational institutions : Follow - up with educational institutes on admissions, queries, or challenges that the residents may be facing. ● Provides financial assistance: Especially to travel (to schools, colleges, etc.) and procure study materials. Sometimes, Prerana may also procure study materials through partners and donors, and sponsor girls interested in completing their edu cation. Admission and tuition fees may also be taken care of through a scholarship. 
-
-p. 54
-
-● Facilitates mentorship: Actively mentor residents to keep them motivated and avoid drop - outs. This also includes career counseling to help residents make decisions about their future. 
-
-5.1.2. Access to Functional Literacy Programs Access to functional literacy or basic writing, reading and calculation abilities is important for an individual to live efficiently and independently in society. UNESCO defines “functionally literate” as a "person who can engage in all those activities in which literacy is required for effective function of his/her group and community and also for enabling him/her to continue to use reading, writing and calculation for his/her own and community's development." For illiterate/semi - literate victims, function al literacy, coupled with vocational training, is important to manage their daily life. 
+Prerana undertakes the following activities to assist residents in accessing formal education:
+- Develops a directory of resources: Puts together a resource directory of schools, colleges, and distance learning universities to help residents choose options based on their interests. 
+- Liaisons with educational institutions : Follow - up with educational institutes on admissions, queries, or challenges that the residents may be facing. 
+- Provides financial assistance: Especially to travel (to schools, colleges, etc.) and procure study materials. Sometimes, Prerana may also procure study materials through partners and donors, and sponsor girls interested in completing their edu cation. Admission and tuition fees may also be taken care of through a scholarship. 
+- Facilitates mentorship: Actively mentor residents to keep them motivated and avoid drop - outs. This also includes career counseling to help residents make decisions about their future. 
+- Access to Functional Literacy Programs Access to functional literacy or basic writing, reading and calculation abilities is important for an individual to live efficiently and independently in society. UNESCO defines “functionally literate” as a "person who can engage in all those activities in which literacy is required for effective function of his/her group and community and also for enabling him/her to continue to use reading, writing and calculation for his/her own and community's development." For illiterate/semi - literate victims, function al literacy, coupled with vocational training, is important to manage their daily life. 
 
 p. 55
 
