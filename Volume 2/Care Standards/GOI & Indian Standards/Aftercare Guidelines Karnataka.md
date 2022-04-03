@@ -321,32 +321,26 @@ g) Date and reason for completion of after care.
 	- iv. Parental status 
 	- v. Date of completion of after care
 - The placement order of the CWC/JJB iii. Number of visits to the child and organisation, Young Persons educational level, vocational level and significant details of each visit. iv. Observations made at the time of each review of the placement in terms of extent and quality of compliance with care plans. v. Date of review of IAPs vi. Status on completion of after care.
-
-Ensure that the assessment reports and IAPs have been reviewed and approval of funds have been taken by the DCPO before it makes the release/discharge order. • Ensure that the DCPO has sought proper funds and approvals before it issues the release/discharge orders. All such orders to be made as per form 44 of the JJ Rules
-
-Allow the young adult to extend stay in Alternative Care settings if funds and arrangements for aftercare are not ready and effective • Organize quarterly workshops on legal literacy, life skills, latest technology, job fairs and placement opportunities and bring all Young Persons together to expose them to such issues.
-
-review IAPs with the young adults and document same for submission to the DCPO.
-
-Civil society participation, social worker which can regularly assess the progress the young adults and also bring Young Persons closer to the neighbuorhood and facilitate community re-integration
-
-Prepare a consolidated annual report which will be placed before the District Child Protection Committee (DCPC)
-
-The DCPO shall co-ordinate with CCI/foster career or fit facility and the ACO for placement of the Young Adult at the earliest and not later than within 15 days of the release/discharge order.
-
-p.21
-
-DCPO shall ensure that the approved funds are transferred directly to the bank account of the young persons in a timely manner and without any delay to avoid any inconvenience
-
-Implement IAP of every young adult in close consultation with them. • Organize quarterly workshops on legal literacy, life skills, latest technology, job fairs and placement opportunities and bring all young adults together to expose them to such issues. • Form a monitoring committee comprising of volunteers, RWA/community representatives, social worker which can regularly assess the progress of the young adults
-
-Submit a statement of accounts and narrative report related to the young adult to the DCPO every three months and an annual audited statement. They will also send a quarterly progress report for each child with the following information
-
-Inform the DCPU if they have established any linkages with the corporate sector, NGOs and any civil society organisations for placements of the young adults. • Training of staff: Regular staff training and their assessment should be made mandatory. • Mindfulness and other programs for the mental health of staff should be introduced in order to help them develop a positive environment within the aftercare home • Network with like-minded NGOs, Govt. institutions like CWC, JJB, SJPU, DWCD, community organizations and other stakeholders to extend all possible support to young persons.
-
-Implement and monitor the Aftercare programme in their districts • Review and approve cases on aftercare for the financial support that is referred to them • Document details of the financial expenses incurred on young persons in their district on annual basis
-
-p.24
+- Ensure that the assessment reports and IAPs have been reviewed and approval of funds have been taken by the DCPO before it makes the release/discharge order. 
+- Ensure that the DCPO has sought proper funds and approvals before it issues the release/discharge orders. All such orders to be made as per form 44 of the JJ Rules
+- Allow the young adult to extend stay in Alternative Care settings if funds and arrangements for aftercare are not ready and effective 
+- Organize quarterly workshops on legal literacy, life skills, latest technology, job fairs and placement opportunities and bring all Young Persons together to expose them to such issues.
+- review IAPs with the young adults and document same for submission to the DCPO.
+- Civil society participation, social worker which can regularly assess the progress the young adults and also bring Young Persons closer to the neighbuorhood and facilitate community re-integration
+- Prepare a consolidated annual report which will be placed before the District Child Protection Committee (DCPC)
+- The DCPO shall co-ordinate with CCI/foster career or fit facility and the ACO for placement of the Young Adult at the earliest and not later than within 15 days of the release/discharge order.
+- DCPO shall ensure that the approved funds are transferred directly to the bank account of the young persons in a timely manner and without any delay to avoid any inconvenience
+- Implement IAP of every young adult in close consultation with them. 
+- Organize quarterly workshops on legal literacy, life skills, latest technology, job fairs and placement opportunities and bring all young adults together to expose them to such issues.
+- Form a monitoring committee comprising of volunteers, RWA/community representatives, social worker which can regularly assess the progress of the young adults
+- Submit a statement of accounts and narrative report related to the young adult to the DCPO every three months and an annual audited statement. They will also send a quarterly progress report for each child with the following information
+- Inform the DCPU if they have established any linkages with the corporate sector, NGOs and any civil society organisations for placements of the young adults. 
+- Training of staff: Regular staff training and their assessment should be made mandatory. 
+- Mindfulness and other programs for the mental health of staff should be introduced in order to help them develop a positive environment within the aftercare home 
+- Network with like-minded NGOs, Govt. institutions like CWC, JJB, SJPU, DWCD, community organizations and other stakeholders to extend all possible support to young persons.
+- Implement and monitor the Aftercare programme in their districts 
+- Review and approve cases on aftercare for the financial support that is referred to them
+- Document details of the financial expenses incurred on young persons in their district on annual basis
 
 Independent Living (b) Group aftercare homes, and (c) Aftercare Hostels.
 
