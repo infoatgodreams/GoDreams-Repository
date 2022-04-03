@@ -374,11 +374,18 @@ g) Date and reason for completion of after care.
 	- (p) To network with other organisations and mobilize resources to help the young person for their life post-exit from the After-Care programme. 
 	- (q) Encourage the young person to maintain contact with family / parents / guardian.
 
-(a) To mentally and emotionally prepare the young person who is found ready to move to an independent life. (b) Support the young person through new difficult experiences. (c) Model healthy and productive lifestyle choices, appropriate behaviour and positive habits. (d) During the weekly visits to the Group Home, the Counselor shall hold group and individual sessions with the young person, and any relevant therapeutic sessions depending on the need. (e) Offer information regarding the young person choices so that he / she can make informed decisions. (f) Explore the young person&#39;s strengths and assist him / her to develop these further. (g) Explore and discuss with the young person possible interventions to meet their needs.
+### Role of the counselor 
 
-p.27
-
-Be in regular communication with the social worker to assess and support the young persons&#39; progress. (i) To report to the Social Worker, any cases of severe mental health issues amongst the young person residing in the Group Home as a measure to prevent any harm to the person of that and / young person residing in the Group Home. (j) Develop and maintain comprehensive documentation of sessions held with the young person.
+- (a) To mentally and emotionally prepare the young person who is found ready to move to an independent life. 
+- (b) Support the young person through new difficult experiences. 
+- (c) Model healthy and productive lifestyle choices, appropriate behaviour and positive habits. 
+- (d) During the weekly visits to the Group Home, the Counselor shall hold group and individual sessions with the young person, and any relevant therapeutic sessions depending on the need. 
+- (e) Offer information regarding the young person choices so that he / she can make informed decisions. 
+- (f) Explore the young person's strengths and assist him / her to develop these further. 
+- (g) Explore and discuss with the young person possible interventions to meet their needs.
+- Be in regular communication with the social worker to assess and support the young person's progress. 
+- (i) To report to the Social Worker, any cases of severe mental health issues amongst the young person residing in the Group Home as a measure to prevent any harm to the person of that and / young person residing in the Group Home. 
+- (j) Develop and maintain comprehensive documentation of sessions held with the young person.
 
 a particular young person requires constant supervision and / or a structured set-up to adhere to his / her aftercare Plan; (b) a particular young person (i) has not yet, joined any educational / vocational training programme, or gotten a job / chosen a livelihood option, and till then requires to be engaged in some constructive activity; (ii) requires some preparation prior to joining an educational / vocational training programme or acquiring a job / livelihood option. (c) A young person expresses the need to remain in a supervised secure setting due to apprehension of external threat which he / she feels will cause a hindrance in achieving their goals
 
