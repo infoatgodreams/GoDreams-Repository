@@ -50,6 +50,12 @@ tags:
 - environment in an aftercare programme should be safe, nurturing and youth friendly so young people will adapt to independent living
 
 ## OBJECTIVES OF AFTERCARE
+- Enable such children's smooth transition from childhood to adulthood by participation in the community life; 
+- Develop qualifications and skills for apprenticeship/jobs/livelihood/entrepreneurship for socio - economic self - reliance;
+- Develop life skills for self - esteem, emotional intelligence, communication skills and relationship skills; and
+- Develop day - to - day living skills, and citizenship rights and responsibilities for the youth such as financial literacy, identity documents, etc.
+- Ensure that the youth leaving care is freed of any stigma attached to their association with the juvenile justice system. 
+
 
 # Legal & Policy framework
 
@@ -158,6 +164,14 @@ free environment with holistic care and protection to those children who are in 
 - Protection of Children against Sexual Offences (POCSO) 2012-
 
 - main stakeholders in the implementation as police, Courts, medical institutions, psychologists and counsellors, as well as institutions that provide social services to the children
+- Maharashtra State Rules 2018 According to the Maharashtra Rules, the State Government shall provide education, employable skills, placements, as well as a place to stay as part of the “After Care Programme” for children who leave the CCI on attaining 18 years of age. Rule 27(7) lists the services provided under the “aftercare programme”: (1) aftercare home (AH); (2) community group housing or group home (GH) on a temporary basis for groups of six to eight persons. Both these services are shelter based — the most urgent and common need of young adults leaving the JJ system. 
+- Other aftercare support services — as per 27(8) of the JJ Rules of Maharashtra — for children discharged from CCIs on attaining 18 years of age, include: 
+	- I. provision of stipend during the course of vocational training or scholarships for higher education and support till the person gets employment; 
+	- II. arrangements for skill training and placement in commercial establishments through coordination with National Skill Development Programme, Indian 6 Institute for Skill Training and other such Central or State Government programmes and corporate, etc.; 
+	- III. provi sion of a counsellor to stay in regular contact with such persons to discuss their rehabilitation plans; 
+	- IV. provision of creative outlets for channelizing their energy and to tide over the crisis periods in their lives; 
+	- V. arrangement of loans and subsidies fo r persons in after - care, aspiring to set up entrepreneurial activities; and 
+	- VI. encouragement to sustain themselves without State or institutional support 
 
 
 
