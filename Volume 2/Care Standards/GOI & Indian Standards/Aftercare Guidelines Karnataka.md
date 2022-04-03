@@ -38,7 +38,7 @@ Link: https://drive.google.com/file/d/1xJA3ORd7CEcYdYrEas_u9CZrTQ-xWDeD/view?usp
 
 - All aftercare provisions and processes shall keep the best interest of the young person in mind.
 - take into consideration individuality, circumstances, background and gender, age, disabilities, sexual orientation, academic abilities, educational and vocational skills, talents,mental and other physical health conditions.
-- All young person&#39;s shall always be consulted and their opinions are taken into consideration and their views should govern Individual Care Planfor their Aftercare.
+- All young persons shall always be consulted and their opinions are taken into consideration and their views should govern Individual Care Planfor their Aftercare.
 - Initiated as early as possible, during the child&#39;s stay in the institution.
 - Adhere to the highest possible standards of care through adequate provisioning of resources including financial/man power and trainings/capacity building for the personnel working with these children
 - respect and uphold the dignity and worth of young persons and ensure rights based approachand non-discriminatory practices
@@ -132,7 +132,7 @@ Aftercare shall essentially comprise of the following four phases:
 
 - regular health checkups and benefits under national health mission
 - linkages with professional doctors/hospitals which the young person&#39;s can access on his/her own in case of the need
-- Mental health care and planning to assess the young person&#39;s reality should be mandatory and conducted by mental health experts
+- Mental health care and planning to assess the young persons reality should be mandatory and conducted by mental health experts
 - Counselling facilities must be available to all young persons and especially for those with behavioural, conduct and mental disorders
 
 ### Employment Related Benefits
@@ -307,7 +307,7 @@ g) Date and reason for completion of after care.
 
 ### Duties of institutional or non-institutional childcare service providers
 
-Every institutional or non-institutional childcare service providers shall prepare a list and develop an assessment report of children who turn 17 years of age in accordance with the provisions of Section 39 and Section 40 of the JJ Act, 2015 and shall be prepared in the format as prescribed in Form 14 of the JJ Rules, 2016 to understand the readiness of the child to live independently in one year time period and the specific requirements for smooth transition from childcare to aftercare
+- Every institutional or non-institutional childcare service providers shall prepare a list and develop an assessment report of children who turn 17 years of age in accordance with the provisions of Section 39 and Section 40 of the JJ Act, 2015 and shall be prepared in the format as prescribed in Form 14 of the JJ Rules, 2016 to understand the readiness of the child to live independently in one year time period and the specific requirements for smooth transition from childcare to aftercare
 
 Prepare the Individual Aftercare Plan (IAP) for every young person depending on the assessment report and get it approved by CWC/JJB
 
@@ -346,8 +346,6 @@ DCPO shall ensure that the approved funds are transferred directly to the bank a
 Implement IAP of every young adult in close consultation with them. • Organize quarterly workshops on legal literacy, life skills, latest technology, job fairs and placement opportunities and bring all young adults together to expose them to such issues. • Form a monitoring committee comprising of volunteers, RWA/community representatives, social worker which can regularly assess the progress of the young adults
 
 Submit a statement of accounts and narrative report related to the young adult to the DCPO every three months and an annual audited statement. They will also send a quarterly progress report for each child with the following information
-
-p.22
 
 Inform the DCPU if they have established any linkages with the corporate sector, NGOs and any civil society organisations for placements of the young adults. • Training of staff: Regular staff training and their assessment should be made mandatory. • Mindfulness and other programs for the mental health of staff should be introduced in order to help them develop a positive environment within the aftercare home • Network with like-minded NGOs, Govt. institutions like CWC, JJB, SJPU, DWCD, community organizations and other stakeholders to extend all possible support to young persons.
 

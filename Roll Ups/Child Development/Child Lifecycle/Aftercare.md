@@ -301,8 +301,6 @@ Prerana Practices Prerana prepares a contact list of important local medical pro
 
 
 
-
-
 ## HEALTH 
 
 ## BASELINE REALITY
@@ -315,6 +313,13 @@ Prerana Practices Prerana prepares a contact list of important local medical pro
   - 23% CLs did not have any caregiving support available during illnesses.
   - 13% CLs did not have adequate funds for health care
   - A greater proportion of male CLs (12% more than female CLs) had an unsatisfactory Health Index score than females
+
+## HEALTH PROMOTING PRACTICES 
+- regular health checkups and benefits under national health mission
+- linkages with professional doctors/hospitals which the young person&#39;s can access on his/her own in case of the need
+- Mental health care and planning to assess the young persons reality should be mandatory and conducted by mental health experts
+- Counselling facilities must be available to all young persons and especially for those with behavioural, conduct and mental disorders
+
 
 
 
