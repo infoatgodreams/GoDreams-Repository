@@ -387,32 +387,28 @@ g) Date and reason for completion of after care.
 - (i) To report to the Social Worker, any cases of severe mental health issues amongst the young person residing in the Group Home as a measure to prevent any harm to the person of that and / young person residing in the Group Home. 
 - (j) Develop and maintain comprehensive documentation of sessions held with the young person.
 
-a particular young person requires constant supervision and / or a structured set-up to adhere to his / her aftercare Plan; (b) a particular young person (i) has not yet, joined any educational / vocational training programme, or gotten a job / chosen a livelihood option, and till then requires to be engaged in some constructive activity; (ii) requires some preparation prior to joining an educational / vocational training programme or acquiring a job / livelihood option. (c) A young person expresses the need to remain in a supervised secure setting due to apprehension of external threat which he / she feels will cause a hindrance in achieving their goals
+## Who needs continued support? 
+- a particular young person requires constant supervision and / or a structured set-up to adhere to his / her aftercare Plan; 
+- (b) a particular young person (i) has not yet, joined any educational / vocational training programme, or gotten a job / chosen a livelihood option, and till then requires to be engaged in some constructive activity; (ii) requires some preparation prior to joining an educational / vocational training programme or acquiring a job / livelihood option. 
+- (c) A young person expresses the need to remain in a supervised secure setting due to apprehension of external threat which he / she feels will cause a hindrance in achieving their goals
 
-An aftercare Hostel is a residential structure containing more than one room and in each one of these rooms two or more young person stay together
-
-Non-Governmental Organisation. The State Government shall fund Non-Governmental Organisations that have established and / or are managing aftercare Hostels. Non-Governmental Organisations may establish and / or manage aftercare Hostels without accepting any funds from the State Government.
-
-p.28
-
-The maintenance of an aftercare Hostel shall be the shared responsibility of the young person staying there and the agency
-
-A monthly charge will be fixed by the State Government which every young person shall pay for his / her stay in the aftercare Hostel,
-
-Every aftercare hostel shall maintain a Suggestion Box to enable the residents to voice their suggestions / grievances either in their name / anonymously.
-
-Engaging the young person who have newly entered the aftercare Hostel in life-skill education, personality development, personal safety programme, etc., and to prepare them to join an educational / vocational training programme. (c) The Social Worker will give a periodical update in writing to the Superintendent on the progress made by the young person
-
-Checking on the education / vocational training and employment of the young person n the aftercare Hostel.
-
-p.29
-
-Reporting to the Child Welfare Committee / Juvenile Justice Board, if so required by the placement order. (l) Periodic assessing and reviewing [a minimum of once in every three months] of the aftercare Plan that was prepared prior to the young person entry into the After-Care Hostel. (m) The Social Worker shall identify those cases where the young person is ready to leave the aftercare Hostel to lead an independent life, and refer them to the Counselor. (n) To network with other organisations and mobilize resources to help the young person for their life post-exit from the aftercare programme
+- An aftercare Hostel is a residential structure containing more than one room and in each one of these rooms two or more young person stay together
+- Non-Governmental Organisation. The State Government shall fund Non-Governmental Organisations that have established and / or are managing aftercare Hostels. Non-Governmental Organisations may establish and / or manage aftercare Hostels without accepting any funds from the State Government.
+- The maintenance of an aftercare Hostel shall be the shared responsibility of the young person staying there and the agency
+- A monthly charge will be fixed by the State Government which every young person shall pay for his / her stay in the aftercare Hostel,
+- Every aftercare hostel shall maintain a Suggestion Box to enable the residents to voice their suggestions / grievances either in their name / anonymously.
+- Engaging the young person who have newly entered the aftercare Hostel in life-skill education, personality development, personal safety programme, etc., and to prepare them to join an educational / vocational training programme. (c) The Social Worker will give a periodical update in writing to the Superintendent on the progress made by the young person
+- Checking on the education / vocational training and employment of the young person n the aftercare Hostel.
+- Reporting to the Child Welfare Committee / Juvenile Justice Board, if so required by the placement order. (l) Periodic assessing and reviewing (a minimum of once in every three months) of the aftercare Plan that was prepared prior to the young person entry into the After-Care Hostel. (m) The Social Worker shall identify those cases where the young person is ready to leave the aftercare Hostel to lead an independent life, and refer them to the Counselor. (n) To network with other organisations and mobilize resources to help the young person for their life post-exit from the aftercare programme
 
 p.30
 
 Supervising and mentoring of those residing in the aftercare Hostel shall be the main task of the agency [State Government / Non-Governmental Organisation] that is implementing the after-care programme. Such supervision and mentoring may be done through the Superintendent, Social Workers, Counselors, and Peer Mentors. (k) During the entire process of the young person&#39;s stay in the aftercare Hostel, the State Government / Non Governmental Organisation implementing the program shall extend their complete support and guidance to the child / youth in the aftercare Hostel to enable them to move towards their goals. This support will continue as the initial adjustment and settling down may require assistance. (l) To arrange for programmes such as life-skill education, personality development, personal safety, etc. for the young person who have newly entered the After-Care Hostel. (m) In cases where the young person is not earning, the State Government / Non-Governmental Organisation will pay a stipend to such young person so that she / he is able to contribute towards her / his stay in the aftercare Hostel and her / his daily expenses.
 
-p.31
+## Role of the careleaver 
 
-Arranging for ones own food, ensure cleanliness of their respective rooms and arranging for ones own utilities, toiletries, clothing, bedding, etc. (b) To coordinate with the Social Worker and make oneself available for individual / group meetings and other relevant sessions organized for the young person by the management. (c) To ensure that while staying in the Aftercare Hostel, the monthly contribution as prescribed by the State Government is made to the agency managing the After-Care Hostel. (d) To respect the rules and regulations of the Aftercare Hostel, and to respect the staff and other residents. (e) To report any untoward incident to the Superintendent
+- Arranging for ones own food, ensure cleanliness of their respective rooms and arranging for ones own utilities, toiletries, clothing, bedding, etc.
+-  (b) To coordinate with the Social Worker and make oneself available for individual / group meetings and other relevant sessions organized for the young person by the management. 
+- (c) To ensure that while staying in the Aftercare Hostel, the monthly contribution as prescribed by the State Government is made to the agency managing the After-Care Hostel. 
+- (d) To respect the rules and regulations of the Aftercare Hostel, and to respect the staff and other residents. 
+- (e) To report any untoward incident to the Superintendent
