@@ -342,39 +342,37 @@ g) Date and reason for completion of after care.
 - Review and approve cases on aftercare for the financial support that is referred to them
 - Document details of the financial expenses incurred on young persons in their district on annual basis
 
-Independent Living (b) Group aftercare homes, and (c) Aftercare Hostels.
+## Independent Living (b) Group aftercare homes, and (c) Aftercare Hostels.
 
-In cases where the young person or a group of young persons are assessed to be able to and are willing to stay independently and manage their living without any support from State, they shall be allowed to do so.
-
-Aftercare Group homes may be set up by the State Gov or an NGO to allow the young persons to start the process of reintegration with society, while still providing guidance and support in a facilitative environment
-
-in cases where a particular young person does not require constant supervision; • Young person understands the schedule of the aftercare programme and the Group Home, and is in a position to adhere to it on his / her own.
-
-Group Home is a residential unit]in a building or anywhere else, on rent or otherwise, where children / youth stay together.
-
-p.25
-
-The young person staying in a Group Home shall share the monthly expenses of the Group Home
-
-The State Government or Non-Governmental Organisation running the Group Home shall pay the rent of the Group Home
-
-The State Government or Non-Governmental Organisation running the Group Home shall bear the fees for education
-
-The executing of documents for security of tenure shall be the responsibility of the State Government or the concerned Non-Governmental Organisation
-
-During the entire process of young person&#39;s stay in the Group Home, the State Government/NonGovernmental Organisation implementing the programme shall extend their complete support and guidance to the young person in the Group Home to enable them to move towards their goals. This
-
-The young person in a Group Home may require to turn to someone for emotional support and ventilation of their feelings
-
-Therefore, the roles of the Social Worker, the Counselor and the Peer Mentor [if available] are extremely crucial in providing the child / youth with directional guidance, support and decision making skills
-
-Social Worker [Masters in Social Work]; (b) Counselor [qualified mental health professional]; (c) Peer Mentor [if available].
-
-p.26
-
-The following are the specific responsibilities of the Social Worker while supervising the functioning of a Group Home: (a) Checking on the education / vocational training and employment of the child / youth in the Group Home. (b) Getting regular updates from the young person about their progress. (c) Advising the young person, whenever advise is sought by them. (d) Lay down practices in consultation with the young person in a Group Home to ensure their safety and security, and to ensure that the views of each of the residents, in matters related to their stay in the Group Home, is respected and considered. (e) Conducting surprise checks on the Group Home to ensure that everything is in order. (f) Checking on the health status of the young person. (g) Referring the young person to the Counsellor, and maintaining regular contact with the Counsellor / Peer Mentor. (h) Responding to emergencies, if any. (i) Discussing disciplinary issues, if required. (j) Documentation, viz., particulars of the child / youth and their period of stay in the Group Home, making notes of the meetings held with the Counselor / Peer Mentor. (k) Helping the young person to obtain documents, such as, PAN Card, Voter&#39;s Identity Card. (l) Reporting to the Child Welfare Committee / Juvenile Justice Board, if so required by the
-
-m) Preparing a list of resources available in the neighbourhood, such as hospitals, dispensaries, police station, post office, banks, grocery shop. (n) Periodic assessing and reviewing [a minimum of once in every three months] of the AfterCare Plan that was prepared prior to the young person entry into the Group Home. (o) The Social Worker shall identify those cases where the young person is ready to leave the Group Home to lead an independent life, and refer them to the Counselor. (p) To network with other organisations and mobilize resources to help the young person for their life post-exit from the After-Care programme. (q) Encourage the young person to maintain contact with family / parents / guardian.
+- In cases where the young person or a group of young persons are assessed to be able to and are willing to stay independently and manage their living without any support from State, they shall be allowed to do so.
+- Aftercare Group homes may be set up by the State Gov or an NGO to allow the young persons to start the process of reintegration with society, while still providing guidance and support in a facilitative environment in cases where a particular young person does not require constant supervision; 
+- Young person understands the schedule of the aftercare programme and the Group Home, and is in a position to adhere to it on his / her own.
+- Group Home is a residential unit]in a building or anywhere else, on rent or otherwise, where children / youth stay together.
+- The young person staying in a Group Home shall share the monthly expenses of the Group Home
+- The State Government or Non-Governmental Organisation running the Group Home shall pay the rent of the Group Home
+- The State Government or Non-Governmental Organisation running the Group Home shall bear the fees for education
+- The executing of documents for security of tenure shall be the responsibility of the State Government or the concerned Non-Governmental Organisation
+- During the entire process of young persons stay in the Group Home, the State Government/NonGovernmental Organisation implementing the programme shall extend their complete support and guidance to the young person in the Group Home to enable them to move towards their goals. 
+- The young person in a Group Home may require to turn to someone for emotional support and ventilation of their feelings
+- Therefore, the roles of the Social Worker, the Counselor and the Peer Mentor are extremely crucial in providing the child / youth with directional guidance, support and decision making skills
+- The following are the specific responsibilities of the Social Worker while supervising the functioning of a Group Home: 
+	- (a) Checking on the education / vocational training and employment of the child / youth in the Group Home. 
+	- (b) Getting regular updates from the young person about their progress. 
+	- (c) Advising the young person, whenever advise is sought by them. 
+	- (d) Lay down practices in consultation with the young person in a Group Home to ensure their safety and security, and to ensure that the views of each of the residents, in matters related to their stay in the Group Home, is respected and considered. 
+	- (e) Conducting surprise checks on the Group Home to ensure that everything is in order. 
+	- (f) Checking on the health status of the young person. 
+	- (g) Referring the young person to the Counsellor, and maintaining regular contact with the Counsellor / Peer Mentor. 
+	- (h) Responding to emergencies, if any. 
+	- (i) Discussing disciplinary issues, if required. 
+	- (j) Documentation, viz., particulars of the child / youth and their period of stay in the Group Home, making notes of the meetings held with the Counselor / Peer Mentor. 
+	- (k) Helping the young person to obtain documents, such as, PAN Card, Voter Identity Card. 
+	- (l) Reporting to the Child Welfare Committee / Juvenile Justice Board, if so required by the
+	- m) Preparing a list of resources available in the neighbourhood, such as hospitals, dispensaries, police station, post office, banks, grocery shop. 
+	- (n) Periodic assessing and reviewing (a minimum of once in every three months) of the AfterCare Plan that was prepared prior to the young person entry into the Group Home. 
+	- (o) The Social Worker shall identify those cases where the young person is ready to leave the Group Home to lead an independent life, and refer them to the Counselor. 
+	- (p) To network with other organisations and mobilize resources to help the young person for their life post-exit from the After-Care programme. 
+	- (q) Encourage the young person to maintain contact with family / parents / guardian.
 
 (a) To mentally and emotionally prepare the young person who is found ready to move to an independent life. (b) Support the young person through new difficult experiences. (c) Model healthy and productive lifestyle choices, appropriate behaviour and positive habits. (d) During the weekly visits to the Group Home, the Counselor shall hold group and individual sessions with the young person, and any relevant therapeutic sessions depending on the need. (e) Offer information regarding the young person choices so that he / she can make informed decisions. (f) Explore the young person&#39;s strengths and assist him / her to develop these further. (g) Explore and discuss with the young person possible interventions to meet their needs.
 
