@@ -383,3 +383,129 @@ Nutrition is a primary requirement for the development of an individual. Several
 - However, the residents must understand the importance of managing their health expenses and are thus encouraged to invest in a health insurance policy themselves after the first year 
 
 
+SOCIAL PROTECTION AND WELFARE 
+Documentation Procurement and verification of documents are essential to establish eligibility for a variety of welfare and development services in both the AH and GH. The documents needed to establish identity and eligibility of social protection/welfare schemes include : birth certificate, caste/community certificate, domicile certificate, school - leaving certificate, Aadhar Card, Voter ID Card, Ration Card, PAN Card, PwD Certificate (Person with Disability) and BPL/EWS Certificate (Below Poverty Line/Economically Weaker Sections) 
+
+## Prerana Practices
+- In the last five years, most girls referred to aftercare have had their essential documents such as the Aadhar card, PAN card, bank account, and school - leaving certificate through the CCI. 
+- In cases where the resident girls do not possess certain important ident ity documents, the social workers assist the residents in applying for the same. Sometimes, they also provide a reference letter or document through Prerana to aid that process. The social workers also closely follow - up with the resident and the issuing au thorities or local bodies to procure the documents. 
+
+## Challenges Faced When Addressing This Need 
+
+- Errors in the records : Sometimes, when documents are available, there may be a commonly observed discrepancy in the names of the individuals i.e. different names on different documents or spelling errors in parents’ names.
+- Social vulnerabilities: Desperation and sometimes, the urgency to seek necessary documents makes individuals vulnerable to frauds and deception. 
+- Time - consuming: As there is no single - window ap proach for building one’s set of documents. It takes a lot of time, energy, financial resources and commitment, especially while working with government bodies to procure documents. 
+- Updating new information: There is a general lack of clarity on which auth ority is responsible for issuing which document as well as the process for updating personal information on an already existing document. For eg, in case of an Aadhar card, it may be made by the CCI and often the address of the CCI listed in the card with a contact number of a CCI staff member. Once the child moves out, updating these credentials on the card becomes a challenge. 
+- The risks and challenges of addressing social protection/welfare needs include:
+	- Non - availability of the records: In cases where the original copies of the identity documents are not available, it is a challenge to establish identity or eligibility. The absence of basic supporting documents also makes it almost impossible to procure new documents. 
+## Education 
+
+Access to Formal Education Programs Conventionally, formal education is considered as attending regular school. However, certified vocational education, education for individuals with special needs, adult education and distance education are also recognized as formal education. As per UNESCO , formal education programs are those which are recognized by the relevant national educational authorities or equivalent 
+
+Prerana Practices Prerana gives importance to education and encourages children to pursue formal education depending on their interest and capacity to continue the same. 
+
+Prerana undertakes the following activities to assist residents in accessing formal education:
+- Develops a directory of resources: Puts together a resource directory of schools, colleges, and distance learning universities to help residents choose options based on their interests. 
+- Liaisons with educational institutions : Follow - up with educational institutes on admissions, queries, or challenges that the residents may be facing. 
+- Provides financial assistance: Especially to travel (to schools, colleges, etc.) and procure study materials. Sometimes, Prerana may also procure study materials through partners and donors, and sponsor girls interested in completing their edu cation. Admission and tuition fees may also be taken care of through a scholarship. 
+- Facilitates mentorship: Actively mentor residents to keep them motivated and avoid drop - outs. This also includes career counseling to help residents make decisions about their future. 
+- Access to Functional Literacy Programs Access to functional literacy or basic writing, reading and calculation abilities is important for an individual to live efficiently and independently in society. UNESCO defines “functionally literate” as a "person who can engage in all those activities in which literacy is required for effective function of his/her group and community and also for enabling him/her to continue to use reading, writing and calculation for his/her own and community's development." For illiterate/semi - literate victims, function al literacy, coupled with vocational training, is important to manage their daily life. 
+- Skill Development for Employability Self - reliant rehabilitation of residents is not possible without first ensuring their economic self - reliance. Since the residents are largely without any assets, their chances of economic self - reliance depend on sustainable employment. 
+- Access to Vocational Training Skill - based training helps in improving an individual’s employability. According to the All India Council for Technical Education (AICTE), Vocational Education and Training (VET), also called C areer and Technical Education (CTE), prepares learners for jobs that are based on manual or practical activities.  
+
+### Prerana Practices Prerana
+- actively explores marketable skills for residents through consultations. It seeks to design and administer vocational training p rograms for young adults and care leavers that, eventually, help them land good jobs. 
+- The following activities are untaken by Prerana: 
+	- Provides referrals to Community - Based Organizations (CBOs) for functional literacy services: CBOs often run literacy programs in various 45 communities for young adults and women managing households. Prerana collaborates with such CBOs and refers girls from the GH who have not pursued formal education or have had limited exposure to a liter acy program.
+	- Mapping local resources for the resident girls to access such programs: In the past, some of the girls have been interested in pursuing specific courses like verbal English. Prerana assists in locating cost - effective programs for such residents
+	- Maintains a directory of re sources : Prerana puts together a list of vocational training providers along with the nature of the training. 
+	- Visits to vocational training facilities : Prerana accompanies girls to centers to make them aware of the registration process and assist them wit h admissions.
+	- Provides need - based linkages: Connects the residents with service providers, sponsorship programs, etc. to help them pursue and complete their vocational training programs. 
+	- Supports financially: Helps the residents with a travel allowance. Most of the residents are also supported with basic living costs when they first move out of the CCI into a GH and enroll for such training programs. 
+	- Liaisons with corporates: Mobilizes corporates for vocation training programs for care leavers with minimal educational restrictions. Makes referrals and follow - ups with the service provider to assess the progress of the girls, and hopefully, translate training into job placements. 
+
+### Job Placement and Preparedness 
+Children who have lived in institutions for a long period — until becoming a ‘care leaver’ at 18 years of age, are often deeply unaware of how their expenses are managed by the institution. They do not have to think about arranging funds for their routine an d non - routine expenses 
+
+The Sustainable Development Goals also highlight the need for “decent work” for everyone. 
+
+### Prerana Practices
+Core competence or job skill in a relevant trade is an essential condition but it is not sufficient to get a sustainable job. Other skills such as participating in group discussions, interviewing, essay writing, performance in personality - tests, aptitude tests, etiquettes, and manners are very important to land a job. 
+
+- Prerana conducts a one - on - one discussion with the residents about these essential skills, and also partners with corporates and other agencies to professionally train the girls. 
+
+## Life Skills
+- Access to Life Skills According to UNICEF, life skills are the “psychosocial abilities for adaptive and positive behavior that enable individuals to deal effectively w ith the demands and challenges of everyday life.” 
+- Using the internet responsibly, operating smartphones, taking care of oneself, building relationships responsibly, at work and beyond, etc. are essential to lead a self - reliant life. Apart from that, life skills include making decisions, cultivating empathy, understanding issues of discrimination, peer pressure, self - image, self - esteem, etc. 
+
+### Prerana Practices
+- Prerana imparts life skill training through individual and group sessions. These include sessions on understanding relationships, self & social acceptance, problem - solving skills, sex education, essentials of small - group living, self - regulation, peer pressure, consent culture, evolving code of conduct, training on security and pr otection, learning division of work and responsibilities and more recently, cyber safety. 
+
+### Access to Leisure and Recreation 
+- Recreation and leisure are a right of every child and should not be perceived as a luxury. It is important to encourage the resident to engage in constructive recreation and leisure for their well - being. Leisure can be defined as ‘free - time’ when no one is expected to work. Recreation is a fun and relaxing activity of positive entertainment. 
+- The victims of CSE and other forms of violence have a background of traumatic experiences. Their lives at the CCIs, the uncertainties about the future, and apprehensions of entering the society adds to that stress — and can adversely affect their physical and mental health as well their decision - making capacity. Leisure and recreation go a long way in helping the children destress themselves. 
+- Life skills are different from vocation skills and are of three types: 
+	- cognitive skills promotes sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.
+	- skills for analyzing and using information, personal skills for developing personal agency and managing oneself, and interpersonal skills for communicating and interacting effectively with others. 
+
+### Prerana Practices 
+Prerana works to establish recreation as a need - based right for children and young adults and integrates it as an indispensable component of a youth’s development plan. Care leavers need to pursue activities to destress and enjoy their free time. 
+- Organizes recreational activities: Involves professional recreation leaders and facilitates the participation of residents in external recreation programs. 
+- Establishes constructive recreation as a right of the residents: During the initial discussions, the social workers ensure that an activity of leisure or recreation is included in the residents’ daily schedule. The counselors also engage with the resident girls regularly on the importance of self - care.
+- Ensures the participation of and consultation with the residents to identify the scope of interventions for recreation: The social workers and counselors actively engage in shari ng healthy tips on recreation with the residents during their individual and group meetings. 
+
+### Access to Independent Living Skills
+- Independence is not to be understood as leading an unbridled or asocial life. Instead, independent living skills focus on self - regulation and taking responsibility for one's actions. 
+
+### Prerana Practices 
+- As an integral part of its on - going casework, Prerana conducts regular sessions on small group living. It provides handholding support to the residents, especially during their first year of transition from CCIs to GH - EA. 
+- Prerana undertakes the following activities:
+	-  Helps to open, access, and operate email accounts 
+	- Assists in preparing and updating CV or resumes 
+	- Guides in budgeting and living within one's means 
+	- Orients the residents on how to interact at the police station and educates them on their rights. 
+	- Helps residents to travel independently using publ ic transport 
+	- Assists them in learning to cook for a small group, and understanding the importance of a balanced diet 
+	- Helps residents interact with their immediate social environment, including the neighborhood committees. 
+	- Teaches residents about the basics of banking, including opening a bank account, updating passbooks, etc. 
+	- Trains the residents on handling Gazettes 
+	- Helps them access helplines and other support services 
+	- Organizes recreational activities: Involves professional recreation leaders and facilitates the participation of residents in external recreation programs.
+	-  Establishes constructive recreation as a right of the residents: During the initial discussions, the social workers ensure that an activity of leisure or recreation is included in the residents’ daily schedule. The counselors also engage with the resident girls regularly on the importance of self - care. 
+	- Ensures the participation of and consultation with the residents to identify the scope of interventions for recreation: The social workers and counselors actively engage in shari ng healthy tips on recreation with the residents during their individual and group meetings. 
+	- Teaches them to shop for essentials and groceries 
+	- Prerana also encourages the residents to share about their relationships if they feel comfortable to do so. If a resident wants to get married, she is provided with counseling to ensure that she knows what her decision would entail. Prerana also offers to meet with the prospective husband and/or his family only if the resident desires so. Prerana also explains to them the importance of getting their marriage legally registered and shares information on how to go about it. 
+	
+	To ensure the access to independent living skills, Prerana undertakes the following activities: 
+	- Conducts visits to the GH and engages with residents individually as well as in group discussions. 
+	- Accompanies the residents to banks, markets, police stations, etc. 
+	-  Assists residents in understanding and responding to notices received from various authorities. 
+	- Educates the residents about the landlord - tenant relationship. 
+	- Assists in managing finances. 
+	- Facilitates regular training sessions as per the individual’s needs. 
+	- Creates protocols, SOPs, guidelines through discussions and consultation with the resi dents. 
+
+### Challenges Faced When Addressing This Need The challenges faced by Prerana while addressing the development needs of the residents are:
+- Location  of  the  GH - EA: The  GH  may  not  be  close  to  the schools/colleges/vocational centers of all the resid ents. Similarly, when it is time to move (in case the lease ends or for other reasons), finding a GH - EA with accessible services is challenging. 
+- Access to vocational training programs: Arranging programs for a small group of 5 to 6 residents with differen t needs and capabilities is resource intensive. Non - availability of training material and teachers is another hurdle. Residents who lose jobs require handholding from the organization externally assisting the GH. 
+- Personal motivation : Sometimes, it is hard to persuade young girls to choose sustainable vocational optio ns over short - term unsustainable ones. Residents tend to gravitate towards jobs that give them quick and short - term financial relief over a sustainable career option. 
+- Social vulnerabilities: Ma intaining confidentiality of the girls’ background and restricting their exposure to vulnerabilities at various stages is challenging. Thus, evolving and mainstreaming protection systems for care leavers become imperative. 
+- Navigating group dynamics : Some members may default and create liabilities, thereby endangering the very existence of the GH. Factionalism among the residents affects cohabitation and development of the individual’s capacities in a GH. Thus, it is critical to manage the number of residents in a GH - EA consistently. 
+
+## SOCIAL REINTEGRATION 
+- Support Mechanisms 6.1.1. Access to Professional Follow - up Mechanisms Social reintegration is the process of transitioning into society after having spent a significant time in a CCI. 
+- It is now recognized widely that institutional life in itself brings certain challenges for its residents that may impact their ability to tra nsition into society. 
+- Prerana Practices The JJ system has a limited mandate for professional follow - up of the resident child once they complete 18 years of age. Prerana believes a child, even after completing 18 years, should remain in touch with the JJ system through professional follow - up mech anisms for some time to ensure their well - being and benefit from the safety net. 
+- Prerana believes that access to rehabilitation ser vices is required in aftercare until the care leavers — especially the victims of CSE — can sustain and lead their lives on their own. Prerana works with the CWC and ensures that a Follow - up Order is passed before the person turns 18 years, wherever needed. Su pport groups also play a role in fulfilling needs such as shelter, health care, legal aid, development, and social reintegration. 
+- To ensure timely phase - out, Prerana transitions from in - person interactions to telephonic follow - up as a first step. Then, follow - ups are moved from weekly to monthly and quarterly basis. Slowly, financial assistance is also withdrawn as the young adult be comes more independent. 
+- Prerana maintains contacts with the young care leavers until they exit the GH - EA and keeps the option open for need - based contact. 
+
+### Stakeholder Engagement 
+- Community Preparedness In cases of CSE, there is a possibility that the victim might go back to the original community. In such a case, the victim must be prepared to protect oneself. In the c ase of residents who are earning, there may be pressure from families to return back home and contribute financially to the household. However, returning to their families may not always be in their best interest. Thus, it is important for the family and c ommunity to support (if genuinely interested) in evaluating if the move back to the family is the best move for the victim. In extreme situations, the family and the community may even try to disrupt the GH activity as a pressure tactic 
+
+### Challenges Faced While Addressing This Need 
+Some of the challenges associated with social reintegration include: 
+- Institutional challenges: The facilitating organizations of GH - EA can find it difficult to transition from being actively involved in providing care and protection to facilitating externally and thereby assisting the young adults. 
+- Dependence on CSO and vice versa: Victim’s excess ive reliance on the CSO and unwillingness to wean off from the support is also a challenge while reintegrating residents. On the other hand, the externally assisting organization might also take undue interest in the lives of the residents and patronize th em. Unwillingness on the part of the organization to actively make the resident independent and thereby withdraw support.
+- Social vulnerabilities: A child victim of CSE could become freshly vulnerable as she gains the newly acquired freedom. The family and the community of the resident may try to disrupt the Group Home. 
+
