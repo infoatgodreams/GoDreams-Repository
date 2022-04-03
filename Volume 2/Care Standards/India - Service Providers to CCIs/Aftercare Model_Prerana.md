@@ -268,42 +268,42 @@ Prerana works to establish recreation as a need - based right for children and y
 	- Teaches residents about the basics of banking, including opening a bank account, updating passbooks, etc. 
 	- Trains the residents on handling Gazettes 
 	- Helps them access helplines and other support services 
+	- Organizes recreational activities: Involves professional recreation leaders and facilitates the participation of residents in external recreation programs.
+	-  Establishes constructive recreation as a right of the residents: During the initial discussions, the social workers ensure that an activity of leisure or recreation is included in the residents’ daily schedule. The counselors also engage with the resident girls regularly on the importance of self - care. 
+	- Ensures the participation of and consultation with the residents to identify the scope of interventions for recreation: The social workers and counselors actively engage in shari ng healthy tips on recreation with the residents during their individual and group meetings. 
+	- Teaches them to shop for essentials and groceries 
+	- Prerana also encourages the residents to share about their relationships if they feel comfortable to do so. If a resident wants to get married, she is provided with counseling to ensure that she knows what her decision would entail. Prerana also offers to meet with the prospective husband and/or his family only if the resident desires so. Prerana also explains to them the importance of getting their marriage legally registered and shares information on how to go about it. 
+	
+	To ensure the access to independent living skills, Prerana undertakes the following activities: 
+	- Conducts visits to the GH and engages with residents individually as well as in group discussions. 
+	- Accompanies the residents to banks, markets, police stations, etc. 
+	-  Assists residents in understanding and responding to notices received from various authorities. 
+	- Educates the residents about the landlord - tenant relationship. 
+	- Assists in managing finances. 
+	- Facilitates regular training sessions as per the individual’s needs. 
+	- Creates protocols, SOPs, guidelines through discussions and consultation with the resi dents. 
 
-● Organizes recreational activities: Involves professional recreation leaders and facilitates the participation of residents in external recreation programs. ● Establishes constructive recreation as a right of the residents: During the initial discussions, the social workers ensure that an activity of leisure or recreation is included in the residents’ daily schedule. The counselors also engage with the resident girls regularly on the importance of self - care. 50 ● Ensures the participation of and consultation with the residents to identify the scope of interventions for recreation: The social workers and counselors actively engage in shari ng healthy tips on recreation with the residents during their individual and group meetings. 
+### Challenges Faced When Addressing This Need The challenges faced by Prerana while addressing the development needs of the residents are:
+- Location  of  the  GH - EA: The  GH  may  not  be  close  to  the schools/colleges/vocational centers of all the resid ents. Similarly, when it is time to move (in case the lease ends or for other reasons), finding a GH - EA with accessible services is challenging. 
+- Access to vocational training programs: Arranging programs for a small group of 5 to 6 residents with differen t needs and capabilities is resource intensive. Non - availability of training material and teachers is another hurdle. Residents who lose jobs require handholding from the organization externally assisting the GH. 
+- Personal motivation : Sometimes, it is hard to persuade young girls to choose sustainable vocational optio ns over short - term unsustainable ones. Residents tend to gravitate towards jobs that give them quick and short - term financial relief over a sustainable career option. 
+- Social vulnerabilities: Ma intaining confidentiality of the girls’ background and restricting their exposure to vulnerabilities at various stages is challenging. Thus, evolving and mainstreaming protection systems for care leavers become imperative. 
+- Navigating group dynamics : Some members may default and create liabilities, thereby endangering the very existence of the GH. Factionalism among the residents affects cohabitation and development of the individual’s capacities in a GH. Thus, it is critical to manage the number of residents in a GH - EA consistently. 
 
-p. 61
+## SOCIAL REINTEGRATION 
+- Support Mechanisms 6.1.1. Access to Professional Follow - up Mechanisms Social reintegration is the process of transitioning into society after having spent a significant time in a CCI. 
+- It is now recognized widely that institutional life in itself brings certain challenges for its residents that may impact their ability to tra nsition into society. 
+- Prerana Practices The JJ system has a limited mandate for professional follow - up of the resident child once they complete 18 years of age. Prerana believes a child, even after completing 18 years, should remain in touch with the JJ system through professional follow - up mech anisms for some time to ensure their well - being and benefit from the safety net. 
+- Prerana believes that access to rehabilitation ser vices is required in aftercare until the care leavers — especially the victims of CSE — can sustain and lead their lives on their own. Prerana works with the CWC and ensures that a Follow - up Order is passed before the person turns 18 years, wherever needed. Su pport groups also play a role in fulfilling needs such as shelter, health care, legal aid, development, and social reintegration. 
+- To ensure timely phase - out, Prerana transitions from in - person interactions to telephonic follow - up as a first step. Then, follow - ups are moved from weekly to monthly and quarterly basis. Slowly, financial assistance is also withdrawn as the young adult be comes more independent. 
+- Prerana maintains contacts with the young care leavers until they exit the GH - EA and keeps the option open for need - based contact. 
 
-● Teaches them to shop for essentials and groceries 
+### Stakeholder Engagement 
+- Community Preparedness In cases of CSE, there is a possibility that the victim might go back to the original community. In such a case, the victim must be prepared to protect oneself. In the c ase of residents who are earning, there may be pressure from families to return back home and contribute financially to the household. However, returning to their families may not always be in their best interest. Thus, it is important for the family and c ommunity to support (if genuinely interested) in evaluating if the move back to the family is the best move for the victim. In extreme situations, the family and the community may even try to disrupt the GH activity as a pressure tactic 
 
-Prerana also encourages the residents to share about their relationships if they feel comfortable to do so. If a resident wants to get married, she is provided with counseling to ensure that she knows what her decision would entail. Prerana also offers to meet with the prospective husband and/or his family only if the resident desires so. Prerana also explains to them the importance o f getting their marriage legally registered and shares information on how to go about it. To ensure the access to independent living skills, Prerana undertakes the following activities: ● Conducts visits to the GH and engages with residents individually as well as in group discussions. ● Accompanies the residents to banks, markets, police stations, etc. ● Assists residents in understanding and responding to notices received from various autho rities. 
-
-p. 62
-
-● Educates the residents about the landlord - tenant relationship. ● Assists in managing finances. ● Facilitates regular training sessions as per the individual’s needs. ● Creates protocols, SOPs, guidelines through discussions and consultation with the resi dents. 
-
-Challenges Faced When Addressing This Need The challenges faced by Prerana while addressing the development needs of the residents are: ● Location  of  the  GH - EA: The  GH  may  not  be  close  to  the schools/colleges/vocational centers of all the resid ents. Similarly, when it is time to move (in case the lease ends or for other reasons), finding a GH - EA with accessible services is challenging. ● Access to vocational training programs: Arranging programs for a small group of 5 to 6 residents with differen t needs and capabilities is resource intensive. Non - availability of training material and teachers is another hurdle. Residents who lose jobs require handholding from the organization externally assisting the GH. ● Personal motivation : Sometimes, it is hard to persuade young girls to choose sustainable vocational optio ns over short - term unsustainable ones. Residents tend to gravitate towards jobs that give them quick and short - term financial relief over a sustainable career option. ● Social vulnerabilities: Ma intaining confidentiality of the girls’ background and restricting their exposure to vulnerabilities at various stages is challenging. Thus, evolving and mainstreaming protection systems for care leavers become imperative. ● Navigating group dynamics : Some members may default and create liabilities, thereby endangering the very existence of the GH. Factionalism among the residents affects cohabitation and development of the individual’s capacities in a GH. Thus, it is critical to manage the number of residents in a GH - EA consistently. 
-
-p. 63
-
-SOCIAL REINTEGRATION 
-
-6.1. Support Mechanisms 6.1.1. Access to Professional Follow - up Mechanisms Social reintegration is the process of transitioning into society after having spent a significant time in a CCI. 
-
-It is now recognized widely that institutional life in itself brings certain challenges for its residents that may impact their ability to tra nsition into society. 
-
-Prerana Practices The JJ system has a limited mandate for professional follow - up of the resident child once they complete 18 years of age. Prerana believes a child, even after completing 18 years, should remain in touch with the JJ system through professional follow - up mech anisms for some time to ensure their well - being and benefit from the safety net. 
-
-Prerana believes that access to rehabilitation ser vices is required in aftercare until the care leavers — especially the victims of CSE — can sustain and lead their lives on their own. Prerana works with the CWC and ensures that a Follow - up Order is passed before the person turns 18 years, wherever needed. Su pport groups also play a role in fulfilling needs such as shelter, health care, legal aid, development, and social reintegration. 
-
-p. 64
-
-To ensure timely phase - out, Prerana transitions from in - person interactions to telephonic follow - up as a first step. Then, follow - ups are moved from weekly to monthly and quarterly basis. Slowly, financial assistance is also withdrawn as the young adult be comes more independent. 
-
-Prerana maintains contacts with the young care leavers until they exit the GH - EA and keeps the option open for need - based contact. 
-
-6.2. Stakeholder Engagement 6.2.1. Community Preparedness In cases of CSE, there is a possibility that the victim might go back to the original community. In such a case, the victim must be prepared to protect oneself. In the c ase of residents who are earning, there may be pressure from families to return back home and contribute financially to the household. However, returning to their families may not always be in their best interest. Thus, it is important for the family and c ommunity to support (if genuinely interested) in evaluating if the move back to the family is the best move for the victim. In extreme situations, the family and the community may even try to disrupt the GH activity as a pressure tactic 
-
-p. 65
-
-Challenges Faced While Addressing This Need Some of the challenges associated with social reintegration include: ● Institutional challenges: The facilitating organizations of GH - EA can find it difficult to transition from being actively involved in providing care and protection to facilitating externally and thereby assisting the young adults. ● Dependence on CSO and vice versa: Victim’s excess ive reliance on the CSO and unwillingness to wean off from the support is also a challenge while reintegrating residents. On the other hand, the externally assisting organization might also take undue interest in the lives of the residents and patronize th em. Unwillingness on the part of the organization to actively make the resident independent and thereby withdraw support. ● Social vulnerabilities: A child victim of CSE could become freshly vulnerable as she gains the newly acquired freedom. The family and the community of the resident may try to disrupt the Group Home. 
+### Challenges Faced While Addressing This Need 
+Some of the challenges associated with social reintegration include: 
+- Institutional challenges: The facilitating organizations of GH - EA can find it difficult to transition from being actively involved in providing care and protection to facilitating externally and thereby assisting the young adults. 
+- Dependence on CSO and vice versa: Victim’s excess ive reliance on the CSO and unwillingness to wean off from the support is also a challenge while reintegrating residents. On the other hand, the externally assisting organization might also take undue interest in the lives of the residents and patronize th em. Unwillingness on the part of the organization to actively make the resident independent and thereby withdraw support.
+- Social vulnerabilities: A child victim of CSE could become freshly vulnerable as she gains the newly acquired freedom. The family and the community of the resident may try to disrupt the Group Home. 
 
