@@ -236,21 +236,21 @@ Core competence or job skill in a relevant trade is an essential condition but i
 - Access to Life Skills According to UNICEF, life skills are the “psychosocial abilities for adaptive and positive behavior that enable individuals to deal effectively w ith the demands and challenges of everyday life.” 
 - Using the internet responsibly, operating smartphones, taking care of oneself, building relationships responsibly, at work and beyond, etc. are essential to lead a self - reliant life. Apart from that, life skills include making decisions, cultivating empathy, understanding issues of discrimination, peer pressure, self - image, self - esteem, etc. 
 
-Prerana Practices Prerana imparts life skill training through individual and group sessions. These include sessions on understanding relationships, self & social acceptance, problem - solving skills, sex education, essentials of small - group living, self - regulation, peer pressure, consent culture, evolving code of conduct, training on security and pr otection, learning division of work and responsibilities and more recently, cyber safety. 
+### Prerana Practices
+- Prerana imparts life skill training through individual and group sessions. These include sessions on understanding relationships, self & social acceptance, problem - solving skills, sex education, essentials of small - group living, self - regulation, peer pressure, consent culture, evolving code of conduct, training on security and pr otection, learning division of work and responsibilities and more recently, cyber safety. 
 
-5.4.2. Access to Leisure and Recreation Recreation and leisure are a right of every child and should not be perceived as a luxury. It is important to encourage the resident to engage in constructive recreation and leisure for their well - being. Leisure can be defined as ‘free - time’ when no one is expected to work. Recreation is a fun and relaxing activity of positive entertainment. 
+### Access to Leisure and Recreation 
+- Recreation and leisure are a right of every child and should not be perceived as a luxury. It is important to encourage the resident to engage in constructive recreation and leisure for their well - being. Leisure can be defined as ‘free - time’ when no one is expected to work. Recreation is a fun and relaxing activity of positive entertainment. 
+- The victims of CSE and other forms of violence have a background of traumatic experiences. Their lives at the CCIs, the uncertainties about the future, and apprehensions of entering the society adds to that stress — and can adversely affect their physical and mental health as well their decision - making capacity. Leisure and recreation go a long way in helping the children destress themselves. 
+- Life skills are different from vocation skills and are of three types: 
+	- cognitive skills promotes sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all.
+	- skills for analyzing and using information, personal skills for developing personal agency and managing oneself, and interpersonal skills for communicating and interacting effectively with others. 
 
-The victims of CSE and other forms of violence have a background of traumatic experiences. Their lives at the CCIs, the uncertainties about the future, and apprehensions of entering the society adds to that stress — and can adversely affect their physical and mental health as well their decision - making capacity. Leisure and recreation go a long way in helping the children destress themselves. 
-
-Life skills are different from vocation skills and are of three types: cognitive 13 SDG 8 promotes sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all. 48 skills for analyzing and using information, personal skills for developing personal agency and managing oneself, and interper sonal skills for communicating and interacting effectively with others. 
-
-p. 59
-
-Prerana Practices Prerana works to establish recreation as a need - based right for children and young adults and integrates it as an indispensable component of a youth’s development plan. Care leavers need to pursue 
-
-activities to destress and enjoy their free time. 
-
-● Organizes recreational activities: Involves professional recreation leaders and facilitates the participation of residents in external recreation programs. ● Establishes constructive recreation as a right of the residents: During the initial discussions, the social workers ensure that an activity of leisure or recreation is included in the residents’ daily schedule. The counselors also engage with the resident girls regularly on the importance of self - care. 50 ● Ensures the participation of and consultation with the residents to identify the scope of interventions for recreation: The social workers and counselors actively engage in shari ng healthy tips on recreation with the residents during their individual and group meetings. 
+### Prerana Practices 
+Prerana works to establish recreation as a need - based right for children and young adults and integrates it as an indispensable component of a youth’s development plan. Care leavers need to pursue activities to destress and enjoy their free time. 
+- Organizes recreational activities: Involves professional recreation leaders and facilitates the participation of residents in external recreation programs. 
+- Establishes constructive recreation as a right of the residents: During the initial discussions, the social workers ensure that an activity of leisure or recreation is included in the residents’ daily schedule. The counselors also engage with the resident girls regularly on the importance of self - care.
+- Ensures the participation of and consultation with the residents to identify the scope of interventions for recreation: The social workers and counselors actively engage in shari ng healthy tips on recreation with the residents during their individual and group meetings. 
 
 p. 60
 
