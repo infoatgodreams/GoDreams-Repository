@@ -35,7 +35,7 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 > - Organizes orientations on personal safety, including sharing details of helplines and support organizations in the neighbourhood, including the police stations. 
 
 > [!info]- Mobility and Self- Dependence
-> - Physical spaces i.e Aftercare homes or group homes must be located within the same community to facilitate the integration process. 
+> - Equip careleavers with basic conflict resolution skills, financial management and create systems for rederessal and reporting, for escalations. 
 > - Careleavers will be encouraged to live together as a family unit and learn to share responsibilities of running their own kitchen and home. 
 > - The CCI will conduct visits to the spaces to check the physical safety of structures, as well as the physical and social environment. 
 > - Orient the residents of the home with the community- negotiate ground rules and relationships with the landlords and community members
