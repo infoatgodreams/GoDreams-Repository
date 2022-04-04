@@ -304,7 +304,7 @@ tags: GOIAssociatedSectors
   - Encourage Women to eat well and take enough rest.
   - Encourage girls to go to higher school and learn.
   - Try to stop physical or mental abuse of women.
-  - Do not ignore women&#39;s health complaints.
+  - Do not ignore women's health complaints.
   - Raise your boys and girls with equal respect and love.
 
 ## Organising A Group Meeting
@@ -408,7 +408,7 @@ tags: GOIAssociatedSectors
   - Learn to use 4 some internal medicines/drugs. Paracetomol (para), chloroquine (chloro), Iron Folic acid (ferrous) and ORS. You will learn to use medicines belonging to other systems (Ayurveda) later.
   - Frequently injection and saline are given for profit and not for cure. False beliefs about injections and saline are rife. We become poorer by paying the hard earned money for many needless injections and saline.
   - Tonics are just some water, sugar, vitamins and some minerals.
-  - Tonics also create a false sense of cure. You need to educate people on the futility and costs of tonics. It will save peoples&#39; money being wasted
+  - Tonics also create a false sense of cure. You need to educate people on the futility and costs of tonics. It will save people's money being wasted
   - Some people use medicines lying in the house for illnesses. This can be unsafe
   - Medicines are very useful and are life saving at times. Overdose can be harmful, especially in children. Medicines can have side effects too. You should ask your doctors about the dosage schedule of drugs
 
@@ -430,7 +430,7 @@ tags: GOIAssociatedSectors
 - Kumari (Aleo Vera) Kumari (Aloe) is a garden plant.
   - In wounds, we can appear aloe in place of a medicated dressing.
   - Clean the wound with water. Apply the aloe slice on it and tie up with a clean cloth bandage.
-  - Kumari is used in several Ayurvedic preparations. It is useful for liver disorders and women&#39;s illnesses like pain in the periods.
+  - Kumari is used in several Ayurvedic preparations. It is useful for liver disorders and women's illnesses like pain in the periods.
 - Adusa is small shrub grown for fencing. It is good remedy for coughs. Use fresh juice or decoction of leaves. It is useful for bleeding disorders eg Blood in cough, blood in stools, urine etc. Take 50-60 gms of adusa leaves and wash them clean. Slow boil the leaves in one liter of water for half an hour. About one fourth water should be left. This is adusa Kawatha for coughs.Cool and filter it. Give 20 ml once, 2-3 times a day for three days. One can add sugar or honey as per requirement.
 - Kuda (Holerrhena antidysenterica) This is a forest tree with typical fruits.The bark or cover of the tree-stem is used for medicine. This is a good medicine for loose motions and dysentery.
 - Haldi (turmeric) is a powder of a root. Haldi also has great wound healing properties. People use haldi with oil for cuts and abrasions. The practice is to apply it with milk and chana dal flour (besan) at the time of bath, as UBTAN to improve complexion.
@@ -445,7 +445,7 @@ tags: GOIAssociatedSectors
 
 ### Preventing Pregnancies
 
-- Early marriage and teenage pregnancy is damaging to a woman&#39;s health in several ways. It leads to abortions, premature births, risky childbirth, small baby, and subsequent effects on the family. We can stop early child marriages by creating awareness in community.
+- Early marriage and teenage pregnancy is damaging to a woman's health in several ways. It leads to abortions, premature births, risky childbirth, small baby, and subsequent effects on the family. We can stop early child marriages by creating awareness in community.
 - Repeated pregnancies cause anemia, cancer cervix and prolapse of uterus
 - Abortions are best avoided, except when essential
 - Unsafe abortions through illegal providers (quack or doctor) are riskier than childbirth
@@ -515,7 +515,7 @@ tags: GOIAssociatedSectors
   - Hold the baby horizontal on the lap or besides if the mother is lying on side.
   - Hold the breast at the root of the nipple.
   - Put the baby's mouth to the breast.
-  - The baby gets a full hold of the nipple now. This is evident from the baby&#39;s upturned lips.
+  - The baby gets a full hold of the nipple now. This is evident from the baby's upturned lips.
   - Make sure the baby's head and body is held facing the breast without turn and twist.
   - Support the baby's head with one hand.
   - Clean the nipple after the baby leaves the breast.
@@ -529,7 +529,7 @@ tags: GOIAssociatedSectors
 - After six months of only breast feeding, the baby needs extra food to grow.
 - Start one new food type at a time, not many. Food like gruel, porridge, cooked vegetable, fruit pulp is good for babies after six months age.
 - If milk is given do not dilute it. Dilute milk is often the cause of malnutrition.
-- Prepare semi solid feeds from roasted, puffed grain, flour prepared from fermented grain (satva) are easy to digest. Add oil or ghee to child&#39;s food to improve nutrition.
+- Prepare semi solid feeds from roasted, puffed grain, flour prepared from fermented grain (satva) are easy to digest. Add oil or ghee to child's food to improve nutrition.
 - Eggs are a good source of body building element called proteins. Babies and children need frequent feeds every day.
 - Child should be offered food every three to four hours.
 - Washing hands before preparing food and feeding child is essential.
@@ -538,7 +538,7 @@ tags: GOIAssociatedSectors
 
 ## Immunization
 
-- BCG prevents Lung TB. BCG is usually injected on the baby&#39;s left shoulder. A scar is formed six weeks after injection. It shows that the child may have become immune to Lung TB.
+- BCG prevents Lung TB. BCG is usually injected on the baby's left shoulder. A scar is formed six weeks after injection. It shows that the child may have become immune to Lung TB.
 - OPV (Polio dose) prevents Polio. DPT protects the child from Diphtheria, whooping cough and Tetanus. Measles vaccine prevents measles
 - Immunization card is given for each child by the health worker and to be kept safely for further follow up
 - Some people have misconceptions about immunization. You need to dispel these.
@@ -548,7 +548,7 @@ tags: GOIAssociatedSectors
 
 - Germs are the main cause of childhood diarrhea. These germs come from unsafe drinking water, unclean feeding practices, bottle feeds etc.
 - Whatever the germ of diarrhea, the dehydration is the cause of deaths
-- The principle is to prevent dehydration.(loose motions may not stop for 2-3 days) Water needs to be restored quicky. Give the baby a lot of watery foods like &#39;Sharbat&#39;, coconut water, rice-kanji, light tea etc.
+- The principle is to prevent dehydration.(loose motions may not stop for 2-3 days) Water needs to be restored quicky. Give the baby a lot of watery foods like coconut water, rice-kanji, light tea etc.
 - ORS packets are available in your kit and with other health workers.
   - Empty the full packet of ORS a litre of water. Stir it. Start giving this fluid spoon by spoon to the child.
   - Prepare fresh ORS everyday.
@@ -575,7 +575,7 @@ tags: GOIAssociatedSectors
 
 - It is a signal that something is wrong inside the body or particular part having aches
 - Ache is a mild pain and we know of body ache, headache, backache etc.
-- We can group pains and aches related to head, skin, muscles, bones, and joints, limbs etc as &#39;body pains&#39;. Generally these are easy to treat
+- We can group pains and aches related to head, skin, muscles, bones, and joints, limbs and body pain. Generally these are easy to treat
 - The pains related to inside organs of chest, and abdomens are internal pains
 - We need to find out the illness and treat it whenever possible. Many drugs are available for pain relief
 - Headache, backache, body aches are often relieved with simple Paracetomol tablet.
@@ -586,11 +586,11 @@ tags: GOIAssociatedSectors
 
 ## TB
 
-- A TB patient&#39;s sputum has thousands of TB germs.
+- A TB patient's sputum has thousands of TB germs.
 - TB germs enter the lungs of nearby persons. In a weak person the germs survive and produce an illness. It may take months
 - Suspecting TB A person suffering from TB has one or more of these symptoms. The most common symptom of TB is cough lasting 3 or more weeks.
 - Sputum cough Evening fever with sweating, The patient may also have chest pain. Coughing up blood. (Bloodspit)
-- However, the following four points are important for suspected TB cases. Diagnosis needs checking patient&#39;s sputum under microscope. Escort the patient to nearest CHC/PHC, where facilities are available. No fees are charged for any tests or the treatment. AIDS patients can also have TB.
+- However, the following four points are important for suspected TB cases. Diagnosis needs checking patient's sputum under microscope. Escort the patient to nearest CHC/PHC, where facilities are available. No fees are charged for any tests or the treatment. AIDS patients can also have TB.
 - Very effective cure for TB is available. One has to take the medicines in front of ANM or MPW or any health provider. This is called directly observed treatment (DOT).
 - You can also be a provider for DOTs treatment to TB patients in your village
 - During treatment the sputum is tested periodically for germs of TB.
@@ -614,7 +614,7 @@ tags: GOIAssociatedSectors
   - Tie the entire limb with an elastic bandage.
   - This slows blood flow from the limb. Then tie a stick to the limb to lessen movement.Shift to the nearest hospital.
   - Keep looking for poison signs of drooping or bleeding. Take along the snake if it is brought killed. This helps in treatment.
-- Don&#39;ts
+- Dont's 
   - Do not waste valuable time in a temple or with a Tantrik. Remember even some Tantriks have died due to snakebite.
   - Do not tie a tourniquet (single band string as was practiced till sometime ago). This causes the bite to bleed and may also stop blood flow to the limb. More than 2 hours to tight tourniquet can cause blackening and then loss of the limb.
   - Do not kill and waste chickens as some villagers do to treat snake bite
