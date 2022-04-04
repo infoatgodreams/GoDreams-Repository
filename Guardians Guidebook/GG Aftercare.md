@@ -49,7 +49,8 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 
 Education & Employability 
 
-
+- Develops a directory of resources: Puts together a resource directory of schools, colleges, and distance learning universities to help residents choose options based on their interests.
+- Facilitates mentorship: Actively mentor residents to keep them motivated and avoid drop - outs. This also includes career counseling to help residents make decisions about their future.
 
 
 
