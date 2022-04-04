@@ -23,9 +23,13 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 > [!info]- Individualization of Care
 > - Individual care plans and individual aftercare plans are used and updated for all children
 > - The aftercare plan for development of the careleaver considers age, gender, trauma, special needs, sexual orientation, academic abilities, educational, vocational skills, mental health and physical health conditions
-> - 
-> - Children have private/personal spaces and safe peer groups
-> - Individual behavioral challenges are responded to quickly and without physical or emotional violence
-> - Confidential feedback systems available for children to express their views
+> - The Individual Care Plan is reviewed every 6 months
 
 
+> [!info]- Participatory Structures, policies and alliances
+> - Children's committees are set up and consistently participate in decision making on children's affairs
+> - Strong relationships must be  built with stakeholders in contact with children and part of the safety process (cwc, social workers, police, school staff, cci staff, parents , lawyers etc)
+> - Anonymous feedback structures must be rigorously implemented, including redressal committees, anonymous feedback boxes etc. 
+> - Peer-peer alliance built among children
+> 
+> 
