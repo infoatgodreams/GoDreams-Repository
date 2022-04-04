@@ -2,7 +2,6 @@
 
 Children in CCIs frequently are exposed to traumatic events pre-admission to CCIs and require specialized counselling, which is rarely available.  In addition to this, the structured group environment of the home & high child:caregiver ratios lead to very limited personlized attention for each child.  Children are also exposed to violence, bullying etc. at the CCI and school. According to one study, 56% of children in institutional care in 13 Indian states reported having experiences physical abuse at the institution. 
 
-
 Young adults often lack familial support systems, and typically have to independently deal with long term mental health issues such as depression, anxiety, adhd & suicidal ideation. Insitutionalization has been linked to poorer adult outcomes, particularly cognitive and emotional developmental issues such as lower IQ, poor attachment patterns, behavioral issues and distrust of others. 
 
 
@@ -10,12 +9,10 @@ Young adults often lack familial support systems, and typically have to independ
 
 ## Target Outcomes
 
-
 - Young adults show few somatic symptoms that are associated with institutional upbringing.
 - Young adults are able to smoothly transition into society, and have a healthy sense of self, decision making abilities and other crucial life skills. 
 - Young adults are able to create pseudo familial groups and leverage support systems around them. 
 - Young adults do not get involved in substance abuse and unsafe/criminal activities. 
-
 
 ## Indicative Outputs
 
@@ -38,9 +35,9 @@ Young adults often lack familial support systems, and typically have to independ
 > - Admission processes rooted in individualized mental and emotional support
 > - Children have access to consistent and specialized counselling at a fixed interval
 > - Children have private/personal spaces and safe peer groups
-> - Children have access to psychiatric treatment and required medication through qualified doctors
-> - Individual behavarioral challenges are responded to quickly and without physical or emotional violence
-> - Confidential Feedback systems present for children
+> - Individual behavioral challenges are responded to quickly and without physical or emotional violence
+> - Confidential feedback systems available for children to express their views
+
 
 
 > [!info]- Staff Practices
@@ -48,21 +45,24 @@ Young adults often lack familial support systems, and typically have to independ
 > - Caregiver exits and onboarding rooted in supporting positive attachment behavior among children
 > - Staff attrition minimized 
 > - Strong M&E, learning circles and Support Systems for staff
+> - Mental health support available for CCI staff
 > - Caregivers are able to create safe and personal relationships with children
 > - Caregivers trained in behavior management , language use guidelines
 > - Non caregiving staff, external adults sensitized (school staff, visitors, parents)
 >
 
 
-> [!info]- CCI Culture
+> [!info]- CCI Environment and Culture
 > - All scheduled events such as lunch/dinner, play time etc. are planned keeping the opportunity for caregiver:child interaction and building a positive cci culture in mind
 > - CCI should be a place that children associate with sense of safety, joy and "home-like" feeling
 > - CCI staff and leadership are trained to integrate core values of the institution in their actions with and around children and with and around each-other at the CCI
+> - Security cameras and other measures in place to ensure physical safety
+> - Private "child-only" spaces created for children
+> - Counselling spaces created that ensure privacy for children
 
 >[!info]- Children's Choice and Self Determination
 > - Children have strong feedback systems in place through feedback boxes, children's committees and other methods
 > - Children have personal spaces and child first areas within the institution (visitation limited)
-> - Peer-peer groups and relationships are actively encouraged and cultivated
 > - Children have multiple avenues for self expression through art/music/sport etc. 
 > - Children's schedules, while being sufficiently regimentated to ensure safety, are also open ended enough to allow for flexibility and preferences
 
@@ -70,9 +70,13 @@ Young adults often lack familial support systems, and typically have to independ
 >[!info]- Relationships and Mentorship
 > - All children have role models with frequent interaction
 > - Family like-groups built & cultivated  within the CCI and with relevant external stakeholders
-> - 
+> - Peer-peer groups and relationships are actively encouraged and cultivated
 
-- Food Security
-- Quality of Shelter
-- Quality of Caregiving
-- Access to healthcare 
+
+>[!info]- Access to professional support
+> - Children have access to regular counseling from qualified cousellors
+> - Children have access to qualified psychiatrist on request or recommendation by concerned stakeholders
+> - Required medications are tracked and administered by CCI staff on prescription by a qualified psychiatrist after consent taken from concerned parties
+> - Children have access to regular formal and informal life-skill training and support
+
+
