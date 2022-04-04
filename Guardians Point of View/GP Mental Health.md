@@ -35,12 +35,24 @@ Young adults often lack familial support systems, and typically have to independ
 > - Staff : Child ratios are minimal (5:1)
 > - Individual care plans are used and updated for all children
 > - Trauma assessment conducted during admission and periodically thereafter
+> - Admission processes rooted in individualized mental and emotional support
 > - Children have access to consistent and specialized counselling at a fixed interval
 > - Children have private/personal spaces and safe peer groups
 > - Children have access to psychiatric treatment and required medication through qualified doctors
-> - Individual behavarioral challenges are responded to quickly and th
+> - Individual behavarioral challenges are responded to quickly and without physical or emotional violence
 
-> [!info]- 
+
+> [!info]- Staff Practices
+> - Caregivers trained in trauma informed care and conducting restorative circles with children
+> - Caregiver exits and onboarding rooted in supporting positive attachment behavior among children
+> - Staff attrition minimized 
+> - Strong M&E, learning circles and Support Systems for staff
+> - Caregivers are able to create safe and personal relationships with children
+> - Caregivers trained in behavior management , language use guidelines
+> - Non caregiving staff, external adults sensitized 
+> 
+> 
+> - 
 
 
 - Food Security
