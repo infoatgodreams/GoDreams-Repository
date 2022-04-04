@@ -1,8 +1,6 @@
 ---
 title : Nutrition, Health and Psychosocial Profile of Institutionalized Children
-
 author: Navneeth
-
 tags: indianresearch
 ---
 
@@ -29,7 +27,9 @@ Scope: Institutionalized children in Uttar Pradesh, Andhra Pradesh, Karnataka an
 ## Related factors affecting nutrition
 - Differences in kind of shelter provided, quality of feeding and health care facility
 - Staff : Child Ratio
+
 # Physical Health
+[[Roll Ups/Physical Health/Physical Health]]
 - Height and weight of institutionalized children far below NCHS figures but better than rural and urban slum counterparts
 
 

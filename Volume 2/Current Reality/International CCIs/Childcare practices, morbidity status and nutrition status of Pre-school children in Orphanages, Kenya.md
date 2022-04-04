@@ -37,7 +37,8 @@ Context: To determine the childcare practices, morbidity status and nutrition st
 - The prevalence of the three forms of under-nutrition in this study was lower than the national figures. In addition, the levels of undernutrition are also lower than the WHO acceptable levels with an exception of wasting which is higher than the WHO acceptable levels of under-nutrition (Page 95)
 
 
-# Recommendations
+# Recommendations 
+[[Physical Health]]
 - Hand washing is effective in minimizing incidence of diseases such as cholera and diarrhoea among children. It also reduces deaths from diarrhoea and acute respiratory infections by almost half and one quarter respectively (Page 28)
 - The same study showed that among children in orphanages, 64% were stunted compared with 46% of the non- (Page 29)
 - 16 orphanage children. In addition, girls in orphanages were more likely to be malnourished than boys. (Page 30)
@@ -50,8 +51,8 @@ Context: To determine the childcare practices, morbidity status and nutrition st
 - The orphanage’s management in conjunction with the Ministry of Health should carry out monthly growth monitoring to detect early onset of malnutrition among children 6-59 months of age for timely intervention to reduce on cases of malnutrition. (Page 96)
 - The orphanages’ management should intensify the supervision of children during meal times to ensure adequate dietary intake and inclusive consumption of food. A watchful eye and gentle warning can save children from malnutrition caused by poor dietary intake. (Page 96)
 
-
 # Assessment tools
+[[Assessment Tools]]
 - A structured researcher-administered questionnaire for caregivers was the main data-collection tool. It was used to collect socio-demographic data, dietary intake, healthcare practices and anthropometric data. An observation checklist and Key InformantInterview (KII) guide were used to gather information on experiences and challenges on dietary practices, health care, water, hygiene, sanitation and other concerns relevant to the study about children in orphanages. (Page 39)
 - Data on dietary practices was collected using a 7 day food frequency questionnaire and a 24-hour food recall. Anthropometric data was collected using SECA scale and paediatric height board. (Page 39)
 - Water and Hygiene practices were assessed by collecting information on whether there was availability and accessibility of water for drinking and washing hands, frequency of brushing teeth and bathing, availability of latrines/ toilets or bathrooms and human waste disposal. Caregivers who reported bathing the children daily were rated as having good bathing hygiene while those who bathed children four to six times a week and less than four times a week were rated as having adequate and poor bathing hygiene respectively (UNICEF, 2009c). (Page 42)

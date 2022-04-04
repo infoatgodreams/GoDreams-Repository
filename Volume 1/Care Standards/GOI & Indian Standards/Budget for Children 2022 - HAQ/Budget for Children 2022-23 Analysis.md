@@ -75,7 +75,7 @@ Anaemia Mukt Bharat Scorecard [Assessment Tools](Roll%20Ups/Assessment%20Tools.m
 * The Economic Survey 2021-22 attempts to glorify and applaud the health expenditure against the GDP, it must be borne in mind that we are looking at serious issues of uniformity in achieving the SDG targets among all the States and Union Territories and reducing gender disparities.
 
 
-## CHILD EDUCATION  
+## Child Education [[Education]]  
 * Allocation for child education in the Union Budget 2022-23 has increased by 15.04 per cent in absolute terms with a total allocation of INR 69835.72 Crore at BE stage.
 * The share of child education in the overall Union Budget 2022-23 has witnessed only a marginal increase of 0.3 percentage points (from 1.74% in 2021-22 to 1.77% in 2022-23).
 * The major increase in the Education Budget can be attributed to a 20.40 per cent increase in the allocation for Samagra Shiksha Abhiyan.
@@ -111,7 +111,7 @@ Anaemia Mukt Bharat Scorecard [Assessment Tools](Roll%20Ups/Assessment%20Tools.m
     * Of the females who committed suicides, highest number (22,372) was of house-wives followed by students (5,559).
 
 
-## CHILD DEVELOPMENT  [[Roll Ups/Nutrition/Nutrition]] [[Roll Ups/Assessment Tools]]
+## Child Development  [[Roll Ups/Nutrition/Nutrition]] [[Roll Ups/Assessment Tools]]
 
 * The overall budget for Child Development programmes as a part of the Union Budget 2022-23 accounts for an allocation of INR 17826.03 Crore.
 * Child Development programmes, which largely include nutrition and day care related programmes for children under 6 years that used to be part of the Umbrella ICDS scheme, have seen a reduced allocation of 10.97 per cent in the 2022-23 Union Budget.
@@ -131,7 +131,7 @@ Anaemia Mukt Bharat Scorecard [Assessment Tools](Roll%20Ups/Assessment%20Tools.m
 	* The quality of Early Childhood Care and Development (ECCD) is thus emerging as a major parameter to sustain the relevance of ICDS.
 	* Gaps and inadequacies in ICDS financing, infrastructure and human resources have detrimental effects on service delivery and require renewed attention.
 
-## CHILD PROTECTION
+## Child Protection
 [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md)
 * Child protection has been one of the least prioritized sectors in terms of resource allocation over the years. 
 * In 2022-23, child protection has received **only 0.04 per cent **of the **total Union Budget.**
