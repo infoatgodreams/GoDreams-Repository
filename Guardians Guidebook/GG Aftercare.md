@@ -78,9 +78,10 @@ CCI Immersion
 - The Goal of the immersion phase in Aftercare is to: 
 	- Gauge baseline levels of attention and time spent on preparing children for transition
 	- Gauge the extent of support available to careleavers once they step out of the institution
-	- Identify gaps in Knowledge/Skills/Minsets of CCI staff and other stakeholders
-	- Identify key challenge areas preventing CCIs from building a safe environment
-- The [[Child Safety Immersion]] roll up contains a summary of our learning from CCIs
+	- Identify gaps in Knowledge/Skills/Minsets of CCI staff and other stakeholders in preparing and executing the Individualised Care Plan
+	- Identify key challenge areas preventing CCIs from building a comprehensive Aftercare support system for careleavers
+	- Gauge the readiness of careleavers in transitioning to an independent life
+- The  roll up contains a summary of our learning from CCIs
 
 
 Partnerships: 
