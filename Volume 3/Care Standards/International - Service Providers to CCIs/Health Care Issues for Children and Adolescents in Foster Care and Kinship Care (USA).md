@@ -6,25 +6,20 @@ author: Rimjhim Sharma
 
 tags:
 
-- InServicesforCNCP
+- Practitioner 
+
 
 ---
 
 # Brief:
-
--
-## The paper talks about the state of children and adolescents as they enter foster care. It encompasses the medical, mental health, oral health, and the psychosocial problems that are embedded from childhood traumatic history. The role of Pediatricians and child welfare professionals for ensuring the well-being of children in foster care is also discussed.
+- The paper talks about the state of children and adolescents as they enter foster care. It encompasses the medical, mental health, oral health, and the psychosocial problems that are embedded from childhood traumatic history. The role of Pediatricians and child welfare professionals for ensuring the well-being of children in foster care is also discussed.
 - Link: [https://drive.google.com/file/d/1cEvll8ncD1ZF2seFDQLZC0FO1f-iRqtl/view?usp=sharing](https://drive.google.com/file/d/1cEvll8ncD1ZF2seFDQLZC0FO1f-iRqtl/view?usp=sharing)
 - Original Link: [www.pediatrics.org/cgi/doi/10.1542/peds.2015-2655](http://www.pediatrics.org/cgi/doi/10.1542/peds.2015-2655)
--
-## Date: October, 2015
--
-## Author: American Academy of Pediatrics
-- Summarized By: Rimjhim
--
-## Gold Standard Inputs &amp; Outcomes: (Brief 1 liner + Table of content links/link to sections) -- great outcomes/inputs anywhere
--
-## Baseline Inputs &amp; Outcomes: (Brief 1 liner + Table of content links/link to sections) -- indian homes basic standards
+- Date: October, 2015
+- Author: American Academy of Pediatrics
+- Summarized By: Rimjhim Sharma
+- Gold Standard Inputs & Outcomes: (Brief 1 liner + Table of content links/link to sections) -- great outcomes/inputs anywhere
+- Baseline Input & Outcomes: (Brief 1 liner + Table of content links/link to sections) -- indian homes basic standards
 
 # Children in Foster Care:
 
@@ -71,7 +66,7 @@ tags:
 - Continued communication with the child&#39;s caseworker is essential to ensure implementation of the child&#39;s health plan and its integration into the child welfare permanency plan.
 - In a system abundant with transitions and psychosocial stressors, it is recommended that children in foster care be seen monthly during the first 6 months of life, every 3 months from 6 to 24 months of age, and then at a minimum of every 6 months to monitor their health, emotional wellbeing, development, psychosocial stressors, continued adjustment to their foster family, and visitation with birth parents or other relatives.
 
-### Information Accessibility &amp; Sharing:
+### Information Accessibility & Sharing:
 
 - Information sharing is crucial to health care coordination. Several states have developed electronic data-sharing systems to improve communication among the child welfare and health care systems.
 - Some states have adopted an abbreviated paper or computerized medical record, often referred to as a &quot;health passport.&quot; For the child in foster care, the health passport should include the child&#39;s chronic health problems, allergies, medications, psychosocial and family histories, trauma history, and developmental and immunization information.
@@ -91,15 +86,15 @@ tags:
 
 #### Role:
 
-- Assessing each child&#39;s unique health needs at entry into foster care is critical, and pediatricians must be prepared to provide necessary care even when little or no specific information about the child&#39;s health history is available at the time of the visit.
+- Assessing each child's unique health needs at entry into foster care is critical, and pediatricians must be prepared to provide necessary care even when little or no specific information about the child's health history is available at the time of the visit.
 - Pediatricians caring for children in foster care will often be asked to prescribe psychotropic medications for children with behavioral problems and/or they will encounter children on psychotropic medication.
-- Pediatricians can be advocates for children in their care to ensure that each child&#39;s health needs are met, screen for signs of abuse and neglect at every health encounter, remain alert to the quality of the caregiver–child relationship, and share any concerns with the child&#39;s caseworker.
-- Pediatricians can welcome foster and kinship caregivers, caseworkers, and birth parents, when appropriate, to health visits and educate them about the effects of childhood trauma and adversity on a child&#39;s emotional and developmental health.
+- Pediatricians can be advocates for children in their care to ensure that each child's health needs are met, screen for signs of abuse and neglect at every health encounter, remain alert to the quality of the caregiver–child relationship, and share any concerns with the child's caseworker.
+- Pediatricians can welcome foster and kinship caregivers, caseworkers, and birth parents, when appropriate, to health visits and educate them about the effects of childhood trauma and adversity on a child's emotional and developmental health.
 - Focusing all caregivers on working together on behalf of the child is an important role for pediatricians.
 - Pediatricians may also want to check immunization registries and regional health information organizations for information about individual children.
 - An encounter that includes the birth parent(s) is an opportunity to obtain a more detailed health history.
-- In addition, pediatricians can encourage foster care agencies to send the foster parent, or at least a knowledgeable case manager, to a youth&#39;s appointment to facilitate the collection of health information.
-- Pediatricians have a role in educating foster caregivers, caseworkers, birth parents, and adoptive parents about a child&#39;s health issues, the treatment plan, and the importance of providing predictable nurturance, normalizing activities, and the maintenance of similar routines and expectations across environments.
+- In addition, pediatricians can encourage foster care agencies to send the foster parent, or at least a knowledgeable case manager, to a youth's appointment to facilitate the collection of health information.
+- Pediatricians have a role in educating foster caregivers, caseworkers, birth parents, and adoptive parents about a child's health issues, the treatment plan, and the importance of providing predictable nurturance, normalizing activities, and the maintenance of similar routines and expectations across environments.
 
 #### Challenges:
 
@@ -121,24 +116,24 @@ tags:
 
 ### Child welfare professional/case workers
 
-- The child welfare professional is ultimately responsible for obtaining and making the child&#39;s health information available.
+- The child welfare professional is ultimately responsible for obtaining and making the child's health information available.
 - Child welfare professionals can assist with determining who has the authority to consent for health care services on behalf of a child and familiarize pediatricians with specific consent guidelines, including those regarding the prescription of psychotropic medications, when applicable.
 - The child welfare caseworker is also responsible for ensuring that the pediatrician has all needed health information.
 - Child welfare caseworkers are also ultimately responsible for ensuring that children in foster care receive all appropriate and recommended healthcare.
-- Child welfare professionals should incorporate the results and recommendations of comprehensive assessments into the child&#39;s court approved social service case plan (often called the permanency plan) to ensure that the multiple health needs of children and adolescents in foster care are addressed.
+- Child welfare professionals should incorporate the results and recommendations of comprehensive assessments into the child's court approved social service case plan (often called the permanency plan) to ensure that the multiple health needs of children and adolescents in foster care are addressed.
 
 ### Foster parents:
 
 - Foster parents remain the major therapeutic intervention of the foster care system. Stable placement with a warm, nurturing, empathic, attuned caregiver is ideal.
 - The foster/kinship home environment, stability in a placement, kinship placement, an empathic relationship among foster caregivers and birth parents, and consistent quality visitation have been shown to improve (or are recommended by experts to improve) child outcomes.
-- Evidence indicates that foster parents and caseworkers may not fully appreciate all of a child&#39;s health conditions and lack the expertise to access and negotiate a complex health care system on behalf of children with significant needs.
+- Evidence indicates that foster parents and caseworkers may not fully appreciate all of a child's health conditions and lack the expertise to access and negotiate a complex health care system on behalf of children with significant needs.
 
 ### Medical Home:
 
 - For children entering foster care, enrollment in a medical home is imperative to ensure the receipt of high-quality, comprehensive, coordinated health care that is continuous over time, compassionate, culturally competent, family centered, and child focused.
-- The medical home can create a foster care–friendly environment by obtaining a copy of signed consents from the foster care agency and maintaining them as a part of the child&#39;s health record, having contact information for the child&#39;s caseworker in the child&#39;s chart, and sending a summary of the health visit that includes immunizations and other recommendations to the child&#39;s caseworker after each health care encounter.
+- The medical home can create a foster care–friendly environment by obtaining a copy of signed consents from the foster care agency and maintaining them as a part of the child's health record, having contact information for the child's caseworker in the child's chart, and sending a summary of the health visit that includes immunizations and other recommendations to the child's caseworker after each health care encounter.
 - A way to create a foster care–friendly office is to familiarize staff with the effects of childhood trauma so that all staff members provide trauma informed care and use trauma informed language.
-- The pediatric medical home can schedule more frequent health visits for children and adolescents in foster care to monitor the child&#39;s ongoing health needs and treatment, given the complexity of their health issues
+- The pediatric medical home can schedule more frequent health visits for children and adolescents in foster care to monitor the child's ongoing health needs and treatment, given the complexity of their health issues
 
 ## Recommendations by AAP:
 
@@ -149,10 +144,10 @@ tags:
 - Become educated on the unique microculture of foster care, particularly the effects of previous trauma/toxic stress, especially abuse and neglect, and the effects of ongoing uncertainty, transitions, and losses on children, teenagers, and families.
 - Develop office systems for communicating with caseworkers, foster caregivers, and other professionals during or after each health encounter. Collaboration with the caseworker or the health care manager for the child is fundamental to ensuring that health needs are addressed.
 - Become educated on state privacy, consent, and confidentiality laws affecting children and adolescents in foster care, including specific consent issues related to the administration of psychotropic medication.
-- Incorporate the results of a child&#39;s comprehensive evaluation into a health care summary that is shared with the child welfare professional. Make a special effort to educate children and adolescents about their own health needs and care.
+- Incorporate the results of a child's comprehensive evaluation into a health care summary that is shared with the child welfare professional. Make a special effort to educate children and adolescents about their own health needs and care.
 - Pediatricians should immunize children in foster care per AAP recommendations. In the absence of this signed consent, the pediatrician is advised to obtain permission for immunization administration through the child welfare agency administration according to its protocols.
 
-### For Screening and Clinical Care:
+### Measurement tools [[impact assessment]]
 
 - All children and adolescents should have a comprehensive evaluation of their medical, mental health, developmental, educational, and oral health status within 30 days of placement.
   - Ideally, all children should receive developmental, educational, and/or mental health evaluations, but priority should be given to children with needs identified through screening when resources are limited.
@@ -166,12 +161,11 @@ tags:
     - If concerned about sexual abuse, testing for HIV and other sexually transmitted infections should be performed.
     - Physical signs of abuse or neglect should be documented in writing and with photography of affected areas.
 
-## Important Acts and Guidelines related to children&#39;s health and safety:
+## Important Acts and Guidelines related to children's health and safety:
 
 - Child and Family Services Improvement and Innovation Act of 2011: involves a report in November 2011 by the US Government Accountability Office calling for increased oversight of these medications by states and subsequent federal legislation mandating greater oversight by states
 - The Patient Protection and Affordable Care Act (2010) supports the expansion of the medical home model to meet the health needs of all patients, particularly those with complex health problems.
 - Fostering Connections to Success and Increasing Adoptions Act (2008), requires that states, in consultation with pediatricians and other health experts, develop systems for health oversight and coordination for children in foster care. This act outlines the important pieces of coordinated care: periodic health assessments, shared health information, provision of care in the context of a medical home, and oversight of prescription medications (particularly psychotropic drugs).
-- The Child and Family Services Improvement and Innovation Act (2011) built on the well-being provisions of the Fostering Connections to Success and Increasing Adoptions Act to support children&#39;s emotional and developmental health and to ensure the oversight of psychotropic medications.
+- The Child and Family Services Improvement and Innovation Act (2011) built on the well-being provisions of the Fostering Connections to Success and Increasing Adoptions Act to support children's emotional and developmental health and to ensure the oversight of psychotropic medications.
 - The Standards of Excellence for Health Care Services for Children in Out-of-Home Care (updated in 2007): In 1988, the Child Welfare League of America, in consultation with the AAP, published guidelines for developing and organizing medical and mental health services for children in foster care.
 - Fostering Health: Health Care for Children and Adolescents in Foster Care (2005) by the AAP involves detailed practice parameters for primary health care, developmental and mental health assessments, child abuse and neglect screening, and health care management.
-```

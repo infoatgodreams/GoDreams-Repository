@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 3/Care Standards/International - Service Providers to CCIs/Untitled.md",
+            "file": "Volume 3/Care Standards/International - Service Providers to CCIs/Health Care Issues for Children and Adolescents in Foster Care and Kinship Care (USA).md",
             "mode": "source",
             "source": false
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tags",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 3/Care Standards/International - Service Providers to CCIs/Untitled.md",
+                "file": "Volume 3/Care Standards/International - Service Providers to CCIs/Health Care Issues for Children and Adolescents in Foster Care and Kinship Care (USA).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,19 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "f50aa9141af07238",
   "lastOpenFiles": [
-    "Volume 3/Care Standards/International - Service Providers to CCIs/Untitled.md",
-    "conflict-files-obsidian-git.md",
-    "Guardians CAP Repository.md",
-    "Untitled.md",
-    "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
-    "Volume 2/Care Standards/GOI & Indian Standards/Aftercare Guidelines Karnataka.md",
-    "Volume 2/Care Standards/GOI & Indian Standards/Guidelines for After Care of Children under ICPS.md",
-    "Volume 2/Care Standards/India - Service Providers to CCIs/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md",
-    "Volume 2/Current Reality/India CCIs/Child Care Institutions; Aftercare InterventionsnA case of Madhya Pradesh.md",
-    "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md"
+    "Volume 3/Care Standards/International - Service Providers to CCIs/Health Care Issues for Children and Adolescents in Foster Care and Kinship Care (USA).md",
+    "Index Pages/🏷️Tags Index.md",
+    "Index Pages/📜Comprehensive Index.md",
+    "Index Pages/📜List of Tags being used.md",
+    "Index Pages/🧘Stakeholder Index.md",
+    "Index Pages/🗞️Domain Roll Up Index.md",
+    "Volume 1/Current Reality/International CCIs/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
+    "Index Pages/📖Reading List.md",
+    "Guardians Point of View/GP Nutrition.md",
+    "Guardians Point of View/GP Mental Health.md"
   ]
 }
