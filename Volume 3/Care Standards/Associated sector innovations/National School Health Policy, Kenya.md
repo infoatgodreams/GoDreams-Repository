@@ -62,7 +62,7 @@ These components can be understood with respect to the key practices they are a 
 ## Access to health and nutritional services
 
 - Every child has a right to quality health and nutrition services. School establishments are expected to be the tool towards achieving this goal in partnership with the communities in and out of school. Access to health and nutrition services shall be facilitated for vulnerable groups.
-- Good nutrition is essential to realize the learning potential of children and to maximize returns on educational investments. Malnutrition affects a child&#39;s attentiveness, concentration, aptitude and overall performance. Efforts shall be made to promote good nutrition practices in schools by integrating nutrition interventions including micronutrient supplementation into school activities.
+- Good nutrition is essential to realize the learning potential of children and to maximize returns on educational investments. Malnutrition affects a child's attentiveness, concentration, aptitude and overall performance. Efforts shall be made to promote good nutrition practices in schools by integrating nutrition interventions including micronutrient supplementation into school activities.
 - The following shall be implemented in order to optimize school nutrition services:
   - Links shall be promoted between routine health and nutrition services and school activities, including regular monitoring of nutritional status of children
   - Support shall be provided for the referral of malnourished children to health facilities, counselling services, feeding programmes and other community agencies and services which can respond to identified needs
@@ -86,7 +86,7 @@ These components can be understood with respect to the key practices they are a 
     - Provision of balanced meals for children in all schools
     - Encouraging children in day schools to carry nutritious snacks and lunch
     - Supplementary feeding for children from the most underserved, food insecure regions, from pockets of poverty and those affected by natural and man-made disasters.
-  - Community involvement and ownership of school feeding programmes greatly increases the programme&#39;s success and sustainability. For these reasons
+  - Community involvement and ownership of school feeding programmes greatly increases the programme's success and sustainability. For these reasons
     - Communities shall be involved in planning, mobilization of resources and the management of school feeding programmes.
     - Communities shall be encouraged to ensure a minimum level of local food production to ensure sustainability
 
@@ -364,7 +364,7 @@ The learners shall be educated about harmful sexual practices and child abuse.
 	- Girls will undergo voluntary medical screening once per term
 	- A pregnant female learner shall be allowed to continue with classes for as long as possible
 	- Both the student and her parents shall be counselled on the importance of ensuring a good outcome of the pregnancy by attending Ante-Natal Clinic and ensuring safe delivery, and the possibilities of continuing with education after delivery
-	- Efforts shall be made to get information on circumstances leading to pregnancy and about the other party involved. A children&#39;s officer shall be informed.
+	- Efforts shall be made to get information on circumstances leading to pregnancy and about the other party involved. A children's officer shall be informed.
 	- Action, including legal action will be taken if the father of the unborn child is an adult (over 18 years). Child-fathers (boys less than 18 years) shall receive counselling and rehabilitation
 	- Young mothers shall be encouraged to learn to look after their child in order to bond with the child as much as possible
 	- New born babies must be allowed the benefit of breastfeeding as much as possible including exclusive breastfeeding for six months and introduction of complementary feeding at 6 months of age while continuing breastfeeding
@@ -440,4 +440,4 @@ The School Health Programme is an inter-sectoral initiative in which Ministries,
 
 ### Responsibilities of school management committee
 
-  - The School Management committee (SMC) will be comprised of the Head Teacher (HT) as the secretary, the chairman and the treasurer who will be drawn from the Parents&#39; Association, representatives from the District Education Board (DEB), the sponsor, a special needs education specialist and the Ministry of Public Health and Sanitation.
+  - The School Management committee (SMC) will be comprised of the Head Teacher (HT) as the secretary, the chairman and the treasurer who will be drawn from the Parents Association, representatives from the District Education Board (DEB), the sponsor, a special needs education specialist and the Ministry of Public Health and Sanitation.
