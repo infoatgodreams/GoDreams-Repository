@@ -40,6 +40,7 @@ Young adults often lack familial support systems, and typically have to independ
 > - Children have private/personal spaces and safe peer groups
 > - Children have access to psychiatric treatment and required medication through qualified doctors
 > - Individual behavarioral challenges are responded to quickly and without physical or emotional violence
+> - Confidential Feedback systems present for children
 
 
 > [!info]- Staff Practices
@@ -49,11 +50,27 @@ Young adults often lack familial support systems, and typically have to independ
 > - Strong M&E, learning circles and Support Systems for staff
 > - Caregivers are able to create safe and personal relationships with children
 > - Caregivers trained in behavior management , language use guidelines
-> - Non caregiving staff, external adults sensitized 
-> 
-> 
-> - 
+> - Non caregiving staff, external adults sensitized (school staff, visitors, parents)
+>
 
+
+> [!info]- CCI Culture
+> - All scheduled events such as lunch/dinner, play time etc. are planned keeping the opportunity for caregiver:child interaction and building a positive cci culture in mind
+> - CCI should be a place that children associate with sense of safety, joy and "home-like" feeling
+> - CCI staff and leadership are trained to integrate core values of the institution in their actions with and around children and with and around each-other at the CCI
+
+>[!info]- Children's Choice and Self Determination
+> - Children have strong feedback systems in place through feedback boxes, children's committees and other methods
+> - Children have personal spaces and child first areas within the institution (visitation limited)
+> - Peer-peer groups and relationships are actively encouraged and cultivated
+> - Children have multiple avenues for self expression through art/music/sport etc. 
+> - Children's schedules, while being sufficiently regimentated to ensure safety, are also open ended enough to allow for flexibility and preferences
+
+
+>[!info] - Relationships and Mentorship
+> - All children have role models with frequent interaction
+> - Family like-groups built & cultivated  within the CCI and with relevant external stakeholders
+> - 
 
 - Food Security
 - Quality of Shelter
