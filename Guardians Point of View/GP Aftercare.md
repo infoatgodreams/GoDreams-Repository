@@ -37,7 +37,7 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 > [!info]- Mobility and Self- Dependence
 > - Equip careleavers with basic conflict resolution skills, financial management and create systems for rederessal and reporting, for escalations. 
 > - Complete an access audit, to ensure careleavers are aware of access to public transit systems, basic civic amenities, educational institutions and vocational training centres. 
-> - Train  CCI will conduct visits to the spaces to check the physical safety of structures, as well as the physical and social environment. 
+> - Impart life-skills training through individual and group training sessions- to focus on relationships, self & social acceptance, problem-solving skills and Train  CCI will conduct visits to the spaces to check the physical safety of structures, as well as the physical and social environment. 
 > - Orient the residents of the home with the community- negotiate ground rules and relationships with the landlords and community members
 > - The organization follows a participatory process to put together a list of practices that are in the best interests of the careleavers 
 > - Organizes orientations on personal safety, including sharing details of helplines and support organizations in the neighbourhood, including the police stations. 
