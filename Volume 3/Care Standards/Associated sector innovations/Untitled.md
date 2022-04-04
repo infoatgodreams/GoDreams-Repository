@@ -19,8 +19,8 @@ tags:
 - Date: 2009
 - Author: Ministry of public health &amp; sanitation and Ministry of education
 - Summarized By: Rimjhim
-- Gold Standard Inputs &amp; Outcomes: (Brief 1 liner + Table of content links/link to sections) -- great outcomes/inputs anywhere
-- Baseline Inputs &amp; Outcomes: (Brief 1 liner + Table of content links/link to sections) -- indian homes basic standards
+- Gold Standard Inputs & Outcomes: (Brief 1 liner + Table of content links/link to sections) -- great outcomes/inputs anywhere
+- Baseline Inputs & Outcomes: (Brief 1 liner + Table of content links/link to sections) -- indian homes basic standards
 
 # Need for a comprehensive school health policy:
 
@@ -70,14 +70,14 @@ These components can be understood with respect to the key practices they are a 
   - Local communities shall be involved in the production of nutritious food
   - Learning institutions shall offer nutritious food of good quality and in adequate quantity
   - Food handlers shall undergo regular medical examination.
--
+
 ### Enhancing Nutrition Education in Schools
 
   - The following shall be implemented in order to enhance nutrition education in schools:
     - Curricula shall be regularly reviewed and updated in order to enhance nutrition information
     - Emphasis shall be laid on the use of locally available foods
     - Teachers shall be well trained and in-serviced on nutrition issues.
--
+
 ### School Feeding Programme (SFP)
 
   - School feeding programmes contribute to decreased hunger, which helps children concentrate on their studies. This helps to increase the attention and concentration of learners, thereby producing gains in cognitive function and learning.
@@ -110,7 +110,7 @@ These components can be understood with respect to the key practices they are a 
   - School management and stakeholders shall ensure that the environment around the schools remains healthy
   - Resource mobilization mechanism and budget line for construction, operation and maintenance of sanitation &amp; hygiene shall be strengthened
   - District Education Office and key partners will be equipped to support and provide guidance on good management, monitoring and evaluation.
--
+
 ### Disease prevention and control:
 
   - Schools shall be required to ensure that they take measures to prevent diseases through health education and implementation of preventive interventions. Some of these diseases are:
