@@ -16,19 +16,19 @@ Links: [Google Drive](https://drive.google.com/file/d/15ZcGOEPJG7O8ThoApTrEBc8iW
 
 - [Section 1 Monitoring Your Food And Nutrition Program](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#Section%201%20Monitoring%20Your%20Food%20And%20Nutrition%20Program) It is recommended that allfacilities have an internal monitoring system for their food and nutrition program.
 - [Section 2 Individual Nutrition Care Planning](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#Section%202%20Individual%20Nutrition%20Care%20Planning) Each person who lives in the homeneeds to have a written nutrition care plan.
-- [SECTION 3 FOOD TEXTURES MODIFIED FLUIDSAND SWALLOWING DISORDERS](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%203%20FOOD%20TEXTURES%20MODIFIED%20FLUIDSAND%20SWALLOWING%20DISORDERS). Those wholive in residential care facilities may need to have their foods and fluids modified intexture to meet their chewing and swallowing needs.
-- [SECTION 4 SPECIAL DIETS](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%204%20SPECIAL%20DIETS). Some people require special diets as part of the control ofhealth conditions
-- [SECTION 5 HEALTHY EATING](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%205%20HEALTHY%20EATING). This section of the manual covers the new Eating Wellwith Canada’s Food Guide as well as the nutrition topics of fluids, fibre and salt.
-- [SECTION 6 MENU PLANNING](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%206%20MENU%20PLANNING) This section of the manual discusses the topics of menuplanning including developing cycle menus, making menu substitutions and standardizing recipes.
-- [SECTION 7 Lunches to Go Eating Out Snacks](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%207%20Lunches%20to%20Go%20Eating%20Out%20Snacks). These present special circumstances in menu planning. Healthy eating choices for each of these situationsare discussed.
-- [SECTION 8 Purchasing Food Wisely](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%208%20Purchasing%20Food%20Wisely) Once the menu is developed, the next step is to purchase the food items. This section discusses how to reduce food costs and howto read nutrition labels.
+- [Section 3 Food Textures modified fluids and and swallowing disorders](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%203%20FOOD%20TEXTURES%20MODIFIED%20FLUIDSAND%20SWALLOWING%20DISORDERS). Those wholive in residential care facilities may need to have their foods and fluids modified intexture to meet their chewing and swallowing needs.
+- [Section 4 Special Diets](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%204%20SPECIAL%20DIETS). Some people require special diets as part of the control ofhealth conditions
+- [Section 5 Healthy Eating](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%205%20HEALTHY%20EATING). This section of the manual covers the new Eating Wellwith Canada’s Food Guide as well as the nutrition topics of fluids, fibre and salt.
+- [Section 6: Menu Planning](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%206%20MENU%20PLANNING) This section of the manual discusses the topics of menuplanning including developing cycle menus, making menu substitutions and standardizing recipes.
+- [Section 7 Lunches to Go Eating Out Snacks](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%207%20Lunches%20to%20Go%20Eating%20Out%20Snacks). These present special circumstances in menu planning. Healthy eating choices for each of these situationsare discussed.
+- [Section 8 Purchasing Food Wisely](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%208%20Purchasing%20Food%20Wisely) Once the menu is developed, the next step is to purchase the food items. This section discusses how to reduce food costs and howto read nutrition labels.
 - [Section 9 Managing Food Safely](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#Section%209%20Managing%20Food%20Safely) Food safety is important inthe facility setting. Proper measures for storing and handling foods are discussed.
-- [SECTION 10 The Dining environment and Mealtime assistance](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%2010%20The%20Dining%20environment%20and%20Mealtime%20assistance) This section of the manual covers a broad range of topics including the dining environment, common eating problems, providing assistance, and eating and behaviour challenges.
-- [SECTION 11 EMERGENCY PLANNING](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%2011%20EMERGENCY%20PLANNING)To ensure food provision is in place during emergencies, this section outlines how to develop an emergency plan.
-- [SECTION 12 Considerations for Children](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%2012%20Considerations%20for%20Children) Most facilities are for adults, but a few provide services to children. A lot of the information covered in the manual can beused for both adults and children. Section 12 of the manual also provides more specific information about foods and nutrition for children.
+- [Section 10 The Dining environment and Mealtime assistance](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%2010%20The%20Dining%20environment%20and%20Mealtime%20assistance) This section of the manual covers a broad range of topics including the dining environment, common eating problems, providing assistance, and eating and behaviour challenges.
+- [Section 11 Emergency Planning](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%2011%20EMERGENCY%20PLANNING)To ensure food provision is in place during emergencies, this section outlines how to develop an emergency plan.
+- [Section 12 Considerations for Children](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/British%20Columbnia/Canada_British%20Columbia_Food%20and%20Nutrition%20Manual%20for%20homes.md#SECTION%2012%20Considerations%20for%20Children) Most facilities are for adults, but a few provide services to children. A lot of the information covered in the manual can beused for both adults and children. Section 12 of the manual also provides more specific information about foods and nutrition for children.
 ---
 
-# SECTION 1: Monitoring Your Food And Nutrition Program
+# Section 1: Monitoring Your Food And Nutrition Program
 - A monitoring program helps a facility to maintain health and safety standards.
 - Keep copies of the results of your checklists for at least one year. You may want to havea specific binder just for keeping the completed checklists. Remember to sign and date them.
 - Checklists, Forms and their purpose: 
@@ -39,8 +39,7 @@ Links: [Google Drive](https://drive.google.com/file/d/15ZcGOEPJG7O8ThoApTrEBc8iW
 	- Care and Assisted Living Form in terms of nutrition care planning.
 	- Mealtime Checklist: To review the mealtime environment in the facility.
 	- Meals and More Checklist: To determine whether key information contained in theMeals and More manual has been implemented in the facility
-	- 
-
+	
 ## [[Menu Checklist]] 
 - The purpose of this checklist is to review the facility’s menu to see if it meets the minimum recommendations of the Eating Well with Canada’s Food Guide.
 - This means it will also meet the regulations for residential care under the Community Care and Assisted Living Act.
@@ -76,9 +75,7 @@ Links: [Google Drive](https://drive.google.com/file/d/15ZcGOEPJG7O8ThoApTrEBc8iW
 	- After this, the nutrition care plan should be reviewed and updated at least once a year for adults. For children, it should be reviewed and updated at least every six months.
 
 
-
-
-# SECTION 2 : Individual Nutrition Care Planning
+# Section 2 : Individual Nutrition Care Planning
 [[Individual Nutrition Care Plan]]
 
 - A nutrition care plan is a tool for staff that ensures that the person in care receives consistent and quality nutrition care.
@@ -86,9 +83,6 @@ Links: [Google Drive](https://drive.google.com/file/d/15ZcGOEPJG7O8ThoApTrEBc8iW
 	- The initial nutrition care plan is completed at admission and ideally is reviewed within 14 weeks of admission. Thereafter, the plan must be reviewed at least once a year for adults. 
 	- For children, the plan should be reviewed at least every six months. The plan should also be reviewed in response to any changes for adults or children.
 	- Staff develop the nutrition care plan. They also ensure that the services of a Registered Dietitian are obtained in response to a person’s needs. These needs are determined by completing the Food and Nutrition Information Form and the screening form When to Refer to a Dietitian.
-
-
-
 - Nutrition Planning and Feedback Cycle
 	- Step 1: Assess and Complete Food and Nutrition Information Form
 		- Identify Strengths and Concerns.
@@ -132,8 +126,6 @@ Links: [Google Drive](https://drive.google.com/file/d/15ZcGOEPJG7O8ThoApTrEBc8iW
 
 
 ### Food and Nutrition Information
-
-
 
 ### SCREENING FORM - [[When to Refer to a Registered Dietitian]]
 
@@ -181,7 +173,7 @@ Private Practice RD |  Provide services such as menu writing. These services are
 Health Services for Community Living or Community Living British Columbia RD | Health Services for Community Living (HSCL) or Community Living British Columbia (CLBC) RDs provide clinical nutrition support to those whose health and safety is at high riskbecause of swallowing problems and/or complex nutritionhealth issues. Contact your licensing officer or HSCL Nurse formore information on this program
 
 
-# SECTION 3: [[Food Textures, Modified Fluids and Swallowing Disorders]]
+# Section 3: [[Food Textures, Modified Fluids and Swallowing Disorders]]
 
 - Texture modifications are required for people who have trouble chewing or swallowingand generally include:
  -  cut-up foods (bite-sized foods and finger foods) 
@@ -233,7 +225,7 @@ Health Services for Community Living or Community Living British Columbia RD | H
 - Warning Signs of a Swallowing Disorder Checklist
 
 
-# SECTION 4: [[SPECIAL DIETS]]
+# Section 4: Specaial Diets [[SPECIAL DIETS]]
 - Cholesterol-Lowering Diet
 - Diet for Diabetes Management
 - High-Fibre Diet
@@ -245,7 +237,7 @@ Health Services for Community Living or Community Living British Columbia RD | H
 - Food and Medication Interactions
 
 
-# SECTION 5 : HEALTHY EATING
+# Section 5: Healthy Eating
 [[Food Serving Size Standards]]
 - [[Grain Products]]
 	- One serving equals: Note that items such as fruit crisps, rice pudding and bread pudding count as partialservings of grain products. Those that are high in sugar, fat and calories (for example,cakes) are not counted.
@@ -402,7 +394,7 @@ Health Services for Community Living or Community Living British Columbia RD | H
 		-  using lower-sodium broths and bouillon cubes.
 		-  adding less salt when cooking and flavouring foods with lemon, herbs or spices instead of salt.
 
-# SECTION 6: [[MENU PLANNING]]
+# Section 6: [[MENU PLANNING]]
 - A cycle menu is planned for many days and repeated at the end of a given time period. For example, a four-week menu contains menus for Week 1, Week 2, Week 3 and Week 4. At the end of Week 4 the cycle menu is repeated from the beginning.
 	-  A planned, written menu helps to: 
 		- save money and time, make shopping easier and reduce food waste.
@@ -794,7 +786,7 @@ RETAIL | • can take advantage of specials, coupons <br>• can hand-select fre
 	- Are there forbidden foods or food combinations? Are there foods that are servedduring illness, or at celebrations?
 	- Are dairy products eaten on a regular basis? Are they served hot or cold? Are theycooked with rice or tapioca? Are they served as buttermilk or yogurt?
 
-# SECTION 11 :EMERGENCY PLANNING
+# Section 11: Emergency Planning
 [[Food Emergency Planning]]
 - Emergency plans for handling disasters will ensure that the needs of those in care continue to be met.
 - **Provide safe water and food.**
@@ -843,7 +835,7 @@ RETAIL | • can take advantage of specials, coupons <br>• can hand-select fre
 	- Store some of the food in portable containers (for example, in case you need to leave the home). Large ice chests with wheels are a good choice.
 	- During the emergency use the foods in your refrigerator. Next use the frozen foods inyour freezer. Canned foods and mixes are used last.
 
-# SECTION 12: Considerations for Children
+# Section 12: Considerations for Children
 
 - As part of meal planning ensure that furniture and eating utensils are suitable so that the children can enjoy mealtimes. 
 - Nutrition education for children should be part of thefacility program. 
