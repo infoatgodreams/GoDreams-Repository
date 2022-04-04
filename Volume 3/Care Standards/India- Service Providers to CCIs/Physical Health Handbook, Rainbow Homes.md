@@ -14,7 +14,7 @@ tags: #Practitioner
 - Link:NA
 - Original Link: [https://issuu.com/rainbowfoundationindia/docs/health\_mannual](https://issuu.com/rainbowfoundationindia/docs/health_mannual)
 - Date: June 2005
-- Author: Indradhanush Academy, Centre for Equity Studies
+- Author: Indradhanush Academy, Centre for Equity Studies, Rainbow Homes
 - Gold Standard Inputs & Outcomes: (Brief 1 liner + Table of content links/link to sections) -- great outcomes/inputs anywhere
 - Baseline Inputs & Outcomes: (Brief 1 liner + Table of content links/link to sections) -- indian homes basic standards
 
@@ -154,7 +154,7 @@ tags: #Practitioner
 
 ### Contents of individual health file
 
-- General assessment the child&#39;s detailed history
+- General assessment the child's detailed history
 - Physical health assessment and medical records
 - Psychosocial assessment
 - Child's own assessment
@@ -193,7 +193,7 @@ tags: #Practitioner
 
 ### **Growth monitoring** to identify the children who need urgent intervention
 
-- This includes measuring weight and height calculation of body mass index- for BMI not down age of the child weight of the child in kg height of the child in cm. BMI is a number that indicates the person&#39;s weight in proportion to height
+- This includes measuring weight and height calculation of body mass index- for BMI not down age of the child weight of the child in kg height of the child in cm. BMI is a number that indicates the person's weight in proportion to height
 - Height for age growth indicator that relieves height to a child's age
 - Wait for each growth indicator that reliefs weight to a child age
 - Plot measurements on growth charts
@@ -332,7 +332,7 @@ tags: #Practitioner
 
 - Protect the child from additional injury
 - avoid fall by making the child lie down
-- do not place anything in child&#39;s mouth
+- do not place anything in child's mouth
 - Loose restrictive clothing place on one side to prevent swallowing
 - clear the area around to prevent injury from sharp objects
 - do not give food or medications during a seizure
@@ -406,7 +406,7 @@ tags: #Practitioner
 - paracetamol should be given if necessary,
 - Itching is relieved by cool baths and calamine lotion
 - Scratching should be discouraged
-- Prevention- vaccine for chickenpox but it&#39;s not routinely prescribed
+- Prevention- vaccine for chickenpox but its not routinely prescribed
 
 ### Malaria
 
@@ -428,7 +428,7 @@ tags: #Practitioner
 - Ensure that TB is either diagnosed or ruled out by doctor
 - TB medicines will continue for at least six months
 - if if the child is in home with health workers - to ensure that medicine is being taken consistently
-- If child has to go home, train the child to take medicines, provide sufficient amount of medicines to cover the entire duration of the child&#39;s stay
+- If child has to go home, train the child to take medicines, provide sufficient amount of medicines to cover the entire duration of the child's stay
 - provide extra nutrition in the form of egg and milk if necessary specific danger signs when the child does not get better after 23 weeks or if there is difficulty in breathing at any stage or if there is jaundice
 - Prevention-Taking the BCG vaccine in early childhood prevents some form of TB overcrowding and malnutrition - create conditions for TB
 - the best way to prevent by identifying persons with illness and getting completed
