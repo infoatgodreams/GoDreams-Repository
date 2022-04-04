@@ -278,7 +278,7 @@ Some of them are listed as follows:
 - Educate the child that she is not obligated to share any personal information withany person. If a stranger or a nominally familiar person discloses his or her personal information, it doesn’t mean the child is obligated to share similar information about herself with him/her.
 - Discuss with the child about consent. Inform her that there is nothing wrong with sounding ‘rude’ and saying NO if the person continues to pressurize or botherher. Saying NO is the child’s right, and it is a complete sentence without requiring any further elaboration or justification.
     
-# Child Abuse 
+# Child Abuse Prevention
 
 ## Systems in Childcare Institutions
 
