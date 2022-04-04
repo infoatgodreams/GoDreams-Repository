@@ -13,6 +13,5 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 
 ## Indicative Outputs
 - In preparation for transition, each child has a strong Individual Care Plan (ICP) as a tool for planning for the overall development of the child, with close and activie participation from the careleaver
-- Careleavers are supported for continued higher-education or specialised vocational training programs until they are employed
-
-**
+- Careleavers are supported to continue higher-education or specialised vocational training programs until they are employed
+- 
