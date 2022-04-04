@@ -27,9 +27,19 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 
 
 > [!info]- Access to safe living spaces
-> - Children's committees are set up and consistently participate in decision making on children's affairs
-> - Strong relationships must be  built with stakeholders in contact with children and part of the safety process (cwc, social workers, police, school staff, cci staff, parents , lawyers etc)
-> - Anonymous feedback structures must be rigorously implemented, including redressal committees, anonymous feedback boxes etc. 
-> - Peer-peer alliance built among children
+> - Physical spaces i.e Aftercare homes or group homes must be located within the same community to facilitate the integration process. 
+> - Careleavers will be encouraged to live together as a family unit and learn to share responsibilities of running their own kitchen and home. 
+> - The CCI will conduct visits to the spaces to check the physical safety of structures, as well as the physical and social environment. 
+> - Orient the residents of the home with the community- negotiate ground rules and relationships with the landlords and community members
+> - The organization follows a participatory process to put together a list of practices that are in the best interests of the careleavers 
+> - Organizes orientations on personal safety, including sharing details of helplines and support organizations in the neighbourhood, including the police stations. 
+
+> [!info]- Mobility and Self- Dependence
+> - Physical spaces i.e Aftercare homes or group homes must be located within the same community to facilitate the integration process. 
+> - Careleavers will be encouraged to live together as a family unit and learn to share responsibilities of running their own kitchen and home. 
+> - The CCI will conduct visits to the spaces to check the physical safety of structures, as well as the physical and social environment. 
+> - Orient the residents of the home with the community- negotiate ground rules and relationships with the landlords and community members
+> - The organization follows a participatory process to put together a list of practices that are in the best interests of the careleavers 
+> - Organizes orientations on personal safety, including sharing details of helplines and support organizations in the neighbourhood, including the police stations. 
 > 
 > 
