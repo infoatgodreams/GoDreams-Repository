@@ -9,7 +9,7 @@ tags:
 
 [Link to the paper](https://drive.google.com/file/d/1dLv6dVrUjUXisEWIHisCS4MHficDf4yz/view?usp=sharing)
 
-## MAJOR HIGHLIGHTS:
+## Major Highlights:
 
 * Children in India receive the lowest share of financial allocations made in the last 11 years.
 * Allocations for Welfare of Children, the total allocation for children in Union Budget 2022-23 (BE) is INR 92736.5 Crore against an allocation of INR 85712.56 Crore in the Union Budget 2021-22 (BE).
@@ -44,7 +44,7 @@ tags:
     * The share of children under the Saksham Anganwadi and Poshan 2.0 scheme has observed a reduced allocation of of 11.28 per cent with allocations going down from INR 19412.5 Crore in 2021-22 (BE) to INR 17223.61 Crore in Union Budget 2022-23 (BE).
     * The scheme includes the Umbrella ICDS, Poshan Abhiyan and Scheme for Adolescent Girls, a miniscule increase of 0.8 per cent cannot address the nutrition issues of children under six years, adolescent girls and pregnant and lactating mothers etc. 
 
-## CHILD HEALTH 
+## Child Health [[Physical Health]] 
 
 * The allocation for Child Health has decreased by 6.08 per cent with allocations going down from INR 3727.57 Crore in 2021-22 to INR 3501.11 Crore in Union Budget 2022-23.
 * The overall allocation for Child Health (under the allocation for Department of Health and Family Welfare/ Demand No. 46), has gone down by 6.01 per cent.
