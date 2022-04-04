@@ -7,14 +7,20 @@ tags:
 
 # Introduction
 
-### Principles of child safety in a childcare institution[^6]
+## Principles of child safety in a childcare institution[^6]
 - recognition of best interests of the child
 - respect for dignity, liberty and freedom
 - respect for agency and active participation of the child
 - respect for privacy and confidentiality
 - zero tolerance of any form of abuse
 - child protection is a responsibility for anyone who is directly or indirectly associated with the children
- 
+
+## Expected outcomes of a safe childhood
+- Children will be safe, and be able to voice out concerns, highlight red flags, if any.
+- Children will develop leadership skills, be self-confident, aware of social issues
+- Behavioral issues will decrease, children’s participation will increase
+- Children will be able to articulate problems, find solutions and work with CCI management to resolve
+
 # Types of vulnerabilities in children
 ## Physical abuse
 Definition:- [^6]any action that causes pain, injury, hurt or discomfort is considered to be childhood abuse
@@ -112,9 +118,11 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 
 
 # Prevention of Harm
-## Logistical arrangements 
+
+## Logistical arrangements for Child Safety
 - The CCI needs to be free from chemical, noise, air, etc., pollution; and
 - Free from hazardous physical structures like wells, swamps, unprotected ponds, open sewers, deep ditches etc.
+
 - ### According to Ethiopian[^5] Guidelines:
 	- For a small home
 	- A self-contained home in a childcare institution shall not have more than three bedrooms for the children and one for the home mother.
@@ -150,7 +158,7 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 - Each victim shall have a separate single bed or his/her own area in a double or triple room of a suitable size, with a suitable bed and bedding, seating, storage for clothes, lockable or otherwise safe storage for personal possessions, a window with sufficient light for study and other work.
 - Staff sleeping rooms shall not be part of the communal living area (except in case of very young or sick children) but should be located close to the victims' bedrooms to respond to night time needs.
     
-## Caregiving Requirements 
+## Caregiving for Child Safety
 
 ### Who are the caregivers?
 - A trained social worker must be appointed
@@ -162,8 +170,8 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 - NO male staff in girl’s home
 - The provision for security to guard the place, should be as per the ICPS standards
 
-### Code of Conduct
-#### DOs 
+### Code of Conduct for caregivers
+### Dos
 - Be visible and not in a secluded place while in contact with children at the work place
 - Protect the child by not disclosing the identity of the child outside the team
 - Uphold the privacy of the child by not disclosing the identity of the child to the media
@@ -173,7 +181,7 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 - All visitors must be accompanied by staff, security guard mandatory, visitors given passes
 - One manager in the home at all times, day and night
  
- #### DONTs 
+### Donts 
 - Do not sleep alone with any child
 - Do not stay back at the child care institution/orphanage or interact with children after dark/ 19:00 hours
 - Do not do things for children of a personal nature that they can do themselves, such as use the toilet, bathe or change clothes (unless the child is severely ill or injured - in such case, another staff / caretaker should also be present)
@@ -192,8 +200,7 @@ For Rainbow's caregivers
 - Two training sessions conducted with all staff, parents and local police
 - Half day refresher training once a year for all staff
     
-
-# Working with Children
+### Working with children
 - Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
 - Children may not conform to all the rules and the staff can decide what are acceptable.
 - Extreme disciplining may lead to defiance in children.
@@ -201,7 +208,7 @@ For Rainbow's caregivers
 - While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
 - Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
 
-## Dealing with emotions & attachment
+### Dealing with emotions & attachment
 - The best way to work with children is to be empathetic towards them.
 - Children can quickly understand who understands them and who cannot understand them. When a child has a fight and is angry with everyone, caregiver could go near and ask permission to sit nearby. The caregiver could say that “I can understand that you are angry and do you want to talk about it?”
 - As an adult living with children, express your emotions on the child’s behavior. Only being patient is not the way to deal with children experiencing emotional and behavioral challenges.
@@ -219,9 +226,7 @@ For Rainbow's caregivers
 - It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
     
 
-## Training/ Upskilling the child
-
-### General safety and culture
+## Training children to prioritize child safety
 - Acc to a manual by Prerana [^2] Under any circumstances, no form of sexual maltreatment is ever alright. Have regular conversations with children with regard to personal safety
 - Orientation for all kids within a week of their arrival
 - Once in 3 months refresher
@@ -236,8 +241,8 @@ For Rainbow's caregivers
 - Show them that mechanisms exist to take care of them and their concerns will be taken up seriously
 - Teach them that secrets are not good, no matter who asks them to keep the secrets
 - Celebrate certain child specific days to reiterate these points like child labour, international children’s day, etc
-
-# Travel Guidelines for Children
+    
+## Training children to travel safely
 
 Some of them are listed as follows:
 - Inform the child not to get into a crowded bus/train as it is unsafe and risky. Wait for the next bus to arrive.
@@ -263,8 +268,7 @@ Some of them are listed as follows:
 - Make the child aware that she can also approach a store in a nearby mall, a supermarket, or a well-lit, family restaurant.
 - Ensure that the child memorizes some important toll-free and such other emergency phone /helpline numbers e.g. of Naunihal, the police, Childline Helpline numb
     
-## Stranger Danger
-
+### Stranger Danger
 - Discuss with the child the benefit of yelling when in trouble, as it is a discuss with the child the benefit of yelling as a good way to seek attention from passers-by - 
 - Cultivate an understanding in the child that it is unsafe to leave food and drinks unattended at any point. 
 - The child should not accept anything to eat or drink from a stranger. - Discuss with children how consuming unattended/already opened food and beverages is harmful as the food or drink can be spiked with drugs causing intoxication, etc.
@@ -274,12 +278,11 @@ Some of them are listed as follows:
 - Educate the child that she is not obligated to share any personal information withany person. If a stranger or a nominally familiar person discloses his or her personal information, it doesn’t mean the child is obligated to share similar information about herself with him/her.
 - Discuss with the child about consent. Inform her that there is nothing wrong with sounding ‘rude’ and saying NO if the person continues to pressurize or botherher. Saying NO is the child’s right, and it is a complete sentence without requiring any further elaboration or justification.
     
-# Child Abuse identification & prevention
+# Child Abuse 
 
-## Systems to set up
+## Systems in Childcare Institutions
 
-### Child Protection Committee (CPC)
-
+### Child protection committeee (CPC)
 -   [^6] -Select one staff as CPO -CPO needs to be mature, approachable, trusted by children, has been there for at least a year and doesn't plan to leave soon, listens well and maintains privacy, drives everything in the interest of the children.
 - What does the CPO do?
 	- CPO ensures quarterly meeting with CPC
@@ -289,56 +292,46 @@ Some of them are listed as follows:
 	- CPO brings up a violation immediately with CPC or project-in charge
 	- CPO meets children every month to orient them about child protection
 	- Support survivors with sensitivity and care
-	    
 - Who constitutes the child protection committee at Rainbow Homes?
 	- 5 members, 3 women
 	- 3 mature persons with child work experience
 	- 1 is the project in charge or home coordinator
 	- Mature dedicated long term volunteers PS: If more than 3 are not available for an enquiry, then a teacher/counselor can be asked to join
 	    
-### Children's Committee
-
+### Children's committee
 [^10]
 - Child Participation means that children can discuss and co-decide on all matters that affect them, like family, school, community matters, government policies, legal policies.
 - Person-in-charge of every institution for children shall facilitate the setting up of children’s committees for different age groups of children, that is in the age group of 6 to 10 years, 11 to 15 years and 16 to 18 years and these children’s committees shall be constituted solely by children.
 
-#### Responsibilities of the Committee
-- Improvement of the condition of the institution
-- Reviewing standards of care being followed
-- Creative expression of their views through wall papers or newsletters or paintings or music or theater;
-- Developing educational, vocational and recreational plans
-- Respecting each other and supporting each other in managing crisis
-- Reporting abuse and exploitation by peers and caregivers
-- Management of institutions through the Management Committee.
+	#### Responsibilities of the committee
+	- Improvement of the condition of the institution
+	- Reviewing standards of care being followed
+	- Creative expression of their views through wall papers or newsletters or paintings or music or theater;
+	- Developing educational, vocational and recreational plans
+	- Respecting each other and supporting each other in managing crisis
+	- Reporting abuse and exploitation by peers and caregivers
+	- Management of institutions through the Management Committee.
 
-#### Governance of the Committee
-- President chairs the monthly meetings, reviews work done, plan
-- Ministers report and discuss issues related to their portfolio. President reports to CCI superintendent 
-- CCI superintendent must provide the Committee with stationary, suggestion box, register, petty cash, badges to the children who constitute the committee.
-- Meetings must be minuted. 
-- Review of suggestions is carried out
-- When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
+	 #### Governance
+	- President chairs the monthly meetings, reviews work done, plan
+	- Ministers report and discuss issues related to their portfolio. President reports to CCI superintendent 
+	- CCI superintendent must provide the Committee with stationary, suggestion box, register, petty cash, badges to the children who constitute the committee.
+	- Meetings must be minuted. 
+	- Review of suggestions is carried out
+	- When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
 
-### Safety Audit and Evaluation Tools
-- Aangan [^1] recommends a Standardized Evaluation of performance, criteria &systems.
-- Standardize monitoring tool combining criteria related to infrastructure, interaction and activity 
+# Assessment Tools
+- Aangan recommends a Standardized Evaluation of performance, criteria &systems.
+- Standardize monitoring tool combining criteria related to infrastructure, interaction and activity .
 - External Evaluation through Vigilance Committees.
 - Develop self monitoring tool.
 - Capacity building of staff to use tool for internal monitoring and goal setting
 
-# Expected Outcomes of a safe environment
--   Children will be safe, and be able to voice out concerns, highlight red flags, if any.
-- Children will develop leadership skills, be self-confident, aware of social issues
-- Behavioral issues will decrease, children’s participation will increase
-- Children will be able to articulate problems, find solutions and work with CCI management to resolve…
     
-# Responding to cases of abuse
-
+# Response protocols to child abuse
 ## Protocol recommended by service providers
-
-## At Rainbow Homes 
-[^6] 
--   CPC should meet before 3 days has passed after the incident
+### At Rainbow Homes, 
+- CPC should meet before 3 days has passed after the incident
 - CPC can suspend the accused but will continue to respect both the child and the accused
 - Benefit of doubt given to the child, burden of proof on the adult
 - After inquiry, the complainant can be fired, make a police complaint, transfer them or do nothing based on the results.
@@ -349,16 +342,14 @@ Some of them are listed as follows:
 - Info about the incident should be reported to the state officer immediately and keep them updated about progress
 - Any aggrieved party if they disagree with the CPC can make an appeal to the appeal committee with national and state team members.
 
-## At CSA (Catalysts for Social Action) 
-[^9]
-- Report the matter in writing, directly to the Director
--  The Director together with the Program Officer will investigate the matter and take appropriate action in accordance with the guidelines for disciplinary action as has been followed in the past OR outlined in the CSA’s Employee Handbook
+### At CSA [^9]
+- Report the matter in writing, directly to the Director-CSA 
+- The Director together with the Program Officer will investigate the matter and take appropriate action in accordance with the guidelines for disciplinary action as has been followed in the past OR outlined in the CSA’s Employee Handbook
 - While the matter is under investigation, the individual who is suspected of having committed a child protection violation must be removed from direct contact with children
 - The matter is to be addressed and brought to closure within a month of having been reported
 - If the abuse falls under IPC (Indian Penal Court) or any other relevant law, First Information Report (FIR) must be filed with the local police by CSA HR Systems
 
-## NCPCR Protocol
-
+### NCPCR Protocol
 [^11]
 - Lodge a complaint with the police
 - Conduct initial enquiry and send report to the Board or Committee or Children’s court within 24 hours
@@ -369,7 +360,7 @@ Some of them are listed as follows:
 - DCPO will be responsible for organizing counselling sessions for the child in question
 - The person in charge needs to send a report to the DM, Police and the Board/Committee/ Children’s court
 - In the case of natural death, the person in charge needs a report from the medical officer about cause of death within 15 days and needs to send written intimation to
-	-   police station
+	- police station
 	- board/committee/children’s court
 	- DM/SP
 	- NHRC
@@ -379,8 +370,7 @@ Some of them are listed as follows:
 - In case of unnatural deaths or suicides, photos and videos need to be captured for future records
 - In all cases, magistrate needs to complete an inquiry within 4 weeks of receiving the notice
     
-## Responding to the Survivor 
-
+## Responding to the survivor
 -   [^6] Find a quiet place to talk and listen to the child carefully
 - Be careful not to make any negative comments about the abuser because the child might care about them
 - Write down the info in as much detail as possible. Dont correct the language. Respect the child’s feelings and listen carefully.
@@ -391,7 +381,7 @@ Some of them are listed as follows:
 - Validate that their decision to trust and share with you was a good, safe and responsible one.
 - Ensure that consistent messages are given to the child. Hence, it is important for caregivers to regularly communicate with each other.
 
-## Responding to a child perpetrator
+## Responding to a child perpetrator of violence
 [^8]
 - Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
 - Whenever a child is seen engaging in unacceptable behavior or is found doing something that is unacceptable, the child should be first asked what he/she was up to. Listen to children. After knowing what the child was doing, an adult can explain why a behavior is inappropriate.
@@ -406,8 +396,7 @@ Some of them are listed as follows:
 - If you see a child lying, you can talk about the situation and address the lying instead of labeling the child as “liar” r “chor/stealer”
 - In severe cases of physical or sexual abuse the PO could also conduct group sessions with the perpetrators on relevant themes.
 
-## Role of police in responding to child abuse
-
+## Police response to child abuse
 - DD entry made and read to the informant
 - FIR registered under relevant section of POCSO and free copy handed over to the person reporting
 - Medical exam should be done acc to section 164 crpc. Should be in the presence of a guardian or support person + done by a woman doc recommended by head of hospital.
@@ -415,37 +404,34 @@ Some of them are listed as follows:
 - Victim cannot be called to the police station. Should be recorded at any other place or residence, preferably by women officers
 - IO must submit report to the cwc and special court within 24 hours for all POCSO cases
 - Only SI or above can handle POCSO cases
-  
 
-## Information to be provided to the child
-- Private and public emergency centres
-- Procedural steps of prosecution
-- Victim compensation benefits
-- Status of investigation as long as it doesn't interfere with the investigation.
-- Arrest of the offender
-- Filing of charges against offender
-- Schedule of court proceedings the child needs to attend
-- Bail, release, detention status
-- Verdict after trial
-- Sentence imposed
+	### Information to provide to the child
+	- Private and public emergency centres
+	- Procedural steps of prosecution
+	- Victim compensation benefits
+	- Status of investigation as long as it doesn't interfere with the investigation.
+	- Arrest of the offender
+	- Filing of charges against offender
+	- Schedule of court proceedings the child needs to attend
+	- Bail, release, detention status
+	- Verdict after trial
+	- Sentence imposed
 
+	### CONCERNED PENALTIES:
+	- For non registration of CCIs- up to 1 year imprisonment or minimum 1 lakh fine or both to the registered caregiver
+	- Punishment for cruelty to a child- up to 3 year imprisonment or minimum 1 lakh fine or both (if proved that the circumstances are beyond the control of biological parents to take care of them, then the penal position doesnt apply)
+	- CCI caregiver convicted - 5 years rigorous imprisonment and fine upto 5 L or both
+	- Corporal punishment: 10,000 fine for first offence, subsequent offences will land in imprisonment for 3 months or fine or both
+	- Adoption: Adoption without regulations can lead to imprisonment for upto 3 years and a fine of a lakh or both
 
-## Concerned penalties for CCIs
-- For non registration of CCIs- up to 1 year imprisonment or minimum 1 lakh fine or both
-- Punishment for cruelty to a child- up to 3 year imprisonment or minimum 1 lakh fine or both (if proved that the circumstances are beyond the control of biological parents to take care of them, then the penal position doesnt apply)
-- CCI caregiver convicted - 5 years rigorous imprisonment and fine upto 5 L or both
-- Corporal punishment: 10,000 fine for first offence, subsequent offences will land in imprisonment for 3 months or fine or both
-- Adoption: Adoption without regulations can lead to imprisonment for upto 3 years and a fine of a lakh or both
-
-## Response to Media
-[^9]
+## Response to media about child abuse[^9]
 - Need to ensure, to the best of its ability, that while highlighting child protection issues, the media does not disclose the identity and details such as name, address, photograph of the child, locality and school.
 - All calls from media referred to the project head first
 - Do not release the names of children or any identifying information to the media without prior clearance or clear consent from the guardian and the child
 - General images where the child is not identifiable does not require parental/guardian permission
 - If it's shot from an educational/co-curricular perspective, prior permission is not needed, as long as the video is instructional or for an extracurricular activity.
 
-## Post-crisis reflection
+## POST CRISIS REFLECTION
 Important questions to ask:
 - Overall, did the emergency plan work?
 - What worked well, why?
@@ -455,7 +441,7 @@ Important questions to ask:
 - What specific problems arose? Were they resolved and if yes, how?
 - Was comms ongoing until the situation was resolved?
 
-# Assessment Tools
+# MEASUREMENT TOOLS 
 [Assessment Tools](Roll%20Ups/Assessment%20Tools.md)
 - Socio-Demographic Performa was constructed for the study consisting of 2 major sections. First, was the personal history regarding a child’s age, gender, **socio-economic status (SES),** and school history. [[Kuppuswamy scale]] was used for SES assessment (Tabassum and Rao, 2017).
 	- The second section on **family history** included information on the age, education, and income of parents or head of the family, family history of psychiatric or physical illness, type of family, number of family members, living space, history of substance use, history of other forms of abuse, history of exposure to parental violence or any other significant life events.
@@ -533,7 +519,8 @@ Important questions to ask:
 			- Poor Self-efficacies(In Academics)
 			- Trouble Concentrating
 
-
+# POCSO:
+- Pocso references to be added
 
 # Footnotes:
 [^1]: [Aangan - Changing Spaces](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Aangan/Aangan%20-%20Changing%20Spaces.md)
