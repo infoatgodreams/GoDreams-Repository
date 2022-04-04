@@ -26,7 +26,7 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 > - The Individual Care Plan is reviewed every 6 months
 
 
-> [!info]- Participatory Structures, policies and alliances
+> [!info]- Access to safe living spaces
 > - Children's committees are set up and consistently participate in decision making on children's affairs
 > - Strong relationships must be  built with stakeholders in contact with children and part of the safety process (cwc, social workers, police, school staff, cci staff, parents , lawyers etc)
 > - Anonymous feedback structures must be rigorously implemented, including redressal committees, anonymous feedback boxes etc. 
