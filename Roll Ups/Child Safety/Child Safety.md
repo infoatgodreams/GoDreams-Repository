@@ -327,14 +327,11 @@ Some of them are listed as follows:
 - Develop self monitoring tool.
 - Capacity building of staff to use tool for internal monitoring and goal setting
 
-
     
-# RESPONSE TO CHILD ABUSE
-
+# Response protocols to child abuse
 ## Protocol recommended by service providers
-
-[^6] AT RAINBOW HOMES
--   CPC should meet before 3 days has passed after the incident
+### At Rainbow Homes, 
+- CPC should meet before 3 days has passed after the incident
 - CPC can suspend the accused but will continue to respect both the child and the accused
 - Benefit of doubt given to the child, burden of proof on the adult
 - After inquiry, the complainant can be fired, make a police complaint, transfer them or do nothing based on the results.
@@ -345,14 +342,14 @@ Some of them are listed as follows:
 - Info about the incident should be reported to the state officer immediately and keep them updated about progress
 - Any aggrieved party if they disagree with the CPC can make an appeal to the appeal committee with national and state team members.
 
-## AT CSA [^9]
-- Report the matter in writing, directly to the Director-CSA • The Director together with the Program Officer will investigate the matter and take appropriate action in accordance with the guidelines for disciplinary action as has been followed in the past OR outlined in the CSA’s Employee Handbook
+### At CSA [^9]
+- Report the matter in writing, directly to the Director-CSA 
+- The Director together with the Program Officer will investigate the matter and take appropriate action in accordance with the guidelines for disciplinary action as has been followed in the past OR outlined in the CSA’s Employee Handbook
 - While the matter is under investigation, the individual who is suspected of having committed a child protection violation must be removed from direct contact with children
 - The matter is to be addressed and brought to closure within a month of having been reported
 - If the abuse falls under IPC (Indian Penal Court) or any other relevant law, First Information Report (FIR) must be filed with the local police by CSA HR Systems
 
-## NCPCR Protocol
-
+### NCPCR Protocol
 [^11]
 - Lodge a complaint with the police
 - Conduct initial enquiry and send report to the Board or Committee or Children’s court within 24 hours
@@ -363,7 +360,7 @@ Some of them are listed as follows:
 - DCPO will be responsible for organizing counselling sessions for the child in question
 - The person in charge needs to send a report to the DM, Police and the Board/Committee/ Children’s court
 - In the case of natural death, the person in charge needs a report from the medical officer about cause of death within 15 days and needs to send written intimation to
-	-   police station
+	- police station
 	- board/committee/children’s court
 	- DM/SP
 	- NHRC
@@ -373,8 +370,7 @@ Some of them are listed as follows:
 - In case of unnatural deaths or suicides, photos and videos need to be captured for future records
 - In all cases, magistrate needs to complete an inquiry within 4 weeks of receiving the notice
     
-## RESPONDING TO THE SURVIVOR
-
+## Responding to the survivor
 -   [^6] Find a quiet place to talk and listen to the child carefully
 - Be careful not to make any negative comments about the abuser because the child might care about them
 - Write down the info in as much detail as possible. Dont correct the language. Respect the child’s feelings and listen carefully.
@@ -385,7 +381,7 @@ Some of them are listed as follows:
 - Validate that their decision to trust and share with you was a good, safe and responsible one.
 - Ensure that consistent messages are given to the child. Hence, it is important for caregivers to regularly communicate with each other.
 
-## RESPONDING TO A CHILD PERPETRATOR
+## Responding to a child perpetrator of violence
 [^8]
 - Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
 - Whenever a child is seen engaging in unacceptable behavior or is found doing something that is unacceptable, the child should be first asked what he/she was up to. Listen to children. After knowing what the child was doing, an adult can explain why a behavior is inappropriate.
@@ -400,8 +396,7 @@ Some of them are listed as follows:
 - If you see a child lying, you can talk about the situation and address the lying instead of labeling the child as “liar” r “chor/stealer”
 - In severe cases of physical or sexual abuse the PO could also conduct group sessions with the perpetrators on relevant themes.
 
-## ROLE OF POLICE IN RESPONDING TO CHILD ABUSE
-
+## Police response to child abuse
 - DD entry made and read to the informant
 - FIR registered under relevant section of POCSO and free copy handed over to the person reporting
 - Medical exam should be done acc to section 164 crpc. Should be in the presence of a guardian or support person + done by a woman doc recommended by head of hospital.
@@ -409,30 +404,27 @@ Some of them are listed as follows:
 - Victim cannot be called to the police station. Should be recorded at any other place or residence, preferably by women officers
 - IO must submit report to the cwc and special court within 24 hours for all POCSO cases
 - Only SI or above can handle POCSO cases
-  
 
-### INFORMATION THAT THE CHILD NEEDS ACCESS TO
-- Private and public emergency centres
-- Procedural steps of prosecution
-- Victim compensation benefits
-- Status of investigation as long as it doesn't interfere with the investigation.
-- Arrest of the offender
-- Filing of charges against offender
-- Schedule of court proceedings the child needs to attend
-- Bail, release, detention status
-- Verdict after trial
-- Sentence imposed
+	### Information to provide to the child
+	- Private and public emergency centres
+	- Procedural steps of prosecution
+	- Victim compensation benefits
+	- Status of investigation as long as it doesn't interfere with the investigation.
+	- Arrest of the offender
+	- Filing of charges against offender
+	- Schedule of court proceedings the child needs to attend
+	- Bail, release, detention status
+	- Verdict after trial
+	- Sentence imposed
 
+	### CONCERNED PENALTIES:
+	- For non registration of CCIs- up to 1 year imprisonment or minimum 1 lakh fine or both to the registered caregiver
+	- Punishment for cruelty to a child- up to 3 year imprisonment or minimum 1 lakh fine or both (if proved that the circumstances are beyond the control of biological parents to take care of them, then the penal position doesnt apply)
+	- CCI caregiver convicted - 5 years rigorous imprisonment and fine upto 5 L or both
+	- Corporal punishment: 10,000 fine for first offence, subsequent offences will land in imprisonment for 3 months or fine or both
+	- Adoption: Adoption without regulations can lead to imprisonment for upto 3 years and a fine of a lakh or both
 
-## CONCERNED PENALTIES:
-- For non registration of CCIs- up to 1 year imprisonment or minimum 1 lakh fine or both
-- Punishment for cruelty to a child- up to 3 year imprisonment or minimum 1 lakh fine or both (if proved that the circumstances are beyond the control of biological parents to take care of them, then the penal position doesnt apply)
-- CCI caregiver convicted - 5 years rigorous imprisonment and fine upto 5 L or both
-- Corporal punishment: 10,000 fine for first offence, subsequent offences will land in imprisonment for 3 months or fine or both
-- Adoption: Adoption without regulations can lead to imprisonment for upto 3 years and a fine of a lakh or both
-
-## RESPONSE TO MEDIA
-[^9]
+## Response to media about child abuse[^9]
 - Need to ensure, to the best of its ability, that while highlighting child protection issues, the media does not disclose the identity and details such as name, address, photograph of the child, locality and school.
 - All calls from media referred to the project head first
 - Do not release the names of children or any identifying information to the media without prior clearance or clear consent from the guardian and the child
