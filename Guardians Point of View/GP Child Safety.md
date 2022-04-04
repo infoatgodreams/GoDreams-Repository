@@ -72,7 +72,7 @@ For these levers to work, the **primary challenges and potential opportunities a
 >  
 > - Non transparent attitudes  towards external audits will prevent quick upgrades of safety practices
 > 
-> - Traditional approach towards gender identities, inclusion, children with disabilities, children with learning lags at school etc can often be detrimental to creating a safe environment. 
+> - Traditional approach (such as language used) towards gender identities, inclusion, children with disabilities, children with learning lags at school etc can often be detrimental to creating a safe environment. 
 
 # References
 
