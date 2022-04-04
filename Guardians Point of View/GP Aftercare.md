@@ -21,10 +21,9 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 
 
 > [!info]- Individualization of Care
-> - Staff : Child ratios are minimal (5:1)
-> - Individual care plans are used and updated for all children
-> - Trauma assessment conducted during admission and periodically thereafter
-> - Admission processes rooted in individualized mental and emotional support
+> - Individual care plans and individual aftercare plans are used and updated for all children
+> - The aftercare plan for development of the careleaver considers age, gender, trauma, special needs, sexual orientation, academic abilities, educational, vocational skills, mental health and physical health conditions
+> - 
 > - Children have private/personal spaces and safe peer groups
 > - Individual behavioral challenges are responded to quickly and without physical or emotional violence
 > - Confidential feedback systems available for children to express their views
