@@ -5,7 +5,7 @@ tags:
 - Rollups
 ---
 
-# INTRODUCTION
+# Introduction
 
 [^6] The child safety principles in a childcare institution are based on the following principles
 - recognition of best interests of the child
