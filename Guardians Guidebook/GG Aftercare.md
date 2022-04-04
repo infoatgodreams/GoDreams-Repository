@@ -60,6 +60,7 @@ Challenges
 	- The newfound independence can also be hard to adjust to for some girls. They may like to stay out till late in the evening to be with their friends. Some have a hard time learning to prioritize savings and end up spending more on clothes, footwear, make - up, mobile phones, etc. as compared to food and hygiene supplies.
 	- When peop le of different age groups stay together, there is a risk of younger residents being dominated or bullied by the older ones.
 	- Once supervision is significantly reduced and girls get relatively greater freedom, there may be a risk of exposure to trafficking, re - trafficking, or exploitation.
+	
 
 - Traditional societal approach to careleavers from children's homes 
 - Finding a regularized property (which is free from the risk of getting demolished and is equipped with the basic civic amenities) in an already over - populous metropolitan city is difficult.
@@ -67,4 +68,24 @@ Challenges
 - Some societies also set limitations to the timings for the girls to abide by, try to investigate the religious and social background of the girls out of curiosity, and hence, put them in an uncomfortable position
 
 
+References 
 
+ - There is exhaustive research done and content available on the recommended aftercare practices and support systems that careleavers need, including government legislation, recommended policy changes and gold standard practices of aftercare organizations in the country. Current realities in the challenges careleavers face reflect the need for extensive continued support 
+ - Link to the summary of the literature review here [[Aftercare]]
+
+CCI Immersion 
+
+- The Goal of the immersion phase in Aftercare is to: 
+	- Gauge baseline levels of attention and time spent on preparing children for transition
+	- Gauge the extent of support available to careleavers once they step out of the institution
+	- Identify gaps in Knowledge/Skills/Minsets of CCI staff and other stakeholders
+	- Identify key challenge areas preventing CCIs from building a safe environment
+- The [[Child Safety Immersion]] roll up contains a summary of our learning from CCIs
+
+
+Partnerships: 
+- Prerna
+- SOS Children's Villages 
+- Catalysts for Social Action 
+- Udayan Care
+- 
