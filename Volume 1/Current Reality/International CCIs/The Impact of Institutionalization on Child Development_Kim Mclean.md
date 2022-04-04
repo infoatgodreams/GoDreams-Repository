@@ -61,7 +61,6 @@ tags:
 	- In another group of 16 Romanian children adopted to Canada, 50%  were below the 5th percentile for weight and  44% were below the 5th percentile for height (Benoit et al., 1996). Similarly, in the U.K
 	-  In the UK sample of Romanian adoptees, Rutter and the ERA Study Team (1998) reported that half of  the children had heights, weights, and head  circumferences below the 3 percentile.
 	-   In several studies growth retardation in height has been shown to be associated with the  length of time that children had spent in institutions (Ames, 1997; Johnson et al., 1992;  Rutter & the ERA Study Team, 1998). 
-
 -   The only physiological measures that have been examined are cortisol levels (Carlson &  Earls, 1997; Gunnar et al., 2001) and patterns  of brain glucose metabolism (Chugani et al.,  2001). 
 	- Substantial preclinical evidence that disturbances in caregiving early in life alters development of the HPA axis and its central releasing hormone (Sanchez, Ladd, & Plotsky, 2001)
 	-   Both hyper and hypocortisolemia can have negative effects on health and behavioral functioning  (McEwen, 1998)
@@ -234,16 +233,12 @@ tags:
 	- **Tizard and Hodges (1978) concluded that forming a secure attachment relationship did not so much depend on institutionalization as on the "willingness of the new parents to accept a dependent relationship and to put a lot time and effort into developing it"**
 -  **We do not yet know whether the period during which attachment is possible might be extended through adolescence,** as Bowlby (1988) has suggested, or whether there is an earlier time after which  the development of attachment becomes impossible.  
 
-
 # Conclusions
-
--  **Research on institutionalized children has  shown that similar experiences early in life may  result in a variety of outcomes, a phenomenon  that Cicchetti (1996) has termed [[multifinality]].**
-
--   Given the profound general deprivation that  often characterizes orphanages, **researchers  have been unable to specify which aspects of  deprivation caused the outcomes that have  been found.** 
+- **Research on institutionalized children has  shown that similar experiences early in life may  result in a variety of outcomes, a phenomenon  that Cicchetti (1996) has termed [[multifinality]].**
+- Given the profound general deprivation that  often characterizes orphanages, **researchers  have been unable to specify which aspects of  deprivation caused the outcomes that have  been found.** 
 	- The only exception is Tizard’s work (1977) with orphanage children in the  United Kingdom, who experienced only social emotional deprivation but were well cared  for otherwise. 
 		- We know from this work that  providing good nutrition and cognitive stimulation can prevent developmental delays. 
 		- These same children, however, still displayed  indiscriminate friendliness and some difficulties in attachment, which seem attributable to  the limitation of not having had a close personal relationship with an adult caregiver.
-
 -  There are presently (at time of writing) two intervention studies ongoing in Eastern Europe. 
 	- [[The Bucharest Early Intervention Project]] (Koga,  Smyke, Zeanah, 2003; Zeanah, Smyke, & Koga,  2003) has begun providing a foster care inter-  vention in Bucharest, Romania, in which they  are following the development of children re-  moved from orphanage to foster care and com-  paring their developmental progress to both  children who remain in orphanage and a com-  munity comparison group. 
 	- [[The St. Petersburg– U.S.A. Orphanage Project]] (McCall, Muha-  medrahimov, Groark, Palmov, & Nikiforova,  2003), operating in three baby homes in St. Petersburg, is providing different interventions to examine which are most effective in reducing the developmental impact of institutional rearing. I
