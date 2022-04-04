@@ -55,12 +55,16 @@ Education & Employability
 - Liaisons with corporates: Mobilizes corporates for vocation training programs for care leavers with minimal educational restrictions. Makes referrals and follow - ups with the service provider to assess the progress of the girls, and hopefully, translate training into job placements.
 
 Challenges
-    
 
-**
-    
+- Independence & increased susceptibility 
+	- The newfound independence can also be hard to adjust to for some girls. They may like to stay out till late in the evening to be with their friends. Some have a hard time learning to prioritize savings and end up spending more on clothes, footwear, make - up, mobile phones, etc. as compared to food and hygiene supplies.
+	- When peop le of different age groups stay together, there is a risk of younger residents being dominated or bullied by the older ones.
+	- Once supervision is significantly reduced and girls get relatively greater freedom, there may be a risk of exposure to trafficking, re - trafficking, or exploitation.
 
-**
+- Traditional societal approach to careleavers from children's homes 
+- Finding a regularized property (which is free from the risk of getting demolished and is equipped with the basic civic amenities) in an already over - populous metropolitan city is difficult.
+- Apart from that, finding accommodation for a small group of single, young women is extremely challenging because of certain patriarchal norms in society. Women who stay alone are often stigmatized and frowned upon.
+- Some societies also set limitations to the timings for the girls to abide by, try to investigate the religious and social background of the girls out of curiosity, and hence, put them in an uncomfortable position
 
 
 
