@@ -7,7 +7,9 @@ tags:
 ---
 
 Link: https://drive.google.com/file/d/1ba6V07RmNMZ5LgVSiQN99VWg3a1a30sx/view?usp=sharing
-- # Scope
+
+Tags: [[Child Safety]]
+# Scope
 - Multidimensional scale for child sexual abuse (MSCSA): Development and psychometric properties
 - In recognition to the rising incidences of child sexual abuse in India, various challenges of existing trauma measures and absence of indigenous efforts at development of comprehensive impact assessment scale, present study was conceptualized.
 	-  Objective: To develop and establish psychometric properties of Multidimensional Scale for Children with Sexual Abuse. Participants and 
@@ -18,7 +20,8 @@ Link: https://drive.google.com/file/d/1ba6V07RmNMZ5LgVSiQN99VWg3a1a30sx/view?usp
 	-  Especially, in an Asian country such as India, despite national data indicating a high prevalence of CSA among young children (Kacker et al., 2007), socio-cultural factors (stigma, poor awareness, lack of access to the health care facility, financial difficulties, fear of public exposure upon disclosure and fear of receiving a culturally insensitive response from people) limits timely reporting or treatment-seeking (Gilligan and Akhtar, 2005
 - To fulfil the gaps in the literature, Multidimensional Scale for Children with Sexual Abuse (henceforth, referred as MSCSA) has been designed to assess the nature and extent of trauma in children from 7 to 13 years of age with history of sexual abuse
 - Mean age of 30 children recruited in pilot group were 10 years and 66 % belonged to upper lower socio-economic status. All children registered a case of penetrative sexual assault under POCSO, in 56 % cases perpetrator was a known person, 24 % were survivors of incest and in 20 % cases, abuse was committed by an unknown person
-- # Measurement tools: [Assessment Tools](Roll%20Ups/Assessment%20Tools.md)
+- # Measurement tools:
+	-  [Assessment Tools](Roll%20Ups/Assessment%20Tools.md)
 	- Socio-Demographic Performa was constructed for the study consisting of 2 major sections. First, was the personal history regarding a child’s age, gender, **socio-economic status (SES),** and school history. [[Kuppuswamy scale]] was used for SES assessment (Tabassum and Rao, 2017).
 	- The second section on **family history** included information on the age, education, and income of parents or head of the family, family history of psychiatric or physical illness, type of family, number of family members, living space, history of substance use, history of other forms of abuse, history of exposure to parental violence or any other significant life events.
 		- [[Child PTSD Symptom Scale (CPSS)]] (Foa et al., 2001): CPSS assesses on a 4-point likert scale, the frequency of PTSD symptoms within the past month for a child who has experienced a traumatic event. The scale had satisfactory internal and test-retest reliability along with adequate convergent validity with other PTSD measures. WHO guideline for scale translation was followed to translate the scale into the Hindi language.
@@ -26,74 +29,74 @@ Link: https://drive.google.com/file/d/1ba6V07RmNMZ5LgVSiQN99VWg3a1a30sx/view?usp
 		- [[Developmental Psychopathology Checklist (DPCL)]] (Kapur et al., 1995): DPCL is an Indian adapted version of the Child Behaviour Checklist (CBCL) by Achenbach and Edelbrock, consisting of 6 subsections. In the present study, sub-scale psychopathology was only used.
 		- [[Abuse Form]]: The first section included incident information on child’s age at the time of the abuse, frequency of abuse, time since the abuse, and type of abuse. Disclosure information was the second section which included details on time taken for disclosure, threat for disclosure, and sources of support after disclosure.
 		- [[Children’s Global Assessment Scale (CGAS)]]: The CGAS is a clinician completed numeric scale ranging from lowest (1) to highest (100)functioning. It captures behavioural descriptors of functioning within the last month for children that is independent of specific mental health diagnosis.
-- # Indicators of CSA
-	- **The first factor “psychopathology”** consists of 27 items on symptoms of PTSD, depression, anxiety, and somatization. 
+- # Indicators of CSA with prevelance
+	- **The first factor “psychopathology”** consists of 27 items on symptoms of PTSD, depression, anxiety, and somatization.  Prevelance across 30 children in study. 
 		- Bed Wetting
 		- Loneliness
-		- FeelingofDirtinessinBody0.674
-		- FaintsOften0.670
-		- IntrusiveThoughtsabouttheIncident0.621
-		- Repetitive FFlashbacks oof tthe IIncident0.606
-		- SuicidalWishes0.594
-		- AvoidanceofthePlaceofAbuse0.577
-		- Anger(Generalized)0.568
-		- Sadness0.566
-		- NightTerror(Nightmare)0.564
-		- GeneralizedAnxiety0.551
-		- Anger(UponTouching)0.548
-		- InabilitytoTrustAnyone0.541
-		- Anger(TowardsPerpetrator)0.536
-		- Anhedonia0.505
-		- Hypervigilance0.499
-		- Worthlessness0.499
-		- Repetitive FFlashbacks oof tthe IIncident0.495
-		- SleepDifficulties0.448
-		- ReducedConcentration0.445
-		- ReducedTalkativeness0.437
-		- RecurringPaininBody0.432
-		- Headache0.412
-		- Hypersensitivity0.400
-		- AvoidsTalkingAboutIncident0.400
-		- AvoidanceoftheTraumaMemories0.400
+		- Feeling of Dirtiness in Body 0.674
+		- FaintsOften 0.670
+		- Intrusive Thoughts about the Incident 0.621
+		- Repetitive Flashbacks of the Incident 0.606
+		- Suicidal Wishes 0.594
+		- Avoidance of the Place of Abuse 0.577
+		- Anger(Generalized) 0.568
+		- Sadness 0.566
+		- Night Terror(Nightmare) 0.564
+		- Generalized Anxiety 0.551
+		- Anger(UponTouching) 0.548
+		- Inability to Trust Anyone 0.541
+		- Anger(TowardsPerpetrator) 0.536
+		- Anhedonia 0.505
+		- Hypervigilance 0.499
+		- Worthlessness 0.499
+		- Repetitive Flashbacks of the Incident 0.495
+		- Sleep Difficulties 0.448
+		- Reduced Concentration 0.445
+		- Reduced Talkativeness 0.437
+		- Recurring Pain in Body 0.432
+		- Headache 0.412
+		- Hypersensitivity 0.400
+		- Avoids Talking About Incident 0.400
+		- Avoidance of the Trauma  Memories 0.400
 	- **The second factor, “socio-emotional difficulties”** included 14 items on sub-factors, guilt, shame, emotional reactions due to critical comments or due to stigma, and discrimination. 
-		- SocialBlaming0.650
-		- BlamesSelfforFamilyy’ss CompromisedSecurity0.605
-		- BlamesSelfforFamilydistress0.565
-		- DislikeDiscussingAbuse0.559
-		- BlamesSelfforFamilyShame0.523
-		- FearofCriticalComments0.510
-		- PerceivesSelf-blame0.484
-		- Hopelessness0.416
-		- FearofAbuseReoccurrence0.429
-		- Teasing0.409
-		- Self-blame0.400
-		- Dislike/AvoidanceOthersSympathy0.400
-		- Shame0.400
-		- AnxietyofNovelStimuli0.400
+		- Social Blaming 0.650
+		- Blames Self for Familys Compromised Security 0.605
+		- Blames Self for Family distress 0.565
+		- Dislike Discussing Abuse 0.559
+		- Blames Self for Family Shame 0.523
+		- Fear of Critical Comments 0.510
+		- PerceivesSelf-blame 0.484
+		- Hopelessness 0.416
+		- Fear of Abuse Reoccurrence 0.429
+		- Teasing 0.409
+		- Self-blame 0.400
+		- Dislike/Avoidance Others Sympathy 0.400
+		- Shame 0.400
+		- Anxiety of Novel Stimuli 0.400
 	- **The third factor, “externalizing behaviour”** included 7 items on sub-factors, aggression, self-harm, and other difficult behaviour. 
 		- Verbally Abusive 0.544
 		- Physical Fights in Anger0.529
 		- Stubbornness 0.469
-		- ScreaminginAnger 0.430
+		- Screaming in Anger 0.430
 		- Self-Harm 0.427
-		- PeerAvoidance 0.409
-		- NailBiting 0.407
+		- Peer Avoidance 0.409
+		- Nail Biting 0.407
 	- **The fourth factor, “sexualized behaviour and pain”** included 7 items on sub-factors, sexual self-stimulation, sexual stimulation of others, and pain in private parts.
-		- PaininPrivateParts 0.615
-		- LikesTalkingAboutSex 0.533
-		- LikesSexualStimulationby Touchingothers’’Genitals 0.524
-		- LikesFrequentMasturbating 0.520
-		- LikesSexualSelf-Stimulation 0.446
-		- PainDuringUrination&while PassingStool 0.444
-		- LikesSexualActswithOthers 0.400
+		- Pain in Private Parts 0.615
+		- Likes Talking About Sex 0.533
+		- Likes Sexual Stimulation by Touching others’ Genitals 0.524
+		- Likes Frequent Masturbating 0.520
+		- Likes Sexual Self-Stimulation 0.446
+		- Pain During Urination & while Passing Stool 0.444
+		- Likes Sexual Acts with Others 0.400
 	- **The fifth factor “academic difficulty”** included 7 items on sub-factorsdeclined interest in studies, deteriorating academic performance, poor academic self-efficacy, and reduced attention and concentration. 
-		- ReducedInterestinSchool0.616
-		- DislikePeerInteractionatSchool0.507
-		- RegularStomachUpsetinSchool0.474
-		- SchoolWithdrawal0.454
-		- ReducedAcademicPerformance0.441
-		- PoorSelf-efficacies(InAcademics)0.438
-		- TroubleConcentrating 0.437
+		- Reduced Interest in School 0.616
+		- Dislike Peer Interaction at School 0.507
+		- Regular Stomach Upset in School 0.474
+		- School Withdrawal 0.454
+		- Reduced Academic Performance 0.441
+		- Poor Self-efficacies (In Academics) 0.438
+		- Trouble Concentrating 0.437
 
 	- Though most items distributed on factors were clinically and conceptually relevant to it, however, seven items loaded on the factor domain irrelevant to the allocated category which were re-shuffled based on cross-loading values and clinical relevance.
 
