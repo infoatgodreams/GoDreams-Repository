@@ -21,14 +21,12 @@ Link: [Google Drive](https://drive.google.com/file/d/1z3n0d72KrjnfxbW_31ATp_n6HI
 - Being a double orphaned child [AOR= 2.9 (1.201, 7.167)] and lack of vitamin A supplement in the last six months (AOR=1.9 (1.049, 3.799) were significant predictors of stunting
 - Illness in the last two weeks before the survey [AOR= 4.9 (1.345, 1.865)] was a significant predictor of wasting.
 - Majority of children in orphanages are nutritionally challenged because of many factors including the fact that they have never been breastfed or exclusively breastfed, low rates of vaccination, and basic hygiene.
-
 - Being a double orphaned, lack of vitamin A supplement, and illness in the last two weeks were associated with undernutrition.
-
 - In some cases, children are kept unhealthy conditions to appeal to donors and volunteers. (Page 2)
-
 - There are an estimated total of 87 child care institutions located in seven mainregions of Ethiopia.
 
 # Survey Tools & Methodology
+[[Assessment Tools]]
 -   Data was collected using :
 	-  structured interviewer administered questionnaires, 
 	-  document review, and 
@@ -53,7 +51,6 @@ Link: [Google Drive](https://drive.google.com/file/d/1z3n0d72KrjnfxbW_31ATp_n6HI
 	- cough, 
 	- diarrhea, and 
 	- fever.
-
 - Prevalence of wasting,underweight, and stunting was 4.4%, 12.3%and 34.8%,
 respectively.
 
@@ -73,12 +70,7 @@ respectively.
 - Regarding orphan status, there was a significant **association between children who were being doubled orphaned and stunting.** Double orphaned children had a 2.9 times greater risk of stunting in comparison with those who had a single parent. They were  also more likely to be malnourished and short for their age.
 
 
-
-
-
 # #readinglist
-
-
 - Vaida N. Nutritional status of children living in orphanages in district Budgam, J and K. Int J Humanit Soc Sci Invent. 2013;2:36–41
 - Egata G, Mesfin F, Feleke S. The prevalence of undernutrition and associated factors among orphan children aged 6–59 months in Gambella Town. Southwest, Ethiopia; 2018 UNICEF. 
 - Progress for children: a report card on nutrition. Unicef. 1–33; 2006. Available from: http://www.unicef.org/publications/files/ Progress_for_Children-No._7_Lo-Res_082008.pdf. Accessed March 4, 2021

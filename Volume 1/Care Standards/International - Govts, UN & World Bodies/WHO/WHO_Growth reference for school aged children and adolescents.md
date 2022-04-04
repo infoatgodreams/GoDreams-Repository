@@ -25,14 +25,11 @@ Links:
 	-  Many countries pointed to the need to have body mass  index (BMI) curves that start at 5 years  and permit unrestricted calculation of  percentile and z-score curves on a continuous age scale from 5 to 19 years
 
 - The total sample size was 22 917  (11 410 boys, 11 507 girls). For the indicator height-for-age, 8 boys (0.07%),  including an 18 month-old with length  51.6 cm, and 14 girls (0.12%) had  outlier height measurements that were  set to missing in the data set. For the  weight-based indicators (i.e. weightfor-age and BMI-for-age), the same  cleaning approach used for the construction of the WHO Child Growth  Standards (cross-sectional component)  was applied to avoid the influence of unhealthy weights-for-height.10 As a  result, 321 observations for boys (2.8%)  and 356 observations for girls (3.0%)  were excluded
-	
 
 
 # Measurement Tools
-
+[[Assessment Tools]]
 Instructions: [Field Measurement Guide](https://www.who.int/childgrowth/training/module_c_interpreting_indicators.pdf)
-
-
 
 ## BMI
 
@@ -55,14 +52,11 @@ Link to tools: [BMI - Google Drive](https://drive.google.com/drive/u/0/folders/1
 ![BoysBMIbyAge](https://drive.google.com/uc?id=1424lf49qgwXK2oDKcj2Z3WsuzX9vaWOB)
 
 
-
-
 ## Weight for Age 
 
 Link to tools: [Weight For Age - Google Drive](https://drive.google.com/drive/u/0/folders/1sj_46ROb7PM9Rca_XBKpNksGc1qvOuRZ)
 
 - Note: Weight for Age is only available upto age 10, as children older than that go through variable growth spurts and hence this measure is not standardizable. 
-
 
 ### Girls
 
@@ -80,9 +74,7 @@ Field Guide Table(Simplified): [Boys_WFA_Field Guide](https://drive.google.com/f
 ## Height For Age
 Link to tools: [Height For Age - Google Drive](https://drive.google.com/drive/u/0/folders/1rGFq2KzG4rl4eEcBK-OzWPKcmJv6GayT)
 
-
 ### Girls
-
 Field Guide Table: [Girls_WFA_Field Guide](https://drive.google.com/file/d/1Dsga36H7IUxEGWnek4XYjPPNfB2EOsow/view?usp=sharing)
 
 ![HGA_Girls](https://drive.google.com/uc?id=1afwC1ubQY713RGX5jIJZEPliIz9ZIZEV)
