@@ -7,14 +7,20 @@ tags:
 
 # Introduction
 
-### Principles of child safety in a childcare institution[^6]
+## Principles of child safety in a childcare institution[^6]
 - recognition of best interests of the child
 - respect for dignity, liberty and freedom
 - respect for agency and active participation of the child
 - respect for privacy and confidentiality
 - zero tolerance of any form of abuse
 - child protection is a responsibility for anyone who is directly or indirectly associated with the children
- 
+
+## Expected outcomes of a safe childhood
+- Children will be safe, and be able to voice out concerns, highlight red flags, if any.
+- Children will develop leadership skills, be self-confident, aware of social issues
+- Behavioral issues will decrease, children’s participation will increase
+- Children will be able to articulate problems, find solutions and work with CCI management to resolve
+
 # Types of vulnerabilities in children
 ## Physical abuse
 Definition:- [^6]any action that causes pain, injury, hurt or discomfort is considered to be childhood abuse
@@ -112,9 +118,11 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 
 
 # Prevention of Harm
+
 ## Logistical arrangements for Child Safety
 - The CCI needs to be free from chemical, noise, air, etc., pollution; and
 - Free from hazardous physical structures like wells, swamps, unprotected ponds, open sewers, deep ditches etc.
+
 - ### According to Ethiopian[^5] Guidelines:
 	- For a small home
 	- A self-contained home in a childcare institution shall not have more than three bedrooms for the children and one for the home mother.
@@ -150,7 +158,7 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 - Each victim shall have a separate single bed or his/her own area in a double or triple room of a suitable size, with a suitable bed and bedding, seating, storage for clothes, lockable or otherwise safe storage for personal possessions, a window with sufficient light for study and other work.
 - Staff sleeping rooms shall not be part of the communal living area (except in case of very young or sick children) but should be located close to the victims' bedrooms to respond to night time needs.
     
-## CAREGIVING REQUIREMENTS FOR CHILD SAFETY
+## Caregiving for Child Safety
 
 ### Who are the caregivers?
 - A trained social worker must be appointed
@@ -162,8 +170,8 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 - NO male staff in girl’s home
 - The provision for security to guard the place, should be as per the ICPS standards
 
-### Code of Conduct
-**DOs** 
+### Code of Conduct for caregivers
+### Dos
 - Be visible and not in a secluded place while in contact with children at the work place
 - Protect the child by not disclosing the identity of the child outside the team
 - Uphold the privacy of the child by not disclosing the identity of the child to the media
@@ -173,7 +181,7 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 - All visitors must be accompanied by staff, security guard mandatory, visitors given passes
 - One manager in the home at all times, day and night
  
- **DONTs **
+### Donts 
 - Do not sleep alone with any child
 - Do not stay back at the child care institution/orphanage or interact with children after dark/ 19:00 hours
 - Do not do things for children of a personal nature that they can do themselves, such as use the toilet, bathe or change clothes (unless the child is severely ill or injured - in such case, another staff / caretaker should also be present)
@@ -192,8 +200,7 @@ For Rainbow's caregivers
 - Two training sessions conducted with all staff, parents and local police
 - Half day refresher training once a year for all staff
     
-
-# WORKING WITH CHILDREN
+### Working with children
 - Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
 - Children may not conform to all the rules and the staff can decide what are acceptable.
 - Extreme disciplining may lead to defiance in children.
@@ -201,7 +208,7 @@ For Rainbow's caregivers
 - While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
 - Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
 
-## DEALING WITH EMOTIONS & ATTACHMENT
+### Dealing with emotions & attachment
 - The best way to work with children is to be empathetic towards them.
 - Children can quickly understand who understands them and who cannot understand them. When a child has a fight and is angry with everyone, caregiver could go near and ask permission to sit nearby. The caregiver could say that “I can understand that you are angry and do you want to talk about it?”
 - As an adult living with children, express your emotions on the child’s behavior. Only being patient is not the way to deal with children experiencing emotional and behavioral challenges.
@@ -219,9 +226,7 @@ For Rainbow's caregivers
 - It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
     
 
-## CHILD TRAINING REQUIREMENTS FOR CHILD SAFETY
-
-### GENERAL SAFETY AND CULTURE
+## Training children to prioritize child safety
 - Acc to a manual by Prerana [^2] Under any circumstances, no form of sexual maltreatment is ever alright. Have regular conversations with children with regard to personal safety
 - Orientation for all kids within a week of their arrival
 - Once in 3 months refresher
@@ -237,7 +242,7 @@ For Rainbow's caregivers
 - Teach them that secrets are not good, no matter who asks them to keep the secrets
 - Celebrate certain child specific days to reiterate these points like child labour, international children’s day, etc
     
-# TRAVEL GUIDELINES FOR CHILDREN
+## Training children to travel safely
 
 Some of them are listed as follows:
 - Inform the child not to get into a crowded bus/train as it is unsafe and risky. Wait for the next bus to arrive.
@@ -263,8 +268,7 @@ Some of them are listed as follows:
 - Make the child aware that she can also approach a store in a nearby mall, a supermarket, or a well-lit, family restaurant.
 - Ensure that the child memorizes some important toll-free and such other emergency phone /helpline numbers e.g. of Naunihal, the police, Childline Helpline numb
     
-## Stranger Danger
-
+### Stranger Danger
 - Discuss with the child the benefit of yelling when in trouble, as it is a discuss with the child the benefit of yelling as a good way to seek attention from passers-by - 
 - Cultivate an understanding in the child that it is unsafe to leave food and drinks unattended at any point. 
 - The child should not accept anything to eat or drink from a stranger. - Discuss with children how consuming unattended/already opened food and beverages is harmful as the food or drink can be spiked with drugs causing intoxication, etc.
@@ -274,12 +278,11 @@ Some of them are listed as follows:
 - Educate the child that she is not obligated to share any personal information withany person. If a stranger or a nominally familiar person discloses his or her personal information, it doesn’t mean the child is obligated to share similar information about herself with him/her.
 - Discuss with the child about consent. Inform her that there is nothing wrong with sounding ‘rude’ and saying NO if the person continues to pressurize or botherher. Saying NO is the child’s right, and it is a complete sentence without requiring any further elaboration or justification.
     
-# CHILD ABUSE
+# Child Abuse 
 
-## SYSTEMS IN PLACE
+## Systems in Childcare Institutions
 
-### CHILD PROTECTION COMMITTEE (CPC)
-
+### Child protection committeee (CPC)
 -   [^6] -Select one staff as CPO -CPO needs to be mature, approachable, trusted by children, has been there for at least a year and doesn't plan to leave soon, listens well and maintains privacy, drives everything in the interest of the children.
 - What does the CPO do?
 	- CPO ensures quarterly meeting with CPC
@@ -289,48 +292,42 @@ Some of them are listed as follows:
 	- CPO brings up a violation immediately with CPC or project-in charge
 	- CPO meets children every month to orient them about child protection
 	- Support survivors with sensitivity and care
-	    
 - Who constitutes the child protection committee at Rainbow Homes?
 	- 5 members, 3 women
 	- 3 mature persons with child work experience
 	- 1 is the project in charge or home coordinator
 	- Mature dedicated long term volunteers PS: If more than 3 are not available for an enquiry, then a teacher/counselor can be asked to join
 	    
-## CHILDREN'S COMMITTEE
-
+### Children's committee
 [^10]
 - Child Participation means that children can discuss and co-decide on all matters that affect them, like family, school, community matters, government policies, legal policies.
 - Person-in-charge of every institution for children shall facilitate the setting up of children’s committees for different age groups of children, that is in the age group of 6 to 10 years, 11 to 15 years and 16 to 18 years and these children’s committees shall be constituted solely by children.
 
-### Responsibilities of the committee
-- Improvement of the condition of the institution
-- Reviewing standards of care being followed
-- Creative expression of their views through wall papers or newsletters or paintings or music or theater;
-- Developing educational, vocational and recreational plans
-- Respecting each other and supporting each other in managing crisis
-- Reporting abuse and exploitation by peers and caregivers
-- Management of institutions through the Management Committee.
+	#### Responsibilities of the committee
+	- Improvement of the condition of the institution
+	- Reviewing standards of care being followed
+	- Creative expression of their views through wall papers or newsletters or paintings or music or theater;
+	- Developing educational, vocational and recreational plans
+	- Respecting each other and supporting each other in managing crisis
+	- Reporting abuse and exploitation by peers and caregivers
+	- Management of institutions through the Management Committee.
 
- ### Governance
-- President chairs the monthly meetings, reviews work done, plan
-- Ministers report and discuss issues related to their portfolio. President reports to CCI superintendent 
-- CCI superintendent must provide the Committee with stationary, suggestion box, register, petty cash, badges to the children who constitute the committee.
-- Meetings must be minuted. 
-- Review of suggestions is carried out
-- When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
+	 #### Governance
+	- President chairs the monthly meetings, reviews work done, plan
+	- Ministers report and discuss issues related to their portfolio. President reports to CCI superintendent 
+	- CCI superintendent must provide the Committee with stationary, suggestion box, register, petty cash, badges to the children who constitute the committee.
+	- Meetings must be minuted. 
+	- Review of suggestions is carried out
+	- When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
 
-### EVALUATION TOOLS TO ASSESS SAFETY
-- Aangan recommend a Standardized Evaluation of performance, criteria &systems.
+# Assessment Tools
+- Aangan recommends a Standardized Evaluation of performance, criteria &systems.
 - Standardize monitoring tool combining criteria related to infrastructure, interaction and activity .
 - External Evaluation through Vigilance Committees.
 - Develop self monitoring tool.
 - Capacity building of staff to use tool for internal monitoring and goal setting
 
-# EXPECTED OUTCOMES
--   Children will be safe, and be able to voice out concerns, highlight red flags, if any.
-- Children will develop leadership skills, be self-confident, aware of social issues
-- Behavioral issues will decrease, children’s participation will increase
-- Children will be able to articulate problems, find solutions and work with CCI management to resolve…
+
     
 # RESPONSE TO CHILD ABUSE
 
