@@ -67,7 +67,7 @@ Young adults often lack familial support systems, and typically have to independ
 > - Children's schedules, while being sufficiently regimentated to ensure safety, are also open ended enough to allow for flexibility and preferences
 
 
->[!info] - Relationships and Mentorship
+>[!info]- Relationships and Mentorship
 > - All children have role models with frequent interaction
 > - Family like-groups built & cultivated  within the CCI and with relevant external stakeholders
 > - 
