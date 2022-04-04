@@ -19,7 +19,7 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 
 # Key Levers at CCIs
 
-Since this domain is a horizontal (an essential part of multiple domains) as well as a vertical (core aspects need to be focussed on independently of other domains), key levers will often intersect with eachother and with other domains. Keeping this in mind, the **emphasis of this domain will be to sustain abd build**
+Since this domain is a horizontal (an essential part of multiple domains) as well as a vertical (core aspects need to be focussed on independently of other domains), key levers will often intersect with eachother and with other domains. Keeping this in mind, the **emphasis of this domain will be to sustain and build**
 
 
 > [!info]- Children's Awareness & Rights
@@ -51,7 +51,7 @@ Since this domain is a horizontal (an essential part of multiple domains) as wel
 
 > [!info]- Training and sensitization of stakeholders
 >   - Visitors and other strangers go through a sensitization program before interaction with children
->   - CCI Staff trained rigorously in safety practices and protocols, gender sensitiziation, behavior management etc. 
+>   - CCI Staff trained rigorously in safety practices and protocols, gender sensitiziation, behavior management (without physical abuse) etc. 
 >   - Associated stakeholders such as school teachers, parents etc also undergo sensitization training
 >   - Clear code of conduct created, made accessible and communicated to all stakeholders interacting with children
 
