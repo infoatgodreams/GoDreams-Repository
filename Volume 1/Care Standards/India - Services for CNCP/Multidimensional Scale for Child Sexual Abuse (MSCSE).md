@@ -7,7 +7,8 @@ tags:
 ---
 
 Link: https://drive.google.com/file/d/1ba6V07RmNMZ5LgVSiQN99VWg3a1a30sx/view?usp=sharing
-- # Scope
+Tags:[[Child Safety]]
+# Scope
 - Multidimensional scale for child sexual abuse (MSCSA): Development and psychometric properties
 - In recognition to the rising incidences of child sexual abuse in India, various challenges of existing trauma measures and absence of indigenous efforts at development of comprehensive impact assessment scale, present study was conceptualized.
 	-  Objective: To develop and establish psychometric properties of Multidimensional Scale for Children with Sexual Abuse. Participants and 
