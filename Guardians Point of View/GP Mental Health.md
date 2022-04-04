@@ -33,7 +33,6 @@ Young adults often lack familial support systems, and typically have to independ
 > - Individual care plans are used and updated for all children
 > - Trauma assessment conducted during admission and periodically thereafter
 > - Admission processes rooted in individualized mental and emotional support
-> - Children have access to consistent and specialized counselling at a fixed interval
 > - Children have private/personal spaces and safe peer groups
 > - Individual behavioral challenges are responded to quickly and without physical or emotional violence
 > - Confidential feedback systems available for children to express their views
@@ -80,3 +79,31 @@ Young adults often lack familial support systems, and typically have to independ
 > - Children have access to regular formal and informal life-skill training and support
 
 
+
+Some of the key **challenges and opportunities that exist in this space** are:
+
+> [!bug]- Traditional Mindsets towards mental health
+> - Mental health being viewed as a good to have and not an essential 
+> - Negative/inappropriate language use towards or around children
+> - Physical abuse as a response to behavioral issues
+> - Peer on peer abuse normalized and perpetuated
+> - Counsellor confidentiality broken : Counselling viewed as a way for caregivers to get inside information about children
+
+
+# References
+
+## Literature Review
+
+ - There is exhaustive research done and content available on mental health outcomes and support systems for children. Current realities have informally been mapped to care-leaver outcomes as observed in the Indian system. 
+ - Link to the summary of the literature review here [[Mental Health]]
+
+
+## CCI Immersion
+
+- The Goal of the immersion phase in mental health is to: 
+	- Gauge the 'feeling of a safe space' among children at the home
+	- Gauge children's participation in CCI affairs
+	- Gauge the CCI culture and environments affects on childrens mental health
+	- Identify challenge areas and best practices among CCI staff and other adult stakeholders
+	- Map the current mental health infrastructure available to the CCI and CNCP
+- The [[Mental Health Immersion]] roll up contains a summary of our learning from CCIs

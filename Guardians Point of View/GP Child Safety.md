@@ -13,15 +13,14 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 
  - Children are not afraid to voice out concerns and highlight red flags if any, as well as work with CCI management to solve them. 
  - Children participate in the decision making at CCIs 
- - Children have reducing or no clinical indicators of physical abuse, sexual abuse or emotional abuse
- - Children articulate a feeling of safety, their voice being heard, having 1 or more people they can talk to,  and have minimal behavioral issues. 
+ - Children have  no post-admission clinical indicators of physical abuse, sexual abuse or emotional abuse
+ - Children articulate a feeling of safety, their voice being heard, having 1 or more people they can talk to, and have minimal behavioral issues. 
  - Caregivers confident in handling and responding to cases of abuse and child safety violations
- - Caregivers able to care for children without 
 
 # Key Levers at CCIs
 
 
-Since this domain is a horizontal as well as a vertical, key levers will often intersect with eachother and with other domains. Keeping this in mind, the **emphasis of this domain will be to sustain abd build**
+Since this domain is a horizontal (an essential part of multiple domains) as well as a vertical (core aspects need to be focussed on independently of other domains), key levers will often intersect with eachother and with other domains. Keeping this in mind, the **emphasis of this domain will be to sustain abd build**
 
 
 > [!info]- Children's Awareness & Rights
@@ -84,8 +83,8 @@ For these levers to work, the **primary challenges and potential opportunities a
 
 ## CCI Immersion
 - The Goal of the immersion phase in child safety is to: 
-	- Guage childrens awareness of their rights 
-	- Guage the extent of any violations of child safety norms via sexual, physical or emotional abuse
+	- Gauge childrens awareness of their rights 
+	- Gauge the extent of any violations of child safety norms via sexual, physical or emotional abuse
 	- Identify gaps in Knowledge/Skills/Minsets of CCI staff and other stakeholders
 	- Identify key challenge areas preventing CCIs from building a safe environment
 - The [[Child Safety Immersion]] roll up contains a summary of our learning from CCIs
