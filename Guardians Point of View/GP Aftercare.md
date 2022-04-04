@@ -42,4 +42,7 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 Social Protection and Welfare 
 - In the last five years, most girls referred to aftercare have had their essential documents such as the Aadhar card, PAN card, bank account, and school - leaving certificate through the CCI.
 - Social vulnerabilities: Desperation and sometimes, the urgency to seek necessary documents makes individuals vulnerable to frauds and deception.
-- 
+
+
+- Organizes recreational activities: Involves professional recreation leaders and facilitates the participation of residents in external recreation programs.
+- Establishes constructive recreation as a right of the residents: During the initial discussions, the social workers ensure that an activity of leisure or recreation is included in the residents’ daily schedule. The counselors also engage with the resident girls regularly on the importance of self - care.
