@@ -39,3 +39,7 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 > - Complete an access audit, to ensure careleavers are aware of access to public transit systems, basic civic amenities, educational institutions and vocational training centres. 
 > - Impart life-skills training through individual and group training sessions- to focus on relationships, self & social acceptance, problem-solving skills and Train 
 
+Social Protection and Welfare 
+- In the last five years, most girls referred to aftercare have had their essential documents such as the Aadhar card, PAN card, bank account, and school - leaving certificate through the CCI.
+- Social vulnerabilities: Desperation and sometimes, the urgency to seek necessary documents makes individuals vulnerable to frauds and deception.
+- 
