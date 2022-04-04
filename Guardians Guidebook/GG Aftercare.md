@@ -51,6 +51,10 @@ Education & Employability
 
 - Develops a directory of resources: Puts together a resource directory of schools, colleges, and distance learning universities to help residents choose options based on their interests.
 - Facilitates mentorship: Actively mentor residents to keep them motivated and avoid drop - outs. This also includes career counseling to help residents make decisions about their future.
+- actively explores marketable skills for residents through consultations. It seeks to design and administer vocational training p rograms for young adults and care leavers that, eventually, help them land good jobs.
+    
+
+**
 
 
 
