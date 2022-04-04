@@ -10,3 +10,38 @@ Young adults often lack familial support systems, and typically have to independ
 
 ## Target Outcomes
 
+
+- Young adults show few somatic symptoms that are associated with institutional upbringing.
+- Young adults are able to smoothly transition into society, and have a healthy sense of self, decision making abilities and other crucial life skills. 
+- Young adults are able to create pseudo familial groups and leverage support systems around them. 
+- Young adults do not get involved in substance abuse and unsafe/criminal activities. 
+
+
+## Indicative Outputs
+
+- Caregivers have low stress levels and are happy at their jobs
+- Children have normal attachment patterns
+- Children have minimal behavioral challenges outside of the norm
+- Children have safe spaces and support systems that they actively leverage
+- Children have adult role models with frequent interaction
+
+
+
+
+# Key Levers at CCIs
+
+
+> [!info]- Individualization of Care
+> - Staff : Child ratios are minimal (5:1)
+> - Individual care plans are used and updated for all children
+> - Trauma assessment conducted during admission and periodically
+> - Children have access to consistent counselling at a fixed interval
+> - Children have private/personal spaces and safe peer groups
+
+> [!info]- 
+
+
+- Food Security
+- Quality of Shelter
+- Quality of Caregiving
+- Access to healthcare 
