@@ -3,6 +3,7 @@ title: Nutrition
 tags: 
 - Rollups
 ---
+
 # Introduction
 - According to the [Global Childhood Report 2021](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/Global%20Childhood%20Report%202021.md)[^7] by Save the Children, malnutrition has been classified as a "childhood ender". India ranks 118/186 countries on the list
 	- 34.7% of children between the ages of 0-5 have been classified as "Stunted" 
@@ -10,6 +11,7 @@ tags:
 	- The share of children under the [[Saksham Anganwadi]] and [[Poshan 2.0]] scheme has observed a reduced allocation of 11.28 per cent with allocations going down from INR 19412.5 Crore in 2021-22 (BE) to INR 17223.61 Crore in Union Budget 2022-23 (BE).
 	- Nutritional deficiencies have been shown to have a negative impact on cognition [^9], 
 - In a study in orphanages in Kenya [^10], Prevalence of undernutrition seemed to increase significantly with an increase in length of stay in the orphanage
+
 # Signs and symptoms of nutritional deficiencies
 - Small Head Circumference : Especially for children under the age of 4 
 - Atypically short height and weight
@@ -35,10 +37,11 @@ tags:
 	- they have never been breastfed or exclusively breastfed, 
 	- low rates of vaccination, 
 	- and lack of basic hygiene.
-- According to Miracle Foundation [^14], a study assessed the health and nutritional status of the institutionalized children from four states of Andhra Pradesh, Uttar Pradesh, West Bengal and Karnataka ;clinical status of these children showed that  (Page 7)
-	- Vitamin A and B complex deficiency were the most common nutritional deficiency signs among children (Page 7) 
-	- Common conditions of cough, fever, sore throat, sore eyes, scabies and other skin infections were prevalent. Other conditions like anaemia, phrynoderma and dental caries werealso observed. (Page 7)
-	- one out of every four children suffered from sickness, fatigue and bad sleep (Page 7) 
+- According to Miracle Foundation [^14], a study assessed the health and nutritional status of the institutionalized children from four states of Andhra Pradesh, Uttar Pradesh, West Bengal and Karnataka ;clinical status of these children showed that 
+	- Vitamin A and B complex deficiency were the most common nutritional deficiency signs among children 
+	- Common conditions of cough, fever, sore throat, sore eyes, scabies and other skin infections were prevalent. Other conditions like anaemia, phrynoderma and dental caries werealso observed. 
+	- one out of every four children suffered from sickness, fatigue and bad sleep 
+ 
 ## Stunting
 - [Stunting in a nutshell (who.int)](https://www.who.int/news/item/19-11-2015-stunting-in-a-nutshell#:~:text=Stunting%20is%20the%20impaired%20growth,WHO%20Child%20Growth%20Standards%20median.) : Stunting is the impaired growth and development that children experience from poor nutrition, repeated infection, and inadequate psychosocial stimulation. Children are defined as stunted if their height-for-age is more than two standard deviations below the [WHO Child Growth Standards](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/WHO/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md) median.
 - According to a meta study of global research, stunting prevalence can vary from 9–72%; [^12]
@@ -56,13 +59,14 @@ tags:
 - In the Ethiopean study [^11], illness in the 2 weeks before the survey was conducted was a significant predictor of wasting. 
 - ==Solutions for wasting is missing in the research==
 
-## Under-Weight
+## Underweight
 - The NFHS-5 data [^8] also shows that 16 out of the 22 States and Union Territories surveyed registered a rise in the percentage of under-five children who are underweight and severely wasted in 2022. 
 - According to a meta study of global research, wasting prevalence can vary from 7-79%; [^12]
 - In a study carried out in Botswana (Misra & Bignami, 2008)[^13] it was found that children in orphanages were 49% more likely to be underweight than non-orphanage children. [^10]
 - In the Ethiopean study [^11], underweight had a 12.3% prevalence in orphanages.
 - 45·7% of respondents were underweight in the study on nutrition and its linkages to cognitive outcomes in India. [^9]
 - Solutions for this seem to be meeting adequate nutritional intake on a daily basis. No specifics found.
+
 # Macro Nutrients
 *Nutrients that the body requires in large amounts*
 
@@ -85,6 +89,7 @@ tags:
 		- improper use of medications
 		- inappropriate feeding practices
 		- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients 
+
 # Micro Nutrients
 *Nutrients that the body requires in small amounts*	
  -  A study[^3]  in 4 states in India noted that :
@@ -101,6 +106,7 @@ tags:
 - A Canadian guide to institutions suggests that specialized diets need to be constructed for people showing these lab test markers: 
 	-  if any of these are abnormal: blood sugars (random, fasting), albumin, cholesterol (total, HDL, LDL), hemoglobin, hematrocrit, ferritin, serum creatinine, hemoglobin A1c, prealbumin, total lymphocyte count, liver enzymes, triglycerides, potassium,sodium, folate, vitamin B12, homocysteine or microalbumin.
 	- ==Markers from tests that can indicate dietary issues need to be assessed with the help of a Physician==
+
 # Eating Behaviors
  - According to a meta analysis[^4]  including children adopted from Romanian orphanages and others, 65% of orphanage children continued to have eating problems even 11 months after adoption :
 	 - 1/3 of young children refused to eat solid food
@@ -108,10 +114,11 @@ tags:
 - Older children are often fed the same quantity of food as the younger children resulting in lower than required intake [^3]
 - Eleven months after adoption 65% of  orphanage children adopted into Canada from Romanian orphanages [^4] had eating problems: 
 	- Parents reported that one-third of children refused to eat solid foods and almost one-third of children overate.
-	-  In the Canadian  sample, many parents of orphanage children  reported that they continued to offer food to  children after a meal and that it was never refused
+	-  In the Canadian  sample, many parents of orphanage children reported that they continued to offer food to  children after a meal and that it was never refused
 	- Given orphanage children’s malnutrition and small size, such overeating probably  represents their bodies’ natural catch-up mechanism.
 	- Children in orphanage had never eaten  enough food to allow them to learn feelings  of satiety (Fisher et al., 1997).
 	-  Three  years after adoption, orphanage children had no more eating problems than did Canadian  born or early-adopted children (Ames, 1997)
+
 # Caregiving
 
 ## Observations on Caregiver behavior wrt Nutrition
@@ -124,9 +131,10 @@ tags:
 	- improper use of medications
 	- inappropriate feeding practices
 	- poor hygiene and sanitation leading to frequent illness and poor utilization of nutrients
-## Caregiver Best Practices
-### Setting Up Nutritional Care Systems
 
+## Caregiver Best Practices
+
+### Setting Up Nutritional Care Systems
 - SoPs are to be created and put up [^2] [^15], that define the 
 	- **Meal Plans**
 		- Minimum Nutritional Standards
@@ -170,12 +178,10 @@ tags:
  - ==no information yet on waste disposal and safe food disposal practices at institutions==
 
 
-
 # Indian Regulations, Acts and Schemes
 - ## [[Juvenile Justice Act]]
 
 # Diagnostic Tools
-
 ## WHO standards
 
 - WHO has built a software tool and graphs/tables for field measurements of height to age , weight to age and BMI to age ratios [^5]
