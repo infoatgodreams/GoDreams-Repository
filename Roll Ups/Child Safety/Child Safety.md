@@ -199,7 +199,7 @@ For Rainbow's caregivers
 - Code of conduct needs to be signed by all stakeholders within 7 days of their engagement
 - Two training sessions conducted with all staff, parents and local police
 - Half day refresher training once a year for all staff
-    
+
 ### Working with children
 - Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
 - Children may not conform to all the rules and the staff can decide what are acceptable.
@@ -224,7 +224,7 @@ For Rainbow's caregivers
 - Encourage parent(s)/guardian(s)to meet the children as much as they can. it helps the child to build trust and reduces the attachment issues they face which reflect on their behavior.
 - In early childhood it also helps in the brain development of the child. Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
 - It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
-    
+
 
 ## Training children to prioritize child safety
 - Acc to a manual by Prerana [^2] Under any circumstances, no form of sexual maltreatment is ever alright. Have regular conversations with children with regard to personal safety
@@ -241,7 +241,7 @@ For Rainbow's caregivers
 - Show them that mechanisms exist to take care of them and their concerns will be taken up seriously
 - Teach them that secrets are not good, no matter who asks them to keep the secrets
 - Celebrate certain child specific days to reiterate these points like child labour, international children’s day, etc
-    
+
 ## Training children to travel safely
 
 Some of them are listed as follows:
@@ -321,16 +321,16 @@ Some of them are listed as follows:
 	- When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
 
 # Assessment Tools
-- Aangan recommends a Standardized Evaluation of performance, criteria &systems.
+- Aangan [^1] recommends a Standardized Evaluation of performance, criteria &systems.
 - Standardize monitoring tool combining criteria related to infrastructure, interaction and activity .
 - External Evaluation through Vigilance Committees.
 - Develop self monitoring tool.
 - Capacity building of staff to use tool for internal monitoring and goal setting
 
-    
+
 # Response protocols to child abuse
 ## Protocol recommended by service providers
-### At Rainbow Homes, 
+### At Rainbow Homes 
 - CPC should meet before 3 days has passed after the incident
 - CPC can suspend the accused but will continue to respect both the child and the accused
 - Benefit of doubt given to the child, burden of proof on the adult
@@ -342,7 +342,8 @@ Some of them are listed as follows:
 - Info about the incident should be reported to the state officer immediately and keep them updated about progress
 - Any aggrieved party if they disagree with the CPC can make an appeal to the appeal committee with national and state team members.
 
-### At CSA [^9]
+### At CSA (Catalysts for Social Action)
+[^9]
 - Report the matter in writing, directly to the Director-CSA 
 - The Director together with the Program Officer will investigate the matter and take appropriate action in accordance with the guidelines for disciplinary action as has been followed in the past OR outlined in the CSA’s Employee Handbook
 - While the matter is under investigation, the individual who is suspected of having committed a child protection violation must be removed from direct contact with children
@@ -417,21 +418,21 @@ Some of them are listed as follows:
 	- Verdict after trial
 	- Sentence imposed
 
-	### CONCERNED PENALTIES:
+	### Concerned Penalties:
 	- For non registration of CCIs- up to 1 year imprisonment or minimum 1 lakh fine or both to the registered caregiver
 	- Punishment for cruelty to a child- up to 3 year imprisonment or minimum 1 lakh fine or both (if proved that the circumstances are beyond the control of biological parents to take care of them, then the penal position doesnt apply)
 	- CCI caregiver convicted - 5 years rigorous imprisonment and fine upto 5 L or both
 	- Corporal punishment: 10,000 fine for first offence, subsequent offences will land in imprisonment for 3 months or fine or both
 	- Adoption: Adoption without regulations can lead to imprisonment for upto 3 years and a fine of a lakh or both
 
-## Response to media about child abuse[^9]
+## Response to media about incidents [^9]
 - Need to ensure, to the best of its ability, that while highlighting child protection issues, the media does not disclose the identity and details such as name, address, photograph of the child, locality and school.
 - All calls from media referred to the project head first
 - Do not release the names of children or any identifying information to the media without prior clearance or clear consent from the guardian and the child
 - General images where the child is not identifiable does not require parental/guardian permission
 - If it's shot from an educational/co-curricular perspective, prior permission is not needed, as long as the video is instructional or for an extracurricular activity.
 
-## POST CRISIS REFLECTION
+## Post Crisis Reflection
 Important questions to ask:
 - Overall, did the emergency plan work?
 - What worked well, why?
@@ -441,7 +442,7 @@ Important questions to ask:
 - What specific problems arose? Were they resolved and if yes, how?
 - Was comms ongoing until the situation was resolved?
 
-# MEASUREMENT TOOLS 
+# Assessment Tools
 [Assessment Tools](Roll%20Ups/Assessment%20Tools.md)
 - Socio-Demographic Performa was constructed for the study consisting of 2 major sections. First, was the personal history regarding a child’s age, gender, **socio-economic status (SES),** and school history. [[Kuppuswamy scale]] was used for SES assessment (Tabassum and Rao, 2017).
 	- The second section on **family history** included information on the age, education, and income of parents or head of the family, family history of psychiatric or physical illness, type of family, number of family members, living space, history of substance use, history of other forms of abuse, history of exposure to parental violence or any other significant life events.
@@ -519,8 +520,6 @@ Important questions to ask:
 			- Poor Self-efficacies(In Academics)
 			- Trouble Concentrating
 
-# POCSO:
-- Pocso references to be added
 
 # Footnotes:
 [^1]: [Aangan - Changing Spaces](Volume%201/Reference%20Reading/Service%20Providers%20to%20CCIs/Aangan/Aangan%20-%20Changing%20Spaces.md)
