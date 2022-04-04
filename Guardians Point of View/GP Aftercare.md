@@ -6,5 +6,8 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 # The Gold Standard in Aftercare 
 
 ## Target Outcomes 
-
-    
+- Enable children's smooth transition from childhood to adulthood by participation in the community life
+- Develop qualifications and skills for apprenticeship/jobs/livelihood/entrepreneurship for socio - economic self - reliance
+- Develop life skills for self - esteem, emotional intelligence, communication skills and relationship skills; and
+- Develop day-to -day living skills, and citizenship rights and responsibilities for the youth such as financial literacy, identity documents, etc.
+- Ensure that the youth leaving care is freed of any stigma attached to their association with the juvenile justice system.**
