@@ -11,7 +11,7 @@ Link to highlighted pdf: [https://drive.google.com/file/d/1ne-ZtzDt8uufQIlfTBUbA
 Link to original in drive: [https://www.savethechildren.org/content/dam/usa/reports/advocacy/2021-global-childhood-report.pdf](https://www.savethechildren.org/content/dam/usa/reports/advocacy/2021-global-childhood-report.pdf)
 
 
-## INTRODUCTION
+## Introduction
 
 For millions of children worldwide, childhood has ended too soon. The major reasons include: 
 
@@ -38,7 +38,7 @@ This report examines the many factors that rob children of their childhoods and 
 * The End of Childhood Index may be used as a **tool to help decision-makers target investments to children** who are most in need of care, protection and special services that allow them to overcome the compounding disadvantages they face when the effects of chronic marginalization and COVID interact.
 
 
-## WHAT DO THE SCORES MEAN?
+## What do the scores mean? 
 
 End of Childhood Index scores for countries are calculated on a scale of 1 to 1,000. The scores measure the extent to which children in each country experience **“childhood enders” such as death, chronic malnutrition, being out of school and being forced into adult roles of work, marriage and motherhood.**
 
