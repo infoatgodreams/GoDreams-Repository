@@ -25,7 +25,6 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 > - The aftercare plan for development of the careleaver considers age, gender, trauma, special needs, sexual orientation, academic abilities, educational, vocational skills, mental health and physical health conditions
 > - The Individual Care Plan is reviewed every 6 months
 
-
 > [!info]- Access to safe living spaces
 > - Physical spaces i.e Aftercare homes or group homes must be located within the same community to facilitate the integration process. 
 > - Careleavers will be encouraged to live together as a family unit and learn to share responsibilities of running their own kitchen and home. 
@@ -37,16 +36,16 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 > [!info]- Mobility and Self- Dependence
 > - Equip careleavers with basic conflict resolution skills, financial management and create systems for rederessal and reporting, for escalations. 
 > - Complete an access audit, to ensure careleavers are aware of access to public transit systems, basic civic amenities, educational institutions and vocational training centres. 
-> - Impart life-skills training through individual and group training sessions- to focus on relationships, self & social acceptance, problem-solving skills and Train 
+> - Impart life-skills training through individual and group training sessions- to focus on relationships, self & social acceptance, problem-solving skills. 
 
-Social Protection and Welfare 
-- In the last five years, most girls referred to aftercare have had their essential documents such as the Aadhar card, PAN card, bank account, and school - leaving certificate through the CCI.
-- Social vulnerabilities: Desperation and sometimes, the urgency to seek necessary documents makes individuals vulnerable to frauds and deception.
-- In such a case, the victim must be prepared to protect oneself. In the c ase of residents who are earning, there may be pressure from families to return back home and contribute financially to the household. However, returning to their families may not always be in their best interest. Thus, it is important for the family and c ommunity to support (if genuinely interested) in evaluating if the move back to the family is the best move for the victim.**
+> [!info]- Social Protection and Welfare 
+> - The CCI needs to ensure that the  essential documents such as the Aadhar card, PAN card, bank account, and school - leaving certificate are arranged for all resident children. 
+> - Careleavers provided with the training and awareness about different government schemes and private scholarships available for use
+> - Constructive recreation established as a right of the residents by ensuring that an activity of leisure or recreation is included in the residents’ daily schedule. The counselors also engage with the resident careleavers regularly on the importance of self - care.
+> - If the careleaver is returning to a previously hostile family environment, it is important for the family and community to support (if genuinely interested) in evaluating if the move back to the family is the best move for the careleaver. 
 
 
-- Organizes recreational activities: Involves professional recreation leaders and facilitates the participation of residents in external recreation programs.
-- Establishes constructive recreation as a right of the residents: During the initial discussions, the social workers ensure that an activity of leisure or recreation is included in the residents’ daily schedule. The counselors also engage with the resident girls regularly on the importance of self - care.
+
 
 Education & Training 
 
