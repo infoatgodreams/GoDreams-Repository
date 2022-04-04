@@ -15,4 +15,18 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 - In preparation for transition, each child has a strong Individual Care Plan (ICP) as a tool for planning for the overall development of the child, with close and activie participation from the careleaver
 - Careleavers are supported to continue higher-education or specialised vocational training programs until they are employed
 - Careleavers are shown to be confident about being able to live independently with/without state support, through regular assessments 
-- Careleavers are able to 
+- Careleavers are able to create healthy interpersonal relationships and access mental health services to support stable emotional well-being 
+
+# Key Levers at CCIs
+
+
+> [!info]- Individualization of Care
+> - Staff : Child ratios are minimal (5:1)
+> - Individual care plans are used and updated for all children
+> - Trauma assessment conducted during admission and periodically thereafter
+> - Admission processes rooted in individualized mental and emotional support
+> - Children have private/personal spaces and safe peer groups
+> - Individual behavioral challenges are responded to quickly and without physical or emotional violence
+> - Confidential feedback systems available for children to express their views
+
+
