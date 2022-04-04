@@ -34,9 +34,11 @@ Young adults often lack familial support systems, and typically have to independ
 > [!info]- Individualization of Care
 > - Staff : Child ratios are minimal (5:1)
 > - Individual care plans are used and updated for all children
-> - Trauma assessment conducted during admission and periodically
-> - Children have access to consistent counselling at a fixed interval
+> - Trauma assessment conducted during admission and periodically thereafter
+> - Children have access to consistent and specialized counselling at a fixed interval
 > - Children have private/personal spaces and safe peer groups
+> - Children have access to psychiatric treatment and required medication through qualified doctors
+> - Individual behavarioral challenges are responded to quickly and th
 
 > [!info]- 
 
