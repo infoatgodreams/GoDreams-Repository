@@ -19,7 +19,6 @@ Ensuring that children are and feel safe in the CCI environment emerges as a cru
 
 # Key Levers at CCIs
 
-
 Since this domain is a horizontal (an essential part of multiple domains) as well as a vertical (core aspects need to be focussed on independently of other domains), key levers will often intersect with eachother and with other domains. Keeping this in mind, the **emphasis of this domain will be to sustain abd build**
 
 

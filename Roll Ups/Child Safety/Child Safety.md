@@ -7,7 +7,7 @@ tags:
 
 # Introduction
 
-[^6] The child safety principles in a childcare institution are based on the following principles
+### Principles of child safety in a childcare institution[^6]
 - recognition of best interests of the child
 - respect for dignity, liberty and freedom
 - respect for agency and active participation of the child
@@ -15,9 +15,8 @@ tags:
 - zero tolerance of any form of abuse
 - child protection is a responsibility for anyone who is directly or indirectly associated with the children
  
- # TYPES OF VULNERABILITIES IN CHILDREN
-
-## PHYSICAL ABUSE
+# Types of vulnerabilities in children
+## Physical abuse
 Definition:- [^6]any action that causes pain, injury, hurt or discomfort is considered to be childhood abuse
 - According to the Childhood Enders index, extreme violence is a common childhood ender. [^4]
 - Typical violent actions like Hitting, slapping, pinching, pushing them down, pulling hair, pulling ears, throwing things at them, shaking, flinging them down, hitting head against the wall
@@ -25,7 +24,7 @@ Definition:- [^6]any action that causes pain, injury, hurt or discomfort is cons
 - Forcing children to be in uncomfortable positions like: Standing on a bench with hands raised, kneeling, holding ears through the legs, weight on their heads.
 - Forced ingestion of inedible things, burning, poisoning, smothering, hurting genitals, giving electric shocks.
 
-## EMOTIONAL ABUSE
+## Emotional Abuse
 Definition: According to the Child Welfare Department in the US, Emotional or psychological child abuse is a pattern of behavior that impairs a child's emotional development or sense of self-worth. This is commonly seen as
 - Repeatedly rejecting the child
 - Using derogatory terms to insult the child
@@ -41,11 +40,11 @@ Definition: According to the Child Welfare Department in the US, Emotional or ps
 - Threatening to kick a child out of the home
 - NEGLECT: Persistent lack of care: can include failure to meet physical, safety, health and emotional needs
 
-## SEXUAL ABUSE
+## Sexual Abuse
 Definition: The World Health Organization (WHO) defines Child Sexual Abuse (CSA) as the involvement of a child in sexual activity that he or she does not fully comprehend, is unable to give informed consent to, or for which the child is not developmentally prepared and cannot give consent, or that violates the laws or social taboos of society
 
 ### Contact abuse:
--   Touching the kids in any way that makes them uncomfortable
+- Touching the kids in any way that makes them uncomfortable
 - Touching private parts
 - Oral sex
 - Vaginal and anal penetration with finger, penis or any object
@@ -54,7 +53,7 @@ Definition: The World Health Organization (WHO) defines Child Sexual Abuse (CSA)
 - Wrestling or playing games that involve contact
 - Massaging the child or asking for a massage
 
-## Non contact:
+### Non contact:
 - Deliberately walking in when the child is in the bathroom/changing clothes
 - Jokes with sexual overtones
 - Teasing the child about their body development
@@ -68,7 +67,7 @@ Definition: The World Health Organization (WHO) defines Child Sexual Abuse (CSA)
 - Sharing intimate personal details with the child
 - talking/discussing erotic scenes from a movie
  
-## EMERGENCIES & NATURAL DISASTERS
+## Emergencies & Natural Disasters
 According to Rainbow Homes, CCIs need to be prepared for the following emergency situations
 - Child missing
 - Death of a child or caregiver
@@ -80,10 +79,8 @@ According to Rainbow Homes, CCIs need to be prepared for the following emergency
 - Medical Emergencies
 - Sexual Abuse
     
-
-# SIGNS OF ABUSE IN CHILDREN
-
-## PHYSICAL SIGNS OF ABUSE
+# Signs of Abuse in Children
+## Physical signs of abuse
 - According to Ethiopian guidelines [^5], the applicant's physical status needs to be evaluated, along with any disability during the screening process.
 - From a paper on institutional childcare [^3], Romanian children they assessed had physical scarring that appeared to have resulted from lacerations, burns or broken bones
 - According to Rainbow Homes [^6] , these are the following signs of physical abuse commonly found
@@ -94,7 +91,7 @@ According to Rainbow Homes, CCIs need to be prepared for the following emergency
 	- Excessive crying
 	- Excessive fear of adults
 
- ## EMOTIONAL SIGNS OF ABUSE
+## Emotional signs of abuse
 -   According to Rainbow Homes [^6] , these are the following signs of emotional abuse.
 	- Lack of concentration
 	- Apathy and hopelessness
@@ -102,7 +99,7 @@ According to Rainbow Homes, CCIs need to be prepared for the following emergency
 - Fisher et al. (1997) have pointed out that most of the characteristic early problems of children adopted from orphanages might indicate brain damage or emotionally produced pathology if they were found in children reared in families.[^3]
 - In the U.K. sample children’s scores on disinhibited attachment disturbance were positively correlated with their scores on hyperactivity and disruptive behavior measures at age 4 and hyperactivity, disruptive behavior and emotional difficulties measures at 6 years.[^3]
 
-## SEXUAL SIGNS OF ABUSE
+## Sexual signs of abuse
 According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 - Difficulty walking/sitting- unexplained rashes or pain
 - Refuses to change in front of other children
@@ -113,9 +110,9 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 - Becomes pregnant or gets an ST
 - Medical complaints such as UTI
 
-# PREVENTION OF HARM
 
-## LOGISTICAL ARRANGEMENTS FOR CHILD SAFETY
+# Prevention of Harm
+## Logistical arrangements for Child Safety
 - The CCI needs to be free from chemical, noise, air, etc., pollution; and
 - Free from hazardous physical structures like wells, swamps, unprotected ponds, open sewers, deep ditches etc.
 - ### According to Ethiopian[^5] Guidelines:
@@ -125,13 +122,13 @@ According to Rainbow Homes [^6], these are the signs of Sexual Abuse
 	- The surface area for one bedroom shall be at least twelve sq. meters.
 	- shall have at least one toilet, with a total surface area of at least two sq. meters
 	- shall have at least one bathroom/shower, with a total surface area of at least six sq. meters.
-	- For a dormitory
-	- Dormitory buildings shall not be more than one storey.
-	- The number of children residing in one bedroom in a dormitory building shall not exceed sixteen.
-	- The surface area for one bedroom in a dormitory building shall be at least forty-eight sq. meters.
-	- A dormitory building shall have at least one toilet compartment for each bedroom with a total surface area of at least one sq. meter.
-	- A dormitory building in a childcare institution shall have at least one bathroom/shower compartment for each bedroom, with a total surface area of at least one and half sq. meters.
-	- A dormitory building in a childcare institution shall have at least one washing basin for each bedroom.
+	- #### For a dormitory
+		- Dormitory buildings shall not be more than one storey.
+		- The number of children residing in one bedroom in a dormitory building shall not exceed sixteen.
+		- The surface area for one bedroom in a dormitory building shall be at least forty-eight sq. meters.
+		- A dormitory building shall have at least one toilet compartment for each bedroom with a total surface area of at least one sq. meter.
+		- A dormitory building in a childcare institution shall have at least one bathroom/shower compartment for each bedroom, with a total surface area of at least one and half sq. meters.
+		- A dormitory building in a childcare institution shall have at least one washing basin for each bedroom.
 
 - ### According to practices recommended by Indian CCIs/Service providers
 -   According to Rainbow Homes, Catalysts for Social Action and Aangan, there are a number of key priorities in arranging accommodation for children
