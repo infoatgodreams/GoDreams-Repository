@@ -102,16 +102,16 @@ For these levers to work, the primary **challenges and opportunities that exist*
 - [Miracle Foundation](https://www.miraclefoundation.org/)
 - [Indian Academy of Paediatrics](https://www.iapindia.org/)
 - [The Akshaya Patra Research Lab](https://csp.iisc.ac.in/taprl/) 
-- Child Development Centre, Medical College Trivandrum 
-- Ananthapuri Child Development Centre
-- Child Development Centre, Maluana Azad
-- St John's Research Institute
-- Maternal and Child Health Center India, Johns Hopkins Bloomberg School of Public Health
-- India Research Centre, Harvard TH Chan School of Public Health
-- National Institute of Public Cooperation and Child Development
-- Chetna India 
-- Aroya World
-- Poverty Action Lab 
-- Development Data Lab
-- Tata Trusts
-- Brown School of Social Work
+- [Child Development Centre, Medical College Trivandrum](https://cdckerala.org/) 
+- [Ananthapuri Child Development Centre](http://www.ananthapuricdc.com/)
+- [Child Development Centre, Maluana Azad](https://www.mamc.ac.in/layoutpage-child-development-centre-cdc)
+- [St John's Research Institute](https://www.sjri.res.in/)
+- [Maternal and Child Health Center India, Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/ivac/about/mchi/)
+- [India Research Centre, Harvard TH Chan School of Public Health](https://www.hsph.harvard.edu/india-center/)
+- [National Institute of Public Cooperation and Child Development](https://nipccd.nic.in/#gsc.tab=0)
+- [Chetna India](https://www.chetnaindia.org/)
+- [Aroya World](https://arogyaworld.org/)
+- [Poverty Action Lab ](https://www.povertyactionlab.org/)
+- [Development Data Lab](https://www.devdatalab.org/)
+- [Tata Trusts](https://www.tatatrusts.org/)
+- [Brown School of Social Work](https://brownschool.wustl.edu/Pages/default.aspx)
