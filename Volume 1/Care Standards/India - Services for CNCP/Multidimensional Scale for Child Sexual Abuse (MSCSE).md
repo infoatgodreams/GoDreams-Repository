@@ -65,7 +65,7 @@ Tags: [[Child Safety]]
 		- Dislike Discussing Abuse 0.559
 		- Blames Self for Family Shame 0.523
 		- Fear of Critical Comments 0.510
-		- PerceivesSelf-blame 0.484
+		- Perceives Self-blame 0.484
 		- Hopelessness 0.416
 		- Fear of Abuse Reoccurrence 0.429
 		- Teasing 0.409
@@ -97,19 +97,12 @@ Tags: [[Child Safety]]
 		- Reduced Academic Performance 0.441
 		- Poor Self-efficacies (In Academics) 0.438
 		- Trouble Concentrating 0.437
-
 	- Though most items distributed on factors were clinically and conceptually relevant to it, however, seven items loaded on the factor domain irrelevant to the allocated category which were re-shuffled based on cross-loading values and clinical relevance.
 
 
-
 # #readinglist 
-
 - Babiker, G., Herbert, M., 1998. Critical issues in the assessment of child sexual abuse. Clin. Child Fam. Psychol. Rev. 1 (4), 231–252.
-
 - Besharov, D.J., 1994. Responding to child sexual abuse: the need for a balanced approach. Future Child. 135–155.
-
 - Briere, J., Johnson, K., Bissada, A., Damon, L., Crouch, J., Gil, E., et al., 2001. The Trauma Symptom Checklist for Young Children (TSCYC): reliability and association with abuse exposure in a multi-site study. Child Abuse Negl. 25 (8), 1001–1014.
-
 - Kacker, L., Varadan, S., Kumar, P., 2007. Study on Child Abuse: India 2007. Ministry of Women and Child Development, Government of India.
-
 - Ministry of Women and Child Development, 2013. Model Guidelines Under Section 39 of the Protection of Children From Sexual Offences Act, 2012. MWCD, India.
