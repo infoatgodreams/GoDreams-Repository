@@ -112,16 +112,14 @@ The [[Aftercare Immersion]] roll up contains a summary of our learning from CCIs
 - Freedom Firm's Restoration Program
 - Adolescent Health Academy
 - Katalyst India
-- Creating Futures -
+- Creating Futures 
 - Children's Movement for Civic Awareness - PAC's associate organisation
 - Etasha Society
 - Magic Bus
-- Enfold
+- Enfold India
 - Element 
 - Chetna
 - Ujjivan Financial Services
-- Aflatoun
-- Aproch
-- NIPCCD
+- National Institute of Public Cooperation and Child Development
 - NIN
 - Santoor Scholarship by Wipro
