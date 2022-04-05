@@ -97,11 +97,11 @@ For these levers to work, the primary **challenges and opportunities that exist*
 
 ## Partnership 
 
-- Save the Children 
-- Nutrition International
-- Miracle Foundation
-- Indian Academy of Paediatrics
-- The Akshaya Patra Research Lab 
+- [Save the Children](https://www.savethechildren.in/) 
+- [Nutrition International](https://www.nutritionintl.org/)
+- [Miracle Foundation](https://www.miraclefoundation.org/)
+- [Indian Academy of Paediatrics](https://www.iapindia.org/)
+- [The Akshaya Patra Research Lab](https://csp.iisc.ac.in/taprl/) 
 - Child Development Centre, Medical College Trivandrum 
 - Ananthapuri Child Development Centre
 - Child Development Centre, Maluana Azad
