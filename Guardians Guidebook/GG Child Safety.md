@@ -91,16 +91,16 @@ For these levers to work, the **primary challenges and potential opportunities a
 
 ## Partnership 
 
-- Enfold India
-- Rainbow Homes India
-- Aangan
-- [Prerana]()
-- Catalyst for Social Action
-- Save the Children
-- Aarambh India
-- Childline India
+- [Enfold India](http://enfoldindia.org/)
+- [Rainbow Homes India](https://www.facebook.com/rainbowhomes1/)
+- [Aangan](https://aanganindia.org/)
+- [Prerana](https://www.preranango.org/)
+- [Catalyst for Social Action](https://csa.org.in/)
+- [Save the Children](https://www.savethechildren.in/)
+- [Aarambh India](https://aarambhindia.org/)
+- [Childline India](https://www.childlineindia.org/)
 - [Udhayan Care]()
-- [thorn](https://www.thorn.org)
+- [Thorn](https://www.thorn.org)
 - 
 
 
