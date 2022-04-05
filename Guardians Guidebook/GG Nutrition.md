@@ -95,3 +95,18 @@ For these levers to work, the primary **challenges and opportunities that exist*
 	- To identify gaps in nutrition inputs to children in CCIs
 	- To identify the key challenge areas preventing CCI caregivers and cooks from meeting these inputs (challenges in inputs, outputs, processes or stakeholders) 
 - The [[Nutrition Immersion]] roll up contains a summary of our learning from CCIs
+
+## Partnership 
+
+- Save the Children 
+- Nutrition International
+- Miracle Foundation
+- Indian Academy of Paediatrics
+- The Akshaya Patra Research Lab 
+- Child Development Centre, Medical College Trivandrum 
+- Ananthapuri Child Development Centre
+- Child Development Centre, Maluana Azad
+- St John's Research Institute
+- Maternal and Child Health Center India, Johns Hopkins Bloomberg School of Public Health
+- India Research Centre, Harvard TH Chan School of Public Health
+- National Institute of Public Cooperation and Child Development

@@ -107,3 +107,18 @@ Some of the key **challenges and opportunities that exist in this space** are:
 	- Identify challenge areas and best practices among CCI staff and other adult stakeholders
 	- Map the current mental health infrastructure available to the CCI and CNCP
 - The [[Mental Health Immersion]] roll up contains a summary of our learning from CCIs
+
+## Partnership 
+- Hank Nunn Institute 
+- Light House Mental Health 
+- Centre for Health Policy, Duke Global Health Institute 
+- OVC Wellbeing Org
+- Eunice Kennedy Shriver National Institute of Child Health and Human Development
+- Child Rights and You 
+- India Alliance for Children Rights
+- iPartner India
+- Child Protection, Plan India 
+- South Asia Initiative to End Violence Against Children 
+- Institute of Education and Child Studies 
+- Counsel to Secure Justice 
+

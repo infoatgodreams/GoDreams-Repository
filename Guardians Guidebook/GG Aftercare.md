@@ -73,9 +73,53 @@ For these levers to work, the **primary challenges and potential opportunities a
 	- Gauge the readiness of careleavers in transitioning to an independent life
 
 
-# Partnerships: 
-- Prerna
+# Partnership: 
+- Prerna Resource Centre, Mumbai
+- The Nudge Foundation
+- Centre for the Child and Law 
 - SOS Children's Villages 
 - Catalysts for Social Action 
 - Udayan Care
-- 
+- Bosco Homes
+- Saalam Baalak Trust
+- Counsel to Secure Justice
+- Kranti
+- Vinmay Trust
+- Udaan 
+- YUVA Connect
+- The Navajeevana Nilaya Girls' Hostel 
+- Mentor Together
+- Antarang
+- Quest Alliance
+- Foundation for Excellence
+- Navgurukul
+- Youth Parliament Fundation 
+- MentorMeIndia
+- Superheroes
+- Vidyaposhak 
+- Alomora
+- Haqdarshak
+- Settle UK
+- Cracked It 
+- Pravah - Smile Inturnship/ Zebra Project/5th Space
+- Purple Mango Facilitators
+- Youth Alliance
+- Sangath's Project Pride & Essence
+- Change India
+- Balm, part of The Banyan
+- Freedom Firm's Restoration Program
+- Adolescent Health Academy
+- Katalyst India
+- Creating Futures -
+- Children's Movement for Civic Awareness - PAC's associate organisation
+- Etasha Society
+- Magic Bus
+- Enfold
+- Element 
+- Chetna
+- Ujjivan Financial Services
+- Aflatoun
+- Aproch
+- NIPCCD
+- NIN
+- Santoor Scholarship by Wipro

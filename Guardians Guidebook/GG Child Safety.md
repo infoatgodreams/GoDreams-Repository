@@ -89,7 +89,19 @@ For these levers to work, the **primary challenges and potential opportunities a
 - The [[Child Safety Immersion]] roll up contains a summary of our learning from CCIs
 
 
+## Partnership 
 
+- [Enfold India](http://enfoldindia.org/)
+- [Rainbow Homes India](https://www.facebook.com/rainbowhomes1/)
+- [Aangan](https://aanganindia.org/)
+- [Prerana](https://www.preranango.org/)
+- [Catalyst for Social Action](https://csa.org.in/)
+- [Save the Children](https://www.savethechildren.in/)
+- [Aarambh India](https://aarambhindia.org/)
+- [Childline India](https://www.childlineindia.org/)
+- [Udhayan Care]()
+- [Thorn](https://www.thorn.org)
+- 
 
 
 
