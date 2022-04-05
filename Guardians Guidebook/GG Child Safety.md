@@ -101,7 +101,23 @@ For these levers to work, the **primary challenges and potential opportunities a
 - [Childline India](https://www.childlineindia.org/)
 - [Udhayan Care]()
 - [Thorn](https://www.thorn.org)
-- HAQ Center for Child Rights
+- [HAQ Center for Child Rights](https://www.haqcrc.org/)
+- [UNICEF](www.unicef.org)
+- [Sthree](https://www.sthreecollective.com/)
+- [ATSEC: Action Against Trafficking and Sexual Exploitation of Children](https://atsecindia.org/)
+- [Vimochana](https://www.vimochana.co.in/)
+- [Apne Aap Women](https://apneaap.org/)
+- [Manav Seva Sansthan](https://www.manavsevaindia.org/)
+- [Nedan Foundation](https://nedan.in/)
+- [MVFoundation](https://mvfindia.in/)
+- [Sakhi Foundation](http://sakhitrust.org/)
+- [STOP, Delhi](https://stopglobalmovement.com/)
+- [Child Help Foundation](https://childhelpfoundation.in/)
+- [Prachi](http://prachicp.com/)
+- [MakkalaHakku](https://www.makkalahakku.com/)
+- [Child Rights and You](https://www.cry.org)
+- 
+- 
 
 
 
