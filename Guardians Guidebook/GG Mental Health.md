@@ -114,17 +114,16 @@ Some of the key **challenges and opportunities that exist in this space** are:
 - [Sahara Centre for Rehabilitation and Residential Care](https://saharahds.org/)
 - [SAMVAD, NIMHANS (Support, Advocacy & Mental health interventions for children in Vulnerable circumstances And Distress)](https://nimhanschildprotect.in/)
 - [Centre for Health Policy, Duke Global Health Institute ](https://healthpolicy.duke.edu/)
-- [OVC Wellbeing (Orphans and Vulnerable Children)](OVC Wellbeing – OVC Wellbeing](https://ovcwellbeing.org/)
-- [Indian Mental Health and Research Center]()
-- Adolescent Health Academy
-- Promundo (Healthy Mascunity , Gender Equality)
-- Menstrupedia
-- Eunice Kennedy Shriver National Institute of Child Health and Human Development
-- Child Rights and You 
-- India Alliance for Children Rights
-- iPartner India
-- Child Protection, Plan India 
-- South Asia Initiative to End Violence Against Children 
-- Institute of Education and Child Studies 
-- Counsel to Secure Justice 
+- [OVC Wellbeing (Orphans and Vulnerable Children)](https://ovcwellbeing.org/)
+- [Indian Mental Health and Research Center](https://imhrc.org/)
+- [Adolescent Health Academy](https://aha.iapindia.org/)
+- [Promundo (Healthy Mascunity , Gender Equality)](https://promundoglobal.org/)
+- [Menstrupedia](https://www.menstrupedia.com/)
+- [Child Rights and You](https://www.cry.org/)
+- [India Alliance for Children Rights ](https://allianceforchildrensrights.org/who-we-serve/)
+- [iPartner India](https://ipartnerindia.org/)
+- [Plan India](https://www.planindia.org/)
+- [South Asia Initiative to End Violence Against Children](https://saievac.org/)
+- [Institute of Education and Child Studies](https://www.universiteitleiden.nl/en/social-behavioural-sciences/education-and-child-studies/education)
+- [Counsel to Secure Justice](https://csjindia.org/)
 
