@@ -75,14 +75,14 @@ For these levers to work, the **primary challenges and potential opportunities a
 The [[Aftercare Immersion]] roll up contains a summary of our learning from CCIs
 
 
-# Partnership: 
-- Prerna Resource Centre, Mumbai
-- The Nudge Foundation
-- Centre for the Child and Law 
-- SOS Children's Villages 
-- Catalysts for Social Action 
-- Udayan Care
-- Bosco Homes
+## Partnership
+- [Prerna Anti-trafficking](https://preranaantitrafficking.org/index.php/about-us)
+- [The Nudge Foundation](https://www.thenudge.org/)
+- [Centre for the Child and Law](https://www.nls.ac.in/centres/centre-for-child-and-the-law/) 
+- [SOS Children's Villages ](https://www.soschildrensvillages.in/)
+- [Catalysts for Social Action ](https://csa.org.in/about.html)
+- [Udayan Care](https://www.udayancare.org/)
+- [Bosco Homes](https://www.street-heroes.org/centre/bosco-rainbow-home-bangalore/)
 - Saalam Baalak Trust
 - Counsel to Secure Justice
 - Kranti
