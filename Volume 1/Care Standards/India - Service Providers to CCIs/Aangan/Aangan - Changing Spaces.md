@@ -4,8 +4,7 @@ author: Aangan
 tags: Practitioner 
 ---
 
-Tags: [Caregiving](Roll%20Ups/Caregiving/Caregiving.md) [Admissions](Roll%20Ups/Child%20Development/Child%20Lifecycle/Admissions.md) [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md) 
-
+Tags: [Caregiving](Roll%20Ups/Caregiving/Caregiving.md) [Admissions] [[Child Safety]] [[Child Development]]
 Link: https://drive.google.com/file/d/18iJBlvuwu0vXDQRK9Ij6pUTAb2H1l6ER/view?usp=sharing
 
 # Recommendation I : Staff-Child Interaction
