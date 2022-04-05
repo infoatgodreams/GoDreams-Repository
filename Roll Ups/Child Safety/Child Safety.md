@@ -320,13 +320,6 @@ Some of them are listed as follows:
 	- Review of suggestions is carried out
 	- When committee starts functioning smoothly, discussion on social issues can be initiated with them to help children develop perspective and understand
 
-# Assessment Tools
-- Aangan [^1] recommends a Standardized Evaluation of performance, criteria &systems.
-- Standardize monitoring tool combining criteria related to infrastructure, interaction and activity .
-- External Evaluation through Vigilance Committees.
-- Develop self monitoring tool.
-- Capacity building of staff to use tool for internal monitoring and goal setting
-
 
 # Response protocols to child abuse
 ## Protocol recommended by service providers
@@ -444,6 +437,11 @@ Important questions to ask:
 
 # Assessment Tools
 [Assessment Tools](Roll%20Ups/Assessment%20Tools.md)
+- Aangan   recommends a Standardized Evaluation of performance, criteria &systems.
+- Standardize monitoring tool combining criteria related to infrastructure, interaction and activity .
+- External Evaluation through Vigilance Committees.
+- Develop self monitoring tool.
+- Capacity building of staff to use tool for internal monitoring and goal setting
 - Socio-Demographic Performa was constructed for the study consisting of 2 major sections. First, was the personal history regarding a child’s age, gender, **socio-economic status (SES),** and school history. [[Kuppuswamy scale]] was used for SES assessment (Tabassum and Rao, 2017).
 	- The second section on **family history** included information on the age, education, and income of parents or head of the family, family history of psychiatric or physical illness, type of family, number of family members, living space, history of substance use, history of other forms of abuse, history of exposure to parental violence or any other significant life events.
 		- [[Child PTSD Symptom Scale (CPSS)]] (Foa et al., 2001): CPSS assesses on a 4-point likert scale, the frequency of PTSD symptoms within the past month for a child who has experienced a traumatic event. The scale had satisfactory internal and test-retest reliability along with adequate convergent validity with other PTSD measures. WHO guideline for scale translation was followed to translate the scale into the Hindi language.
