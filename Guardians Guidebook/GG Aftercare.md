@@ -40,40 +40,30 @@ In fact, the availability of appropriate aftercare services for careleavers has 
 
 > [!info]- Social Protection and Welfare 
 > - The CCI needs to ensure that the  essential documents such as the Aadhar card, PAN card, bank account, and school - leaving certificate are arranged for all resident children. 
-> - Careleavers provided with the training and awareness about different government schemes and private scholarships available for use
+> - Facilitates mentorship: Actively mentor residents to keep them motivated and avoid drop - outs. This also includes career counseling to help residents make decisions about their future.
 > - Constructive recreation established as a right of the residents by ensuring that an activity of leisure or recreation is included in the residents’ daily schedule. The counselors also engage with the resident careleavers regularly on the importance of self - care.
 > - If the careleaver is returning to a previously hostile family environment, it is important for the family and community to support (if genuinely interested) in evaluating if the move back to the family is the best move for the careleaver. 
 
+> [!info]- Education & Employability 
+> -  Develops a directory of resources: Puts together a resource directory of schools, colleges, and distance learning universities to help residents choose options based on their interests.
+> - Careleavers provided with the training and awareness about different government schemes and private scholarships available for use
+> - Actively explores marketable skills for residents through consultations. It seeks to design and administer vocational training p rograms for young adults and care leavers that, eventually, help them land good jobs.
+> - Liaisons with corporates: Mobilizes corporates for vocation training programs for care leavers with minimal educational restrictions. Makes referrals and follow - ups with the service provider to assess the progress of the girls, and hopefully, translate training into job placements.
 
+For these levers to work, the **primary challenges and potential opportunities are :** 
 
+> [!bug]- Independence and increased susceptibility 
+> - The newfound independence can also be hard to adjust to for some careleavers.Some have a hard time learning to prioritize savings and end up spending more on clothes, footwear, make - up, mobile phones, etc. as compared to food and hygiene supplies.
+> - When people of different age groups stay together, there is a risk of younger residents being dominated or bullied by the older ones.
+> - Once supervision is significantly reduced and girls get relatively greater freedom, there may be a risk of exposure to trafficking, re - trafficking, or exploitation
 
-Education & Employability 
+# References 
 
-- Develops a directory of resources: Puts together a resource directory of schools, colleges, and distance learning universities to help residents choose options based on their interests.
-- Facilitates mentorship: Actively mentor residents to keep them motivated and avoid drop - outs. This also includes career counseling to help residents make decisions about their future.
-- actively explores marketable skills for residents through consultations. It seeks to design and administer vocational training p rograms for young adults and care leavers that, eventually, help them land good jobs.
-- Liaisons with corporates: Mobilizes corporates for vocation training programs for care leavers with minimal educational restrictions. Makes referrals and follow - ups with the service provider to assess the progress of the girls, and hopefully, translate training into job placements.
-
-Challenges
-
-- Independence & increased susceptibility 
-	- The newfound independence can also be hard to adjust to for some girls. They may like to stay out till late in the evening to be with their friends. Some have a hard time learning to prioritize savings and end up spending more on clothes, footwear, make - up, mobile phones, etc. as compared to food and hygiene supplies.
-	- When peop le of different age groups stay together, there is a risk of younger residents being dominated or bullied by the older ones.
-	- Once supervision is significantly reduced and girls get relatively greater freedom, there may be a risk of exposure to trafficking, re - trafficking, or exploitation.
-	
-
-- Traditional societal approach to careleavers from children's homes 
-- Finding a regularized property (which is free from the risk of getting demolished and is equipped with the basic civic amenities) in an already over - populous metropolitan city is difficult.
-- Apart from that, finding accommodation for a small group of single, young women is extremely challenging because of certain patriarchal norms in society. Women who stay alone are often stigmatized and frowned upon.
-- Some societies also set limitations to the timings for the girls to abide by, try to investigate the religious and social background of the girls out of curiosity, and hence, put them in an uncomfortable position
-
-
-References 
-
+## Literature review
  - There is exhaustive research done and content available on the recommended aftercare practices and support systems that careleavers need, including government legislation, recommended policy changes and gold standard practices of aftercare organizations in the country. Current realities in the challenges careleavers face reflect the need for extensive continued support 
  - Link to the summary of the literature review here [[Aftercare]]
 
-CCI Immersion 
+## CCI Immersion 
 
 - The Goal of the immersion phase in Aftercare is to: 
 	- Gauge baseline levels of attention and time spent on preparing children for transition
@@ -81,10 +71,9 @@ CCI Immersion
 	- Identify gaps in Knowledge/Skills/Minsets of CCI staff and other stakeholders in preparing and executing the Individualised Care Plan
 	- Identify key challenge areas preventing CCIs from building a comprehensive Aftercare support system for careleavers
 	- Gauge the readiness of careleavers in transitioning to an independent life
-- The  roll up contains a summary of our learning from CCIs
 
 
-Partnerships: 
+# Partnerships: 
 - Prerna
 - SOS Children's Villages 
 - Catalysts for Social Action 
