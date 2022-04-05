@@ -72,6 +72,8 @@ For these levers to work, the **primary challenges and potential opportunities a
 	- Identify key challenge areas preventing CCIs from building a comprehensive Aftercare support system for careleavers
 	- Gauge the readiness of careleavers in transitioning to an independent life
 
+The [[Aftercare Immersion]] roll up contains a summary of our learning from CCIs
+
 
 # Partnership: 
 - Prerna Resource Centre, Mumbai
