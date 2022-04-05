@@ -111,11 +111,11 @@ Some of the key **challenges and opportunities that exist in this space** are:
 ## Partnership 
 - [Hank Nunn Institute](https://hanknunninstitute.com/)
 - [Light House Mental Health](https://www.lys.org/)
-- Sahara Centre for Rehabilitation and Residential Care
-- SAMVAD, NIMHANS (Support, Advocacy & Mental health interventions for children in Vulnerable circumstances And Distress )
-- Centre for Health Policy, Duke Global Health Institute 
-- OVC Wellbeing (Orphans and Vulnerable Children)
-- Indian Mental Health and Research Center
+- [Sahara Centre for Rehabilitation and Residential Care](https://saharahds.org/)
+- [SAMVAD, NIMHANS (Support, Advocacy & Mental health interventions for children in Vulnerable circumstances And Distress)](https://nimhanschildprotect.in/)
+- [Centre for Health Policy, Duke Global Health Institute ](https://healthpolicy.duke.edu/)
+- [OVC Wellbeing (Orphans and Vulnerable Children)](OVC Wellbeing – OVC Wellbeing](https://ovcwellbeing.org/)
+- [Indian Mental Health and Research Center]()
 - Adolescent Health Academy
 - Promundo (Healthy Mascunity , Gender Equality)
 - Menstrupedia
