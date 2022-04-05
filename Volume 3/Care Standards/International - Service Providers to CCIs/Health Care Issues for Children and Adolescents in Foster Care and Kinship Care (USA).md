@@ -13,6 +13,7 @@ tags:
 
 # Brief:
 - The paper talks about the state of children and adolescents as they enter foster care. It encompasses the medical, mental health, oral health, and the psychosocial problems that are embedded from childhood traumatic history. The role of Pediatricians and child welfare professionals for ensuring the well-being of children in foster care is also discussed.
+- Tags: [[Roll Ups/Physical Health/Physical Health]]
 - Link: [https://drive.google.com/file/d/1cEvll8ncD1ZF2seFDQLZC0FO1f-iRqtl/view?usp=sharing](https://drive.google.com/file/d/1cEvll8ncD1ZF2seFDQLZC0FO1f-iRqtl/view?usp=sharing)
 - Original Link: [www.pediatrics.org/cgi/doi/10.1542/peds.2015-2655](http://www.pediatrics.org/cgi/doi/10.1542/peds.2015-2655)
 - Date: October, 2015

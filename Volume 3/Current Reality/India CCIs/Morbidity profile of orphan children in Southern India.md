@@ -11,6 +11,7 @@ tags:
 
 ## Brief:
 - Scope &amp; Description: The research study assessed the morbidity pattern of one hundred orphan children aged 10–16 years, and their knowledge about signs and symptoms of common childhood morbidities and treatment-seeking practices. Thorough clinical examination and anthropometric measurements were done. The findings suggested that awareness about diseases and their complications was low; and self-care was highly prevalent for most health problems.
+- Tags: [[Roll Ups/Physical Health/Physical Health]]
 - Link:[https://drive.google.com/file/d/1mAbUvNeVPSsJ9OV4wMqZs6SW2SOq5VeV/view?usp=sharing](https://drive.google.com/file/d/1mAbUvNeVPSsJ9OV4wMqZs6SW2SOq5VeV/view?usp=sharing)
 - Original Link: [https://pubmed.ncbi.nlm.nih.gov/31406706/](https://pubmed.ncbi.nlm.nih.gov/31406706/)
 - Date: Sept-Oct 2018

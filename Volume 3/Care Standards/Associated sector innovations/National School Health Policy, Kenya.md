@@ -14,6 +14,7 @@ tags:
 # Brief:
 
 - Scope & Description: This Policy defines a Comprehensive School health Programme (CSHP) which will enable the Government to address the health and education needs of learners, teachers, and their families. The programme shall provide for quality health education and health services to promote the overall health, hygiene and nutrition of children.
+- Tags: [[Physical Health]] 
 - Link:[https://drive.google.com/file/d/1jUeOPQyGM\_rKrB8EHb2Jddl2fBcrlyMe/view?usp=sharing](https://drive.google.com/file/d/1jUeOPQyGM_rKrB8EHb2Jddl2fBcrlyMe/view?usp=sharing)
 - Original Link: [https://www.prb.org/wp-content/uploads/2018/05/National-School-Health-Policy-2009.-without-cover..-Kenya.pdf](https://www.prb.org/wp-content/uploads/2018/05/National-School-Health-Policy-2009.-without-cover..-Kenya.pdf)
 - Date: 2009
@@ -90,7 +91,7 @@ These components can be understood with respect to the key practices they are a 
     - Communities shall be involved in planning, mobilization of resources and the management of school feeding programmes.
     - Communities shall be encouraged to ensure a minimum level of local food production to ensure sustainability
 
-## Access to safe water, sanitation &amp; hygiene
+## Access to safe water, sanitation & hygiene
 
 - Every child has a right to access safe drinking water and adequate sanitation. Provision of safe water and sanitation shall be complemented by appropriate hygiene promotion and education.
 - A healthy and hygienic school environment is actualized by safe, adequate water supply, adequate sanitation and appropriate hygiene promotion.

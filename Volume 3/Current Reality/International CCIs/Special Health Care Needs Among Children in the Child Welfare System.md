@@ -13,6 +13,7 @@ tags:
 # Brief:
 
 - Scope & Description: Special health care needs are prevalent among children in the child welfare system. Many children with special health care needs have cognitive, language, adaptive, social, or behavioral functional impairments. For this study data was obtained from the National Survey of Child and Adolescent Well-being, a national probability study of children investigated for child maltreatment. The sample consisted of 5496 children aged 0 to 15 years at baseline. For analysis, descriptive statistics was used to determine special health care needs and children's functioning from baseline to 3-year follow-up. Logistic regression was used to examine correlates of special health care needs.
+- Tags: [[Roll Ups/Physical Health/Physical Health]]
 - Link:[https://drive.google.com/file/d/1nHeMq8bSGlYm499FgZHosUQnJOEMl08G/view?usp=sharing](https://drive.google.com/file/d/1nHeMq8bSGlYm499FgZHosUQnJOEMl08G/view?usp=sharing)
 - Original Link: [https://sci-hub.hkvisa.net/10.1097/00004703-200506000-00003](https://sci-hub.hkvisa.net/10.1097/00004703-200506000-00003)
 - Date: July 2008

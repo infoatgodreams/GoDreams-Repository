@@ -11,6 +11,7 @@ tags: #Practitioner
 # Brief:
 
 - Scope & Description: This is a handbook for planners and practitioners working with CNCPs, specifically based on an institutional setting. It focuses on a shift from medical approach towards the more holisti c assessment of health needs of children between the age group of 4 to 19 years. It provides a detailed understanding on principles of health care, prominent illnesses among children, first aid and standards that need to be maintained in a home to ensure good health.
+- Tgas: [[Roll Ups/Physical Health/Physical Health]] [[Nutrition]]
 - Link:NA
 - Original Link: [https://issuu.com/rainbowfoundationindia/docs/health\_mannual](https://issuu.com/rainbowfoundationindia/docs/health_mannual)
 - Date: June 2005

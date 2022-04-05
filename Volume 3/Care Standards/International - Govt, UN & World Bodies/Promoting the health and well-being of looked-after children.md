@@ -12,6 +12,7 @@ tags:
 # Brief:
 
 - Scope & Description: The manual is a joint statutory guidance from the Department for Education and the Department of Health. It is for local authorities, clinical commissioning groups (CCGs) and NHS England and applies to England only.
+- Tags; [[Roll Ups/Physical Health/Physical Health]] 
 - Link:[https://drive.google.com/file/d/1TrksFJSfCteGl9W-rrORtSdLnNmFRTAs/view?usp=sharing](https://drive.google.com/file/d/1TrksFJSfCteGl9W-rrORtSdLnNmFRTAs/view?usp=sharing)
 - Original Link: [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/413368/Promoting\_the\_health\_and\_well-being\_of\_looked-after\_children.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/413368/Promoting_the_health_and_well-being_of_looked-after_children.pdf)
 - Date: March 2015

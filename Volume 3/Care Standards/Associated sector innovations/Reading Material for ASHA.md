@@ -9,8 +9,9 @@ tags: GOIAssociatedSectors
 
 ---
 
-# BRIEF
+# Brief
 - Scope & Description: This is a hand book for ASHA workers with 19 themes. It elaborates their role and duty in a village. It also talks about the health facilities available in a village and introduces them to different parts of the body, organ system, different illnesses, and cures to it. It predominanty follows a preventive approach, however also provides first aid measures in times of emergency.
+- Tags: [[Roll Ups/Physical Health/Physical Health]]
 - Link:[ASHA Reading Material](https://drive.google.com/file/d/1beF2jgHueWMzMRMP9Uv95ymnW0xp-NT3/view?usp=sharing)
 - Original Link: NA
 - Date: June 2015

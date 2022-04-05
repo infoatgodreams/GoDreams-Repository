@@ -9,6 +9,7 @@ tags: #globalresearch
 # Brief:
 
 - Scope & Description: This study examines differences in personal hygiene and in the perception of social rejection between children in reception centers and children living in a family setting. The study was carried out in the Murcia Autonomous Community (Spain). In comparison to the Children Living in Families (CLFs), the Children in Reception Centers (CRCs) had poorer hygiene habits in all dimensions studied, were less likely to consider their families as the most influential agent in learning hygiene habits, and were more likely to experience social rejection due to their hygiene and to be motivated by this rejection to carry out personal hygiene activities
+- Tags: [[Roll Ups/Physical Health/Physical Health]]
 - Link: [Social Determinants of Health, the Family,.pdf](https://drive.google.com/file/d/1StB8afHIaFlTCccG66QUjr3uFfpq7GW-/view?usp=sharing)
 - Original Link:NA
 - Date: 26 November 2019
