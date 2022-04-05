@@ -100,5 +100,3 @@ For these levers to work, the primary **challenges and opportunities that exist*
 
 - Chetna India 
 - Aroya World
-
-- 
