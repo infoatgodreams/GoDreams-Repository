@@ -437,7 +437,7 @@ Important questions to ask:
 
 # Assessment Tools
 [Assessment Tools](Roll%20Ups/Assessment%20Tools.md)
-- Aangan   recommends a Standardized Evaluation of performance, criteria &systems.
+- Aangan recommends a Standardized Evaluation of performance, criteria &systems.
 - Standardize monitoring tool combining criteria related to infrastructure, interaction and activity .
 - External Evaluation through Vigilance Committees.
 - Develop self monitoring tool.
@@ -449,6 +449,7 @@ Important questions to ask:
 		- [[Developmental Psychopathology Checklist (DPCL)]] (Kapur et al., 1995): DPCL is an Indian adapted version of the Child Behaviour Checklist (CBCL) by Achenbach and Edelbrock, consisting of 6 subsections. In the present study, sub-scale psychopathology was only used.
 		- [[Abuse Form]]: The first section included incident information on child’s age at the time of the abuse, frequency of abuse, time since the abuse, and type of abuse. Disclosure information was the second section which included details on time taken for disclosure, threat for disclosure, and sources of support after disclosure.
 		- [[Children’s Global Assessment Scale (CGAS)]]: The CGAS is a clinician completed numeric scale ranging from lowest (1) to highest (100)functioning. It captures behavioural descriptors of functioning within the last month for children that is independent of specific mental health diagnosis.
+	
 		- ###  ASSESSMENT OF CSA (INDICATORS)
 		-  **The first factor “psychopathology”** consists of 27 items on symptoms of PTSD, depression, anxiety, and somatization. 
 			- Bed Wetting

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roll Ups/Child Safety/Child Safety.md",
+            "file": "Volume 1/Care Standards/India - Services for CNCP/Multidimensional Scale for Child Sexual Abuse (MSCSE).md",
             "mode": "source",
             "source": false
           }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "suicidal wishes",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Child Safety/Child Safety.md",
+                "file": "Volume 1/Care Standards/India - Services for CNCP/Multidimensional Scale for Child Sexual Abuse (MSCSE).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "8a1fa8479fc24632",
   "lastOpenFiles": [
+    "Volume 1/Care Standards/India - Services for CNCP/Multidimensional Scale for Child Sexual Abuse (MSCSE).md",
     "Roll Ups/Child Safety/Child Safety.md",
+    "Kuppuswamy scale.md",
     "Volume 2/Care Standards/India - Service Providers to CCIs/CSA_Child Protection Policy.md",
     "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Working with Children Sensitively.md",
     "Volume 2/Care Standards/GOI & Indian Standards/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
     "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
     "Volume 2/Care Standards/India - Service Providers to CCIs/CSA_Children's Committees.md",
     "Volume 2/Care Standards/India - Service Providers to CCIs/Rainbow_Child Protection Policy.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
-    "Volume 1/Care Standards/International - Govts, UN & World Bodies/Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia.md"
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md"
   ]
 }
