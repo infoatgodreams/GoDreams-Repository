@@ -100,5 +100,6 @@ For these levers to work, the primary **challenges and opportunities that exist*
 ## Partners
 
 - Chetna India 
-- 
+- Aroya World
+
 - 
