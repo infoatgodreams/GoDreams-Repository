@@ -12,8 +12,6 @@ Context:
 
 This article basically outlines the sexual abuse of boys (including victims and perpetrators) in Nepal. Imo since the demography of Nepal and India are similar, the paper is quite relevant. This paper is based on interviews conducted with victims, actors, parents and responders. By understanding the psyche of these stakeholder, I think we can design our own care practices based on this or at least make sure that the care practices we come up with takes into accounts the concerns mentioned in this paper.
 
- 
-
 [[childsexualabuse]]  [[childsafety]]
 
 Please note that I couldn’t highlight this paper. [Link to pdf](https://drive.google.com/file/d/1fpcYOuIwyGqG-DhHvZPf0Cep9YFYDCDz/view?usp=sharing)

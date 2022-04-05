@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guardians Guidebook/GG Nutrition.md",
+            "file": "Volume 2/Care Standards/International - Services for CNCP/Study of Foster Care in Nepal.md",
             "mode": "source",
             "source": false
           }
@@ -44,7 +44,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guardians Guidebook/GG Nutrition.md",
+                "file": "Volume 2/Care Standards/International - Services for CNCP/Study of Foster Care in Nepal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "4fe11b694e365741",
   "lastOpenFiles": [
+    "Volume 2/Care Standards/International - Services for CNCP/Study of Foster Care in Nepal.md",
+    "Roll Ups/Child Safety/Child Safety.md",
+    "Volume 2/Care Standards/GOI & Indian Standards/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
+    "Volume 2/Care Standards/International - Services for CNCP/Exploring and Addressing the Sexual Violence of Boys in Nepal.md",
+    "Volume 2/Daily Log/📕Mekha's Log.md",
     "Guardians Guidebook/GG Nutrition.md",
     "Guardians Guidebook/GG Mental Health.md",
     "Guardians Guidebook/GG Child Safety.md",
     "Guardians Guidebook/GG Aftercare.md",
-    "Aftercare Immersion.md",
-    "Mental Health Immersion.md",
-    "Roll Ups/Mental Health/Mental Health.md",
-    "Rough Notes/CCI Immersion.md",
-    "conflict-files-obsidian-git.md",
-    "Roll Ups/Child Safety/Child Safety.md"
+    "Aftercare Immersion.md"
   ]
 }

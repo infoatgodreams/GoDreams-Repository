@@ -7,7 +7,7 @@ tags:
 
 Link: https://drive.google.com/file/d/1fpcYOuIwyGqG-DhHvZPf0Cep9YFYDCDz/view
 Context: Voice of Children believed in Deinstitutionalization. This paper is focussed on alternative care to institutionalizations of street children.
-
+Tags: [[Child Safety]] [[Mental Health]] [[Foster Care]]
 
 
 * Families and children know that if they go to an institution children get many free service. So people take advantage of of this
