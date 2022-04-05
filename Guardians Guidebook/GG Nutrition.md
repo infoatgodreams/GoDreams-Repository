@@ -1,5 +1,4 @@
 
-
 # Introduction
 
 Nutrition is one of the domains where the science is clear on straightforward inputs required for children achieve positive outcomes.  The quantity of macro and micro nutrients required for children across age groups is publicly available, and local nutritionists can use this to come up with diet plans based on regional preferences.
@@ -96,6 +95,7 @@ For these levers to work, the primary **challenges and opportunities that exist*
 	- To identify the key challenge areas preventing CCI caregivers and cooks from meeting these inputs (challenges in inputs, outputs, processes or stakeholders) 
 - The [[Nutrition Immersion]] roll up contains a summary of our learning from CCIs
 
+<<<<<<< HEAD
 ## Partnership 
 
 - Save the Children 
@@ -110,3 +110,12 @@ For these levers to work, the primary **challenges and opportunities that exist*
 - Maternal and Child Health Center India, Johns Hopkins Bloomberg School of Public Health
 - India Research Centre, Harvard TH Chan School of Public Health
 - National Institute of Public Cooperation and Child Development
+=======
+
+## Partners
+
+- Chetna India 
+- Aroya World
+
+- 
+>>>>>>> be5b9e0145b36ba05e4758d9c7b4d0d381888130

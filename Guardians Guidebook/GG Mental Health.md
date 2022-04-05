@@ -108,6 +108,7 @@ Some of the key **challenges and opportunities that exist in this space** are:
 	- Map the current mental health infrastructure available to the CCI and CNCP
 - The [[Mental Health Immersion]] roll up contains a summary of our learning from CCIs
 
+<<<<<<< HEAD
 ## Partnership 
 - Hank Nunn Institute 
 - Light House Mental Health 
@@ -122,3 +123,14 @@ Some of the key **challenges and opportunities that exist in this space** are:
 - Institute of Education and Child Studies 
 - Counsel to Secure Justice 
 
+=======
+## Partners
+- Hank Nunn Institute
+- Light House Mental Health
+- Sahara Centre for Rehabilitation and Residential Care
+- NIMHANS
+- Indian Mental Health and Research Center
+- Adolescent Health Academy
+- Promundo
+- Menstrupedia
+>>>>>>> be5b9e0145b36ba05e4758d9c7b4d0d381888130
