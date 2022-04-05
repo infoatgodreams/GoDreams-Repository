@@ -83,43 +83,33 @@ The [[Aftercare Immersion]] roll up contains a summary of our learning from CCIs
 - [Catalysts for Social Action ](https://csa.org.in/about.html)
 - [Udayan Care](https://www.udayancare.org/)
 - [Bosco Homes](https://www.street-heroes.org/centre/bosco-rainbow-home-bangalore/)
-- Saalam Baalak Trust
-- Counsel to Secure Justice
-- Kranti
-- Vinmay Trust
-- Udaan 
-- YUVA Connect
-- The Navajeevana Nilaya Girls' Hostel 
-- Mentor Together
-- Antarang
-- Quest Alliance
-- Foundation for Excellence
-- Navgurukul
-- Youth Parliament Fundation 
-- MentorMeIndia
-- Superheroes
-- Vidyaposhak 
-- Alomora
-- Haqdarshak
-- Settle UK
-- Cracked It 
-- Pravah - Smile Inturnship/ Zebra Project/5th Space
-- Purple Mango Facilitators
-- Youth Alliance
-- Sangath's Project Pride & Essence
-- Change India
-- Balm, part of The Banyan
-- Freedom Firm's Restoration Program
-- Adolescent Health Academy
-- Katalyst India
-- Creating Futures 
-- Children's Movement for Civic Awareness - PAC's associate organisation
-- Etasha Society
-- Magic Bus
-- Enfold India
-- Element 
-- Chetna
-- Ujjivan Financial Services
-- National Institute of Public Cooperation and Child Development
-- ICMR - National Institute of Nutrition
-- Santoor Scholarship by Wipro
+- [Saalam Baalak Trust](https://www.salaambaalaktrust.com/)
+- [Counsel to Secure Justice](https://csjindia.org/)
+- [Kranti](https://www.kranti-india.org/)
+- [Vinimay Trust](http://vinimaytrust.org/)
+- [Udaan](https://udaan.org/) 
+- [YUVA Connect](http://yuvaconnect.chinmayamissionalpharetta.org/)
+- [The Navajeevana Nilaya Girls' Hostel](https://apsabangalore.org/navajeevana-nilaya-after-care-shelter-apsa-mali-shelter-home/) 
+- [Mentor Together](https://mentortogether.org/)
+- [Antarang](https://antarangfoundation.org/)
+- [Quest Alliance](https://www.questalliance.net/)
+- [Foundation for Excellence](https://ffe.org/)
+- [Navgurukul](https://www.navgurukul.org/index.html)
+- [Youth Parliament Fundation ](https://theypfoundation.org/)
+- [MentorMeIndia](https://mentormeindia.org/)
+- [Vidyaposhak](https://www.vidyaposhak.ngo/) 
+- [Haqdarshak](https://haqdarshak.com/)
+- [Settle UK](https://wearesettle.org/)
+- [Purple Mango Facilitators](https://www.purplemangoes.com/)
+- [Youth Alliance](https://www.youthallianceofindia.org/)
+- [Sangath's Project Pride & Essence](https://sangath.in/essence-3/)
+- [Freedom Firm's Restoration Program](https://www.freedomfirm.org/restorationblog)
+- [Adolescent Health Academy](https://aha.iapindia.org/)
+- [Katalyst India](https://katalystindia.org/)
+- [Creating Futures](https://www.creatingfutures.in/#1) 
+- [Children's Movement for Civic Awareness - PAC's associate organisation](https://www.cmcaindia.org/)
+- [Etasha Society](https://etashasociety.org/index.html)
+- [Magic Bus](https://magicbususa.org/mission/)
+- [Enfold India](http://enfoldindia.org/)
+- [National Institute of Public Cooperation and Child Development](https://nipccd.nic.in/)
+- [Santoor Scholarship by Wipro](https://santoorscholarships.com/index.php)
