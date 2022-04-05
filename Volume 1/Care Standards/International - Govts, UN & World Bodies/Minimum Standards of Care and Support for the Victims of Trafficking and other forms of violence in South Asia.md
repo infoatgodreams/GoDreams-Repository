@@ -18,7 +18,6 @@ Link: https://drive.google.com/file/d/1wCMJU8nz28ekGEAChCE_ujMM1jjXoUPw/view?usp
 	- i. common and special needs of the persons it is meant to accommodate
 	- ii. physical and mental status of the persons it is meant to accommodate (e.g. persons with special physical needs, debilitating conditions and other special needs).
 	- Where the Home is meant to accommodate children/women with special needs, suitable aids and adaptations, and any special furniture or equipment should be provided to enable the residents to live as normal a life as possible and should be designed/altered by adhering to the recommendations of a qualified occupational therapist. 
-
 - The building and the premises of the Home shall be free of abnormal noise pollution.
 - The design, the access, easements, privacy structures, bathing and washing arrangements, recreation arrangements, etc. are designed or altered appropriately by taking into consideration gender-based needs.
 - The Home should be designed/altered in such a way as to completely and satisfactorily meet all the requirements/recommendations/and standards specified by the relevant authority such as: [CCI Compliance](Roll%20Ups/CCI%20Operations/CCI%20Compliance.md)
@@ -58,7 +57,6 @@ Link: https://drive.google.com/file/d/1wCMJU8nz28ekGEAChCE_ujMM1jjXoUPw/view?usp
 - The Home shall maintain a file on the victims and their minor dependants containing their Personal [[Roll Ups/Education/Education]] Plan (PEP) setting out a record of their educational achievements, needs and aspirations. (See also provisions under the Chapter: Case Management
 - State/Homes shall maintain all relevant details on the victims after the rescue process and deal with each victim on a case management basis. [Child Profile](Roll%20Ups/Child%20Development/Child%20Profile.md)
 	- Every victim shall have the right to inquire about such personal records as appropriate.
-
 - [Aftercare](Roll%20Ups/Child%20Development/Child%20Lifecycle/Aftercare.md) Considering the fact that ups and downs are inevitable in any person's life, provision shall be made to offer support services for use by the victim even after a certain degree of rehabilitation and social reintegration. These services shall not create any obstacle in the reintegration process by revealing the identity of the victim. This will be achieved by setting up Drop-in Centers and follow-up activities as well as by building up confidence among the victims to make use of those support services when required.
 	- senior and high level official of the Home shall personally approve the Economic Rehabilitation Plan (ERP) and periodically assess progress for each victim.
 - Upon discharge, each victim shall be provided with her educational records, medical records, legal documents, and other means such as savings and personal belongings.
