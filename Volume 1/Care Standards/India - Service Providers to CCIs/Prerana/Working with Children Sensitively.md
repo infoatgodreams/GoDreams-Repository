@@ -14,11 +14,9 @@ Tags:  [Care Practices](Roll%20Ups/Caregiving/Care%20Practices.md) [[Roll Ups/Me
 
 **Context:** This document is developed based on actual observations and field experiences of counselors and caregivers working with children in institutional settings. It surveys 300 caregivers across 6 countries. #opinion
 
-# **WORKING WITH CHILDREN**
-
 Here are some tips for caregivers to deal with children sensitively:
 
-## **COMMUNICATION WITH CHILDREN**
+## **Communication with Children**
 [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md) [Child Profile](Roll%20Ups/Child%20Development/Child%20Profile.md)
 * Whenever a child is seen engaging in unacceptable behavior or is found doing something that is unacceptable, the child should be first asked what he/she was up to. Listen to children. After knowing what the child was doing, an adult can explain why a behavior is inappropriate.
 * In order to avoid shaming, embarrassing or humiliating the child, the caregivers should hold this conversation one- on-one with the child and avoid confronting the child in front of the other children.
@@ -46,7 +44,7 @@ Here are some tips for caregivers to deal with children sensitively:
 *  Ensure that consistent messages are given to the child. Hence, it is important for caregivers to regularly communicate with each other.
 * Address children with their names, even in your internal communication and not as POCSO Case, Missing child, ITPA case, Trafficking case, Suicide case, etc.
 
-### **DEALING WITH EMOTIONS & ATTACHMENT**
+### **Dealing with emotions and attachment**
 *  The best way to work with children is to be empathetic towards them.
 *  Children can quickly understand who understands them and who cannot understand them. When a child has a fight and is angry with everyone, caregiver could go near and ask permission to sit nearby. The caregiver could say that “I can understand that you are angry and do you want to talk about it?”
 * As an adult living with children, express your emotions on the child’s behavior. Only being patient is not the way to deal with children experiencing emotional and behavioral challenges.
@@ -58,16 +56,14 @@ Here are some tips for caregivers to deal with children sensitively:
 * If the child does not have a dialogue about the anger, it will lead to bottling up of the anger and resentment towards the adult causing defiance to follow anything that is told to the child.
 * When a staff realizes that the child is going to be aggressive and say bad things about the staff’s character, the staff can tell her/him to think about what s/he actually feels and write it down in a letter rather than trying to hurt the staff by saying nasty things. It may help to acknowledge the impact the child’s words are having in a manner that does not place the responsibility on the child, for example, “I can see that you are angry and hurting. The words that you are saying are hurting me and making me angry/frustrated as well. I don’t think we can have a helpful conversation when we are both so upset.”
 * Teach the child the difference between response and reaction. For example: child says to the staff “I don’t want to study”. 
-
     Reaction: You never like studying, you only want to play all the time. 
-
     Response: Can you tell me why you don’t want to study? It is not always fun to study especially when we have to study something we don’t enjoy or is challenging. Sometimes we have to do things that are hard so that we can keep learning and growing. What is it that is making it hard for you to study today? Let’s talk about it.
 *  Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
 *  Encourage parent(s)/guardian(s)to meet the children as much as they can. it helps the child to build trust and reduces the attachment issues they face which reflect on their behavior.
 * In early childhood it also helps in the brain development of the child. Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
 * It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
 
-### **SETTING RULES**
+### **Setting Rules & Boundaries with Children**
 *  Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
 * Children may not conform to all the rules and the staff can decide what are acceptable.
 * Extreme disciplining may lead to defiance in children.
@@ -75,7 +71,7 @@ Here are some tips for caregivers to deal with children sensitively:
 * While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
 * Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
 
-### **SETTING CHILDREN’S ROUTINES**
+### **Setting Routines for Children**
 
 * A child’s day is the best when it is filled with art, play and some time with friends.
 *  Adults require 8 hours of sleep for good mental and physical health and children require 8-9 hours of sleep at a stretch, make sure the children’s schedules include their minimum sleep. An afternoon nap does not compensate for the hours missed at night.
