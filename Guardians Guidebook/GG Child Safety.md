@@ -101,7 +101,7 @@ For these levers to work, the **primary challenges and potential opportunities a
 - [Childline India](https://www.childlineindia.org/)
 - [Udhayan Care]()
 - [Thorn](https://www.thorn.org)
-- 
+- HAQ Center for Child Rights
 
 
 

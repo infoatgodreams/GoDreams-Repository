@@ -95,3 +95,10 @@ For these levers to work, the primary **challenges and opportunities that exist*
 	- To identify gaps in nutrition inputs to children in CCIs
 	- To identify the key challenge areas preventing CCI caregivers and cooks from meeting these inputs (challenges in inputs, outputs, processes or stakeholders) 
 - The [[Nutrition Immersion]] roll up contains a summary of our learning from CCIs
+
+
+## Partners
+
+- Chetna India 
+- 
+- 
