@@ -204,8 +204,9 @@ In a seminar organized by Udayan Care[^1] on Mental Health Standards in institut
 - Some staff members may also lack the awareness about mental health and disorders, may not be equipped to deal with children who have been through traumatic experiences which may end up in re-victimizing the resident.
 
 ## TRAUMA INFORMED CARE
+[[Child Safety]]
 - The model of TIC proposed by Miracle Foundation [^11]comes from Institute on Trauma and Trauma-Informed Care at the University of Buffalo, and is based on Harris and Fallot’s Using Trauma Theory to Design Service Systems(Page 3)
-	- The five guiding principles of TIC-Trauma Informed Care 
+	- The five guiding principles of TIC-Trauma Informed Care  
 	    - Safety: Ensuring individual’s physical and emotional safety. 
 	    - Choice: Individuals have choice and control. They are made well aware of their rights and responsibilities. 
 	    - Collaboration: Making decisions with the individual and sharing power increases participation in and effectiveness of services.
