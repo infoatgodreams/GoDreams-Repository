@@ -442,7 +442,7 @@ Important questions to ask:
 - External Evaluation through Vigilance Committees.
 - Develop self monitoring tool.
 - Capacity building of staff to use tool for internal monitoring and goal setting
-- Socio-Demographic Performa was constructed for the study consisting of 2 major sections. First, was the personal history regarding a child’s age, gender, **socio-economic status (SES),** and school history. [[Kuppuswamy scale]] was used for SES assessment (Tabassum and Rao, 2017).
+- Socio-Demographic Performa was constructed for the study consisting of 2 major sections. First, was the personal history regarding a child’s age, gender, **socio-economic status (SES),** and school history. [[Kuppuswamy scale]] was used for SES assessment (Tabassum and Rao, 2017). [^12]
 	- The second section on **family history** included information on the age, education, and income of parents or head of the family, family history of psychiatric or physical illness, type of family, number of family members, living space, history of substance use, history of other forms of abuse, history of exposure to parental violence or any other significant life events.
 		- [[Child PTSD Symptom Scale (CPSS)]] (Foa et al., 2001): CPSS assesses on a 4-point likert scale, the frequency of PTSD symptoms within the past month for a child who has experienced a traumatic event. The scale had satisfactory internal and test-retest reliability along with adequate convergent validity with other PTSD measures. WHO guideline for scale translation was followed to translate the scale into the Hindi language.
 		- [[Children’s Impact of Events Scale –13 (CRIES-13)]] (Horowitz et al., 1979): It comprises of 13 items on 4 point likert scale to assesses PTSD symptoms in children between age range of 7–16 years. The scale has satisfactory internal consistency. WHO’s guidelines for scale translation were followed to translate the scale into the Hindi language.
@@ -532,3 +532,4 @@ Important questions to ask:
 [^9]: [[CSA_Child Protection Policy]]
 [^10]: [CSA_Children's Committees](Volume%202/Care%20Standards/India%20-%20Service%20Providers%20to%20CCIs/CSA_Children's%20Committees.md)
 [^11]: [SOP on Escape Runaway Sexual Abuse Death of Children in CCIs](Volume%202/Care%20Standards/GOI%20&%20Indian%20Standards/SOP%20on%20Escape%20Runaway%20Sexual%20Abuse%20Death%20of%20Children%20in%20CCIs.md)
+[^12]: [[Multidimensional Scale for Child Sexual Abuse (MSCSE)]]
