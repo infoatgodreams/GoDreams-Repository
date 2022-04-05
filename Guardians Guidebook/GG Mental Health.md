@@ -112,12 +112,12 @@ Some of the key **challenges and opportunities that exist in this space** are:
 - Hank Nunn Institute 
 - Light House Mental Health 
 - Sahara Centre for Rehabilitation and Residential Care
-- SAMVAD, NIMHANS
+- SAMVAD, NIMHANS (Support, Advocacy & Mental health interventions for children in Vulnerable circumstances And Distress )
 - Centre for Health Policy, Duke Global Health Institute 
-- OVC Wellbeing 
+- OVC Wellbeing (Orphans and Vulnerable Children)
 - Indian Mental Health and Research Center
 - Adolescent Health Academy
-- Promundo
+- Promundo (Healthy Mascunity , Gender Equality)
 - Menstrupedia
 - Eunice Kennedy Shriver National Institute of Child Health and Human Development
 - Child Rights and You 

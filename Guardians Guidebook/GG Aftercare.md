@@ -121,5 +121,5 @@ The [[Aftercare Immersion]] roll up contains a summary of our learning from CCIs
 - Chetna
 - Ujjivan Financial Services
 - National Institute of Public Cooperation and Child Development
-- NIN
+- ICMR - National Institute of Nutrition
 - Santoor Scholarship by Wipro
