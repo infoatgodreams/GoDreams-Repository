@@ -109,8 +109,8 @@ Some of the key **challenges and opportunities that exist in this space** are:
 - The [[Mental Health Immersion]] roll up contains a summary of our learning from CCIs
 
 ## Partnership 
-- Hank Nunn Institute 
-- Light House Mental Health 
+- [Hank Nunn Institute](https://hanknunninstitute.com/)
+- [Light House Mental Health](https://www.lys.org/)
 - Sahara Centre for Rehabilitation and Residential Care
 - SAMVAD, NIMHANS (Support, Advocacy & Mental health interventions for children in Vulnerable circumstances And Distress )
 - Centre for Health Policy, Duke Global Health Institute 
