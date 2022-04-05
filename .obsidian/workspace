@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
+            "file": "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "changing spaces",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
+                "file": "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "6b97f9e051248476",
   "lastOpenFiles": [
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
+    "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
     "Roll Ups/Child Safety/Child Safety.md",
+    "Volume 2/Care Standards/India - Service Providers to CCIs/CSA_Children's Committees.md",
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Prerana_Safety Guidelines for Girls in Naunihal.md",
     "Volume 1/Care Standards/International - Govts, UN & World Bodies/Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia.md",
     "Volume 2/Care Standards/India - Service Providers to CCIs/CSA_Child Protection Policy.md",
     "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Volume 2/Care Standards/International - Govt, UN & World Bodies/Guidelines for Institutional Childcare, Ethiopia.md",
     "Volume 1/Care Standards/International - Govts, UN & World Bodies/Global Childhood Report 2021.md",
-    "Volume 2/Care Standards/India - Service Providers to CCIs/Rainbow_Child Protection Policy.md",
-    "Guardians Guidebook/GG Aftercare.md",
-    "Guardians Guidebook/GG Mental Health.md"
+    "Volume 2/Care Standards/India - Service Providers to CCIs/Rainbow_Child Protection Policy.md"
   ]
 }
