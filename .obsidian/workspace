@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 2/Care Standards/India - Service Providers to CCIs/Aftercare Model_Prerana.md",
+            "file": "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aftercare",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Care Standards/India - Service Providers to CCIs/Aftercare Model_Prerana.md",
+                "file": "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "7d1fd00db1a15e62",
   "lastOpenFiles": [
-    "Volume 2/Care Standards/India - Service Providers to CCIs/Aftercare Model_Prerana.md",
+    "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md",
     "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
+    "Index Pages/🗞️Domain Roll Up Index.md",
+    "Volume 2/Care Standards/India - Service Providers to CCIs/Aftercare Model_Prerana.md",
     "Volume 2/Care Standards/GOI & Indian Standards/Aftercare Guidelines Karnataka.md",
     "Volume 2/Care Standards/International - Govt, UN & World Bodies/A multinational comparison of care-leaving policy and legislation.md",
-    "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md",
     "Volume 2/Care Standards/India - Service Providers to CCIs/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md",
     "Index Pages/📜Comprehensive Index.md",
     "Guardians Guidebook/GG Aftercare.md",
-    "Roll Ups/Nutrition/Nutrition.md",
-    "Guardians Guidebook/GG Nutrition.md"
+    "Roll Ups/Nutrition/Nutrition.md"
   ]
 }
