@@ -11,11 +11,11 @@ Tags: [[Aftercare]]
 # Brief
 - Scope & Description: This manual covers the aftercare model that Prerna follows and the different components in the aftercare services they offer to careleavers. 
 - Link:  https://drive.google.com/file/d/18eZdpm1hwR_91D1rHuSnb6Ze5wG_a2KL/view?usp=sharing
-- Original Link:NA
-Date: 26 November 2019
-Author: Antonio Jesús Ramos–Morcillo, Ana María Hernández Susarte  , Francisco José Moreno–Martínez , , César Hueso–Montoro , and María Ruzafa–Martínez
-Gold Standard Inputs & Outcomes: (Brief 1 liner + Table of content links/link to sections) -- great outcomes/inputs anywhere
- Baseline Inputs & Outcomes:  (Brief 1 liner + Table of content links/link to sections) -- indian homes basic standards
+- Original Link: https://www.fighttrafficking.org/research/models-of-care-the-aftercare-model/
+- Date: 26 November 2019
+- Author: Antonio Jesús Ramos–Morcillo, Ana María Hernández Susarte  , Francisco José Moreno–Martínez , , César Hueso–Montoro , and María Ruzafa–Martínez
+- Gold Standard Inputs & Outcomes: (Brief 1 liner + Table of content links/link to sections) -- great outcomes/inputs anywhere
+ - Baseline Inputs & Outcomes:  (Brief 1 liner + Table of content links/link to sections) -- indian homes basic standards
 
 
 ## INTRODUCTION
