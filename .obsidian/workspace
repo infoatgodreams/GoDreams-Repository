@@ -6,13 +6,15 @@
       {
         "id": "7d1fd00db1a15e62",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
-            "mode": "preview",
+            "file": "Volume 2/Care Standards/India - Service Providers to CCIs/Aftercare Model_Prerana.md",
+            "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -70,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
+                "file": "Volume 2/Care Standards/India - Service Providers to CCIs/Aftercare Model_Prerana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +91,15 @@
   },
   "active": "7d1fd00db1a15e62",
   "lastOpenFiles": [
+    "Volume 2/Care Standards/India - Service Providers to CCIs/Aftercare Model_Prerana.md",
     "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
+    "Volume 2/Care Standards/GOI & Indian Standards/Aftercare Guidelines Karnataka.md",
+    "Volume 2/Care Standards/International - Govt, UN & World Bodies/A multinational comparison of care-leaving policy and legislation.md",
     "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md",
     "Volume 2/Care Standards/India - Service Providers to CCIs/CSA_Aftercare for Vulnerable Children - Challenges and Opportunities.md",
     "Index Pages/📜Comprehensive Index.md",
     "Guardians Guidebook/GG Aftercare.md",
     "Roll Ups/Nutrition/Nutrition.md",
-    "Guardians Guidebook/GG Nutrition.md",
-    "Guardians Guidebook/GG Mental Health.md",
-    "Roll Ups/Child Safety/Child Safety.md",
-    "Guardians Guidebook/GG Child Safety.md"
+    "Guardians Guidebook/GG Nutrition.md"
   ]
 }
