@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Guardians Guidebook/GG Child Safety.md",
+            "file": "Program Design/03 Field Immersion.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guardians Guidebook/GG Child Safety.md",
+                "file": "Program Design/03 Field Immersion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guardians Guidebook/GG Child Safety.md"
+                "file": "Program Design/03 Field Immersion.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guardians Guidebook/GG Child Safety.md",
+                "file": "Program Design/03 Field Immersion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,6 +152,8 @@
   },
   "active": "044abf5d6609b510",
   "lastOpenFiles": [
+    "Program Design/03 Field Immersion.md",
+    "Program Design/01 CAP Design Framework.md",
     "Guardians Guidebook/GG Child Safety.md",
     "Guardians Guidebook/GG Mental Health.md",
     "Guardians Guidebook/GG Aftercare.md",
@@ -159,8 +161,6 @@
     "Physical Health.md",
     "OVC.md",
     "L&D/Courses/Cohort Based Courses.md",
-    "Volume 1/Current Reality/International CCIs/Psychosocial Screening and Monitoring for children in foster care_Psychometric properties of the Brief Assessment Checklist in a Dutch population study.md",
-    "Volume 1/Reference Reading/Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
-    "Roll Ups/Child Safety/Child Safety.md"
+    "Volume 1/Current Reality/International CCIs/Psychosocial Screening and Monitoring for children in foster care_Psychometric properties of the Brief Assessment Checklist in a Dutch population study.md"
   ]
 }
