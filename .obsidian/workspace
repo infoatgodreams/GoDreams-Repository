@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Index Pages/🏷️Tags Index.md",
+            "file": "Volume 2/Care Standards/GOI & Indian Standards/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index Pages/🏷️Tags Index.md",
+                "file": "Volume 2/Care Standards/GOI & Indian Standards/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +88,7 @@
   },
   "active": "7d1fd00db1a15e62",
   "lastOpenFiles": [
+    "Volume 2/Care Standards/GOI & Indian Standards/SOP on Escape Runaway Sexual Abuse Death of Children in CCIs.md",
     "Index Pages/🏷️Tags Index.md",
     "Index Pages/🗞️Domain Roll Up Index.md",
     "Roll Ups/Child Development/Child Lifecycle/Aftercare.md",
@@ -97,7 +97,6 @@
     "Volume 2/Care Standards/India - Service Providers to CCIs/Aftercare Model_Prerana.md",
     "Volume 2/Care Standards/GOI & Indian Standards/Aftercare Guidelines Karnataka.md",
     "Volume 2/Care Standards/International - Govt, UN & World Bodies/A multinational comparison of care-leaving policy and legislation.md",
-    "Index Pages/📜Comprehensive Index.md",
-    "Guardians Guidebook/GG Aftercare.md"
+    "Index Pages/📜Comprehensive Index.md"
   ]
 }
