@@ -8,6 +8,8 @@ author: Daya
 tags: GOIAssociatedSectors
 
 ---
+Domain rags: [[Physical Health]]
+
 
 # Brief
 - Scope & Description: This is a hand book for ASHA workers with 19 themes. It elaborates their role and duty in a village. It also talks about the health facilities available in a village and introduces them to different parts of the body, organ system, different illnesses, and cures to it. It predominanty follows a preventive approach, however also provides first aid measures in times of emergency.
@@ -209,7 +211,7 @@ tags: GOIAssociatedSectors
   - For this raise its borders by 10 centimeters above the ground level. Fill it with dry grass or coconut coir on top
   - This helps in straining. Connect the wastewater into this pot by using a pipe. Cover entire area with coir.
 
-## Health Depends on the food we eat
+## Health Depends on the food we eat [[Nutrition]]
 
 - Eating all types of food is necessary for keeping our body fighting fit.
 - We need to eat more food when recovering from illness.

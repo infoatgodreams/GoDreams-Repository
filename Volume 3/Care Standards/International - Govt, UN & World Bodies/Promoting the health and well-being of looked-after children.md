@@ -8,6 +8,7 @@ tags:
 - Practitioner  
 
 ---
+Domain tags: [[Physical Health]]
 
 # Brief:
 
@@ -254,7 +255,7 @@ tags:
   - Children placed for adoption remain looked after until the adoption order is made. Research shows that their needs do not change overnight once they are adopted.
   - Local authorities should ensure there is consistent and sustained health care in place to support each child during the transition from care to a permanent home. This will help inform post-adoption support for the child and the child's new parents and enable continuity of services.
 
-## Care leavers:
+## Care leavers: [[Aftercare]]
 
   - Local authorities, CCGs and NHS England should ensure that there are effective plans in place to enable looked-after children aged 16 or 17 to make a smooth transition to adulthood, and that they are able to continue to obtain the health advice and services they need. In particular:
     - there should be an emphasis on partnership working between the young person and their personal adviser, and the doctors and nurses involved in their health assessments

@@ -10,6 +10,7 @@ tags:
 - globalresearch 
 
 ---
+Domain tags: [[Physical Health]] 
 
 # Brief:
 
@@ -18,7 +19,7 @@ tags:
 - Link:[https://drive.google.com/file/d/1jUeOPQyGM\_rKrB8EHb2Jddl2fBcrlyMe/view?usp=sharing](https://drive.google.com/file/d/1jUeOPQyGM_rKrB8EHb2Jddl2fBcrlyMe/view?usp=sharing)
 - Original Link: [https://www.prb.org/wp-content/uploads/2018/05/National-School-Health-Policy-2009.-without-cover..-Kenya.pdf](https://www.prb.org/wp-content/uploads/2018/05/National-School-Health-Policy-2009.-without-cover..-Kenya.pdf)
 - Date: 2009
-- Author: Ministry of public health &amp; sanitation and Ministry of education
+- Author: Ministry of public health & sanitation and Ministry of education
 - Summarized By: Rimjhim
 - Gold Standard Inputs & Outcomes: (Brief 1 liner + Table of content links/link to sections) -- great outcomes/inputs anywhere
 - Baseline Inputs & Outcomes: (Brief 1 liner + Table of content links/link to sections) -- indian homes basic standards
@@ -96,7 +97,7 @@ These components can be understood with respect to the key practices they are a 
 - Every child has a right to access safe drinking water and adequate sanitation. Provision of safe water and sanitation shall be complemented by appropriate hygiene promotion and education.
 - A healthy and hygienic school environment is actualized by safe, adequate water supply, adequate sanitation and appropriate hygiene promotion.
 - The following measures shall be undertaken:
-  - School managements and parents shall be encouraged and empowered to provide adequate ablution facilities for boys and girl as prescribed in the School Health Rules &amp; Regulations, &quot;Building code&quot; and Public Health Act.
+  - School managements and parents shall be encouraged and empowered to provide adequate ablution facilities for boys and girl as prescribed in the School Health Rules & Regulations;Building code and Public Health Act.
   - Ablution facilities shall be designed and constructed to suit the different age groups and special needs
   - Hand washing facilities including soap shall be provided in each school and located within the vicinity of the toilet/latrine
   - Adequate, safe drinking water points/fountains shall be available in each school
@@ -222,7 +223,7 @@ These components can be understood with respect to the key practices they are a 
 	- The school community shall be empowered to detect and report potential disease outbreaks through sensitization on Integrated Disease Surveillance and Response (IDSR)
 	- The school management shall report any infectious diseases or suspected outbreaks to the relevant local district authorities
 	- In case of any outbreaks the Ministries of Public Health and Sanitation, Ministry of Medical Services and Ministry of Education shall take all necessary measures to contain the outbreak and prevent loss of life.
-    -
+    
 #### First Aid:
 - School children are prone to injuries, accidents and a variety of sudden illnesses that call for quick action to sustain health and to prevent complications.To deal with such issues:
 	- Facilities to provide emergency care shall be available in all schools
@@ -350,7 +351,7 @@ Areas to be addressed under adolescent health development include the following:
 	- Pupils, teachers, parents and the community at large shall be educated on the harmful consequences of FGM and necessary control measures
 	- Teachers and parents shall discourage negative behaviour such as viewing pornography and other sexually explicit or inappropriate materials.
 	- Students exposed to harmful cultural practices shall be counselled and rehabilitated.
-      -
+      
 #### Rape, sexual harassment and abuse to learners:
 The learners shall be educated about harmful sexual practices and child abuse.
 - To do this we shall undertake the following:
