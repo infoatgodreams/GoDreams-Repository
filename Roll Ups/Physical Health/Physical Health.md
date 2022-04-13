@@ -23,7 +23,7 @@ Domestic comparison
 Ethical Issues 
 Problems in institutional settings
 
-Condition --- Definition-- Prevalence--Points -- Assessment 
+Condition --- Definition-- Prevalence--Points --Recommendation-- Assessment 
 
 # Current realities in institutional settings
 In a literature review conducted for a study on morbidity in preschool children in institutions in Kenya, we find out that [^3]
