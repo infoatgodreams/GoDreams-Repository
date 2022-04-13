@@ -950,6 +950,22 @@ In Rainbow Homes,
 	  - **BMI calculation:** The body mass indices of the participants were calculated in kg/m2 based on the measured weight and height and were plotted on separate BMI charts for boys and girls
 	  - **Clinical assessment:** The condition of skin, eyes, hair, gums, nails and thyroid gland was observed for clinical assessment of nutritional deficiencies. Systemic examination for reported morbidities was conducted according to the hospital protocols of Mediciti Hospital.
 
+- According to a paper on Special Needs[^7], Indicators for Chronic health conditions and Special Needs 
+
+	- NSCAW includes 2 indicators of SHCNs: the presence of a chronic health condition and the presence of special needs. Each of these indicators is based on a caregiver report.
+
+	- #### Chronic Health Conditions: 
+		- At each interview, caregivers were asked whether their child had any health problems that last a long time or come back again and again. If yes, caregivers were asked to name them. Caregivers could report ⬎1 problem. For the chronic health condition questions, the wording denoted a chronic health condition prevalent at the time of the interview
+  -
+	- #### Special Needs: 
+		- At each interview, caregivers were asked if they had ever been told by an educational or health professional, or told since the last interview, that their child has &quot;learning problems, special needs or developmental disabilities. 
+		- If yes to either of these questions, caregivers were asked to describe these problems. The special needs questions in NSCAW were designed to correspond with disability categories under the Individuals With Disabilities Act.
+
+
+	- #### Assessing Maltreatment characteristics:
+
+	  - The most serious type of maltreatment was assessed by asking the caseworkers the following question in the baseline interview: Of the types of abuse or neglect that were reported, please tell me the type that you felt was the most serious (physical maltreatment, sexual maltreatment, emotional maltreatment, physical neglect (failure to provide), neglect (lack of supervision), abandonment, moral/legal maltreatment, educational maltreatment, exploitation, and other)
+	  - For the majority of children, the main type of maltreatment was neglect (lack of supervision: 25.2%; failure to provide: 18.0%), followed by physical abuse (25.2%).
 
 # Challenges & Ethical concerns
 
