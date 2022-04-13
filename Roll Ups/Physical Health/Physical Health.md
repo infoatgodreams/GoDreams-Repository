@@ -849,6 +849,14 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 	- Water and Hygiene practices were assessed by collecting information on whether there was availability and accessibility of water for drinking and washing hands, frequency of brushing teeth and bathing, availability of latrines/ toilets or bathrooms and human waste disposal. Caregivers who reported bathing the children daily were rated as having good bathing hygiene while those who bathed children four to six times a week and less than four times a week were rated as having adequate and poor bathing hygiene respectively (UNICEF, 2009c). (Page 42)
 	- Furthermore, when less than 40 children share one latrine is usually considered fair, forty to one hundred children using one latrine is classified bad and 100 children sharing a single latrine is dangerous (Page 28)
 	- Respondents were to try to remember everything they fed the child and were provided with household measures used in the institution while feeding children. These household measures included; cups, plates, jugs, metallic containers and spoons.Caregivers were asked to measure total amounts of food served and total amounts eaten. These amounts were measured and converted into weights measurements. All the ingredients in the meals and their weights were recorded. Food models and pictures were used to help respondent judge and report portion size. (Page 44)
+-  For the study in Southern India on morbidity profiles, 
+	- - The questionnaire was developed to yield demographic and morbidity-related information about the participants.
+	- Details related to the number of days a child was suffering from the present condition, number of episodes of illnesses in the past one year, number of times adequate treatment was offered, and place of treatment were collected.
+	- Anthropometric examination was conducted for each participant and recorded.
+	  - **Weight:** Weight was recorded to the nearest multiple of 10 grams using an electronic weighing balance, Tanita HD −318 digital weighing scales (Tanita Corporation, Tokyo, Japan). Each participant was weighed with minimum clothing and without shoes, standing upright with arms hanging by the sides.
+	  - **Height** : Height was recorded to the nearest centimetre (cm) using a non-flexible fibreglass tape, Seca 206 mechanical measuring tape (Seca, GmBH and Co Kg, Hamburg, Germany). The respondent was asked to stand upright on a firm level ground, against a flat vertical surface without shoes.
+	  - **BMI calculation:** The body mass indices of the participants were calculated in kg/m2 based on the measured weight and height and were plotted on separate BMI charts for boys and girls
+	  - **Clinical assessment:** The condition of skin, eyes, hair, gums, nails and thyroid gland was observed for clinical assessment of nutritional deficiencies. Systemic examination for reported morbidities was conducted according to the hospital protocols of Mediciti Hospital.
 
 
 # Challenges & Ethical concerns
@@ -869,7 +877,7 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 	  - Intentionally do not create harmorr injury to the child
 	  - Health worker should provide proper standard of care that avoids the risk of harm
 	  - Make sure the culture is respectful caring sensitive and responsive in a context where a health management is paternalistic process ensure genuine respect for the privacy of the child**
-- For the study in Southern India on morbidity profiles, 
+
 
 
 
