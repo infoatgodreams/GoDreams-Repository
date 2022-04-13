@@ -42,7 +42,7 @@ Domain Tags: [[Physical Health]]
 - **Eye Infections:** Infections of the eye were the lowest in prevalence. Similar prevalence of ear conditions was also reported. They however, also reported ophthalmic problems including Bitots spots which we did not find in our population.
 - **Diarrheal disease and Respiratory Infections:** Some studies done on children residing in urban slums where prevalence of diarrheal disease and respiratory infections has been reported to be higher than our population
 
-# Measurement tools used to assess morbidity profile: [[impact assessment]]
+# Measurement tools used to assess morbidity profile: [[Assessment Tools]]
 
 - The questionnaire was developed to yield demographic and morbidity-related information about the participants.
 - Details related to the number of days a child was suffering from the present condition, number of episodes of illnesses in the past one year, number of times adequate treatment was offered, and place of treatment were collected.
