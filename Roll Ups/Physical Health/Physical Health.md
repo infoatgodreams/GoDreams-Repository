@@ -122,6 +122,14 @@ In a literature review conducted for a study on morbidity in preschool children 
 - 33% of children had low vitamin D
 - Common deficiencies were iodine, zinc, albumin , vitamin A and B
 - Edema, Conjunctival pallor, xerophthalmia and goiter were also found
+Physical development in institutionalised vs. foster care children:
+
+- Profound growth failure is a hallmark of institutional care in early childhood. The current study demonstrates that a small number of caregiving disruptions within foster care, which adults may view as trivial and even routine, can have significant additional effects on child wellbeing. The stress of having to accommodate changing care environments alters normal developmental processes and changes outcome for the worse.
+- From an RCT that looked at 114 institutionalised children in the US, we can see that in comparison to foster group, the institutionalised group does worse off 
+	- Profound growth failure is a hallmark of institutional care in early childhood. The current study demonstrates that a small number of caregiving disruptions within foster care, which adults may view as trivial and even routine, can have significant additional effects on child wellbeing. The stress of having to accommodate changing care environments alters normal developmental processes and changes outcome for the worse.
+	- Compared with the institutionalized group, the foster care group showed greater rates of growth for height, weight, and BMI from baseline to age 12 years.
+	- Increasing disruptions in the caregiving environment were related to decreasing rates of growth in height in foster care group and weight in institutionalized group and foster care group, but not BMI.
+	- Aside from group differences in growth, the compromised height and weight growth patterns linked to individual differences in caregiver disruptions in foster care group underscore the importance of a consistent caregiving environment for child well-being.
 
 ### Common Infections:
 

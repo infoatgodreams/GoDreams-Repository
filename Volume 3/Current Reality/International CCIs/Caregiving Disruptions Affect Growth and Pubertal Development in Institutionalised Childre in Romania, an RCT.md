@@ -39,7 +39,7 @@ Domain tags: [[Physical Health]] [[Child Development]] [[Mental Health]]
   - Increasing disruptions in the caregiving environment were not related to decreasing rates of growth of head circumference.
   - This result is consistent with a meta-analysis that identified head circumference as the growth parameter least likely to improve among postinternationally adopted children.
   
-## Pubertal development:
+## Pubertal development: [[Child Development]]
 
   - Tanner development was delayed in institutionalized group boys compared with foster care group and family care group boys at 12 but not 14 years. Institutionalized group boys showed lower Tanner scores compared with foster care group and family care group 
   - Disruptions from 30 months to 12 years of age were greater in institutionalized group; vs foster care group 
