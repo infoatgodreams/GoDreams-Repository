@@ -60,7 +60,35 @@ In a literature review conducted for a study on morbidity in preschool children 
 	- In many cases they have sexually transmitted infections mental health status is unknown depression and society and low self esteem or very common
 - In another study on the American foster care system, 
 	- Thirty percent to 60% of children in foster care have been estimated to have chronic health conditions. When behavioral, emotional, and developmental concerns are taken into consideration, the estimated proportion of foster children with serious health care needs jumps to ⬎80%.
-	- 
+	- Caregivers reported that 50.3% of the children had less than or equal to 1 SHCN at some point during the 3-year study period.
+	- At baseline, 35.1% of children were reported to have had SHCNs. Thirty-one percent were reported to have had SHCNs at the 1.5-year follow-up, and 33.5% were reported to have had SHCNs at the 3.0-year follow-up.
+	- Boys were significantly more likely than girls to have had SHCNs, and children aged 0 to 2 years at baseline were significantly less likely to have had SHCNs than older children.
+	- Adopted and foster children were significantly more likely to have had SHCNs than children in other living arrangements.
+	- Overall, 56.1% of children with either form of SHCN had 1 or less than 1 of the 7 developmental problems
+	- Especially high rates of SHCNs in this target population seem to stem from the preponderance of developmental and behavioral needs. Children in the CWS show much higher rates of special needs than children in the general US population.
+	- Our data suggest that the children with SHCNs in this sample were at substantially high risk for a variety of cognitive and behavioral impairments.
+	- NSCAW includes 2 indicators of SHCNs: 
+- the presence of a chronic health condition and the presence of special needs
+- These children who have a special health care need are also at an increased risk for chronic physical, developmental, behavioral, or emotional conditions requiring extensive health and related services. The two main types of Special health care needs are:
+	### Chronic health Conditions:
+
+  - As for chronic health conditions, 27.9% of children had ever had one. children aged 0 to 2 years at baseline were significantly more likely to have had a chronic health condition than children aged 6 to 10 years at baseline.
+  - Children with a chronic health condition were significantly more likely than children without SHCNs to have a score in the clinical range in the cognitive, adaptive, behavioral, social skill, and maths and reading areas.
+  - Overall, 53.5% of children with chronic health conditions had a problem in less than or equal to 1 of these areas compared with 29.1% of children without special needs
+	### Common Chronic health issues:
+- The most commonly reported condition was asthma (8.0% and 8.5% at any given point). Overall, 12.8% of all of the children were reported to have had the condition over the course of 3 years.
+    - A recent national study estimated that 13% of all children (younger than age 18 years) had at some point in their lives suffered from asthma
+    - Other conditions less frequently reported over the course of 3 years included repeated ear infections (5.2%), other respiratory problems (4.7%), severe allergies (4.2%), epilepsy (1.9%), and eczema or other skin disease (2.0%).
+	### Special Needs:
+  - As reported by caregivers, 33.2% of children had a special need either currently or in the past. There were significant differences in having a special need by gender, age, poverty, and living arrangement.
+  - Boys were significantly more likely than girls to have a special need, and children aged 0 to 2 years at baseline were significantly less likely to have a special need, compared with every other age group.
+  - Children living at or below the poverty level at baseline were significantly more likely than children living above the poverty level at baseline to have had a special need.
+  - Finally, adopted and foster children were more likely than children living at home to have had special needs
+  - Children with a special need were significantly more likely than children without SHCNs to have any of the developmental problems. More than half (50.7%) of the children with special needs had a clinically significant score for behavioral problems.
+  - Overall, 62.8% of children with special needs had less than or equal to 1 of these developmental problems compared with 29.1% of children without an SHCN..
+	### Common Special Needs:
+- The most common special need was a learning disability (10.4% and 13.7% at any given point). Overall, 20.6% of all of the children had learning disabilities over the course of 3 years.
+    - Other commonly reported conditions over the 3-year study period included 14.1% of children with emotional disturbance, 12.3% with speech impairment, 2.4% with mental retardation, 2.0% with hearing impairment, 1.3% with autism, and 1.2% with vision impairment.
 
 
 ### Common Infections:
