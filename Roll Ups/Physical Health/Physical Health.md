@@ -32,7 +32,7 @@ In a literature review conducted for a study on morbidity in preschool children 
 - Child malnutrition is associated with susceptibility to infection and as a result many children are more likely to be prone to common childhood ailments such as diarrhoea and respiratory infections; and for those who survive, frequent illness affects their nutrition status due to lowered resistance to infections (Page 27)
 - Various studies have shown that illness among children in orphanages is higher (30%) especially diarrheal disease compared with 7 % in non-orphanage children. It has also been shown that more boys are usually stunted with high morbidity rates than girls (Page 28)
 - In a study carried out in Botswana (Misra & Bignami, 2008) it was found that children in orphanages were 49% more likely to be underweight than non-orphanage children. The findings concurred with those of Lindblade et al. (2003) in Malawi where it was demonstrated that the prevalence of malnutrition in children in orphanages (below 6 years old) was 55% compared with 30% of non-orphanage children. (Page 29)
-- - In the present study, majority (79.0%) of the preschool children consumed adequate amounts of recommended energy per day. (Page 56)
+- In the present study, majority (79.0%) of the preschool children consumed adequate amounts of recommended energy per day. (Page 56)
 - For protein intake, nearly all (90.1%) children consumed adequate amounts of recommended proteins per day (Page 57)
 - Prevalence of undernutrition seemed to increase significantly with an increase in length of stay in the orphanage (Page 69)
 - Children whose caregivers had not received any form of training on childcare practices were more likely to be underweight, wasted and stunted respectively. (Page 72)
