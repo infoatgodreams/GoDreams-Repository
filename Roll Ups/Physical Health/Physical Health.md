@@ -21,6 +21,7 @@ Assessment tools
 Global comparison 
 Domestic comparison
 Ethical Issues 
+Problems in institutional settings
 
 # Current realities in institutional settings
 In a literature review conducted for a study on morbidity in preschool children in institutions in Kenya, we find out that [^3]
@@ -29,6 +30,41 @@ In a literature review conducted for a study on morbidity in preschool children 
 - Child malnutrition is associated with susceptibility to infection and as a result many children are more likely to be prone to common childhood ailments such as diarrhoea and respiratory infections; and for those who survive, frequent illness affects their nutrition status due to lowered resistance to infections (Page 27)
 - Various studies have shown that illness among children in orphanages is higher (30%) especially diarrheal disease compared with 7 % in non-orphanage children. It has also been shown that more boys are usually stunted with high morbidity rates than girls (Page 28)
 - In a study carried out in Botswana (Misra & Bignami, 2008) it was found that children in orphanages were 49% more likely to be underweight than non-orphanage children. The findings concurred with those of Lindblade et al. (2003) in Malawi where it was demonstrated that the prevalence of malnutrition in children in orphanages (below 6 years old) was 55% compared with 30% of non-orphanage children. (Page 29)
+- According to the American Academy of Pediatrics[^4], in reference to the foster care system
+	- 30% to 80% of children come into foster care with at least 1 medical problem,and one-third have a chronic medical condition.
+	- Early childhood trauma/toxic stress, especially if frequent or unremitting and not tempered by responsive, nurturing care giving, adversely affects the neurobiology of the developing brain.
+	- Up to 80% of children and adolescents enter with a significant mental health need, and almost 40% have significant oral health issues.
+	- Approximately 60% of children younger than 5 years have developmental health issues.
+- [^5]According to a large-scale literature review on institutional care conducted by the University of Delaware, relative to their peers, they show atypically short height, low weight, and small head circumference (Page 6)
+- According to a study on moribidity profile of 100 orphaned children in Southern India[^6]
+	- Deprivation of parental care and, often, food, education, and medical care experienced by children. Studies often report that lack of parental care and denial of a secure family life, coupled with congested and often unhygienic living conditions, affect orphan children adversely.
+	- Research identifies the risks of orphanage care that may broadly be classified as:
+	  - Infectious morbidity,
+	  - Nutrition and growth,
+	  - Cognitive development,
+	  - Socio-affective development
+	- Physical and sexual abuse in the institution, all of which are more during infancy and early years of life.
+	- Poor utilisation of healthcare facilities:
+	  - Hospital care was sought for very few cases. This is of concern since most of the morbidities in children are accompanied by frequent complications, thereby increasing the morbidity burden further.
+	  - Treatment seeking practices were found to be unsatisfactory with predominance of self treatment or using drugs without prescription either from local RMPs or upon pharmacists' advice.
+	  - Orphanage staff may not be trained to identify development of danger signs which may pose grave risks to the children.
+	- Lack of proper certified and approved measurement tools. The uncertainty abounding in the efficiency of these organisations, especially in third world countries, have led researchers to devise proxy indicators for estimating efficiency and quality through assessment of health status, among other indicators, of the residents. Valid measures, required for planning promotional measures for the welfare of orphaned children, requires reliable data on their health and nutrition status. Such data was grossly deficient from different parts of the country, more so from South India.
+- According to Rainbow Homes, street children are at a higher risk for health concerns[^2]
+	- Homelessness is a significant predictor of health status.
+	- Yuva studies show that children on the streets have higher incidence of trauma related injuries, development delays, sinusitis, anaemia and asthma, eczema, visual and neurological deficits as well as other disabilities.
+	- Hunger and malnutrition is very common. They are undernourished and stunted
+	- Run away youth are its significant risk violence and victimisation substance abuse pregnancy and sexually transmitted diseases
+	- They do not have access to comprehensive health services immunization routine child health surveillance and health promotion.
+	- Studies on Street children in India show that the children experience high rates of physical emotional and mental health problems
+	- Their intake of food is inadequate and the quality of food is poor.
+	- In many cases they have sexually transmitted infections mental health status is unknown depression and society and low self esteem or very common
+
+
+### Common Infections:
+
+- **Skin Infections:** Skin infections were reported most commonly followed by common cold and fever. A previous study done on orphans in the Southern state of Tamil Nadu similarly reported high prevalence of skin infections including pediculosis (25%) and oro-dental problems including dental caries (50%).
+- **Eye Infections:** Infections of the eye were the lowest in prevalence. Similar prevalence of ear conditions was also reported. They however, also reported ophthalmic problems including Bitots spots which we did not find in our population.
+- **Diarrheal disease and Respiratory Infections:** Some studies done on children residing in urban slums where prevalence of diarrheal disease and respiratory infections has been reported to be higher than our population
 
 # Rights Bases Approach to Health 
 [^1]
@@ -171,4 +207,7 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 [^1]:  [[National School Health Policy, Kenya]]
 [^2]: [[Physical Health Handbook, Rainbow Homes]]
 [^3]: [[Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya]]
-[^4]: 
+[^4]: [[Health Care Issues for Children and Adolescents in Foster Care and Kinship Care (USA)]]
+[^5]: [[Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI)]]
+[^6]: [[Morbidity profile of orphan children in Southern India]]
+[^7]: 
