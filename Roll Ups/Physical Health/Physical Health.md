@@ -79,7 +79,73 @@ Articles in the UN convention on the rights of the child relevant to the health 
 
 ## JJ Act 
 
+# Models of Health Care- An International and Domestic Comparison
 
+## Global Comparison of Health Standards in Residential Care 
+
+Rainbow[^2] Homes has documented different national standards for children in institutional care across multiple countries 
+### India
+- No documented protocols on health standards for children in India. 
+- In India we have to have to build standards with specific understanding of children were homeless when developing health protocols for them. Set of underpinning principles on which services should be based as well as outline some key standards that need to be implemented
+
+### Australia
+  - Standard 4- each child and young person has an individualized plan that details the health education and other needs
+  - Standard 5 -children and young people have their physical development psychosocial and mental health needs assessed and attended to in a timely way.
+  - Health record relevant health information that is in a consolidated form that documents the child or young person state of health and identified needs.
+  - Luminary help check to establish the ongoing relationship between child care and the primary health provider. 
+  - Physical health development till and psychosocial and mental health domains is to be assessed. To ensure care and enable support of both the child in carer overtime.
+
+### UK
+- Should have a holistic health assessment on entering care
+  - Assessment should be done by a suitably qualified medical practitioner
+  - First assessment should result in a health plan and if a child has been already assist the new assessment should be to update based on the child change circumstance
+  - Attention should be given to the continuity of previous plans and interventions
+  - All health staff with information about child health should ensure that this is made available to the person undertaking the assessment as soon as possible
+  - Health assessment needs to be a continuous process not an isolated event. It needs to have a flexible approach appropriate to the child and stage of development
+  - Health plan should clearly set out objectives actions timescales responsibilities are arising from the health assessment
+  - Health plan needs to be reviewed in line with statutory requirement timescale
+  - health assessments must be taken twice a year annually for children and young people under five years
+  - Balance the sensitive and confidential nature of the child and young persons health information
+
+## Models of Care in Indian institutions
+
+### Health models in Sneh Ghars Delhi
+- Coordinated by centre for equity studies there on homes for children in Delhi Hyderabad and Bengaluru.
+- Homes in Delhi are in partnership with the Delhi government. It provides infrastructure NGO managers and funds the program.
+- Approach is holistic balance maintained between preventive promotive and curative services
+- #### Objectives
+  - Ensure preventive promotive and curative physical and mental care of all children in residential care including immunization hygiene health education de addiction nutrition tracking individual and group counseling
+  - Establish linkages with public and private health Care institutions and functionaries at the primary secondary and tertiary levels
+  - Provide emergency curative health care support event to children on streets
+  - Homes document and maintain record for each child
+- #### Challenges
+  - Homes given by Government are in bad condition
+  - Severe constraint of space leading to health problems from overcrowding
+  - They do not refuse any child Khushi entry into home does living conditions are unhygienic
+
+### Health models in Rainbow Homes for street children Kolkata
+
+- Run by Loreto convent Kolkata
+- Use rainbow homes on their top floors
+- Model where rainbow children are integrated into mainstream school and loreto convent School children participate in rainbow home programs
+- A nurse is present throughout.
+- Hygiene and quality of food is good
+- Regular I eye and dental check up, no routine documentation
+- Every child case history e and medical services availed are file in referral slips, doctor slips and prescriptions
+- Contact is maintained with family and once a month there is a mandatory meeting between children and parents
+
+### Ethical issues of health in long term residential care
+
+- Balance between autonomy and paternalism
+  - Make sure children participate in their own health issues inform them of the inventions that are in place
+  - In case of HIV screening obtain informed consent from children and their parents
+- Confidentiality
+  - Keep private information secure disclosing this information to people deliberately or accidentally is an infringement of confidentiality which may harm the child
+  - Information on HIV or genetically inherited conditions may bring social stigma and ostracism
+- Doing no harm and injustice
+  - Intentionally do not create harmorr injury to the child
+  - Health worker should provide proper standard of care that avoids the risk of harm
+  - Make sure the culture is respectful caring sensitive and responsive in a context where a health management is paternalistic process ensure genuine respect for the privacy of the child
 
 
 
@@ -92,3 +158,4 @@ Articles in the UN convention on the rights of the child relevant to the health 
 
 [^1]:  [[National School Health Policy, Kenya]]
 [^2]: [[Physical Health Handbook, Rainbow Homes]]
+[^3]: 
