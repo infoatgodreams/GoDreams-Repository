@@ -30,9 +30,9 @@ Condition --- Definition-- Prevalence--Points --Recommendation-- Assessment
 
 # Health Risks of Institutional Care
 
-## Nutrition & Growth 
+# Nutrition & Growth 
 
-### Identified Challenges
+## Identified Challenges
 
 In a literature review conducted for a study on morbidity in preschool children in institutions in Kenya, we find out that [^3]
 - Prevailing conditions in orphanages may predispose children to increased prevalence of malnutrition and infectious diseases like diarrhoea and respiratory tract infections. Unavailability of safe and nutritious foods in orphanage set up and access to safewater are likely to lead to increase levels of malnutrition among children. (Page 22) 
@@ -40,27 +40,30 @@ In a literature review conducted for a study on morbidity in preschool children 
 - Child malnutrition is associated with susceptibility to infection and as a result many children are more likely to be prone to common childhood ailments such as diarrhoea and respiratory infections; and for those who survive, frequent illness affects their nutrition status due to lowered resistance to infections (Page 27)
 - In a study carried out in Botswana (Misra & Bignami, 2008) it was found that children in orphanages were 49% more likely to be underweight than non-orphanage children. The findings concurred with those of Lindblade et al. (2003) in Malawi where it was demonstrated that the prevalence of malnutrition in children in orphanages (below 6 years old) was 55% compared with 30% of non-orphanage children. (Page 29)
 - Prevalence of undernutrition seemed to increase significantly with an increase in length of stay in the orphanage (Page 69)
+- It has also been shown that more boys are usually stunted with high morbidity rates than girls (Page 28)
+- [^5]According to a large-scale literature review on institutional care conducted by the University of Delaware, relative to their peers, they show atypically short height, low weight, and small head circumference (Page 6)
 
-### Potential Solutions
-
-
+## Potential Causes
 - Children whose caregivers had not received any form of training on childcare practices were more likely to be underweight, wasted and stunted respectively. (Page 72)
 - Consumption of meat, fruits and vegetables was low. Low consumption of fruits and vegetables could expose children to the risk of micronutrient deficiencies that take long to manifest. All children were served same quantities of food. The difference in energy intake was a result of poor appetite, illness among children as well as age. (Page 93)
-- Nutrition status (underweight) showed a positive significant relationship with institutional characteristics and dietary practices. (Page 94)
-- From the study, it can be concluded that good nutrition status can be equated with appropriate childcare practices and low morbidity burden. Majority of children living in orphanages in Kwale County had good nutrition status as depicted by the low levels of undernutrition. This was likely due to consumption of at least three meals per day, diversity of foods consumed, appropriate knowledge in caregiving among thecaregivers in the orphanages, favourable caregiver to child ratios, good health care practices, adequate consumption of energy and other nutrients. This was also enhanced by the effect of the low morbidity burden noted among the children. (Page 95)
-- The prevalence of the three forms of under-nutrition in this study was lower than the national figures. In addition, the levels of undernutrition are also lower than the WHO acceptable levels with an exception of wasting which is higher than the WHO acceptable levels of under-nutrition (Page 95)
 
-### Diseases 
+## Potential Solutions
+- Nutrition status (underweight) showed a positive significant relationship with institutional characteristics and dietary practices. (Page 94)
+- From the study, it can be concluded that good nutrition status can be equated with appropriate childcare practices and low morbidity burden. 
+- Majority of children living in orphanages in Kwale County had good nutrition status as depicted by the low levels of undernutrition. This was likely due to consumption of at least three meals per day, diversity of foods consumed, appropriate knowledge in caregiving among thecaregivers in the orphanages, favourable caregiver to child ratios, good health care practices, adequate consumption of energy and other nutrients. This was also enhanced by the effect of the low morbidity burden noted among the children. (Page 95)
+	- The prevalence of the three forms of under-nutrition in this study was lower than the national figures. In addition, the levels of undernutrition are also lower than the WHO acceptable levels with an exception of wasting which is higher than the WHO acceptable levels of under-nutrition (Page 95)
+
+# Infectious Morbidity 
+
+## Identified Challenges
 - Various studies have shown that illness among children in orphanages is higher (30%) especially diarrheal disease compared with 7 % in non-orphanage children. 
-- It has also been shown that more boys are usually stunted with high morbidity rates than girls (Page 28)
 - The most prevalent illnesses were acute respiratory infections (ARIs),malaria and diarrhoeal diseases. (Page 93)
-- The results imply that the longer a child stays in the orphanage, the more likely the child would be stunted and underweight. Children who consumed adequate energy intake were less likely to be underweight and stunted respectively 
 - According to the American Academy of Pediatrics[^4], in reference to the foster care system
 	- 30% to 80% of children come into foster care with at least 1 medical problem,and one-third have a chronic medical condition.
 	- Early childhood trauma/toxic stress, especially if frequent or unremitting and not tempered by responsive, nurturing care giving, adversely affects the neurobiology of the developing brain.
 	- Up to 80% of children and adolescents enter with a significant mental health need, and almost 40% have significant oral health issues.
 	- Approximately 60% of children younger than 5 years have developmental health issues.
-- [^5]According to a large-scale literature review on institutional care conducted by the University of Delaware, relative to their peers, they show atypically short height, low weight, and small head circumference (Page 6)
+
 - According to a study on moribidity profile of 100 orphaned children in Southern India[^6]
 	- Deprivation of parental care and, often, food, education, and medical care experienced by children. Studies often report that lack of parental care and denial of a secure family life, coupled with congested and often unhygienic living conditions, affect orphan children adversely.
 	- Research identifies the risks of orphanage care that may broadly be classified as:
