@@ -63,13 +63,9 @@ In a literature review conducted for a study on morbidity in preschool children 
 	- Early childhood trauma/toxic stress, especially if frequent or unremitting and not tempered by responsive, nurturing care giving, adversely affects the neurobiology of the developing brain.
 	- Up to 80% of children and adolescents enter with a significant mental health need, and almost 40% have significant oral health issues.
 	- Approximately 60% of children younger than 5 years have developmental health issues.
-- According to a study on moribidity profile of 100 orphaned children in Southern India[^6]
 - According to Rainbow Homes, street children are at a higher risk for health concerns[^2]
-	- Homelessness is a significant predictor of health status.
 	- Yuva studies show that children on the streets have higher incidence of trauma related injuries, development delays, sinusitis, anaemia and asthma, eczema, visual and neurological deficits as well as other disabilities.
-	- Hunger and malnutrition is very common. They are undernourished and stunted
 	- Run away youth are its significant risk violence and victimisation substance abuse pregnancy and sexually transmitted diseases
-	- They do not have access to comprehensive health services immunization routine child health surveillance and health promotion.
 	- Studies on Street children in India show that the children experience high rates of physical emotional and mental health problems
 	- Their intake of food is inadequate and the quality of food is poor.
 	- In many cases they have sexually transmitted infections mental health status is unknown depression and society and low self esteem or very common
@@ -539,6 +535,7 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 # Possible reasons for the high incidence of morbidity:
 
 - **Poor living conditions and utilisation of facilities:** The high prevalence of common morbidities reported in the present study as well as the inadequate treatment seeking practices of orphanage heads reflects the poor living conditions and inadequate knowledge of common diseases and their treatment. It also shows the poor utilisation of healthcare facilities, although all had access to a doctor.
+	- According to Rainbow Homes, They do not have access to comprehensive health services immunization routine child health surveillance and health promotion.
 - **Lack of Awareness** : Many diseases were found to be present due to lack of awareness about disease causation. Further, none of the children knew about the complications of most diseases under study, even when they were suffering from it.
   - Knowledge of signs and symptoms of common childhood morbidities was low among resident children, especially for fevers, skin infections/ infestations and ear conditions.
   - None of the children knew the common conditions presenting with fever (including malaria, dengue, typhoid and others).
@@ -546,7 +543,7 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
   - None of the children were aware that worm infestation could occur through faeco-oral route
 - **Poor nutrition:** Poor nutritional status has been shown to be widely prevalent and directly associated with morbidities among institutionalised children. Further, the poor nutritional status of the children may have an impact on their cognition levels which may worsen their awareness and treatment seeking practices. Vaida et al reported the contrary by showing the majority of orphan children having normal nutritional status, with no clear relationship between orphan-hood and the nutritional status of children compared with those who lived with their parents.
 - **Low immunity at younger age:** We also found the morbidities to be higher among younger age groups which may be explained by their lower immunity levels and young age as a risk factor for most diseases.
-- **Poor utilisation of healthcare facilities**, According to a South Indian study,
+- **Poor utilisation of healthcare facilities**, According to a South Indian study on morbidity status of a 100 orphanaged children[^6],
 	  - Hospital care was sought for very few cases. This is of concern since most of the morbidities in children are accompanied by frequent complications, thereby increasing the morbidity burden further.
 	  - Treatment seeking practices were found to be unsatisfactory with predominance of self treatment or using drugs without prescription either from local RMPs or upon pharmacists' advice.
 	  - Orphanage staff may not be trained to identify development of danger signs which may pose grave risks to the children.
