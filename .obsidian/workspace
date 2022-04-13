@@ -78,7 +78,7 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "recommendations",
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -93,6 +93,7 @@
   "active": "1b93acab9e014b84",
   "lastOpenFiles": [
     "Roll Ups/Physical Health/Physical Health.md",
+    "Volume 1/Care Standards/GOI & Indian Standards/IAP/Revised IAP Growth Charts for Height, Weight and Body Mass Index for 5 to 18 year old Indian Children.md",
     "Volume 2/Current Reality/International CCIs/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
     "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Volume 3/Current Reality/International CCIs/Special Health Care Needs Among Children in the Child Welfare System.md",
@@ -100,7 +101,6 @@
     "Volume 3/Care Standards/India- Service Providers to CCIs/Physical Health Handbook, Rainbow Homes.md",
     "Volume 3/Current Reality/India CCIs/Morbidity profile of orphan children in Southern India.md",
     "Volume 3/Current Reality/International CCIs/Caregiving Disruptions Affect Growth and Pubertal Development in Institutionalised Childre in Romania, an RCT.md",
-    "Volume 3/Current Reality/International CCIs/3 Year Change in Wellbeing of children in institutional and family based care settings in 5 low to middle income countries.md",
-    "Volume 3/Care Standards/Associated sector innovations/Reading Material for ASHA.md"
+    "Volume 3/Current Reality/International CCIs/3 Year Change in Wellbeing of children in institutional and family based care settings in 5 low to middle income countries.md"
   ]
 }

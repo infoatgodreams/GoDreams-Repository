@@ -57,26 +57,13 @@ In a literature review conducted for a study on morbidity in preschool children 
 
 ## Identified Challenges
 - Various studies have shown that illness among children in orphanages is higher (30%) especially diarrheal disease compared with 7 % in non-orphanage children. 
-- The most prevalent illnesses were acute respiratory infections (ARIs),malaria and diarrhoeal diseases. (Page 93)
+- The most prevalent illnesses were **acute respiratory infections (ARIs),malaria and diarrhoeal diseases**
 - According to the American Academy of Pediatrics[^4], in reference to the foster care system
 	- 30% to 80% of children come into foster care with at least 1 medical problem,and one-third have a chronic medical condition.
 	- Early childhood trauma/toxic stress, especially if frequent or unremitting and not tempered by responsive, nurturing care giving, adversely affects the neurobiology of the developing brain.
 	- Up to 80% of children and adolescents enter with a significant mental health need, and almost 40% have significant oral health issues.
 	- Approximately 60% of children younger than 5 years have developmental health issues.
-
 - According to a study on moribidity profile of 100 orphaned children in Southern India[^6]
-	- Deprivation of parental care and, often, food, education, and medical care experienced by children. Studies often report that lack of parental care and denial of a secure family life, coupled with congested and often unhygienic living conditions, affect orphan children adversely.
-	- Research identifies the risks of orphanage care that may broadly be classified as:
-	  - Infectious morbidity,
-	  - Nutrition and growth,
-	  - Cognitive development,
-	  - Socio-affective development
-	- Physical and sexual abuse in the institution, all of which are more during infancy and early years of life.
-	- Poor utilisation of healthcare facilities:
-	  - Hospital care was sought for very few cases. This is of concern since most of the morbidities in children are accompanied by frequent complications, thereby increasing the morbidity burden further.
-	  - Treatment seeking practices were found to be unsatisfactory with predominance of self treatment or using drugs without prescription either from local RMPs or upon pharmacists' advice.
-	  - Orphanage staff may not be trained to identify development of danger signs which may pose grave risks to the children.
-	- Lack of proper certified and approved measurement tools. The uncertainty abounding in the efficiency of these organisations, especially in third world countries, have led researchers to devise proxy indicators for estimating efficiency and quality through assessment of health status, among other indicators, of the residents. Valid measures, required for planning promotional measures for the welfare of orphaned children, requires reliable data on their health and nutrition status. Such data was grossly deficient from different parts of the country, more so from South India.
 - According to Rainbow Homes, street children are at a higher risk for health concerns[^2]
 	- Homelessness is a significant predictor of health status.
 	- Yuva studies show that children on the streets have higher incidence of trauma related injuries, development delays, sinusitis, anaemia and asthma, eczema, visual and neurological deficits as well as other disabilities.
@@ -559,6 +546,11 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
   - None of the children were aware that worm infestation could occur through faeco-oral route
 - **Poor nutrition:** Poor nutritional status has been shown to be widely prevalent and directly associated with morbidities among institutionalised children. Further, the poor nutritional status of the children may have an impact on their cognition levels which may worsen their awareness and treatment seeking practices. Vaida et al reported the contrary by showing the majority of orphan children having normal nutritional status, with no clear relationship between orphan-hood and the nutritional status of children compared with those who lived with their parents.
 - **Low immunity at younger age:** We also found the morbidities to be higher among younger age groups which may be explained by their lower immunity levels and young age as a risk factor for most diseases.
+- **Poor utilisation of healthcare facilities**, According to a South Indian study,
+	  - Hospital care was sought for very few cases. This is of concern since most of the morbidities in children are accompanied by frequent complications, thereby increasing the morbidity burden further.
+	  - Treatment seeking practices were found to be unsatisfactory with predominance of self treatment or using drugs without prescription either from local RMPs or upon pharmacists' advice.
+	  - Orphanage staff may not be trained to identify development of danger signs which may pose grave risks to the children.
+- L**ack of proper certified and approved measurement tools.** The uncertainty abounding in the efficiency of these organisations, especially in third world countries, have led researchers to devise proxy indicators for estimating efficiency and quality through assessment of health status, among other indicators, of the residents. Valid measures, required for planning promotional measures for the welfare of orphaned children, requires reliable data on their health and nutrition status. Such data was grossly deficient from different parts of the country, more so from South India.
 
 ## Introduction to common childhood illnesses
 
