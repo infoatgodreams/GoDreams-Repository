@@ -828,6 +828,9 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
   - number of children immunised number of malnourished children what interventions have been taken what have been the improvement
   - consolidated data provides details on what measures are being taken
 
+- ### Assessment Tools 
+- 
+
 # Challenges & Ethical concerns
 
 - Accurate information about health history, and any current/ongoing medical conditions, may be vital to securing the right placement for a looked-after child.
@@ -835,6 +838,17 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - Where disclosure of a child's information might reveal information about other individuals (e.g. parents, family), consent should be sought from these individuals as well.
 - Where it is not practicable to seek consent or where the individual is not competent to give consent, it is important to consider whether disclosure would be justified in the public interest(e.g. to protect others from a risk so serious that it outweighs the individual's right to privacy).
 - Decisions to disclose information in the public interest must be taken on a case by case basis, and should always be fully documented
+- According to Rainbow Homes, 
+	- Balance between autonomy and paternalism
+	- Make sure children participate in their own health issues inform them of the inventions that are in place
+	- In case of HIV screening obtain informed consent from children and their parents
+	- Confidentiality
+	  - Keep private information secure disclosing this information to people deliberately or accidentally is an infringement of confidentiality which may harm the child
+	  - Information on HIV or genetically inherited conditions may bring social stigma and ostracism
+	- Doing no harm and injustice
+	  - Intentionally do not create harmorr injury to the child
+	  - Health worker should provide proper standard of care that avoids the risk of harm
+	  - Make sure the culture is respectful caring sensitive and responsive in a context where a health management is paternalistic process ensure genuine respect for the privacy of the child**
 
 
 
