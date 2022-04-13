@@ -724,6 +724,7 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - Thermometer, torch, weighing machine, tape,
 
 ## Human resource structure roles responsibilities and monitoring mechanism
+In Rainbow Homes, 
 
 ### Structure
 - A home should ideally have two health workers, one home coordinator, house mothers and peer groups
@@ -813,7 +814,98 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - Issues relating thing to home environment and other systems clean water and waste disposal fumigation at intervals space for playground
 - Health education life skills that children need to acquire training on sex education personal care related issues substance abuse
 
-### Maintaining Health Records
+# Organisations and individuals involved in supporting looked-after children: [^11]
+## Clinical Commissioning groups (CCGs):
+
+  - CCGs are the main commissioners of health services. CCGs should ensure:
+    - they can access the expertise of a designated doctor and nurse for looked-after children. Where a designated professional is employed by a different NHS organisation, this will need to be set out in a local agreement.
+    - When looked-after children move placement or move into another CCG area and are currently receiving, or on a waiting list for, health services, their treatment continues uninterrupted. Looked-after children should be seen without delay or wait no longer than a child in a local area with an equivalent need who requires an equivalent service. The length of a placement should not affect a child's access to services.
+    - Arrangements are in place to ensure a smooth transition for looked-after children and care leavers moving from child to adult health services.
+  - When a child is first placed, the local authority looking after them has a shared responsibility with the relevant CCG to ensure that a full health assessment takes place and that a health plan is drawn up and implemented.
+  - Some placements need to be arranged urgently and prior notification will not always be possible. In these cases, in accordance with Regulation 13(3)(f) of the Care Planning, Placement and Case Review (England) Regulations 2010, the local authority is expected to notify the relevant responsible CCG within five working days or as soon as reasonably practicable
+  - Out of authority placements of looked-after children are dealt with in a different way. Where a CCG or a local authority, or both where they are acting together, arrange accommodation for a looked-after child in the area of another CCG, the originating CCG remains the responsible CCG for the services that CCGs have responsibility for commissioning. That is the case even where the child changes his or her GP practice
+  - Factors that should determine any decision about which CCG's commissioned service undertakes the health assessment are:
+    - the distance at which the child is placed. If a child is placed far from home, the responsible CCG should consider if it is more practicable, and will lead to the child receiving a better healthcare experience, to commission health professionals in the area of the receiving CCG
+    - the need to ensure they are satisfied with the quality of health assessment and follow-up to the actions that are identified
+    - knowledge about the availability of local services that can meet the child's needs.
+
+## National Health Service (NHS):
+
+  - The NHS has a major role in ensuring the timely and effective delivery of health services to looked-after children. In fulfilling those responsibilities the NHS contributes to meeting the health needs of looked-after children in three ways: commissioning effective services, delivering through provider organisations, and through individual practitioners providing coordinated care for each child.
+  - Under the Children Act 1989, CCGs and NHS England have a duty to comply with requests from a local authority to help them provide support and services to looked-after children.
+  - NHS England should ensure:
+    - looked-after children are always registered with GPs and have access to dentists near to where they are living. This is a shared responsibility with the local authority for the children it looks after.
+    - When looked-after children need to register with a new GP (e.g. when they enter care or change placement), the transfer of GP-held clinical records is fast tracked
+  - NHS England guidance: Who Pays? Determining responsibility for payments to providers; provides the framework for establishing responsibility for commissioning an individual's care within the NHS.
+  - The Department of Health, with NHS England, Monitor, the Royal Colleges and other partners, has developed a mandatory national currency and tariff for statutory health assessments for looked-after children placed out of the area. Details are set out in the current National Tariff Payment System.
+
+## Designated doctor and nurse:
+
+  - Designated doctors and nurses have a very important role in promoting the health and welfare of looked-after children. The role is:
+    - to assist CCGs and other commissioners of health services in fulfilling their responsibilities to improve the health of looked-after children
+    - intended to be strategic, separate from any responsibilities for individual lookedafter children (although the professionals in these posts may also provide a direct service to children outside their designated role).
+-
+## Social workers:
+
+  - **Care planning framework** : As an integral part of care planning, social workers must make arrangements to ensure that every looked-after child has:
+    - their physical, emotional and mental health needs assessed
+    - a health plan describing how those identified needs will be addressed to improve health outcomes
+    - their health plan reviewed in line with care planning requirements, or at other times if the child's health needs change. This must be done in accordance with The Care Planning, Placement and Case Review (England) Regulations 2010.
+  - Social workers have an important role in promoting the health and welfare of looked-after children. In particular they should:
+    - work in partnership with carers, looked-after children, their birth parents where appropriate and health professionals to contribute to the formulation of the health plan
+    - ensure that all the necessary consents and delegated authority permissions have been obtained so that decisions are not delayed
+    - take action to liaise with relevant health professionals if actions identified in the health plan are not being followed up. Given the impact that poor physical, emotional and mental health can have on learning, they should also ensure the child's virtual school head is involved in resolving any health care needs that impact on the child's education
+    - ensure the child has a copy of the care plan and the health plan
+    - support foster carers, or the appropriate person in the children's home where a child is placed, to promote the child's physical and emotional health on a day-to-day basis. That should include providing them with information on the child's state of health, including a copy of the child's latest health plan
+    - ensure that there is clarity for carers, GPs and dentists, and for the child, about what health care decisions have been delegated to carers.
+  - Social workers should also ensure:
+    - that foster carers and residential care staff know it is their responsibility to make sure a child attends their health assessment and all other medical, dental and optical appointments, and facilitate any required treatment regimes.
+    - that the children their authority looks after, including teenage parents, have access to available positive activities such as arts, sport and culture, in order to promote their sense of well-being.
+
+## Local authority:
+
+  - As corporate parents, those involved in providing local authority services for the children they look after should have the same high aspirations and ensure the children receive the care and support they need in order to thrive.
+  - Local authorities have a duty under the Children Act 1989 to safeguard and promote the welfare of the children they look after, wherever they are placed. This must be done in accordance with the relevant Regulations. These Regulations set out the requirements governing the development and review of a looked after child's care plan. That plan includes their health plan, the development of which should be based on the written report of the health assessment. The health plan forms part of the child's overall care plan.
+  - The local authority that looks after the child must arrange for them to have a health assessment as required by The Care Planning, Placement and Case Review (England) Regulations 2010. The initial health assessment must be done by a registered medical practitioner. Review health assessments may be carried out by a registered nurse or registered midwife.
+  - Understanding the emotional and behavioural needs of looked-after children is important. Local authorities are required to use the Strengths and Difficulties Questionnaire (SDQ) to assess the emotional well-being of individual looked-after children
+  - **Notification of placement:** When a child starts to be looked after or changes placement, the local authority must, before the placement is made, notify:
+    - the child's GP,
+    - parents (except where clearly inappropriate),
+    - those caring for the child,
+    - the CCG for the area in which the child is living,
+    - the CCG and the local authority for the area in which the child is to be/ has been placed.
+  - The local authority that looks after the child must make arrangements for a registered medical practitioner or a registered nurse or registered midwife to review a looked-after child's health needs and provide a written report for each review addressing the matters specified in section 1 of Schedule 1 of the Care Planning, Placement and Case Review (England) Regulations 2010 (see pages 16-17 of this guidance).
+-
+## Independent Reviewing Officers (IROs):
+
+  - The IRO should, as part of the child's case review, note any actions and updates to ensure that the health plan continues to meet the child's needs.
+  - The IRO should be proactive in bringing any deficiencies in the quality of the health plan or its delivery to the attention of the appropriate level of management within the local authority, using the local dispute resolution process if necessary
+  - IROs should always ensure that looked-after children are involved in the review of their care plan and its component parts, and have their wishes and feelings heard and respected.
+-
+## Primary care teams (General Practitioners, health professionals, named professionals):
+
+  - Staff working with looked-after children who are delivering health services should make sure their systems and processes track and focus on meeting each child's physical, emotional and mental health needs without making them feel different. They should in particular:
+    - ensure looked-after children are able to access universal services as well as targeted and specialist services where necessary
+    - receive supervision, training, guidance and support
+  - The lead health record for a looked-after child should be the GP-held record. The initial health assessment and health plan, and subsequent review assessments and plans, should be part of that record.
+  - Primary care teams have a vital role in identifying the individual health care needs of looked-after children. They often have prior knowledge of the child, of the birth parents and of carers, helping them to take a child-centred approach to health care decisions. They may also have continuing responsibility for the child when he or she returns home
+  - GP practices should:
+    - ensure timely access to a GP or other appropriate health professional when a looked-after child requires a consultation
+    - provide summaries of the health history of a child who is looked after, including information on immunisations and covering their family history where relevant and appropriate, and ensure that this information is passed promptly to health professionals undertaking health assessments
+    - maintain a record of the health assessment and contribute to any necessary action within the health plan
+    - make sure the GP-held clinical record for a looked-after child is maintained and updated and that health records are transferred quickly if the child registers with a new GP practice, such as when he or she moves into another CCG area, leaves care or is adopted.
+  - All healthcare staff who come into contact with looked-after children should work within the Royal Colleges intercollegiate framework. This framework identifies the competences that enable healthcare staff to promote the health and well-being of looked after children. They are a combination of the skills, knowledge, values and attitudes that are required for safe and effective practice
+  - Named nurses and doctors for looked-after children have an important role in promoting good professional practice within their organisation and providing advice and expertise for fellow professionals
+  - Working with the designated professionals for looked-after children, named health professionals should:
+    - coordinate the provision of local health services for individual looked-after children and the input into health assessments and their reviews for individual looked-after children
+    - ensure the timeliness and quality of health assessments for looked-after children and ensure actions taken to implement the health care plan are tracked
+    - act as a key conduit and contact point for the child and their carer, where they have difficulties accessing health services.
+-
+## Virtual school heads (VSHs) and designated teachers:
+
+  - Maintained schools and academies are required to have a designated teacher for looked after children. Given the interrelationship between health and education outcomes, social workers should ensure that the authority's VSH and the designated teacher for looked-after children are aware of information about the child's physical, emotional or mental health that may have an impact on his or her learning and educational progress
+
+# Maintaining Health Records
 ###  Significance
   - Essential in providing in quality care
   - Charts medical history

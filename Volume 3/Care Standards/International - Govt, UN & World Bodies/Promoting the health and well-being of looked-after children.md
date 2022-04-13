@@ -140,7 +140,7 @@ Domain tags: [[Physical Health]]
   - NHS England should ensure:
     - looked-after children are always registered with GPs and have access to dentists near to where they are living. This is a shared responsibility with the local authority for the children it looks after.
     - When looked-after children need to register with a new GP (e.g. when they enter care or change placement), the transfer of GP-held clinical records is fast tracked
-  - NHS England guidance &quot;Who Pays? Determining responsibility for payments to providers; provides the framework for establishing responsibility for commissioning an individual's care within the NHS.
+  - NHS England guidance: Who Pays? Determining responsibility for payments to providers; provides the framework for establishing responsibility for commissioning an individual's care within the NHS.
   - The Department of Health, with NHS England, Monitor, the Royal Colleges and other partners, has developed a mandatory national currency and tariff for statutory health assessments for looked-after children placed out of the area. Details are set out in the current National Tariff Payment System.
 
 ## Designated doctor and nurse:
