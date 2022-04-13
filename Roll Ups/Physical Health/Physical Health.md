@@ -20,6 +20,7 @@ JJ Act Guidelines for Physical Health
 Assessment tools
 Global comparison 
 Domestic comparison
+Ethical Issues 
 
 # Rights Bases Approach to Health 
 [^1]
@@ -109,6 +110,8 @@ Rainbow[^2] Homes has documented different national standards for children in in
 
 ## Models of Care in Indian institutions
 
+Rainbow[^2] Homes has documented different institutional standards for other domestic service providers to CNCP in India
+
 ### Health models in Sneh Ghars Delhi
 - Coordinated by centre for equity studies there on homes for children in Delhi Hyderabad and Bengaluru.
 - Homes in Delhi are in partnership with the Delhi government. It provides infrastructure NGO managers and funds the program.
@@ -134,24 +137,24 @@ Rainbow[^2] Homes has documented different national standards for children in in
 - Every child case history e and medical services availed are file in referral slips, doctor slips and prescriptions
 - Contact is maintained with family and once a month there is a mandatory meeting between children and parents
 
-### Ethical issues of health in long term residential care
+# Health Approaches in Institutional settings
+As documented by Rainbow homes [^2], there are different approaches to healthcare
 
-- Balance between autonomy and paternalism
-  - Make sure children participate in their own health issues inform them of the inventions that are in place
-  - In case of HIV screening obtain informed consent from children and their parents
-- Confidentiality
-  - Keep private information secure disclosing this information to people deliberately or accidentally is an infringement of confidentiality which may harm the child
-  - Information on HIV or genetically inherited conditions may bring social stigma and ostracism
-- Doing no harm and injustice
-  - Intentionally do not create harmorr injury to the child
-  - Health worker should provide proper standard of care that avoids the risk of harm
-  - Make sure the culture is respectful caring sensitive and responsive in a context where a health management is paternalistic process ensure genuine respect for the privacy of the child
+### Medical approach
+- heavily dependent on qualified medical practitioners services provide on a case by case basis.
+- It is wasteful and over medical eyes is health issues
 
+### Health worker approach 
+- focus more on preventive and promotive aspects of health. 
+- Primary needs are addressed at the level of a health worker.
 
-
-
-
-
+### Balanced approach
+- In this view all staff members are fundamentally health workers and need training
+- Program should have thoroughly trained supervised supported health workers
+- For health programmes, the home needs to set up a health management advisory committee including a doctor public health specialist on a voluntary basis. 
+- The set up also includes Ayush Specialists to teach home health remedies
+- While sitting up a help program math existing resources including friendly doctors government dispensaries health centers hospitals, information on existing government schemes like free beds.
+- Maintain supportive network for reference financial aid and volunteer action
 
 
 
