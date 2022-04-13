@@ -292,6 +292,44 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 
 # Preventative Approaches
 ## Infection Control & Management 
+## Screening & Regular Checks
+ #### Under 5 : Focus should be on
+  - Physical health growth, diet, immunization, teeth,
+  - Experience of caring relationships and emotional well being
+  - Monitoring development and milestones with respect to speech, language, motor skills. mission and hearing play pre literacy skills social and self help skills
+
+- #### Middle years 5 to 10 years:Focus should be on
+  - physical health and management of specific health conditions, growth monitoring, communication skills, selfcare ability to make relationships and to relate to peers,
+  - mental and emotional health including depression, exercise, balance diet,
+  - progress at School, awareness of basic safety issues,
+  - cope with physical and emotional changes associated with puberty,
+  - access to accurate and simple information about sexual activity immunization dental health experience of caring relationships
+
+- ### Adolescence and leaving care 11 to 18 years
+  - Ability to take responsibility for own health including management of specific health conditions communication and interpersonal skills education and social progress lifestyle including diet and physical activity
+  - ensuring immunization are up-to-date mental and emotional health including depression understanding of issues relating to sexual and sexual activity
+  - access to information and advice about health issues including this of alcohol and substance use to
+  - have a full copy of the social care health records
+
+### Health Planning, Implementation and Review
+
+- Report should be brought out for every child after assessment to draw out health plan
+- If there is a history of abuse if child is malnourished then it calls for immediate interventions
+- Health worker should be aware of health plan of every child and must have a checklist of interventions and actions that need to be taken
+- Protocols are mandatory for a child who enters the home
+- A review of the child including self review needs to be done every 6 months
+- This helps in following up action has been taken according to the plan and reassessment it can be then done
+- For children who leave the home staff should get in touch with the child or family to ensure steps are taken according to the plan
+
+### Contents of individual health file
+
+- General assessment the child's detailed history
+- Physical health assessment and medical records
+- Psychosocial assessment
+- Child's own assessment
+- Growth chart
+- Health plans and reviews
+
 
 
 # Curative Approaches
@@ -413,6 +451,17 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
   - recognition- there could be liquid or powder on skin burns, itching and irritation, redness rashes blisters, remove the clothes of the child
   - remove the poison from the skin if the poison is a dry powder it could be brush stuff about
 - Cover the skin area with a large amount of water
+
+# Possible reasons for the high incidence of morbidity:
+
+- **Poor living conditions and utilisation of facilities:** The high prevalence of common morbidities reported in the present study as well as the inadequate treatment seeking practices of orphanage heads reflects the poor living conditions and inadequate knowledge of common diseases and their treatment. It also shows the poor utilisation of healthcare facilities, although all had access to a doctor.
+- **Lack of Awareness** : Many diseases were found to be present due to lack of awareness about disease causation. Further, none of the children knew about the complications of most diseases under study, even when they were suffering from it.
+  - Knowledge of signs and symptoms of common childhood morbidities was low among resident children, especially for fevers, skin infections/ infestations and ear conditions.
+  - None of the children knew the common conditions presenting with fever (including malaria, dengue, typhoid and others).
+  - None of the children had heard about scabies earlier, and none considered otitis media to be a dangerous condition. Only two children who had previous pneumonia knew about common symptoms of the disease, but not complications.
+  - None of the children were aware that worm infestation could occur through faeco-oral route
+- **Poor nutrition:** Poor nutritional status has been shown to be widely prevalent and directly associated with morbidities among institutionalised children. Further, the poor nutritional status of the children may have an impact on their cognition levels which may worsen their awareness and treatment seeking practices. Vaida et al reported the contrary by showing the majority of orphan children having normal nutritional status, with no clear relationship between orphan-hood and the nutritional status of children compared with those who lived with their parents.
+- **Low immunity at younger age:** We also found the morbidities to be higher among younger age groups which may be explained by their lower immunity levels and young age as a risk factor for most diseases.
 
 
 
