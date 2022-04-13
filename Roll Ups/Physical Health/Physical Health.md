@@ -28,8 +28,11 @@ Problems in institutional settings
 Condition --- Definition-- Prevalence--Points --Recommendation-- Assessment 
 
 
-# Current realities in institutional settings
-### Malnutrition
+# Health Risks of Institutional Care
+
+## Nutrition & Growth 
+
+### Identified Challenges
 
 In a literature review conducted for a study on morbidity in preschool children in institutions in Kenya, we find out that [^3]
 - Prevailing conditions in orphanages may predispose children to increased prevalence of malnutrition and infectious diseases like diarrhoea and respiratory tract infections. Unavailability of safe and nutritious foods in orphanage set up and access to safewater are likely to lead to increase levels of malnutrition among children. (Page 22) 
@@ -37,6 +40,10 @@ In a literature review conducted for a study on morbidity in preschool children 
 - Child malnutrition is associated with susceptibility to infection and as a result many children are more likely to be prone to common childhood ailments such as diarrhoea and respiratory infections; and for those who survive, frequent illness affects their nutrition status due to lowered resistance to infections (Page 27)
 - In a study carried out in Botswana (Misra & Bignami, 2008) it was found that children in orphanages were 49% more likely to be underweight than non-orphanage children. The findings concurred with those of Lindblade et al. (2003) in Malawi where it was demonstrated that the prevalence of malnutrition in children in orphanages (below 6 years old) was 55% compared with 30% of non-orphanage children. (Page 29)
 - Prevalence of undernutrition seemed to increase significantly with an increase in length of stay in the orphanage (Page 69)
+
+### Potential Solutions
+
+
 - Children whose caregivers had not received any form of training on childcare practices were more likely to be underweight, wasted and stunted respectively. (Page 72)
 - Consumption of meat, fruits and vegetables was low. Low consumption of fruits and vegetables could expose children to the risk of micronutrient deficiencies that take long to manifest. All children were served same quantities of food. The difference in energy intake was a result of poor appetite, illness among children as well as age. (Page 93)
 - Nutrition status (underweight) showed a positive significant relationship with institutional characteristics and dietary practices. (Page 94)
