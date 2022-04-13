@@ -27,20 +27,24 @@ Problems in institutional settings
 
 Condition --- Definition-- Prevalence--Points --Recommendation-- Assessment 
 
+
 # Current realities in institutional settings
+### Malnutrition
+
 In a literature review conducted for a study on morbidity in preschool children in institutions in Kenya, we find out that [^3]
 - Prevailing conditions in orphanages may predispose children to increased prevalence of malnutrition and infectious diseases like diarrhoea and respiratory tract infections. Unavailability of safe and nutritious foods in orphanage set up and access to safewater are likely to lead to increase levels of malnutrition among children. (Page 22) 
 - However, studies have established that most caregivers lack nutrition awareness and that once a child reaches preschool age, caregivers divert their attention from the children to other matters and care giving becomes a secondary issue. Thus, the nutrition needs are neglected (Mile,Milena and Biljana, 2013). (Page 26)
 - Child malnutrition is associated with susceptibility to infection and as a result many children are more likely to be prone to common childhood ailments such as diarrhoea and respiratory infections; and for those who survive, frequent illness affects their nutrition status due to lowered resistance to infections (Page 27)
-- Various studies have shown that illness among children in orphanages is higher (30%) especially diarrheal disease compared with 7 % in non-orphanage children. It has also been shown that more boys are usually stunted with high morbidity rates than girls (Page 28)
 - In a study carried out in Botswana (Misra & Bignami, 2008) it was found that children in orphanages were 49% more likely to be underweight than non-orphanage children. The findings concurred with those of Lindblade et al. (2003) in Malawi where it was demonstrated that the prevalence of malnutrition in children in orphanages (below 6 years old) was 55% compared with 30% of non-orphanage children. (Page 29)
-- In the present study, majority (79.0%) of the preschool children consumed adequate amounts of recommended energy per day. (Page 56)
-- For protein intake, nearly all (90.1%) children consumed adequate amounts of recommended proteins per day (Page 57)
 - Prevalence of undernutrition seemed to increase significantly with an increase in length of stay in the orphanage (Page 69)
 - Children whose caregivers had not received any form of training on childcare practices were more likely to be underweight, wasted and stunted respectively. (Page 72)
 - Consumption of meat, fruits and vegetables was low. Low consumption of fruits and vegetables could expose children to the risk of micronutrient deficiencies that take long to manifest. All children were served same quantities of food. The difference in energy intake was a result of poor appetite, illness among children as well as age. (Page 93)
-- The most prevalent illnesses were acute respiratory infections (ARIs),malaria and diarrhoeal diseases. (Page 93)
 - Nutrition status (underweight) showed a positive significant relationship with institutional characteristics and dietary practices. (Page 94)
+
+### Diseases 
+- Various studies have shown that illness among children in orphanages is higher (30%) especially diarrheal disease compared with 7 % in non-orphanage children. 
+- It has also been shown that more boys are usually stunted with high morbidity rates than girls (Page 28)
+- The most prevalent illnesses were acute respiratory infections (ARIs),malaria and diarrhoeal diseases. (Page 93)
 - The results imply that the longer a child stays in the orphanage, the more likely the child would be stunted and underweight. Children who consumed adequate energy intake were less likely to be underweight and stunted respectively (Page 94)
 - From the study, it can be concluded that good nutrition status can be equated with appropriate childcare practices and low morbidity burden. Majority of children living in orphanages in Kwale County had good nutrition status as depicted by the low levels of undernutrition. This was likely due to consumption of at least three meals per day, diversity of foods consumed, appropriate knowledge in caregiving among thecaregivers in the orphanages, favourable caregiver to child ratios, good health care practices, adequate consumption of energy and other nutrients. This was also enhanced by the effect of the low morbidity burden noted among the children. (Page 95)
 - The prevalence of the three forms of under-nutrition in this study was lower than the national figures. In addition, the levels of undernutrition are also lower than the WHO acceptable levels with an exception of wasting which is higher than the WHO acceptable levels of under-nutrition (Page 95)
