@@ -828,7 +828,13 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
   - number of children immunised number of malnourished children what interventions have been taken what have been the improvement
   - consolidated data provides details on what measures are being taken
 
+# Challenges & Ethical concerns
 
+- Accurate information about health history, and any current/ongoing medical conditions, may be vital to securing the right placement for a looked-after child.
+- For this reason, obtaining consent to information sharing is a vital first principle to promoting the health of looked-after children. The person or third party will need to understand the reasons why particular information needs to be shared, so that they can give informed consent
+- Where disclosure of a child's information might reveal information about other individuals (e.g. parents, family), consent should be sought from these individuals as well.
+- Where it is not practicable to seek consent or where the individual is not competent to give consent, it is important to consider whether disclosure would be justified in the public interest(e.g. to protect others from a risk so serious that it outweighs the individual's right to privacy).
+- Decisions to disclose information in the public interest must be taken on a case by case basis, and should always be fully documented
 
 
 
