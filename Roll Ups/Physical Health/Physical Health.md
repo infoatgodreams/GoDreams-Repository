@@ -531,6 +531,302 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - **Poor nutrition:** Poor nutritional status has been shown to be widely prevalent and directly associated with morbidities among institutionalised children. Further, the poor nutritional status of the children may have an impact on their cognition levels which may worsen their awareness and treatment seeking practices. Vaida et al reported the contrary by showing the majority of orphan children having normal nutritional status, with no clear relationship between orphan-hood and the nutritional status of children compared with those who lived with their parents.
 - **Low immunity at younger age:** We also found the morbidities to be higher among younger age groups which may be explained by their lower immunity levels and young age as a risk factor for most diseases.
 
+## Introduction to common childhood illnesses
+
+- Main symptoms include
+  - Symptoms include lethargy, lack of appetite, pain, fever, cough, vomiting
+  - Serious symptoms - Semi or unconsciousness, abnormal behaviour, weight-loss, bleeding unrelated to injuries, high fever fever not improving in a few days, fever with bruising, fever with neck stiffness, fever with chills, breathlessness or difficulty in breathing, severe abdominal pain, severe uncontrollable vomiting
+- When children present non specific symptoms even after examining sometimes nothing specific can be found. Dealing with such cases can be a challenge.
+  - First thing takes the child seriously each occasion to make sure we are not missing any serious physical problem
+  - It is also recommended to do at least one round of investigations depending on the symptoms such as sound of domain pain
+  - Accept that the child needs care
+  - sometimes prescription of placebos help
+  - In many common illnesses home remedies work especially for seasonal fever cold cop stomach related problems so on
+
+### Fever
+
+  - has variety of causes -infections like cold and cough to very serious conditions like meningitis
+  - requires experience and training to make a specific diagnosis of the cause
+  - Identification- measure with thermometer, if it does not come down with medication, water dipped cloth should be kept
+  - cold cold and cough- identification- nose maybe blocked or running
+  - Diarrhea- identification- mild fever usually viral in nature
+  - paracetamol maybe given if fever is high
+  - nasal passages may be kept clear by using saline nasal drops
+  - cough syrup and anti allergic tablets need not be prescribe routinely
+  - specific dangerous sign- if there is high fever symptom, yellow breathing difficulty
+  - Prevention includes good personal care clean environment and nutrition
+
+### Meningitis
+
+- Very serious infectious disease affecting the brain
+- identification- headache, altered consciousness, convulsions, neck stiffness, forceful vomiting, rashes,
+- what to do you - take to the hospital immediately
+- prevention -vaccination and antibiotics
+
+### Measles
+
+- Identification- fever along with a characteristic rash
+- first few days with no cough and redness.
+- Rash is dusky red starts with the head and face;inspect over the whole body
+- fever subsides in 2-3 days after onset after the onset of rash and the rash also start reducing in a few days
+- what to do- provide plenty of fluids, Paracetamol if necessary specific
+- danger signs- earache, diarrhoea, difficulty in breathing, change in consciousness
+- Prevention includes vaccination keeping the child away from others for 4 days
+
+### Chicken pox
+
+- Highly infectious viral disease
+- Like measles it is suggested by fever along with the characteristic rash redness
+- Fever and begins on the trunk spreading later to the head and face
+- intensity reduces if red spots becoming peach in colour, centre goes through ulceration casting healing over 3 to 4 days
+- what to do- rest and take plenty of fluids
+- paracetamol should be given if necessary,
+- Itching is relieved by cool baths and calamine lotion
+- Scratching should be discouraged
+- Prevention- vaccine for chickenpox but its not routinely prescribed
+
+### Malaria
+
+- Identification- malaria is listed by high fever with chills sweating nausea headache
+- Malaria requires specific treatment with antimalarials
+- getting a blood test for malaria is important
+
+### Pneumonia
+
+- is an infection of the lungs
+- identification characterised by fever and difficulty in breathing
+- has to be treated under the care of the doctor with antibiotics
+- specific dangerous signs- child not getting better even after two three days of start in treatment difficulty in breathing gets worse
+- prevention- spread is by closed contact so the child need to be separated from others
+
+### Tuberculosis
+
+- Identification - lasting over 2 weeks any low grade fever
+- Ensure that TB is either diagnosed or ruled out by doctor
+- TB medicines will continue for at least six months
+- if if the child is in home with health workers - to ensure that medicine is being taken consistently
+- If child has to go home, train the child to take medicines, provide sufficient amount of medicines to cover the entire duration of the child's stay
+- provide extra nutrition in the form of egg and milk if necessary specific danger signs when the child does not get better after 23 weeks or if there is difficulty in breathing at any stage or if there is jaundice
+- Prevention-Taking the BCG vaccine in early childhood prevents some form of TB overcrowding and malnutrition - create conditions for TB
+- the best way to prevent by identifying persons with illness and getting completed
+
+### Asthma
+
+- Allergic reaction of the Airways that causes cough and difficulty in breathing
+- identification- if the child gets an attack of fast breathing, difficulty in breathing, tightness in chest or wheezing every now and then.
+- There could be a family history of breathing problems
+- Asthma should be confirmed by a doctor
+- Care Workers should be taught to use the medicines if breathlessness is not relieved soon after medication or child is getting worse
+- Prevention- some medicines may be given for preventing attacks in severe cases
+- Many children grow out of asthma
+- triggers can be prevented by keeping the rooms free of smoke dampness and dust testing the mattresses frequently
+
+### Diarrhoea
+
+- manifested by the frequent passage of loose water is tools
+- Important part of managing diaries to make sure that the child retains in a fluid to prevent dehydration
+- this could be achieved by giving fluids or virus or home based fluids such as rice water for coconut water
+- child should get small frequent meals with low fiber
+- specific dangerous signs- when the child is vomiting continuously, if the urine is very dark, if there is high fever, if there is blood in the stool,
+- prevention- personal hygiene, careful hand washing after using toilet and before eating
+
+### Typhoid
+
+- how to identify -prolonged high fever, nausea, high fatigue,loss of appetite running nose, common cold do not accompany typhoid
+- can be diagnose only through blood test
+- what to do -children with typhoid must be under regular care mostly treated in home with antibiotics for 3 weeks
+- specific dangerous signs -inability to take medicines due to vomiting, abdominal pain or any change in the level of conscious
+- prevention- personal hygiene and careful hand washing during food preparation after using toilet and before eating
+
+### Jaundice
+
+- like diarrhoea or cough is a sign not a disease
+- can have many different causes
+- a common and mild cause of jaundice is a form of hepatitis spread through food and water
+- how to identify -white part of the eyes become yellowish, urine also turns dark yellow
+- Stools may be chalk in colour
+- will require a similar care to that in typhoid specific
+- danger signs- abdominal pain, change level of consciousness or bleeding from anywhere
+- prevention- hygiene and careful handwashing during food preparation of before toilet using and before eating
+- hepatitis A vaccine is available and can be considered but it is expensive
+
+### Epilepsy
+
+- Neurological problem characterised by seizures, or fits- sudden episodes of brief repetitive abnormal movements or behaviour along with change in consciousness
+- Identification- are usually noted by caregivers or teachers. They may note periods of inattention in class, full fledged loss of consciousness,
+- All children with seizures must be referred to a doctor and investigated
+- precautions - advice in the child not swim, climb height or lock the bathroom doors
+- all carers must know about the child condition and to manage seizures
+- specific dangerous signs- if the seizures occur despite treatment the doctor must be informed, any abnormalities persist after seizure
+- drugs -may cause side effects like jaundice
+- prevention- take medicine regularly
+
+### Scabies
+
+- how to identify -severe itching with the rash, especially in the web spaces of fingers, toes under arms,
+- what to do- overnight application of Gamma benzene hydrochloride or permethrin over the entire body from neck downwards after a thorough scrub bath.
+- The clothes bed linen struggles of the child should be boiled
+- the child may need to be prescribed Cetrezine for itching effects
+- Prevention- good personal hygiene
+
+### Lice
+
+- Louse an infestation of the hair ; is also very contagious
+- How to identify- lice- cause itching of the scalp and can often be seen over the hair close to the scalp
+- what to do with combing with a fine tooth comb and applications of Permethirin a week apart specific danger sign- if itching still persist after treatment when the child should be shown to the doctor
+- prevention includes good personal hygiene
+
+## Drug formulary
+
+- Essential component of any health program
+- based on objective types of personnel available and the public health perspective of the program
+- Formulary does not deny the doctor right to make any special prescription
+- nly details what will be regularly kept in stock, it may change with specific locally needs
+- but this should be done after consultation with the advisory committee
+- preferable to use generic medicines since its readily available
+- this formulary has been created keeping children over 5 years in mind
+- the health workers require extensive preliminary and refresher training as well as a supportive material
+- A formulary of drugs is on Pg- 58-61
+
+### Drugs for local use
+
+- Miconazole cream -for fungal infection- local application twice a day till infection clears
+- Gentamicin eye drops- for eye infection- One drop each twice a day for 5 days
+- Ciprofloxacin- eye drops- fungal infection
+- Gentian violet solution- for scabies -overnight application of Gamma benzene hydrochloride or Permethrin over the entire body from next downwards after thorough scrub bath
+- Clobetasone butyrate for skin infections
+
+### Emergency drugs
+
+- hydrocortisone injection
+- adrenaline injection
+- syringes salbutamol inhaler with spacer
+- ORS- WHO approved sachets
+- If ORS is not available prepare at home
+  - for one glass of water at a pinch of salt and a spoon of sugar
+  - ORS fluid should be discarded after 24 hours
+- Saline nasal drops -
+  - saline drops can be prepared in 250 ml of boiled, add half teaspoon salt
+  - can be used frequently before meals and naps
+- Thermometer, torch, weighing machine, tape,
+
+## Human resource structure roles responsibilities and monitoring mechanism
+
+### Structure
+- A home should ideally have two health workers, one home coordinator, house mothers and peer groups
+- there should also be an advisory committee who makes decisions
+- the health workers need to be connected to a panel of doctors including paediatricians,opthamologist,dentist, ENT specialist, gynaecologist Ayush specialist and one counselor
+- the home also needs to be connected to a panel of institutions including government dispensary, a secondary level government hospital. and any other public institution providing services under National health program
+
+### Roles and responsibilities
+
+### Health worker
+
+- Play a central role in the health assessment of the child making the health plan implementing the plan and review the health of every child
+- Ensure proper first aid in cases of accidents burns epilepsy before referral to a medical facility
+- Effectively handle emergency cases that need immediate medical attention and cases of infectious diseases at the level of the phone and decide reference case by case
+- Provide treatment for moderate illnesses and watch for early signs of deterioration
+- Facilitate early detection of chronic illnesses like TB
+- Special attention to malnourished children
+- Call meeting with the panel of doctors once in 6 months and review the health status of children
+- Maintain health records of children
+- Routine health invention such a immunization deworming and iron supplementations with other staff
+- Weather report holder of common health care commodities and ensure drug suggested in the drug formulary are available
+- Aware of the list of essential drugs available at the primary level and the side effects of the drugs used
+- Maintain stock register of drugs and expiry date of medicines
+- Operated equipment available at home and check that it is correctly calibrated
+- Ask for help when necessary from other staff members and make formal links with government hospitals
+- Routine health interventions by the health worker
+  - deworming- in six months
+  - Iron- 3 months
+  - immunization-mmr, typhoid, tetanus, hepatitis
+  - anthropometry -6months
+  - health checks dental and eye check- once a year
+  - Drill on hygiene - daily
+
+### House mothers
+
+- Responsibility of a specific group of children would be assigned to them
+- With respect to health of a child she should look after the overall well being and happiness
+- Monitor hygiene hair nail skin of every child on a daily basis and if clothes are wash regularly
+- Report when children are ill to the health worker
+- Hello the care of the sick child as instructed by the health worker
+
+### Home Coordinator
+
+- Monitor the workings of all system with the help of other staff members
+- On the arrival of a child ensure that they are given a welcome kit including home toothbrush soap towel and at least two sets of clothes every child should have his or her locker mattress to bed sheets and one quilt
+- SS program matic trends and bottlenecks and offer appropriate suggestions
+- Post surgery the home coordinate a must and sure that there is a 24 hour attendy with the child
+
+### Panel of Doctors
+
+- Protocol for the paediatricians visit must be specified paediatrician must be available during health assessment making of the health plan of new entrance and during review of all children
+- Paediatrician could make a visit to the home 16 months for a general check up but paediatrician should visit once in a month for cases that require specific attention
+
+### Monitoring Mechanism
+
+- Monitor water sanitation and cleanliness of the home
+- Be conscious of the number of children who need medical attention on a given day
+- Be watchful that the daily drill examination every child is taking place
+- Be aware of documents and health records being kept by the health worker and ensure they are updated
+- Hold meetings between health workers, house mothers and other staff members once a week to look into the operation issues of the help program. View the files of children with a non going medical problem.
+
+## Training and capacity building
+
+- Health workers should at least finish 12th standard and be able to fill records adequately
+#### Training of the health workers
+- Include hands on exercises relating to early identification of dangerous signs and use of drugs
+- Create awareness on violence gender sensitivity sexuality understanding right to consent and privacy
+- Each issue must be dealt with the following approach: general information about the topic, special relationship with health of street children, preventing route causes, early identification, primary care at the level of the health worker, danger signs, and when to refer, how to follow up
+
+### Induction Training
+
+- Minimum time requirement is 6 full days of residential training including the following topics
+- Health and well being the public health perspective the systemic and social determinants view concept of well being lifecycle approach the culture of the program
+- Role of a health worker and overview of decide attitudes in tasks of a health worker
+- Special training should include dealing with the sick child He diagnosis treatment follow up special reference to danger science emergency care for state dealing with epidemics knowledge on relevant immunization knowledge on drugs and handling medicines training and equipment use nutrition and growth monitoring dealing with mild moderate and severely children and I problems how to organise check up training and documentation and record keeping conducting daily inspection
+- Daily inspection checklist
+- Children sick and Happy child nails overall hygiene
+- Kitchen hand washing facilities utensils food safety nails hair nets
+- Toilets hand washing facility flush sanitary napkin disposal
+- Garbage disposal areas
+
+### Post- Induction Monthly Session
+
+- Dealing with disability Indian context and common disabilities in children experiences and social attitude towards it early identification and dealing with disabilities at the home
+- Food and nutrition nutrition and meal planning food safety food preparation and food handling
+- Use of home remedies for common illnesses
+- Issues relating thing to home environment and other systems clean water and waste disposal fumigation at intervals space for playground
+- Health education life skills that children need to acquire training on sex education personal care related issues substance abuse
+
+### Maintaining Health Records
+###  Significance
+  - Essential in providing in quality care
+  - Charts medical history
+  - Can help care workers identify preventive health needs
+  - Helpful with immunisation dental Care and special care plan for children
+  - Helpful with growth monitoring
+- 
+- #### Records - every child should have the following records
+- Help assessment form
+- Health plan
+- health checklist
+
+- #### Registers
+  - Sick child register- names of its children doctors remarks medicines diagnostics
+  - health camp register - day and date of the camp names of the children who need treatment
+  - growth monitoring register -write age height in weight of the child then calculate growth indicators
+  - hospital register -for children who are referred and need long term treatment
+  - immunisation and deworming register- month wise register with children who need immunisation or deworming
+  -  Minutes of meeting register: Record the minutes of meeting held on health education or health related training
+  - Drugs stock register- have name of a drug expiry date and how many left at the end of the month
+  -
+- #### Monthly report
+  - to get an overview of the health condition of the home and children
+  - make sure to note number of children in referral and follow ups
+  - number of children immunised number of malnourished children what interventions have been taken what have been the improvement
+  - consolidated data provides details on what measures are being taken
 
 
 
