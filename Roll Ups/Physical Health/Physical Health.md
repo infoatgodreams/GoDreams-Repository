@@ -869,7 +869,7 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 	  - Intentionally do not create harmorr injury to the child
 	  - Health worker should provide proper standard of care that avoids the risk of harm
 	  - Make sure the culture is respectful caring sensitive and responsive in a context where a health management is paternalistic process ensure genuine respect for the privacy of the child**
--
+- For the study in Southern India on morbidity profiles, 
 
 
 
