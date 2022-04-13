@@ -23,6 +23,8 @@ Domestic comparison
 Ethical Issues 
 Problems in institutional settings
 
+Condition --- Definition-- Prevalence--Points -- Assessment 
+
 # Current realities in institutional settings
 In a literature review conducted for a study on morbidity in preschool children in institutions in Kenya, we find out that [^3]
 - Prevailing conditions in orphanages may predispose children to increased prevalence of malnutrition and infectious diseases like diarrhoea and respiratory tract infections. Unavailability of safe and nutritious foods in orphanage set up and access to safewater are likely to lead to increase levels of malnutrition among children. (Page 22) 
