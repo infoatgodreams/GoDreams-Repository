@@ -360,6 +360,19 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - Appropriate physical arrangement should be made
 - Ensure follow up of children who have been referred for further treatment
 
+## Emphasis on Caregiving
+- Hand washing is effective in minimizing incidence of diseases such as cholera and diarrhoea among children. It also reduces deaths from diarrhoea and acute respiratory infections by almost half and one quarter respectively (Page 28)
+- The same study showed that among children in orphanages, 64% were stunted compared with 46% of the non- (Page 29)
+- 16 orphanage children. In addition, girls in orphanages were more likely to be malnourished than boys. (Page 30)
+- Research has demonstrated that positive interaction between a child and a caregiver significantly impacts the development of the brain (Page 31)
+- Involvement of the community by supporting the running of the orphanages through both participatory and material support was viewed as long term solution to these problems. Participatory support would help in maintaining good discipline, moral values and life skills of the children and material support would ensure that their basic needs (health status and nutrition well-being) are met. (Page 55)
+- The number of children served by each caregiver is critical to higher quality care.Poor caregiver to child ratio not only inhibits social interaction, but also influences the way caregiver responds to the needs of the children. Although young children in group care often fail to thrive, tend to be sickly and often demanding of attention; provision of supportive and stable caregiver to child relationships is of paramount importance (Page 75)
+- Skipping breakfast during childhood has been associated with malnutrition and may also have an adverse effect on cognitive function, academic performance, psychosocial function and mood in children and young people (Page 81)
+- Deworming has health benefits in children as worms impact negatively on the mental and physical development of children. Ample evidence have shown that deworming has a significant impact on health, education and livelihoods of treated children (Page 87)
+- Outcomes of deworming include decreased anaemia and improves nutrition, increases growth and weight gain, improves cognition and mental and physical development, increases resistance to other infections, supports more frequent school attendance, improves children’s ability to learn better and be more active in (Page 87)
+- The orphanage’s management in conjunction with the Ministry of Health should carry out monthly growth monitoring to detect early onset of malnutrition among children 6-59 months of age for timely intervention to reduce on cases of malnutrition. (Page 96)
+- The orphanages’ management should intensify the supervision of children during meal times to ensure adequate dietary intake and inclusive consumption of food. A watchful eye and gentle warning can save children from malnutrition caused by poor dietary intake. (Page 96)
+
 ## Screening & Regular Checks
  #### Under 5 : Focus should be on
   - Physical health growth, diet, immunization, teeth,
@@ -830,7 +843,13 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 
 - ### Assessment Tools 
 - [^10]According to the POFO study, for physical health, - Physical Health and Growth- Caregiver-reported child health measures included symptoms of fever, cough, and diarrhea in the last 2 weeks and the general health of the child. The latter was rated on a scale of 1 to 5 from the Medical Outcomes.
-- 
+-  For the Kenyan study on morbidity status of children in institutions, 
+	- - A structured researcher-administered questionnaire for caregivers was the main data-collection tool. It was used to collect socio-demographic data, dietary intake, healthcare practices and anthropometric data. An observation checklist and Key InformantInterview (KII) guide were used to gather information on experiences and challenges on dietary practices, health care, water, hygiene, sanitation and other concerns relevant to the study about children in orphanages. (Page 39)
+	- Data on dietary practices was collected using a 7 day food frequency questionnaire and a 24-hour food recall. Anthropometric data was collected using SECA scale and paediatric height board. (Page 39)
+	- Water and Hygiene practices were assessed by collecting information on whether there was availability and accessibility of water for drinking and washing hands, frequency of brushing teeth and bathing, availability of latrines/ toilets or bathrooms and human waste disposal. Caregivers who reported bathing the children daily were rated as having good bathing hygiene while those who bathed children four to six times a week and less than four times a week were rated as having adequate and poor bathing hygiene respectively (UNICEF, 2009c). (Page 42)
+	- Furthermore, when less than 40 children share one latrine is usually considered fair, forty to one hundred children using one latrine is classified bad and 100 children sharing a single latrine is dangerous (Page 28)
+	- Respondents were to try to remember everything they fed the child and were provided with household measures used in the institution while feeding children. These household measures included; cups, plates, jugs, metallic containers and spoons.Caregivers were asked to measure total amounts of food served and total amounts eaten. These amounts were measured and converted into weights measurements. All the ingredients in the meals and their weights were recorded. Food models and pictures were used to help respondent judge and report portion size. (Page 44)
+
 
 # Challenges & Ethical concerns
 
@@ -850,7 +869,7 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 	  - Intentionally do not create harmorr injury to the child
 	  - Health worker should provide proper standard of care that avoids the risk of harm
 	  - Make sure the culture is respectful caring sensitive and responsive in a context where a health management is paternalistic process ensure genuine respect for the privacy of the child**
-
+-
 
 
 
