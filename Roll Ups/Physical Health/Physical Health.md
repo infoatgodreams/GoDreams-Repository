@@ -129,6 +129,15 @@ In a literature review conducted for a study on morbidity in preschool children 
 - **Eye Infections:** Infections of the eye were the lowest in prevalence. Similar prevalence of ear conditions was also reported. They however, also reported ophthalmic problems including Bitots spots which we did not find in our population.
 - **Diarrheal disease and Respiratory Infections:** Some studies done on children residing in urban slums where prevalence of diarrheal disease and respiratory infections has been reported to be higher than our population
 
+# Challenges to existing data 
+According to a study conducted by the Duke Public Health Centre[^10], 
+- Policy documents and legislation related to the care of children in institutions frequently cite studies of children who as infants lived in socially and emotionally deprived institutions in Romania and Russia.
+  - These studies demonstrated powerful negative effects on the infant brain and child development .
+  - When infants were removed from this environment to live with trained, paid, and supervised foster parents in Romania, brain and child development improvements were observed.
+- In a meta-analysis of studies examining children in institutional and family care it was found that while intelligence quotient values trended toward being lower among infants in institutions, this relationship was not observed in lower income countries like Ethiopia , Kenya, and Eritrea, and was not observed among children over age five
+- Recent assessments of children's nutritional status in Kenya  and of psychosocial status in China found children in group homes were doing somewhat better than their family-based comparisons
+- The Positive Outcomes for Orphans (POFO) study is the only that enrolled a statistically representative sample of both institution-based and family-based orphaned and separated children (OSC) from culturally diverse sites across multiple LMICs
+  - Cross-sectional analyses of baseline data found that health, emotional functioning, learning ability, memory, and physical growth were comparable, on average, for the 1,357 children living in 83 institutional care settings and the 1,480 children living with families in 311 community clusters (geographically bounded sampling areas) in the same regions.
 # Rights Bases Approach to Health 
 [^1]
 According to the Kenyan Government, health needs to take a rights based approach
@@ -403,3 +412,4 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 [^7]: [[Special Health Care Needs Among Children in the Child Welfare System]]
 [^8]: [[The nutritional status of children living within institutionalized care _ a systematic review]]
 [^9]: [[The Impact of Institutionalization on Child Development_Kim Mclean]]
+[^10]: [[3 Year Change in Wellbeing of children in institutional and family based care settings in 5 low to middle income countries]]
