@@ -9,6 +9,7 @@ tags:
 - globalresearch
 
 ---
+Domain tags: [[Physical Health]]
 
 # Brief:
 
@@ -29,7 +30,7 @@ tags:
 - To effectively coordinate care for children's SHCNs in the CWS population, we must know how frequently SHCNs occur, which children are most at risk for them, and how these needs may affect children's development and functioning.
 - Adopted and foster care children may be at increased risk because of a greater prevalence of biological or environmental risk factors. These children may also be more likely than others to have their needs identified or reported because of health screenings provided by CWS or because adoptive and foster parents may be more alert to health conditions and better able to access pediatric care than other caregivers.
 
--
+
 ## Occurrence of SHCNs:
 
   - Caregivers reported that 50.3% of the children had less than or equal to 1 SHCN at some point during the 3-year study period.
@@ -78,7 +79,7 @@ NSCAW includes 2 indicators of SHCNs:
 - The most common special need was a learning disability (10.4% and 13.7% at any given point). Overall, 20.6% of all of the children had learning disabilities over the course of 3 years.
     - Other commonly reported conditions over the 3-year study period included 14.1% of children with emotional disturbance, 12.3% with speech impairment, 2.4% with mental retardation, 2.0% with hearing impairment, 1.3% with autism, and 1.2% with vision impairment.
 
-# Measures used for assessing SHCNs: [[impact assessment]]
+# Measures used for assessing SHCNs: [[Assessment Tools]]
 
 ## For Demographic information:
 

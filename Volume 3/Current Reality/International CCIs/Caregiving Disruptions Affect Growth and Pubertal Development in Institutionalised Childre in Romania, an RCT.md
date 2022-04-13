@@ -9,6 +9,7 @@ tags:
 - globalresearch
 
 ---
+Domain tags: [[Physical Health]] [[Child Development]] [[Mental Health]]
 
 # Brief:
 
