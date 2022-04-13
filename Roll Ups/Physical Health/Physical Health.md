@@ -60,7 +60,7 @@ In a literature review conducted for a study on morbidity in preschool children 
 	- Studies on Street children in India show that the children experience high rates of physical emotional and mental health problems
 	- Their intake of food is inadequate and the quality of food is poor.
 	- In many cases they have sexually transmitted infections mental health status is unknown depression and society and low self esteem or very common
-- In another study on the American foster care system, 
+- In another study on the American foster care system[^7], 
 	- Thirty percent to 60% of children in foster care have been estimated to have chronic health conditions. When behavioral, emotional, and developmental concerns are taken into consideration, the estimated proportion of foster children with serious health care needs jumps to ⬎80%.
 	- Caregivers reported that 50.3% of the children had less than or equal to 1 SHCN at some point during the 3-year study period.
 	- At baseline, 35.1% of children were reported to have had SHCNs. Thirty-one percent were reported to have had SHCNs at the 1.5-year follow-up, and 33.5% were reported to have had SHCNs at the 3.0-year follow-up.
@@ -91,7 +91,20 @@ In a literature review conducted for a study on morbidity in preschool children 
 	### Common Special Needs:
 - The most common special need was a learning disability (10.4% and 13.7% at any given point). Overall, 20.6% of all of the children had learning disabilities over the course of 3 years.
     - Other commonly reported conditions over the 3-year study period included 14.1% of children with emotional disturbance, 12.3% with speech impairment, 2.4% with mental retardation, 2.0% with hearing impairment, 1.3% with autism, and 1.2% with vision impairment.
-
+-   According to a meta analysis on institutionalisation, they found significant physical development detriment Dana Johnson and colleagues (Johnson et al., 1992) examined the medical condition of 65  previously institutionalized Romanian children who were adopted to the United States. 
+	- They found that only 15% of these children were  considered physically healthy at the time of adoption. Convergent evidence for this finding comes from the Romanian children adopted to Canada (Fisher et al., 1997).
+	-  In this sample, 85% of children had a reported medical problem
+- Similarly, Hostetter, Iverson, Thomas,  McKenzie, Dole, and Johnson (1991) found that at least one medical problem was reported for a majority of children adopted from 15 countries in East and South Asia, Central and South America, Africa, and the Caribbean and Pacific Islands. 
+- Fisher et al. (1997) found that according to their parents’ reports orphanage children’s most common medical problems when they were first adopted were
+	-  intestinal parasites (31% of children),
+	-  hepatitis B (28% of children) 
+	-  anemia (15% of children). 
+	- These medical problems are consistent  with those noted by other researchers who have examined medical problems in previously institutionalized children from Romania (Benoit, Jocelyn, Moddeman, & Embree, 1996; Gyorkos & MacLean, 1992; Jenista, 1992;  Marcovitch, Cesaroni, Roberts, & Swanson, 1995) and from several other countries (Hoksbergen, 1981; Hostetter et al. 1991). 
+-  Previously institutionalized children are typically small and malnourished after the orphanage experience. [Nutrition](Roll%20Ups/Nutrition/Nutrition.md)
+	- Eighty-five percent of  orphanage children in the Canadian sample below the 10th percentile and 59% of children fell below the 5th percentile for weight (Morison et al., 1995). 
+	- In another group of 16 Romanian children adopted to Canada, 50%  were below the 5th percentile for weight and  44% were below the 5th percentile for height (Benoit et al., 1996). Similarly, in the U.K
+	-  In the UK sample of Romanian adoptees, Rutter and the ERA Study Team (1998) reported that half of  the children had heights, weights, and head  circumferences below the 3 percentile.
+	-   In several studies growth retardation in height has been shown to be associated with the  length of time that children had spent in institutions (Ames, 1997; Johnson et al., 1992;  Rutter & the ERA Study Team, 1998). 
 
 ### Common Infections:
 
@@ -243,4 +256,4 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 [^4]: [[Health Care Issues for Children and Adolescents in Foster Care and Kinship Care (USA)]]
 [^5]: [[Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI)]]
 [^6]: [[Morbidity profile of orphan children in Southern India]]
-[^7]: 
+[^7]: [[Special Health Care Needs Among Children in the Child Welfare System]]
