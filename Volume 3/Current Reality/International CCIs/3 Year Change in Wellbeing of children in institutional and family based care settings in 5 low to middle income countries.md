@@ -47,7 +47,7 @@ Findings from studies on Institutional Caregiving of orphaned children
 
 ## Wellbeing Measures
 
-- Physical Health and Growth- Caregiver-reported child health measures included symptoms of fever, cough, and diarrhea in the last 2 weeks and the general health of the child. The latter was rated on a scale of 1 to 5, from &#39;&#39;very poor&#39;&#39; to &#39;&#39;very good&#39;&#39; from the Medical Outcomes.
+- Physical Health and Growth- Caregiver-reported child health measures included symptoms of fever, cough, and diarrhea in the last 2 weeks and the general health of the child. The latter was rated on a scale of 1 to 5 from the Medical Outcomes.
 - The Strengths and Difficulties Questionnaire was asked of children over age 10 and of the caregivers for all children caregiver report.
 - Learning Ability and Memory- Three subtests from the Kaufman Assessment Battery for Children-II (KABC-II)  were used to evaluate learning ability: sequential processing and short term memory; spatial relations and visual motor integration; and visual problem solving abilities were assessed using the Movements, Triangles, and Pattern Reasoning subtests
 

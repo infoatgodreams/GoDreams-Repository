@@ -829,6 +829,7 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
   - consolidated data provides details on what measures are being taken
 
 - ### Assessment Tools 
+- [^10]According to the POFO study, for physical health, - Physical Health and Growth- Caregiver-reported child health measures included symptoms of fever, cough, and diarrhea in the last 2 weeks and the general health of the child. The latter was rated on a scale of 1 to 5 from the Medical Outcomes.
 - 
 
 # Challenges & Ethical concerns
