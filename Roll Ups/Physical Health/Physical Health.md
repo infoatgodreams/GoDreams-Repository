@@ -91,7 +91,7 @@ In a literature review conducted for a study on morbidity in preschool children 
 	### Common Special Needs:
 - The most common special need was a learning disability (10.4% and 13.7% at any given point). Overall, 20.6% of all of the children had learning disabilities over the course of 3 years.
     - Other commonly reported conditions over the 3-year study period included 14.1% of children with emotional disturbance, 12.3% with speech impairment, 2.4% with mental retardation, 2.0% with hearing impairment, 1.3% with autism, and 1.2% with vision impairment.
--   According to a meta analysis on institutionalisation, they found significant physical development detriments in the lives of children in institutions, 
+-   According to a meta analysis on institutionalisation[^9], they found significant physical development detriments in the lives of children in institutions, 
 	- Dana Johnson and colleagues (Johnson et al., 1992) examined the medical condition of 65  previously institutionalized Romanian children who were adopted to the United States. 
 	- They found that only 15% of these children were  considered physically healthy at the time of adoption. Convergent evidence for this finding comes from the Romanian children adopted to Canada (Fisher et al., 1997).
 	-  In this sample, 85% of children had a reported medical problem
@@ -106,6 +106,22 @@ In a literature review conducted for a study on morbidity in preschool children 
 		- In another group of 16 Romanian children adopted to Canada, 50%  were below the 5th percentile for weight and  44% were below the 5th percentile for height (Benoit et al., 1996). Similarly, in the U.K
 		-  In the UK sample of Romanian adoptees, Rutter and the ERA Study Team (1998) reported that half of  the children had heights, weights, and head  circumferences below the 3 percentile.
 		-   In several studies growth retardation in height has been shown to be associated with the  length of time that children had spent in institutions (Ames, 1997; Johnson et al., 1992;  Rutter & the ERA Study Team, 1998). 
+- According to another review paper covering papers on institutional care in CCIs[^8], Common illnesses observed were 
+	- children having three or more parasites
+	- skin infections
+	- varicellazoster
+	- tuberculosis
+	- impetigo
+	- dentalissues
+	- ear/nose/throat problems
+	- respiratory infections
+	- diarrhoea
+- 10-31% of children had skin conditions or infections
+- 75% of children had an infection within the first three months of admission to a site(Kapavarapuetal.,2012)
+- Anemia prevelance ranged from 3-90%
+- 33% of children had low vitamin D
+- Common deficiencies were iodine, zinc, albumin , vitamin A and B
+- Edema, Conjunctival pallor, xerophthalmia and goiter were also found
 
 ### Common Infections:
 
@@ -258,3 +274,5 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 [^5]: [[Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI)]]
 [^6]: [[Morbidity profile of orphan children in Southern India]]
 [^7]: [[Special Health Care Needs Among Children in the Child Welfare System]]
+[^8]: [[The nutritional status of children living within institutionalized care _ a systematic review]]
+[^9]: [[The Impact of Institutionalization on Child Development_Kim Mclean]]
