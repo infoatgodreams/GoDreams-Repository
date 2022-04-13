@@ -266,6 +266,7 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 # Preventative Approaches
 ## Infection Control & Management 
 
+
 # Curative Approaches
 ## First Aid (just list the problems and one line)
 - Objectives
