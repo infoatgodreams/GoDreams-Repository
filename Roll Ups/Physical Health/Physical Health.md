@@ -159,6 +159,7 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 
 
 
+
 [^1]:  [[National School Health Policy, Kenya]]
 [^2]: [[Physical Health Handbook, Rainbow Homes]]
 [^3]: 
