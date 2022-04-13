@@ -263,6 +263,8 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - While sitting up a help program math existing resources including friendly doctors government dispensaries health centers hospitals, information on existing government schemes like free beds.
 - Maintain supportive network for reference financial aid and volunteer action
 
+# Preventative Approaches
+## Infection Control & Management 
 
 
 
