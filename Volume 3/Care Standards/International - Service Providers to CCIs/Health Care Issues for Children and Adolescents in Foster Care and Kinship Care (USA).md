@@ -63,7 +63,7 @@ Domain tags: [[Physical Health]]
 
 ### Permanency plan:
 
-- In addition to the initial health screen, experts recommend a comprehensive evaluation of each child&#39;s medical, dental, mental health, developmental, and educational needs within 30 days, resulting in a health plan that is shared with caregivers and child welfare professionals and integrated into the child&#39;s permanency plan.
+- In addition to the initial health screen, experts recommend a comprehensive evaluation of each child's medical, dental, mental health, developmental, and educational needs within 30 days, resulting in a health plan that is shared with caregivers and child welfare professionals and integrated into the child&#39;s permanency plan.
 - Continued communication with the child&#39;s caseworker is essential to ensure implementation of the child&#39;s health plan and its integration into the child welfare permanency plan.
 - In a system abundant with transitions and psychosocial stressors, it is recommended that children in foster care be seen monthly during the first 6 months of life, every 3 months from 6 to 24 months of age, and then at a minimum of every 6 months to monitor their health, emotional wellbeing, development, psychosocial stressors, continued adjustment to their foster family, and visitation with birth parents or other relatives.
 
