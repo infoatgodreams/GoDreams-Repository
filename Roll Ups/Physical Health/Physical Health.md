@@ -60,6 +60,7 @@ In a literature review conducted for a study on morbidity in preschool children 
 	- In many cases they have sexually transmitted infections mental health status is unknown depression and society and low self esteem or very common
 - In another study on the American foster care system, 
 	- Thirty percent to 60% of children in foster care have been estimated to have chronic health conditions. When behavioral, emotional, and developmental concerns are taken into consideration, the estimated proportion of foster children with serious health care needs jumps to ⬎80%.
+	- 
 
 
 ### Common Infections:
