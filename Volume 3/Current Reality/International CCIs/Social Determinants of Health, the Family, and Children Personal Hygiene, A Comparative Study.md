@@ -1,10 +1,10 @@
 ---
-title: Social Determinants of Health, the Family, and Children Personal Hygiene: A Comparative Study
-
+title: Social Determinants of Health, the Family, and Children Personal Hygiene A Comparative Study
 author: Daya
-
-tags: #globalresearch 
+tags:
+- globalresearch 
 ---
+Domain tags: [[Physical Health]] 
 
 # Brief:
 
