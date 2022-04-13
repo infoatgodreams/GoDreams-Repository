@@ -291,7 +291,75 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - Maintain supportive network for reference financial aid and volunteer action
 
 # Preventative Approaches
-## Infection Control & Management 
+## Preventive and promoters health programs include
+
+### Food and nutrition
+- Meal planning- helps provide adequate nutritional requirements
+- Diet should contain cereals pulses fruits vegetables milk products fat and oil
+- children should have high protein.
+- Provide sufficient iron rich food like meat, green leafy vegetables and eggs.
+- Minimize laws of nutrients by using sprouted grams and fermented food.
+- Use a pressure cooker to conserve nutrients.
+- Vegetables like potatoes should be boiled with skin and use iron utensils to cook food wash vegetables before cutting should avoid artificial preservatives.
+- Drink a lot of water.
+- Meal chart with structure and venue for all mails should be available for all.
+- Quality of food needs to be monitor on a regular basis
+
+### Food handlers
+
+- food handlers should wear caps should be vaccinated against typhoid and hepatitis
+- should have hand washing facilities available for them
+- trim nails use long handle ladles for food and water
+
+### Infrastructure and hygiene in the homes
+
+- Proper ventilation and lighting
+- Clean water supply from Government water board water tested every month and treated
+- Regular cleaning of bathrooms
+- Proper mechanism for waste disposal
+- Fumigation in the home.
+- Space to play
+- Encourage having pets
+
+### **Growth monitoring** to identify the children who need urgent intervention
+
+- This includes measuring weight and height calculation of body mass index- for BMI not down age of the child weight of the child in kg height of the child in cm. BMI is a number that indicates the person's weight in proportion to height
+- Height for age growth indicator that relieves height to a child's age
+- Wait for each growth indicator that reliefs weight to a child age
+- Plot measurements on growth charts
+- Know how to interpret scores based on average
+- Take actions in situation of growth faltering or or with diseases like TB
+- In cases of severe malnutrition provide special food for few months
+
+## Health education and health camps
+
+- To help children become aware of health in different ways to develop positive attitude towards health is individuals
+- To help become aware of appropriate health needs at a particular ages.
+- To encourage to learn decides skills and form decide habits about food exercise sleep rest and relaxation
+- To help children know and accept individual and collective responsibility for healthy living
+- To help children in still life skills and character building stress management sensory motor skills
+- To help being acquainted with nutritional requirements environmental hygiene sanitation and common diseases their prevention and control
+- To help children know the status of health identify health problems and be informed for taking appropriate remedial measures
+- To create awareness about rules of safety in hazardous situations to avoid accidents to be acquainted with first aid measures about common sickness
+- To teach correct postural habits
+- Help understand process of growing up during adolescence as well as about HIV drug abuse and issues around
+- Address physical psychosocial needs of differently abled children
+
+### Regarding the sessions
+
+- Health workers should be trained to handle the sessions
+- Issues related to sexual health are sensitive
+- Local NGO specializing on these issues could be invited as resource persons
+- Ensure maximum involvement of children and in the sessions make it interactive
+- Encourage health education sessions for parents who visit children
+
+### Health camp
+
+- Eye and dental check up could be organized that regular intervals
+- Government or local NGOs to be involved in delivering the services have the dates set in advance for the camp
+- Appropriate physical arrangement should be made
+- Ensure follow up of children who have been referred for further treatment
+
 ## Screening & Regular Checks
  #### Under 5 : Focus should be on
   - Physical health growth, diet, immunization, teeth,
