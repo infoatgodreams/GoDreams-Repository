@@ -67,12 +67,18 @@ Articles in the UN convention on the rights of the child relevant to the health 
 - Article 24 the right of any child to the enjoyment of the highest attainable standard of health and facilities for the treatment of illness and rehabilitation of health
 - Article 25 the right of a child placed by competent authorities for the purposes of care protection of treatment of his or her physical or mental health to a periodic review of the treatment provided to the child
 - Article 39 all appropriate measures to be taken to promote the physical and psychological recovery and social reintegration of a child victim of any form of abuse and neglect
+
+## Indian Rights Guaranteed
 - The constitution of India article 15 guarantee special attention to children through necessary and special laws in policies that safeguard their rights
   - The directive principles of State policy in India says the state shall endeavor to achieve social and economic welfare of the people by guarding the children against exploitation and moral degradation
 - National commission for protection of child rights march set up in 2007 ensure the policies programs and administrative mechanisms are in consonance with the child rights perspectives
 - The ICPS 2009 centrally sponsored scheme of women and child development to provide a safe and secure environment for children so that they do not become vulnerable to exploitation, neglect and abuse.
 - The spirit of all declaration goes beyond physical health of a child and talks about his overall being. The concept of well being is very important in a program for child health.
 - Children and young people need to develop healthy lifestyles and opportunities to achieve optimum health and well-being. This is a collective responsibility.
+
+## JJ Act 
+
+
 
 
 
