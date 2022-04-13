@@ -22,6 +22,14 @@ Global comparison
 Domestic comparison
 Ethical Issues 
 
+# Current realities in institutional settings
+In a literature review conducted for a study on morbidity in preschool children in institutions in Kenya, we find out that [^3]
+- Prevailing conditions in orphanages may predispose children to increased prevalence of malnutrition and infectious diseases like diarrhoea and respiratory tract infections. Unavailability of safe and nutritious foods in orphanage set up and access to safewater are likely to lead to increase levels of malnutrition among children. (Page 22) 
+- However, studies have established that most caregivers lack nutrition awareness and that once a child reaches preschool age, caregivers divert their attention from the children to other matters and care giving becomes a secondary issue. Thus, the nutrition needs are neglected (Mile,Milena and Biljana, 2013). (Page 26)
+- Child malnutrition is associated with susceptibility to infection and as a result many children are more likely to be prone to common childhood ailments such as diarrhoea and respiratory infections; and for those who survive, frequent illness affects their nutrition status due to lowered resistance to infections (Page 27)
+- Various studies have shown that illness among children in orphanages is higher (30%) especially diarrheal disease compared with 7 % in non-orphanage children. It has also been shown that more boys are usually stunted with high morbidity rates than girls (Page 28)
+- In a study carried out in Botswana (Misra & Bignami, 2008) it was found that children in orphanages were 49% more likely to be underweight than non-orphanage children. The findings concurred with those of Lindblade et al. (2003) in Malawi where it was demonstrated that the prevalence of malnutrition in children in orphanages (below 6 years old) was 55% compared with 30% of non-orphanage children. (Page 29)
+
 # Rights Bases Approach to Health 
 [^1]
 According to the Kenyan Government, health needs to take a rights based approach
@@ -162,4 +170,5 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 
 [^1]:  [[National School Health Policy, Kenya]]
 [^2]: [[Physical Health Handbook, Rainbow Homes]]
-[^3]: 
+[^3]: [[Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya]]
+[^4]: 
