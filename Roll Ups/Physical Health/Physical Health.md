@@ -19,6 +19,7 @@ Curative approaches
 JJ Act Guidelines for Physical Health 
 Assessment tools
 Global comparison 
+Domestic comparison
 
 # Rights Bases Approach to Health 
 [^1]
