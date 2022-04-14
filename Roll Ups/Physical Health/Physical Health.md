@@ -112,7 +112,7 @@ In a literature review conducted for a study on morbidity in preschool children 
 - **Lack of proper certified and approved measurement tools**. The uncertainty abounding in the efficiency of these organisations, especially in third world countries, have led researchers to devise proxy indicators for estimating efficiency and quality through assessment of health status, among other indicators, of the residents. Valid measures, required for planning promotional measures for the welfare of orphaned children, requires reliable data on their health and nutrition status. Such data was grossly deficient from different parts of the country, more so from South India.
 
 
-# Challenges to existing data 
+# Challenges in existing data 
 According to a study conducted by the Duke Public Health Centre[^10], 
 - Policy documents and legislation related to the care of children in institutions frequently cite studies of children who as infants lived in socially and emotionally deprived institutions in Romania and Russia.
   - These studies demonstrated powerful negative effects on the infant brain and child development .
@@ -162,13 +162,13 @@ Articles in the UN convention on the rights of the child relevant to the health 
 - Article 25: the right of a child placed by competent authorities for the purposes of care protection of treatment of his or her physical or mental health to a periodic review of the treatment provided to the child
 - Article 39: all appropriate measures to be taken to promote the physical and psychological recovery and social reintegration of a child victim of any form of abuse and neglect
 
-## Indian Rights Guaranteed
+## Indian Rights & Systems
 - The constitution of India article 15 guarantee special attention to children through necessary and special laws in policies that safeguard their rights
   - The directive principles of State policy in India says the state shall endeavor to achieve social and economic welfare of the people by guarding the children against exploitation and moral degradation
 - National commission for protection of child rights march set up in 2007 ensure the policies programs and administrative mechanisms are in consonance with the child rights perspectives
 - The ICPS 2009 centrally sponsored scheme of women and child development to provide a safe and secure environment for children so that they do not become vulnerable to exploitation, neglect and abuse.
 
-## JJ Act 
+### JJ Act 
 
 
 # Models of Health Care- An International and Domestic Comparison
@@ -200,7 +200,7 @@ Rainbow[^2] Homes has documented different national standards for children in in
   - health assessments must be taken twice a year annually for children and young people under five years
   - Balance the sensitive and confidential nature of the child and young persons health information
 
-## Models of Care in Indian institutions
+## Comparison of Models of Care in Indian institutions
 
 Rainbow[^2] Homes has documented different institutional standards for other domestic service providers to CNCP in India
 
