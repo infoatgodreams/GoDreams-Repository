@@ -6,28 +6,6 @@ tags:
 
 
 
-Rights based approach to health 
-Common Diseases 
-Stakeholders & responsibilities 
-Age based checks
-Assessment tools 
-Infection Control and Management
-Food & Drinking Water Safety
-Outdoor Safety
-Healthy Living 
-Immunization
-Preventative approaches 
-Curative approaches  
-JJ Act Guidelines for Physical Health 
-Assessment tools
-Global comparison 
-Domestic comparison
-Ethical Issues 
-Problems in institutional settings
-
-Condition --- Definition-- Prevalence--Points --Recommendation-- Assessment 
-
-
 # Health Risks of Institutional Care
 
 # Nutrition & Growth 
@@ -817,30 +795,29 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
   - consolidated data provides details on what measures are being taken
 
 - ### Assessment Tools 
-- [^10]According to the POFO study, for physical health, - Physical Health and Growth- Caregiver-reported child health measures included symptoms of fever, cough, and diarrhea in the last 2 weeks and the general health of the child. The latter was rated on a scale of 1 to 5 from the Medical Outcomes.
--  For the Kenyan study on morbidity status of children in institutions, 
-	- - A structured researcher-administered questionnaire for caregivers was the main data-collection tool. It was used to collect socio-demographic data, dietary intake, healthcare practices and anthropometric data. An observation checklist and Key InformantInterview (KII) guide were used to gather information on experiences and challenges on dietary practices, health care, water, hygiene, sanitation and other concerns relevant to the study about children in orphanages. (Page 39)
+- [^10]**According to the POFO study**, for physical health, - Physical Health and Growth- Caregiver-reported child health measures included symptoms of fever, cough, and diarrhea in the last 2 weeks and the general health of the child. The latter was rated on a scale of 1 to 5 from the Medical Outcomes.
+**-  For the Kenyan study on morbidity status of children in institutions,** 
+	- A structured researcher-administered questionnaire for caregivers was the main data-collection tool. It was used to collect socio-demographic data, dietary intake, healthcare practices and anthropometric data. An observation checklist and Key InformantInterview (KII) guide were used to gather information on experiences and challenges on dietary practices, health care, water, hygiene, sanitation and other concerns relevant to the study about children in orphanages. (Page 39)
 	- Data on dietary practices was collected using a 7 day food frequency questionnaire and a 24-hour food recall. Anthropometric data was collected using SECA scale and paediatric height board. (Page 39)
 	- Water and Hygiene practices were assessed by collecting information on whether there was availability and accessibility of water for drinking and washing hands, frequency of brushing teeth and bathing, availability of latrines/ toilets or bathrooms and human waste disposal. Caregivers who reported bathing the children daily were rated as having good bathing hygiene while those who bathed children four to six times a week and less than four times a week were rated as having adequate and poor bathing hygiene respectively (UNICEF, 2009c). (Page 42)
 	- Furthermore, when less than 40 children share one latrine is usually considered fair, forty to one hundred children using one latrine is classified bad and 100 children sharing a single latrine is dangerous (Page 28)
 	- Respondents were to try to remember everything they fed the child and were provided with household measures used in the institution while feeding children. These household measures included; cups, plates, jugs, metallic containers and spoons.Caregivers were asked to measure total amounts of food served and total amounts eaten. These amounts were measured and converted into weights measurements. All the ingredients in the meals and their weights were recorded. Food models and pictures were used to help respondent judge and report portion size. (Page 44)
--  For the study in Southern India on morbidity profiles, 
-	- - The questionnaire was developed to yield demographic and morbidity-related information about the participants.
+**-  For the study in Southern India on morbidity profiles,** 
+	- The questionnaire was developed to yield demographic and morbidity-related information about the participants.
 	- Details related to the number of days a child was suffering from the present condition, number of episodes of illnesses in the past one year, number of times adequate treatment was offered, and place of treatment were collected.
-	- Anthropometric examination was conducted for each participant and recorded.
+	**- Anthropometric examination was conducted for each participant and recorded.**
 	  - **Weight:** Weight was recorded to the nearest multiple of 10 grams using an electronic weighing balance, Tanita HD −318 digital weighing scales (Tanita Corporation, Tokyo, Japan). Each participant was weighed with minimum clothing and without shoes, standing upright with arms hanging by the sides.
 	  - **Height** : Height was recorded to the nearest centimetre (cm) using a non-flexible fibreglass tape, Seca 206 mechanical measuring tape (Seca, GmBH and Co Kg, Hamburg, Germany). The respondent was asked to stand upright on a firm level ground, against a flat vertical surface without shoes.
 	  - **BMI calculation:** The body mass indices of the participants were calculated in kg/m2 based on the measured weight and height and were plotted on separate BMI charts for boys and girls
 	  - **Clinical assessment:** The condition of skin, eyes, hair, gums, nails and thyroid gland was observed for clinical assessment of nutritional deficiencies. Systemic examination for reported morbidities was conducted according to the hospital protocols of Mediciti Hospital.
 - According to a paper on Special Needs[^7], Indicators for Chronic health conditions and Special Needs 
 	- NSCAW includes 2 indicators of SHCNs: the presence of a chronic health condition and the presence of special needs. Each of these indicators is based on a caregiver report.
-	- #### Chronic Health Conditions: 
+	- ##### Chronic Health Conditions: 
 		- At each interview, caregivers were asked whether their child had any health problems that last a long time or come back again and again. If yes, caregivers were asked to name them. Caregivers could report ⬎1 problem. For the chronic health condition questions, the wording denoted a chronic health condition prevalent at the time of the interview
-	- #### Special Needs: 
-		- At each interview, caregivers were asked if they had ever been told by an educational or health professional, or told since the last interview, that their child has &quot;learning problems, special needs or developmental disabilities. 
+	- ##### Special Needs: 
+		- At each interview, caregivers were asked if they had ever been told by an educational or health professional, or told since the last interview, that their child has & learning problems, special needs or developmental disabilities. 
 		- If yes to either of these questions, caregivers were asked to describe these problems. The special needs questions in NSCAW were designed to correspond with disability categories under the Individuals With Disabilities Act.
 - #### Assessing Maltreatment characteristics:
-
 	- The most serious type of maltreatment was assessed by asking the caseworkers the following question in the baseline interview: Of the types of abuse or neglect that were reported, please tell me the type that you felt was the most serious (physical maltreatment, sexual maltreatment, emotional maltreatment, physical neglect (failure to provide), neglect (lack of supervision), abandonment, moral/legal maltreatment, educational maltreatment, exploitation, and other)
 	  - For the majority of children, the main type of maltreatment was neglect (lack of supervision: 25.2%; failure to provide: 18.0%), followed by physical abuse (25.2%).
 
