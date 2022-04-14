@@ -537,21 +537,23 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - prevention- personal hygiene and careful hand washing during food preparation after using toilet and before eating
 
 ### Jaundice
-
+#### Causes & Identification
 - like diarrhoea or cough is a sign not a disease
 - can have many different causes
 - a common and mild cause of jaundice is a form of hepatitis spread through food and water
 - how to identify -white part of the eyes become yellowish, urine also turns dark yellow
 - Stools may be chalk in colour
+#### Treatment & Prevention
 - will require a similar care to that in typhoid specific
 - danger signs- abdominal pain, change level of consciousness or bleeding from anywhere
 - prevention- hygiene and careful handwashing during food preparation of before toilet using and before eating
 - hepatitis A vaccine is available and can be considered but it is expensive
 
 ### Epilepsy
-
+#### Causes & Identification
 - Neurological problem characterised by seizures, or fits- sudden episodes of brief repetitive abnormal movements or behaviour along with change in consciousness
-- Identification- are usually noted by caregivers or teachers. They may note periods of inattention in class, full fledged loss of consciousness,
+- Identification- are usually noted by caregivers or teachers. They may note periods of inattention in class, full fledged loss of consciousness
+#### Treatment & Prevention
 - All children with seizures must be referred to a doctor and investigated
 - precautions - advice in the child not swim, climb height or lock the bathroom doors
 - all carers must know about the child condition and to manage seizures
@@ -561,30 +563,35 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 
 ### Scabies
 
+#### Causes & Identification
 - how to identify -severe itching with the rash, especially in the web spaces of fingers, toes under arms,
+#### Treatment & Prevention
+
 - what to do- overnight application of Gamma benzene hydrochloride or permethrin over the entire body from neck downwards after a thorough scrub bath.
 - The clothes bed linen struggles of the child should be boiled
 - the child may need to be prescribed Cetrezine for itching effects
 - Prevention- good personal hygiene
 
 ### Lice
-
+#### Causes & Identification
 - Louse an infestation of the hair ; is also very contagious
 - How to identify- lice- cause itching of the scalp and can often be seen over the hair close to the scalp
+#### Treatment & Prevention
 - what to do with combing with a fine tooth comb and applications of Permethirin a week apart specific danger sign- if itching still persist after treatment when the child should be shown to the doctor
 - prevention includes good personal hygiene
 
-## Drug formulary
+## Prescribing drugs
+
+### Drug formulary
 
 - Essential component of any health program
 - based on objective types of personnel available and the public health perspective of the program
 - Formulary does not deny the doctor right to make any special prescription
-- nly details what will be regularly kept in stock, it may change with specific locally needs
+- Only details what will be regularly kept in stock, it may change with specific locally needs
 - but this should be done after consultation with the advisory committee
 - preferable to use generic medicines since its readily available
 - this formulary has been created keeping children over 5 years in mind
 - the health workers require extensive preliminary and refresher training as well as a supportive material
-- A formulary of drugs is on Pg- 58-61
 
 ### Drugs for local use
 
