@@ -765,7 +765,7 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
   - The IRO should, as part of the child's case review, note any actions and updates to ensure that the health plan continues to meet the child's needs.
   - The IRO should be proactive in bringing any deficiencies in the quality of the health plan or its delivery to the attention of the appropriate level of management within the local authority, using the local dispute resolution process if necessary
   - IROs should always ensure that looked-after children are involved in the review of their care plan and its component parts, and have their wishes and feelings heard and respected.
--
+
 ## Primary care teams (General Practitioners, health professionals, named professionals):
 
   - Staff working with looked-after children who are delivering health services should make sure their systems and processes track and focus on meeting each child's physical, emotional and mental health needs without making them feel different. They should in particular:
@@ -784,9 +784,8 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
     - coordinate the provision of local health services for individual looked-after children and the input into health assessments and their reviews for individual looked-after children
     - ensure the timeliness and quality of health assessments for looked-after children and ensure actions taken to implement the health care plan are tracked
     - act as a key conduit and contact point for the child and their carer, where they have difficulties accessing health services.
--
-## Virtual school heads (VSHs) and designated teachers:
 
+## Virtual school heads (VSHs) and designated teachers:
   - Maintained schools and academies are required to have a designated teacher for looked after children. Given the interrelationship between health and education outcomes, social workers should ensure that the authority's VSH and the designated teacher for looked-after children are aware of information about the child's physical, emotional or mental health that may have an impact on his or her learning and educational progress
 
 # Maintaining Health Records
