@@ -615,19 +615,17 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
   - can be used frequently before meals and naps
 - Thermometer, torch, weighing machine, tape,
 
-## Human resource structure roles responsibilities and monitoring mechanism
-In Rainbow Homes, 
+# Stakeholders & Responsibilities
+At Rainbow Homes, 
 
-### Structure
+## Structure
 - A home should ideally have two health workers, one home coordinator, house mothers and peer groups
 - there should also be an advisory committee who makes decisions
 - the health workers need to be connected to a panel of doctors including paediatricians,opthamologist,dentist, ENT specialist, gynaecologist Ayush specialist and one counselor
 - the home also needs to be connected to a panel of institutions including government dispensary, a secondary level government hospital. and any other public institution providing services under National health program
 
-### Roles and responsibilities
-
+## Roles and responsibilities
 ### Health worker
-
 - Play a central role in the health assessment of the child making the health plan implementing the plan and review the health of every child
 - Ensure proper first aid in cases of accidents burns epilepsy before referral to a medical facility
 - Effectively handle emergency cases that need immediate medical attention and cases of infectious diseases at the level of the phone and decide reference case by case
@@ -651,7 +649,6 @@ In Rainbow Homes,
   - Drill on hygiene - daily
 
 ### House mothers
-
 - Responsibility of a specific group of children would be assigned to them
 - With respect to health of a child she should look after the overall well being and happiness
 - Monitor hygiene hair nail skin of every child on a daily basis and if clothes are wash regularly
@@ -659,19 +656,16 @@ In Rainbow Homes,
 - Hello the care of the sick child as instructed by the health worker
 
 ### Home Coordinator
-
 - Monitor the workings of all system with the help of other staff members
 - On the arrival of a child ensure that they are given a welcome kit including home toothbrush soap towel and at least two sets of clothes every child should have his or her locker mattress to bed sheets and one quilt
 - SS program matic trends and bottlenecks and offer appropriate suggestions
 - Post surgery the home coordinate a must and sure that there is a 24 hour attendy with the child
 
 ### Panel of Doctors
-
 - Protocol for the paediatricians visit must be specified paediatrician must be available during health assessment making of the health plan of new entrance and during review of all children
 - Paediatrician could make a visit to the home 16 months for a general check up but paediatrician should visit once in a month for cases that require specific attention
 
-### Monitoring Mechanism
-
+## Monitoring Mechanism
 - Monitor water sanitation and cleanliness of the home
 - Be conscious of the number of children who need medical attention on a given day
 - Be watchful that the daily drill examination every child is taking place
@@ -679,27 +673,25 @@ In Rainbow Homes,
 - Hold meetings between health workers, house mothers and other staff members once a week to look into the operation issues of the help program. View the files of children with a non going medical problem.
 
 ## Training and capacity building
-
 - Health workers should at least finish 12th standard and be able to fill records adequately
-#### Training of the health workers
+
+### Training principles
 - Include hands on exercises relating to early identification of dangerous signs and use of drugs
 - Create awareness on violence gender sensitivity sexuality understanding right to consent and privacy
 - Each issue must be dealt with the following approach: general information about the topic, special relationship with health of street children, preventing route causes, early identification, primary care at the level of the health worker, danger signs, and when to refer, how to follow up
 
 ### Induction Training
-
 - Minimum time requirement is 6 full days of residential training including the following topics
 - Health and well being the public health perspective the systemic and social determinants view concept of well being lifecycle approach the culture of the program
 - Role of a health worker and overview of decide attitudes in tasks of a health worker
 - Special training should include dealing with the sick child He diagnosis treatment follow up special reference to danger science emergency care for state dealing with epidemics knowledge on relevant immunization knowledge on drugs and handling medicines training and equipment use nutrition and growth monitoring dealing with mild moderate and severely children and I problems how to organise check up training and documentation and record keeping conducting daily inspection
 - Daily inspection checklist
-- Children sick and Happy child nails overall hygiene
-- Kitchen hand washing facilities utensils food safety nails hair nets
-- Toilets hand washing facility flush sanitary napkin disposal
-- Garbage disposal areas
+	- Sick & Healthy children, focus on overall hygiene
+	- Kitchen hand washing facilities utensils food safety nails hair nets
+	- Toilets hand washing facility flush sanitary napkin disposal
+	- Garbage disposal areas
 
 ### Post- Induction Monthly Session
-
 - Dealing with disability Indian context and common disabilities in children experiences and social attitude towards it early identification and dealing with disabilities at the home
 - Food and nutrition nutrition and meal planning food safety food preparation and food handling
 - Use of home remedies for common illnesses
