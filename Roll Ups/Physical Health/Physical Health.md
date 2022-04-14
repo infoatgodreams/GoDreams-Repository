@@ -616,7 +616,7 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - Thermometer, torch, weighing machine, tape,
 
 # Stakeholders & Responsibilities
-At Rainbow Homes, 
+# At Rainbow Homes
 
 ## Structure
 - A home should ideally have two health workers, one home coordinator, house mothers and peer groups
@@ -698,7 +698,8 @@ At Rainbow Homes,
 - Issues relating thing to home environment and other systems clean water and waste disposal fumigation at intervals space for playground
 - Health education life skills that children need to acquire training on sex education personal care related issues substance abuse
 
-# Organisations and individuals involved in supporting looked-after children: [^11]
+# Community Systems in the UK
+[^11]
 ## Clinical Commissioning groups (CCGs):
 
   - CCGs are the main commissioners of health services. CCGs should ensure:
