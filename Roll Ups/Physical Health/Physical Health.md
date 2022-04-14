@@ -111,7 +111,7 @@ In a literature review conducted for a study on morbidity in preschool children 
 	- 33% of children had low vitamin D
 	- Common deficiencies were iodine, zinc, albumin , vitamin A and B
 	- Edema, Conjunctival pallor, xerophthalmia and goiter were also found
-- #### Common Infections observed in orphanaged children
+- Common Infections observed in orphanaged children
 	- **Skin Infections:** Skin infections were reported most commonly followed by common cold and fever. A previous study done on orphans in the Southern state of Tamil Nadu similarly reported high prevalence of skin infections including pediculosis (25%) and oro-dental problems including dental caries (50%).
 	- **Eye Infections:** Infections of the eye were the lowest in prevalence. Similar prevalence of ear conditions was also reported. They however, also reported ophthalmic problems including Bitots spots which we did not find in our population.
 	- **Diarrheal disease and Respiratory Infections:** Some studies done on children residing in urban slums where prevalence of diarrheal disease and respiratory infections has been reported to be higher than our population
@@ -402,6 +402,8 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
   - Adhesive bandage
   - Gauze bandages
   - Elastic bandage cotton wool disposable surgical gloves scissors tweezers soap safety pin torch
+
+### First Aid Safety Protocols
 - Safety protocol should be in place for residential homes to deal with following conditions
 	- Minor cuts & Bleeding: Aim is to prevent blood loss and minimize the shock that could result from bleeding
 	- Nose Bleeding
