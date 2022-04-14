@@ -67,13 +67,10 @@ In a literature review conducted for a study on morbidity in preschool children 
 	- Yuva studies show that children on the streets have higher incidence of trauma related injuries, development delays, sinusitis, anaemia and asthma, eczema, visual and neurological deficits as well as other disabilities.
 	- Run away youth are its significant risk of violence and victimisation including substance abuse, pregnancy and sexually transmitted diseases
 - In another study on the American foster care system[^7], 
-	- Thirty percent to 60% of children in foster care have been estimated to have chronic health conditions. When behavioral, emotional, and developmental concerns are taken into consideration, the estimated proportion of foster children with serious health care needs jumps to ⬎80%.
-	- Caregivers reported that 50.3% of the children had less than or equal to 1 SHCN at some point during the 3-year study period.
-	- At baseline, 35.1% of children were reported to have had SHCNs. Thirty-one percent were reported to have had SHCNs at the 1.5-year follow-up, and 33.5% were reported to have had SHCNs at the 3.0-year follow-up.
-	- Boys were significantly more likely than girls to have had SHCNs, and children aged 0 to 2 years at baseline were significantly less likely to have had SHCNs than older children.
-	- Adopted and foster children were significantly more likely to have had SHCNs than children in other living arrangements.
-	- Overall, 56.1% of children with either form of SHCN had 1 or less than 1 of the 7 developmental problems
-	- Especially high rates of SHCNs in this target population seem to stem from the preponderance of developmental and behavioral needs. Children in the CWS show much higher rates of special needs than children in the general US population.
+	- 30% to 60% of children in foster care have been estimated to have chronic health conditions. When behavioral, emotional, and developmental concerns are taken into consideration, the estimated proportion of foster children with serious health care needs jumps to ⬎80%.
+	- Boys were significantly more likely than girls to have had SHCNs(Special Health Care Needs)
+	- **Adopted and foster children** were significantly more likely to have had SHCNs(Special Health Care Needs) than children in other living arrangements.
+	- Children in the CWS show much higher rates of special needs than children in the general US population.
 	- Our data suggest that the children with SHCNs in this sample were at substantially high risk for a variety of cognitive and behavioral impairments.
 	- NSCAW includes 2 indicators of SHCNs: 
 - the presence of a chronic health condition and the presence of special needs
