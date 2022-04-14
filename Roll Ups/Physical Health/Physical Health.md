@@ -698,10 +698,9 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - Issues relating thing to home environment and other systems clean water and waste disposal fumigation at intervals space for playground
 - Health education life skills that children need to acquire training on sex education personal care related issues substance abuse
 
-# Community Systems in the UK
+# Community Health Systems in the UK 
 [^11]
 ## Clinical Commissioning groups (CCGs):
-
   - CCGs are the main commissioners of health services. CCGs should ensure:
     - they can access the expertise of a designated doctor and nurse for looked-after children. Where a designated professional is employed by a different NHS organisation, this will need to be set out in a local agreement.
     - When looked-after children move placement or move into another CCG area and are currently receiving, or on a waiting list for, health services, their treatment continues uninterrupted. Looked-after children should be seen without delay or wait no longer than a child in a local area with an equivalent need who requires an equivalent service. The length of a placement should not affect a child's access to services.
