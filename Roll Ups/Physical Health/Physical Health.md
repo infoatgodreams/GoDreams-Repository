@@ -158,7 +158,6 @@ According to the Kenyan Government, health needs to take a rights based approach
 	- Measures to discourage negative cultural beliefs and practices that support child marriages, child labour and Female Genital Mutilation
   
 	#### Participation Rights :
-
 	- Children are entitled to the freedom to express opinions and to have a say in matters affecting their social, economic, religious, cultural and political life.
 	    - Participation rights include the right to express opinions and be heard, the right to information and freedom of association.
         - As such school children shall be allowed to actively participate in all appropriate fora to express their opinions in matters affecting their health and education
@@ -183,7 +182,8 @@ Articles in the UN convention on the rights of the child relevant to the health 
 
 ## Global Comparison of Health Standards in Residential Care 
 
-Rainbow[^2] Homes has documented different national standards for children in institutional care across multiple countries 
+Rainbow[^2] Homes has documented different national standards for children in institutional care across multiple countries.
+
 ### India
 - No documented protocols on health standards for children in India. 
 - In India we have to have to build standards with specific understanding of children were homeless when developing health protocols for them. Set of underpinning principles on which services should be based as well as outline some key standards that need to be implemented
@@ -228,11 +228,11 @@ Rainbow[^2] Homes has documented different institutional standards for other dom
 ### Health models in Rainbow Homes for street children Kolkata
 
 - Run by Loreto convent Kolkata
-- Use rainbow homes on their top floors
+- Use Rainbow homes on their top floors
 - Model where rainbow children are integrated into mainstream school and loreto convent School children participate in rainbow home programs
 - A nurse is present throughout.
 - Hygiene and quality of food is good
-- Regular I eye and dental check up, no routine documentation
+- Regular eye and dental check up, no routine documentation
 - Every child case history e and medical services availed are file in referral slips, doctor slips and prescriptions
 - Contact is maintained with family and once a month there is a mandatory meeting between children and parents
 
@@ -255,29 +255,27 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - While sitting up a help program math existing resources including friendly doctors government dispensaries health centers hospitals, information on existing government schemes like free beds.
 - Maintain supportive network for reference financial aid and volunteer action
 
-# Preventative Approaches
-## Preventive and promoters health programs include
+# Preventative Approaches to Health
 
-### Food and nutrition
+## Food and nutrition
 - Meal planning- helps provide adequate nutritional requirements
 - Diet should contain cereals pulses fruits vegetables milk products fat and oil
 - children should have high protein.
 - Provide sufficient iron rich food like meat, green leafy vegetables and eggs.
-- Minimize laws of nutrients by using sprouted grams and fermented food.
+- Minimize loss of nutrients by using sprouted grams and fermented food.
 - Use a pressure cooker to conserve nutrients.
 - Vegetables like potatoes should be boiled with skin and use iron utensils to cook food wash vegetables before cutting should avoid artificial preservatives.
 - Drink a lot of water.
 - Meal chart with structure and venue for all mails should be available for all.
 - Quality of food needs to be monitor on a regular basis
+- Skipping breakfast during childhood has been associated with malnutrition and may also have an adverse effect on cognitive function, academic performance, psychosocial function and mood in children and young people (Page 81)
 
-### Food handlers
-
+## Food handlers
 - food handlers should wear caps should be vaccinated against typhoid and hepatitis
 - should have hand washing facilities available for them
 - trim nails use long handle ladles for food and water
 
-### Infrastructure and hygiene in the homes
-
+## Infrastructure and hygiene in the homes
 - Proper ventilation and lighting
 - Clean water supply from Government water board water tested every month and treated
 - Regular cleaning of bathrooms
@@ -285,9 +283,9 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - Fumigation in the home.
 - Space to play
 - Encourage having pets
+- Hand washing is effective in minimizing incidence of diseases such as cholera and diarrhoea among children. It also reduces deaths from diarrhoea and acute respiratory infections by almost half and one quarter respectively (Page 28)
 
-### **Growth monitoring** to identify the children who need urgent intervention
-
+## **Growth monitoring** to identify the children who need urgent intervention
 - This includes measuring weight and height calculation of body mass index- for BMI not down age of the child weight of the child in kg height of the child in cm. BMI is a number that indicates the person's weight in proportion to height
 - Height for age growth indicator that relieves height to a child's age
 - Wait for each growth indicator that reliefs weight to a child age
@@ -295,9 +293,9 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - Know how to interpret scores based on average
 - Take actions in situation of growth faltering or or with diseases like TB
 - In cases of severe malnutrition provide special food for few months
+- The orphanage’s management in conjunction with the Ministry of Health should carry out monthly growth monitoring to detect early onset of malnutrition among children 6-59 months of age for timely intervention to reduce on cases of malnutrition. (Page 96)
 
 ## Health education and health camps
-
 - To help children become aware of health in different ways to develop positive attitude towards health is individuals
 - To help become aware of appropriate health needs at a particular ages.
 - To encourage to learn decides skills and form decide habits about food exercise sleep rest and relaxation
@@ -310,55 +308,47 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - Help understand process of growing up during adolescence as well as about HIV drug abuse and issues around
 - Address physical psychosocial needs of differently abled children
 
-### Regarding the sessions
+	### Regarding the sessions
 
-- Health workers should be trained to handle the sessions
-- Issues related to sexual health are sensitive
-- Local NGO specializing on these issues could be invited as resource persons
-- Ensure maximum involvement of children and in the sessions make it interactive
-- Encourage health education sessions for parents who visit children
+	- Health workers should be trained to handle the sessions
+	- Issues related to sexual health are sensitive
+	- Local NGO specializing on these issues could be invited as resource persons
+	- Ensure maximum involvement of children and in the sessions make it interactive
+	- Encourage health education sessions for parents who visit children
 
-### Health camp
-
+## Health Camps
 - Eye and dental check up could be organized that regular intervals
 - Government or local NGOs to be involved in delivering the services have the dates set in advance for the camp
 - Appropriate physical arrangement should be made
 - Ensure follow up of children who have been referred for further treatment
+- Deworming has health benefits in children as worms impact negatively on the mental and physical development of children. Ample evidence have shown that deworming has a significant impact on health, education and livelihoods of treated children (Page 87)
+	- - Outcomes of deworming include decreased anaemia and improves nutrition, increases growth and weight gain, improves cognition and mental and physical development, increases resistance to other infections, supports more frequent school attendance, improves children’s ability to learn better and be more active in (Page 87)
 
 ## Emphasis on Caregiving
-- Hand washing is effective in minimizing incidence of diseases such as cholera and diarrhoea among children. It also reduces deaths from diarrhoea and acute respiratory infections by almost half and one quarter respectively (Page 28)
-- The same study showed that among children in orphanages, 64% were stunted compared with 46% of the non- (Page 29)
-- 16 orphanage children. In addition, girls in orphanages were more likely to be malnourished than boys. (Page 30)
-- Research has demonstrated that positive interaction between a child and a caregiver significantly impacts the development of the brain (Page 31)
 - Involvement of the community by supporting the running of the orphanages through both participatory and material support was viewed as long term solution to these problems. Participatory support would help in maintaining good discipline, moral values and life skills of the children and material support would ensure that their basic needs (health status and nutrition well-being) are met. (Page 55)
 - The number of children served by each caregiver is critical to higher quality care.Poor caregiver to child ratio not only inhibits social interaction, but also influences the way caregiver responds to the needs of the children. Although young children in group care often fail to thrive, tend to be sickly and often demanding of attention; provision of supportive and stable caregiver to child relationships is of paramount importance (Page 75)
-- Skipping breakfast during childhood has been associated with malnutrition and may also have an adverse effect on cognitive function, academic performance, psychosocial function and mood in children and young people (Page 81)
-- Deworming has health benefits in children as worms impact negatively on the mental and physical development of children. Ample evidence have shown that deworming has a significant impact on health, education and livelihoods of treated children (Page 87)
-- Outcomes of deworming include decreased anaemia and improves nutrition, increases growth and weight gain, improves cognition and mental and physical development, increases resistance to other infections, supports more frequent school attendance, improves children’s ability to learn better and be more active in (Page 87)
-- The orphanage’s management in conjunction with the Ministry of Health should carry out monthly growth monitoring to detect early onset of malnutrition among children 6-59 months of age for timely intervention to reduce on cases of malnutrition. (Page 96)
-- The orphanages’ management should intensify the supervision of children during meal times to ensure adequate dietary intake and inclusive consumption of food. A watchful eye and gentle warning can save children from malnutrition caused by poor dietary intake. (Page 96)
 
 ## Screening & Regular Checks
- #### Under 5 : Focus should be on
+### Under 5 : Focus should be on
   - Physical health growth, diet, immunization, teeth,
   - Experience of caring relationships and emotional well being
   - Monitoring development and milestones with respect to speech, language, motor skills. mission and hearing play pre literacy skills social and self help skills
 
-- #### Middle years 5 to 10 years:Focus should be on
+### Middle years 5 to 10 years:Focus should be on
   - physical health and management of specific health conditions, growth monitoring, communication skills, selfcare ability to make relationships and to relate to peers,
   - mental and emotional health including depression, exercise, balance diet,
   - progress at School, awareness of basic safety issues,
   - cope with physical and emotional changes associated with puberty,
   - access to accurate and simple information about sexual activity immunization dental health experience of caring relationships
-
-- ### Adolescence and leaving care 11 to 18 years
+ 
+### Adolescence and leaving care 11 to 18 years
   - Ability to take responsibility for own health including management of specific health conditions communication and interpersonal skills education and social progress lifestyle including diet and physical activity
   - ensuring immunization are up-to-date mental and emotional health including depression understanding of issues relating to sexual and sexual activity
   - access to information and advice about health issues including this of alcohol and substance use to
   - have a full copy of the social care health records
 
-### Health Planning, Implementation and Review
 
+## Health Planning, Implementation and Review
 - Report should be brought out for every child after assessment to draw out health plan
 - If there is a history of abuse if child is malnourished then it calls for immediate interventions
 - Health worker should be aware of health plan of every child and must have a checklist of interventions and actions that need to be taken
@@ -368,7 +358,6 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - For children who leave the home staff should get in touch with the child or family to ensure steps are taken according to the plan
 
 ### Contents of individual health file
-
 - General assessment the child's detailed history
 - Physical health assessment and medical records
 - Psychosocial assessment
@@ -377,9 +366,8 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - Health plans and reviews
 
 
-
-# Curative Approaches
-## First Aid (just list the problems and one line)
+# Curative Approaches to Health
+## First Aid 
 - Objectives
   - To preserve life
   - To prevent further injury and deterioration of the condition
