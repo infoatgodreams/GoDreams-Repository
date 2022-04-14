@@ -323,7 +323,7 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - Help understand process of growing up during adolescence as well as about HIV drug abuse and issues around
 - Address physical psychosocial needs of differently abled children
 
-	### Regarding the sessions
+	### Training Sessions
 
 	- Health workers should be trained to handle the sessions
 	- Issues related to sexual health are sensitive
@@ -344,19 +344,19 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - The number of children served by each caregiver is critical to higher quality care.Poor caregiver to child ratio not only inhibits social interaction, but also influences the way caregiver responds to the needs of the children. Although young children in group care often fail to thrive, tend to be sickly and often demanding of attention; provision of supportive and stable caregiver to child relationships is of paramount importance (Page 75)
 
 ## Screening & Regular Checks
-### Under 5 : Focus should be on
+### Under 5: Focus should be on
   - Physical health growth, diet, immunization, teeth,
   - Experience of caring relationships and emotional well being
   - Monitoring development and milestones with respect to speech, language, motor skills. mission and hearing play pre literacy skills social and self help skills
 
-### Middle years 5 to 10 years:Focus should be on
+### Middle years 5 to 10 years: Focus should be on
   - physical health and management of specific health conditions, growth monitoring, communication skills, selfcare ability to make relationships and to relate to peers,
   - mental and emotional health including depression, exercise, balance diet,
-  - progress at School, awareness of basic safety issues,
+  - progress at School, awareness of basic safety issues
   - cope with physical and emotional changes associated with puberty,
   - access to accurate and simple information about sexual activity immunization dental health experience of caring relationships
  
-### Adolescence and leaving care 11 to 18 years
+### Adolescence and leaving care 11 to 18 years: Focus should be on
   - Ability to take responsibility for own health including management of specific health conditions communication and interpersonal skills education and social progress lifestyle including diet and physical activity
   - ensuring immunization are up-to-date mental and emotional health including depression understanding of issues relating to sexual and sexual activity
   - access to information and advice about health issues including this of alcohol and substance use to
@@ -383,123 +383,38 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 
 # Curative Approaches to Health
 ## First Aid 
-- Objectives
+### Objectives 
   - To preserve life
   - To prevent further injury and deterioration of the condition
   - To put injured child under medical cover
-- All staff should have first aid education
+
+### Processes
 - First aider must have basic understanding of vital body organs and functions
+- All staff should have first aid education
 - Basic principles of first aid are to become to observe situation associate carefully identify the nature of wellness and act quickly
 - First aider should instruct someone to call for medical help when its urgent
 - First aid kit should be adequately stocked at all times and it should be accessible for all staff
-- First aid box should contain
+
+### First-Aid Kit
   - Savlon bottles
   - Povidone iodine ointment
   - Diclofenac gel
   - Adhesive bandage
   - Gauze bandages
   - Elastic bandage cotton wool disposable surgical gloves scissors tweezers soap safety pin torch
-- Safety protocol should be in place for residential homes
-
-### Minor cuts and bleeding
-
-- Aim is to prevent blood loss and minimize the shock that could result from bleeding
-- Maintain good hygiene procedures to guard against cross infection between first aider and the child
-- First aid for minor cuts-first aider should wash his hands, clean the cut if dirty under running water, pat dry with a sterile dressing, cover the cut temporally, then cover with sterile dressing or plaster
-- First aid for severe bleeding -apply direct pressure for 5 minutes to the ground with a clean pad then give sterile dressing
-- Injured limb -Raise injured limb and support it
-- Nose Bleeding-
-  - Reasons blood vessel rupture blow to the nose high blood pressure
-  - First aid put the head forward breathe through the mouth not speak swallow cough fitter sniff pinch the soft part of the nose to exert pressure for 10 minutes once the bleeding stocks clean the area with lukewarm water finally the child should rest for few hours rests quietly for few hours make sure to check the blood pressure
-
-### Burns and scalds
-
-- First aid :cool the burn immediately under running water
-  - continue to Pour water till the pain is relieved
-  - make the child comfortable
-  - remove any jewelry what you clothing from the affected area
-  - if the burn is in a large area take the child to the causality immediately
-- Clothing on fire :
-  - stop the child from running or any movement
-  - drop the child to the ground and rap in a tight coat curtain or blanket
-  - roll the child along ground till flames have been extinguished
-  - do not use lotions ointment screens and adhesive dressings on burns and do not break blisters
-
-### Fracture
-
-- Recognition recognise a fracture by looking for swelling and natural range of movement immobility grating noise deformity loss of strength twisting shortening or bending of limp
-- first-aid support immobilize the part
-- provide pain relief immediately seek medical help
-
-### Eye infection or Splinter in the eye
-
-- If it is a speck of dust eyelash extra rinse it off
-- first aider should not touch anything that sticks to the eye but make sure the child gets medical attention quickly
-- In case of blurred vision pain or discomfort or redness make the child sit down facing light examine every part of the eye if the object is visible wash it out
-
-### Head injury
-
-- Injuries may be associated with damages to the brain tissue or to blood vessels inside the skull
-- it may produce concussion
-  - concussion is usually temporary and is not associated with elastic damaged to the brain
-- Compression is life threatening
-  - possible signs: deteriorating level of response leaking watery fluid/blood from the ear and nose
-  - unequal pupil size, paralysis down one side of body,high temperature, disorientation, immediate medical help because head injuries can be serious
-
-### Choking
-
-- Mild obstruction child able to speak cough or breathe
-- severe obstruction- unable to speak try cough or breathe the child will eventually become unconscious
-- First aid remove the obstruction of its Mild and if its severe give upto 5 back blows
-- Heat exhaustion caused by laws of salt and water from body usually through excessive sweating recognition headache business conclusion loss of appetite nausea sweating with pale climate skin rapid weakening pulse shallow breathing and high fever first aid replay the lost body fluids and salt
-
-### Heat Exhaustion
-
-- Give plenty of water possible with the weak salt solution
-- if the child response is declines then referred to doctor
-- monitor and record all vital signs level of response- pulse, breathing rate
-- be prepared to give chest compression and rescue breaths
-
-### Animal bites, insect stings and allergic reactions
-
-- Animal bites identify the animal
-- First aid- wash the wound gently with soap
-- apply pressure with a clean towel apply antibiotic ointment and apply sterile bandage
-- keep the injury elevated about the heart level defer the child to hospital if the wound is Deep and gaping
-- usually insect stings from bees wasp is not serious
-- check for allergic reaction try to relieve any swelling in pain
-- First aid - dont use tweezers, apply ice pack,
-- sting to the mouth and throat can be dangerous
-  - sucking on ice cube, sipping cold water will prevent swelling
-  - if swelling starts to develop and breathing becomes difficult arrange for medical help immediately
-- Allergic reaction
-  - Recognition- impaired breathing range from tides to severe difficulty blotchy skin eruption swelling of the tongue throat puffiness around the eyes
-
-### Seizures
-
-- Protect the child from additional injury
-- avoid fall by making the child lie down
-- do not place anything in child's mouth
-- Loose restrictive clothing place on one side to prevent swallowing
-- clear the area around to prevent injury from sharp objects
-- do not give food or medications during a seizure
-- bserve all activity during the seizure including the time of seizure beginning
-- When seizure is over clear secretion from the mouth
-- monitor breathing, surrounding awareness, check for loss of control
-  - check for injuries if the individual remain unconscious after seizure is over refer immediately to a hospital
-
-### Poisoning
-
-- Identify the type of poison and the wayt has entered the body
-- Ingested poison -recognition include altered mental state, burns surround mouth, nausea vomiting, abdominal pain, diarrhoea
-- first aid should -save any vomitus and keep it with the child and seek immediate medical help
-  - should not induce vomiting if a child is unresponsive all the child has instead acid a petroleum product
-- Inhaled poison -recognition breathing difficulty, chest pain, burning sensation, headache
-- first aid remove the child to fresh air immediately
-- Absorbed poison- enters the body through skin
-  - recognition- there could be liquid or powder on skin burns, itching and irritation, redness rashes blisters, remove the clothes of the child
-  - remove the poison from the skin if the poison is a dry powder it could be brush stuff about
-- Cover the skin area with a large amount of water
+- Safety protocol should be in place for residential homes to deal with following conditions
+	- Minor cuts & Bleeding: Aim is to prevent blood loss and minimize the shock that could result from bleeding
+	- Nose Bleeding
+	- Burns & Scalds: cool the burn immediately under running water
+	- Clothing on fire 
+	- Fracture: needs immediate immobilization and medical support 
+	- Splinter in the eye
+	- Head injury: Injuries may be associated with damages to the brain tissue or to blood vessels inside the skull, can cause a concussion or a compression
+	- Choking
+	- Heat Exhaustion 
+	- Animal bites, insect stings and allergic reactions 
+	- Seizures 
+	- Poisoning
 
 
 ## Introduction to common childhood illnesses
