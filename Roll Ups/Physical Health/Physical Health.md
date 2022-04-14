@@ -47,6 +47,9 @@ In a literature review conducted for a study on morbidity in preschool children 
 	- In another group of 16 Romanian children adopted to Canada, 50%  were below the 5th percentile for weight and  44% were below the 5th percentile for height (Benoit et al., 1996).
 	- In the UK sample of Romanian adoptees, Rutter and the ERA Study Team (1998) reported that half of  the children had heights, weights, and head  circumferences below the 3 percentile.
 	- In several studies growth retardation in height has been shown to be associated with the length of time that children had spent in institutions 
+- According to a paper on caregiving disruptions in CCIs and foster care settings[^12],profound growth failure is a hallmark of institutional care in early childhood. The current study demonstrates that a small number of caregiving disruptions within foster care, which adults may view as trivial and even routine, can have significant additional effects on child wellbeing. The stress of having to accommodate changing care environments alters normal developmental processes and changes outcome for the worse.
+	- Compared with the institutionalized group, the foster care group showed greater rates of growth for height, weight, and BMI from baseline to age 12 years.
+	- Increasing disruptions in the caregiving environment were related to decreasing rates of growth in height in foster care group and weight in institutionalized group and foster care group, but not BMI.
 
 ## Potential Causes
 - Children whose caregivers had not received any form of training on childcare practices were more likely to be underweight, wasted and stunted respectively. (Page 72)
@@ -57,6 +60,8 @@ In a literature review conducted for a study on morbidity in preschool children 
 - From the study, it can be concluded that good nutrition status can be equated with appropriate childcare practices and low morbidity burden. 
 - Majority of children living in orphanages in Kwale County had good nutrition status as depicted by the low levels of undernutrition. This was likely due to consumption of at least three meals per day, diversity of foods consumed, appropriate knowledge in caregiving among thecaregivers in the orphanages, favourable caregiver to child ratios, good health care practices, adequate consumption of energy and other nutrients. This was also enhanced by the effect of the low morbidity burden noted among the children. (Page 95)
 	- The prevalence of the three forms of under-nutrition in this study was lower than the national figures. In addition, the levels of undernutrition are also lower than the WHO acceptable levels with an exception of wasting which is higher than the WHO acceptable levels of under-nutrition (Page 95)
+- [^12]According to this paper, Height and weight growth patterns linked to individual differences in caregiver disruptions underscore the importance of a consistent caregiving environment for child well-being.
+
 
 # Infectious Morbidity 
 
@@ -89,33 +94,24 @@ In a literature review conducted for a study on morbidity in preschool children 
 	- Fisher et al. (1997) found that according to their parents’ reports orphanage children’s most common medical problems when they were first adopted were
 		-  intestinal parasites (31% of children),
 		-  hepatitis B (28% of children) 
-		-  anemia (15% of children). 
+		-  anemia (15% of children). 	
+	- According to another review paper that analaysed research on institutional care [^8], Common illnesses observed were 
+		- children having three or more parasites
+		- skin infections
+		- varicellazoster
+		- tuberculosis
+		- impetigo
+		- dentalissues
+		- ear/nose/throat problems
+		- respiratory infections
+		- diarrhoea
+	- 10-31% of children had skin conditions or infections
+	- 75% of children had an infection within the first three months of admission to a site(Kapavarapuetal.,2012)
+	- Anemia prevelance ranged from 3-90%
+	- 33% of children had low vitamin D
+	- Common deficiencies were iodine, zinc, albumin , vitamin A and B
+	- Edema, Conjunctival pallor, xerophthalmia and goiter were also found
 
-		
-- According to another review paper covering papers on institutional care in CCIs[^8], Common illnesses observed were 
-	- children having three or more parasites
-	- skin infections
-	- varicellazoster
-	- tuberculosis
-	- impetigo
-	- dentalissues
-	- ear/nose/throat problems
-	- respiratory infections
-	- diarrhoea
-- 10-31% of children had skin conditions or infections
-- 75% of children had an infection within the first three months of admission to a site(Kapavarapuetal.,2012)
-- Anemia prevelance ranged from 3-90%
-- 33% of children had low vitamin D
-- Common deficiencies were iodine, zinc, albumin , vitamin A and B
-- Edema, Conjunctival pallor, xerophthalmia and goiter were also found
-Physical development in institutionalised vs. foster care children:
-
-- Profound growth failure is a hallmark of institutional care in early childhood. The current study demonstrates that a small number of caregiving disruptions within foster care, which adults may view as trivial and even routine, can have significant additional effects on child wellbeing. The stress of having to accommodate changing care environments alters normal developmental processes and changes outcome for the worse.
-- From an RCT that looked at 114 institutionalised children in the US, we can see that in comparison to foster group, the institutionalised group does worse off 
-	- Profound growth failure is a hallmark of institutional care in early childhood. The current study demonstrates that a small number of caregiving disruptions within foster care, which adults may view as trivial and even routine, can have significant additional effects on child wellbeing. The stress of having to accommodate changing care environments alters normal developmental processes and changes outcome for the worse.
-	- Compared with the institutionalized group, the foster care group showed greater rates of growth for height, weight, and BMI from baseline to age 12 years.
-	- Increasing disruptions in the caregiving environment were related to decreasing rates of growth in height in foster care group and weight in institutionalized group and foster care group, but not BMI.
-	- Aside from group differences in growth, the compromised height and weight growth patterns linked to individual differences in caregiver disruptions in foster care group underscore the importance of a consistent caregiving environment for child well-being.
 
 ### Common Infections:
 
@@ -983,3 +979,4 @@ In Rainbow Homes,
 [^9]: [[The Impact of Institutionalization on Child Development_Kim Mclean]]
 [^10]: [[3 Year Change in Wellbeing of children in institutional and family based care settings in 5 low to middle income countries]]
 [^11]: [[Promoting the health and well-being of looked-after children]]
+[^12]: [[Caregiving Disruptions Affect Growth and Pubertal Development in Institutionalised Childre in Romania, an RCT]]
