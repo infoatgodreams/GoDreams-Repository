@@ -419,44 +419,47 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 	- Poisoning
 
 
-## Introduction to common childhood illnesses
+## Common childhood illnesses
 
-- Main symptoms include
+### Symptoms to watch-out for
   - Symptoms include lethargy, lack of appetite, pain, fever, cough, vomiting
-  - Serious symptoms - Semi or unconsciousness, abnormal behaviour, weight-loss, bleeding unrelated to injuries, high fever fever not improving in a few days, fever with bruising, fever with neck stiffness, fever with chills, breathlessness or difficulty in breathing, severe abdominal pain, severe uncontrollable vomiting
-- When children present non specific symptoms even after examining sometimes nothing specific can be found. Dealing with such cases can be a challenge.
+  - Serious symptoms - Semi or unconsciousness, abnormal behaviour, weight-loss, bleeding unrelated to injuries, high fever fever not improving in a few days, fever with bruising, fever with neck stiffness, fever with chills, breathlessness or difficulty in breathing, severe abdominal pain, severe uncontrollable vomiting.
+  - When children present non specific symptoms even after examining sometimes nothing specific can be found. Dealing with such cases can be a challenge.
   - First thing takes the child seriously each occasion to make sure we are not missing any serious physical problem
   - It is also recommended to do at least one round of investigations depending on the symptoms such as sound of domain pain
-  - Accept that the child needs care
-  - sometimes prescription of placebos help
   - In many common illnesses home remedies work especially for seasonal fever cold cop stomach related problems so on
 
 ### Fever
-
+#### Causes & Identification
   - has variety of causes -infections like cold and cough to very serious conditions like meningitis
   - requires experience and training to make a specific diagnosis of the cause
   - Identification- measure with thermometer, if it does not come down with medication, water dipped cloth should be kept
   - cold cold and cough- identification- nose maybe blocked or running
   - Diarrhea- identification- mild fever usually viral in nature
+  
+#### Treatment & Prevention
   - paracetamol maybe given if fever is high
   - nasal passages may be kept clear by using saline nasal drops
   - cough syrup and anti allergic tablets need not be prescribe routinely
   - specific dangerous sign- if there is high fever symptom, yellow breathing difficulty
   - Prevention includes good personal care clean environment and nutrition
 
-### Meningitis
-
+### Meningitis 
+#### Causes & Identification
 - Very serious infectious disease affecting the brain
 - identification- headache, altered consciousness, convulsions, neck stiffness, forceful vomiting, rashes,
+#### Treatment & Prevention
 - what to do you - take to the hospital immediately
 - prevention -vaccination and antibiotics
 
 ### Measles
-
+#### Causes & Identification
 - Identification- fever along with a characteristic rash
 - first few days with no cough and redness.
 - Rash is dusky red starts with the head and face;inspect over the whole body
 - fever subsides in 2-3 days after onset after the onset of rash and the rash also start reducing in a few days
+
+#### Treatment & Prevention
 - what to do- provide plenty of fluids, Paracetamol if necessary specific
 - danger signs- earache, diarrhoea, difficulty in breathing, change in consciousness
 - Prevention includes vaccination keeping the child away from others for 4 days
