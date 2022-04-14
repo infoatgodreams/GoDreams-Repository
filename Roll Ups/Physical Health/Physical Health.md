@@ -65,10 +65,7 @@ In a literature review conducted for a study on morbidity in preschool children 
 	- Approximately 60% of children younger than 5 years have developmental health issues.
 - According to Rainbow Homes, street children are at a higher risk for health concerns[^2]
 	- Yuva studies show that children on the streets have higher incidence of trauma related injuries, development delays, sinusitis, anaemia and asthma, eczema, visual and neurological deficits as well as other disabilities.
-	- Run away youth are its significant risk violence and victimisation substance abuse pregnancy and sexually transmitted diseases
-	- Studies on Street children in India show that the children experience high rates of physical emotional and mental health problems
-	- Their intake of food is inadequate and the quality of food is poor.
-	- In many cases they have sexually transmitted infections mental health status is unknown depression and society and low self esteem or very common
+	- Run away youth are its significant risk of violence and victimisation including substance abuse, pregnancy and sexually transmitted diseases
 - In another study on the American foster care system[^7], 
 	- Thirty percent to 60% of children in foster care have been estimated to have chronic health conditions. When behavioral, emotional, and developmental concerns are taken into consideration, the estimated proportion of foster children with serious health care needs jumps to ⬎80%.
 	- Caregivers reported that 50.3% of the children had less than or equal to 1 SHCN at some point during the 3-year study period.
