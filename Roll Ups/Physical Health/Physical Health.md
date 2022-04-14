@@ -465,11 +465,12 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - Prevention includes vaccination keeping the child away from others for 4 days
 
 ### Chicken pox
-
+#### Causes & Identification
 - Highly infectious viral disease
 - Like measles it is suggested by fever along with the characteristic rash redness
 - Fever and begins on the trunk spreading later to the head and face
 - intensity reduces if red spots becoming peach in colour, centre goes through ulceration casting healing over 3 to 4 days
+#### Treatment & Prevention
 - what to do- rest and take plenty of fluids
 - paracetamol should be given if necessary,
 - Itching is relieved by cool baths and calamine lotion
@@ -477,23 +478,25 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - Prevention- vaccine for chickenpox but its not routinely prescribed
 
 ### Malaria
-
+#### Causes & Identification
 - Identification- malaria is listed by high fever with chills sweating nausea headache
 - Malaria requires specific treatment with antimalarials
 - getting a blood test for malaria is important
 
 ### Pneumonia
-
+#### Causes & Identification
 - is an infection of the lungs
 - identification characterised by fever and difficulty in breathing
+#### Treatment & Prevention
 - has to be treated under the care of the doctor with antibiotics
 - specific dangerous signs- child not getting better even after two three days of start in treatment difficulty in breathing gets worse
 - prevention- spread is by closed contact so the child need to be separated from others
 
 ### Tuberculosis
-
+#### Causes & Identification
 - Identification - lasting over 2 weeks any low grade fever
 - Ensure that TB is either diagnosed or ruled out by doctor
+#### Treatment & Prevention
 - TB medicines will continue for at least six months
 - if if the child is in home with health workers - to ensure that medicine is being taken consistently
 - If child has to go home, train the child to take medicines, provide sufficient amount of medicines to cover the entire duration of the child's stay
@@ -502,19 +505,21 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - the best way to prevent by identifying persons with illness and getting completed
 
 ### Asthma
-
+#### Causes & Identification
 - Allergic reaction of the Airways that causes cough and difficulty in breathing
 - identification- if the child gets an attack of fast breathing, difficulty in breathing, tightness in chest or wheezing every now and then.
 - There could be a family history of breathing problems
 - Asthma should be confirmed by a doctor
+#### Treatment & Prevention
 - Care Workers should be taught to use the medicines if breathlessness is not relieved soon after medication or child is getting worse
 - Prevention- some medicines may be given for preventing attacks in severe cases
 - Many children grow out of asthma
 - triggers can be prevented by keeping the rooms free of smoke dampness and dust testing the mattresses frequently
 
 ### Diarrhoea
-
+#### Causes & Identification
 - manifested by the frequent passage of loose water is tools
+#### Treatment & Prevention
 - Important part of managing diaries to make sure that the child retains in a fluid to prevent dehydration
 - this could be achieved by giving fluids or virus or home based fluids such as rice water for coconut water
 - child should get small frequent meals with low fiber
@@ -522,9 +527,11 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 - prevention- personal hygiene, careful hand washing after using toilet and before eating
 
 ### Typhoid
+#### Causes & Identification
 
 - how to identify -prolonged high fever, nausea, high fatigue,loss of appetite running nose, common cold do not accompany typhoid
 - can be diagnose only through blood test
+#### Treatment & Prevention
 - what to do -children with typhoid must be under regular care mostly treated in home with antibiotics for 3 weeks
 - specific dangerous signs -inability to take medicines due to vomiting, abdominal pain or any change in the level of conscious
 - prevention- personal hygiene and careful hand washing during food preparation after using toilet and before eating
