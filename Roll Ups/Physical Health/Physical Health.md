@@ -832,31 +832,25 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 	  - **Height** : Height was recorded to the nearest centimetre (cm) using a non-flexible fibreglass tape, Seca 206 mechanical measuring tape (Seca, GmBH and Co Kg, Hamburg, Germany). The respondent was asked to stand upright on a firm level ground, against a flat vertical surface without shoes.
 	  - **BMI calculation:** The body mass indices of the participants were calculated in kg/m2 based on the measured weight and height and were plotted on separate BMI charts for boys and girls
 	  - **Clinical assessment:** The condition of skin, eyes, hair, gums, nails and thyroid gland was observed for clinical assessment of nutritional deficiencies. Systemic examination for reported morbidities was conducted according to the hospital protocols of Mediciti Hospital.
-
 - According to a paper on Special Needs[^7], Indicators for Chronic health conditions and Special Needs 
-
 	- NSCAW includes 2 indicators of SHCNs: the presence of a chronic health condition and the presence of special needs. Each of these indicators is based on a caregiver report.
-
 	- #### Chronic Health Conditions: 
 		- At each interview, caregivers were asked whether their child had any health problems that last a long time or come back again and again. If yes, caregivers were asked to name them. Caregivers could report ⬎1 problem. For the chronic health condition questions, the wording denoted a chronic health condition prevalent at the time of the interview
-  -
 	- #### Special Needs: 
 		- At each interview, caregivers were asked if they had ever been told by an educational or health professional, or told since the last interview, that their child has &quot;learning problems, special needs or developmental disabilities. 
 		- If yes to either of these questions, caregivers were asked to describe these problems. The special needs questions in NSCAW were designed to correspond with disability categories under the Individuals With Disabilities Act.
+- #### Assessing Maltreatment characteristics:
 
-
-	- #### Assessing Maltreatment characteristics:
-
-	  - The most serious type of maltreatment was assessed by asking the caseworkers the following question in the baseline interview: Of the types of abuse or neglect that were reported, please tell me the type that you felt was the most serious (physical maltreatment, sexual maltreatment, emotional maltreatment, physical neglect (failure to provide), neglect (lack of supervision), abandonment, moral/legal maltreatment, educational maltreatment, exploitation, and other)
+	- The most serious type of maltreatment was assessed by asking the caseworkers the following question in the baseline interview: Of the types of abuse or neglect that were reported, please tell me the type that you felt was the most serious (physical maltreatment, sexual maltreatment, emotional maltreatment, physical neglect (failure to provide), neglect (lack of supervision), abandonment, moral/legal maltreatment, educational maltreatment, exploitation, and other)
 	  - For the majority of children, the main type of maltreatment was neglect (lack of supervision: 25.2%; failure to provide: 18.0%), followed by physical abuse (25.2%).
 
-# Challenges & Ethical concerns
+# Challenges & Concerns in Delivering Healthcare
 
 - [^11]According to guidance from the Dept of Health, NHS, Accurate information about health history, and any current/ongoing medical conditions, may be vital to securing the right placement for a looked-after child.
-- For this reason, obtaining consent to information sharing is a vital first principle to promoting the health of looked-after children. The person or third party will need to understand the reasons why particular information needs to be shared, so that they can give informed consent
-- Where disclosure of a child's information might reveal information about other individuals (e.g. parents, family), consent should be sought from these individuals as well.
-- Where it is not practicable to seek consent or where the individual is not competent to give consent, it is important to consider whether disclosure would be justified in the public interest(e.g. to protect others from a risk so serious that it outweighs the individual's right to privacy).
-- Decisions to disclose information in the public interest must be taken on a case by case basis, and should always be fully documented
+	- For this reason, obtaining consent to information sharing is a vital first principle to promoting the health of looked-after children. The person or third party will need to understand the reasons why particular information needs to be shared, so that they can give informed consent
+	- Where disclosure of a child's information might reveal information about other individuals (e.g. parents, family), consent should be sought from these individuals as well.
+	- Where it is not practicable to seek consent or where the individual is not competent to give consent, it is important to consider whether disclosure would be justified in the public interest(e.g. to protect others from a risk so serious that it outweighs the individual's right to privacy).
+	- Decisions to disclose information in the public interest must be taken on a case by case basis, and should always be fully documented
 - According to Rainbow Homes, 
 	- Balance between autonomy and paternalism
 	- Make sure children participate in their own health issues inform them of the inventions that are in place
@@ -868,7 +862,6 @@ As documented by Rainbow homes [^2], there are different approaches to healthcar
 	  - Intentionally do not create harmorr injury to the child
 	  - Health worker should provide proper standard of care that avoids the risk of harm
 	  - Make sure the culture is respectful caring sensitive and responsive in a context where a health management is paternalistic process ensure genuine respect for the privacy of the child**
-
 
 
 
