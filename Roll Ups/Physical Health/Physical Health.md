@@ -42,6 +42,11 @@ In a literature review conducted for a study on morbidity in preschool children 
 - Prevalence of undernutrition seemed to increase significantly with an increase in length of stay in the orphanage (Page 69)
 - It has also been shown that more boys are usually stunted with high morbidity rates than girls (Page 28)
 - [^5]According to a large-scale literature review on institutional care conducted by the University of Delaware, relative to their peers, they show atypically short height, low weight, and small head circumference (Page 6)
+- A meta analysis on the impact of institutionalization[^9], showed that 
+	- Eighty-five percent of  orphanage children in the Canadian sample below the 10th percentile and 59% of children fell below the 5th percentile for weight (Morison et al., 1995). 
+	- In another group of 16 Romanian children adopted to Canada, 50%  were below the 5th percentile for weight and  44% were below the 5th percentile for height (Benoit et al., 1996).
+	- In the UK sample of Romanian adoptees, Rutter and the ERA Study Team (1998) reported that half of  the children had heights, weights, and head  circumferences below the 3 percentile.
+	- In several studies growth retardation in height has been shown to be associated with the length of time that children had spent in institutions 
 
 ## Potential Causes
 - Children whose caregivers had not received any form of training on childcare practices were more likely to be underweight, wasted and stunted respectively. (Page 72)
@@ -85,11 +90,8 @@ In a literature review conducted for a study on morbidity in preschool children 
 		-  intestinal parasites (31% of children),
 		-  hepatitis B (28% of children) 
 		-  anemia (15% of children). 
-	-  Previously institutionalized children are typically small and malnourished after the orphanage experience. [Nutrition](Roll%20Ups/Nutrition/Nutrition.md)
-		- Eighty-five percent of  orphanage children in the Canadian sample below the 10th percentile and 59% of children fell below the 5th percentile for weight (Morison et al., 1995). 
-		- In another group of 16 Romanian children adopted to Canada, 50%  were below the 5th percentile for weight and  44% were below the 5th percentile for height (Benoit et al., 1996). Similarly, in the U.K
-		-  In the UK sample of Romanian adoptees, Rutter and the ERA Study Team (1998) reported that half of  the children had heights, weights, and head  circumferences below the 3 percentile.
-		-   In several studies growth retardation in height has been shown to be associated with the  length of time that children had spent in institutions (Ames, 1997; Johnson et al., 1992;  Rutter & the ERA Study Team, 1998). 
+
+		
 - According to another review paper covering papers on institutional care in CCIs[^8], Common illnesses observed were 
 	- children having three or more parasites
 	- skin infections
