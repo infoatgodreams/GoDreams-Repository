@@ -235,7 +235,6 @@ A systematic review of caregiving interventions[^4] recommended the need for
 
 
 
-
 # Working with Children
 
 ## Key principles governing interactions with children
@@ -268,6 +267,9 @@ A systematic review of caregiving interventions[^4] recommended the need for
 	- Standardized discipline code  
 	- Role definition: Interaction responsibilities assigned to key staff
 	- Capacity building of staff to use reception material prepared for children to make children feel reassured, informed, safe.
+
+## Disciplining 
+
 
 ## Thumb rules for working with children 
 - Praise is effective- praise responsible, considerate, appropriate behaviour with attention, thanks, recognition, special privileges 
