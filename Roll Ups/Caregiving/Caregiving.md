@@ -72,6 +72,7 @@ A systematic review of caregiving interventions[^4] recommended the need for
 	- The social worker engaged in counselling of the children, guiding the house parents,observing and supervising the work of the coaching teachers, following up ontraining of children and house parents and documentation-related work. (Page 11)
 - In dealing with children who are victims of violence[^8], it's recommended that
 	- The Home shall appoint staff only after adequate screening about the past record of the staff, ensuring that the staff has not shown any particular behavior in the past that could be a pot ent source of danger e .g. psychiatric disorders causing violence or self destructive behavior, is not suffering from substance addiction/ habit (including tobacco and alcohol), exhibits abusive behavior, offending or criminal behavior, etc. Full care shall be taken not to appoint any person habituated to dangerous drugs.
+- In a seminar organized by Udayan Care on institutionalization[^9], - In general it is advisable that caregivers are not too old and the generational gap among them and the children reﬂects that between children and parents. (Page 29)
 
 
 ## Caregiver Number & Types
@@ -100,7 +101,8 @@ According to guidelines for institutional care in Ethiopia[^5], The profile of t
 
 
 ## Elements of Training
-- [^2]According to Miracle Foundation's approach, Anwesha underwent a complete training in areas of supporting family culture rights of the child, attachment, discipline techniques, childdevelopment, health care – preventative & curative, gender roles, sexual abuseprevention, communication skills, conflict resolution and stress management. (Page 11)
+- [^2]According to Miracle Foundation's approach, Anwesha underwent a complete training in areas of supporting family culture rights of the child, attachment, discipline techniques, childdevelopment, health care – preventative & curative, gender roles, sexual abuseprevention, communication skills, conflict resolution and stress management.
+- [^9]Cultural, social, gender and religious sensitisation should also be assured. Training in dealing appropriately with challenging behaviour, including conflict resolution techniques and means to prevent acts of harm or self-harm, should be provided to all care staff  employed by the institutions’ management. In (Page 29)
 
 # Caregiver support
 - [^2]For Miracle Foundation. ‘Tea time with house parents’, the practice of Miracle staff spending informal timewith caregivers enabled them to unwind, open up, share their joys and concernsand feel acknowledged as being important.
@@ -116,12 +118,16 @@ According to guidelines for institutional care in Ethiopia[^5], The profile of t
 # Interactions with Children
 
 ## Key principles governing interactions
-According to the study conducted at Irvington House[^6],
-- For young children a paramount need is to feel that there is someone who really cares for him or her as an individual human being, someone with whom and for whom he is special. In addition to this special one to one relationship, the child must also feel that all, or most, of the people around him like and respect him for what he is. We have called this basic concept, along with teh child-care practices that have grown out of it, "individualization. 
-- We assumed that small children need relatively small, self-contained settings for their basic physical care. They need the opportunity for privacy, some belongings which are their very own, some which are to be shared and the freedom to explore within boundaries that set unobtrusive but firm limits on impulse. 
-- A final assumption in relation to the program offered is that any positive life experience, no matter what its duration, strengthens the child in terms of meeting subsequent life experiences. 
-- There is no concept of "spoiling the children" as while it is morally and professionally impossibly to not provide the maximum of what we have, our assumption is that if we offer this, a child is better equipped to meet the vicissitudes of whatever his life may be when he leaves us. 
-- The one-to-one relationship thus developed between counselor and child is to give the child a feeling that, despite some of the necessary impersonality and antiseptic quality of an institutional environment, someone on the staff cares for him or her as an individual human being above and beyond the requirements of the job. 
+- According to the study conducted at Irvington House[^6],
+	- For young children a paramount need is to feel that there is someone who really cares for him or her as an individual human being, someone with whom and for whom he is special. In addition to this special one to one relationship, the child must also feel that all, or most, of the people around him like and respect him for what he is. We have called this basic concept, along with teh child-care practices that have grown out of it, "individualization. 
+	- We assumed that small children need relatively small, self-contained settings for their basic physical care. They need the opportunity for privacy, some belongings which are their very own, some which are to be shared and the freedom to explore within boundaries that set unobtrusive but firm limits on impulse. 
+	- A final assumption in relation to the program offered is that any positive life experience, no matter what its duration, strengthens the child in terms of meeting subsequent life experiences. 
+	- There is no concept of "spoiling the children" as while it is morally and professionally impossibly to not provide the maximum of what we have, our assumption is that if we offer this, a child is better equipped to meet the vicissitudes of whatever his life may be when he leaves us. 
+	- The one-to-one relationship thus developed between counselor and child is to give the child a feeling that, despite some of the necessary impersonality and antiseptic quality of an institutional environment, someone on the staff cares for him or her as an individual human being above and beyond the requirements of the job. 
+- In a seminar organized by Udayan Care on Institutionalization[^9], it was noted that
+	-  especially in residential institutions funded by religious bodies or in governmental institutions of countries withlittle concern for the beliefs of minorities, children’s right to equality and non-discrimination could be seriouslyneglected. 
+	- All children placed in institutions should have opportunities to express their opinions, practice theirreligion, function in their native language and participate in social activities in the community they belong to.Children’s right to equality and non-discrimination should be always upheld. 
+	- caregiver should act as a professional and not as a friend to the child, there by reducing the possibility of a conflict of interest or inappropriate conduct.43 (Page 30)
 - Following 5 intervention areas:
 		- Accessibility of staff 
 		- Quality of interaction 
@@ -168,7 +174,7 @@ accessibility to authorities (31%)
 # Care Practices
 - In dealing with children who are victims of violence[^8], it is recommended that the safety/risk assessment in relation to victims' known and likely activities, the potential for bullying and abuse within and outside of the Home and where applicable the impact of emergency admissions on the victims shall also be carried out, recorded in writing and regularly reviewed by the organization running the Home in consultation with subject matter experts.
 - The shelter home authority shall evolve a Crisis Management Plan (CMP) to address a range of foreseeable crises (e.g. death, outbreaks of illness, fires, serious allegations or complaints, significant accidents, staff shortage, and control problems within or outside the home).
-- Rainbow recommends a loose schedule for all caregivers with milestones 
+- Rainbow[^10] recommends a loose schedule for all caregivers with milestones 
 	- Weekly 
 		-  Issuing of stationery and toiletries to children
 		- Weekly Staff Meetings
@@ -193,6 +199,7 @@ accessibility to authorities (31%)
 		- Sports day, annual day
 		- outstation trips
 		- stock taking of fixed assets
+- [^9]At a seminar on mental health in institutions, Dr. Sen advised towards a major consideration of the roles of caregivers when applying certain changes to the everyday management of the institution, especially because, in terms of mental health care, a comprehensive approach, where the caregivers, the managers and the psychologists and psychiatrists work together, is needed.Hierarchy among personnel is often significant and not carefully evaluated, which seriously affects the functioning of institutions. 
 
 
 # Assessment Tools
@@ -209,3 +216,5 @@ accessibility to authorities (31%)
 [^6]: [[Irvington HouseGrowth Potential of Pre-school aged children in institutional care]]
 [^7]: [[Mental Health at CCIs during Covid-19_Prerana Guide]]
 [^8]: [[Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia]]
+[^9]: [[UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care]]
+[^10]: [[Rainbow - CCI Management Handbook]]
