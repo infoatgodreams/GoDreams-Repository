@@ -269,21 +269,27 @@ A systematic review of caregiving interventions[^4] recommended the need for
 	- Capacity building of staff to use reception material prepared for children to make children feel reassured, informed, safe.
 
 ## Disciplining Children
-- According to Aangan[^3], Children are helped to develop socially acceptable behaviour by encouraging and reinforcing acceptable behaviour and a constructive staff response to inappropriate behaviour. 
-	- Verbal reprimands and redirection- let child know what's unacceptable and why
-	- Apologies and Contracts : Take responsibility for actions, assign consequences and ways to make amends
-	- Detention after school/during TV/recreation time
-	- Written reports and assignments- preferably connected to the incident 
-	- Open Circles and Child Panchayats- to encourage peer mediation and group discussion
-	- Make a note in the child's file that can later be brought up with CWC/JWB
-	- Community services and restitution
-	- Time out: separate the child from the group to remove any positive reinforcement/attention for poor actions
-	- Withholding privileges- effective, especially for older children. Children need to learn that privileges come with responsibility and that they can be taken away 
-		- For serious disciplinary issues like drug abuse, you can use a combination of different methods. 
-	- Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
+
+### Objective
+According to Aangan[^3], Children are helped to develop socially acceptable behaviour by encouraging and reinforcing acceptable behaviour and a constructive staff response to inappropriate behaviour. Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
+
+### Methods
+- Verbal reprimands and redirection- let child know what's unacceptable and why
+	- Encourage children to ask questions about rules and have a discussion with them on why certain rules are important. 
+	- By teaching children to be blindly compliant, we are discouraging critical thinking, which is a valuable characteristic. This not only hampers critical thinking but teaches them that adults are always right which is untrue.
+- Apologies and Contracts : Take responsibility for actions, assign consequences and ways to make amends
+- Detention after school/during TV/recreation time
+- Written reports and assignments- preferably connected to the incident 
+- Open Circles and Child Panchayats- to encourage peer mediation and group discussion
+- Make a note in the child's file that can later be brought up with CWC/JWB
+- Community services and restitutioN
+- Time out: separate the child from the group to remove any positive reinforcement/attention for poor actionS
+- Withholding privileges- effective, especially for older children. Children need to learn that privileges come with responsibility and that they can be taken away 
+- For serious disciplinary issues like drug abuse, you can use a combination of different methods. 
+
+### Thumb-rules
 - Children may not conform to all the rules and the staff can decide what are acceptable.
 - Extreme disciplining may lead to defiance in children.
-- Encourage children to ask questions about rules and have a discussion with them on why certain rules are important. By teaching children to be blindly compliant, we are discouraging critical thinking, which is a valuable characteristic. This not only hampers critical thinking but teaches them that adults are always right which is untrue.
 - While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
 - Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
 
