@@ -5,15 +5,9 @@ tags:
 - Rollups
 ---
 
-Mindsets
-Skills & Training
-Interactions with children
-- relationships
-- attachment
-- disciplining
-- Dos and Donts 
-Successful interventions in improving caregiving 
-What is the importance of caregiving in influencing child outcomes? 
+
+
+
 
 # Why is caregiving crucial? 
 - According to Aangan[^3], The children’s answer to our first question, about the first three things they would like to change about their institution, was clear and unanimous:
