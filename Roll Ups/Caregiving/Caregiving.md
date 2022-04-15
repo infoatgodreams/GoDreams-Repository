@@ -15,12 +15,53 @@ Interactions with children
 Successful interventions in improving caregiving 
 What is the importance of caregiving in influencing child outcomes? 
 
+# Caregiver Profile
+- [^2]The Miracle Foundation Method provided for hiring of a qualified social worker at Anwesha.
+	- The social worker engaged in counselling of the children, guiding the house parents,observing and supervising the work of the coaching teachers, following up ontraining of children and house parents and documentation-related work. (Page 11)
+
+## Elements of Training
+- [^2]According to Miracle Foundation's approach, Anwesha underwent a complete training in areas of supporting family culture rights of the child, attachment, discipline techniques, childdevelopment, health care – preventative & curative, gender roles, sexual abuseprevention, communication skills, conflict resolution and stress management. (Page 11)
+
+# Caregiver support
+- [^2]For Miracle Foundation. ‘Tea time with house parents’, the practice of Miracle staff spending informal timewith caregivers enabled them to unwind, open up, share their joys and concernsand feel acknowledged as being important.
+- [^2]Miracle Staff, House parent Diary served to be a readyreference of their important tasks and responsibilities.
+
+# Interactions with Children
+- Following 5 intervention areas:
+		- Accessibility of staff 
+		- Quality of interaction 
+		- Information 
+		- Orientation 
+		- Disciplinary Action
+-  Positivize interaction of staff and child 
+		- Standardized interaction guidelines 
+		-  Focus on entry level intervention for new admissions
+		-  Exit level intervention planning for children leaving 
+		- Standardized discipline code  
+		- Role definition: Interaction responsibilities assigned to key staff
+		- Create child-friendly orientation /informative material  and reception unit model
+		- Develop standardized discipline code
+		-  Capacity building of staff to use thismaterial to make children feel reassured, informed, safe.
+		
+# Recommendation II : Staff Motivation 
+-  Staff motivation : 
+		- Standardized motivation and Reinforcement Program. Develop a state level recognition award system based on identifying best practices;
+		-  Standardized discipline code for offences by staff
+		- Ensure that innovative ideas, individuals and institutions are identified and reinforced
+# Recommendation III : Operational definition of effectiveness
+-  Need to define effectiveness of institutions factoring in staff, children's and governing authorities perspectives
+			- Standardized Evaluation of performance,criteria &systems. 
+			- Standardize monitoring tool combining criteria related to infrastructure,interaction and activity . 
+			- External Evaluation through Vigilance Committees. 
+			- Develop self monitoring tool.  
+			- Capacity building of staff to use tool for internal monitoring and goal setting   (Page 12)
 
 
-[^1]- According to a paper authored by the Duke Global Health Institute on psychosocial wellbeing of CNCP in institutional settings, the ideal outcome for the **Caregiving**  factor was for the child to have at least one adult (age 18 or over) who provides consistent care, attention, and support. 
+[^1]According to a paper authored by the Duke Global Health Institute on psychosocial wellbeing of CNCP in institutional settings, the ideal outcome for the **Caregiving**  factor was for the child to have at least one adult (age 18 or over) who provides consistent care, attention, and support. 
 - Caregiving was “seen as good when there is an identified adult (parent or guardian) who provides the child with a stable, nurturing, and emotionally secure environment. The relationship between the child and the caregiver should provide physical and psychological security for the child. 
 - This factor captured how committed the caregiver was to the child and to his/her involvement with the child”.
 
 
 
 [^1]:  [[Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries]]
+[^2]: [[Miracle Foundation_Institutionalised Children_Explorations and Beyond]]
