@@ -199,7 +199,9 @@ accessibility to authorities (31%)
 		- Sports day, annual day
 		- outstation trips
 		- stock taking of fixed assets
-- [^9]At a seminar on mental health in institutions, Dr. Sen advised towards a major consideration of the roles of caregivers when applying certain changes to the everyday management of the institution, especially because, in terms of mental health care, a comprehensive approach, where the caregivers, the managers and the psychologists and psychiatrists work together, is needed.Hierarchy among personnel is often significant and not carefully evaluated, which seriously affects the functioning of institutions. 
+- [^9]At a seminar on mental health in institutions, Dr. Sen advise
+	- d towards a major consideration of the roles of caregivers when applying certain changes to the everyday management of the institution, especially because, in terms of mental health care, a comprehensive approach, where the caregivers, the managers and the psychologists and psychiatrists work together, is needed.Hierarchy among personnel is often significant and not carefully evaluated, which seriously affects the functioning of institutions. 
+	- At the sametime, it is imperative for caregivers to know how to prepare the children in case they are leaving the institution for a different job, instead of disappearing and suddenly leaving them alone. (Page 58)
 
 
 # Assessment Tools
