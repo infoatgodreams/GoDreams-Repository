@@ -209,6 +209,9 @@ accessibility to authorities (31%)
 - Caregiving was “seen as good when there is an identified adult (parent or guardian) who provides the child with a stable, nurturing, and emotionally secure environment. The relationship between the child and the caregiver should provide physical and psychological security for the child. 
 - This factor captured how committed the caregiver was to the child and to his/her involvement with the child”.
 
+# Bullying
+
+
 # Care Practices
 - In dealing with children who are victims of violence[^8], it is recommended that the safety/risk assessment in relation to victims' known and likely activities, the potential for bullying and abuse within and outside of the Home and where applicable the impact of emergency admissions on the victims shall also be carried out, recorded in writing and regularly reviewed by the organization running the Home in consultation with subject matter experts.
 - The shelter home authority shall evolve a Crisis Management Plan (CMP) to address a range of foreseeable crises (e.g. death, outbreaks of illness, fires, serious allegations or complaints, significant accidents, staff shortage, and control problems within or outside the home).
