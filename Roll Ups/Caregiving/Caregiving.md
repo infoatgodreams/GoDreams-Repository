@@ -192,23 +192,15 @@ There are some very helpful attitudes for a Participatory Approach thatwe could 
 - Individualise measures- measures should take into account the age, understanding, incident and individual needs of the chilld
 
 ## Working with children sensitively
--   Whenever a child is seen engaging in unacceptable behavior or is found doing something that is unacceptable, the child should be first asked what he/she was up to. Listen to children. After knowing what the child was doing, an adult can explain why a behavior is inappropriate.
-    
--   In order to avoid shaming, embarrassing or humiliating the child, the caregivers should hold this conversation one- on-one with the child and avoid confronting the child in front of the other children.
-    
--   Talk about inappropriate behavior without demeaning their self worth or attacking their personality or character.
-    
--   When correcting behavior, provide a calm explanation for your preferences.Giving a reason helps children understand the implications of their behavior for others (e.g., if your child teases another child because they wear glasses, explain that wearing glasses helps the child to see better and remind them that teasing can hurt others feelings).
-    
--   Tell the child what you do want them to do rather than what you don’t. For example, instead of saying ‘Don’t walk so close to the road’, say ‘Come and walk next to me’. Often, we remember to reprimand children for their mistakes and correct them but forget to appreciate them for achievements and healthy behavior. A simple ‘you did a very good job today!’ can help children feel good about themselves and reinforce healthy behavior.
-    
--   Do not verbally or physically abuse children. This hurts them and teaches them that abuse is a problem-solving technique, which they are bound to use to solve their own problems.
-    
--   Take abuse between children seriously as well and teach them alternate ways to solve problems.
-    
--   Avoid impatient body language like eye rolling, foot tapping or sighing. This can discourage a child from talking.
-    
--   Hold conversations at the appropriate time and place. It is also important to address an issue in a timely manner. If one waits too long to address a situation, sometimes the child will not remember the incident or more often than not, it will not register that they did something wrong or unacceptable, thereby causing them to repeat the behavior.
+- Whenever a child is seen engaging in unacceptable behavior or is found doing something that is unacceptable, the child should be first asked what he/she was up to. Listen to children. After knowing what the child was doing, an adult can explain why a behavior is inappropriate.
+- In order to avoid shaming, embarrassing or humiliating the child, the caregivers should hold this conversation one- on-one with the child and avoid confronting the child in front of the other children.
+- Talk about inappropriate behavior without demeaning their self worth or attacking their personality or character.
+- When correcting behavior, provide a calm explanation for your preferences.Giving a reason helps children understand the implications of their behavior for others (e.g., if your child teases another child because they wear glasses, explain that wearing glasses helps the child to see better and remind them that teasing can hurt others feelings).
+- Tell the child what you do want them to do rather than what you don’t. For example, instead of saying ‘Don’t walk so close to the road’, say ‘Come and walk next to me’. Often, we remember to reprimand children for their mistakes and correct them but forget to appreciate them for achievements and healthy behavior. A simple ‘you did a very good job today!’ can help children feel good about themselves and reinforce healthy behavior.
+- Do not verbally or physically abuse children. This hurts them and teaches them that abuse is a problem-solving technique, which they are bound to use to solve their own problems.
+- Take abuse between children seriously as well and teach them alternate ways to solve problems.
+- Avoid impatient body language like eye rolling, foot tapping or sighing. This can discourage a child from talking.
+- Hold conversations at the appropriate time and place. It is also important to address an issue in a timely manner. If one waits too long to address a situation, sometimes the child will not remember the incident or more often than not, it will not register that they did something wrong or unacceptable, thereby causing them to repeat the behavior.
     
 -   Refrain from labeling children negatively (for eg: manda, aalsi, moti, sukdi, bewakoof). All labels related to looks, intellect and behavior should be avoided.
     
