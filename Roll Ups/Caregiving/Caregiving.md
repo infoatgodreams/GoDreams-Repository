@@ -182,6 +182,14 @@ There are some very helpful attitudes for a Participatory Approach thatwe could 
 		- Create child-friendly orientation /informative material  and reception unit model
 		- Develop standardized discipline code
 		-  Capacity building of staff to use thismaterial to make children feel reassured, informed, safe.
+## Thumb rules for working with children 
+- Praise is effective- praise responsible, considerate, appropriate behaviour with attention, thanks, recognition, special privileges 
+- Make the child take responsibility - ask them to think about what they could do differently that could work better and be more constructive
+- Talk in private- do not humiliate the child in front of others, move to a private spot for more serious issues 
+- Two way communication- Listen as well as talk; let the child explain their side 
+- Stay calm and firm- never mean
+- Redirect alternatives and options 
+- Individualise measures- measures should take into account the age, understanding, incident and individual needs of the chilld
 		
 # Recommendation II : Staff Motivation 
 The staff’s opinions differed a little. Their top concern areas were :
@@ -209,7 +217,19 @@ accessibility to authorities (31%)
 - Caregiving was “seen as good when there is an identified adult (parent or guardian) who provides the child with a stable, nurturing, and emotionally secure environment. The relationship between the child and the caregiver should provide physical and psychological security for the child. 
 - This factor captured how committed the caregiver was to the child and to his/her involvement with the child”.
 
-# Bullying
+# Disciplinary Action
+According to Aangan, Children are helped to develop socially acceptable behaviour by encouraging and reinforcing acceptable behaviour and a constructive staff response to inappropriate behaviour. 
+- Verbal reprimands and redirection- let child know what's unacceptable and why
+- Apologies and Contracts : Take responsibility for actions, assign consequences and ways to make amends
+- Detention after school/during TV/recreation time
+- Written reports and assignments- preferably connected to the incident 
+- Open Circles and Child Panchayats- to encourage peer mediation and group discussion
+- Make a note in the child's file that can later be brought up with CWC/JWB
+- Community services and restitution
+- Time out: separate the child from the group to remove any positive reinforcement/attention for poor actions
+- Withholding privileges- effective, especially for older children. Children need to learn that privileges come with responsibility and that they can be taken away 
+- For serious disciplinary issues like drug abuse, you can use a combination of different methods. 
+
 
 
 # Care Practices
