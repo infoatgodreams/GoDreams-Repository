@@ -99,6 +99,22 @@ According to guidelines for institutional care in Ethiopia[^5], The profile of t
     * Health assistant: A Health Assistant shall, at least, have a certificate with a minimum experience of two years in the area.
     * Counselor: A Counselor shall, at least, have his/her first degree in psychology with a minimum experience of two years in the area.
     * Home Mothers: A Home Mother should complete at least grade six and shall have at least a three months relevant training and a minimum experience of one year as an assistant home mother.
+- [^11]Udayan care recommends
+	- The rule deals with the basis for staffing like categories of children, capacity of CCI, nature of duties, hours of duty etc.
+	- While key regular staff include
+		-  person-in-charge, 
+		- probation officer/CWO/CW, 
+		- counselor/psychologist/mental health expert, 
+		- house mother/house father, 
+		- para-medical staff/staff nurse/nursing orderly 
+		- storekeeper-cum-accountant; 
+		- educator/tutor, medical officer, art & craft & activity teacher and PT instructor-cum-yoga teacher psychiatrist may be hired as part-time staff. 
+		- The rule suggests a staffing pattern for a CCI with capacity for 100 children. Some other important conditions to be followed include the following: 
+			- Only female person-in-charge and staff to be appointed for CCIs housing girls 
+			- Those associated with CCIs should not be convicted persons or those 
+			  involved in immoral act, child abuse, employment of child labour, moral turpitude or should hold any political office during his/her tenure 
+			- No one should be appointed or work in CCIs without police verification. 
+			- CCIs housing infants should hire ayahs and paramedical staff as per need. (Page 26)
 
 
 ## Elements of Training
@@ -242,3 +258,4 @@ accessibility to authorities (31%)
 [^8]: [[Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia]]
 [^9]: [[UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care]]
 [^10]: [[Rainbow - CCI Management Handbook]]
+[^11]: [[UdayanCare_Standards Of Care in Child Care Institutions]]
