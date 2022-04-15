@@ -59,8 +59,11 @@ A systematic review of caregiving interventions[^4] recommended the need for
 # Caregiving Interventions
 - According to a review on caregiving interventions[^4], Many of the intervention approaches included in the studies ofthe present review have some important components in common: They all aim at improving the caregiver–child relationship (attachment and bonding), enriching the caregiving environment through additional stimulation and quality time, and at least some focus on preventing maltreatment and further harm
 - One promising approach that is theory based and manualized is [[FairstartGlobal]] (www.fairstartglobal.com). It is a curriculum rooted in attachment theory that promotes appropriate caregiver–child interactions and relationships. Its unique benefits include free availability on the Internet, implementation flexibility, administrator and staff involvement in creating its implementation, translation into 26 languages, and current implementation in numerous countries around the globe 
-- Pitssburgh
-- Kateryn 
+- - [[The Bucharest Early Intervention Project]] (Koga,  Smyke, Zeanah, 2003; Zeanah, Smyke, & Koga,  2003) has begun providing a foster care inter-  vention in Bucharest, Romania, in which they  are following the development of children re-  moved from orphanage to foster care and com-  paring their developmental progress to both  children who remain in orphanage and a com-  munity comparison group. 
+	- [[The St. Petersburg– U.S.A. Orphanage Project]] (McCall, Muha-  medrahimov, Groark, Palmov, & Nikiforova,  2003), operating in three baby homes in St. Petersburg, is providing different interventions to examine which are most effective in reducing the developmental impact of institutional rearing. I
+		- In one baby home, orphanage staff are being trained in child development  and sensitive responsiveness. 
+		- In a second,  both caregiver training and structural changes  that reduce the number of different caregivers  and increase their stability in the lives of the children are being implemented. 
+		- A third baby  home is serving as a “no intervention” comparison group 
 - Contrary to typical settings, - Irvington House[^6], a home for 130 children,  considered trying to imitate some sort of family life, but quickly came to realize that this was not only impractical but probably undesirable and dishonest as well. 
 	- We have therefore been quite clear with ourselves and we hope with the children, that Irvington house is a house and not a home. That counselors are counselors and not parents, and that the other children in the dormitory are members of a group, not of a family. 
 
