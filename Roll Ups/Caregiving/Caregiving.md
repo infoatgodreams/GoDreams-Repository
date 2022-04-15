@@ -225,36 +225,22 @@ There are some very helpful attitudes for a Participatory Approach thatwe could 
 - Address children with their names, even in your internal communication and not as POCSO Case, Missing child, ITPA case, Trafficking case, Suicide case, etc.
 
 
-## DEALING WITH EMOTIONS & ATTACHMENT
+## Dealing with Emotions
 - The best way to work with children is to be empathetic towards them.
 - Children can quickly understand who understands them and who cannot understand them. When a child has a fight and is angry with everyone, caregiver could go near and ask permission to sit nearby. The caregiver could say that “I can understand that you are angry and do you want to talk about it?”
 - As an adult living with children, express your emotions on the child’s behavior. Only being patient is not the way to deal with children experiencing emotional and behavioral challenges.
-    
--   Having conversations about others feelings is required too as it helps the child build skills for empathy and considering different perspectives. Let them know that the staff is human too and not just an authoritarian figure.
-    
--   Use the language of “anger expression” (appropriate and inappropriate) instead of anger management or “controlling anger”. Do not seek tips for “controlling” child’s anger.
-    
--   Anger may have been a useful emotion for children who were abused as that emotion made them protect themselves and realize that they don’t feel safe.
-    
--   When children are distressed or aggressive, help them to calm down and then try to have a conversation.When children are triggered (having a strong emotional and physical reaction) they do not have access to the part of the brain that helps them think rationally.
-    
--   Therefore, it is important and will be more effective if caregivers help the child stabilize emotionally by using a range of tools such as grounding or relaxation exercises before disciplining, discussing behavior corrective measures. After the child has calmed down, the staff/parent should have a conversation with the child about what made him/her angry. It is not helpful if you ask children not to be angry. Anger is an emotion and an adult can teach the child to express it healthily. Address the anger and tell the child to express it in words.
-    
--   If the child does not have a dialogue about the anger, it will lead to bottling up of the anger and resentment towards the adult causing defiance to follow anything that is told to the child.
-    
--   When a staff realizes that the child is going to be aggressive and say bad things about the staff’s character, the staff can tell her/him to think about what s/he actually feels and write it down in a letter rather than trying to hurt the staff by saying nasty things. It may help to acknowledge the impact the child’s words are having in a manner that does not place the responsibility on the child, for example, “I can see that you are angry and hurting. The words that you are saying are hurting me and making me angry/frustrated as well. I don’t think we can have a helpful conversation when we are both so upset.”
-    
+- Having conversations about others feelings is required too as it helps the child build skills for empathy and considering different perspectives. Let them know that the staff is human too and not just an authoritarian figure.
+- Use the language of “anger expression” (appropriate and inappropriate) instead of anger management or “controlling anger”. Do not seek tips for “controlling” child’s anger
+- Anger may have been a useful emotion for children who were abused as that emotion made them protect themselves and realize that they don’t feel safe.
+- When children are distressed or aggressive, help them to calm down and then try to have a conversation.When children are triggered (having a strong emotional and physical reaction) they do not have access to the part of the brain that helps them think rationally.\
+- Therefore, it is important and will be more effective if caregivers help the child stabilize emotionally by using a range of tools such as grounding or relaxation exercises before disciplining, discussing behavior corrective measures. After the child has calmed down, the staff/parent should have a conversation with the child about what made him/her angry. It is not helpful if you ask children not to be angry. Anger is an emotion and an adult can teach the child to express it healthily. Address the anger and tell the child to express it in words.
+- If the child does not have a dialogue about the anger, it will lead to bottling up of the anger and resentment towards the adult causing defiance to follow anything that is told to the child.
+- When a staff realizes that the child is going to be aggressive and say bad things about the staff’s character, the staff can tell her/him to think about what s/he actually feels and write it down in a letter rather than trying to hurt the staff by saying nasty things. It may help to acknowledge the impact the child’s words are having in a manner that does not place the responsibility on the child, for example, “I can see that you are angry and hurting. The words that you are saying are hurting me and making me angry/frustrated as well. I don’t think we can have a helpful conversation when we are both so upset.”
+- Teach the child the difference between response and reaction. For example: child says to the staff “I don’t want to study”. 
+- Reaction: You never like studying, you only want to play all the time.
+	- Response: Can you tell me why you don’t want to study? It is not always fun to study especially when we have to study something we don’t enjoy or is challenging. Sometimes we have to do things that are hard so that we can keep learning and growing. What is it that is making it hard for you to study today? Let’s talk about it.
 
-  
-
--   Teach the child the difference between response and reaction. For example: child says to the staff “I don’t want to study”. 
-    
-
-Reaction: You never like studying, you only want to play all the time. 
-
-Response: Can you tell me why you don’t want to study? It is not always fun to study especially when we have to study something we don’t enjoy or is challenging. Sometimes we have to do things that are hard so that we can keep learning and growing. What is it that is making it hard for you to study today? Let’s talk about it.
-
-  
+## Dealing with Attachment
 
 -    Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
     
