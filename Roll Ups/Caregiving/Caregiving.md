@@ -34,7 +34,13 @@ In a systematic review[^4]
 - individuals with a history of early institutional care showed more academic difficulties and deficits in social skills, such as maintaining trustful interpersonal relationships (Frank, Klass, Earls, &amp; Eisenberg, 1996; Merz, McCall, &amp; Wright, 2013).
 - child maltreatment has been related to epigenetic changes in the stress response axis (Hecker, Radtke, Hermenau, Papassotiropoulos, &amp; Elbert, 2016; McGowan et al., 2009)
 - Usually, the child care institutions are able to offer basic provisions of food and shelter, but they lack adequate means to offer sensitive, child-oriented care, possibly leading to the emotional and physical neglect of many children (Oliveira et al., 2012; Vashchenko et al., 2010)
-- the reported worldwide rates of violence against children in institutional care were 6 times higher than those of children living in family-based foster care of interventions to improve care practices in institutions, the paper described the major negative effects of poor caregiving:
+- the reported worldwide rates of violence against children in institutional care were 6 times higher than those of children living in family-based foster care of interventions to improve care practices in institutions, the paper described the major negative effects of poor caregiving
+- In a review paper on the impact of institutionalization on children, -  
+	- indiscriminate friendliness as behavior that is affectionate and friendly toward all adults (including strangers) without the fear or caution that is typical  in young children. In these cases the children’s behavior toward a stranger cannot be discriminated from their behavior toward their primary caregivers. 
+	- found that indiscriminate friendliness was still present in adolescents who had been institutionalized as children but who were later fostered to unstable foster care placements.
+	- Researchers have  consistently found associations between orphanage children’s indiscriminate friendliness  and their behavior problems
+	- Chisholm (1998) has suggested that indiscriminate friendliness may serve an adaptive function in the context of the orphanage environment where emotional  resources are extremely limited. 
+		- Amid the passivity of the orphanage an indiscriminately friendly child may receive what little attention caregivers have to offer. 
 
 ## Positive effects of good-quality care
 - [^4]Structural interventions and caregiver trainings contribute to an improvement in children's living conditions in institutional care
