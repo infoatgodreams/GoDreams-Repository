@@ -268,7 +268,7 @@ A systematic review of caregiving interventions[^4] recommended the need for
 	- Role definition: Interaction responsibilities assigned to key staff
 	- Capacity building of staff to use reception material prepared for children to make children feel reassured, informed, safe.
 
-## Disciplining 
+## Disciplinary Action
 
 
 ## Thumb rules for working with children 
