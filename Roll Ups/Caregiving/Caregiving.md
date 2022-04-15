@@ -211,46 +211,24 @@ There are some very helpful attitudes for a Participatory Approach thatwe could 
 -   When children ask questions, you do not have to know all the answers. Admit it when you do not know something.
     
 -   This helps children learn that it is okay to not know everything and that new knowledge can always be acquired through effort.Use conversation as an opportunity to keep up with adolescent activities and relationships. Stay interested, and gently ask questions and seek explanations for their behaviour.
-    
--   Praise their efforts, not just their results. A child needs to know that it is okay to fail.
-    
--   When the child returns from school, college or any vocational training centre make a point to ask how was his/her day in school/college/ vocational training centre.
-    
--   Ensure that you maintain confidentiality when children trust you with their stories. This builds trust and helps them accept you as a safe space they can come to when they need adult help.
-    
--   In case the child discloses anything threatening or about an abuse:
-    
+- Praise their efforts, not just their results. A child needs to know that it is okay to fail
+- When the child returns from school, college or any vocational training centre make a point to ask how was his/her day in school/college/ vocational training centre.
+- Ensure that you maintain confidentiality when children trust you with their stories. This builds trust and helps them accept you as a safe space they can come to when they need adult help.
 
--   Acknowledge that the child is being courageous in sharing a difficult experience or information
-    
--   Validate that their decision to trust and share with you was a good, safe and responsible one
-    
--   Reassure the child that specific steps will be taken to protect them and other children or adults affected by the event/experience
-    
--   If possible identify the next steps that the caregivers will be taking to ensure the safety of the child and others affected
-    
--   Follow-up and check-in with the child with regards to feelings of fear, shame, anxiety, relief that they may be experiencing following disclosure
-    
+## In case the child discloses anything threatening or about an abuse:
+- Acknowledge that the child is being courageous in sharing a difficult experience or information
+- Validate that their decision to trust and share with you was a good, safe and responsible one
+- Reassure the child that specific steps will be taken to protect them and other children or adults affected by the event/experience
+- If possible identify the next steps that the caregivers will be taking to ensure the safety of the child and others affected
+- Follow-up and check-in with the child with regards to feelings of fear, shame, anxiety, relief that they may be experiencing following disclosure
+- Ensure that consistent messages are given to the child. Hence, it is important for caregivers to regularly communicate with each other.
+- Address children with their names, even in your internal communication and not as POCSO Case, Missing child, ITPA case, Trafficking case, Suicide case, etc.
 
-  
 
--    Ensure that consistent messages are given to the child. Hence, it is important for caregivers to regularly communicate with each other.
-    
--   Address children with their names, even in your internal communication and not as POCSO Case, Missing child, ITPA case, Trafficking case, Suicide case, etc.
-    
-
-  
-
-DEALING WITH EMOTIONS & ATTACHMENT
-
-  
-
--    The best way to work with children is to be empathetic towards them.
-    
-
--    Children can quickly understand who understands them and who cannot understand them. When a child has a fight and is angry with everyone, caregiver could go near and ask permission to sit nearby. The caregiver could say that “I can understand that you are angry and do you want to talk about it?”
-    
--   As an adult living with children, express your emotions on the child’s behavior. Only being patient is not the way to deal with children experiencing emotional and behavioral challenges.
+## DEALING WITH EMOTIONS & ATTACHMENT
+- The best way to work with children is to be empathetic towards them.
+- Children can quickly understand who understands them and who cannot understand them. When a child has a fight and is angry with everyone, caregiver could go near and ask permission to sit nearby. The caregiver could say that “I can understand that you are angry and do you want to talk about it?”
+- As an adult living with children, express your emotions on the child’s behavior. Only being patient is not the way to deal with children experiencing emotional and behavioral challenges.
     
 -   Having conversations about others feelings is required too as it helps the child build skills for empathy and considering different perspectives. Let them know that the staff is human too and not just an authoritarian figure.
     
