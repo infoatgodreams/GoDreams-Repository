@@ -268,7 +268,7 @@ A systematic review of caregiving interventions[^4] recommended the need for
 	- Role definition: Interaction responsibilities assigned to key staff
 	- Capacity building of staff to use reception material prepared for children to make children feel reassured, informed, safe.
 
-## Disciplining Children
+## Dealing with Disciplining Children
 
 ### Objective
 According to Aangan[^3], Children are helped to develop socially acceptable behaviour by encouraging and reinforcing acceptable behaviour and a constructive staff response to inappropriate behaviour. Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
@@ -307,41 +307,48 @@ According to Aangan[^3], Children are helped to develop socially acceptable beha
 - Apologize to children when you make mistakes.This helps children understand that everybody makes mistakes and that mistakes can be rectified. Children often learn through modeling – by observing other individuals and imitating them.
 
 
-
-## In case the child discloses anything threatening or about an abuse:
+## Dealing with allegations of abuse
+### Acknowledgement
 - Acknowledge that the child is being courageous in sharing a difficult experience or information
 - Take abuse between children seriously as well and teach them alternate ways to solve problems.
 - Validate that their decision to trust and share with you was a good, safe and responsible one
 - Reassure the child that specific steps will be taken to protect them and other children or adults affected by the event/experience
+
+### Follow-up & Redressal
 - If possible identify the next steps that the caregivers will be taking to ensure the safety of the child and others affected
 - Follow-up and check-in with the child with regards to feelings of fear, shame, anxiety, relief that they may be experiencing following disclosure
 - Ensure that consistent messages are given to the child. Hence, it is important for caregivers to regularly communicate with each other.
+
+### Thumb-rules for dealing with allegations of abuse from  children
 - Address children with their names, even in your internal communication and not as POCSO Case, Missing child, ITPA case, Trafficking case, Suicide case, etc.
 - Ensure that you maintain confidentiality when children trust you with their stories. This builds trust and helps them accept you as a safe space they can come to when they need adult help.
 
 
 ## Dealing with Emotions
-- The best way to work with children is to be empathetic towards them.
+### Normalise & acknowledge emotions
 - Children can quickly understand who understands them and who cannot understand them. When a child has a fight and is angry with everyone, caregiver could go near and ask permission to sit nearby. The caregiver could say that “I can understand that you are angry and do you want to talk about it?”
 - As an adult living with children, express your emotions on the child’s behavior. Only being patient is not the way to deal with children experiencing emotional and behavioral challenges.
-- Having conversations about others feelings is required too as it helps the child build skills for empathy and considering different perspectives. Let them know that the staff is human too and not just an authoritarian figure.
-- Use the language of “anger expression” (appropriate and inappropriate) instead of anger management or “controlling anger”. Do not seek tips for “controlling” child’s anger
-- Anger may have been a useful emotion for children who were abused as that emotion made them protect themselves and realize that they don’t feel safe.
-- When children are distressed or aggressive, help them to calm down and then try to have a conversation.When children are triggered (having a strong emotional and physical reaction) they do not have access to the part of the brain that helps them think rationally.\
-- Therefore, it is important and will be more effective if caregivers help the child stabilize emotionally by using a range of tools such as grounding or relaxation exercises before disciplining, discussing behavior corrective measures. After the child has calmed down, the staff/parent should have a conversation with the child about what made him/her angry. It is not helpful if you ask children not to be angry. Anger is an emotion and an adult can teach the child to express it healthily. Address the anger and tell the child to express it in words.
+- Having conversations about others' feelings is required too as it helps the child build skills for empathy and considering different perspectives. Let them know that the staff is human too and not just an authoritarian figure.
+
+### Stabilize emotional expressions
+- Use the language of “anger expression” (appropriate and inappropriate) instead of anger management or “controlling anger”.
+	- Anger may have been a useful emotion for children who were abused as that emotion made them protect themselves and realize that they don’t feel safe.
+- When children are distressed or aggressive, help them to calm down and then try to have a conversation.When children are triggered (having a strong emotional and physical reaction) they do not have access to the part of the brain that helps them think rationally.
+- It is important and will be more effective if caregivers help the child stabilize emotionally by using a range of tools such as grounding or relaxation exercises before disciplining, discussing behavior corrective measures. 
+
+### Discuss emotions openly
+- After the child has calmed down, the staff/parent should have a conversation with the child about what made him/her angry.  Address the anger and tell the child to express it in words.
 - If the child does not have a dialogue about the anger, it will lead to bottling up of the anger and resentment towards the adult causing defiance to follow anything that is told to the child.
-- When a staff realizes that the child is going to be aggressive and say bad things about the staff’s character, the staff can tell her/him to think about what s/he actually feels and write it down in a letter rather than trying to hurt the staff by saying nasty things. It may help to acknowledge the impact the child’s words are having in a manner that does not place the responsibility on the child, for example, “I can see that you are angry and hurting. The words that you are saying are hurting me and making me angry/frustrated as well. I don’t think we can have a helpful conversation when we are both so upset.”
-- Teach the child the difference between response and reaction. For example: child says to the staff “I don’t want to study”. 
-- Reaction: You never like studying, you only want to play all the time.
-	- Response: Can you tell me why you don’t want to study? It is not always fun to study especially when we have to study something we don’t enjoy or is challenging. Sometimes we have to do things that are hard so that we can keep learning and growing. What is it that is making it hard for you to study today? Let’s talk about it.
+- When a staff realizes that the child is going to be aggressive and say bad things about the staff’s character, the staff can tell her/him to think about what s/he actually feels and write it down in a letter rather than trying to hurt the staff by saying nasty things. It may help to acknowledge the impact the child’s words are having in a manner that does not place the responsibility on the child
+- Teach the child the difference between response and reaction. 
 - Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
 
-## Dealing with Attachment
+## Dealing with Attachment issues
 - Encourage parent(s)/guardian(s)to meet the children as much as they can. it helps the child to build trust and reduces the attachment issues they face which reflect on their behavior.
-- In early childhood it also helps in the brain development of the child. 
+	- In early childhood it also helps in the brain development of the child. 
 - Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
-- When the child returns from school, college or any vocational training centre make a point to ask how was his/her day in school/college/ vocational training centre.
-- It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
+- When the child returns from school, college or any vocational training centre make a point to ask how was his/her day in school/college/ vocational training centre. Show interest in their lives. 
+- It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation. It is crucial to not disrupt attachment patterns then. 
 
 
 
