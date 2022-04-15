@@ -9,7 +9,7 @@ Link: https://drive.google.com/file/d/1LtVSZkq-PWx71HL9tsJY1GdhUX62DhR8/view?usp
 
 - Vipul Jain | President and Co-founder | CSA (Page 2)
 - Satyajeet Mazumdar | Head - Advocacy | CSA (Page 2) 
-- As pera recent report of the NationalCommission for Protection of ChildRights, more than 2.5 lakh children aregrowing up in 7163 CCIs. (Page 6)
+- As pera recent report of the National Commission for Protection of Child Rights, more than 2.5 lakh children aregrowing up in 7163 CCIs. (Page 6)
 - The same 2018 study byMWCD found almost 33% of the childrenin CCIs to be those with single parents,15% being orphan / abandoned /surrendered children, and about 9%being victims of child sexual abuse,victims of traﬃcking, child labour,runaway / missing children, victims ofchild marriage, children aﬀected andinfected by HIV and AIDS, victims ofman-made and natural disasters,homeless children, and children who arementally and/or physically challenged.The above categories form about 57% ofthe child population in CCIs. (Page 6)
 - Taking data from the 2011 census,UNICEF and Childline, we can safelyconclude that at least 20 million out of the170 million vulnerable children in Indiacould be in situations of extreme risk andvulnerability, needing immediatesupport from the system. (Page 6)
 - The reality, however, is that only about45% CCIs receive some funding from theGovernment, which also is intermittentand in arrears. (Page 7)

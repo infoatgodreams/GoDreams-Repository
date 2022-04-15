@@ -15,7 +15,7 @@ Interactions with children
 Successful interventions in improving caregiving 
 What is the importance of caregiving in influencing child outcomes? 
 
-# Importance of Caregiving 
+# Why is caregiving crucial? 
 - According to Aangan[^3], The children’s answer to our first question, about the first three things they would like to change about their institution, was clear and unanimous:
 	Staff – Child Interaction:
 		“The staff does not understand us”, said 70% CICL, 50% CNCP.
@@ -26,6 +26,25 @@ They beat us up”, said 65% CICL, 60% CNCP.
 -  Structured Recreation:
  “We wish they would allow us to play more and have more fun,” said
 24% CNCP and 19% CICL.
+
+## Effects of Sub-optimal care
+In a systematic review[^4]- Children may develop a low-quality attachment bond or even lack an attachment relationship altogether in the absence of adequate care
+
+- Taken together with the experience of violence and abuse, this lack may impact the child’s stress response system, and, in this way, the development and structure of the brain as well. These changes to neurodevelopment may lead to mental health problems, such as depression, posttraumatic stress disorder, and internalizing and externalizing problems
+
+- individuals with a history of early institutional care showed more academic difficulties and deficits in social skills, such as maintaining trustful interpersonal relationships (Frank, Klass, Earls, &amp; Eisenberg, 1996; Merz, McCall, &amp; Wright, 2013).
+
+- child maltreatment has been related to epigenetic changes in the stress response axis (Hecker, Radtke, Hermenau, Papassotiropoulos, &amp; Elbert, 2016; McGowan et al., 2009)
+
+- Usually, the child care institutions are able to offer basic provisions of food and shelter, but they lack adequate means to offer sensitive, child-oriented care, possibly leading to the emotional and physical neglect of many children (Oliveira et al., 2012; Vashchenko et al., 2010)
+
+- the reported worldwide rates of violence against children in institutional care were 6 times higher than those of children living in family-based foster care of interventions to improve care practices in institutions, the paper described the major negative effects of poor caregiving:
+- Children may develop a low-quality attachment bond or even lack an attachment relationship altogether in the absence of adequate care
+- Taken together with the experience of violence and abuse, this lack may impact the child’s stress response system, and, in this way, the development and structure of the brain as well. These changes to neurodevelopment may lead to mental health problems, such as depression, posttraumatic stress disorder, and internalizing and externalizing problems
+- individuals with a history of early institutional care showed more academic difficulties and deficits in social skills, such as maintaining trustful interpersonal relationships 
+- child maltreatment has been related to epigenetic changes in the stress response axis (explain this)
+- Usually, the child care institutions are able to offer basic provisions of food and shelter, but they lack adequate means to offer sensitive, child-oriented care, possibly leading to the emotional and physical neglect of many children 
+- the reported worldwide rates of violence against children in institutional care were 6 times higher than those of children living in family-based foster care
 
 
 
@@ -89,3 +108,4 @@ accessibility to authorities (31%)
 [^1]:  [[Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries]]
 [^2]: [[Miracle Foundation_Institutionalised Children_Explorations and Beyond]]
 [^3]: [[Aangan - Changing Spaces]]
+[^4]: [[Fostering Child Development _ Systematic Review of caregiver training and structural interventions]]
