@@ -193,6 +193,7 @@ There are some very helpful attitudes for a Participatory Approach thatwe could 
 
 ## Working with children sensitively
 - Whenever a child is seen engaging in unacceptable behavior or is found doing something that is unacceptable, the child should be first asked what he/she was up to. Listen to children. After knowing what the child was doing, an adult can explain why a behavior is inappropriate.
+- It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
 - In order to avoid shaming, embarrassing or humiliating the child, the caregivers should hold this conversation one- on-one with the child and avoid confronting the child in front of the other children.
 - Talk about inappropriate behavior without demeaning their self worth or attacking their personality or character.
 - When correcting behavior, provide a calm explanation for your preferences.Giving a reason helps children understand the implications of their behavior for others (e.g., if your child teases another child because they wear glasses, explain that wearing glasses helps the child to see better and remind them that teasing can hurt others feelings).
@@ -201,16 +202,11 @@ There are some very helpful attitudes for a Participatory Approach thatwe could 
 - Take abuse between children seriously as well and teach them alternate ways to solve problems.
 - Avoid impatient body language like eye rolling, foot tapping or sighing. This can discourage a child from talking.
 - Hold conversations at the appropriate time and place. It is also important to address an issue in a timely manner. If one waits too long to address a situation, sometimes the child will not remember the incident or more often than not, it will not register that they did something wrong or unacceptable, thereby causing them to repeat the behavior.
-    
--   Refrain from labeling children negatively (for eg: manda, aalsi, moti, sukdi, bewakoof). All labels related to looks, intellect and behavior should be avoided.
-    
--   If you see a child lying, you can talk about the situation and address the lying instead of labeling the child as “liar” r “chor/stealer”
-    
--   Apologize to children when you make mistakes.This helps children understand that everybody makes mistakes and that mistakes can be rectified. Children often learn through modeling – by observing other individuals and imitating them.
-    
--   When children ask questions, you do not have to know all the answers. Admit it when you do not know something.
-    
--   This helps children learn that it is okay to not know everything and that new knowledge can always be acquired through effort.Use conversation as an opportunity to keep up with adolescent activities and relationships. Stay interested, and gently ask questions and seek explanations for their behaviour.
+- Refrain from labeling children negatively (for eg: manda, aalsi, moti, sukdi, bewakoof). All labels related to looks, intellect and behavior should be avoided.
+- If you see a child lying, you can talk about the situation and address the lying instead of labeling the child as “liar” r “chor/stealer”
+- Apologize to children when you make mistakes.This helps children understand that everybody makes mistakes and that mistakes can be rectified. Children often learn through modeling – by observing other individuals and imitating them.
+- When children ask questions, you do not have to know all the answers. Admit it when you do not know something.
+	- This helps children learn that it is okay to not know everything and that new knowledge can always be acquired through effort.Use conversation as an opportunity to keep up with adolescent activities and relationships. Stay interested, and gently ask questions and seek explanations for their behaviour.
 - Praise their efforts, not just their results. A child needs to know that it is okay to fail
 - When the child returns from school, college or any vocational training centre make a point to ask how was his/her day in school/college/ vocational training centre.
 - Ensure that you maintain confidentiality when children trust you with their stories. This builds trust and helps them accept you as a safe space they can come to when they need adult help.
@@ -239,47 +235,16 @@ There are some very helpful attitudes for a Participatory Approach thatwe could 
 - Teach the child the difference between response and reaction. For example: child says to the staff “I don’t want to study”. 
 - Reaction: You never like studying, you only want to play all the time.
 	- Response: Can you tell me why you don’t want to study? It is not always fun to study especially when we have to study something we don’t enjoy or is challenging. Sometimes we have to do things that are hard so that we can keep learning and growing. What is it that is making it hard for you to study today? Let’s talk about it.
+- Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
 
 ## Dealing with Attachment
+- Encourage parent(s)/guardian(s)to meet the children as much as they can. it helps the child to build trust and reduces the attachment issues they face which reflect on their behavior.
+- In early childhood it also helps in the brain development of the child. 
+- Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
 
--    Sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Let the child seek help from a counselor in such cases. Finding the child while engaging in sexually reactive behavior should not be used as a reason for punishment or scolding.
+
+
     
-
-  
-
--    Encourage parent(s)/guardian(s)to meet the children as much as they can. it helps the child to build trust and reduces the attachment issues they face which reflect on their behavior.
-    
-
-  
-
--   In early childhood it also helps in the brain development of the child. Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
-    
-
-  
-
--   It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
-    
-
-  
-
-SETTING RULES
-
-  
-
--    Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
-    
--   Children may not conform to all the rules and the staff can decide what are acceptable.
-    
--   Extreme disciplining may lead to defiance in children.
-    
--   Encourage children to ask questions about rules and have a discussion with them on why certain rules are important. By teaching children to be blindly compliant, we are discouraging critical thinking, which is a valuable characteristic. This not only hampers critical thinking but teaches them that adults are always right which is untrue.
-    
--   While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
-    
--   Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
-    
-
-**
 		
 # Recommendation II : Staff Motivation 
 The staff’s opinions differed a little. Their top concern areas were :
@@ -319,6 +284,12 @@ According to Aangan, Children are helped to develop socially acceptable behaviou
 - Time out: separate the child from the group to remove any positive reinforcement/attention for poor actions
 - Withholding privileges- effective, especially for older children. Children need to learn that privileges come with responsibility and that they can be taken away 
 - For serious disciplinary issues like drug abuse, you can use a combination of different methods. 
+- - Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
+- Children may not conform to all the rules and the staff can decide what are acceptable.
+- Extreme disciplining may lead to defiance in children.
+- Encourage children to ask questions about rules and have a discussion with them on why certain rules are important. By teaching children to be blindly compliant, we are discouraging critical thinking, which is a valuable characteristic. This not only hampers critical thinking but teaches them that adults are always right which is untrue.
+- While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
+- Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
 
 
 
