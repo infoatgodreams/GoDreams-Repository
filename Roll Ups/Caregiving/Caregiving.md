@@ -55,12 +55,25 @@ A systematic review of caregiving interventions[^4] recommended the need for
 - One promising approach that is theory based and manualized is [[FairstartGlobal]] (www.fairstartglobal.com). It is a curriculum rooted in attachment theory that promotes appropriate caregiver–child interactions and relationships. Its unique benefits include free availability on the Internet, implementation flexibility, administrator and staff involvement in creating its implementation, translation into 26 languages, and current implementation in numerous countries around the globe 
 - Pitssburgh
 - Kateryn 
+- Contrary to typical settings, - Irvington House[^6], a home for 130 children,  considered trying to imitate some sort of family life, but quickly came to realize that this was not only impractical but probably undesirable and dishonest as well. 
+	- We have therefore been quite clear with ourselves and we hope with the children, that Irvington house is a house and not a home. That counselors are counselors and not parents, and that the other children in the dormitory are members of a group, not of a family. 
 
 # Caregiver Profile
 - [^2]The Miracle Foundation Method provided for hiring of a qualified social worker at Anwesha.
 	- The social worker engaged in counselling of the children, guiding the house parents,observing and supervising the work of the coaching teachers, following up ontraining of children and house parents and documentation-related work. (Page 11)
 
-## Caregiver Types
+## Caregiver Number & Types
+At Irvington House, a strict staff selection criterion was used, 
+- The child-care staff is for the most part college-trained. The average age is 24.
+	- We are particularly concerned to find people interested in and responsive to professional supervision
+	- The child-care workers are directly supervised by trained group workers, with individual conferences as the main supervisory tool 
+	- We look for people interested in eventually undertaking graduate training in social work or a related field and who will be, consequently, professionally as well as personally motivated. 
+	- As a matter of policy, we always have had at least one male worker assigned to the three older groups
+	- We have tried consciously to keep the numebr of different adults with whom a child must have a meaningful relationship to a minimum
+	- A child-care worker once assigned to a given dormitory, has remained there throughout his employment at the house. 
+	- Each worker has a case load of approximately 20 children. 
+
+
 According to guidelines for institutional care in Ethiopia[^5], The profile of the human-power shall be:
     * Manager / Administrator: The manager / administrator shall have at least his/her first degree in sociology, psychology, or other related fields of study with, at least, two years of relevant experience.
     * Secretary: The Secretary shall, at least, have a diploma in office management, accounting or other related fields with, at least, two years of experience in similar line of work.
@@ -80,8 +93,23 @@ According to guidelines for institutional care in Ethiopia[^5], The profile of t
 # Caregiver support
 - [^2]For Miracle Foundation. ‘Tea time with house parents’, the practice of Miracle staff spending informal timewith caregivers enabled them to unwind, open up, share their joys and concernsand feel acknowledged as being important.
 - [^2]Miracle Staff, House parent Diary served to be a readyreference of their important tasks and responsibilities.
+- Prerna[^7] recommends self care tips for all caregivers
+	- Get 8 hours of sleep.
+	* Drink adequate water and make sure you are eating healthy meals.
+	* Be self compassionate: You are also going through a difficult time, it's okay to struggle
+	* Know your limitations: In the pandemic situation, we have limited resources to help ourselves and others, acknowledging this would help caregivers to feel less exhausted and guilty.
+	* Regularly engage in coping strategies: Deep Breathing, Exercising, Practicing a hobby, taking regular breaks, self-care activities, using humor in day to day life, Affirmations, Systematic Body relaxation, grounding, Mandala making etc.
+	* Stay in contact with loved ones.
 
 # Interactions with Children
+
+## Key principles governing interactions
+According to the study conducted at Irvington House[^6],
+- For young children a paramount need is to feel that there is someone who really cares for him or her as an individual human being, someone with whom and for whom he is special. In addition to this special one to one relationship, the child must also feel that all, or most, of the people around him like and respect him for what he is. We have called this basic concept, along with teh child-care practices that have grown out of it, "individualization. 
+- We assumed that small children need relatively small, self-contained settings for their basic physical care. They need the opportunity for privacy, some belongings which are their very own, some which are to be shared and the freedom to explore within boundaries that set unobtrusive but firm limits on impulse. 
+- A final assumption in relation to the program offered is that any positive life experience, no matter what its duration, strengthens the child in terms of meeting subsequent life experiences. 
+- There is no concept of "spoiling the children" as while it is morally and professionally impossibly to not provide the maximum of what we have, our assumption is that if we offer this, a child is better equipped to meet the vicissitudes of whatever his life may be when he leaves us. 
+- The one-to-one relationship thus developed between counselor and child is to give the child a feeling that, despite some of the necessary impersonality and antiseptic quality of an institutional environment, someone on the staff cares for him or her as an individual human being above and beyond the requirements of the job. 
 - Following 5 intervention areas:
 		- Accessibility of staff 
 		- Quality of interaction 
@@ -136,3 +164,5 @@ accessibility to authorities (31%)
 [^3]: [[Aangan - Changing Spaces]]
 [^4]: [[Fostering Child Development _ Systematic Review of caregiver training and structural interventions]]
 [^5]: [[Guidelines for Institutional Childcare, Ethiopia]]
+[^6]: [[Irvington HouseGrowth Potential of Pre-school aged children in institutional care]]
+[^7]: [[Mental Health at CCIs during Covid-19_Prerana Guide]]

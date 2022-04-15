@@ -30,7 +30,6 @@ Scope: A study of change of intellectual level in 132 "dependent and neglected" 
 - We assumed that small children need relatively small, self-contained settings for their basic physical care. They need the opportunity for privacy, some belongings which are their very own, some which are to be shared and the freedom to explore within boundaries that set unobtrusive but firm limits on impulse. 
 - A final assumption in relation to the program offered is that any positive life experience, no matter what its duration, strengthens the child in terms of meeting subsequent life experiences. 
 - There is no concept of "spoiling the children" as while it is morally and professionally impossibly to not provide the maximum of what we have, our assumption is that if we offer this, a child is better equipped to meet the vicissitudes of whatever his life may be when he leaves us. 
-
 - The one-to-one relationship thus developed between counselor and child is to give the child a feeling that, despite some of the necessary impersonality and antiseptic quality of an institutional environment, someone on the staff cares for him or her as an individual human being above and beyond the requirements of the job. 
 
 ## Staff Selection, Supervision and Allocation
@@ -51,7 +50,7 @@ Scope: A study of change of intellectual level in 132 "dependent and neglected" 
 - The relatively small group of children initially performing at above average levels tend to improve significantly. 
 	- It is suggested that this group is composed of the brighter children whose previous environments provided markedly inadequate intellectual stimulation or markedly severe emotional deprivation. 
 - The magnitude of increment seems directly related to the duration of stay in the institution but the optimal interval appears to be approximately one year, as children remaining much longer do not show significantly greater improvement that children remaining upto a year. 
-- The children who appear ot gain most from the institution setting are those whose functioning is far below their ability because of environmental or emotional deprivation 
+- The children who appear to gain most from the institution setting are those whose functioning is far below their ability because of environmental or emotional deprivation 
 	- [Restoration](Roll%20Ups/Alternative%20Care/Restoration.md)Where foster home placement subsequent to the institutional placement is indicated, however, perhaps we should plan in terms of allowing the child to achieve the maximum benefits of the institution before transferring him, instead of following the policy which is now general, namely, transferring the child as soon as a home is available.
 - With respect to age, there is no doubt that separation from the natural parents for practically all children under three, for most children between three and five, and for very many children between give and eight, creates anxiety, a sense of loss, a sense of guilt and unworthiness and extreme emotional privation, which thereafter handicap the child's future intellectual, school and social adjustment.  
 # #readinglist  
