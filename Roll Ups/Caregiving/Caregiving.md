@@ -48,6 +48,7 @@ In a systematic review[^4]
 - The prevention of physical and emotional abuse in institutional care has widely been neglected
 - More efforts are needed to focus on the improvement of general caregiving environment, caregiver child relationship and maltreatment prevention
 - In a seminar on institutional care[^9], we learned that among the positive aspects, the love and care that the staff  showed to the children was the fi rst point mentioned, together with thefacilities available and good education
+- [^4]Nevertheless, our findings are in concordance with our hypothesis that caregiver trainings, structural changes, and enriched caregiving environments in child care institutions have beneficial effects on the child’s emotional, social, and cognitive development.
 
 # Broad recommendations for caregiving from research
 A systematic review of caregiving interventions[^4] recommended the need for
