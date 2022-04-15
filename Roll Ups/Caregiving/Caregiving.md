@@ -198,10 +198,19 @@ A systematic review of caregiving interventions[^4] recommended the need for
 
 
 ## Caregiver mindset
+
 - There are some very helpful attitudes for a Participatory Approach that we could take from Carl Rogers, the founder of Humanistic Psychology:
 	- Empathy or Accurate Understanding;
 	- Non-Judgemental Attitude or Unconditional Positive Regard
 	- Genuineness or truthfulness.
+
+## Assessing efficiency of caregiving
+- According to Aangan[^3], we need to define effectiveness of institutions factoring in staff, children's and governing authorities perspectives. This includes
+	- Standardized Evaluation of performance,criteria & systems.
+	- Standardize monitoring tool combining criteria related to infrastructure,interaction and activity
+	- External Evaluation through Vigilance Committees. 
+	- Develop self monitoring tool.  
+	- Capacity building of staff to use tool for internal monitoring and goal setting 
 
 ## Caring for the Caregiver
 - According to Aangan's manual on caregiving[^3], these were the top concerns of the staff at CCIs
@@ -248,20 +257,18 @@ A systematic review of caregiving interventions[^4] recommended the need for
 - According to Irvington House, caregiver should act as a professional and not as a friend to the child, there by reducing the possibility of a conflict of interest or inappropriate conduct.
 
 ### Consistency in caregiving
-- We need to avoid instability and inconsistency of caregiving, especially for infants and toddlers.
+- [^9]According to a paper that studied caregiving interventions, we need to avoid instability and inconsistency of caregiving, especially for infants and toddlers.
 - If children, especially infants and toddlers, do not have a few, stable, consistent caregivers but rather many and changing staff caregivers, adding a constantly changing set of volunteers may compound this problem despite the stimulation they may provide the children.
-- If the groups are small, children are cared for by a few stable caregivers, and children remain with those caregivers over long periods of their early lives, short-term volunteers may not be so detrimental, especially for older children. The latter case resembles a stable family environment with many grandparents, aunts and uncles, neighbors, and friends who visit occasionally. One study found children in the latter kind of environment were more developmentally advanced than children in more typical institutions without volunteers 
+- If the groups are small, children are cared for by a few stable caregivers, and children remain with those caregivers over long periods of their early lives, short-term volunteers may not be so detrimental, especially for older children. The latter case resembles a stable family environment with many grandparents, aunts and uncles, neighbors, and friends who visit occasionally. One study found children in the latter kind of environment were more developmentally advanced than children in more typical institutions without volunteers
+- [^1]According to a paper authored by the Duke Global Health Institute on psychosocial wellbeing of CNCP in institutional settings, the ideal outcome for the **Caregiving**  factor was for the child to have at least one adult (age 18 or over) who provides consistent care, attention, and support. 
+	- Caregiving was “seen as good when there is an identified adult (parent or guardian) who provides the child with a stable, nurturing, and emotionally secure environment. The relationship between the child and the caregiver should provide physical and psychological security for the child. 
+	- This factor captured how committed the caregiver was to the child and to his/her involvement with the child”.
+- As recommended by Aangan[^3], we need to set 
+	- Standardized interaction guidelines 
+	- Standardized discipline code  
+	- Role definition: Interaction responsibilities assigned to key staff
+	- Capacity building of staff to use reception material prepared for children to make children feel reassured, informed, safe.
 
-
--  Positivize interaction of staff and child 
-		- Standardized interaction guidelines 
-		-  Focus on entry level intervention for new admissions
-		-  Exit level intervention planning for children leaving 
-		- Standardized discipline code  
-		- Role definition: Interaction responsibilities assigned to key staff
-		- Create child-friendly orientation /informative material  and reception unit model
-		- Develop standardized discipline code
-		-  Capacity building of staff to use thismaterial to make children feel reassured, informed, safe.
 ## Thumb rules for working with children 
 - Praise is effective- praise responsible, considerate, appropriate behaviour with attention, thanks, recognition, special privileges 
 - Make the child take responsibility - ask them to think about what they could do differently that could work better and be more constructive
@@ -322,20 +329,6 @@ A systematic review of caregiving interventions[^4] recommended the need for
 - In early childhood it also helps in the brain development of the child. 
 - Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
 
-
-
-# Recommendation III : Operational definition of effectiveness
--  Need to define effectiveness of institutions factoring in staff, children's and governing authorities perspectives
-			- Standardized Evaluation of performance,criteria &systems. 
-			- Standardize monitoring tool combining criteria related to infrastructure,interaction and activity . 
-			- External Evaluation through Vigilance Committees. 
-			- Develop self monitoring tool.  
-			- Capacity building of staff to use tool for internal monitoring and goal setting   (Page 12)
-
-
-[^1]According to a paper authored by the Duke Global Health Institute on psychosocial wellbeing of CNCP in institutional settings, the ideal outcome for the **Caregiving**  factor was for the child to have at least one adult (age 18 or over) who provides consistent care, attention, and support. 
-- Caregiving was “seen as good when there is an identified adult (parent or guardian) who provides the child with a stable, nurturing, and emotionally secure environment. The relationship between the child and the caregiver should provide physical and psychological security for the child. 
-- This factor captured how committed the caregiver was to the child and to his/her involvement with the child”.
 
 # Disciplinary Action
 According to Aangan, Children are helped to develop socially acceptable behaviour by encouraging and reinforcing acceptable behaviour and a constructive staff response to inappropriate behaviour. 

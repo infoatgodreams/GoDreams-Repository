@@ -16,6 +16,18 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "ef97417837c13a2c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Care Standards/India - Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +89,7 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "aangan",
+                "searchQuery": "interaction guidelines",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
