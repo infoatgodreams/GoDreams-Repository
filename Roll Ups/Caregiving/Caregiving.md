@@ -37,22 +37,42 @@ In a systematic review[^4]
 - the reported worldwide rates of violence against children in institutional care were 6 times higher than those of children living in family-based foster care of interventions to improve care practices in institutions, the paper described the major negative effects of poor caregiving:
 
 ## Positive effects of good-quality care
-- Structural interventions and caregiver trainings contribute to an improvement in children's living conditions in institutional care
+- [^4]Structural interventions and caregiver trainings contribute to an improvement in children's living conditions in institutional care
 - Training of caregivers and structural changes have beneficial effects on the children's development
 - The prevention of physical and emotional abuse in institutional care has widely been neglected
 - More efforts are needed to focus on the improvement of general caregiving environment, caregiver child relationship and maltreatment prevention
 
 # Broad recommendations for caregiving from research
-1. Broad, theory based approaches are needed and should be tested using rigorous scientific standards
-2. Responsive non-violent caregiver-child interactions are crucial to children's physical and behavioral develpmnet
-3. Beyond improving caregiver-child attachment, caregiver trainings should also focus on prevention of violence and abuse in institutional care
-4. Improving the quality of care may be more important than the type of care (eg. institutional care vs foster care)
-5. Our findings have shown that less than one third of the intervention approaches were theory based, and only three studies applied manualized interventions. Therefore, we advocate for developing theory-based and manualized training concepts for institutional caregivers that may be based on attachment and that can be tested using rigorous scientific standards. [Caregiving](Roll%20Ups/Caregiving/Caregiving.md)
+A systematic review of caregiving interventions[^4] recommended the need for
+- Broad, theory based approaches are needed and should be tested using rigorous scientific standards
+- Responsive non-violent caregiver-child interactions are crucial to children's physical and behavioral develpmnet
+- Beyond improving caregiver-child attachment, caregiver trainings should also focus on prevention of violence and abuse in institutional care
+- Improving the quality of care may be more important than the type of care (eg. institutional care vs foster care)
+- Our findings have shown that less than one third of the intervention approaches were theory based, and only three studies applied manualized interventions. Therefore, we advocate for developing theory-based and manualized training concepts for institutional caregivers that may be based on attachment and that can be tested using rigorous scientific standards. [Caregiving](Roll%20Ups/Caregiving/Caregiving.md)
 
+# Caregiving Interventions
+- According to a review on caregiving interventions[^4], Many of the intervention approaches included in the studies ofthe present review have some important components in common: They all aim at improving the caregiver–child relationship (attachment and bonding), enriching the caregiving environment through additional stimulation and quality time, and at least some focus on preventing maltreatment and further harm
+- One promising approach that is theory based and manualized is [[FairstartGlobal]] (www.fairstartglobal.com). It is a curriculum rooted in attachment theory that promotes appropriate caregiver–child interactions and relationships. Its unique benefits include free availability on the Internet, implementation flexibility, administrator and staff involvement in creating its implementation, translation into 26 languages, and current implementation in numerous countries around the globe 
+- Pitssburgh
+- Kateryn 
 
 # Caregiver Profile
 - [^2]The Miracle Foundation Method provided for hiring of a qualified social worker at Anwesha.
 	- The social worker engaged in counselling of the children, guiding the house parents,observing and supervising the work of the coaching teachers, following up ontraining of children and house parents and documentation-related work. (Page 11)
+
+## Caregiver Types
+According to guidelines for institutional care in Ethiopia[^5], The profile of the human-power shall be:
+    * Manager / Administrator: The manager / administrator shall have at least his/her first degree in sociology, psychology, or other related fields of study with, at least, two years of relevant experience.
+    * Secretary: The Secretary shall, at least, have a diploma in office management, accounting or other related fields with, at least, two years of experience in similar line of work.
+    * Finance Officer: The Finance officer shall, at least, have a diploma in accounting or other related fields with a minimum experience of two years in the area.
+    * Purchaser:The Purchaser shall, at least, have a diploma in material management or other related fields with a minimum experience of two years in the area.
+    * Storekeeper: The Storekeeper shall, at least, complete grade twelve with a minimum experience of two years in the area.
+    * Cashier: The Cashier shall, at least, have a diploma in accounting or other related fields with a minimum experience of two years in the area.
+    * Sanitary and Guards: Sanitary and guards should complete at least grade six with a minimum experience of two years in the area.
+    * Health assistant: A Health Assistant shall, at least, have a certificate with a minimum experience of two years in the area.
+    * Counselor: A Counselor shall, at least, have his/her first degree in psychology with a minimum experience of two years in the area.
+    * Home Mothers: A Home Mother should complete at least grade six and shall have at least a three months relevant training and a minimum experience of one year as an assistant home mother.
+
 
 ## Elements of Training
 - [^2]According to Miracle Foundation's approach, Anwesha underwent a complete training in areas of supporting family culture rights of the child, attachment, discipline techniques, childdevelopment, health care – preventative & curative, gender roles, sexual abuseprevention, communication skills, conflict resolution and stress management. (Page 11)
@@ -115,3 +135,4 @@ accessibility to authorities (31%)
 [^2]: [[Miracle Foundation_Institutionalised Children_Explorations and Beyond]]
 [^3]: [[Aangan - Changing Spaces]]
 [^4]: [[Fostering Child Development _ Systematic Review of caregiver training and structural interventions]]
+[^5]: [[Guidelines for Institutional Childcare, Ethiopia]]
