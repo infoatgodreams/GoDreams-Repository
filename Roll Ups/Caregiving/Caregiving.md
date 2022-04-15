@@ -15,6 +15,20 @@ Interactions with children
 Successful interventions in improving caregiving 
 What is the importance of caregiving in influencing child outcomes? 
 
+# Importance of Caregiving 
+- According to Aangan[^3], The children’s answer to our first question, about the first three things they would like to change about their institution, was clear and unanimous:
+	Staff – Child Interaction:
+		“The staff does not understand us”, said 70% CICL, 50% CNCP.
+		45% said the Probation Officer had “never called us for a discussion or explained things to us.”
+		- Disciplinary Issues:
+“If there is a problem in the home, caretakers and monitors handle it.
+They beat us up”, said 65% CICL, 60% CNCP.
+-  Structured Recreation:
+ “We wish they would allow us to play more and have more fun,” said
+24% CNCP and 19% CICL.
+
+
+
 # Caregiver Profile
 - [^2]The Miracle Foundation Method provided for hiring of a qualified social worker at Anwesha.
 	- The social worker engaged in counselling of the children, guiding the house parents,observing and supervising the work of the coaching teachers, following up ontraining of children and house parents and documentation-related work. (Page 11)
@@ -33,6 +47,7 @@ What is the importance of caregiving in influencing child outcomes?
 		- Information 
 		- Orientation 
 		- Disciplinary Action
+
 -  Positivize interaction of staff and child 
 		- Standardized interaction guidelines 
 		-  Focus on entry level intervention for new admissions
@@ -44,6 +59,14 @@ What is the importance of caregiving in influencing child outcomes?
 		-  Capacity building of staff to use thismaterial to make children feel reassured, informed, safe.
 		
 # Recommendation II : Staff Motivation 
+The staff’s opinions differed a little. Their top concern areas were :
+-  Playing equipment for children. (57%)
+-  Motivation: Higher salaries; more holidays; acknowledgement from and
+accessibility to authorities (31%)
+-  Security systems (to reduce cases of running away). (31%)
+-  Institutional Budget - increase and timely disbursement. (17%)
+-  1 Infrastructure (building renovations, improvement etc) . (4.9%)
+
 -  Staff motivation : 
 		- Standardized motivation and Reinforcement Program. Develop a state level recognition award system based on identifying best practices;
 		-  Standardized discipline code for offences by staff
@@ -65,3 +88,4 @@ What is the importance of caregiving in influencing child outcomes?
 
 [^1]:  [[Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries]]
 [^2]: [[Miracle Foundation_Institutionalised Children_Explorations and Beyond]]
+[^3]: [[Aangan - Changing Spaces]]
