@@ -48,7 +48,7 @@ tags:
 ## Positive effects of good-quality care
 - [^4]**Structural interventions and caregiver trainings** contribute to an improvement in children's living conditions in institutional care
 - Training of caregivers and structural changes have beneficial effects on the children's development
-- In a seminar on institutional care[^9], we learned that among the positive aspects, the **love and care** that the staff showed to the children was the first point mentioned, together with thefacilities available and good education
+- In a seminar on institutional care[^9], we learned that among the positive aspects, the **love and care** that the staff showed to the children was the first point mentioned by children in a survey, together with the facilities available and good education
 - [^4]The findings are in concordance with our hypothesis that **caregiver trainings, structural changes, and enriched caregiving environments** in child care institutions have beneficial effects on the child’s emotional, social, and cognitive development.
 - Numerous studies providing institutionalized children with specific sensory and perceptual stimulation plus interventions that deliberately increase the social and educational quality of caregiver–child interactions have led to substantially improved children’s general behavioral and mental development
 - Children’s improvements are greater the more comprehensive and intensive the social-emotional and caregiver– child interaction intervention. When the institutional environment was structurally **made more family like** and caregivers provided **better socialemotional interactions** with children, children’s physical and behavioral/mental development improved very substantially (including for children with disabilities), fewer children displayed disorganized attachment, and atypical behaviors were reduced
@@ -63,19 +63,20 @@ In this section, we'll focus on caregiving interventions that have been tried an
 	- Its unique benefits include free availability on the Internet, implementation flexibility, administrator and staff involvement in creating its implementation, translation into 26 languages, and current implementation in numerous countries around the globe 
 
 ### The Bucharest Early Intervention Project (BEIP)
-- [[The Bucharest Early Intervention Project]] ( has begun providing a foster care inter-  vention in Bucharest, Romania, in which they  are following the development of children removed from orphanage to foster care and comparing their developmental progress to both children who remain in orphanage and a community comparison group. 
+- [^4][[The Bucharest Early Intervention Project]] ( has begun providing a foster care inter-  vention in Bucharest, Romania, in which they  are following the development of children removed from orphanage to foster care and comparing their developmental progress to both children who remain in orphanage and a community comparison group. 
 - The study showed that high-quality foster care has the potential of improving children’s development relative to the typical institutional environment
 
 #### Limitations of the BEIP
--  It is uncertain whether most developing countries could or would implement for most children such an ideal and likely costly foster care system in a reasonable period of time
+- It is uncertain whether most developing countries could or would implement for most children such an ideal and likely costly foster care system in a reasonable period of time
 - Indeed children who were transitioned to government foster care gained less developmentally than those who remained in the ideal foster care, although the number of children involved was small
 - Further, no one knows how beneficial the ideal foster care would be if it were compared to an ideal institution. 
 
 ### The St. Petersburg- USA Orphanage Project
- - [[The St. Petersburg– U.S.A. Orphanage Project]] , operating in three baby homes in St. Petersburg, is providing different interventions to examine which are most effective in reducing the developmental impact of institutional rearing. 
+ - [^4][[The St. Petersburg– U.S.A. Orphanage Project]] , operating in three baby homes in St. Petersburg, is providing different interventions to examine which are most effective in reducing the developmental impact of institutional rearing. 
 		- In one baby home, orphanage staff are being trained in child development  and sensitive responsiveness. 
 		- In a second,  both caregiver training and structural changes  that reduce the number of different caregivers  and increase their stability in the lives of the children are being implemented. 
 		- A third baby  home is serving as a “no intervention” comparison group 
+	
 ### Interventions implemented in this project
 - Training (‘Love these children’)
 		- Be engaged with children
@@ -100,7 +101,7 @@ In this section, we'll focus on caregiving interventions that have been tried an
 	- We have therefore been quite clear with ourselves and we hope with the children, that Irvington house is a house and not a home. That counselors are counselors and not parents, and that the other children in the dormitory are members of a group, not of a family. 
 
 ### Positive Outcomes for Orphanges (Duke)
-- The second study (Whetten et al., 2009, 2014) found the development of children 6–12 years of age in community-created and operated residential care facilities to be as good or better than children raised in family alternatives in the community. 
+- [^4]The second study (Whetten et al., 2009, 2014) found the development of children 6–12 years of age in community-created and operated residential care facilities to be as good or better than children raised in family alternatives in the community. 
 - This was a study of care as currently practiced, and the countries, communities, and families were sampled in a way to be representative of these environments. 
 - This study demonstrated that not every family is better than any institution, but it says nothing about what those family care environments or the residential care facilities could be if they were financially and professionally supported to improve their quality of care.
 
@@ -110,7 +111,7 @@ In this section, we'll focus on caregiving interventions that have been tried an
 - Conversely, institutions do not have to operate in the way many currently do; they could be more family like in both structure and caregiver–child interactions, although they cost more than family care
 
 # Broad recommendations for caregiving from research
-A systematic review of caregiving interventions[^4] recommended the need for
+- A systematic review of caregiving interventions[^4] recommended the need for
 	- Broad, theory based approaches are needed and should be tested using **rigorous scientific standards**
 	- More efforts are needed to focus on the improvement of **general caregiving environment, caregiver child relationship and maltreatment prevention**
 	- **Responsive non-violent caregiver-child interactions** are crucial to children's physical and behavioral develpmnet
@@ -124,31 +125,31 @@ A systematic review of caregiving interventions[^4] recommended the need for
 # Who are the caregivers? 
 
 ## Caregiver Profile
-- [^2]The Miracle Foundation Method requires for hiring of a qualified social worker at Anwesha.
+- [^2]The Miracle Foundation Method requires for hiring of a **qualified social worker** at Anwesha.
 	- The social worker engaged in counselling of the children, guiding the house parents,observing and supervising the work of the coaching teachers, following up ontraining of children and house parents and documentation-related work.
 - In dealing with children who are victims of violence[^8], it's recommended that
 	- The Home shall appoint staff only after adequate screening about the past record of the staff, ensuring that the staff has not shown
-		-  any particular behavior in the past that could be a pot ent source of danger e .g. psychiatric disorders causing violence or self destructive behavior,
-		- is not suffering from substance addiction/ habit (including tobacco and alcohol)
-		- exhibits abusive behavior, offending or criminal behavior, etc. 
-		- Full care shall be taken not to appoint any person habituated to dangerous drugs.
-- In a seminar organized by Udayan Care on institutionalization[^9], - In general it is advisable that caregivers are not too old and the generational gap among them and the children reﬂects that between children and parents.
+		-  any particular behavior in the past that could be a **potential source of danger** e .g. psychiatric disorders causing violence or self destructive behavior,
+		- is not suffering from **substance addiction**/ habit (including tobacco and alcohol)
+		- exhibits **abusive behavior**, offending or criminal behavior, etc. 
+		- Full care shall be taken not to appoint any person habituated to dangerous **drugs**.
+- In a seminar organized by Udayan Care on institutionalization[^9], - In general it is advisable that **caregivers are not too old** and the generational gap among them and the children reﬂects that between children and parents.
 - At Irvington House[^9], a strict staff selection criterion was used, 
-	- The child-care staff is for the most part college-trained. The average age is 24.
+	- The child-care staff is for the most part **college-trained.** The average age is 24.
 	- We are particularly concerned to find people interested in and responsive to professional supervision
 	- The child-care workers are directly supervised by trained group workers, with individual conferences as the main supervisory tool 
-	- We look for people interested in eventually undertaking graduate training in social work or a related field and who will be, consequently, professionally as well as personally motivated. 
+	- We look for people interested in eventually undertaking **graduate training in social work** or a related field and who will be, consequently, professionally as well as personally motivated. 
 - According to Udayan Care[^11], 
 	- Those associated with CCIs should not be convicted persons or those involved in immoral act, child abuse, employment of child labour, moral turpitude or should hold any political office during his/her tenure 
-	- No one should be appointed or work in CCIs without police verification. 
+	- No one should be appointed or work in CCIs without **police verification**. 
 		
 
 ## Caregiver Strength & Roles
 - At Irvington House[^9], a strict staff selection criterion was used, 
-	- As a matter of policy, we always have had at least one male worker assigned to the three older groups
+	- As a matter of policy, we always have had at least **one male worker** assigned to the three older groups
 	- We have tried consciously to keep the number of different adults with whom a child must have a meaningful relationship to a minimum
 	- A child-care worker once assigned to a given dormitory, has remained there throughout his employment at the house. 
-	- Each worker has a case load of approximately 20 children. 
+	- Each worker has a case load of approximately **20 children.** 
 - According to guidelines for institutional care in Ethiopia[^5], The profile of the human-power shall be:
     * Manager / Administrator: The manager / administrator shall have at least his/her first degree in sociology, psychology, or other related fields of study with, at least, two years of relevant experience.
     * Secretary: The Secretary shall, at least, have a diploma in office management, accounting or other related fields with, at least, two years of experience in similar line of work.
@@ -192,13 +193,12 @@ A systematic review of caregiving interventions[^4] recommended the need for
 		- Developing Self-understanding
 		- Paying Attention to Insights
 		- Respecting the other and Reciprocity
-	- To be able to do PAR effectively, basic communication skills are also important. 
-	- Listening to understand is the most important communication skill that we often miss. 
+	- To be able to do PAR effectively, basic **communication skills** are also important. 
+		- **Listening** to understand is the most important communication skill that we often miss. 
 	- Through PAR, caregivers find a more meaningful way to express themselves, while working with children with difficulties 
 
 
 ## Caregiver mindset
-
 - There are some very helpful attitudes for a Participatory Approach that we could take from Carl Rogers, the founder of Humanistic Psychology:
 	- Empathy or Accurate Understanding;
 	- Non-Judgemental Attitude or Unconditional Positive Regard
@@ -207,11 +207,11 @@ A systematic review of caregiving interventions[^4] recommended the need for
 
 ## Caregiver responsibilites 
 - Rainbow[^10] recommends a loose schedule for all caregivers with milestones 
-	- Weekly 
+	- **Weekly** 
 		-  Issuing of stationery and toiletries to children
 		- Weekly Staff Meetings
 		-  Facilitation of children-parent phone calls
-	- Monthly
+	**- Monthly**
 		- Parents Meetings/Staff Meeting/Bala Sabha
 		- Attending monthly school meetings
 		- Budget Planning for CCI
@@ -219,14 +219,14 @@ A systematic review of caregiving interventions[^4] recommended the need for
 		- Health Check-ups
 		- Stock taking
 		- Checking of child records and registers
-	- Quarterly
+	- **Quarterly**
 		- Purchasing of clothes
 		- Outing for children
-	- Half Yearly
+	**- Half Yearly**
 		- Purchasing of Footwear
 		- Purchasing of bedsheet
 		- De-worming
-	- Annual
+	- **Annual**
 		- Purchase of uniforms and school supplies
 		- Sports day, annual day
 		- outstation trips
@@ -234,22 +234,22 @@ A systematic review of caregiving interventions[^4] recommended the need for
 
 ## Assessing efficiency of caregiving
 - According to Aangan[^3], we need to define effectiveness of institutions factoring in staff, children's and governing authorities perspectives. This includes
-	- Standardized Evaluation of performance,criteria & systems.
-	- Standardize monitoring tool combining criteria related to infrastructure,interaction and activity
-	- External Evaluation through Vigilance Committees. 
-	- Develop self monitoring tool.  
-	- Capacity building of staff to use tool for internal monitoring and goal setting 
-- The shelter home authority shall evolve a Crisis Management Plan (CMP) to address a range of foreseeable crises (e.g. death, outbreaks of illness, fires, serious allegations or complaints, significant accidents, staff shortage, and control problems within or outside the home).
+	- **Standardized Evaluation** of performance,criteria & systems.
+	- **Standardize monitoring tool** combining criteria related to infrastructure,interaction and activity
+	- **External Evaluation** through Vigilance Committees. 
+	- Develop **self monitoring** tool.  
+	- **Capacity building** of staff to use tool for internal monitoring and goal setting 
+- The shelter home authority shall evolve a **Crisis Management Plan (CMP)** to address a range of foreseeable crises (e.g. death, outbreaks of illness, fires, serious allegations or complaints, significant accidents, staff shortage, and control problems within or outside the home).
 
 ## Caring for the Caregiver
 - According to Aangan's manual on caregiving[^3], these were the top concerns of the staff at CCIs
-	- Playing equipment for children. (57%)
-	- Motivation: Higher salaries; more holidays; acknowledgement from and accessibility to authorities (31%)
-	- Security systems (to reduce cases of running away). (31%)
-	- Institutional Budget - increase and timely disbursement. (17%)
-	- Infrastructure (building renovations, improvement etc) . (4.9%)
+	- **Playing equipmen**t for children. (57%)
+	- **Motivation**: Higher salaries; more holidays; acknowledgement from and accessibility to authorities (31%)
+	- **Security** **systems** (to reduce cases of running away). (31%)
+	- **Institutional** **Budget** - increase and timely disbursement. (17%)
+	- **Infrastructure** (building renovations, improvement etc) . (4.9%)
 - [^2]At Miracle Foundation, **‘Tea time with house parents’,** the practice of Miracle staff spending informal timewith caregivers enabled them to unwind, open up, share their joys and concerns and feel acknowledged as being important.
-- [^2]Miracle Staff also write regularly in the House parent Diary that served to be a readyreference of their important tasks and responsibilities.
+- [^2]Miracle Staff also write regularly in the **House parent Diary** that served to be a readyreference of their important tasks and responsibilities.
 - Prerna[^7] recommends self care tips for all caregivers:
 	- Get 8 hours of sleep.
 	* Drink adequate water and make sure you are eating healthy meals.
@@ -257,7 +257,7 @@ A systematic review of caregiving interventions[^4] recommended the need for
 	* Know your limitations: In the pandemic situation, we have limited resources to help ourselves and others, acknowledging this would help caregivers to feel less exhausted and guilty.
 	* Regularly engage in coping strategies: Deep Breathing, Exercising, Practicing a hobby, taking regular breaks, self-care activities, using humor in day to day life, Affirmations, Systematic Body relaxation, grounding, Mandala making etc.
 	* Stay in contact with loved ones.
-* [^9]Aangan recommends certain practices to focus on improving staff morale and motivation
+* [^9]Aangan recommends certain practices to focus on **improving staff morale** and motivation
 	* **Standardized motivation and Reinforcement Program.** Develop a state level recognition award system based on identifying best practices
 	* **Standardized discipline code** for offences by staff
 	* Ensure that **innovative ideas, individuals and institutions** are identified and reinforced
@@ -276,18 +276,19 @@ A systematic review of caregiving interventions[^4] recommended the need for
 
 ### Positive Caregiving
 - A final assumption in relation to the program offered is that any positive life experience, no matter what its duration, strengthens the child in terms of meeting subsequent life experiences. 
-- There is no concept of "spoiling the children" as while it is morally and professionally impossibly to not provide the maximum of what we have, our assumption is that if we offer this, a child is better equipped to meet the vicissitudes of whatever his life may be when he leaves us. 
+- **There is no concept of "spoiling the children"** as while it is morally and professionally impossibly to not provide the maximum of what we have, our assumption is that if we offer this, a child is better equipped to meet the vicissitudes of whatever his life may be when he leaves us. 
 
 ### Lack of Bias & Discrimination
 - In a seminar organized by Udayan Care on Institutionalization[^9], it was noted that
-	-  especially in residential institutions funded by religious bodies or in governmental institutions of countries withlittle concern for the beliefs of minorities, children’s right to equality and non-discrimination could be seriouslyneglected. 
+	-  especially in residential institutions funded by religious bodies or in governmental institutions of countries withlittle concern for the beliefs of minorities, children’s right to **equality and non-discrimination** could be seriouslyneglected. 
 	- All children placed in institutions should have opportunities to express their opinions, practice theirreligion, function in their native language and participate in social activities in the community they belong to.Children’s right to equality and non-discrimination should be always upheld. 
-- According to Irvington House, caregiver should act as a professional and not as a friend to the child, there by reducing the possibility of a conflict of interest or inappropriate conduct.
+- According to Irvington House, caregiver **should act as a professional** and not as a friend to the child, there by reducing the possibility of a conflict of interest or inappropriate conduct.
 
 ### Consistency in caregiving
-- [^9]According to a paper that studied caregiving interventions, we need to avoid instability and inconsistency of caregiving, especially for infants and toddlers.
+- [^9]According to a paper that studied caregiving interventions, we need to avoid **instability and inconsistency of caregiving**, especially for infants and toddlers.
 - If children, especially infants and toddlers, do not have a few, stable, consistent caregivers but rather many and changing staff caregivers, adding a constantly changing set of volunteers may compound this problem despite the stimulation they may provide the children.
-- If the groups are small, children are cared for by a few stable caregivers, and children remain with those caregivers over long periods of their early lives, short-term volunteers may not be so detrimental, especially for older children. The latter case resembles a stable family environment with many grandparents, aunts and uncles, neighbors, and friends who visit occasionally. One study found children in the latter kind of environment were more developmentally advanced than children in more typical institutions without volunteers
+- If the groups are small, children are cared for by a few stable caregivers, and children remain with those caregivers over long periods of their early lives, short-term volunteers may not be so detrimental, especially for older children. The latter case resembles a stable family environment with many grandparents, aunts and uncles, neighbors, and friends who visit occasionally. 
+	- One study found children in the latter kind of environment were more developmentally advanced than children in more typical institutions without volunteers
 - [^1]According to a paper authored by the Duke Global Health Institute on psychosocial wellbeing of CNCP in institutional settings, the ideal outcome for the **Caregiving**  factor was for the child to have at least one adult (age 18 or over) who provides consistent care, attention, and support. 
 	- Caregiving was “seen as good when there is an identified adult (parent or guardian) who provides the child with a stable, nurturing, and emotionally secure environment. The relationship between the child and the caregiver should provide physical and psychological security for the child. 
 	- This factor captured how committed the caregiver was to the child and to his/her involvement with the child”.
@@ -303,12 +304,13 @@ A systematic review of caregiving interventions[^4] recommended the need for
 According to Aangan[^3], Children are helped to develop socially acceptable behaviour by encouraging and reinforcing acceptable behaviour and a constructive staff response to inappropriate behaviour. Effective caregiving is a combination of setting boundaries and structures and providing autonomy.
 
 ### Methods
-- Verbal reprimands and redirection- let child know what's unacceptable and why
+According to Aangan's manual[^3], the following methods can be used to discipline children
+- **Verbal reprimands and redirection**- let child know what's unacceptable and why
 	- Whenever a child is seen engaging in unacceptable behavior or is found doing something that is unacceptable, the child should be first asked what he/she was up to. Listen to children. After knowing what the child was doing, an adult can explain why a behavior is inappropriate.
 	- When correcting behavior, provide a calm explanation for your preferences.Giving a reason helps children understand the implications of their behavior for others
 	- Encourage children to ask questions about rules and have a discussion with them on why certain rules are important. 
 	- By teaching children to be blindly compliant, we are discouraging critical thinking, which is a valuable characteristic. This not only hampers critical thinking but teaches them that adults are always right which is untrue.
-- Apologies and Contracts : Take responsibility for actions, assign consequences and ways to make amends
+- **Apologies and Contracts** : Take responsibility for actions, assign consequences and ways to make amends
 	- Make the child take responsibility - ask them to think about what they could do differently that could work better and be more constructive
 	- In order to avoid shaming, embarrassing or humiliating the child, the caregivers should hold this conversation one- on-one with the child and avoid confronting the child in front of the other children.
 	- Talk about inappropriate behavior without demeaning their self worth or attacking their personality or character.
@@ -316,26 +318,28 @@ According to Aangan[^3], Children are helped to develop socially acceptable beha
 	- Refrain from labeling children negatively (for eg: manda, aalsi, moti, sukdi, bewakoof). All labels related to looks, intellect and behavior should be avoided.
 	- Most service providers ask the children to repeatedly narrate their stories, putting them through undeniable pain. In the worst cases, children are blamed for their negative experiences, or get further maltreated
 	- Need to ensure that children do not suffer additional victimisation through adverse labelling.
-- Detention after school/during TV/recreation time
-- Written reports and assignments- preferably connected to the incident 
-- Open Circles and Child Panchayats- to encourage peer mediation and group discussion
+- **Detention** after school/during TV/recreation time
+- **Written reports and assignments**- preferably connected to the incident 
+- **Open Circle**s and Child Panchayats- to encourage peer mediation and group discussion
 - Make a note in the child's file that can later be brought up with CWC/JWB
-- Community services and restitution
-- Time out: separate the child from the group to remove any positive reinforcement/attention for poor actions
+- **Community services and restitution**
+- **Time out**: separate the child from the group to remove any positive reinforcement/attention for poor actions
 	- - Stay calm and firm- never mean
-- Withholding privileges- effective, especially for older children. Children need to learn that privileges come with responsibility and that they can be taken away 
+- **Withholding privileges**- effective, especially for older children. Children need to learn that privileges come with responsibility and that they can be taken away 
 - For serious disciplinary issues like drug abuse, you can use a combination of different methods. 
-- Individualise measures- measures should take into account the age, understanding, incident and individual needs of the chilld
+- **Individualise measures**- measures should take into account the age, understanding, incident and individual needs of the chilld
 
 ### Thumb-rules for disciplining children
 - Children may not conform to all the rules and the staff can decide what are acceptable.
-- Extreme disciplining may lead to defiance in children.
+- Extreme disciplining may lead to **defiance** in children.
 - While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
 - Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
 - Tell the child what you do want them to do rather than what you don’t. For example, instead of saying ‘Don’t walk so close to the road’, say ‘Come and walk next to me’. Often, we remember to reprimand children for their mistakes and correct them but forget to appreciate them for achievements and healthy behavior. A simple ‘you did a very good job today!’ can help children feel good about themselves and reinforce healthy behavior.
-- Avoid impatient body language like eye rolling, foot tapping or sighing. This can discourage a child from talking.
-- Hold conversations at the appropriate time and place. It is also important to address an issue in a timely manner. If one waits too long to address a situation, sometimes the child will not remember the incident or more often than not, it will not register that they did something wrong or unacceptable, thereby causing them to repeat the behavior.
-- Apologize to children when you make mistakes.This helps children understand that everybody makes mistakes and that mistakes can be rectified. Children often learn through modeling – by observing other individuals and imitating them.
+- **Avoid impatient body language** like eye rolling, foot tapping or sighing. This can discourage a child from talking.
+-  **Hold conversations at the appropriate time and place.** 
+	- It is also important to address an issue in a timely manner. If one waits too long to address a situation, sometimes the child will not remember the incident or more often than not, it will not register that they did something wrong or unacceptable, thereby causing them to repeat the behavior.
+- **Apologize to children when you make mistakes.**
+	- This helps children understand that everybody makes mistakes and that mistakes can be rectified. Children often learn through modeling – by observing other individuals and imitating them.
 
 
 ## Dealing with allegations of abuse
@@ -358,19 +362,19 @@ According to Aangan[^3], Children are helped to develop socially acceptable beha
 
 ## Dealing with Emotions
 ### Normalise & acknowledge emotions
-- Children can quickly understand who understands them and who cannot understand them. When a child has a fight and is angry with everyone, caregiver could go near and ask permission to sit nearby. The caregiver could say that “I can understand that you are angry and do you want to talk about it?”
+- [^7]Children can quickly understand who understands them and who cannot understand them. When a child has a fight and is angry with everyone, caregiver could go near and ask permission to sit nearby. The caregiver could say that “I can understand that you are angry and do you want to talk about it?”
 - In a study by Udayan Care, some children explained that if they had a fight or a particular situation outside the institution, they could not always share it with the staff , because they would have made a bigdeal out of it.
 - As an adult living with children, express your emotions on the child’s behavior. Only being patient is not the way to deal with children experiencing emotional and behavioral challenges.
 - Having conversations about others' feelings is required too as it helps the child build skills for empathy and considering different perspectives. Let them know that the staff is human too and not just an authoritarian figure.
 
 ### Stabilize emotional expressions
-- Use the language of “anger expression” (appropriate and inappropriate) instead of anger management or “controlling anger”.
+- [^7]Use the language of “anger expression” (appropriate and inappropriate) instead of anger management or “controlling anger”.
 	- Anger may have been a useful emotion for children who were abused as that emotion made them protect themselves and realize that they don’t feel safe.
 - When children are distressed or aggressive, help them to calm down and then try to have a conversation.When children are triggered (having a strong emotional and physical reaction) they do not have access to the part of the brain that helps them think rationally.
 - It is important and will be more effective if caregivers help the child stabilize emotionally by using a range of tools such as grounding or relaxation exercises before disciplining, discussing behavior corrective measures. 
 
 ### Discuss emotions openly
-- After the child has calmed down, the staff/parent should have a conversation with the child about what made him/her angry.  Address the anger and tell the child to express it in words.
+- [^7]After the child has calmed down, the staff/parent should have a conversation with the child about what made him/her angry.  Address the anger and tell the child to express it in words.
 - If the child does not have a dialogue about the anger, it will lead to bottling up of the anger and resentment towards the adult causing defiance to follow anything that is told to the child.
 - When a staff realizes that the child is going to be aggressive and say bad things about the staff’s character, the staff can tell her/him to think about what s/he actually feels and write it down in a letter rather than trying to hurt the staff by saying nasty things. It may help to acknowledge the impact the child’s words are having in a manner that does not place the responsibility on the child
 - Teach the child the difference between response and reaction. 
@@ -381,7 +385,7 @@ According to Aangan[^3], Children are helped to develop socially acceptable beha
 	- In early childhood it also helps in the brain development of the child. 
 - Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
 - When the child returns from school, college or any vocational training centre make a point to ask how was his/her day in school/college/ vocational training centre. Show interest in their lives. 
-	- A couple of the participants mentioned that the staff of the institutions is less aware of the talents and qualities ofthe children in comparison to a family, where every child gets special attention from his/her parents; or that inthe Homes it often happens that only children with particular capacities are cared for, while others are left behind
+	- A couple of the participants at the seminar on institutional care,[^9]  mentioned that the staff of the institutions is less aware of the talents and qualities ofthe children in comparison to a family, where every child gets special attention from his/her parents; or that inthe Homes it often happens that only children with particular capacities are cared for, while others are left behind
 - It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation. It is crucial to not disrupt attachment patterns then. 
 - [^9]At a seminar on mental health in institutions, Dr. Sen advises that it is imperative for caregivers to know how to prepare the children in case they are leaving the institution for a different job, instead of disappearing and suddenly leaving them alone. 
 		- Caregivers should be as constant as possible and, when about to leave their jobs for any reason, they should know how toprepare the children to de-attach.
@@ -391,6 +395,7 @@ According to Aangan[^3], Children are helped to develop socially acceptable beha
 - According to a systematic review on caregiving interventions, The most frequently applied instruments were the Cattell Infant Intelligence Scale (Cattell, 1940) and the Denver II (Frankenburg &amp; Dodds, 1990), both measuring intelligence and developmental quotients.
 
 
+# References
 
 
 [^1]:  [[Factors affecting the psychosocial wellbeing of orphan and separated children in five low- and middle-income countries]]
