@@ -133,13 +133,18 @@ A systematic review of caregiving interventions[^4] recommended the need for
 		- exhibits abusive behavior, offending or criminal behavior, etc. 
 		- Full care shall be taken not to appoint any person habituated to dangerous drugs.
 - In a seminar organized by Udayan Care on institutionalization[^9], - In general it is advisable that caregivers are not too old and the generational gap among them and the children reﬂects that between children and parents.
-
-## Caregiver Strength & Roles
-- At Irvington House, a strict staff selection criterion was used, 
+- At Irvington House[^9], a strict staff selection criterion was used, 
 	- The child-care staff is for the most part college-trained. The average age is 24.
 	- We are particularly concerned to find people interested in and responsive to professional supervision
 	- The child-care workers are directly supervised by trained group workers, with individual conferences as the main supervisory tool 
 	- We look for people interested in eventually undertaking graduate training in social work or a related field and who will be, consequently, professionally as well as personally motivated. 
+- According to Udayan Care[^11], 
+	- Those associated with CCIs should not be convicted persons or those involved in immoral act, child abuse, employment of child labour, moral turpitude or should hold any political office during his/her tenure 
+	- No one should be appointed or work in CCIs without police verification. 
+		
+
+## Caregiver Strength & Roles
+- At Irvington House[^9], a strict staff selection criterion was used, 
 	- As a matter of policy, we always have had at least one male worker assigned to the three older groups
 	- We have tried consciously to keep the number of different adults with whom a child must have a meaningful relationship to a minimum
 	- A child-care worker once assigned to a given dormitory, has remained there throughout his employment at the house. 
@@ -156,44 +161,52 @@ A systematic review of caregiving interventions[^4] recommended the need for
     * Counselor: A Counselor shall, at least, have his/her first degree in psychology with a minimum experience of two years in the area.
     * Home Mothers: A Home Mother should complete at least grade six and shall have at least a three months relevant training and a minimum experience of one year as an assistant home mother.
 - [^11]Udayan care recommends
-		- person-in-charge, 
-		- probation officer/CWO/CW, 
-		- counselor/psychologist/mental health expert, 
-		- house mother/house father, 
-		- para-medical staff/staff nurse/nursing orderly 
-		- storekeeper-cum-accountant; 
-		- educator/tutor, medical officer, art & craft & activity teacher and PT instructor-cum-yoga teacher psychiatrist may be hired as part-time staff. 
-		- The rule suggests a staffing pattern for a CCI with capacity for 100 children. Some other important conditions to be followed include the following: 
-			- Only female person-in-charge and staff to be appointed for CCIs housing girls 
-			- Those associated with CCIs should not be convicted persons or those 
-			  involved in immoral act, child abuse, employment of child labour, moral turpitude or should hold any political office during his/her tenure 
-			- No one should be appointed or work in CCIs without police verification. 
-			- CCIs housing infants should hire ayahs and paramedical staff as per need. (Page 26)
+	- person-in-charge, 
+	- probation officer/CWO/CW, 
+	- counselor/psychologist/mental health expert, 
+	- house mother/house father, 
+	- para-medical staff/staff nurse/nursing orderly 
+	- storekeeper-cum-accountant; 
+	- educator/tutor, medical officer, art & craft & activity teacher and PT instructor-cum-yoga teacher psychiatrist may be hired as part-time staff. 
+	- Only female person-in-charge and staff to be appointed for CCIs housing girls 
+	- CCIs housing infants should hire ayahs and paramedical staff as per need. (Page 26)
 
 
-## Elements of Training
-- [^2]According to Miracle Foundation's approach, Anwesha underwent a complete training in areas of supporting family culture rights of the child, attachment, discipline techniques, childdevelopment, health care – preventative & curative, gender roles, sexual abuseprevention, communication skills, conflict resolution and stress management.
-- [^9]Cultural, social, gender and religious sensitisation should also be assured. Training in dealing appropriately with challenging behaviour, including conflict resolution techniques and means to prevent acts of harm or self-harm, should be provided to all care staff  employed by the institutions’ management. In (Page 29)
-- According to a seminar on mental health in institutional care, 
-	- The Participatory Action Research (PAR) was a six month study involving researchers, caretakers, administrators, and children. The aim was to deﬁne an Appropriate Technique and an Efﬁcient Management Strategy in the care of children with behavioural difﬁculties. 
+## Caregiver Training
+- [^2]According to Miracle Foundation's approach, Anwesha underwent a complete training in areas of supporting
+	- family culture
+	- rights of the child
+	- attachment
+	- discipline techniques
+	- child development
+	- health care – preventative & curative
+	- gender roles
+	- sexual abuse and prevention
+	- communication skills
+	- conflict resolution
+	- stress management.
+	- [^9]Cultural, social, gender and religious sensitisation should also be assured. 
+- According to a seminar on mental health in institutional care, caregivers need to be trained in Participatory Action Research
+	- The Participatory Action Research (PAR) was a six month study involving researchers, caretakers, administrators, and children. The aim was to deﬁne an **Appropriate Technique and an Efﬁcient Management Strategy** in the care of children with behavioural difﬁculties. 
 	- PAR has three essential ingredients:
-		- Developing Self-understanding;
+		- Developing Self-understanding
 		- Paying Attention to Insights
 		- Respecting the other and Reciprocity
 	- To be able to do PAR effectively, basic communication skills are also important. 
 	- Listening to understand is the most important communication skill that we often miss. 
-	- Through PAR. we intended involving the children in ﬁnding a more meaningful way to ex-press themselves. We also wanted to involve the staff as partners in this dialogue. We attempted to evolve a self-sustaining and participatory methodology to solve the daily problems of aggression among children.
+	- Through PAR, caregivers find a more meaningful way to express themselves, while working with children with difficulties 
 
 
-## Right attitudes: 
-There are some very helpful attitudes for a Participatory Approach thatwe could take from Carl Rogers, the founder of Humanistic Psychology:
-- Empathy or Accurate Understanding;
-- Non-Judgemental Attitude or Unconditional Positive Regard;
-- Genuineness or truthfulness.
-# Caregiver support
-- [^2]For Miracle Foundation. ‘Tea time with house parents’, the practice of Miracle staff spending informal timewith caregivers enabled them to unwind, open up, share their joys and concernsand feel acknowledged as being important.
-- [^2]Miracle Staff, House parent Diary served to be a readyreference of their important tasks and responsibilities.
-- Prerna[^7] recommends self care tips for all caregivers
+## Caregiver mindset
+- There are some very helpful attitudes for a Participatory Approach that we could take from Carl Rogers, the founder of Humanistic Psychology:
+	- Empathy or Accurate Understanding;
+	- Non-Judgemental Attitude or Unconditional Positive Regard
+	- Genuineness or truthfulness.
+
+## Caregiver self-care & support
+- [^2]At Miracle Foundation, ‘Tea time with house parents’, the practice of Miracle staff spending informal timewith caregivers enabled them to unwind, open up, share their joys and concerns and feel acknowledged as being important.
+- [^2]Miracle Staff also write regularly in the House parent Diary that served to be a readyreference of their important tasks and responsibilities.
+- Prerna[^7] recommends self care tips for all caregivers:
 	- Get 8 hours of sleep.
 	* Drink adequate water and make sure you are eating healthy meals.
 	* Be self compassionate: You are also going through a difficult time, it's okay to struggle
@@ -201,14 +214,15 @@ There are some very helpful attitudes for a Participatory Approach thatwe could 
 	* Regularly engage in coping strategies: Deep Breathing, Exercising, Practicing a hobby, taking regular breaks, self-care activities, using humor in day to day life, Affirmations, Systematic Body relaxation, grounding, Mandala making etc.
 	* Stay in contact with loved ones.
 
-# Interactions with Children
 
-## Key principles governing interactions
+# Working with Children
+
+## Key principles governing interactions with children
 - According to the study conducted at Irvington House[^6],
 	- For young children a paramount need is to feel that there is someone who really cares for him or her as an individual human being, someone with whom and for whom he is special. In addition to this special one to one relationship, the child must also feel that all, or most, of the people around him like and respect him for what he is. We have called this basic concept, along with teh child-care practices that have grown out of it, "individualization. 
 	- We assumed that small children need relatively small, self-contained settings for their basic physical care. They need the opportunity for privacy, some belongings which are their very own, some which are to be shared and the freedom to explore within boundaries that set unobtrusive but firm limits on impulse. 
 	- A final assumption in relation to the program offered is that any positive life experience, no matter what its duration, strengthens the child in terms of meeting subsequent life experiences. 
-	- There is no concept of "spoiling the children" as while it is morally and professionally impossibly to not provide the maximum of what we have, our assumption is that if we offer this, a child is better equipped to meet the vicissitudes of whatever his life may be when he leaves us. 
+		- There is no concept of "spoiling the children" as while it is morally and professionally impossibly to not provide the maximum of what we have, our assumption is that if we offer this, a child is better equipped to meet the vicissitudes of whatever his life may be when he leaves us. 
 	- The one-to-one relationship thus developed between counselor and child is to give the child a feeling that, despite some of the necessary impersonality and antiseptic quality of an institutional environment, someone on the staff cares for him or her as an individual human being above and beyond the requirements of the job. 
 - In a seminar organized by Udayan Care on Institutionalization[^9], it was noted that
 	-  especially in residential institutions funded by religious bodies or in governmental institutions of countries withlittle concern for the beliefs of minorities, children’s right to equality and non-discrimination could be seriouslyneglected. 
@@ -292,10 +306,7 @@ There are some very helpful attitudes for a Participatory Approach thatwe could 
 - Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
 
 
-
-    
-		
-# Recommendation II : Staff Motivation 
+ Staff Motivation 
 The staff’s opinions differed a little. Their top concern areas were :
 -  Playing equipment for children. (57%)
 -  Motivation: Higher salaries; more holidays; acknowledgement from and
