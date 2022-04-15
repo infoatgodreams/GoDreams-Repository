@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "caregiving recommendations",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "attachment",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -92,14 +92,14 @@
   "active": "effee8690878abdb",
   "lastOpenFiles": [
     "Roll Ups/Caregiving/Caregiving.md",
+    "The St. Petersburg– U.S.A. Orphanage Project.md",
+    "FairstartGlobal.md",
     "Volume 1/Daily Log/📕Glo's Log.md",
     "Volume 1/Care Standards/India - Service Providers to CCIs/Udayan Care/UdayanCare_Standards Of Care in Child Care Institutions.md",
     "Volume 2/Care Standards/India - Service Providers to CCIs/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
     "Volume 1/Care Standards/International CCIs/Irvington HouseGrowth Potential of Pre-school aged children in institutional care.md",
     "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Volume 1/Care Standards/India - Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md",
-    "Volume 1/Care Standards/International - Govts, UN & World Bodies/Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Mental Health at CCIs during Covid-19_Prerana Guide.md"
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md"
   ]
 }

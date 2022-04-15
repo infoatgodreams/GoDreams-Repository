@@ -21,83 +21,130 @@ tags:
 ## Effects of Sub-optimal care
 
 ### Physical and Physiological consequences
-- The psychosocial short stature hypothesis or psychosocial dwarfism syndrome stipulates that infrequent and inadequate caregiver–child social–emotional interactions contribute to poor physical growth; and when caregiver–child interactions are improved in an institution, children’s physical development improves even without changes in nutrition (St. Petersburg-U.S.A. Orphanage Research Team, 2008). 
+- [^4]The **psychosocial short stature hypothesis or psychosocial dwarfism syndrome** stipulates that infrequent and inadequate caregiver–child social–emotional interactions contribute to poor physical growth; and when caregiver–child interactions are improved in an institution, children’s physical development improves even without changes in nutrition 
 - Also, institutionalized children’s ratios of weight-to-height are typically not nearly as low as their heights and weights, a fact suggesting that their short stature is less associated with malnutrition than quality of caregiver–child interactions. 
-- Usually, the child care institutions are able to offer basic provisions of food and shelter, but they lack adequate means to offer sensitive, child-oriented care, possibly leading to the emotional and physical neglect of many children.
-- the reported worldwide rates of violence against children in institutional care were 6 times higher than those of children living in family-based foster care of interventions to improve care practices in institutions, the paper described the major negative effects of poor caregiving
+- Usually, the child care institutions are able to offer basic provisions of food and shelter, but they lack adequate means to offer **sensitive, child-oriented care,** possibly leading to the **emotional and physical neglect** of many children.
+- the reported worldwide rates of **violence** against children in institutional care were **6 times higher** than those of children living in family-based foster care of interventions to improve care practices in institutions, the paper described the major negative effects of poor caregiving
 
 ### Behavioural consequences:
-- The lack of caregiver–child interactions, talking, and one-on-one contingent responsiveness also contribute to the child’s general behavioral and mental deficiencies.
+- According to a review paper on the impact of institutionalisation[^12], The lack of caregiver–child interactions, talking, and one-on-one contingent responsiveness also contribute to the child’s general behavioral and mental deficiencies.
 - **Attachment issues**
-	- Consistent with attachment theory, institutionalized children have much higher rates of insecure and disorganized attachments even to their favorite caregiver or the one who knows the child best. 
-	- Across studies of institutionalized infants and toddlers, approximately 73% displayed disorganized attachment or were unscoreable, whereas this might be expected in only approximately 15% of low-risk, noninstitutionalized, parent-reared children  Disorganized attachment is characterized by “fear without solution” in which the infant both seeks comfort from the caregiver but is also afraid of the caregiver.
+	- Consistent with attachment theory, institutionalized children have much higher rates of insecure and **disorganized attachments** even to their favorite caregiver or the one who knows the child best. *Disorganized attachment is characterized by “fear without solution” in which the infant both seeks comfort from the caregiver but is also afraid of the caregiver.*
+	- Across studies of institutionalized infants and toddlers, approximately 73% displayed disorganized attachment or were unscoreable, whereas this might be expected in only approximately 15% of low-risk, noninstitutionalized, parent-reared children  
 	- Among parent-reared children disorganized attachment predicts a variety of behavior and psychiatric problems in childhood and adolescence. 
-	- In a systematic review on institutional childcare, it was shown that[^4]Children may develop a low-quality attachment bond or even lack an attachment relationship altogether in the absence of adequate care 
+	- In a systematic review on institutional childcare, it was shown that[^4]Children may develop a low-quality attachment bond or even lack an attachment relationship altogether in the absence of adequate care. 
 	- **Indiscriminate friendliness
-		- In a review paper on the impact of institutionalization on children, it was shown that indiscriminate friendliness as behavior is common, that is affectionate and friendly toward all adults (including strangers) without the fear or caution that is typical  in young children. In these cases the children’s behavior toward a stranger cannot be discriminated from their behavior toward their primary caregivers. 
+		- In a review paper on the impact of institutionalization on children[^12], it was shown that **indiscriminate friendliness** as behavior is common, *that is affectionate and friendly toward all adults (including strangers) without the fear or caution that is typical in young children*. In these cases the children’s behavior toward a stranger cannot be discriminated from their behavior toward their primary caregivers. 
 		- found that indiscriminate friendliness was still present in adolescents who had been institutionalized as children but who were later fostered to unstable foster care placements.
-		- Researchers have  consistently found associations between orphanage children’s indiscriminate friendliness and their behavior problems
+		- Researchers have  consistently found associations between orphanage children’s **indiscriminate friendliness and their behavior problems**
 		- Chisholm (1998) has suggested that indiscriminate friendliness may serve an adaptive function in the context of the orphanage environment where emotional  resources are extremely limited. 
 
 
 ### Cognitive & mental development consequences:
-- Taken together with the experience of violence and abuse, this lack may impact the child’s stress response system, and, in this way, the development and structure of the brain as well. These changes to neurodevelopment may lead to mental health problems, such as depression, posttraumatic stress disorder, and internalizing and externalizing problems
-- individuals with a history of early institutional care showed more academic difficulties and deficits in social skills, such as maintaining trustful interpersonal relationships
-- Caregiver–child interactions are typically limited to routine caregiving chores (feeding, bathing, changing), conducted in a perfunctory and business-like manner with limited social interaction; crying is left unattended; and caregivers do not play with children or provide them with warm, sensitive, contingently responsive, and one-on-one interactions. There is limited reciprocal verbal or nonverbal caregiver– child “conversation.”
+- [^12]Taken together with the experience of violence and abuse, this lack may impact the **child’s stress response system**, and, in this way, the development and structure of the brain as well. These changes to neurodevelopment may lead to **mental health problems**, such as depression, posttraumatic stress disorder, and internalizing and externalizing problems
+- individuals with a history of early institutional care showed more **academic difficulties and deficits in social skills**, such as maintaining trustful interpersonal relationships
+- Caregiver–child interactions are typically limited to routine caregiving chores (feeding, bathing, changing), conducted in a **perfunctory and business-like manner** with limited social interaction; crying is left unattended; and caregivers do not play with children or provide them with warm, sensitive, contingently responsive, and one-on-one interactions. There is limited reciprocal verbal or nonverbal caregiver– child “conversation.”
 
 ## Positive effects of good-quality care
-- [^4]Structural interventions and caregiver trainings contribute to an improvement in children's living conditions in institutional care
+- [^4]**Structural interventions and caregiver trainings** contribute to an improvement in children's living conditions in institutional care
 - Training of caregivers and structural changes have beneficial effects on the children's development
-- In a seminar on institutional care[^9], we learned that among the positive aspects, the love and care that the staff  showed to the children was the first point mentioned, together with thefacilities available and good education
-- [^4]Nevertheless, our findings are in concordance with our hypothesis that caregiver trainings, structural changes, and enriched caregiving environments in child care institutions have beneficial effects on the child’s emotional, social, and cognitive development.
+- In a seminar on institutional care[^9], we learned that among the positive aspects, the **love and care** that the staff showed to the children was the first point mentioned, together with thefacilities available and good education
+- [^4]The findings are in concordance with our hypothesis that **caregiver trainings, structural changes, and enriched caregiving environments** in child care institutions have beneficial effects on the child’s emotional, social, and cognitive development.
 - Numerous studies providing institutionalized children with specific sensory and perceptual stimulation plus interventions that deliberately increase the social and educational quality of caregiver–child interactions have led to substantially improved children’s general behavioral and mental development
-- Children’s improvements are greater the more comprehensive and intensive the social-emotional and caregiver– child interaction intervention. Indeed, when the institutional environment was structurally made more family like and caregivers provided better socialemotional interactions with children, children’s physical and behavioral/mental development improved very substantially (including for children with disabilities), fewer children displayed disorganized attachment, and atypical behaviors were reduced
+- Children’s improvements are greater the more comprehensive and intensive the social-emotional and caregiver– child interaction intervention. When the institutional environment was structurally **made more family like** and caregivers provided **better socialemotional interactions** with children, children’s physical and behavioral/mental development improved very substantially (including for children with disabilities), fewer children displayed disorganized attachment, and atypical behaviors were reduced
 
-# Broad recommendations for caregiving from research
-A systematic review of caregiving interventions[^4] recommended the need for
-- Broad, theory based approaches are needed and should be tested using rigorous scientific standards
-- More efforts are needed to focus on the improvement of general caregiving environment, caregiver child relationship and maltreatment prevention
-- Responsive non-violent caregiver-child interactions are crucial to children's physical and behavioral develpmnet
-- Beyond improving caregiver-child attachment, caregiver trainings should also focus on prevention of violence and abuse in institutional care
-- Improving the quality of care may be more important than the type of care (eg. institutional care vs foster care)
-- Our findings have shown that less than one third of the intervention approaches were theory based, and only three studies applied manualized interventions. Therefore, we advocate for developing theory-based and manualized training concepts for institutional caregivers that may be based on attachment and that can be tested using rigorous scientific standards. 
-- Changing institutions that have operated traditionally for decades can be challenging, but it can be done. Caregivers need periodic training in behaviors known to enhance caregiver–child relationships, such as mutual engagement, following a child’s lead, displaying appropriate adult affect, and having reciprocal conversations with children
-- But training alone is not sufficient; it must be accompanied by on-the-ward coaching and structural/operational changes that reduce group sizes and provide children with fewer and more consistent caregivers over time. 
 
 # Caregiving Interventions
-- According to a review on caregiving interventions[^4], Many of the intervention approaches included in the studies ofthe present review have some important components in common: They all aim at improving the caregiver–child relationship (attachment and bonding), enriching the caregiving environment through additional stimulation and quality time, and at least some focus on preventing maltreatment and further harm
-- One promising approach that is theory based and manualized is [[FairstartGlobal]] (www.fairstartglobal.com). It is a curriculum rooted in attachment theory that promotes appropriate caregiver–child interactions and relationships. Its unique benefits include free availability on the Internet, implementation flexibility, administrator and staff involvement in creating its implementation, translation into 26 languages, and current implementation in numerous countries around the globe 
-- - [[The Bucharest Early Intervention Project]] (Koga,  Smyke, Zeanah, 2003; Zeanah, Smyke, & Koga,  2003) has begun providing a foster care inter-  vention in Bucharest, Romania, in which they  are following the development of children re-  moved from orphanage to foster care and com-  paring their developmental progress to both  children who remain in orphanage and a com-  munity comparison group. 
-	- [[The St. Petersburg– U.S.A. Orphanage Project]] (McCall, Muha-  medrahimov, Groark, Palmov, & Nikiforova,  2003), operating in three baby homes in St. Petersburg, is providing different interventions to examine which are most effective in reducing the developmental impact of institutional rearing. I
+In this section, we'll focus on caregiving interventions that have been tried and tested in institutional settings. 
+- According to a review on caregiving interventions[^4], Many of the intervention approaches included in the studies of the present review have some important components in common: They all aim at improving the caregiver–child relationship (attachment and bonding), enriching the caregiving environment through additional stimulation and quality time, and at least some focus on preventing maltreatment and further harm
+
+### Fairstart Global Caregiving Manual
+- One promising approach that is theory based and manualized is [[FairstartGlobal]] (www.fairstartglobal.com). It is a curriculum rooted in **attachment theory that promotes appropriate caregiver–child interactions and relationships**. 
+	- Its unique benefits include free availability on the Internet, implementation flexibility, administrator and staff involvement in creating its implementation, translation into 26 languages, and current implementation in numerous countries around the globe 
+
+### The Bucharest Early Intervention Project (BEIP)
+- [[The Bucharest Early Intervention Project]] ( has begun providing a foster care inter-  vention in Bucharest, Romania, in which they  are following the development of children removed from orphanage to foster care and comparing their developmental progress to both children who remain in orphanage and a community comparison group. 
+- The study showed that high-quality foster care has the potential of improving children’s development relative to the typical institutional environment
+
+#### Limitations of the BEIP
+-  It is uncertain whether most developing countries could or would implement for most children such an ideal and likely costly foster care system in a reasonable period of time
+- Indeed children who were transitioned to government foster care gained less developmentally than those who remained in the ideal foster care, although the number of children involved was small
+- Further, no one knows how beneficial the ideal foster care would be if it were compared to an ideal institution. 
+
+### The St. Petersburg- USA Orphanage Project
+ - [[The St. Petersburg– U.S.A. Orphanage Project]] , operating in three baby homes in St. Petersburg, is providing different interventions to examine which are most effective in reducing the developmental impact of institutional rearing. 
 		- In one baby home, orphanage staff are being trained in child development  and sensitive responsiveness. 
 		- In a second,  both caregiver training and structural changes  that reduce the number of different caregivers  and increase their stability in the lives of the children are being implemented. 
 		- A third baby  home is serving as a “no intervention” comparison group 
-	- Intervention Implemented in St. Petersburg (Russian Federation) Training (‘Love these children’) • Be engaged with children • Encourage warm, sensitive, contingently-responsive caregiver-child interactions • Follow child’s lead McCall Page 6 Child Adolesc Ment Health. Author manuscript; available in PMC 2014 November 01. NIH-PA Author Manuscript NIH-PA Author Manuscript NIH-PA Author Manuscript • Engage in reciprocal verbal and non-verbal interactions and conversation • Display appropriate affect Structural changes (More ‘family-like’ environment) • Reduce group size from 12–14 to 6–7 children • Reduce number of caregivers assigned to a group from 9–12 to 6 • Assign 2 ‘primary’ caregivers per group, one of whom would be present most waking hours every day; assign 4 ‘secondary’ caregivers to each specific group who worked separate days • Integrate groups by age and disability status of children • Stop periodic transitions of children to new groups of peers and caregivers • Institute ‘family-hours’ once each in the morning and afternoon in which children remained in their group with their caregivers without visitors or specialists • Implement an in-house system of monitoring and supervision to encourage caregivers to implement training principles with children
+### Interventions implemented in this project
+- Training (‘Love these children’)
+		- Be engaged with children
+		- Encourage warm, sensitive, contingently-responsive caregiver-child interactions
+		- Follow child’s lead
+		-  Engage in reciprocal verbal and non-verbal interactions and conversation
+		- Display appropriate affect 
+- Structural changes (More ‘family-like’ environment)
+		- Reduce group size from 12–14 to 6–7 children
+		- Reduce number of caregivers assigned to a group from 9–12 to 6 
+		- Assign 2 ‘primary’ caregivers per group, one of whom would be present most waking hours every day; assign 4 ‘secondary’ caregivers to each specific group who worked separate days
+		- Integrate groups by age and disability status of children
+		- Stop periodic transitions of children to new groups of peers and caregivers
+		- Institute ‘family-hours’ once each in the morning and afternoon in which children remained in their group with their caregivers without visitors or specialists
+		- Implement an in-house system of monitoring and supervision to encourage caregivers to implement training principles with children
+- Insights:
+	- Children developed substantially better in the improved institution. This study shows that institutions can be improved with benefits to children. 
+	- Further, the intervention was implemented with regular caregiving staff in a manner that could be subsequently maintained on the regular government-supplied budget with similar benefits for children, which in fact was accomplished 
+
+### Irvington House Study
 - Contrary to typical settings, - Irvington House[^6], a home for 130 children,  considered trying to imitate some sort of family life, but quickly came to realize that this was not only impractical but probably undesirable and dishonest as well. 
 	- We have therefore been quite clear with ourselves and we hope with the children, that Irvington house is a house and not a home. That counselors are counselors and not parents, and that the other children in the dormitory are members of a group, not of a family. 
-- Three major studies. This distinction is crucial when considering three of the more well-known, often cited, and sometimes controversial studies in this literature. As noted above, the BEIP randomly assigned children to a highquality, professionally ideal foster care versus institutional care as typically practiced (Smyke et al., 2007; Smyke, Zeanah, Fox, & Nelson, 2009). The study showed that high-quality foster care has the potential of improving children’s development relative to the typical institutional environment (Nelson et al., 2007). It is uncertain whether most developing countries could or would implement for most children such an ideal and likely costly foster care system in a reasonable period of time. Indeed children who were transitioned to government foster care gained less developmentally than those who remained in the ideal foster care, although the number of children involved was small (Tibu et al., 2014). Further, no one knows how beneficial the ideal foster care would be if it were compared to an ideal institution. The second study (Whetten et al., 2009, 2014) found the development of children 6–12 years of age in community-created and operated residential care facilities to be as good or better than children raised in family alternatives in the community. This was a study of care as currently practiced, and the countries, communities, and families were sampled in a way to be representative of these environments. This study demonstrated that not every family is better than any institution, but it says nothing about what those family care environments or the residential care facilities could be if they were financially and professionally supported to improve their quality of care. Third, the St. Petersburg-U.S.A. Orphanage Research Team (2008) intervention to improve the quality of care in an institution was compared to an institutional environment as currently practiced. Children developed substantially better in the improved institution. This study shows that institutions can be improved with benefits to children. Further, the intervention was implemented with regular caregiving staff in a manner that could be subsequently maintained on the regular government-supplied budget with similar benefits for children, which in fact was accomplished (McCall, Groark, Fish, Muhamedrahimov, Palmov, & Nikiforova, 2013). Implications. Collectively, these and other studies suggest that in practice the quality of care may be more important for children’s outcomes than the type of care. Family care inherently seems to have many structural features that would support children’s development, but the quality of the caregiver–child interactions, family social-economic status, and how the child is treated within a family can make a great deal of difference. Conversely, institutions do not have to operate in the way many currently do; they could be more family like in both structure and caregiver–child interactions, although they cost more than family care (Engle et al., 2011).
 
-# Caregiver Profile
-- [^2]The Miracle Foundation Method provided for hiring of a qualified social worker at Anwesha.
-	- The social worker engaged in counselling of the children, guiding the house parents,observing and supervising the work of the coaching teachers, following up ontraining of children and house parents and documentation-related work. (Page 11)
+### Positive Outcomes for Orphanges (Duke)
+- The second study (Whetten et al., 2009, 2014) found the development of children 6–12 years of age in community-created and operated residential care facilities to be as good or better than children raised in family alternatives in the community. 
+- This was a study of care as currently practiced, and the countries, communities, and families were sampled in a way to be representative of these environments. 
+- This study demonstrated that not every family is better than any institution, but it says nothing about what those family care environments or the residential care facilities could be if they were financially and professionally supported to improve their quality of care.
+
+### Implications of these caregiving interventions: 
+- Collectively, these and other studies suggest that in practice the quality of care may be more important for children’s outcomes than the type of care. 
+- Family care inherently seems to have many structural features that would support children’s development, but the quality of the caregiver–child interactions, family social-economic status, and how the child is treated within a family can make a great deal of difference. 
+- Conversely, institutions do not have to operate in the way many currently do; they could be more family like in both structure and caregiver–child interactions, although they cost more than family care
+
+# Broad recommendations for caregiving from research
+A systematic review of caregiving interventions[^4] recommended the need for
+	- Broad, theory based approaches are needed and should be tested using **rigorous scientific standards**
+	- More efforts are needed to focus on the improvement of **general caregiving environment, caregiver child relationship and maltreatment prevention**
+	- **Responsive non-violent caregiver-child interactions** are crucial to children's physical and behavioral develpmnet
+	- Beyond improving caregiver-child attachment, caregiver trainings should also focus on **prevention of violence and abuse** in institutional care
+	- Improving the quality of care may be more important than the type of care (eg. institutional care vs foster care)
+	- Our findings have shown that less than one third of the intervention approaches were theory based, and only three studies applied manualized interventions. Therefore, we advocate for developing theory-based and manualized training concepts for institutional caregivers that may be based on attachment and that can be tested using rigorous scientific standards. 
+- Changing institutions that have operated traditionally for decades can be challenging, but it can be done. Caregivers need periodic training in behaviors known to enhance caregiver–child relationships, such as mutual engagement, following a child’s lead, displaying appropriate adult affect, and having reciprocal conversations with children
+- But training alone is not sufficient; it must be accompanied by **on-the-ward coaching and structural/operational changes** that reduce group sizes and provide children with fewer and more consistent caregivers over time. 
+
+
+# Who are the caregivers? 
+
+## Caregiver Profile
+- [^2]The Miracle Foundation Method requires for hiring of a qualified social worker at Anwesha.
+	- The social worker engaged in counselling of the children, guiding the house parents,observing and supervising the work of the coaching teachers, following up ontraining of children and house parents and documentation-related work.
 - In dealing with children who are victims of violence[^8], it's recommended that
-	- The Home shall appoint staff only after adequate screening about the past record of the staff, ensuring that the staff has not shown any particular behavior in the past that could be a pot ent source of danger e .g. psychiatric disorders causing violence or self destructive behavior, is not suffering from substance addiction/ habit (including tobacco and alcohol), exhibits abusive behavior, offending or criminal behavior, etc. Full care shall be taken not to appoint any person habituated to dangerous drugs.
-- In a seminar organized by Udayan Care on institutionalization[^9], - In general it is advisable that caregivers are not too old and the generational gap among them and the children reﬂects that between children and parents. (Page 29)
+	- The Home shall appoint staff only after adequate screening about the past record of the staff, ensuring that the staff has not shown
+		-  any particular behavior in the past that could be a pot ent source of danger e .g. psychiatric disorders causing violence or self destructive behavior,
+		- is not suffering from substance addiction/ habit (including tobacco and alcohol)
+		- exhibits abusive behavior, offending or criminal behavior, etc. 
+		- Full care shall be taken not to appoint any person habituated to dangerous drugs.
+- In a seminar organized by Udayan Care on institutionalization[^9], - In general it is advisable that caregivers are not too old and the generational gap among them and the children reﬂects that between children and parents.
 
-
-## Caregiver Number & Types
-At Irvington House, a strict staff selection criterion was used, 
-- The child-care staff is for the most part college-trained. The average age is 24.
+## Caregiver Strength & Roles
+- At Irvington House, a strict staff selection criterion was used, 
+	- The child-care staff is for the most part college-trained. The average age is 24.
 	- We are particularly concerned to find people interested in and responsive to professional supervision
 	- The child-care workers are directly supervised by trained group workers, with individual conferences as the main supervisory tool 
 	- We look for people interested in eventually undertaking graduate training in social work or a related field and who will be, consequently, professionally as well as personally motivated. 
 	- As a matter of policy, we always have had at least one male worker assigned to the three older groups
-	- We have tried consciously to keep the numebr of different adults with whom a child must have a meaningful relationship to a minimum
+	- We have tried consciously to keep the number of different adults with whom a child must have a meaningful relationship to a minimum
 	- A child-care worker once assigned to a given dormitory, has remained there throughout his employment at the house. 
 	- Each worker has a case load of approximately 20 children. 
-
-
-According to guidelines for institutional care in Ethiopia[^5], The profile of the human-power shall be:
+- According to guidelines for institutional care in Ethiopia[^5], The profile of the human-power shall be:
     * Manager / Administrator: The manager / administrator shall have at least his/her first degree in sociology, psychology, or other related fields of study with, at least, two years of relevant experience.
     * Secretary: The Secretary shall, at least, have a diploma in office management, accounting or other related fields with, at least, two years of experience in similar line of work.
     * Finance Officer: The Finance officer shall, at least, have a diploma in accounting or other related fields with a minimum experience of two years in the area.
@@ -109,9 +156,7 @@ According to guidelines for institutional care in Ethiopia[^5], The profile of t
     * Counselor: A Counselor shall, at least, have his/her first degree in psychology with a minimum experience of two years in the area.
     * Home Mothers: A Home Mother should complete at least grade six and shall have at least a three months relevant training and a minimum experience of one year as an assistant home mother.
 - [^11]Udayan care recommends
-	- The rule deals with the basis for staffing like categories of children, capacity of CCI, nature of duties, hours of duty etc.
-	- While key regular staff include
-		-  person-in-charge, 
+		- person-in-charge, 
 		- probation officer/CWO/CW, 
 		- counselor/psychologist/mental health expert, 
 		- house mother/house father, 
@@ -354,3 +399,4 @@ According to Aangan, Children are helped to develop socially acceptable behaviou
 [^9]: [[UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care]]
 [^10]: [[Rainbow - CCI Management Handbook]]
 [^11]: [[UdayanCare_Standards Of Care in Child Care Institutions]]
+[^12]: [[The Impact of Institutionalization on Child Development_Kim Mclean]]
