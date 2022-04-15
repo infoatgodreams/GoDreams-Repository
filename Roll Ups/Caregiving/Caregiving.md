@@ -159,6 +159,32 @@ accessibility to authorities (31%)
 # Care Practices
 - In dealing with children who are victims of violence[^8], it is recommended that the safety/risk assessment in relation to victims' known and likely activities, the potential for bullying and abuse within and outside of the Home and where applicable the impact of emergency admissions on the victims shall also be carried out, recorded in writing and regularly reviewed by the organization running the Home in consultation with subject matter experts.
 - The shelter home authority shall evolve a Crisis Management Plan (CMP) to address a range of foreseeable crises (e.g. death, outbreaks of illness, fires, serious allegations or complaints, significant accidents, staff shortage, and control problems within or outside the home).
+- Rainbow recommends a loose schedule for all caregivers with milestones 
+	- Weekly 
+		-  Issuing of stationery and toiletries to children
+		- Weekly Staff Meetings
+		-  Facilitation of children-parent phone calls
+	- Monthly
+		- Parents Meetings/Staff Meeting/Bala Sabha
+		- Attending monthly school meetings
+		- Budget Planning for CCI
+		- Birthdays/Festival celebrations
+		- Health Check-ups
+		- Stock taking
+		- Checking of child records and registers
+	- Quarterly
+		- Purchasing of clothes
+		- Outing for children
+	- Half Yearly
+		- Purchasing of Footwear
+		- Purchasing of bedsheet
+		- De-worming
+	- Annual
+		- Purchase of uniforms and school supplies
+		- Sports day, annual day
+		- outstation trips
+		- stock taking of fixed assets
+
 
 # Assessment Tools
 - According to a systematic review on caregiving interventions, The most frequently applied instruments were the Cattell Infant Intelligence Scale (Cattell, 1940) and the Denver II (Frankenburg &amp; Dodds, 1990), both measuring intelligence and developmental quotients.
