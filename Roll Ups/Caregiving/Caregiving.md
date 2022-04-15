@@ -203,8 +203,14 @@ A systematic review of caregiving interventions[^4] recommended the need for
 	- Non-Judgemental Attitude or Unconditional Positive Regard
 	- Genuineness or truthfulness.
 
-## Caregiver self-care & support
-- [^2]At Miracle Foundation, ‘Tea time with house parents’, the practice of Miracle staff spending informal timewith caregivers enabled them to unwind, open up, share their joys and concerns and feel acknowledged as being important.
+## Caring for the Caregiver
+- According to Aangan's manual on caregiving[^3], these were the top concerns of the staff at CCIs
+	- Playing equipment for children. (57%)
+	- Motivation: Higher salaries; more holidays; acknowledgement from and accessibility to authorities (31%)
+	- Security systems (to reduce cases of running away). (31%)
+	- Institutional Budget - increase and timely disbursement. (17%)
+	- Infrastructure (building renovations, improvement etc) . (4.9%)
+- [^2]At Miracle Foundation, **‘Tea time with house parents’,** the practice of Miracle staff spending informal timewith caregivers enabled them to unwind, open up, share their joys and concerns and feel acknowledged as being important.
 - [^2]Miracle Staff also write regularly in the House parent Diary that served to be a readyreference of their important tasks and responsibilities.
 - Prerna[^7] recommends self care tips for all caregivers:
 	- Get 8 hours of sleep.
@@ -214,29 +220,38 @@ A systematic review of caregiving interventions[^4] recommended the need for
 	* Regularly engage in coping strategies: Deep Breathing, Exercising, Practicing a hobby, taking regular breaks, self-care activities, using humor in day to day life, Affirmations, Systematic Body relaxation, grounding, Mandala making etc.
 	* Stay in contact with loved ones.
 * [^9]Aangan recommends certain practices to focus on improving staff morale and motivation
-	* 
+	* **Standardized motivation and Reinforcement Program.** Develop a state level recognition award system based on identifying best practices
+	* **Standardized discipline code** for offences by staff
+	* Ensure that **innovative ideas, individuals and institutions** are identified and reinforced
+
+
 
 
 # Working with Children
 
 ## Key principles governing interactions with children
+### Individualization
 - According to the study conducted at Irvington House[^6],
-	- For young children a paramount need is to feel that there is someone who really cares for him or her as an individual human being, someone with whom and for whom he is special. In addition to this special one to one relationship, the child must also feel that all, or most, of the people around him like and respect him for what he is. We have called this basic concept, along with teh child-care practices that have grown out of it, "individualization. 
-	- We assumed that small children need relatively small, self-contained settings for their basic physical care. They need the opportunity for privacy, some belongings which are their very own, some which are to be shared and the freedom to explore within boundaries that set unobtrusive but firm limits on impulse. 
-	- A final assumption in relation to the program offered is that any positive life experience, no matter what its duration, strengthens the child in terms of meeting subsequent life experiences. 
-		- There is no concept of "spoiling the children" as while it is morally and professionally impossibly to not provide the maximum of what we have, our assumption is that if we offer this, a child is better equipped to meet the vicissitudes of whatever his life may be when he leaves us. 
+	- For young children a paramount need is to feel that there is someone who really cares for him or her as an individual human being, someone with whom and for whom he is special. 
+	- In addition to this special one to one relationship, the child must also feel that all, or most, of the people around him like and respect him for what he is. We have called this basic concept, along with the child-care practices that have grown out of it, "**individualization**"
+	- We assumed that small children need relatively small, self-contained settings for their basic physical care. They need the **opportunity for privacy, some belongings which are their very own,** some which are to be shared and the freedom to explore within boundaries that set unobtrusive but firm limits on impulse. 
 	- The one-to-one relationship thus developed between counselor and child is to give the child a feeling that, despite some of the necessary impersonality and antiseptic quality of an institutional environment, someone on the staff cares for him or her as an individual human being above and beyond the requirements of the job. 
+
+### Positive Caregiving
+- A final assumption in relation to the program offered is that any positive life experience, no matter what its duration, strengthens the child in terms of meeting subsequent life experiences. 
+- There is no concept of "spoiling the children" as while it is morally and professionally impossibly to not provide the maximum of what we have, our assumption is that if we offer this, a child is better equipped to meet the vicissitudes of whatever his life may be when he leaves us. 
+
+### Lack of Bias & Discrimination
 - In a seminar organized by Udayan Care on Institutionalization[^9], it was noted that
 	-  especially in residential institutions funded by religious bodies or in governmental institutions of countries withlittle concern for the beliefs of minorities, children’s right to equality and non-discrimination could be seriouslyneglected. 
 	- All children placed in institutions should have opportunities to express their opinions, practice theirreligion, function in their native language and participate in social activities in the community they belong to.Children’s right to equality and non-discrimination should be always upheld. 
-	- caregiver should act as a professional and not as a friend to the child, there by reducing the possibility of a conflict of interest or inappropriate conduct.43 (Page 30)
-- On research on institutionalised children globally, there are no research data known to the authors that directly assess the benefits or liabilities of such volunteers. Theoretically, the potential of adding to instability and inconsistency of caregiving is present in some situations, especially for infants and toddlers. Conversely, older children may view such volunteers, not as caregivers, but people who come to play, and they may provide a great deal of stimulation and perhaps more quality interaction with children than the regular caregivers. Implications. If children, especially infants and toddlers, do not have a few, stable, consistent caregivers but rather many and changing staff caregivers, adding a constantly changing set of volunteers may compound this problem despite the stimulation they may provide the children. However, if groups are small, children are cared for by a few stable caregivers, and children remain with those caregivers over long periods of their early lives, short-term volunteers may not be so detrimental, especially for older children. The latter case resembles a stable family environment with many grandparents, aunts and uncles, neighbors, and friends who visit occasionally. One study found children in the latter kind of environment were more developmentally advanced than children in more typical institutions without volunteers (Groark et al., 2013a).
-- Following 5 intervention areas:
-		- Accessibility of staff 
-		- Quality of interaction 
-		- Information 
-		- Orientation 
-		- Disciplinary Action
+- According to Irvington House, caregiver should act as a professional and not as a friend to the child, there by reducing the possibility of a conflict of interest or inappropriate conduct.
+
+### Consistency in caregiving
+- We need to avoid instability and inconsistency of caregiving, especially for infants and toddlers.
+- If children, especially infants and toddlers, do not have a few, stable, consistent caregivers but rather many and changing staff caregivers, adding a constantly changing set of volunteers may compound this problem despite the stimulation they may provide the children.
+- If the groups are small, children are cared for by a few stable caregivers, and children remain with those caregivers over long periods of their early lives, short-term volunteers may not be so detrimental, especially for older children. The latter case resembles a stable family environment with many grandparents, aunts and uncles, neighbors, and friends who visit occasionally. One study found children in the latter kind of environment were more developmentally advanced than children in more typical institutions without volunteers 
+
 
 -  Positivize interaction of staff and child 
 		- Standardized interaction guidelines 
@@ -308,19 +323,7 @@ A systematic review of caregiving interventions[^4] recommended the need for
 - Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
 
 
- Staff Motivation 
-The staff’s opinions differed a little. Their top concern areas were :
--  Playing equipment for children. (57%)
--  Motivation: Higher salaries; more holidays; acknowledgement from and
-accessibility to authorities (31%)
--  Security systems (to reduce cases of running away). (31%)
--  Institutional Budget - increase and timely disbursement. (17%)
--  1 Infrastructure (building renovations, improvement etc) . (4.9%)
 
--  Staff motivation : 
-		- Standardized motivation and Reinforcement Program. Develop a state level recognition award system based on identifying best practices;
-		-  Standardized discipline code for offences by staff
-		- Ensure that innovative ideas, individuals and institutions are identified and reinforced
 # Recommendation III : Operational definition of effectiveness
 -  Need to define effectiveness of institutions factoring in staff, children's and governing authorities perspectives
 			- Standardized Evaluation of performance,criteria &systems. 
