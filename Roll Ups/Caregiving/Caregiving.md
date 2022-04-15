@@ -204,6 +204,34 @@ A systematic review of caregiving interventions[^4] recommended the need for
 	- Non-Judgemental Attitude or Unconditional Positive Regard
 	- Genuineness or truthfulness.
 
+
+## Caregiver responsibilites 
+- Rainbow[^10] recommends a loose schedule for all caregivers with milestones 
+	- Weekly 
+		-  Issuing of stationery and toiletries to children
+		- Weekly Staff Meetings
+		-  Facilitation of children-parent phone calls
+	- Monthly
+		- Parents Meetings/Staff Meeting/Bala Sabha
+		- Attending monthly school meetings
+		- Budget Planning for CCI
+		- Birthdays/Festival celebrations
+		- Health Check-ups
+		- Stock taking
+		- Checking of child records and registers
+	- Quarterly
+		- Purchasing of clothes
+		- Outing for children
+	- Half Yearly
+		- Purchasing of Footwear
+		- Purchasing of bedsheet
+		- De-worming
+	- Annual
+		- Purchase of uniforms and school supplies
+		- Sports day, annual day
+		- outstation trips
+		- stock taking of fixed assets
+
 ## Assessing efficiency of caregiving
 - According to Aangan[^3], we need to define effectiveness of institutions factoring in staff, children's and governing authorities perspectives. This includes
 	- Standardized Evaluation of performance,criteria & systems.
@@ -211,6 +239,7 @@ A systematic review of caregiving interventions[^4] recommended the need for
 	- External Evaluation through Vigilance Committees. 
 	- Develop self monitoring tool.  
 	- Capacity building of staff to use tool for internal monitoring and goal setting 
+- The shelter home authority shall evolve a Crisis Management Plan (CMP) to address a range of foreseeable crises (e.g. death, outbreaks of illness, fires, serious allegations or complaints, significant accidents, staff shortage, and control problems within or outside the home).
 
 ## Caring for the Caregiver
 - According to Aangan's manual on caregiving[^3], these were the top concerns of the staff at CCIs
@@ -285,6 +314,8 @@ According to Aangan[^3], Children are helped to develop socially acceptable beha
 	- Talk about inappropriate behavior without demeaning their self worth or attacking their personality or character.
 	- Do not verbally or physically abuse children. This hurts them and teaches them that abuse is a problem-solving technique, which they are bound to use to solve their own problems.
 	- Refrain from labeling children negatively (for eg: manda, aalsi, moti, sukdi, bewakoof). All labels related to looks, intellect and behavior should be avoided.
+	- Most service providers ask the children to repeatedly narrate their stories, putting them through undeniable pain. In the worst cases, children are blamed for their negative experiences, or get further maltreated
+	- Need to ensure that children do not suffer additional victimisation through adverse labelling.
 - Detention after school/during TV/recreation time
 - Written reports and assignments- preferably connected to the incident 
 - Open Circles and Child Panchayats- to encourage peer mediation and group discussion
@@ -309,6 +340,7 @@ According to Aangan[^3], Children are helped to develop socially acceptable beha
 
 ## Dealing with allegations of abuse
 ### Acknowledgement
+- In dealing with children who are victims of violence[^8], it is recommended that the safety/risk assessment in relation to victims' known and likely activities, the potential for bullying and abuse within and outside of the Home and where applicable the impact of emergency admissions on the victims shall also be carried out, recorded in writing and regularly reviewed by the organization running the Home in consultation with subject matter experts.
 - Acknowledge that the child is being courageous in sharing a difficult experience or information
 - Take abuse between children seriously as well and teach them alternate ways to solve problems.
 - Validate that their decision to trust and share with you was a good, safe and responsible one
@@ -327,6 +359,7 @@ According to Aangan[^3], Children are helped to develop socially acceptable beha
 ## Dealing with Emotions
 ### Normalise & acknowledge emotions
 - Children can quickly understand who understands them and who cannot understand them. When a child has a fight and is angry with everyone, caregiver could go near and ask permission to sit nearby. The caregiver could say that “I can understand that you are angry and do you want to talk about it?”
+- In a study by Udayan Care, some children explained that if they had a fight or a particular situation outside the institution, they could not always share it with the staff , because they would have made a bigdeal out of it.
 - As an adult living with children, express your emotions on the child’s behavior. Only being patient is not the way to deal with children experiencing emotional and behavioral challenges.
 - Having conversations about others' feelings is required too as it helps the child build skills for empathy and considering different perspectives. Let them know that the staff is human too and not just an authoritarian figure.
 
@@ -348,50 +381,10 @@ According to Aangan[^3], Children are helped to develop socially acceptable beha
 	- In early childhood it also helps in the brain development of the child. 
 - Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
 - When the child returns from school, college or any vocational training centre make a point to ask how was his/her day in school/college/ vocational training centre. Show interest in their lives. 
+	- A couple of the participants mentioned that the staff of the institutions is less aware of the talents and qualities ofthe children in comparison to a family, where every child gets special attention from his/her parents; or that inthe Homes it often happens that only children with particular capacities are cared for, while others are left behind
 - It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation. It is crucial to not disrupt attachment patterns then. 
-
-
-
-
-
-# Care Practices
-- In dealing with children who are victims of violence[^8], it is recommended that the safety/risk assessment in relation to victims' known and likely activities, the potential for bullying and abuse within and outside of the Home and where applicable the impact of emergency admissions on the victims shall also be carried out, recorded in writing and regularly reviewed by the organization running the Home in consultation with subject matter experts.
-- The shelter home authority shall evolve a Crisis Management Plan (CMP) to address a range of foreseeable crises (e.g. death, outbreaks of illness, fires, serious allegations or complaints, significant accidents, staff shortage, and control problems within or outside the home).
-- Rainbow[^10] recommends a loose schedule for all caregivers with milestones 
-	- Weekly 
-		-  Issuing of stationery and toiletries to children
-		- Weekly Staff Meetings
-		-  Facilitation of children-parent phone calls
-	- Monthly
-		- Parents Meetings/Staff Meeting/Bala Sabha
-		- Attending monthly school meetings
-		- Budget Planning for CCI
-		- Birthdays/Festival celebrations
-		- Health Check-ups
-		- Stock taking
-		- Checking of child records and registers
-	- Quarterly
-		- Purchasing of clothes
-		- Outing for children
-	- Half Yearly
-		- Purchasing of Footwear
-		- Purchasing of bedsheet
-		- De-worming
-	- Annual
-		- Purchase of uniforms and school supplies
-		- Sports day, annual day
-		- outstation trips
-		- stock taking of fixed assets
-- [^9]At a seminar on mental health in institutions, Dr. Sen advise
-	- d towards a major consideration of the roles of caregivers when applying certain changes to the everyday management of the institution, especially because, in terms of mental health care, a comprehensive approach, where the caregivers, the managers and the psychologists and psychiatrists work together, is needed.Hierarchy among personnel is often significant and not carefully evaluated, which seriously affects the functioning of institutions. 
-	- At the sametime, it is imperative for caregivers to know how to prepare the children in case they are leaving the institution for a different job, instead of disappearing and suddenly leaving them alone. 
+- [^9]At a seminar on mental health in institutions, Dr. Sen advises that it is imperative for caregivers to know how to prepare the children in case they are leaving the institution for a different job, instead of disappearing and suddenly leaving them alone. 
 		- Caregivers should be as constant as possible and, when about to leave their jobs for any reason, they should know how toprepare the children to de-attach.
-	- Most service providers ask the children to repeatedly narrate their stories, putting them through undeniable pain. In the worst cases, children are blamed for their negative experiences, or get further maltreated
-	- practitioners, to ensure that children do not suffer additional victimisation through adverse labelling.
-	- A couple of the participants mentioned that the staff  of the institutions is less aware of the talents and qualities ofthe children in comparison to a family, where every child gets special attention from his/her parents; or that inthe Homes it often happens that only children with particular capacities are cared for, while others are left behind
-	- Others also explained that if they had a fight or a particular situation outside the institution, they could not always share it with the staff , because they would have made a bigdeal out of it.
-	- Some of them underlined that sometimes they felt NGOs interfered too much in their lives
-- 
 
 
 # Assessment Tools
