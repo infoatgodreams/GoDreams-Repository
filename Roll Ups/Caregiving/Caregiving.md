@@ -61,6 +61,9 @@ A systematic review of caregiving interventions[^4] recommended the need for
 # Caregiver Profile
 - [^2]The Miracle Foundation Method provided for hiring of a qualified social worker at Anwesha.
 	- The social worker engaged in counselling of the children, guiding the house parents,observing and supervising the work of the coaching teachers, following up ontraining of children and house parents and documentation-related work. (Page 11)
+- In dealing with children who are victims of violence[^8], it's recommended that
+	- The Home shall appoint staff only after adequate screening about the past record of the staff, ensuring that the staff has not shown any particular behavior in the past that could be a pot ent source of danger e .g. psychiatric disorders causing violence or self destructive behavior, is not suffering from substance addiction/ habit (including tobacco and alcohol), exhibits abusive behavior, offending or criminal behavior, etc. Full care shall be taken not to appoint any person habituated to dangerous drugs.
+
 
 ## Caregiver Number & Types
 At Irvington House, a strict staff selection criterion was used, 
@@ -153,6 +156,10 @@ accessibility to authorities (31%)
 - Caregiving was “seen as good when there is an identified adult (parent or guardian) who provides the child with a stable, nurturing, and emotionally secure environment. The relationship between the child and the caregiver should provide physical and psychological security for the child. 
 - This factor captured how committed the caregiver was to the child and to his/her involvement with the child”.
 
+# Care Practices
+- In dealing with children who are victims of violence[^8], it is recommended that the safety/risk assessment in relation to victims' known and likely activities, the potential for bullying and abuse within and outside of the Home and where applicable the impact of emergency admissions on the victims shall also be carried out, recorded in writing and regularly reviewed by the organization running the Home in consultation with subject matter experts.
+- The shelter home authority shall evolve a Crisis Management Plan (CMP) to address a range of foreseeable crises (e.g. death, outbreaks of illness, fires, serious allegations or complaints, significant accidents, staff shortage, and control problems within or outside the home).
+
 # Assessment Tools
 - According to a systematic review on caregiving interventions, The most frequently applied instruments were the Cattell Infant Intelligence Scale (Cattell, 1940) and the Denver II (Frankenburg &amp; Dodds, 1990), both measuring intelligence and developmental quotients.
 
@@ -166,3 +173,4 @@ accessibility to authorities (31%)
 [^5]: [[Guidelines for Institutional Childcare, Ethiopia]]
 [^6]: [[Irvington HouseGrowth Potential of Pre-school aged children in institutional care]]
 [^7]: [[Mental Health at CCIs during Covid-19_Prerana Guide]]
+[^8]: [[Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia]]
