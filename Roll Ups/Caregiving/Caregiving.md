@@ -41,6 +41,7 @@ In a systematic review[^4]
 	- Researchers have  consistently found associations between orphanage children’s indiscriminate friendliness  and their behavior problems
 	- Chisholm (1998) has suggested that indiscriminate friendliness may serve an adaptive function in the context of the orphanage environment where emotional  resources are extremely limited. 
 		- Amid the passivity of the orphanage an indiscriminately friendly child may receive what little attention caregivers have to offer. 
+- . Caregiver–child interactions are typically limited to routine caregiving chores (feeding, bathing, changing), conducted in a perfunctory and business-like manner with limited social interaction; crying is left unattended; and caregivers do not play with children or provide them with warm, sensitive, contingently responsive, and one-on-one interactions. There is limited reciprocal verbal or nonverbal caregiver– child “conversation.”
 
 ## Positive effects of good-quality care
 - [^4]Structural interventions and caregiver trainings contribute to an improvement in children's living conditions in institutional care
