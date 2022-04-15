@@ -284,16 +284,19 @@ According to Aangan[^3], Children are helped to develop socially acceptable beha
 	- In order to avoid shaming, embarrassing or humiliating the child, the caregivers should hold this conversation one- on-one with the child and avoid confronting the child in front of the other children.
 	- Talk about inappropriate behavior without demeaning their self worth or attacking their personality or character.
 	- Do not verbally or physically abuse children. This hurts them and teaches them that abuse is a problem-solving technique, which they are bound to use to solve their own problems.
+	- Refrain from labeling children negatively (for eg: manda, aalsi, moti, sukdi, bewakoof). All labels related to looks, intellect and behavior should be avoided.
 - Detention after school/during TV/recreation time
 - Written reports and assignments- preferably connected to the incident 
 - Open Circles and Child Panchayats- to encourage peer mediation and group discussion
 - Make a note in the child's file that can later be brought up with CWC/JWB
 - Community services and restitution
 - Time out: separate the child from the group to remove any positive reinforcement/attention for poor actions
+	- - Stay calm and firm- never mean
 - Withholding privileges- effective, especially for older children. Children need to learn that privileges come with responsibility and that they can be taken away 
 - For serious disciplinary issues like drug abuse, you can use a combination of different methods. 
+- Individualise measures- measures should take into account the age, understanding, incident and individual needs of the chilld
 
-### Thumb-rules
+### Thumb-rules for disciplining children
 - Children may not conform to all the rules and the staff can decide what are acceptable.
 - Extreme disciplining may lead to defiance in children.
 - While working with adolescents recognize that they are developing ideas that might differ from your own. Unless these ideas place the adolescent in danger of harm to self or others, accept their beliefs as an example of their developing individuality.
@@ -301,44 +304,20 @@ According to Aangan[^3], Children are helped to develop socially acceptable beha
 - Tell the child what you do want them to do rather than what you don’t. For example, instead of saying ‘Don’t walk so close to the road’, say ‘Come and walk next to me’. Often, we remember to reprimand children for their mistakes and correct them but forget to appreciate them for achievements and healthy behavior. A simple ‘you did a very good job today!’ can help children feel good about themselves and reinforce healthy behavior.
 - Avoid impatient body language like eye rolling, foot tapping or sighing. This can discourage a child from talking.
 - Hold conversations at the appropriate time and place. It is also important to address an issue in a timely manner. If one waits too long to address a situation, sometimes the child will not remember the incident or more often than not, it will not register that they did something wrong or unacceptable, thereby causing them to repeat the behavior.
-
-
-- Praise is effective- praise responsible, considerate, appropriate behaviour with attention, thanks, recognition, special privileges 
-
-- Talk in private- do not humiliate the child in front of others, move to a private spot for more serious issues 
-- Two way communication- Listen as well as talk; let the child explain their side 
-- Stay calm and firm- never mean
-- Redirect alternatives and options 
-- Individualise measures- measures should take into account the age, understanding, incident and individual needs of the chilld
-
-## Working with children sensitively
--
-- It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
-
-
-
-
-
-- Take abuse between children seriously as well and teach them alternate ways to solve problems.
-
-
-- Refrain from labeling children negatively (for eg: manda, aalsi, moti, sukdi, bewakoof). All labels related to looks, intellect and behavior should be avoided.
-- If you see a child lying, you can talk about the situation and address the lying instead of labeling the child as “liar” r “chor/stealer”
 - Apologize to children when you make mistakes.This helps children understand that everybody makes mistakes and that mistakes can be rectified. Children often learn through modeling – by observing other individuals and imitating them.
-- When children ask questions, you do not have to know all the answers. Admit it when you do not know something.
-	- This helps children learn that it is okay to not know everything and that new knowledge can always be acquired through effort.Use conversation as an opportunity to keep up with adolescent activities and relationships. Stay interested, and gently ask questions and seek explanations for their behaviour.
-- Praise their efforts, not just their results. A child needs to know that it is okay to fail
-- When the child returns from school, college or any vocational training centre make a point to ask how was his/her day in school/college/ vocational training centre.
-- Ensure that you maintain confidentiality when children trust you with their stories. This builds trust and helps them accept you as a safe space they can come to when they need adult help.
+
+
 
 ## In case the child discloses anything threatening or about an abuse:
 - Acknowledge that the child is being courageous in sharing a difficult experience or information
+- Take abuse between children seriously as well and teach them alternate ways to solve problems.
 - Validate that their decision to trust and share with you was a good, safe and responsible one
 - Reassure the child that specific steps will be taken to protect them and other children or adults affected by the event/experience
 - If possible identify the next steps that the caregivers will be taking to ensure the safety of the child and others affected
 - Follow-up and check-in with the child with regards to feelings of fear, shame, anxiety, relief that they may be experiencing following disclosure
 - Ensure that consistent messages are given to the child. Hence, it is important for caregivers to regularly communicate with each other.
 - Address children with their names, even in your internal communication and not as POCSO Case, Missing child, ITPA case, Trafficking case, Suicide case, etc.
+- Ensure that you maintain confidentiality when children trust you with their stories. This builds trust and helps them accept you as a safe space they can come to when they need adult help.
 
 
 ## Dealing with Emotions
@@ -361,6 +340,10 @@ According to Aangan[^3], Children are helped to develop socially acceptable beha
 - Encourage parent(s)/guardian(s)to meet the children as much as they can. it helps the child to build trust and reduces the attachment issues they face which reflect on their behavior.
 - In early childhood it also helps in the brain development of the child. 
 - Model empathy and compassion in your engagements with children and recognize and encourage empathy and acts of kindness among children that will make them live together in harmony.
+- When the child returns from school, college or any vocational training centre make a point to ask how was his/her day in school/college/ vocational training centre.
+- It is normal for children especially in the adolescent age group to explore their sexuality. The caregivers need to accept and deal with dignity when a child identifies himself/ herself/themselves as gay, lesbian, bisexual or other sexual orientation.
+
+
 
 
 
