@@ -18,41 +18,37 @@ tags:
 	- **Structured Recreation:**
 		 - “We wish they would allow us to play more and have more fun,” said 24% CNCP and 19% CICL.
 
+## Effects of Sub-optimal care
 
 ### Physical and Physiological consequences
 - The psychosocial short stature hypothesis or psychosocial dwarfism syndrome stipulates that infrequent and inadequate caregiver–child social–emotional interactions contribute to poor physical growth; and when caregiver–child interactions are improved in an institution, children’s physical development improves even without changes in nutrition (St. Petersburg-U.S.A. Orphanage Research Team, 2008). 
 - Also, institutionalized children’s ratios of weight-to-height are typically not nearly as low as their heights and weights, a fact suggesting that their short stature is less associated with malnutrition than quality of caregiver–child interactions. 
+- Usually, the child care institutions are able to offer basic provisions of food and shelter, but they lack adequate means to offer sensitive, child-oriented care, possibly leading to the emotional and physical neglect of many children.
+- the reported worldwide rates of violence against children in institutional care were 6 times higher than those of children living in family-based foster care of interventions to improve care practices in institutions, the paper described the major negative effects of poor caregiving
 
-### Cognitive & Behavioural consequences:
+### Behavioural consequences:
 - The lack of caregiver–child interactions, talking, and one-on-one contingent responsiveness also contribute to the child’s general behavioral and mental deficiencies.
 - **Attachment issues**
 	- Consistent with attachment theory, institutionalized children have much higher rates of insecure and disorganized attachments even to their favorite caregiver or the one who knows the child best. 
 	- Across studies of institutionalized infants and toddlers, approximately 73% displayed disorganized attachment or were unscoreable, whereas this might be expected in only approximately 15% of low-risk, noninstitutionalized, parent-reared children  Disorganized attachment is characterized by “fear without solution” in which the infant both seeks comfort from the caregiver but is also afraid of the caregiver.
-	- Among parent-reared children disorganized attachment predicts a variety of behavior and psychiatric problems in childhood and adolescence 
-   (St. Petersburg-U.S.A. Orphanage Research Team, 2008). Implications. Institutions do not have to operate in the way many do; they could deliver much better caregiver–child interactions in more family like environments and children’s physical, behavioral, mental, and social-emotional development could be much better than it is in many institutions as currently operated (Groark & McCall, 2011a, 2011b). Changing institutions that have operated traditionally for decades can be challenging, but it can be done. Caregivers need periodic training in behaviors known to enhance caregiver–child relationships, such as mutual engagement, following a child’s lead, displaying appropriate adult affect, and having reciprocal conversations with children (St. Petersburg-U.S.A. Orphanage Research Team, 2008). But training alone is not sufficient; it must be accompanied by on-the-ward coaching and structural/operational changes that reduce group sizes and provide children with fewer and more consistent caregivers over time.
+	- Among parent-reared children disorganized attachment predicts a variety of behavior and psychiatric problems in childhood and adolescence. 
+	- In a systematic review on institutional childcare, it was shown that[^4]Children may develop a low-quality attachment bond or even lack an attachment relationship altogether in the absence of adequate care 
+	- **Indiscriminate friendliness
+		- In a review paper on the impact of institutionalization on children, it was shown that indiscriminate friendliness as behavior is common, that is affectionate and friendly toward all adults (including strangers) without the fear or caution that is typical  in young children. In these cases the children’s behavior toward a stranger cannot be discriminated from their behavior toward their primary caregivers. 
+		- found that indiscriminate friendliness was still present in adolescents who had been institutionalized as children but who were later fostered to unstable foster care placements.
+		- Researchers have  consistently found associations between orphanage children’s indiscriminate friendliness and their behavior problems
+		- Chisholm (1998) has suggested that indiscriminate friendliness may serve an adaptive function in the context of the orphanage environment where emotional  resources are extremely limited. 
 
-## Effects of Sub-optimal care
-In a systematic review[^4]
-- Children may develop a low-quality attachment bond or even lack an attachment relationship altogether in the absence of adequate care
+
+### Cognitive & mental development consequences:
 - Taken together with the experience of violence and abuse, this lack may impact the child’s stress response system, and, in this way, the development and structure of the brain as well. These changes to neurodevelopment may lead to mental health problems, such as depression, posttraumatic stress disorder, and internalizing and externalizing problems
-- individuals with a history of early institutional care showed more academic difficulties and deficits in social skills, such as maintaining trustful interpersonal relationships (Frank, Klass, Earls, &amp; Eisenberg, 1996; Merz, McCall, &amp; Wright, 2013).
-- child maltreatment has been related to epigenetic changes in the stress response axis (Hecker, Radtke, Hermenau, Papassotiropoulos, &amp; Elbert, 2016; McGowan et al., 2009)
-- Usually, the child care institutions are able to offer basic provisions of food and shelter, but they lack adequate means to offer sensitive, child-oriented care, possibly leading to the emotional and physical neglect of many children (Oliveira et al., 2012; Vashchenko et al., 2010)
-- the reported worldwide rates of violence against children in institutional care were 6 times higher than those of children living in family-based foster care of interventions to improve care practices in institutions, the paper described the major negative effects of poor caregiving
-- In a review paper on the impact of institutionalization on children, -  
-	- indiscriminate friendliness as behavior that is affectionate and friendly toward all adults (including strangers) without the fear or caution that is typical  in young children. In these cases the children’s behavior toward a stranger cannot be discriminated from their behavior toward their primary caregivers. 
-	- found that indiscriminate friendliness was still present in adolescents who had been institutionalized as children but who were later fostered to unstable foster care placements.
-	- Researchers have  consistently found associations between orphanage children’s indiscriminate friendliness  and their behavior problems
-	- Chisholm (1998) has suggested that indiscriminate friendliness may serve an adaptive function in the context of the orphanage environment where emotional  resources are extremely limited. 
-		- Amid the passivity of the orphanage an indiscriminately friendly child may receive what little attention caregivers have to offer. 
-- . Caregiver–child interactions are typically limited to routine caregiving chores (feeding, bathing, changing), conducted in a perfunctory and business-like manner with limited social interaction; crying is left unattended; and caregivers do not play with children or provide them with warm, sensitive, contingently responsive, and one-on-one interactions. There is limited reciprocal verbal or nonverbal caregiver– child “conversation.”
+- individuals with a history of early institutional care showed more academic difficulties and deficits in social skills, such as maintaining trustful interpersonal relationships
+- Caregiver–child interactions are typically limited to routine caregiving chores (feeding, bathing, changing), conducted in a perfunctory and business-like manner with limited social interaction; crying is left unattended; and caregivers do not play with children or provide them with warm, sensitive, contingently responsive, and one-on-one interactions. There is limited reciprocal verbal or nonverbal caregiver– child “conversation.”
 
 ## Positive effects of good-quality care
 - [^4]Structural interventions and caregiver trainings contribute to an improvement in children's living conditions in institutional care
 - Training of caregivers and structural changes have beneficial effects on the children's development
-- The prevention of physical and emotional abuse in institutional care has widely been neglected
-- More efforts are needed to focus on the improvement of general caregiving environment, caregiver child relationship and maltreatment prevention
-- In a seminar on institutional care[^9], we learned that among the positive aspects, the love and care that the staff  showed to the children was the fi rst point mentioned, together with thefacilities available and good education
+- In a seminar on institutional care[^9], we learned that among the positive aspects, the love and care that the staff  showed to the children was the first point mentioned, together with thefacilities available and good education
 - [^4]Nevertheless, our findings are in concordance with our hypothesis that caregiver trainings, structural changes, and enriched caregiving environments in child care institutions have beneficial effects on the child’s emotional, social, and cognitive development.
 - Numerous studies providing institutionalized children with specific sensory and perceptual stimulation plus interventions that deliberately increase the social and educational quality of caregiver–child interactions have led to substantially improved children’s general behavioral and mental development
 - Children’s improvements are greater the more comprehensive and intensive the social-emotional and caregiver– child interaction intervention. Indeed, when the institutional environment was structurally made more family like and caregivers provided better socialemotional interactions with children, children’s physical and behavioral/mental development improved very substantially (including for children with disabilities), fewer children displayed disorganized attachment, and atypical behaviors were reduced
@@ -60,10 +56,13 @@ In a systematic review[^4]
 # Broad recommendations for caregiving from research
 A systematic review of caregiving interventions[^4] recommended the need for
 - Broad, theory based approaches are needed and should be tested using rigorous scientific standards
+- More efforts are needed to focus on the improvement of general caregiving environment, caregiver child relationship and maltreatment prevention
 - Responsive non-violent caregiver-child interactions are crucial to children's physical and behavioral develpmnet
 - Beyond improving caregiver-child attachment, caregiver trainings should also focus on prevention of violence and abuse in institutional care
 - Improving the quality of care may be more important than the type of care (eg. institutional care vs foster care)
-- Our findings have shown that less than one third of the intervention approaches were theory based, and only three studies applied manualized interventions. Therefore, we advocate for developing theory-based and manualized training concepts for institutional caregivers that may be based on attachment and that can be tested using rigorous scientific standards. [Caregiving](Roll%20Ups/Caregiving/Caregiving.md)
+- Our findings have shown that less than one third of the intervention approaches were theory based, and only three studies applied manualized interventions. Therefore, we advocate for developing theory-based and manualized training concepts for institutional caregivers that may be based on attachment and that can be tested using rigorous scientific standards. 
+- Changing institutions that have operated traditionally for decades can be challenging, but it can be done. Caregivers need periodic training in behaviors known to enhance caregiver–child relationships, such as mutual engagement, following a child’s lead, displaying appropriate adult affect, and having reciprocal conversations with children
+- But training alone is not sufficient; it must be accompanied by on-the-ward coaching and structural/operational changes that reduce group sizes and provide children with fewer and more consistent caregivers over time. 
 
 # Caregiving Interventions
 - According to a review on caregiving interventions[^4], Many of the intervention approaches included in the studies ofthe present review have some important components in common: They all aim at improving the caregiver–child relationship (attachment and bonding), enriching the caregiving environment through additional stimulation and quality time, and at least some focus on preventing maltreatment and further harm
