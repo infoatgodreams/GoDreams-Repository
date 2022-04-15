@@ -294,7 +294,6 @@ According to Aangan[^3], Children are helped to develop socially acceptable beha
 - Don’t deny children participation in activities, events they were looking forward to attend as a punishment for breaking rules unless the same was announced beforehand.
 
 
-## Thumb rules for working with children 
 - Praise is effective- praise responsible, considerate, appropriate behaviour with attention, thanks, recognition, special privileges 
 - Make the child take responsibility - ask them to think about what they could do differently that could work better and be more constructive
 - Talk in private- do not humiliate the child in front of others, move to a private spot for more serious issues 
