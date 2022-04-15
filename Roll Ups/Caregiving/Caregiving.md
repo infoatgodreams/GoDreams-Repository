@@ -28,24 +28,26 @@ They beat us up”, said 65% CICL, 60% CNCP.
 24% CNCP and 19% CICL.
 
 ## Effects of Sub-optimal care
-In a systematic review[^4]- Children may develop a low-quality attachment bond or even lack an attachment relationship altogether in the absence of adequate care
-
-- Taken together with the experience of violence and abuse, this lack may impact the child’s stress response system, and, in this way, the development and structure of the brain as well. These changes to neurodevelopment may lead to mental health problems, such as depression, posttraumatic stress disorder, and internalizing and externalizing problems
-
-- individuals with a history of early institutional care showed more academic difficulties and deficits in social skills, such as maintaining trustful interpersonal relationships (Frank, Klass, Earls, &amp; Eisenberg, 1996; Merz, McCall, &amp; Wright, 2013).
-
-- child maltreatment has been related to epigenetic changes in the stress response axis (Hecker, Radtke, Hermenau, Papassotiropoulos, &amp; Elbert, 2016; McGowan et al., 2009)
-
-- Usually, the child care institutions are able to offer basic provisions of food and shelter, but they lack adequate means to offer sensitive, child-oriented care, possibly leading to the emotional and physical neglect of many children (Oliveira et al., 2012; Vashchenko et al., 2010)
-
-- the reported worldwide rates of violence against children in institutional care were 6 times higher than those of children living in family-based foster care of interventions to improve care practices in institutions, the paper described the major negative effects of poor caregiving:
+In a systematic review[^4]
 - Children may develop a low-quality attachment bond or even lack an attachment relationship altogether in the absence of adequate care
 - Taken together with the experience of violence and abuse, this lack may impact the child’s stress response system, and, in this way, the development and structure of the brain as well. These changes to neurodevelopment may lead to mental health problems, such as depression, posttraumatic stress disorder, and internalizing and externalizing problems
-- individuals with a history of early institutional care showed more academic difficulties and deficits in social skills, such as maintaining trustful interpersonal relationships 
-- child maltreatment has been related to epigenetic changes in the stress response axis (explain this)
-- Usually, the child care institutions are able to offer basic provisions of food and shelter, but they lack adequate means to offer sensitive, child-oriented care, possibly leading to the emotional and physical neglect of many children 
-- the reported worldwide rates of violence against children in institutional care were 6 times higher than those of children living in family-based foster care
+- individuals with a history of early institutional care showed more academic difficulties and deficits in social skills, such as maintaining trustful interpersonal relationships (Frank, Klass, Earls, &amp; Eisenberg, 1996; Merz, McCall, &amp; Wright, 2013).
+- child maltreatment has been related to epigenetic changes in the stress response axis (Hecker, Radtke, Hermenau, Papassotiropoulos, &amp; Elbert, 2016; McGowan et al., 2009)
+- Usually, the child care institutions are able to offer basic provisions of food and shelter, but they lack adequate means to offer sensitive, child-oriented care, possibly leading to the emotional and physical neglect of many children (Oliveira et al., 2012; Vashchenko et al., 2010)
+- the reported worldwide rates of violence against children in institutional care were 6 times higher than those of children living in family-based foster care of interventions to improve care practices in institutions, the paper described the major negative effects of poor caregiving:
 
+## Positive effects of good-quality care
+- Structural interventions and caregiver trainings contribute to an improvement in children's living conditions in institutional care
+- Training of caregivers and structural changes have beneficial effects on the children's development
+- The prevention of physical and emotional abuse in institutional care has widely been neglected
+- More efforts are needed to focus on the improvement of general caregiving environment, caregiver child relationship and maltreatment prevention
+
+# Broad recommendations for caregiving from research
+1. Broad, theory based approaches are needed and should be tested using rigorous scientific standards
+2. Responsive non-violent caregiver-child interactions are crucial to children's physical and behavioral develpmnet
+3. Beyond improving caregiver-child attachment, caregiver trainings should also focus on prevention of violence and abuse in institutional care
+4. Improving the quality of care may be more important than the type of care (eg. institutional care vs foster care)
+5. Our findings have shown that less than one third of the intervention approaches were theory based, and only three studies applied manualized interventions. Therefore, we advocate for developing theory-based and manualized training concepts for institutional caregivers that may be based on attachment and that can be tested using rigorous scientific standards. [Caregiving](Roll%20Ups/Caregiving/Caregiving.md)
 
 
 # Caregiver Profile
@@ -102,6 +104,10 @@ accessibility to authorities (31%)
 [^1]According to a paper authored by the Duke Global Health Institute on psychosocial wellbeing of CNCP in institutional settings, the ideal outcome for the **Caregiving**  factor was for the child to have at least one adult (age 18 or over) who provides consistent care, attention, and support. 
 - Caregiving was “seen as good when there is an identified adult (parent or guardian) who provides the child with a stable, nurturing, and emotionally secure environment. The relationship between the child and the caregiver should provide physical and psychological security for the child. 
 - This factor captured how committed the caregiver was to the child and to his/her involvement with the child”.
+
+# Assessment Tools
+- According to a systematic review on caregiving interventions, The most frequently applied instruments were the Cattell Infant Intelligence Scale (Cattell, 1940) and the Denver II (Frankenburg &amp; Dodds, 1990), both measuring intelligence and developmental quotients.
+
 
 
 
