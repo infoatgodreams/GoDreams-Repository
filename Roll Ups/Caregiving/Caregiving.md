@@ -47,6 +47,7 @@ In a systematic review[^4]
 - Training of caregivers and structural changes have beneficial effects on the children's development
 - The prevention of physical and emotional abuse in institutional care has widely been neglected
 - More efforts are needed to focus on the improvement of general caregiving environment, caregiver child relationship and maltreatment prevention
+- In a seminar on institutional care[^9], we learned that among the positive aspects, the love and care that the staff  showed to the children was the fi rst point mentioned, together with thefacilities available and good education
 
 # Broad recommendations for caregiving from research
 A systematic review of caregiving interventions[^4] recommended the need for
@@ -103,7 +104,22 @@ According to guidelines for institutional care in Ethiopia[^5], The profile of t
 ## Elements of Training
 - [^2]According to Miracle Foundation's approach, Anwesha underwent a complete training in areas of supporting family culture rights of the child, attachment, discipline techniques, childdevelopment, health care – preventative & curative, gender roles, sexual abuseprevention, communication skills, conflict resolution and stress management.
 - [^9]Cultural, social, gender and religious sensitisation should also be assured. Training in dealing appropriately with challenging behaviour, including conflict resolution techniques and means to prevent acts of harm or self-harm, should be provided to all care staff  employed by the institutions’ management. In (Page 29)
+- According to a seminar on mental health in institutional care, 
+	- The Participatory Action Research (PAR) was a six month study involving researchers, caretakers, administrators, and children. The aim was to deﬁne an Appropriate Technique and an Efﬁcient Management Strategy in the care of children with behavioural difﬁculties. 
+	- PAR has three essential ingredients:
+		- Developing Self-understanding;
+		- Paying Attention to Insights
+		- Respecting the other and Reciprocity
+	- To be able to do PAR effectively, basic communication skills are also important. 
+	- Listening to understand is the most important communication skill that we often miss. 
+	- Through PAR. we intended involving the children in ﬁnding a more meaningful way to ex-press themselves. We also wanted to involve the staff as partners in this dialogue. We attempted to evolve a self-sustaining and participatory methodology to solve the daily problems of aggression among children.
 
+
+## Right attitudes: 
+There are some very helpful attitudes for a Participatory Approach thatwe could take from Carl Rogers, the founder of Humanistic Psychology:
+- Empathy or Accurate Understanding;
+- Non-Judgemental Attitude or Unconditional Positive Regard;
+- Genuineness or truthfulness.
 # Caregiver support
 - [^2]For Miracle Foundation. ‘Tea time with house parents’, the practice of Miracle staff spending informal timewith caregivers enabled them to unwind, open up, share their joys and concernsand feel acknowledged as being important.
 - [^2]Miracle Staff, House parent Diary served to be a readyreference of their important tasks and responsibilities.
@@ -201,7 +217,13 @@ accessibility to authorities (31%)
 		- stock taking of fixed assets
 - [^9]At a seminar on mental health in institutions, Dr. Sen advise
 	- d towards a major consideration of the roles of caregivers when applying certain changes to the everyday management of the institution, especially because, in terms of mental health care, a comprehensive approach, where the caregivers, the managers and the psychologists and psychiatrists work together, is needed.Hierarchy among personnel is often significant and not carefully evaluated, which seriously affects the functioning of institutions. 
-	- At the sametime, it is imperative for caregivers to know how to prepare the children in case they are leaving the institution for a different job, instead of disappearing and suddenly leaving them alone. (Page 58)
+	- At the sametime, it is imperative for caregivers to know how to prepare the children in case they are leaving the institution for a different job, instead of disappearing and suddenly leaving them alone. 
+		- Caregivers should be as constant as possible and, when about to leave their jobs for any reason, they should know how toprepare the children to de-attach.
+	- Most service providers ask the children to repeatedly narrate their stories, putting them through undeniable pain. In the worst cases, children are blamed for their negative experiences, or get further maltreated
+	- practitioners, to ensure that children do not suffer additional victimisation through adverse labelling.
+	- A couple of the participants mentioned that the staff  of the institutions is less aware of the talents and qualities ofthe children in comparison to a family, where every child gets special attention from his/her parents; or that inthe Homes it often happens that only children with particular capacities are cared for, while others are left behind
+	- Others also explained that if they had a fight or a particular situation outside the institution, they could not always share it with the staff , because they would have made a bigdeal out of it.
+	- Some of them underlined that sometimes they felt NGOs interfered too much in their lives
 
 
 # Assessment Tools
