@@ -213,6 +213,8 @@ A systematic review of caregiving interventions[^4] recommended the need for
 	* Know your limitations: In the pandemic situation, we have limited resources to help ourselves and others, acknowledging this would help caregivers to feel less exhausted and guilty.
 	* Regularly engage in coping strategies: Deep Breathing, Exercising, Practicing a hobby, taking regular breaks, self-care activities, using humor in day to day life, Affirmations, Systematic Body relaxation, grounding, Mandala making etc.
 	* Stay in contact with loved ones.
+* [^9]Aangan recommends certain practices to focus on improving staff morale and motivation
+	* 
 
 
 # Working with Children

@@ -16,6 +16,18 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "aeb95f233ed79976",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Care Standards/India - Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -72,13 +84,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Caregiving/Caregiving.md",
+                "file": "Volume 1/Care Standards/India - Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "attachment",
-                "backlinkCollapsed": true,
+                "searchQuery": "aangan",
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -89,8 +101,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "effee8690878abdb",
+  "active": "aeb95f233ed79976",
   "lastOpenFiles": [
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Aangan/Aangan - Changing Spaces.md",
     "Roll Ups/Caregiving/Caregiving.md",
     "The St. Petersburg– U.S.A. Orphanage Project.md",
     "FairstartGlobal.md",
@@ -99,7 +112,6 @@
     "Volume 2/Care Standards/India - Service Providers to CCIs/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
     "Volume 1/Care Standards/International CCIs/Irvington HouseGrowth Potential of Pre-school aged children in institutional care.md",
     "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md"
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Rainbow Foundation/Rainbow - CCI Management Handbook.md"
   ]
 }
