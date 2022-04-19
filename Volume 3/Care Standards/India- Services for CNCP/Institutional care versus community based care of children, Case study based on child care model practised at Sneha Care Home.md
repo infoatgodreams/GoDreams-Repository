@@ -64,8 +64,7 @@ tags: [[Restoration]]
     * And importantly, place all of this within an overall strategy of deinstitutionalization.
 
 
-# Assumptions pitying Institutional vs. the Alternatives 
-
+# Assumptions pitting Institutional vs. the Alternatives 
 
 
 * Institutional care and family/community care as being mutually exclusive:
@@ -129,32 +128,34 @@ tags: [[Restoration]]
 
 # Blending Institutional and Community Care:
 
-
-
 * The image of the institution as a segregating form of care, cutting members off from their communities and undermining their possibilities for forming meaningful social ties is not entirely unwarranted. 
 * Staff members’ fear of what might happen to the vulnerable children under their care – which is born of their own disconnection from the children’s communities – leads to policies which further disconnect them and the children under their care from those communities. It is a vicious circle.
 * Under India’s National Aids Control Organisation (NACO), over 300 (check) Community Care Centres (CCCs) were set up with the aim of providing community outreach and ensuring accessible support and health care for PLHA. 
 * Most CCCs are faith-based – and their roles include providing medical care, forms of counselling, psychosocial, educational and nutritional support, linking individuals to ART centres and tracking drug adherence, among other things. Moreover, they help in day-to-day issues like ensuring vulnerable families have ration cards and access to the job market as well as providing vital outreach services for the community.
 * Between 2006 and 2011, the USAID (United States Agency for International Development)Samastha programme became a catalyst for increasing the number of CCCs in Karnataka (there were previously ten). The role of the Sneha Care Team within this programme was that of a mentor, offering a supportive role to the Centres.
-* Practices used by Sneha Care Home:
-    * Once a child is accepted into SCH, working with NGOs – mainly their counsellors, outreach workers and project coordinators enables the Sneha Care Team to cultivate a vital link between the institution and the child’s community. 
-    * For starters, NGOs are an integral component of SCH’s “Keep the Parents Alive” policy, which supports parents of the CLHA under its care. SCH checks up on the health situation of positive parents by keeping in touch with NGOs and on a number of occasions itself refers parents to NGOs when concerns about their health or socioeconomic well-being arise.
-    * It was insisted at various points that the purpose of these visits is less to “check up” on the child than to provide its staff members with an insight into the child’s background. To date, SCH staff members have jointly managed to cover 80 percent of children’s PCGs’ homes. Staff members typically spend a maximum of thirty minutes in each house, though there is no set time. 
-    * The idea is to collect basic data, including an assessment of PCGs’ economic situation and to get a feel of the children’s backgrounds and communities. Home visits were also introduced with the aim of linking children to NGOs if no prior connection existed and identifying secondary caregivers for children.
-    * All the one hundred children currently at SCH were brought to the institution’s attention by Community Care Centres (CCCs), NGOs, PLHIV Networks (hereafter jointly referred to as NGOs) or by primary caregivers themselve
-    * That socioeconomic factors and the desire to provide their children with an education are primary motivations for the child’s enrolment in SCH is indicated by PCGs’ own written accounts in a number of information gathering exercises carried out by SCH as well as SCH staff members in individual interviews.
-    * Caring for CLHA is made more complicated still since in a number of places across India, enrolment in a community-based school is difficult for CLHA due to stigma. Misinformation fuels fears among fellow students’ parents that studying with a CLHA will put their own child at risk, often providing an effective barrier to education for this population
-    * This is since many of the children are brought forward for admission through NGOs that seek out “the most vulnerable and disadvantaged children among the infected children in the area.” 73 Moreover, the Home’s policy is that “preference will be given to orphans,” and that “children of single parents and children living with parents will be considered only after assessing the family condition...”
-    * Role of Primary Caregivers (PCGs):
-        * It should be noted at the outset that “primary caregiver” is the technical term used by SCH to refer to the person – outside of SCH staff who is primarily responsible for any major decisions regarding the child. The primary caregiver is responsible for decisions like the child’s enrolment in SCH (subject to SCH acceptance) and discharge. The primary caregiver is also responsible for phoning and visiting the child and taking the child home for holiday(s). 
-        * Unless the point calls for specification as to whether a parent, extended kin or an non-relative entrusted with the child’s care is being referred to, the “PCG” (primary caregiver) will be used, and should be taken to mean any of these three.
-        * Certainly, SCH’s “Keep the parents alive” policy – which networks with NGOs to ensure infected parents of the children under its care receive adequate medical care and supervision is a form of “empowering
-        * “Teaching” PCGs did not preclude the latter’s possibilities for empowered caregiving, indeed it positively facilitated it. In their interviews, SCH staff members maintained that their links with NGOs help to promote as far as possible, benefits such as access to ration cards and employment for a number of the family members of children under their care.
-    * Measures used at SCH:
-        * Evaluation Questionnaire for CLHIV:
-            * The below are questions from the “Evaluation Questionnaire for CLHIV” selected for their relevance to family involvement] 
-            * Programmatic Knowledge
-                * Why didn’t you join in your local school while your brother/ sister/ neighbours joined there? 
+
+## Practices used by Sneha Care Home:
+- Once a child is accepted into SCH, working with NGOs – mainly their counsellors, outreach workers and project coordinators enables the Sneha Care Team to cultivate a vital link between the institution and the child’s community. 
+- For starters, NGOs are an integral component of SCH’s “Keep the Parents Alive” policy, which supports parents of the CLHA under its care. SCH checks up on the health situation of positive parents by keeping in touch with NGOs and on a number of occasions itself refers parents to NGOs when concerns about their health or socioeconomic well-being arise.
+- It was insisted at various points that the purpose of these visits is less to “check up” on the child than to provide its staff members with an insight into the child’s background. To date, SCH staff members have jointly managed to cover 80 percent of children’s PCGs’ homes. Staff members typically spend a maximum of thirty minutes in each house, though there is no set time. 
+- The idea is to collect basic data, including an assessment of PCGs’ economic situation and to get a feel of the children’s backgrounds and communities. Home visits were also introduced with the aim of linking children to NGOs if no prior connection existed and identifying secondary caregivers for children.
+- All the one hundred children currently at SCH were brought to the institution’s attention by Community Care Centres (CCCs), NGOs, PLHIV Networks (hereafter jointly referred to as NGOs) or by primary caregivers themselve
+- That socioeconomic factors and the desire to provide their children with an education are primary motivations for the child’s enrolment in SCH is indicated by PCGs’ own written accounts in a number of information gathering exercises carried out by SCH as well as SCH staff members in individual interviews.
+- Caring for CLHA is made more complicated still since in a number of places across India, enrolment in a community-based school is difficult for CLHA due to stigma. Misinformation fuels fears among fellow students’ parents that studying with a CLHA will put their own child at risk, often providing an effective barrier to education for this population
+- This is since many of the children are brought forward for admission through NGOs that seek out “the most vulnerable and disadvantaged children among the infected children in the area.” 73 Moreover, the Home’s policy is that “preference will be given to orphans,” and that “children of single parents and children living with parents will be considered only after assessing the family condition...”
+
+### Role of Primary Caregivers (PCGs):
+- It should be noted at the outset that “primary caregiver” is the technical term used by SCH to refer to the person – outside of SCH staff who is primarily responsible for any major decisions regarding the child. The primary caregiver is responsible for decisions like the child’s enrolment in SCH (subject to SCH acceptance) and discharge. The primary caregiver is also responsible for phoning and visiting the child and taking the child home for holiday(s). 
+- Unless the point calls for specification as to whether a parent, extended kin or an non-relative entrusted with the child’s care is being referred to, the “PCG” (primary caregiver) will be used, and should be taken to mean any of these three.
+- Certainly, SCH’s “Keep the parents alive” policy – which networks with NGOs to ensure infected parents of the children under its care receive adequate medical care and supervision is a form of “empowering
+- “Teaching” PCGs did not preclude the latter’s possibilities for empowered caregiving, indeed it positively facilitated it. In their interviews, SCH staff members maintained that their links with NGOs help to promote as far as possible, benefits such as access to ration cards and employment for a number of the family members of children under their care.
+
+
+### Measures used at SCH [[Assessment Tools]]
+- Evaluation Questionnaire for CLHIV:
+	- The below are questions from the “Evaluation Questionnaire for CLHIV” selected for their relevance to family involvement] 
+		- Programmatic Knowledge
+			- Why didn’t you join in your local school while your brother/ sister/ neighbours joined there? 
             * Family 
                 * What did your parents/ relative/ guardian tell you regarding your health? 
                 * What did your parents tell you about admission in this school? 
@@ -168,7 +169,8 @@ tags: [[Restoration]]
             * A focus on strengths as well as difficulties; better coverage of inattention, peer relationships and prosocial behaviour are its salient features.
     * Procedures involved in children’s care at SCH:
         * All such procedures have been recorded in a manual, therefore all cases of PCG involvement that appear in the manual have been extracted and listed below. They have been grouped under one of five headings based on the nature of involvement they denote. 
-        * The five headings are: 
+    
+		    ## The five headings are: 
             * Data gathering 
                 * That is simply gathering information about the child’s family background from the PCGs themselves or otherwise.
                 * When a child is admitted to SCH, family details and some information pertaining to the child is collected from the parents, family member or guardian of the child.
@@ -205,8 +207,9 @@ tags: [[Restoration]]
             * In Karnataka specifically the children interviewed for the study “referred to the impoverishment of their families due to HIV/ AIDS.” The study also found that many affected children face barriers to even routine medical services or are denied them altogether because “it is assumed they are HIV positive.” 
             * In Nagaland and Maharashtra, affected children reported barriers to food aid or subsidised food stuffs. Moreover, there is evidence that affected girls may be especially badly hit. While orphanhood is debilitating for both boys and girls, the tendency for girls to assume more of the domestic responsibilities means affected girls’ education is likely to suffer.
             * Perhaps unsurprisingly given such obstacles, one study found that HIV positive parents reported an “elevated level of behavioural symptoms in [their] HIV-affected children.” 
-            * As poverty is strongly correlated with HIV/ AIDS, it has been noted that affected children face an increased risk of becoming destitute, getting involved in criminal activity and are especially vulnerable to sexual exploitation and other forms of abuse.
-* The Kolar Outreach Programme: Bringing the community to the institution
+            * As poverty is strongly correlated with HIV/ AIDS, it has been noted that affected children face an increased risk of becoming destitute, getting involved in criminal activity and are especially vulnerable to sexual exploitation and other forms of abuse
+        
+	## The Kolar Outreach Programme: Bringing the community to the institution
     * In 2011 SCH established an outreach programme in the Kolar district in conjunction with the SCH-owned CCC ‘Sisters of Precious Blood.’ SCH’s stated aim for setting up this outreach programme was to address the complex needs of some of the community-based siblings of the children under its care and to provide services for other infected and affected children within the community. 
     * Drug adherence and medical support is a fundamental part of the programme – since it was only through the SCH-owned CCC ‘Sisters of Precious Blood’ that a section of the district hospital was developed to cater for the needs of CLHA.
     * Yet the stated rationale behind the programme is that national services for CLHA focus overwhelmingly on their medical care – meaning that issues such as their education, eventual employment and the successful negotiation of adulthood are treated as secondary or not addressed at all. It is these areas which the outreach programme is particularly geared toward,

@@ -2,7 +2,7 @@
 
 title: Guidenlines on Children Reintegration 
 
-author: emily delap and joanna wedge
+author: Emily Delap and Joanna Wedge
 
 tags:
 - globalresearch 
