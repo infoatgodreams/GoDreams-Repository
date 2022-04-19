@@ -237,10 +237,17 @@ The following systems and processes are outlined in a document that clearly expl
 ## Meeting mental and physical health needs, responding to addiction
 
 * Meeting the range of health needs of the child or caregivers/parents during the preparatory phase includes:
-* ongoing treatment of any health concerns, including addictions;
-* training staff to recognise emotional and psychological distress, and to take mental well-being seriously,
-* with referrals to appropriately trained professionals as necessary;
-* an assessment of the extent to which mental and physical health challenges can be met by the family and community after reunification, and ensuring that support is in place to respond to health needs.
+	* ongoing treatment of any health concerns, including addictions;
+	* training staff to recognise emotional and psychological distress, and to take mental well-being seriously,
+	* with referrals to appropriately trained professionals as necessary;
+	* an assessment of the extent to which mental and physical health challenges can be met by the family and community after reunification, and ensuring that support is in place to respond to health needs.
+- According to Ethiopian guidelines[^3], 
+	- Offer counselling to the child to avoid possible adjustment problems
+    * Offer prophylactic psychological, economic and legal advice and counselling to the family creating awareness as to the nature and rationale of child-family reunification to avoid any possible post-reunification adjustment problems
+    * Provide medical check-up and treatment for the child
+    * Facilitate for a child to visit the parent/s or member/s of extended family before reunification; and
+    * Make ready materials such as bed, blanket, bed-sheets, etc. when necessary.
+
 
 ## Supporting children with disabilities
 
@@ -366,6 +373,14 @@ The following systems and processes are outlined in a document that clearly expl
 	* families, asking about the kind of support that was important to them in the reintegration process;
 	* elders, religious leaders or other adults, asking them about the elements needed for a child to be accepted and included in the community.
 	* output indicators (the direct products or services provided) outcome and impact indicators (which examine the success of efforts to reintegrate a child, and changes in child, family or community or the wider policy environment likely to enhance reintegration). Programme designers are strongly encouraged to develop their own indicators based on the specifics of their programme and on the perspectives of stakeholders involved in reintegration processes.
+* According to Ethiopian guidelines[^3],
+	* A childcare organization working on child-family reunification, after reunifying the child, shall conduct follow-up at least once in a year on the overall and specific development of a child till the child is well adjusted within the family and the surrounding environment. The follow up shall include child’s development with respect to:
+        * health status
+        * nutritional status
+        * physical development
+        * educational development
+        * social development; and
+        * emotional and spiritual development
 * Outcome and impact indicators of the process overall:
 	* Children and families are able to accept reunification
 	* Families agree to a post-reunification support plan
@@ -376,3 +391,5 @@ The following systems and processes are outlined in a document that clearly expl
 
 [^1]: [[Restoration Model by Prerana]]
 [^2]: [[Guidelines on Children Reintegration]]
+[^3]: [[Guidelines for Institutional Childcare, Ethiopia]]
+[^4]: 
