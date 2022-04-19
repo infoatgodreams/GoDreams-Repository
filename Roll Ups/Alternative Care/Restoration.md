@@ -11,6 +11,14 @@ Adoption
 Restoration
 
 
+# What puts children in institutions? 
+* According to a massive meta analysis on institutionalisation[^6], 
+	* Despite institutions often being described as orphanages, studies show that 80–90% of children residing in them have a living parent. 
+    * Poverty is often cited as the main reason for institutional placement, along with access to health care and education. However, the majority of poor families do not place their children in institutions, and more complex causes are involved, such as the social marginalisation that can accompany childbearing outside of marriage.
+    * Emergencies and disasters can also lead to a child being placed in an institution on the assumption that they were orphaned, even though they might not have been.
+    * Child abuse within families is not cited as a common reason for placement in institutions in lower income countries, but is more so in higher income settings.
+    * In summary, the entry of children into institutions is the result of multiple drivers, such as poverty, parental mental health problems, disability, or parental death from disease. Cultural factors might also have a role in the placement of children in institutions, as is the case when children are born outside of marriage to young mothers in some societies. Very few children worldwide have access to professional case management during placement decisions.
+
 
 # The Need for Alternative Care Systems
 According to a massive review on institutionalisation, 
@@ -584,5 +592,5 @@ The following systems and processes are outlined in a document that clearly expl
 [^3]: [[Guidelines for Institutional Childcare, Ethiopia]]
 [^4]: [[Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries]]
 [^5]: [[Institutional care versus community based care of children, Case study based on child care model practised at Sneha Care Home]]
-[^6]: 
+[^6]: [[Institutionalisation and deinstitutionalisation of children, a systematic and integrative review of evidence regarding effects on development]]
 [^7]: 
