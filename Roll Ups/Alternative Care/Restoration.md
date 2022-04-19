@@ -13,6 +13,27 @@ Restoration
 
 
 # The Need for Alternative Care Systems
+# What are existing alternative care systems? 
+- According to Sneha Care[^6]
+	- * The result has been a proposed “hierarchy of alternatives [to institutional care] for children.” 
+* Pride of place is reserved for living:
+    * in the home of origin
+    * followed by adoption
+    * kinship foster care
+    * long-term foster care in the home of a non-family member
+    * care in an institution. 
+    * “Permanency Planning” programmes – which aim to support families to care for children in their homes – have been introduced, “at least on a trial basis,” in almost every state
+	* Small group homes which are argued to be more personal than large institutions and guardianship are included as “subalternatives.”
+
+## Current push for deinstitutionalization 
+* **UNICEF** has declared its support for programmes “including provision of information on the detrimental impact of institutional care on the young child, and education for parents of children with disabilities and parents at risk of abandoning their infants' ' to discourage the use of institutional care. 
+* **Save The Children (STC)** encourages “[d]onors to ensure that funding is directed at preventive community and family support and at family-based alternative care.”
+* “The new** international Guidelines** set out clear quality standards that should be met by all forms of alternative care. They are universal, based on the **UN Charter for the Rights of the Child (UNCRC,)** and apply to all settings regardless of their culture or financial and political status.”
+* Amongst other things, these Guidelines set out to:
+    * more effectively monitor existing institutions
+    * provide better “gate-keeping”
+    * restrict the use of institutional care especially for those under the age of three 
+    * And importantly, place all of this within an overall strategy of deinstitutionalization.
 
 # Legal and Policy Frameworks on Restoration
 [^2]
@@ -41,7 +62,19 @@ According to a document that outlines the guidelines for reintegration of childr
 	* supporting parents and/or members of extended families to re-assume their responsibility to cater for their children.
 
 ## Arguments against the push for deinstitutionalisation 
-Interestingly, Sneha Care Home has been against this binary pitting of institutional care against the “alternatives” of family and community-based care is the not-implicit assumption that the two are mutually exclusive, that one precludes the other: that institutions weaken familial and community ties, that funding institutional care drains resources from community-based initiatives.
+- Interestingly, Sneha Care Home has been against this binary pitting of institutional care against the “alternatives” of family and community-based care is the not-implicit assumption that the two are mutually exclusive, that one precludes the other: that institutions weaken familial and community ties, that funding institutional care drains resources from community-based initiatives.
+	- ### Private Boarding versus Institutional care:
+    * One – and arguably the only contention in defence of this apparent double standard is that conditions in boarding schools are better than those in institutional care and that the harm and neglect that is potentially experienced by children within institutional care does not extend to borders. Yet evidence supporting this contention is conspicuous by its absence
+	    * Since there is little sound evidence to back up the claim that the boarding school system for the privileged is automatically and innately less harmful than institutional care for vulnerable children, perhaps the emphasis should be on the quality of care and education being provided to children in each rather than on where it is provided.
+	* Impact of institutional care on family relationships:
+	    * While it might be assumed that institutional placement would sever or weaken familial relations, evidence points to the positive effects that placing a family member in institutional care can have in terms of improving family ties and dynamics. In the case of the elderly, for example, it has been found that “nursing home placement leads to renewed or discovered closeness of familial bonds
+	    * Demonstrating institutional care’s potential long-term benefits for family dynamics was a longitudinal study which interviewed the families of children with mental retardation who had received residential treatment both one and two years after placement.
+	    * The study found that “respondents primarily reported post placement benefits to the family.” Crucially, however, the study also noted that in this particular case, family involvement in the children’s treatment programme while they were institutionalized was “high and stable.”
+	    * Indeed, a renowned longitudinal study carried out in the 1960s – “The Cleveland Bellefaire follow-up study” – found that for children leaving institutions and returning to their families and communities, the gains accrued from institutional care tended to last longer if staff worked with parents and community agents for a transitional period once the child was discharged
+	    * Lack of planned and nurtured contact between children in residential care and their families was found to be an almost universal phenomenon in the countries covered by Save the Children’s research. It is extremely rare to find any institution which positively values family contact
+	* 
+
+
 
 
 # Key principles governing restoration interventions
@@ -399,4 +432,5 @@ The following systems and processes are outlined in a document that clearly expl
 [^2]: [[Guidelines on Children Reintegration]]
 [^3]: [[Guidelines for Institutional Childcare, Ethiopia]]
 [^4]: [[Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries]]
-[^5]: 
+[^5]: [[Institutional care versus community based care of children, Case study based on child care model practised at Sneha Care Home]]
+[^6]: 
