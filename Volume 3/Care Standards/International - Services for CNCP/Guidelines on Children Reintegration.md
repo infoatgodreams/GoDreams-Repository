@@ -146,7 +146,7 @@ These guidelines build on existing international legal and policy frameworks for
 
 * It is important to assess their capacity to support children and families, and to challenge any stigma and discrimination they may face. Risks in the wider community should also be assessed.
 
-# Developing a plan
+## Developing a plan
 * An individualised plan sets out a strategy for addressing the child’s and family’s needs and maximising their strengths, as identified in the assessment.
 * Plans should also:
 	* be shared with all family members and acknowledged by signature or a similar sign;
@@ -161,7 +161,7 @@ These guidelines build on existing international legal and policy frameworks for
 * Helping the family to develop the plan themselves and take more ownership of their future is valuable (e.g. by providing ‘partial support’, where the family pays a proportion of a particular expense and the organisation pays the remainder).
 * Case planning should include a consideration of the legal guardianship of the child and the point at which this will need to be handed back to the family (and to whom within the family).
 
-# Preparation of children and families
+## Preparation of children and families
 
 ## Ensuring a caring environment pre-reintegration
 
