@@ -7,8 +7,18 @@ tags:
 
 # The Need for Alternative Care Systems
 
+# Legal and Policy Frameworks on Restoration
+[^2]
+According to a document that outlines the guidelines for reintegration of children to families, these guidelines are based on
+* The UN Convention on the Rights of the Child (UNCRC) (UN 1989);
+*  The Guidelines for the Alternative Care of Children, welcomed by the UN in 2009 (UN GA 2010); 
+* Inter-agency Guiding Principles on Unaccompanied and Separated Children (ICRC, IRC, Save the Children, UNICEF, UNHCR and World Vision 2004); 
+* The UN Rules for the Protection of Juveniles Deprived of their Liberty (UN 1990); 
+* The Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children (UN 2000);
+*  Minimum Standards for Child Protection in Humanitarian Action (CPWG 2012).
+
 # Restoration
-* **Definition: The process of reuniting a child with their family is known as restoration**
+* [^1] According to a care manual created by Prerna, **Definition: The process of reuniting a child with their family is known as restoration**
 * The right of children to not be separated from one’s family and, if separated from one’s family for whatever reasons, then their right to be restored to their family has been articulated explicitly in recent laws and instruments. 
 	* Unfortunately, there may be situations where the natural or extended families, and more appropriately natural parents and close natural relatives get separated from their child, or become incompetent, disinclined to provide care and protection to their child or become a source of harm to the child. In such cases, the responsibility to provide care and protection may fall on the State. This corrective measure is also called deinstitutionalization but the term describes only a part of the larger process of restoration.
 
@@ -63,3 +73,6 @@ tags:
     * When a child victim is in a CCI, the food and nutrition requirements are taken care of and monitored regularly as per the prescribed guidelines. 
     * However, once the child is restored to their family, the victim’s access to healthy and nutritious food needs to be assessed by the case workers through interaction and follow-ups with the family and the victim.
     * Follow-ups after restoration should focus on understanding the relevant family practices, gender, and other social biases about food and nutrition and its impact on the child’s overall growth and development.
+
+[^1]: [[Restoration Model by Prerana]]
+[^2]: [[Guidelines on Children Reintegration]]
