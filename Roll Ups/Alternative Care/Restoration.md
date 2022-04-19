@@ -185,6 +185,43 @@ According to a document that outlines the guidelines for reintegration of childr
         * Whilst it has rightly been argued that child policy which sees the child as an ‘adult in waiting’ more than a ‘child in the here and now’ creates its own problems,53 few would deny the serious costs to both children and society – of creating short-sighted child policies – particularly for vulnerable children.
         * In an individual interview for the present study, father mathew described his long-term vision of establishing a mentorship programme, where individual donors who sponsor children’s material care while at SCH become a source of emotional, social and professional support throughout the child’s stay in the institutional setting as well as following discharge. The other goal is an alumni network of past SCH beneficiaries who, once discharged, may find it helpful to reach out to one another for various forms of support – much like university graduates entering a new phase of their lives.
         * **SCH’s “sibling programme**”, which was being discussed and planned at the time of this paper’s writing, is also considered key to this future-oriented approach. Fr Mathew maintains that linking the children at SCH to negative elder siblings – who are highly likely to outlive their parents – is one crucial way of ensuring some kind of long-term support for these children once they are discharged
+    *  According to a massive meta-analysis on the comparison of institutionalisation and deinstitutionalisation, we rarely look at Preinstitutional context
+	    * This preinstitutional exposure to risks represents a substantial confounder in estimates of the effects of subsequent exposures.
+	    * These preinstitutional risks include prenatal and postnatal exposures and events, although postnatal effects can be ruled out in many studies because children enter institutions soon after birth.
+	    * However, data on these factors are rarely available or controlled for in studies of the subsequent effects of institutional care on development.
+	    * * Institutional quality is affected by structural staffing differences and care practices. A meta­analysis of the effects of these factors was not possible because only a few studies provided relevant systematic measurement.
+    * However, a qualitative review supports an association between care quality or extent of deprivation and developmental outcomes.
+    * Negative developmental outcomes might be less common in children who had higher quality care.
+    * The link between care quality and outcomes is shown by a quasi­experiment by the St Petersburg–USA Orphanage Research Team.
+    * The investigators directly compared outcomes of young children in three Russian baby homes in which these structural staffing changes and caregiver training were manipulated in a quasi­experimental design.
+    * The intervention showed that care that is more stable and supportive enhances children’s physical, cognitive, and socioemotional development, both while the children are in institutional care and when they are adopted into families.
+    * Strikingly, growth benefits were observed without any change in diet.
+    * Both retrospective and prospective studies have indicated that being a favourite child or having a preferred attachment figure in an institution is associated with less indiscriminate social behaviour.
+    * Subnutrition (defined as a bodyweight of 1·5 SDs below the expected norm) in institutions has been studied indirectly by using weight at the time of removal from institutions as an index.
+    * For example, in the English and Romanian Adoptee study, even among infants with less than 6 months of exposure to deprivation, subnutrition was associated with head circumferences that were nearly 3 SDs below the mean at age 6 years.
+    * Infants with no subnutrition who left institutions before the age of 6 months showed no significant reduction in head growth. 
+* Postinstitutional influences: Parent and family resources
+    * The degree and rate of recovery after deinstitutionalisation and the ultimate level of functioning that children have might be affected by characteristics of the receiving families.
+    * As in many aspects of child development, the education of the parents and the family income and access to resources might have an important role, with maternal education, family income, and the stability of the family structure predicting educational outcomes.
+    * However, unrealistic expectations for achievement in families of high social status might undermine their adoptive children’s self­confidence and negatively affect the mental health of these children.1
+* Postinstitutional influences: Quality of postinstitutional care
+    * The type of postinstitutional placement might also affect children’s socioemotional and cognitive development.
+    * For example, in the BEIP, investigators compared one group of children living in BEIP­sponsored foster families who had benefited from specialised training and support with another group of children placed with government­sponsored foster parents who came forward as part of child protection reform efforts.
+    * After controlling for duration of time spent in foster care, children in the BEIP foster group at 54 months of age had fewer symptoms of attention­deficit hyperactivity disorder and, in girls only, fewer symptoms of internalising problems.1
+* Postinstitutional influences: Individual differences in parenting
+    * Children adopted internationally often become an ethnic or racial minority in another culture with two parents from the majority racial and ethnic group.
+    * Among adolescent adoptees, more positive engagement in the family and higher amounts of maternal control were associated with the family acknowledging the importance of racial and ethnic differences and constructing a multiracial or multiethnic family identity.
+    * Aspects of parenting quality also influence outcomes for deinstitutionalised children.
+    * the use of mental state language by parents predicts the development of emotional understanding in children who have been deinstitutionalised.
+* Child-related factors: Genetic factors
+    * Several studies of candidate genes for specific disorders have shown that genetic variations might affect the susceptibility of a child to both negative effects of institutional care and positive responses to placement in a supportive family.
+    * For example, children living in institutions who have the short allele of the 5-HTT gene (SLC6A4; index of a broader genetic pathway leading to susceptibility to the effects of environmental exposures) are more likely than children without this allele to show emotional problems generally,124 and socially indiscriminate behaviour specifically.
+* Child-related factors: Child characteristics
+    * The developmental status of a child at the time of their placement in a family after institutional care might influence the recovery trajectory of that child.
+    * Few studies have tried to quantify the extent to which individual variations in characteristics at the time of placement in a family determine medium­term to long­term outcomes.
+    * A relationship has been found between physiological dysregulation linked to the effects of institutional care and functioning after removal from the institution.
+
+
 
 
 
