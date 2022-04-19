@@ -40,6 +40,9 @@ According to a document that outlines the guidelines for reintegration of childr
 	* creating opportunities for children in which they can learn familial and social values and norms living with their parents and/or members of the extended family; and
 	* supporting parents and/or members of extended families to re-assume their responsibility to cater for their children.
 
+## Arguments against the push for deinstitutionalisation 
+Interestingly, Sneha Care Home has been against this binary pitting of institutional care against the “alternatives” of family and community-based care is the not-implicit assumption that the two are mutually exclusive, that one precludes the other: that institutions weaken familial and community ties, that funding institutional care drains resources from community-based initiatives.
+
 
 # Key principles governing restoration interventions
 According to a guideline document on global restoration practices, we need to keep these principles in mind while designing an effective reintegration policy. 
