@@ -46,7 +46,9 @@ According to a guideline document on global restoration practices, we need to ke
 
 ## Prioritise family unity and be child-centred
 * It is vital to recognise the central importance of family unity to child well-being and development and to actively explore reintegration with a child’s family of origin as the first priority to pursue. 
-* Familiesand children must be at the centre of all reintegration support efforts the value of family unity is acknowledged in international law, including the UNCRC (UN 1989).
+* Familiesand children must be at the centre of all reintegration support efforts the value of family unity is acknowledged in international law, including the UNCRC
+* All decisions concerning alternative care should take full account of the desirability, in principle, of maintaining the child as close as possible to his/her habitual place of residence, in order to facilitate contact and potential reintegration with his/her family and to minimize disruption of his/her educational, cultural and social life. 
+- Siblings with existing bonds should in principle not be separated by placements in alternative care unless there is a clear risk of abuse or other justification in the best interests of the child. In any case, every effort should be made to enable siblings to maintain contact with each other, unless this is against their wishes or interests.
 
 ## Embed reintegration in wider child protection systems
 * Safe and effective support for reintegration must be embedded within broader systems to protect children. 
