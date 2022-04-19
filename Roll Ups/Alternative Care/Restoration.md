@@ -26,6 +26,14 @@ According to a document that outlines the guidelines for reintegration of childr
 	* The guidelines cover reintegration back into families of origin and do not coverplacement into alternative care or new families through adoption or similar practices.
 	* **Definition of Reintegration**: “The process of a separated child making what is anticipated to be a permanent transition back to his or her family and community (usually of origin), in order to receive protection and care and to find a sense of belonging and purpose in all spheres of life.”
 
+## Why is reintegration/restoration so important? 
+- According to a manual on the guidelines for institutional childcare in Ethiopia, reintegration is crucial in
+	* preventing the various psycho-social problems that arise among children due to deprivation of familial care
+	* facilitating conditions for the assimilation of children with their parents and/or members of extended family and promote their all rounded development
+	* creating opportunities for children in which they can learn familial and social values and norms living with their parents and/or members of the extended family; and
+	* supporting parents and/or members of extended families to re-assume their responsibility to cater for their children.
+
+
 # Key principles governing restoration interventions
 According to a guideline document on global restoration practices, we need to keep these principles in mind while designing an effective reintegration policy. 
 
@@ -145,6 +153,9 @@ The following systems and processes are outlined in a document that clearly expl
 
 ### Family tracing and Best Interests Determination
 * In both emergency and non-emergency settings, it is often necessary to carry out extensive work to trace a child’s family. This tracing should take place after the initial assessment of the child, and may include identifying and tracing family members in different areas or even countries who could take care of the child.
+    * Trace and locate the biological parent/s; or
+    * Trace and locate member/s of the extended family where biological parent/s are untraceable
+    * Confirming the willingness of the parent/s and/or member/s of the extended family
 * it is always valuable to properly assess the best interests of the child, BID tools can be useful in the assessment process.
 * Details of good practice in the assessment of the child
 * Ensure the well-being of each child is quickly assessed by trained staff.
@@ -158,12 +169,12 @@ The following systems and processes are outlined in a document that clearly expl
 
 * Once parents or other family members have been traced, an assessment of the family should occur.
 * A basic model includes a preliminary assessment of:
-* risk factors that affect the safety and well-being of the child and changes that need to be made;
-* family strengths and resilience, including those of siblings;
-* family members’ perception of the reasons for separation and other problems;
-* the family’s level of readiness/capacity for change;
-* the family’s ability to care for the child;
-* the family’s economic situation.
+	* risk factors that affect the safety and well-being of the child and changes that need to be made;
+	* family strengths and resilience, including those of siblings;
+	* family members’ perception of the reasons for separation and other problems;
+	* the family’s level of readiness/capacity for change;
+	* the family’s ability to care for the child;
+	* the family’s economic situation.
 
 ### Assessment of the community
 
@@ -338,21 +349,21 @@ The following systems and processes are outlined in a document that clearly expl
 
 ## **Monitoring and Evaluation 
 * Monitoring can occur at three interlinked but distinct levels:
-* the individual case – in order to track child and family well-being and inform care plans
-* the agency’s programme – in order to track progress, quality and effectiveness of implementation and inform programme planning and development
-* the overall, multi-actor reintegration effort – in order to identify coverage, gaps and effective good practice.
+	* the individual case – in order to track child and family well-being and inform care plans
+	* the agency’s programme – in order to track progress, quality and effectiveness of implementation and inform programme planning and development
+	* the overall, multi-actor reintegration effort – in order to identify coverage, gaps and effective good practice.
 * In line with the definition included in these guidelines, ‘successful reintegration’ should consider not just whether children have been reunited with families, but also if they have a sense of belonging and purpose in all spheres of life. indicators should be developed with the involvement of
-* children currently being reintegrated, asking them what they feel will help them in the future;
-* children who have been reintegrated, asking them what was important to them in successful reintegration;
-* local children in the community, asking them about what they feel would help a child to reintegrate in their community;
-* families, asking about the kind of support that was important to them in the reintegration process;
-* elders, religious leaders or other adults, asking them about the elements needed for a child to be accepted and included in the community.
-* output indicators (the direct products or services provided) outcome and impact indicators (which examine the success of efforts to reintegrate a child, and changes in child, family or community or the wider policy environment likely to enhance reintegration). Programme designers are strongly encouraged to develop their own indicators based on the specifics of their programme and on the perspectives of stakeholders involved in reintegration processes.
+	* children currently being reintegrated, asking them what they feel will help them in the future;
+	* children who have been reintegrated, asking them what was important to them in successful reintegration;
+	* local children in the community, asking them about what they feel would help a child to reintegrate in their community;
+	* families, asking about the kind of support that was important to them in the reintegration process;
+	* elders, religious leaders or other adults, asking them about the elements needed for a child to be accepted and included in the community.
+	* output indicators (the direct products or services provided) outcome and impact indicators (which examine the success of efforts to reintegrate a child, and changes in child, family or community or the wider policy environment likely to enhance reintegration). Programme designers are strongly encouraged to develop their own indicators based on the specifics of their programme and on the perspectives of stakeholders involved in reintegration processes.
 * Outcome and impact indicators of the process overall:
-* Children and families are able to accept reunification
-* Families agree to a post-reunification support plan
-* Children feel welcomed into their families
-* Transfer of case files to local authorities
+	* Children and families are able to accept reunification
+	* Families agree to a post-reunification support plan
+	* Children feel welcomed into their families
+	* Transfer of case files to local authorities
 
 
 
