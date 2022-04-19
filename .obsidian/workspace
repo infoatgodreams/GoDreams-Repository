@@ -18,12 +18,12 @@
         }
       },
       {
-        "id": "6a7bd713bdf62824",
+        "id": "2ee89076eb5d79dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 3/Care Standards/India- Services for CNCP/Institutional care versus community based care of children, Case study based on child care model practised at Sneha Care Home.md",
+            "file": "Volume 3/Current Reality/International CCIs/Institutionalisation and deinstitutionalisation of children, a systematic and integrative review of evidence regarding effects on development.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 3/Care Standards/India- Services for CNCP/Institutional care versus community based care of children, Case study based on child care model practised at Sneha Care Home.md",
+                "file": "Roll Ups/Alternative Care/Restoration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +102,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6a7bd713bdf62824",
+  "active": "75d815a854ec4efd",
   "lastOpenFiles": [
-    "Volume 3/Care Standards/India- Services for CNCP/Institutional care versus community based care of children, Case study based on child care model practised at Sneha Care Home.md",
     "Roll Ups/Alternative Care/Restoration.md",
+    "Volume 3/Current Reality/International CCIs/Institutionalisation and deinstitutionalisation of children, a systematic and integrative review of evidence regarding effects on development.md",
+    "Volume 3/Care Standards/India- Services for CNCP/Institutional care versus community based care of children, Case study based on child care model practised at Sneha Care Home.md",
     "Volume 2/Care Standards/India - Service Providers to CCIs/CSA_Institutional Care for Vulnerable Children The Law, Present Scenario, and Way Ahead.md",
     "Volume 1/Care Standards/International - Services for CNCP/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
     "Volume 1/Care Standards/International - Govts, UN & World Bodies/UN/Guidelines on Alternative Care_UN.md",
     "Volume 2/Care Standards/International - Govt, UN & World Bodies/Guidelines for Institutional Childcare, Ethiopia.md",
     "Volume 3/Care Standards/International - Services for CNCP/Guidelines on Children Reintegration.md",
     "Volume 3/Care Standards/India- Service Providers to CCIs/Restoration Model Prerna.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Institutional Care Model Author_ Prerana Org.md",
-    "Volume 3/Care Standards/India- Service Providers to CCIs/Before, Not After, An evaluation of Aangan trust’s preventive approach to child protection in India.md"
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Institutional Care Model Author_ Prerana Org.md"
   ]
 }

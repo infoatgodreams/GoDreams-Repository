@@ -13,6 +13,54 @@ Restoration
 
 
 # The Need for Alternative Care Systems
+According to a massive review on institutionalisation, 
+-  The effect of institutionalisation: Meta-analytical results
+    * In 80% of the studies we analysed, the effects of institutionalisation were assessed by comparing children in institutions with norm groups (eg, with average anthropometric growth curves) or children living with their biological parents; in 20% of the studies, the comparisons were made with adopted children, with children living in foster families, or with children living in kinship care.
+    * The meta­analysis found that residency in an institution is associated with substantial developmental delays and deviations (table 1; figure 3).
+    * Institutionalisation is strongly associated with delays in physical growth, brain development, cognitive development, and attention, with combined effects sizes (Hedges’ g) ranging from 0·50 to 1·44.
+    * The combined effect sizes for physical health (0·29) and socioemotional development (0·32) are smaller.
+    * Thus, the greatest effects on children were delayed physical growth (height and weight for age) and delayed brain and cognitive development, to the extent that in these developmental domains at least 80% of the institutionalised group are below the mean of the comparisons.
+    * The more modest effect sizes for institutionalisation in the domains of physical health and socioemotional development might be partly explained by measurement issues.
+    * First, in several studies the assessments were done many months to years after the children left the institution, potentially diluting the effects of institu tionalisation with postinstitutional experiences.
+    * Studies assessing the children’s physical health within a year after leaving an institution showed substantial adverse effects (Hedges’ g 0·63).
+    * Of note, dental health was included as part of the measurement of physical health in some studies and was sometimes better in children in institutions than in their peers who had not lived in an institution.
+    * An important limitation is that most of the studies of socioemotional development (including mental health) used standard parent or caregiver questionnaires not designed to measure social deficits thought to be specific to children living in institutions.
+    * The smaller effects on socioemotional development might also reflect children in institutions having learnt not to express emotion because of the oppressive and neglectful regimes under which these children often live.
+    * The results might therefore underestimate the amount of disorder in children who have left institutions.
+    * To evaluate the effect of institutionalisation on attachment, we compared the distribution of attachment within institutions to the normative distribution in typically developing children growing up in birth families.
+    * Only a few children developed a secure attachment relationship with the closest caregiver within the institution.
+    * In 11 studies including 471 children (figure 6), the proportion of securely attached children in institutions (24%) was significantly lower than the normative proportion (62%; Hedges’ g 0·76).
+    * The effects of institutionalisation on growth and development might vary as a function of age of assessment, which ranged from infancy to adolescence.
+    * The largest delays for physical growth and for cognitive development emerge in infancy and early childhood up to age 42 months (table 1; figure 3).
+    * By contrast, attention problems tend to increase with age, possibly because executive attention generally develops later, so problems might be difficult to detect in early childhood.
+    * In terms of cognitive and socioemotional development and attention, boys had more delays than girls after growing up in institutions. Girls had more delays in physical health.
+* Comparison with the Bucharest Early Intervention Project
+    * Compared with the meta­analytical results, delays in cognitive development are more pronounced in the BEIP. The BEIP and the meta­analysis showed similar results for the other developmental domains (overlapping 95% CIs are shown in table 1), and this convergence of non experimental results with the experimental results contributes to the robustness of our meta­analytical findings.
+* Benefits of deinstitutionalisation: Meta-analytical results
+    * Children show initial signs of rapid improvement following deinstitutionalisation. To examine these signs in our meta­analysis, we defined accelerated development after institutional care (catch­up following deinstitutionalisation) as the change between the earliest and the latest post institutionalisation assessments within a study (table 3; figure 4).
+    * Physical growth showed a catch­up of 1 SD after deinstitutionalisation (Hedges’ g 1·05; 95% CI 0·67–1·43; figure 4).
+    * Substantial recovery because of deinstitutionalisation was also found for brain growth as inferred by changes in head circumference (0·97; 0·45–1·49) and cognitive development(0·57; 0·23–0·91).
+    * A recovery in children’s socioemotional problems after deinstitution alisation seemed largely absent.
+    * the English and Romanian Adoptees study91 found evidence for strong persistence of attention deficit hyperactivity disorder through to early adulthood.
+    * Accelerated development after exiting the institution might represent a short­term catchup at the expense of delayed development at a later developmental stage.
+    * Children who have had extended deprivation can develop secure attachments with their new parents from adoption or foster placements, even after being exposed to severe deprivation.
+* Benefits of deinstitutionalisation: Comparison with the Bucharest Early Intervention Project
+    * The effects of deinstitutionalisation in the BEIP (continuing institutional care vs foster care groups at age 144 months) and the meta analytical estimates (table 3) were similar for all developmental domains as evident from overlapping 95% CIs.
+    * Foster care did not lead to improvements in all domains (eg, head circumference), and of those domains that did improve, some were affected by the age of the child when they were placed in foster care (these ages were interpreted by the investigators as being sensitive periods of development: see section 4 for details about these periods) and some were not (figures 3 and 6). 
+    * Furthermore, in many of the domains that did show an intervention effect, children in foster care rarely did as well as children who had never been institutionalised.
+    * Whether this absence of full remediation reflects late age at placement (ie, average age at placement was about 22 months) or sample bias (eg, are children who were abandoned by their parents different from children who were not abandoned) is unclear.
+    * The convergence of the correlational meta analytical results and the experimental BEIP findings is reassuring for both the internal validity of the metaanalytical results (potential confounders do not seem to dominate the meta analytical outcome) as well as the external validity of the BEIP results. The convergence reciprocally supports both approaches.
+    * * We found compelling evidence that institutional care is associated with negative developmental outcomes. The negative effects are greatest with regard to physical growth (including brain growth as indexed by head circumference) and cognition, and are strong in relation to attention problems (eg, attention­deficit hyperactivity disorder).
+	* Effects appear to vary as a function of the type of institutional care—ie, its duration and quality—with the suggestion that children aged 6–24 months are especially susceptible to the effects of institutional care.
+	* Evidence of catch­up or recovery following deinstitutionalisation has been shown, although many affected children do not show full catch­up, especially children with extended deprivation.
+	* Despite this, many children who have left institutions adapt reasonably well. Given the corroboration of observational results by data from the BEIP randomised controlled trial data, evidence for the causal benefits of deinstitutionalisation is quite strong
+	* Nevertheless, meta analytical estimates converged with the findings of the only experimental trial in this field, the BEIP,6 which controlled for potential differences between children in institutions using random assignment to foster care or prolonged institutionalisation. More experimental and quasi­experimental studies are needed that make creative use of alternative approaches, such as propensity score matching, instrumental variables, or Mendelian experiments, to broaden the evidence base.
+	* In general, we suggest that the evidence presented here underestimates rather than overestimates the effect of institutionalisation and deinstitutionalisation on children’s development.
+	* In particular, the commonly used instruments might not capture some of the unique effects of institutional care, and typical outcomes such as quasi­autism and indiscriminate social behaviours are often not systematically assessed.
+	* The average effect of institutionalisation is an underestimation for some children and an overestimation for other children.13
+	* Not all children are affected to the same extent, and which individual factors make them more or less susceptible to the negative effect of institutional care needs further investigation.
+	* The policy Commission has two core propositions: that children’s exposure to institutionalised living should be avoided completely if possible, or minimised if not, and that to achieve this first proposition, extended kinship families need to be supported where possible, and adoptive or stable foster­family care should be supported where necessary.
+e.
 # What are existing alternative care systems? 
 - According to Sneha Care[^6]
 	- * The result has been a proposed “hierarchy of alternatives [to institutional care] for children.” 
