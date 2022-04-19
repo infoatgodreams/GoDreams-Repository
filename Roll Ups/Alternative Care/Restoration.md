@@ -13,6 +13,8 @@ tags:
 	* Unfortunately, there may be situations where the natural or extended families, and more appropriately natural parents and close natural relatives get separated from their child, or become incompetent, disinclined to provide care and protection to their child or become a source of harm to the child. In such cases, the responsibility to provide care and protection may fall on the State. This corrective measure is also called deinstitutionalization but the term describes only a part of the larger process of restoration.
 
 # Identified Needs in Restoring Children
+
+## Shelter
 * Safety:
     * Ensuring the safety of a child victim is a challenging job in non-institutional settings like families. It is much easier to adhere to the legal guidelines of safety in formal institutional set-ups because they are well-funded, either run or monitored by the state authorities. 
     * Families on the other hand are independent units that may need assistance and support from time to time. As per the UN Guidelines for Alternative Care of Children, 2010, efforts need to focus on directing the child to remain or return to their parents, families, or guardians, when appropriate
@@ -55,9 +57,9 @@ tags:
             * The quality and presence of adult supervision, either parents or guardians, is critical to a child’s well-being. The absence of this supervision and guidance might result in an offense being (re)committed against the children. 
             * Thus, when a child is restored, it is essential to assess the nature of supervision available for them post-restoration.
 
-* Health
-    * Nutrition
-    * Nutrition is a primary requirement for development. Children should have access to healthy, sumptuous, and nutritious food 3 to 4 times a day. The quantity of the meals depends on the child’s age and developmental stages of growth. 
+## Health
+### Nutrition
+- Nutrition is a primary requirement for development. Children should have access to healthy, sumptuous, and nutritious food 3 to 4 times a day. The quantity of the meals depends on the child’s age and developmental stages of growth. 
     * When a child victim is in a CCI, the food and nutrition requirements are taken care of and monitored regularly as per the prescribed guidelines. 
     * However, once the child is restored to their family, the victim’s access to healthy and nutritious food needs to be assessed by the case workers through interaction and follow-ups with the family and the victim.
     * Follow-ups after restoration should focus on understanding the relevant family practices, gender, and other social biases about food and nutrition and its impact on the child’s overall growth and development.
