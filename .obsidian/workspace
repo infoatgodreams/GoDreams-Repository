@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e154e99fa257850e",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 2/Care Standards/International - Govt, UN & World Bodies/Guidelines for Institutional Childcare, Ethiopia.md",
+                "file": "Roll Ups/Alternative Care/Restoration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,10 +102,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4d50fd5340a8e289",
+  "active": "75d815a854ec4efd",
   "lastOpenFiles": [
-    "Volume 2/Care Standards/International - Govt, UN & World Bodies/Guidelines for Institutional Childcare, Ethiopia.md",
     "Roll Ups/Alternative Care/Restoration.md",
+    "Volume 2/Care Standards/International - Govt, UN & World Bodies/Guidelines for Institutional Childcare, Ethiopia.md",
     "Volume 3/Care Standards/International - Services for CNCP/Guidelines on Children Reintegration.md",
     "Volume 3/Care Standards/India- Service Providers to CCIs/Restoration Model Prerna.md",
     "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Institutional Care Model Author_ Prerana Org.md",
