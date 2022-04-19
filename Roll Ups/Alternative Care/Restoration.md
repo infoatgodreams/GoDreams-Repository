@@ -165,6 +165,7 @@ The following systems and processes are outlined in a document that clearly expl
     * Trace and locate the biological parent/s; or
     * Trace and locate member/s of the extended family where biological parent/s are untraceable
     * Confirming the willingness of the parent/s and/or member/s of the extended family
+    * As discussed in a paper that outlines alternatives to institutional care[^4],  Assessments should place priority on cases where preservation or reunification is likely to happen rapidly, putting more resources in these cases (Kelley, 2000).
 * it is always valuable to properly assess the best interests of the child, BID tools can be useful in the assessment process.
 * Details of good practice in the assessment of the child
 * Ensure the well-being of each child is quickly assessed by trained staff.
@@ -394,4 +395,5 @@ The following systems and processes are outlined in a document that clearly expl
 [^1]: [[Restoration Model by Prerana]]
 [^2]: [[Guidelines on Children Reintegration]]
 [^3]: [[Guidelines for Institutional Childcare, Ethiopia]]
-[^4]: 
+[^4]: [[Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries]]
+[^5]: 
