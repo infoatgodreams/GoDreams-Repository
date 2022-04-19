@@ -8,7 +8,8 @@ authors: Marinus H van IJzendoorn, Marian J Bakermans-Kranenburg, Robbie Duschi
 tags
 - globalresearch 
 
-—
+---
+Tags: [[Restoration]]
 
 # Brief:
 
@@ -109,22 +110,20 @@ tags
     * Physical growth showed a catch­up of 1 SD after deinstitutionalisation (Hedges’ g 1·05; 95% CI 0·67–1·43; figure 4).
     * Substantial recovery because of deinstitutionalisation was also found for brain growth as inferred by changes in head circumference (0·97; 0·45–1·49) and cognitive development(0·57; 0·23–0·91).
     * A recovery in children’s socioemotional problems after deinstitution alisation seemed largely absent.
-    * the English and Romanian Adoptees study91 found evidence for strong persistence of attention­deficit hyperactivity disorder through to early adulthood.
-    * Accelerated development after exiting the institution might represent a short­term catch­up at the expense of delayed development at a later developmental stage.
+    * the English and Romanian Adoptees study91 found evidence for strong persistence of attention deficit hyperactivity disorder through to early adulthood.
+    * Accelerated development after exiting the institution might represent a short­term catchup at the expense of delayed development at a later developmental stage.
     * Children who have had extended deprivation can develop secure attachments with their new parents from adoption or foster placements, even after being exposed to severe deprivation.
 * Benefits of deinstitutionalisation: Comparison with the Bucharest Early Intervention Project
-    * The effects of deinstitutionalisation in the BEIP (continuing institutional care vs foster care groups at age 144 months) and the meta­analytical estimates (table 3) were similar for all developmental domains as evident from overlapping 95% CIs.
+    * The effects of deinstitutionalisation in the BEIP (continuing institutional care vs foster care groups at age 144 months) and the meta analytical estimates (table 3) were similar for all developmental domains as evident from overlapping 95% CIs.
     * Foster care did not lead to improvements in all domains (eg, head circumference), and of those domains that did improve, some were affected by the age of the child when they were placed in foster care (these ages were interpreted by the investigators as being sensitive periods of development: see section 4 for details about these periods) and some were not (figures 3 and 6). 
     * Furthermore, in many of the domains that did show an intervention effect, children in foster care rarely did as well as children who had never been institutionalised.
     * Whether this absence of full remediation reflects late age at placement (ie, average age at placement was about 22 months) or sample bias (eg, are children who were abandoned by their parents different from children who were not abandoned) is unclear.
-    * The convergence of the correlational meta­analytical results and the experimental BEIP findings is reassuring for both the internal validity of the meta­analytical results (potential confounders do not seem to dominate the meta analytical outcome) as well as the external validity of the BEIP results. The convergence reciprocally supports both approaches.
+    * The convergence of the correlational meta analytical results and the experimental BEIP findings is reassuring for both the internal validity of the metaanalytical results (potential confounders do not seem to dominate the meta analytical outcome) as well as the external validity of the BEIP results. The convergence reciprocally supports both approaches.
 * Robustness of the meta-analytical findings
-    * The robustness of the meta­analytical results was examined with meta­regression, the trim and fill method,76,77 Egger’s regression test for potential publication bias, and bootstrapping to test the influence of potential outlying values.
-    * Taken together, these tests did not support a large influence of non­published reports and findings, although we only systematically searched for dissertations as a component of the grey literature.
+    * The robustness of the meta­analytical results was examined with meta regression, the trim and fill method,76,77 Egger’s regression test for potential publication bias, and bootstrapping to test the influence of potential outlying values.
+    * Taken together, these tests did not support a large influence of non published reports and findings, although we only systematically searched for dissertations as a component of the grey literature.
 
-Section 4: Accounting for individual variations in the sequelae of institutional care
-
-
+## Section 4: Accounting for individual variations in the sequelae of institutional care
 
 * The developmental sequelae of institutional care are well established. However, as is the case for exposure to, and escape from, other putatively adverse circumstances, a child’s response to institutionalisation and deinstitutionalisation will differ between individuals.
 * Under standing the source of such variation can help to improve care after a child leaves an institution and to drive therapeutic innovation for individuals with institution related impairment and disorder.
@@ -183,9 +182,9 @@ Section 4: Accounting for individual variations in the sequelae of institutional
     * The developmental status of a child at the time of their placement in a family after institutional care might influence the recovery trajectory of that child.
     * Few studies have tried to quantify the extent to which individual variations in characteristics at the time of placement in a family determine medium­term to long­term outcomes.
     * A relationship has been found between physiological dysregulation linked to the effects of institutional care and functioning after removal from the institution.
-    * 
 
-    Conclusion
+
+# Conclusion
 
 * We found compelling evidence that institutional care is associated with negative developmental outcomes. The negative effects are greatest with regard to physical growth (including brain growth as indexed by head circumference) and cognition, and are strong in relation to attention problems (eg, attention­deficit hyperactivity disorder).
 * Effects appear to vary as a function of the type of institutional care—ie, its duration and quality—with the suggestion that children aged 6–24 months are especially susceptible to the effects of institutional care.

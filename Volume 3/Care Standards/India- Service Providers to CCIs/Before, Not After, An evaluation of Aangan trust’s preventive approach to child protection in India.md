@@ -7,6 +7,7 @@ tags:
 - Practitioner 
 ---
 
+Tags: [[Restoration]]
 
 # Brief:
 * Scope & Description: This study documents and evaluates the harm prevention work carried out by the children’s rights nonprofit Aangan Trust since late 2015 in Konia, a peri-urban slum area in Varanasi, a large city in the Indian state of Uttar Pradesh. Results show that community-level harm prevention work involves considerable challenges, especially in a context where structural factors militate against child wellbeing.
