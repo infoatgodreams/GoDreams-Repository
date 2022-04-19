@@ -312,7 +312,7 @@ These guidelines build on existing international legal and policy frameworks for
 * Ensure that schools are safe havens for children – work to reduce violence in schools and take steps to address situations where schools are used as recruiting grounds for trafficking, gangs or child soldiers.
 
 
-## **Monitoring and Evaluation 
+## Monitoring and Evaluation 
 * Monitoring can occur at three interlinked but distinct levels:
 * the individual case – in order to track child and family well-being and inform care plans
 * the agency’s programme – in order to track progress, quality and effectiveness of implementation and inform programme planning and development
