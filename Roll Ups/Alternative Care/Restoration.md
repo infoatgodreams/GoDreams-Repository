@@ -713,6 +713,33 @@ According to a paper on the challenges in social reintegration of children from 
 - Parents without a sense of responsibility Not willing to take back the child 
 - Children prefer to stay back - Some children refusing to be restored 
 
+Challenges of the Restoration Model:
+
+The implementation of this restoration model faced a number challenges, such as:
+
+
+
+* Resistance from the family post-restoration: 
+    * The biggest challenge for case workers following up with child victims who’ve been restored to their families is tracing them and continuing to maintain contact over time. 
+    * Court Orders or Orders from the CWC are used to inform the child victim’s family about the importance of staying in touch with the JJ system for a period of one to two years, or until the child turns 18. 
+    * In Prerana’s experience, families may be willing to stay in touch with the organization only when they see the short-term benefits of the same.
+* Access to unqualified, traditional health service providers: 
+    * Food, nutrition, and health practices differ based on a child’s socio-cultural context and might be hard to monitor regularly. 
+    * Some communities may depend on unauthorized or unlicensed medical practitioners as compared to authorized professionals even while dealing with deficiencies, diseases, or infections. 
+    * It can be challenging to convince and sensitize families about the significance of seeking and continuing medical treatment
+* Resistance to victim and family counseling: 
+    * The stigma associated with seeking mental health assistance often keeps children and their families from approaching professionals. Even when they do participate, as mandated by the CWC, most don’t show eager participation or feedback. 
+    * The counseling process is gradual and slow. Professionals take time to build rapport. The absence of quick results may demotivate a child and their family from continuing the sessions.
+* Restoration directly through Court Orders: 
+    * Restoration of child victims of CSE generally takes place through the CWC only after the initial due diligence. However, sometimes, families of the child victims directly approach the higher courts of law, like the Court of Sessions or move a writ of Habeas Corpus in the High Court, seeking the custody of the victims. 
+    * During such times, when the courts make these decisions of restoring child victims without considering the say of the CWCs who have conducted the on-ground inquiry, restoration might prove counterproductive to the rehabilitation and eventual reintegration of the victim.
+* Lack of sustainable economic rehabilitation: 
+    * In some cases, child victims find it very difficult to stay in a job beyond a couple of weeks. They may find it hard to adjust to strict rules, feel exhausted from over-working, end up in hostile work environments with strict supervision, or suffer from health issues. Sometimes perpetrators can also reach out to them at their workplaces.
+* Reduced contact of the case worker with the child once they are restored: 
+    * When a child is in a CCI, their regular contact with the case worker helps them stay motivated. When they are restored into society, their contact with the case worker may be limited. 
+    * Case workers also have significantly reduced access to the child and their day-to-day engagements. Hence, the scope and impact of enabling a positive environment for the child is limited.
+
+
 
 
 
