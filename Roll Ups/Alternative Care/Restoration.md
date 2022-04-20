@@ -81,7 +81,10 @@ e.
     * “Permanency Planning” programmes – which aim to support families to care for children in their homes – have been introduced, “at least on a trial basis,” in almost every state
 	* Small group homes which are argued to be more personal than large institutions and guardianship are included as “subalternatives.”
 - According to a paper on alternative care in India, these are the existing community-based care models in India
-	- ## Guardianship 
+
+## Community Based Child Protection
+
+## Guardianship 
 - A guardian is a lawfully appointed adult representative for a child. The guardian’s role is to make sure that a child’s rights are upheld, and the child’s best interests are protected.
 - The modalities of being a guardian may vary from region to region. Where formal guardian systems do not exist, alternative systems of care may be created by having a legally documented representative for the child. 
 - The laws governing guardianship of children in India include the Guardians and Wards Act, 1890, and The Hindu Minority and Guardianship Act, 1956. 
@@ -716,7 +719,7 @@ According to a paper on the challenges in social reintegration of children from 
 - The study also suggests that most prospective parents prefer a male boy, ideally be - tween 0 and 3 years of age. Children with different able or special needs are only adopted by foreigners and not within the state or country (which is also minimal).
 - Therefore, children who are otherwise differ - ently able, older children and girls are generally left out. Surprisingly, in two institutions (specialized adoption agency), not a single child in the institutions nor any child was available for adoption. 
 
-# Community Based Child Protection
+
 
 
 
