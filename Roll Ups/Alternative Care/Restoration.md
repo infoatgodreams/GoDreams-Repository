@@ -66,9 +66,8 @@ According to a massive meta-analysis on institutionalisation[^6],
 
 
 # What are existing alternative care systems? 
-- According to Sneha Care[^6]
-	- * The result has been a proposed “hierarchy of alternatives [to institutional care] for children.” 
-* Pride of place is reserved for living:
+- According to Sneha Care[^5]
+	The following explains the hierarchy of options available in alternative care
     * in the home of origin
     * followed by adoption
     * kinship foster care
@@ -76,7 +75,8 @@ According to a massive meta-analysis on institutionalisation[^6],
     * care in an institution. 
     * “Permanency Planning” programmes – which aim to support families to care for children in their homes – have been introduced, “at least on a trial basis,” in almost every state
 	* Small group homes which are argued to be more personal than large institutions and guardianship are included as “subalternatives.”
-- According to a paper on alternative care in India, these are the existing community-based care models in India
+
+- According to a paper on alternative care in India, these are the existing community-based care models in India:
 
 ## Community Based Child Protection
 
@@ -88,6 +88,16 @@ According to a massive meta-analysis on institutionalisation[^6],
   ## Adoption 
   - Adoption is defined as the permanent placement of a child in a family, whereby the rights and responsibilities of the biological parents are legally transferred to the adoptive parent/s. 
   - The laws governing the adoption of children in India are the Hindu Adoption and Maintenance Act, 1956, the Hague Convention on Inter-Country Adoption, 1993 (Ratified by the Government of India in 2003), the Juvenile Justice (Care and Protection of Children) Act, 2015, and the Adoption Regulations, 2017. 
+  - - The Fundamental principles governing adoption:
+	- The child’s best interests shall be of paramount consideration, while processing any adoption placement
+	-  Preference shall be given to place the child in adoption with Indian citizens and with due regard to the principle of placement of the child in his own socio-cultural environment, as far as possible
+	- All adoptions shall be registered on Child Adoption Resource Information and Guidance System and the confidentiality of the same shall be maintained by the Authority. 
+
+  ### Challenges in adoption: 
+  - Less children reaching adoption agencies.
+  - Less number of children available in proportion to large number of registered waiting parents. 
+  - Informal and illegal adoptions.
+  - Delays at various level in the adoption process 
 
   ## Foster Care
 
@@ -95,12 +105,51 @@ According to a massive meta-analysis on institutionalisation[^6],
 - This arrangement is for a specific time until the child can be reintegrated and reunified with their biological family. 
 - Hence placement in foster care is not permanent in nature. Foster carers generally receive assistance to meet the child’s needs which may include training, guidance and financial assistance from the government. Foster care can be advantageous and may play an important role in a situation where a child’s own family demonstrated a temporary inability to care for the child. 
 - The laws governing foster care in India are the Juvenile Justice (Care and Protection of Children) Act, 2015, and the Model Guidelines for Foster Care, 2016. 
+- - Foster Care, including Group Foster Care (GFC) 32 Foster care is a non-institutional family-based placement of a child, by the Child Welfare Committee (CWC) in the domestic environment of a family, other than the child’s biological family, for the purpose of alternate care. 
+- Here the child lives with a non-biological family but with identical cultural, tribal and/or community. This form of care is meant for Children in Need of Care and Protection (CNCP). In India, the JJ Act 2015 prescribes foster care as a measure for rehabilitation and social reintegration of children in need of care and protection. 
+- Section 44 of the Act deals with different aspects of foster care that include, inter alia, selection of foster family, monthly funding, responsibilities of foster family and inspection of foster families. 
+- Rule 23 of the Model Rules, 2016 deals with various aspects of foster care like role of DCPU and CWC, preconditions to be confirmed by foster care families, criteria for selecting group foster care setting, duties of foster carers, and other procedural matters.
+- ICPS also strongly advocates family-based care of children and deals with procedures for sanction and release of funds under foster care programme, foster care fund and foster care approval committee
+### Types of Foster Care 
+Foster care can be individual foster care or group foster care (GFC). GFC is a family-like care in a fit facility that provides personalized parental care in a family-like environment to a group of unrelated children in a community setting.
+- Short Term Foster Care - For not more than one year. Two foster children can live in a foster family, unless in the case of siblings which may be more than two in order to keep siblings together
+- Long Term Foster Care - Exceeding one year or more and until the child reaches the age of 18 years. Two foster children can live in a foster family; unless in the case of siblings which may be more than two in order to keep siblings together.
+- GFC - A family-like care in a fit facility for children in need of care and protection who are without parental care with the aim to provide personalised care and a sense of belonging and identity upto 18 years and maximum of eight children can live in a Group Foster Care home including the caretaker’s biological children.All children are eligible for foster care as declared by CWC. The District Child Protection Unit (DCPU) is the nodal authority for implementing the foster care programme in a district and the CWC has been given the power to take
+
+## Processes involved in foster care
+
+- All decisions related to placement of a child in foster care. The law also sets up a Sponsorship and Foster Care Approval Committee (SFCAC) to review and sanction sponsorship and foster care fund. 
+- Financial support of not less than INR 2,000 per month per child is available to foster parents and group foster care if requested and dully approved by SFCAC. 
+- If both the spouses are Indian citizens or both are willing to foster the same child and both are 35 years and more and in good health, they can foster a child. Normally this foster family should have enough income with to meet the needs of the child. 
+- The foster parents are also obliged to follow rules laid down including regular visits to doctors, maintenance of child health and their records and also attend foster care orientation programs organized by the DCPU.
+-  Not more than 4 children including their own children shall be placed in family foster care. 
+- Siblings should preferably be placed together in a single family or same fit facility and where relevant and necessary, biological parents’ consent is required in foster care.
+-  For GFC, the DCPU is responsible to identify Fit facility for GFC and register the organisation under the Act. The CWC has to recognize the organisation as a fit facility for placement of children in GFC. 
+- The organisation has to be also registered on the NITI Aayog website, it should have a child protection policy in place and have updated files of all medical reports of its caregivers. 
+- The accommodation should be sufficiently spacious for a group of eight children to reside and ensure privacy of children and the caregivers should not have any criminal conviction or indictment in the past.
+-  The law also stipulates that the GFC home should have the look and feel of a house providing a family environment, rather than an institutional setting and be located within an existing neighborhood to encourage local interaction and the organisation should be ready to attend pre service training provided by DCPU.
+-  It should have provident fund and retirement policy for caregivers; 
+
+
+## Role of DCPU in Foster Care
+- The DCPU or an NGO or social worker identified by DCPU must
+- Visit foster families least once a week for the first month
+- Visit monthly for next six months
+- Visit bi-annually after 7 months
+- Create and maintain Individual Case Files for each child in foster care
+- Monthly visits to schools to ensure his education continues for a period of 1 year Adoption Adoption is the process of transferring a child from biological parents or CCIs to adoptive parents through law. Under the JJ Act, 2015 adoption is defined as a “process through which the adopted child is permanently separated from his biological parents and becomes the lawful child of his adoptive parents with all the rights, privileges and responsibilities that are attached to a biological child”. This is a key reintegration measure for CNCP as it provides the children family-based non-institutional childcare. Once adopted legally, the child enjoys all the benefits from those family ties from the date of the adoption. 
+
 
   
 ## Kinship
 - Kinship care is full time care of a child by a relative or member of the extended family (Bromfield and Osborn, 2007). This is an arrangement which is the most common form of alternative care worldwide. It is characteristically managed without formal legal intervention. In numerous developing nations, kinship is fundamentally the only form of alternative care available (UNICEF, 2006).
 -  It offers many advantages over other forms of care since it permits family relationships to continue, keeps the children within their culture and community, and avoids the anxieties associated with the placement of children with unfamiliar adults and families.  
 
+## Sponsorship 
+- Sponsorship is providing of additional financial support to families who are unable to meet educational and other needs of their children, due to a number of reasons.
+-  The assistance is towards meeting expenditures on medical, nutritional and educational and other needs of the child, allowing the child to continue and stay with their biological families. 
+- Working with the family as a unit is a very effective approach in sponsorship. Eventually, families are trained to become self reliant and independent through long-term rehabilitation plans that is self-sustainable. 
+- NIAC reflects the shift in childcare from the “Welfare” to the “Developmental” and from the “Needs” to the “Rights” and from “Institutional Care” to “Non-Institutional Alternative Care”. A collective and co-ordinated approach that focused on family and community based care for children and youth is a step in the right direction of child protection.
   
 
 ## Current push for deinstitutionalization 
