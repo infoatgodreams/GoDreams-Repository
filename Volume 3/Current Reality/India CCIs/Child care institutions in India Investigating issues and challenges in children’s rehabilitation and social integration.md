@@ -44,7 +44,16 @@ Link:https://drive.google.com/file/d/1_NramXPQpmLCCHlpgJpPQW8cZkP2vyeA/view?usp=
 - Moreover, institutional care providers are also unaware of the programme 
 - The delay in sanctioning money was another reason why the sponsorshop programme fails. 
 
+## Foster Care
+- Foster care as means for preparing children ’ s rehabilitation and social integration Like adoption, foster care is also one way for children to be rehabilitated and socially integrated. 
+- Children still can be in a family environment; however, it is just temporary. It is one way of preparing for the adoption of children. 
+- The child welfare committee makes the final decision for foster care after studying the family's intent, capacity, and experiences living with children. Foster parents are also responsible for the health, education, nutrition and well-being of children compared to adoption (The Juvenile Justice (Care and Protection of Children) Act, 2015, n.d.)
 
+### Problems with foster care
+- The study indicates that not a single child from the twenty child care institutions is placed in a foster care facility. 
+- Surprisingly, some insti tutional cares are unaware of the policy and programme for keeping a child in foster care. 
+- The institutional staffs that are aware of the programme are also confused with whom to approach and avail the services as it is not effective. Therefore, the staffs who prepare the individual care plan for each child do not select or recommend these methods for the rehabilitation and social integration of children because they do not function effectively.
+- The caregiver also points out that people do not inquire about taking in children for foster care which is also one of the reasons for not keeping child in a foster care. This certainly violates children’s rights to foster care and with a family. 
 
 ## Problems with Adoption
 
