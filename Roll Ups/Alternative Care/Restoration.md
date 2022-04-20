@@ -716,6 +716,8 @@ According to a paper on the challenges in social reintegration of children from 
 - The study also suggests that most prospective parents prefer a male boy, ideally be - tween 0 and 3 years of age. Children with different able or special needs are only adopted by foreigners and not within the state or country (which is also minimal).
 - Therefore, children who are otherwise differ - ently able, older children and girls are generally left out. Surprisingly, in two institutions (specialized adoption agency), not a single child in the institutions nor any child was available for adoption. 
 
+# Community Based Child Protection
+
 
 
 
