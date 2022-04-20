@@ -167,41 +167,15 @@ According to a paper on alternative care in India, these are the existing commun
 - Moreover, institutional care providers are also unaware of the programme 
 - The delay in sanctioning money was another reason why the sponsorshop programme fails. 
 
-## Current push for deinstitutionalization 
+# Current Global Push for Deinstitutionalization [^5]
 * **UNICEF** has declared its support for programmes “including provision of information on the detrimental impact of institutional care on the young child, and education for parents of children with disabilities and parents at risk of abandoning their infants' ' to discourage the use of institutional care. 
-* **Save The Children (STC)** encourages “[d]onors to ensure that funding is directed at preventive community and family support and at family-based alternative care.”
-* “The new** international Guidelines** set out clear quality standards that should be met by all forms of alternative care. They are universal, based on the **UN Charter for the Rights of the Child (UNCRC,)** and apply to all settings regardless of their culture or financial and political status.”
-* Amongst other things, these Guidelines set out to:
-    * more effectively monitor existing institutions
-    * provide better “gate-keeping”
-    * restrict the use of institutional care especially for those under the age of three 
-    * And importantly, place all of this within an overall strategy of deinstitutionalization.
-
-# Legal and Policy Frameworks on Restoration
-[^2]
-According to a document that outlines the guidelines for reintegration of children to families, these guidelines are based on
-* The UN Convention on the Rights of the Child (UNCRC) (UN 1989);
-*  The Guidelines for the Alternative Care of Children, welcomed by the UN in 2009 (UN GA 2010); 
-* Inter-agency Guiding Principles on Unaccompanied and Separated Children (ICRC, IRC, Save the Children, UNICEF, UNHCR and World Vision 2004); 
-* The UN Rules for the Protection of Juveniles Deprived of their Liberty (UN 1990); 
-* The Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children (UN 2000);
-*  Minimum Standards for Child Protection in Humanitarian Action (CPWG 2012).
-
-# Restoration
-* [^1] According to a care manual created by Prerna, **Definition: The process of reuniting a child with their family is known as restoration**
-* The right of children to not be separated from one’s family and, if separated from one’s family for whatever reasons, then their right to be restored to their family has been articulated explicitly in recent laws and instruments. 
-	* Unfortunately, there may be situations where the natural or extended families, and more appropriately natural parents and close natural relatives get separated from their child, or become incompetent, disinclined to provide care and protection to their child or become a source of harm to the child. In such cases, the responsibility to provide care and protection may fall on the State. This corrective measure is also called deinstitutionalization but the term describes only a part of the larger process of restoration.
-* According to a document that outlines restoration guidelines, Family reintegration is what the majority of the separated children and their families want (BCN et al. 2013). 
-	* These guidelines explores principles of good practice in children’s reintegration aimed primarily at child protection programme managers in low and lower-middleincome contexts. 
-	* The guidelines cover reintegration back into families of origin and do not coverplacement into alternative care or new families through adoption or similar practices.
-	* **Definition of Reintegration**: “The process of a separated child making what is anticipated to be a permanent transition back to his or her family and community (usually of origin), in order to receive protection and care and to find a sense of belonging and purpose in all spheres of life.”
-
-## Why is reintegration/restoration so important? 
-- According to a manual on the guidelines for institutional childcare in Ethiopia, reintegration is crucial in
-	* preventing the various psycho-social problems that arise among children due to deprivation of familial care
-	* facilitating conditions for the assimilation of children with their parents and/or members of extended family and promote their all rounded development
-	* creating opportunities for children in which they can learn familial and social values and norms living with their parents and/or members of the extended family; and
-	* supporting parents and/or members of extended families to re-assume their responsibility to cater for their children.
+* **Save The Children (STC)** encourages donors to ensure that funding is directed at preventive community and family support and at family-based alternative care.”
+* The new international guidelines on alternative care set out clear quality standards that should be met by all forms of alternative care. They are universal, based on the **UN Charter for the Rights of the Child (UNCRC,)** and apply to all settings regardless of their culture or financial and political status.”
+	* Amongst other things, these Guidelines set out to:
+	    * more effectively monitor existing institutions
+	    * provide better “gate-keeping”
+	    * restrict the use of institutional care especially for those under the age of three 
+	    * And importantly, place all of this within an overall strategy of deinstitutionalization.
 
 ## Arguments against the push for deinstitutionalisation 
 - Interestingly, Sneha Care Home has been against this binary pitting of institutional care against the “alternatives” of family and community-based care is the not-implicit assumption that the two are mutually exclusive, that one precludes the other: that institutions weaken familial and community ties, that funding institutional care drains resources from community-based initiatives.
@@ -306,6 +280,34 @@ According to a document that outlines the guidelines for reintegration of childr
     * The developmental status of a child at the time of their placement in a family after institutional care might influence the recovery trajectory of that child.
     * Few studies have tried to quantify the extent to which individual variations in characteristics at the time of placement in a family determine medium­term to long­term outcomes.
     * A relationship has been found between physiological dysregulation linked to the effects of institutional care and functioning after removal from the institution.
+
+
+# Legal and Policy Frameworks on Restoration
+[^2]
+According to a document that outlines the guidelines for reintegration of children to families, these guidelines are based on
+* The UN Convention on the Rights of the Child (UNCRC) (UN 1989);
+*  The Guidelines for the Alternative Care of Children, welcomed by the UN in 2009 (UN GA 2010); 
+* Inter-agency Guiding Principles on Unaccompanied and Separated Children (ICRC, IRC, Save the Children, UNICEF, UNHCR and World Vision 2004); 
+* The UN Rules for the Protection of Juveniles Deprived of their Liberty (UN 1990); 
+* The Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children (UN 2000);
+*  Minimum Standards for Child Protection in Humanitarian Action (CPWG 2012).
+
+# Restoration
+* [^1] According to a care manual created by Prerna, **Definition: The process of reuniting a child with their family is known as restoration**
+* The right of children to not be separated from one’s family and, if separated from one’s family for whatever reasons, then their right to be restored to their family has been articulated explicitly in recent laws and instruments. 
+	* Unfortunately, there may be situations where the natural or extended families, and more appropriately natural parents and close natural relatives get separated from their child, or become incompetent, disinclined to provide care and protection to their child or become a source of harm to the child. In such cases, the responsibility to provide care and protection may fall on the State. This corrective measure is also called deinstitutionalization but the term describes only a part of the larger process of restoration.
+* According to a document that outlines restoration guidelines, Family reintegration is what the majority of the separated children and their families want (BCN et al. 2013). 
+	* These guidelines explores principles of good practice in children’s reintegration aimed primarily at child protection programme managers in low and lower-middleincome contexts. 
+	* The guidelines cover reintegration back into families of origin and do not coverplacement into alternative care or new families through adoption or similar practices.
+	* **Definition of Reintegration**: “The process of a separated child making what is anticipated to be a permanent transition back to his or her family and community (usually of origin), in order to receive protection and care and to find a sense of belonging and purpose in all spheres of life.”
+
+## Why is reintegration/restoration so important? 
+- According to a manual on the guidelines for institutional childcare in Ethiopia, reintegration is crucial in
+	* preventing the various psycho-social problems that arise among children due to deprivation of familial care
+	* facilitating conditions for the assimilation of children with their parents and/or members of extended family and promote their all rounded development
+	* creating opportunities for children in which they can learn familial and social values and norms living with their parents and/or members of the extended family; and
+	* supporting parents and/or members of extended families to re-assume their responsibility to cater for their children.
+
 
 
 
