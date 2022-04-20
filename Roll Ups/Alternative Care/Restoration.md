@@ -388,6 +388,20 @@ According to a guideline document on global restoration practices, we need to ke
     * When a child victim is in a CCI, the food and nutrition requirements are taken care of and monitored regularly as per the prescribed guidelines. 
     * However, once the child is restored to their family, the victim’s access to healthy and nutritious food needs to be assessed by the case workers through interaction and follow-ups with the family and the victim.
     * Follow-ups after restoration should focus on understanding the relevant family practices, gender, and other social biases about food and nutrition and its impact on the child’s overall growth and development.
+    * Special nutrition might be required in cases where the child is being treated for an illness, especially deficiencies like iron, malnourishment or communicable diseases that affect immunity. In more serious infections like tuberculosis, a well-balanced, nutritious diet is a must for recovery.
+	    * In such cases nutrition plans are usually designed when the child victim is still at the CCI. After restoration, such plans are to be integrated by the family in the child's daily routine food intake. 
+	    
+	#### Good practices post-restoration
+	* Assessment of the family's perception of nutritious and healthy food.
+	* Assessment of the family’s financial capacity: Case workers also assess if the family can afford healthy, nutritious meals, and help the family access free or subsidized groceries. 
+	* Assessment of the family’s preferences and cultural context: Socio-cultural contexts also impact eating habits in a child.
+
+### Hygiene
+- Cleanliness and sanitation, both within the residence and in the child victim’s immediate external environment, need to be assessed. 
+- This includes, and is not limited to, waste disposal mechanisms, usage and disposal of wastewater, access to bathrooms and toilets, and water for drinking and household purposes. 
+- Although the access to toilets and bathrooms does not determine the decision to restore a child with their family, it is an essential part of the post-restoration follow-up.
+- Discuss the challenges with relevant authorities (local CSOs, community leaders, other civic authorities) and draw up possible measures in overcoming these challenges.
+	
 
 # The stages in the reintegration process
 
