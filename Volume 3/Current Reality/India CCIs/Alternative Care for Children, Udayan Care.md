@@ -107,30 +107,22 @@ Foster care can be individual foster care or group foster care (GFC). GFC is a f
 - Create and maintain Individual Case Files for each child in foster care
 - Monthly visits to schools to ensure his education continues for a period of 1 year Adoption Adoption is the process of transferring a child from biological parents or CCIs to adoptive parents through law. Under the JJ Act, 2015 adoption is defined as a “process through which the adopted child is permanently separated from his biological parents and becomes the lawful child of his adoptive parents with all the rights, privileges and responsibilities that are attached to a biological child”. This is a key reintegration measure for CNCP as it provides the children family-based non-institutional childcare. Once adopted legally, the child enjoys all the benefits from those family ties from the date of the adoption. 
 
+## Adoption
+
+- The Fundamental principles governing adoption:
+	- The child’s best interests shall be of paramount consideration, while processing any adoption placement
+	-  Preference shall be given to place the child in adoption with Indian citizens and with due regard to the principle of placement of the child in his own socio-cultural environment, as far as possible
+	- All adoptions shall be registered on Child Adoption Resource Information and Guidance System and the confidentiality of the same shall be maintained by the Authority. 
+
+  ### Challenges in adoption: 
+  - Less children reaching adoption agencies.
+  - Less number of children available in proportion to large number of registered waiting parents. 
+  - Informal and illegal adoptions.
+  - Delays at various level in the adoption process 
   
 
-. Types of Foster Care Foster care can be individual foster care or group foster care (GFC). GFC is a family-like care in a fit facility that provides personalized parental care in a family-like environment to a group of unrelated children in a community setting. • Short Term Foster Care - For not more than one year. Two foster children can live in a foster family, unless in the case of siblings which may be more than two in order to keep siblings together. • Long Term Foster Care - Exceeding one year or more and until the child reaches the age of 18 years. Two foster children can live in a foster family; unless in the case of siblings which may be more than two in order to keep siblings together. • GFC - A family-like care in a fit facility for children in need of care and protection who are without parental care with the aim to provide personalised care and a sense of belonging and identity upto 18 years and maximum of eight children can live in a Group Foster Care home including the caretaker’s biological children. 
-
-  
-
-All children are eligible for foster care as declared by CWC. The District Child Protection Unit (DCPU) is the nodal authority for implementing the foster care programme in a district and the CWC has been given the power to take 
-
-  
-
-**p.27**
-
-  
-
-The Fundamental principles governing adoption: 33 • The child’s best interests shall be of paramount consideration, while processing any adoption placement; • Preference shall be given to place the child in adoption with Indian citizens and with due regard to the principle of placement of the child in his own socio-cultural environment, as far as possible; • All adoptions shall be registered on Child Adoption Resource Information and Guidance System and the confidentiality of the same shall be maintained by the Authority. 
-
-  
-
-**p.28**
-
-  
-
-There have been a number of intimates taken by the GOI in the recent times to increase the low rates of adoption. These include an online adoption process, simplified and transparent procedure in adoption process and referral based system. Greater transparency has been achieved with introduction of CARINGS. Despite this, the challenges remain as follows: • Less children reaching adoption agencies. • Less number of children available in proportion to large number of registered waiting parents. • Informal and illegal adoptions. • Delays at various level in the adoption process The roadmap for CARA is to ensure 100% hassle-free adoption process with the help of online system and reach all adoptable children deprived of family care through. • Capacity building and sensitization activities • Promotional activities • Helpdesk and counseling centre 
-
-  
-
-Sponsorship Sponsorship is providing of additional financial support to families who are unable to meet educational and other needs of their children, due to a number of reasons. The assistance is towards meeting expenditures on medical, nutritional and educational and other needs of the child, allowing the child to continue and stay with their biological families. Working with the family as a unit is a very effective approach in sponsorship. Eventually, families are trained to become self reliant and independent through long-term rehabilitation plans that is self-sustainable. NIAC reflects the shift in childcare from the “Welfare” to the “Developmental” and from the “Needs” to the “Rights” and from “Institutional Care” to “Non-Institutional Alternative Care”. A collective and co-ordinated approach that focused on family and community based care for children and youth is a step in the right direction of child protection.
+## Sponsorship 
+- Sponsorship is providing of additional financial support to families who are unable to meet educational and other needs of their children, due to a number of reasons.
+-  The assistance is towards meeting expenditures on medical, nutritional and educational and other needs of the child, allowing the child to continue and stay with their biological families. 
+- Working with the family as a unit is a very effective approach in sponsorship. Eventually, families are trained to become self reliant and independent through long-term rehabilitation plans that is self-sustainable. 
+- NIAC reflects the shift in childcare from the “Welfare” to the “Developmental” and from the “Needs” to the “Rights” and from “Institutional Care” to “Non-Institutional Alternative Care”. A collective and co-ordinated approach that focused on family and community based care for children and youth is a step in the right direction of child protection.
