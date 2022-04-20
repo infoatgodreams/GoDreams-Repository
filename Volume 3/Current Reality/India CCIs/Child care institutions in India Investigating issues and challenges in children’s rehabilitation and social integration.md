@@ -35,6 +35,13 @@ Link:https://drive.google.com/file/d/1_NramXPQpmLCCHlpgJpPQW8cZkP2vyeA/view?usp=
 - It is of two types preventive and rehabilitative. As the name suggests, the former prevents the children from being institutionalized and later rehabilitating and integrating children out of the institutions to the family (The Integrated Child Protection Scheme, 2014). 
 
 ### Problems with sponsorship
+- The study shows that not a single child from the twenty childcare institutions uses the scheme to help children’s institutional recovery. Two children from one institution were chosen for sponsorship but were not funded (although the selection list was declared more than a year ago). 
+- Parents tend to keep the children in institutional care rather than receive a mere two thousand rupees. There is no proper knowledge in the community asSome parents who never visited their children Child does not receive moral and financial support 
+- Parents without a sense of responsibility Not willing to take back the child Children prefer to stay back - Some children refusing to be restored - Irregularity in sanctioning funds Negative impact on the functioning of an institution Children are affected Staffs payment are irregular - Institutions borrowing money with interest Irregularity and untimely release of funds E. Wanglar
+
+Children and Youth Services Review 122 (2021) 105915
+
+## Problems with Adoption
 
 ### Rules and guidelines
 - It is stated and also observed that the rules are rigid, the procedures are lengthy, and the state scenario is not always applicable. While it prohibits unlawful adoption of children, it is difficult for parents to adopt a child because parents must be physically, psychologically and financially stable without any criminal history. Concerning their income, health, etc., they have to organize and send various documents. 
