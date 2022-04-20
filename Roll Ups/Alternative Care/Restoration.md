@@ -230,15 +230,11 @@ According to a paper on alternative care in India, these are the existing commun
 - Demonstrating institutional care’s potential long-term benefits for family dynamics was a longitudinal study which interviewed the families of children with mental retardation who had received residential treatment both one and two years after placement.
 	    * The study found that “respondents primarily reported post placement benefits to the family.” Crucially, however, the study also noted that in this particular case, family involvement in the children’s treatment programme while they were institutionalized was “high and stable.”
 	    * Indeed, a renowned longitudinal study carried out in the 1960s – “The Cleveland Bellefaire follow-up study” – found that for children leaving institutions and returning to their families and communities, the gains accrued from institutional care tended to last longer if staff worked with parents and community agents for a transitional period once the child was discharged
+- The second reason that the “either-or” approach is problematic is that by presenting family or community-based care as “alternatives” to institutional care, proponents of this view miss the point that historically, long-term institutional care facilities have spearheaded a number of the key healthcare initiatives (particularly to do with community outreach) that are now being presented as “alternatives” to those very institutions
+- The “either-or” assumption dismisses or at the very least underplays any possibility of combining elements of institutional care and the alternatives provided. In a similar fashion, the suggestion made in this paper is that SCH, which is intricately connected with Karnataka’s Community Care Centres on multiple levels: from family tracing to information sharing, from outreach services to follow-up care, demonstrates the extent to which it is possible to combine the benefits of both institutional care and community-based alternatives while offsetting a number of the disadvantages of each.
 
-	* * Institutional care and family/community care as being mutually exclusive:
-    * This “care continuum” is a continuum in the sense that it presents an array of care options which fall across a spectrum but not in the sense that children are encouraged to move along it – since the goal is increasingly that of “permanency”, and within a family setting
-    * This view is problematic for a number of reasons:
-        * To “return” to the past form of care, as some advocates of alternative care seem to be espousing, would be to return to a “mixed-economy of care” – and not, as they suggest, family-based care
-        * The second reason that the “either-or” approach is problematic is that by presenting family or community-based care as “alternatives” to institutional care, proponents of this view miss the point that historically, long-term institutional care facilities have spearheaded a number of the key healthcare initiatives (particularly to do with community outreach) that are now being presented as “alternatives” to those very institutions
-        * The “either-or” assumption dismisses or at the very least underplays any possibility of combining elements of institutional care and the alternatives provided. In a similar fashion, the suggestion made in this paper is that SCH, which is intricately connected with Karnataka’s Community Care Centres on multiple levels: from family tracing to information sharing, from outreach services to follow-up care, demonstrates the extent to which it is possible to combine the benefits of both institutional care and community-based alternatives while offsetting a number of the disadvantages of each.
-* Family and community-based care as the universally best options
-    * Even the staunchest advocates of family-based care appreciate that this is not always possible – either because the child has been orphaned or because some biological parents for medical or other reasons are unable to care for their child. This is particularly true for CLHA, who are likely to have lost their parents to AIDS or have parent(s) with seriously compromised health – parent(s) who may not have long to live. 
+## Family and community-based care are not the universally best options
+- Even the staunchest advocates of family-based care appreciate that this is not always possible – either because the child has been orphaned or because some biological parents for medical or other reasons are unable to care for their child. 
     * For this reason, foster care or adoption are typically presented as viable alternatives to institutional care for these children to be able to be brought up in an environment which is as home-like as possible.
     * Adoption and Foster care in India:
         * Most relevant to the present study, the striking absence of foster care across India has been noted. 
@@ -247,7 +243,6 @@ According to a paper on alternative care in India, these are the existing commun
             * and “problems of ‘matching’ children and foster carers around issues of caste, religion, colour and language.”  
         * Interestingly, work on child care in Cape Town, has also pointed to the dearth of formal foster care or adoption amongst the Indian community compared to the African community during the apartheid era -suggesting that this resistance to foster care may not be transient .
         * With the stigma surrounding HIV/ AIDS being so strong that many infected children are actually (unofficially) prevented from attending school in their communities owing to the fear of fellow students’ parents, the prospect of being fostered or adopted is an even more distant one for Indian CLHA.
-    * 
 * Community-based care and institutional care cater for the same populations:
     * Community-based organisations and social welfare agencies are seen as being able to provide support to the families (biological or otherwise) of vulnerable children while keeping the latter out of institutions. 
     * Yet here too, assuming that the “alternative” of community care targets the same populations that would otherwise have resided in institutions is problematic 
@@ -740,43 +735,7 @@ According to a paper on the challenges in social reintegration of children from 
 - Parents without a sense of responsibility Not willing to take back the child 
 - Children prefer to stay back - Some children refusing to be restored 
 
-## Sponsorship
 
-### What is sponsorship?
-- Preventing institutionalizing and rehabilitating and social integrating through sponsorship Sponsorship is another method for rehabilitating and social integrating of children. 
-- The programme helps in preventing a child from being institutionalized and restores the child to the family. 
-- It is of two types preventive and rehabilitative. As the name suggests, the former prevents the children from being institutionalized and later rehabilitating and integrating children out of the institutions to the family (The Integrated Child Protection Scheme, 2014). 
-
-### Problems with sponsorship
-- The study shows that not a single child from the twenty childcare institutions uses the scheme to help children’s institutional recovery. Two children from one institution were chosen for sponsorship but were not funded (although the selection list was declared more than a year ago). 
-- Parents tend to keep the children in institutional care rather than receive a mere two thousand rupees.
-- There is no proper knowledge in the community as such people are unaware of the programmes. 
-- Moreover, institutional care providers are also unaware of the programme 
-- The delay in sanctioning money was another reason why the sponsorshop programme fails. 
-
-## Foster Care
-- Foster care as means for preparing children ’ s rehabilitation and social integration Like adoption, foster care is also one way for children to be rehabilitated and socially integrated. 
-- Children still can be in a family environment; however, it is just temporary. It is one way of preparing for the adoption of children. 
-- The child welfare committee makes the final decision for foster care after studying the family's intent, capacity, and experiences living with children. Foster parents are also responsible for the health, education, nutrition and well-being of children compared to adoption (The Juvenile Justice (Care and Protection of Children) Act, 2015, n.d.)
-
-### Problems with foster care
-- The study indicates that not a single child from the twenty child care institutions is placed in a foster care facility. 
-- Surprisingly, some insti tutional cares are unaware of the policy and programme for keeping a child in foster care. 
-- The institutional staffs that are aware of the programme are also confused with whom to approach and avail the services as it is not effective. Therefore, the staffs who prepare the individual care plan for each child do not select or recommend these methods for the rehabilitation and social integration of children because they do not function effectively.
-- The caregiver also points out that people do not inquire about taking in children for foster care which is also one of the reasons for not keeping child in a foster care. This certainly violates children’s rights to foster care and with a family. 
-
-## Problems with Adoption
-
-### Rules and guidelines
-- It is stated and also observed that the rules are rigid, the procedures are lengthy, and the state scenario is not always applicable. While it prohibits unlawful adoption of children, it is difficult for parents to adopt a child because parents must be physically, psychologically and financially stable without any criminal history. Concerning their income, health, etc., they have to organize and send various documents. 
-- They have to register on the website as Prospective Adoptive Parents (PAPs) and wait for their chance. Besides, matching is also carried out by the Central Adoption Resource Agency (CARA) and not by the adoption agency concerned. 
-- Parents cannot physically pick the children, and the child's preference is often an issue again when done online. If the prospective parents are pleased with the child, a home study will be performed by the Specialist Adoption Agency (SAA) of the respective state and recommended for adoption.
--  Otherwise, the process must again start with the parents waiting for their opportunity and CARA matching the parent – child. This slows the process of adop - tion, meaning children have to live in institutional care for longer. 
-- The study also indicates that registered prospective parents waiting for their chance are so high compared to children who are adopted.
-
-### Differently able or girl child usually left out. 
-- The study also suggests that most prospective parents prefer a male boy, ideally be - tween 0 and 3 years of age. Children with different able or special needs are only adopted by foreigners and not within the state or country (which is also minimal).
-- Therefore, children who are otherwise differ - ently able, older children and girls are generally left out. Surprisingly, in two institutions (specialized adoption agency), not a single child in the institutions nor any child was available for adoption. 
 
 
 
