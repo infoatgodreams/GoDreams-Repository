@@ -184,6 +184,46 @@ According to a paper on alternative care in India, these are the existing commun
 - Moreover, institutional care providers are also unaware of the programme 
 - The delay in sanctioning money was another reason why the sponsorshop programme fails. 
 
+# Barries to acceptance of alternate care models in India
+In a paper that describes existing alternate care systems in India[^7], we learn that there are socio-cultural barriers that create resistance to upholding formal alternative care in India.
+### Apathy: 
+- The dislike of change creates a resistance to accepting a person (child) of a different ethnic group. Since India is a large and diverse country, the population is also diverse. Families often show resistance to accepting an unrelated child from a different background. 
+- Religion, region, caste, colour, and language of the child often become the reasons for non-acceptance by prospective foster families. In an ideal situation it is required that foster parents should respect the religious practices and beliefs of the birthparents, even though the child is in foster care. Religious beliefs of people are rigid since practices vary vastly, hence it is challenging to place a child with a family which has different religious practices
+
+### Fear of separation and emotional vulnerability: 
+- Indian culture gives priority to emotions and believes in developing relationships with significant others. Families in India also fear developing an emotional bond and attachment to the foster child and this creates resistance to fostering a child. 
+
+### Too much emphasis on permanent placement i.e. adoption: 
+- Other forms/options (short term arrangements of care for the children) of alternative care are neglected by the child protection professionals since adoption has been accorded priority due to its permanent nature. 
+	- Additionally, adoption as a care placement of the children has gained recognition among the general public. 
+	- The prospective families want to have parental rights over the child they provide care for so they do not want to invest in a child without having parental rights. The families prefer to have a child permanently placed with them. 
+
+### Corruption:  
+- As recently quoted by the CEO of  the Central Adoption Resource Authority (CARA, India), foster care has been misused/ exploited by people as certain unethical practices have crept in.
+
+### Lack of awareness:  
+- Since the understanding and awareness of foster care and other non-institutional care options for children has not fully evolved in India, the gap between policy and practice remains. This has caused the foster care programme to become a backdoor entry into adoption or an entry point for misuse.
+
+### Preference for a younger child 
+- One of the issues that the foster care system in India is facing is that families want a younger child. Younger children are  preferred since they easily adjust to the family and it is easy to train the child to fit into their family. 
+- Not only in cases of adoption, but even families who had chosen foster care had expressed the desire for a young child. 
+- The process of placing older children who could not be put up for adoption in foster care is impractical since older children are not wanted.
+
+### Ambiguous policies and guidelines:  
+- The policies and guidelines for alternative care in India are either not in place or ambiguous. There is a need for advocacy and involvement of various stakeholders to develop effective policies and guidelines. The government and concerned departments need to take a proactive move to put the systems in place.
+
+### Lack of trained staff:  
+- The functionaries are neither familiar with the laws and regulations nor are they well trained to deal with the issues of child protection vis-a-vis alternative care. 
+- Capacity building programmes for the functionaries working with the children need to be designed and delivered. Additionally, they should be sensitised and trained in monitoring and follow up concerns
+
+### Lack of funds to support the children and caregivers:  
+- The budgetary allocations to family-based alternative care provisions are meagre and are not sufficient for the requirements of the children in need of care and protection. Where funds are allocated, they are being under utilised or not utilised at all.
+
+### Large numbers of the children in need of care and protection
+- Since India is a huge country, the number of children in need of care and protection is also large. Hence it is a long and tiring process which takes a lot of effort and consistently hard work to develop a pool of prospective families willing to provide short term residential care for such children.
+
+
+
 # Current Global Push for Deinstitutionalization [^5]
 * **UNICEF** has declared its support for programmes “including provision of information on the detrimental impact of institutional care on the young child, and education for parents of children with disabilities and parents at risk of abandoning their infants' ' to discourage the use of institutional care. 
 * **Save The Children (STC)** encourages donors to ensure that funding is directed at preventive community and family support and at family-based alternative care.”
@@ -341,7 +381,7 @@ According to a guideline document on global restoration practices, we need to ke
 ## Safety:
 - Ensuring the safety of a child victim is a challenging job in non-institutional settings like families. It is much easier to adhere to the legal guidelines of safety in formal institutional set-ups because they are well-funded, either run or monitored by the state authorities.
 - Families on the other hand are independent units that may need assistance and support from time to time. As per the UN Guidelines for Alternative Care of Children, 2010, efforts need to focus on directing the child to remain or return to their parents, families, or guardians, when appropriate
-- A measure to assess and ensure the safety of CNCP is:
+
 ### Social Investigation Report (SIR)
 - Typically, ‘found but untraced’ children or those whose rights seem to have been violated are produced before the CWC either by the Childline officials (a national child helpline service), police officials, or any ordinary citizen. 
 - Post the initial assessment, if the parents of the child are found, the CWC decides to place the child with the parents or guardians, until the inquiry is completed. If the parents or guardians cannot be traced, then, the child is temporarily placed in a CH, until the inquiry is completed. 
@@ -357,7 +397,6 @@ According to a guideline document on global restoration practices, we need to ke
 
 ## Care and Protection 
 - While safety has a more physical connotation of keeping the child safe, care and protection entails the socio-cultural elements of a child’s well-being.
-    * Multiple aspects are covered under the care and protection, these are:
     * ### Immunity against re-trafficking
 	    - When victims are trafficked by known persons (known as acquaintances) into the sex trade, there is a possibility of the victim being sexually maltreated, intimidated, threatened, or trafficked yet again. 
 	    - In cases where the trafficker (or their family) is in close physical proximity to the child victim and their family, their vulnerability increases. Thus, restoring a child victim in such environments may not be safe. 
@@ -442,12 +481,18 @@ According to a guideline document on global restoration practices, we need to ke
 - It is also important that these skills are imparted to all young adults, without gender biases or patriarchal norms.
 
 ### Social Integration
+- Social reintegration is the last link in the rehabilitation of child victims. The aim of social reintegration is to help a child overcome the stigma and discrimination of being a “victim”. 
+- While legal measures, social awareness and education are important, victims of CSE must also have access to counseling and training to deal with adverse and hostile social environments.
+- The assessment of the needs and sub-needs as mentioned in this document can be managed and executed through professional follow-up services for the child once they are restored to their family.
+- Currently, the JJ Act 2015 and State Rules 2018 have limited provisions for undertaking professional follow-up of child victims once they are restored to their families.
+
+### Stakeholder Engagement
+* The scope for interaction and professional follow-up services is limited when a child victim is restored to their family due to limited access. 
+* Since these visits and calls are made over time, it becomes essential to mobilize the child victim’s immediate social environment to assist them in time of need. 
+* The immediate community involves CBOs, Integrated Child Development Services (ICDS) centers or Anganwadis, community leaders, and community health centers. Sensitizing these stakeholders while maintaining confidentiality about the child’s background is critical to reach the objective of social reintegration
 
 
-
-
-
-# The stages in the reintegration process
+# The stages in the reintegration process (Only skim- Too detailed)
 
 The following systems and processes are outlined in a document that clearly explains the global guidelines for restoration projects. 
 
@@ -464,7 +509,7 @@ The following systems and processes are outlined in a document that clearly expl
     * Trace and locate member/s of the extended family where biological parent/s are untraceable
     * Confirming the willingness of the parent/s and/or member/s of the extended family
     * As discussed in a paper that outlines alternatives to institutional care[^4],  Assessments should place priority on cases where preservation or reunification is likely to happen rapidly, putting more resources in these cases (Kelley, 2000).
-* it is always valuable to properly assess the best interests of the child, BID tools can be useful in the assessment process.
+* It is always valuable to properly assess the best interests of the child, BID tools can be useful in the assessment process.
 * Details of good practice in the assessment of the child
 * Ensure the well-being of each child is quickly assessed by trained staff.
 * Build trust between the child and a case worker.
@@ -643,9 +688,9 @@ The following systems and processes are outlined in a document that clearly expl
 	* All updated documentation should be retained confidentially in case re-separation occurs and cases have to be re-opened.
 
 
-# **Working with Communities and Schools**
+## **Working with Communities and Schools**
 
-## Working with Communities
+### Working with Communities
 * In addition to a case work approach with individual children and families, efforts with schools and wider communities are important for successful reintegration. Schools and communities can help both to tackle stigma and discrimination, and to monitor and support reintegrating children.
 * The role of communities may be especially important in settings where formal social services are weak.
 * Engaging with community leaders or groups to explore their feelings about the returning children, encourage greater understanding of the challenges children faced whilst separated, and assist with efforts to reduce discrimination against returnees. 
@@ -655,18 +700,16 @@ The following systems and processes are outlined in a document that clearly expl
 * Working with the community to prevent (re)separation
 * Working with local media to change attitudes towards reintegrating children in the community.
 
-## Working with Schools
+### Working with Schools
 * As noted above, education plays an essential role in the reintegration of separated children, and there is much that schools can do to support this process.
 * Understand any discrimination that the child is likely to face in school at the hands of teachers, parents and students, and make efforts to tackle this discrimination.
 * Provide additional support to help reintegrating children who have missed out on schooling to catch up.
 * Ensure that schools are safe havens for children – work to reduce violence in schools and take steps to address situations where schools are used as recruiting grounds for trafficking, gangs or child soldiers.
 
 
-## **Monitoring and Evaluation 
-* Monitoring can occur at three interlinked but distinct levels:
-	* the individual case – in order to track child and family well-being and inform care plans
-	* the agency’s programme – in order to track progress, quality and effectiveness of implementation and inform programme planning and development
-	* the overall, multi-actor reintegration effort – in order to identify coverage, gaps and effective good practice.
+# **Monitoring and Evaluation 
+
+## Developing Indicators of success
 * In line with the definition included in these guidelines, ‘successful reintegration’ should consider not just whether children have been reunited with families, but also if they have a sense of belonging and purpose in all spheres of life. indicators should be developed with the involvement of
 	* children currently being reintegrated, asking them what they feel will help them in the future;
 	* children who have been reintegrated, asking them what was important to them in successful reintegration;
@@ -674,6 +717,18 @@ The following systems and processes are outlined in a document that clearly expl
 	* families, asking about the kind of support that was important to them in the reintegration process;
 	* elders, religious leaders or other adults, asking them about the elements needed for a child to be accepted and included in the community.
 	* output indicators (the direct products or services provided) outcome and impact indicators (which examine the success of efforts to reintegrate a child, and changes in child, family or community or the wider policy environment likely to enhance reintegration). Programme designers are strongly encouraged to develop their own indicators based on the specifics of their programme and on the perspectives of stakeholders involved in reintegration processes.
+* Outcome and impact indicators of the process overall:
+	* Children and families are able to accept reunification
+	* Families agree to a post-reunification support plan
+	* Children feel welcomed into their families
+	* Transfer of case files to local authorities
+
+## Monitoring
+
+* Monitoring can occur at three interlinked but distinct levels:
+	* the individual case – in order to track child and family well-being and inform care plans
+	* the agency’s programme – in order to track progress, quality and effectiveness of implementation and inform programme planning and development
+	* the overall, multi-actor reintegration effort – in order to identify coverage, gaps and effective good practice.
 * According to Ethiopian guidelines[^3],
 	* A childcare organization working on child-family reunification, after reunifying the child, shall conduct follow-up at least once in a year on the overall and specific development of a child till the child is well adjusted within the family and the surrounding environment. The follow up shall include child’s development with respect to:
         * health status
@@ -682,97 +737,47 @@ The following systems and processes are outlined in a document that clearly expl
         * educational development
         * social development; and
         * emotional and spiritual development
-* Outcome and impact indicators of the process overall:
-	* Children and families are able to accept reunification
-	* Families agree to a post-reunification support plan
-	* Children feel welcomed into their families
-	* Transfer of case files to local authorities
 * At Sneha Care home[^5], 
-	- Evaluation Questionnaire for CLHIV:
-		- The below are questions from the “Evaluation Questionnaire for CLHIV” selected for their relevance to family involvement] 
-		- Programmatic Knowledge
-			- Why didn’t you join in your local school while your brother/ sister/ neighbours joined there? 
-            * Family 
-                * What did your parents/ relative/ guardian tell you regarding your health? 
-                * What did your parents tell you about admission in this school? 
-                * After holidays we had an evaluation to see how you were at home. Why did we conduct that? 
-                * Did you experience any discrimination at home at any level? 
-            * General 5
-                * Have you noticed that many children don’t have parents here? What do you think about it?
-        * The Strengths and Difficulties Questionnaire (SDQ):
-            * The Strengths and Difficulties Questionnaire (SDQ) is a brief behavioural screening questionnaire about 3-16 year olds. 
-            * It was administered along with Rutter questionnaires to parents and teachers of children drawn from psychiatric clinics. 
-            * A focus on strengths as well as difficulties; better coverage of inattention, peer relationships and prosocial behaviour are its salient features.
-    * Procedures involved in children’s care at SCH:
-        * All such procedures have been recorded in a manual, therefore all cases of PCG involvement that appear in the manual have been extracted and listed below. They have been grouped under one of five headings based on the nature of involvement they denote. 
-    
+	- Evaluation Questionnaire for CLHIV (Children Living with HIV)
+	- The Strengths and Difficulties Questionnaire (SDQ):
+		- The Strengths and Difficulties Questionnaire (SDQ) is a brief behavioural screening questionnaire about 3-16 year olds. 
+		- It was administered along with Rutter questionnaires to parents and teachers of children drawn from psychiatric clinics. 
+		- A focus on strengths as well as difficulties; better coverage of inattention, peer relationships and prosocial behaviour are its salient features.
 
 
-# Barries to acceptance of alternate care models in India
-In a paper that describes existing alternate care systems in India[^7], we learn that there are socio-cultural barriers that create resistance to upholding formal alternative care in India.
-- ### Apathy: 
-	- The dislike of change creates a resistance to accepting a person (child) of a different ethnic group. Since India is a large and diverse country, the population is also diverse. Families often show resistance to accepting an unrelated child from a different background. Religion, region, caste, colour, and language of the child often become the reasons for non-acceptance by prospective foster families. In an ideal situation it is required that foster parents should respect the religious practices and beliefs of the birthparents, even though the child is in foster care. Religious beliefs of people are rigid since practices vary vastly, hence it is challenging to place a child with a family which has different religious practices
-- ### Fear of separation and emotional vulnerability: 
-	-  Indian culture gives priority to emotions and believes in developing relationships with significant others. Families in India also fear developing an emotional bond and attachment to the foster child and this creates resistance to fostering a child. 
-- ### Too much emphasis on permanent placement i.e. adoption: 
-	- Other forms/options (short term arrangements of care for the children) of alternative care are neglected by the child protection professionals since adoption has been accorded priority due to its permanent nature. 
-	- Additionally, adoption as a care placement of the children has gained recognition among the general public. 
-	- The prospective families want to have parental rights over the child they provide care for so they do not want to invest in a child without having parental rights. The families prefer to have a child permanently placed with them. 
-- ### Corruption:  
-	- As recently quoted by the CEO of  the Central Adoption Resource Authority (CARA, India), foster care has been misused/ exploited by people as certain unethical practices have crept in.
-- ### Lack of awareness:  
-	- Since the understanding and awareness of foster care and other non-institutional care options for children has not fully evolved in India, the gap between policy and practice remains. This has caused the foster care programme to become a backdoor entry into adoption or an entry point for misuse.
-- ### Preference for a younger child 
-	- One of the issues that the foster care system in India is facing is that families want a younger child. Younger children are  preferred since they easily adjust to the family and it is easy to train the child to fit into their family. 
-	- Not only in cases of adoption, but even families who had chosen foster care had expressed the desire for a young child. 
-	- The process of placing older children who could not be put up for adoption in foster care is impractical since older children are not wanted.
-- ### Ambiguous policies and guidelines:  
-	- The policies and guidelines for alternative care in India are either not in place or ambiguous. There is a need for advocacy and involvement of various stakeholders to develop effective policies and guidelines. The government and concerned departments need to take a proactive move to put the systems in place.
-- ### Lack of trained staff:  
-	- The functionaries are neither familiar with the laws and regulations nor are they well trained to deal with the issues of child protection vis-a-vis alternative care. Capacity building programmes for the functionaries working with the children need to be designed and delivered. Additionally, they should be sensitised and trained in monitoring and follow up concerns.
-- ### Lack of funds to support the children and caregivers:  
-	- The budgetary allocations to family-based alternative care provisions are meagre and are not sufficient for the requirements of the children in need of care and protection. Where funds are allocated, they are being under utilised or not utilised at all.
-- ### Large numbers of the children in need of care and protection
-	-   Since India is a huge country, the number of children in need of care and protection is also large. Hence it is a long and tiring process which takes a lot of effort and consistently hard work to develop a pool of prospective families willing to provide short term residential care for such children.
+[^8] 
+# Challenges with Restoration
+According to a paper on the challenges in social reintegration of children from institutional care, and from the Prerna guidelines, we know that these are the following challenges we observe in restoration,
 
-# Problems associated with alternative care systems:
-[^8]
-According to a paper on the challenges in social reintegration of children from institutional care, these are the following challenges we observe in different systems, 
+## Resistance from the family post-restoration: 
+- The biggest challenge for case workers following up with child victims who’ve been restored to their families is tracing them and continuing to maintain contact over time. 
+- Court Orders or Orders from the CWC are used to inform the child victim’s family about the importance of staying in touch with the JJ system for a period of one to two years, or until the child turns 18.
+- In Prerana’s experience, families may be willing to stay in touch with the organization only when they see the short-term benefits of the same.
+- -The problem with family restoration (for some children) is that the children are sent back to the same environment where they were abuse and neglected. 
+- There are sonme Parents without a sense of responsibility who are not willing to take  the child back
 
-## Family Restoration
+## Access to unqualified, traditional health service providers: 
+- Food, nutrition, and health practices differ based on a child’s socio-cultural context and might be hard to monitor regularly. 
+- Some communities may depend on unauthorized or unlicensed medical practitioners as compared to authorized professionals even while dealing with deficiencies, diseases, or infections. 
+- It can be challenging to convince and sensitize families about the significance of seeking and continuing medical treatment
 
-- The problem with family restoration (for some children) is that the children are sent back to the same environment where they were abuse and neglected. 
-- There are also children (abandoned, surrendered and orphan) who do not have family and are not adopted; in this case, the institutions find it difficult to restore them to a family environment. 
+## Resistance to victim and family counseling: 
+- The stigma associated with seeking mental health assistance often keeps children and their families from approaching professionals. Even when they do participate, as mandated by the CWC, most don’t show eager participation or feedback. 
+- The counseling process is gradual and slow. Professionals take time to build rapport. The absence of quick results may demotivate a child and their family from continuing the sessions.
+
+## Restoration directly through Court Orders: 
+- Restoration of child victims of CSE generally takes place through the CWC only after the initial due diligence. However, sometimes, families of the child victims directly approach the higher courts of law, like the Court of Sessions or move a writ of Habeas Corpus in the High Court, seeking the custody of the victims. 
+- During such times, when the courts make these decisions of restoring child victims without considering the say of the CWCs who have conducted the on-ground inquiry, restoration might prove counterproductive to the rehabilitation and eventual reintegration of the victim.
 - Furthermore, instead of changing the child's behaviour and attitude, institutional care merely restores the child without adequate planning and preparation and pressurize the parents to take the child back (if the child has some attitude or behavioural problems). 
-- Some parents who never visited their children Child does not receive moral and financial support 
-- Parents without a sense of responsibility Not willing to take back the child 
-- Children prefer to stay back - Some children refusing to be restored 
 
-Challenges of the Restoration Model:
+## Lack of sustainable economic rehabilitation: 
+- In some cases, child victims find it very difficult to stay in a job beyond a couple of weeks. They may find it hard to adjust to strict rules, feel exhausted from over-working, end up in hostile work environments with strict supervision, or suffer from health issues. Sometimes perpetrators can also reach out to them at their workplaces.
 
-The implementation of this restoration model faced a number challenges, such as:
+## Reduced contact of the case worker with the child once they are restored: 
+- When a child is in a CCI, their regular contact with the case worker helps them stay motivated. When they are restored into society, their contact with the case worker may be limited. 
+- Case workers also have significantly reduced access to the child and their day-to-day engagements. Hence, the scope and impact of enabling a positive environment for the child is limited.
 
 
-
-* Resistance from the family post-restoration: 
-    * The biggest challenge for case workers following up with child victims who’ve been restored to their families is tracing them and continuing to maintain contact over time. 
-    * Court Orders or Orders from the CWC are used to inform the child victim’s family about the importance of staying in touch with the JJ system for a period of one to two years, or until the child turns 18. 
-    * In Prerana’s experience, families may be willing to stay in touch with the organization only when they see the short-term benefits of the same.
-* Access to unqualified, traditional health service providers: 
-    * Food, nutrition, and health practices differ based on a child’s socio-cultural context and might be hard to monitor regularly. 
-    * Some communities may depend on unauthorized or unlicensed medical practitioners as compared to authorized professionals even while dealing with deficiencies, diseases, or infections. 
-    * It can be challenging to convince and sensitize families about the significance of seeking and continuing medical treatment
-* Resistance to victim and family counseling: 
-    * The stigma associated with seeking mental health assistance often keeps children and their families from approaching professionals. Even when they do participate, as mandated by the CWC, most don’t show eager participation or feedback. 
-    * The counseling process is gradual and slow. Professionals take time to build rapport. The absence of quick results may demotivate a child and their family from continuing the sessions.
-* Restoration directly through Court Orders: 
-    * Restoration of child victims of CSE generally takes place through the CWC only after the initial due diligence. However, sometimes, families of the child victims directly approach the higher courts of law, like the Court of Sessions or move a writ of Habeas Corpus in the High Court, seeking the custody of the victims. 
-    * During such times, when the courts make these decisions of restoring child victims without considering the say of the CWCs who have conducted the on-ground inquiry, restoration might prove counterproductive to the rehabilitation and eventual reintegration of the victim.
-* Lack of sustainable economic rehabilitation: 
-    * In some cases, child victims find it very difficult to stay in a job beyond a couple of weeks. They may find it hard to adjust to strict rules, feel exhausted from over-working, end up in hostile work environments with strict supervision, or suffer from health issues. Sometimes perpetrators can also reach out to them at their workplaces.
-* Reduced contact of the case worker with the child once they are restored: 
-    * When a child is in a CCI, their regular contact with the case worker helps them stay motivated. When they are restored into society, their contact with the case worker may be limited. 
-    * Case workers also have significantly reduced access to the child and their day-to-day engagements. Hence, the scope and impact of enabling a positive environment for the child is limited.
 
 
 
