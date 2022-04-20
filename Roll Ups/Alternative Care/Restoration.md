@@ -342,20 +342,23 @@ According to a guideline document on global restoration practices, we need to ke
 - Ensuring the safety of a child victim is a challenging job in non-institutional settings like families. It is much easier to adhere to the legal guidelines of safety in formal institutional set-ups because they are well-funded, either run or monitored by the state authorities.
 - Families on the other hand are independent units that may need assistance and support from time to time. As per the UN Guidelines for Alternative Care of Children, 2010, efforts need to focus on directing the child to remain or return to their parents, families, or guardians, when appropriate
 - A measure to assess and ensure the safety of CNCP is:
-	**- Social Investigation Report (SIR):**
-		- Typically, ‘found but untraced’ children or those whose rights seem to have been violated are produced before the CWC either by the Childline officials (a national child helpline service), police officials, or any ordinary citizen. 
-		- Post the initial assessment, if the parents of the child are found, the CWC decides to place the child with the parents or guardians, until the inquiry is completed. If the parents or guardians cannot be traced, then, the child is temporarily placed in a CH, until the inquiry is completed. 
-		- Often, during the period of inquiry, close relatives including the parents of the victim approach the CWC seeking the custody of the child. 
-		- In such situations, it is critical to conduct a thorough assessment of the family, especially the parents, before restoring the child to them. This procedure of inquiry is called the Social Investigation and its report is called Social Investigation Report (SIR). 
-            * The SIR needs to be completed within the 15 days of the CWC passing the Order, so that the CWC can pass a Final Order within four months of the first production of the child. 
-            * The Social Investigation includes interacting with the child, the case worker (the CCI staff) assigned to the child, as well as the Investigating Officer (the police) and any other significant individuals such as the family and school in the case as the Committee deems relevant.
-            * While the information collected and presented in the SIR is based on facts observed or recorded, there is some scope to add suggestions, recommendations, or pressing observations from the case workers
+### Social Investigation Report (SIR)
+- Typically, ‘found but untraced’ children or those whose rights seem to have been violated are produced before the CWC either by the Childline officials (a national child helpline service), police officials, or any ordinary citizen. 
+- Post the initial assessment, if the parents of the child are found, the CWC decides to place the child with the parents or guardians, until the inquiry is completed. If the parents or guardians cannot be traced, then, the child is temporarily placed in a CH, until the inquiry is completed. 
+- Often, during the period of inquiry, close relatives including the parents of the victim approach the CWC seeking the custody of the child.
+- In such situations, it is critical to conduct a thorough assessment of the family, especially the parents, before restoring the child to them. This procedure of inquiry is called the Social Investigation and its report is called Social Investigation Report (SIR). 
+	- The SIR needs to be completed within the 15 days of the CWC passing the Order, so that the CWC can pass a Final Order within four months of the first production of the child. 
+	- The Social Investigation includes interacting with the child, the case worker (the CCI staff) assigned to the child, as well as the Investigating Officer (the police) and any other significant individuals such as the family and school in the case as the Committee deems relevant.
+	- While the information collected and presented in the SIR is based on facts observed or recorded, there is some scope to add suggestions, recommendations, or pressing observations from the case workers
+- Among other things, social investigation considers the socio-economic background of the family, understands cultural practices, if any, that could make the child vulnerable to exploitation, seeks information about the family’s financial ability to look after the child, and tries to understand if the family, in any way, benefited from the child’s exploitation. 
+- During the visit, case workers also observe the family dynamics and the parents’ understanding of the victim’s vulnerability. 
+- These observations are documented in the Social Investigation Report (SIR) as these are valuable sources of information to assess whether the family is equipped to address the child’s need for care and protection.
+- The facts in the Social Investigation Report (SIR) along with the case workers’ observations, enable the CWC to make an informed decision about the child’s rehabilitation and restoration. 
 
-    ## Care and Protection 
-    * While safety has a more physical connotation of keeping the child safe, care and protection entails the socio-cultural elements of a child’s well-being.
+## Care and Protection 
+- While safety has a more physical connotation of keeping the child safe, care and protection entails the socio-cultural elements of a child’s well-being.
     * Multiple aspects are covered under the care and protection, these are:
-
-	    ### Immunity against re-trafficking
+    * ### Immunity against re-trafficking
 	    - When victims are trafficked by known persons (known as acquaintances) into the sex trade, there is a possibility of the victim being sexually maltreated, intimidated, threatened, or trafficked yet again. 
 	    - In cases where the trafficker (or their family) is in close physical proximity to the child victim and their family, their vulnerability increases. Thus, restoring a child victim in such environments may not be safe. 
 	    - The child victim’s physical proximity to the trafficker needs to be assessed and considered while conducting the inquiry and making a decision for restoration
@@ -368,12 +371,12 @@ According to a guideline document on global restoration practices, we need to ke
             * These can include peer pressure to use or sell drugs, high incidences of sexual violence against women, poor or disintegrated social protection systems, or low vigilance by local administrators and law enforcement, etc. 
             * It is critical that a child is prepared for such social vulnerabilities during restoration.
 
-        ### Access to society and opportunities:
-        - When the family is unaware of the crimes committed against their child and are made aware of the same, they might feel violated. The parents might question and re-examine their parenting style and yearn to provide a safe environment for their child. 
-        - Thus, it is likely for the families to become vigilant of the child victim’s mobility and restrict their movement beyond the house and the immediate community.
-        - The stigma associated with sexual violence might also make the family overly cautious of the victim’s social interaction, including their presence online. 
-        - This stigma can also make the family and victim feel distanced from their immediate social environment. These factors can adversely affect the child’s development.
-        - It has been observed that a family’s over-cautious behavior can lead a child victim to internalize restrictions and confinement. To avoid the same, case workers interact with the child regularly and refer them to counselors to help them deal with their emotions.
+        - ### Access to society and opportunities:
+	        - When the family is unaware of the crimes committed against their child and are made aware of the same, they might feel violated. The parents might question and re-examine their parenting style and yearn to provide a safe environment for their child. 
+	        - Thus, it is likely for the families to become vigilant of the child victim’s mobility and restrict their movement beyond the house and the immediate community.
+	        - The stigma associated with sexual violence might also make the family overly cautious of the victim’s social interaction, including their presence online. 
+	        - This stigma can also make the family and victim feel distanced from their immediate social environment. These factors can adversely affect the child’s development.
+	        - It has been observed that a family’s over-cautious behavior can lead a child victim to internalize restrictions and confinement. To avoid the same, case workers interact with the child regularly and refer them to counselors to help them deal with their emotions.
         - Thus, following measures can be taken up by a caseworker as follow up conversations after the child is restored with the family:
 	        - Determine parents’ attitude towards the child’s routine movements in the community.
 	        - Understand the challenges of the child while moving outside their home
@@ -414,8 +417,35 @@ According to a guideline document on global restoration practices, we need to ke
 - Public awareness of mental health is extremely low, especially within low-income communities, and there is a general reluctance to approach mental health services. 
 - The counseling sessions focus on dealing with trauma and post-traumatic symptoms including anxiety, self -harm, psychosomatic symptoms, building resilience, dealing with society, commitment to re-integration, and developing healthy parenting techniques
 
+### Social Protection/ Welfare Schemes
+- Social protection services are offered to the underprivileged population through identity and eligibility documents, such as a passport, ration card, or a voter ID.
+	- Aadhar card
+	- Birth Certificate
+	- School Leaving Certificate/ Transfer Certificate 
+	- Ration Card
+	- Bank Account and Passbook 
 
-	
+### Development 
+- Education is a critical need for a child and is essential for the long-term growth and socio-economic development of individuals and family units.
+- The Right of Children to Free and Compulsory Education Act, 2009 (RTE), represents the consequential legislation envisaged under Article 21-A. It means that every child has a right to free and compulsory elementary education (I std to VIII std) in a neighborhood school till the completion of their elementary education. 
+- An individual care plan captures the interest, needs and skills of the child and assesses the possibility of connecting the child with an educational institute (for regular schooling), distance learning programs, or open schools such as the National Institute of Open Schooling (NIOS), and follow-up with the child post restoration. 
+- One of the most important steps to rehabilitation and reintegration is to help young adults become economically self-reliant through long-term career prospects. 
+- Once a young adult completes vocational training and turns 18, case workers assist them extensively in getting a job. 
+	- Networking with vocation training centers and service providers: Case workers network with service providers for job prospects. 
+	- Networking with verified recruitment agencies Prerana also develops linkages with verified recruitment agencies and other retail chains or corporates to provide job opportunities for the child. 
+	- Building a portfolio: Case workers assist children in building and maintaining an online resume or profile to help them find job opportunities through verified online portals like Naukri.com. Case workers also help children send job applications and prepare for interviews. 
+	- Assisting in the process of adapting to a job: Case workers follow up with victims even after they receive a job offer to join an organization. They help them adapt to the new environment and discuss their successes and challenges on a regular basis. They may also be linked to a peer for support especially when they are new to the job market.
+	- Assisting victims in starting their ventures: If victims have acquired certain skill sets and are self-driven and independent, case workers put them in touch with service providers for enterprise-building activities. This involves financial assistance as well as mentorship to ensure that they can kickstart and run their enterprise.
+
+### Independent living skills 
+- Independent living skills such as basic financial skills, negotiating and purchasing, cooking and managing household activities, undertaking minor repair works at home, traveling independently by using public and private transport, personal care, conflict resolutions, personal safety (offline and online), crisis management, building general awareness about social and global issues, and seeking help are essential for children and young adults for their successful reintegration into the society. 
+- It is also important that these skills are imparted to all young adults, without gender biases or patriarchal norms.
+
+### Social Integration
+
+
+
+
 
 # The stages in the reintegration process
 
@@ -677,29 +707,6 @@ The following systems and processes are outlined in a document that clearly expl
         * All such procedures have been recorded in a manual, therefore all cases of PCG involvement that appear in the manual have been extracted and listed below. They have been grouped under one of five headings based on the nature of involvement they denote. 
     
 
-# Gold Standard Models 
-## Sneha Care Home - Blended Model
-* [^5]The image of the institution as a segregating form of care, cutting members off from their communities and undermining their possibilities for forming meaningful social ties is not entirely unwarranted. 
-* Staff members’ fear of what might happen to the vulnerable children under their care – which is born of their own disconnection from the children’s communities – leads to policies which further disconnect them and the children under their care from those communities. It is a vicious circle.
-* Under India’s National Aids Control Organisation (NACO), over 300 (check) Community Care Centres (CCCs) were set up with the aim of providing community outreach and ensuring accessible support and health care for PLHA. 
-* Most CCCs are faith-based – and their roles include providing medical care, forms of counselling, psychosocial, educational and nutritional support, linking individuals to ART centres and tracking drug adherence, among other things. Moreover, they help in day-to-day issues like ensuring vulnerable families have ration cards and access to the job market as well as providing vital outreach services for the community.
-* Between 2006 and 2011, the USAID (United States Agency for International Development)Samastha programme became a catalyst for increasing the number of CCCs in Karnataka (there were previously ten). The role of the Sneha Care Team within this programme was that of a mentor, offering a supportive role to the Centres.
-
-## Practices used by Sneha Care Home:
-- Once a child is accepted into SCH, working with NGOs – mainly their counsellors, outreach workers and project coordinators enables the Sneha Care Team to cultivate a vital link between the institution and the child’s community. 
-- For starters, NGOs are an integral component of SCH’s “Keep the Parents Alive” policy, which supports parents of the CLHA under its care. SCH checks up on the health situation of positive parents by keeping in touch with NGOs and on a number of occasions itself refers parents to NGOs when concerns about their health or socioeconomic well-being arise.
-- It was insisted at various points that the purpose of these visits is less to “check up” on the child than to provide its staff members with an insight into the child’s background. To date, SCH staff members have jointly managed to cover 80 percent of children’s PCGs’ homes. Staff members typically spend a maximum of thirty minutes in each house, though there is no set time. 
-- The idea is to collect basic data, including an assessment of PCGs’ economic situation and to get a feel of the children’s backgrounds and communities. Home visits were also introduced with the aim of linking children to NGOs if no prior connection existed and identifying secondary caregivers for children.
-- All the one hundred children currently at SCH were brought to the institution’s attention by Community Care Centres (CCCs), NGOs, PLHIV Networks (hereafter jointly referred to as NGOs) or by primary caregivers themselve
-- That socioeconomic factors and the desire to provide their children with an education are primary motivations for the child’s enrolment in SCH is indicated by PCGs’ own written accounts in a number of information gathering exercises carried out by SCH as well as SCH staff members in individual interviews.
-- Caring for CLHA is made more complicated still since in a number of places across India, enrolment in a community-based school is difficult for CLHA due to stigma. Misinformation fuels fears among fellow students’ parents that studying with a CLHA will put their own child at risk, often providing an effective barrier to education for this population
-- This is since many of the children are brought forward for admission through NGOs that seek out “the most vulnerable and disadvantaged children among the infected children in the area.” 73 Moreover, the Home’s policy is that “preference will be given to orphans,” and that “children of single parents and children living with parents will be considered only after assessing the family condition...”
-
-## Future-oriented policy and programs:
-- In an individual interview for the present study, father mathew described his long-term vision of establishing a mentorship programme, where individual donors who sponsor children’s material care while at SCH become a source of emotional, social and professional support throughout the child’s stay in the institutional setting as well as following discharge. The other goal is an alumni network of past SCH beneficiaries who, once discharged, may find it helpful to reach out to one another for various forms of support – much like university graduates entering a new phase of their lives.
-- *SCH’s “sibling programme**”, which was being discussed and planned at the time of this paper’s writing, is also considered key to this future-oriented approach. Fr Mathew maintains that linking the children at SCH to negative elder siblings – who are highly likely to outlive their parents – is one crucial way of ensuring some kind of long-term support for these children once they are discharged
-    *effects of institutional care and functioning after removal from the institution.
-
 
 # Barries to acceptance of alternate care models in India
 In a paper that describes existing alternate care systems in India[^7], we learn that there are socio-cultural barriers that create resistance to upholding formal alternative care in India.
@@ -769,11 +776,7 @@ The implementation of this restoration model faced a number challenges, such as:
 
 
 
-
-
-
-
-
+# References
 
 
 [^1]: [[Restoration Model by Prerana]]
