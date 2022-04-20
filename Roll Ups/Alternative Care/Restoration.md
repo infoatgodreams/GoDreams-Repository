@@ -276,45 +276,34 @@ According to a document that outlines the guidelines for reintegration of childr
 * The Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children (UN 2000);
 *  Minimum Standards for Child Protection in Humanitarian Action (CPWG 2012).
 
-# Introduction to restoration
+## Introduction to restoration
 * [^1] According to a care manual created by Prerna, restoration is the process of reuniting a child with their family is known as restoration. The process of a separated child making what is anticipated to be a permanent transition back to his or her family and community (usually of origin), in order to receive protection and care and to find a sense of belonging and purpose in all spheres of life.”
+* According to a document that outlines restoration guidelines, Family reintegration is what the majority of the separated children and their families want
 * The right of children to not be separated from one’s family and, if separated from one’s family for whatever reasons, then their right to be restored to their family has been articulated explicitly in recent laws and instruments. 
 	* Unfortunately, there may be situations where the natural or extended families, and more appropriately natural parents and close natural relatives get separated from their child, or become incompetent, disinclined to provide care and protection to their child or become a source of harm to the child. In such cases, the responsibility to provide care and protection may fall on the State. This corrective measure is also called deinstitutionalization but the term describes only a part of the larger process of restoration.
 
 
-## Why is reintegration/restoration so important? 
-- According to a document that outlines restoration guidelines, Family reintegration is what the majority of the separated children and their families want
-- According to a manual on the guidelines for institutional childcare in Ethiopia, reintegration is crucial in
-	* preventing the various psycho-social problems that arise among children due to deprivation of familial care
-	* facilitating conditions for the assimilation of children with their parents and/or members of extended family and promote their all rounded development
-	* creating opportunities for children in which they can learn familial and social values and norms living with their parents and/or members of the extended family; and
-	* supporting parents and/or members of extended families to re-assume their responsibility to cater for their children.
+## Key principles governing restoration interventions
 
-
-
-
-# Key principles governing restoration interventions
 According to a guideline document on global restoration practices, we need to keep these principles in mind while designing an effective reintegration policy. 
 
-## Prioritise family unity and be child-centred
+### Prioritise family unity and be child-centred
 * It is vital to recognise the central importance of family unity to child well-being and development and to actively explore reintegration with a child’s family of origin as the first priority to pursue. 
-* Familiesand children must be at the centre of all reintegration support efforts the value of family unity is acknowledged in international law, including the UNCRC
+* Families and children must be at the centre of all reintegration support efforts the value of family unity is acknowledged in international law, including the UNCRC
 * All decisions concerning alternative care should take full account of the desirability, in principle, of maintaining the child as close as possible to his/her habitual place of residence, in order to facilitate contact and potential reintegration with his/her family and to minimize disruption of his/her educational, cultural and social life. 
 - Siblings with existing bonds should in principle not be separated by placements in alternative care unless there is a clear risk of abuse or other justification in the best interests of the child. In any case, every effort should be made to enable siblings to maintain contact with each other, unless this is against their wishes or interests.
 
-## Embed reintegration in wider child protection systems
+### Embed reintegration in wider child protection systems
 * Safe and effective support for reintegration must be embedded within broader systems to protect children. 
 * There should be adequate funding to support reintegration, clear legislation and guidance on all of the stages of the reintegration process, and a skilled child welfare workforce able to support it.
 * Agencies should work towards properly functioning child protection systems that can adequately support the reintegration of all groups of separated children.
 
 ### Effective child protection systems include the following components 
 * National legislation and guidance: governments should work to develop and integrate policies.In cases where appropriate legislation and guidance does not exist, civil society has an advocacy role to play.
-*  A competent child welfare workforce: a mix of professional personnel, para professionals, and community volunteers Efforts should be made to encourage staff retention, thus enabling ongoing relationships with children and families.
-* Adequate resource allocations and fiscal management: Budgets should reflect all of the costs associated with reintegrating children If funds are insufficient, organisations are encouraged to advocate for more funding and proactively consider how to meet the needs of the child until reintegration is complete, even if external funds falter, as it is dangerous to reintegrate a child without adequate follow-up support and monitoring.
-* Service provision and case work individual work with children and families and an array of services.
+* A competent child welfare workforce: a mix of professional personnel, para professionals, and community volunteers Efforts should be made to encourage staff retention, thus enabling ongoing relationships with children and families.
+* Adequate resource allocations and fiscal management: Budgets should reflect all of the costs associated with reintegrating children as it is dangerous to reintegrate a child without adequate follow-up support and monitoring.
 * The engagement of a range of actors: Governments have overall responsibility for coordinating reintegration efforts, allocating adequate funding to reintegration and ensuring that efforts are properly monitored. NGOs, community groups, families and children themselves also play key roles.
 * Collaboration with other systems: it is important to design and implement programmes in collaboration with actors in other sectors – such as education, social protection, justice, economic strengthening, law enforcement and health.
-* Supportive social norms
 * Monitoring and data collection: the absence of a well-funded and functioning child protection system should not be used an excuse for failing to effectively support the reintegration of children.
 
 ### To support effective reintegration, the  staff will need to be able to do the following
@@ -326,27 +315,23 @@ According to a guideline document on global restoration practices, we need to ke
 * Create local ownership: community engagement is particularly important in addressing this stigma.
 * Act in a culturally knowledgeable way: It is important to identify solutions that leverage local methods of care and protection.
 
-## Take a rights-based approach
+### Take a rights-based approach
 * All efforts to promote safe and effective reintegration must be based on a consideration of the full range of rights included in the UNCRC, and relevant national laws.
 * They have a right to participate in all decisions that affect them, and decisions regarding their reintegration should be made with their best interests as a primary consideration.
-* Article 9 states children should not be separated from their parents unless it is in their best interests.
-* The UNCRC includes four core principles which all apply to reintegration efforts
-* Children’s rights are indivisible and interdependent, with no one right taking precedence over another.
-* As one of the first steps, all efforts should be taken to clarify any legal issues relating to the identity and documentation of the child and his or her family; that said, under the UNCRC, all children in a territory – no matter what their status – are eligible for the protection of that State and its officers, including reintegration services, whether or not they have been legally documented.
 
-## Do no harm
+### Do no harm
 * All reunification and interventions that support reintegration should aim to benefit and not harm children.
 * Agencies should carry out a full risk assessment to determine the harm that could be caused by reintegration interventions and to identify steps to mitigate risk to children, families and staff. These steps should include developing a safety plan with children so that they know who to contact if they face harm once reintegrated or if reintegration breaks down. 
 * Efforts should be made to put in place proper mechanisms for safeguarding children from abuse or violence through organisational child protection policies and procedures to reduce the risk of staff or other stakeholders abusing children at any stage in the reintegration process.
 * Throughout the process, informed consent ensures that individual children and families understand and agree to reintegration strategies and support.
 * Steps must be put in place to store records in a way that maintains confidentiality. Agencies must carefully consider what information should be shared with the family and the child.
 
-## Engage a range of stakeholders
+### Engage a range of stakeholders
 * It is vital to involve a range of stakeholders in the reintegration process including children, families, communities, schools, the media, government actors, non-governmental organisations and the private sector. 
 * Mapping and coordinating reintegration and related services is important for effective collaboration. 
 * Agencies are strongly encouraged to collaborate to ensure that all of the child’s needs are covered. This involves:
-* holding regular meetings to coordinate sharing of programme information and referral protocols, as well as system-wide monitoring and evaluation.
-* finding effective and ethical ways to share case information, and considering joint programming initiatives.
+	* holding regular meetings to coordinate sharing of programme information and referral protocols, as well as system-wide monitoring and evaluation.
+	* finding effective and ethical ways to share case information, and considering joint programming initiatives.
 
 
 # Identified Needs in Restoring Children
