@@ -241,33 +241,32 @@ According to a paper on alternative care in India, these are the existing commun
     * For this reason, foster care or adoption are typically presented as viable alternatives to institutional care for these children to be able to be brought up in an environment which is as home-like as possible.
 - Most relevant to the present study, the striking absence of foster care and low rates of adoption across India have been noted. 
 
-## Community-based care and institutional care cater for the same populations:
+## Community-based care and institutional care cater for the same populations is untrue
 - Community-based organisations and social welfare agencies are seen as being able to provide support to the families (biological or otherwise) of vulnerable children while keeping the latter out of institutions. 
     * Yet here too, assuming that the “alternative” of community care targets the same populations that would otherwise have resided in institutions is problematic 
     * Social service “Creaming”:
         * The problem of “creaming” in social services remains a glaring one. As Schuerman has noted, “many programs appear to favour the acceptance of better or easier cases, cases that are relatively less needy.”
         * The idea that the acutely vulnerable can be equally and even better served by targeted social policies is challenged by these findings.
-    * Weakened pubic voice:
-        * One of the serious consequences of dismantling these kinds of pioneering institutions is the resulting fragmentation of vulnerable populations from a public voice point of view.
+
+## Weakened pubic voice:
+- One of the serious consequences of dismantling these kinds of pioneering institutions is the resulting fragmentation of vulnerable populations from a public voice point of view.
         * It has often been commented that one of the injustices of a democratic society is that even as it purports to provide everyone with a voice, it is repeatedly those most capable of organizing themselves effectively that are heard. 
         * The cruel irony being that those encountering serious barriers to that kind of organization (economic, educational, health related etc) – are likely to be those whose needs are most urgent 
     * Experience has shown that in a number of cases, the two cater for different types of populations – with those in institutional care typically exhibiting a plethora of problems that make their stay in a facility which can address those multiple needs the best option for them. 
     * The fact that community-based care and care in an institutional setting tend to target different populations makes the promotion of one over the other deeply problematic.
-* Family (re)integration and community (re)integration as unproblematic concepts:
-    * This is an important point since in almost all cases the stated goal of the “alternatives” agenda is that of “family reintegration” for the institutionalized whose biological families are alive or “family integration” for those put up for adoption, or who are entered into foster or kinship care. 
-    * Community integration or reintegration is seen as flowing automatically once children are transferred from an institution to a family setting.
-    * The documents appear to present the goals of family integration and successful community integration as synonymous. This is despite the worrying findings that a sizable number of children who are placed in foster care “age out” in the system and enter society woefully ill equipped for successful “community integration.”
-    * The point is not to argue that institutional care prepares children for independent living while the proposed “alternatives” do not. Instead it is to say that the rigid goal of “family integration at all costs” does not ensure successful community integration and may in some cases positively discourage it. 
-    * That is if “community integration” is understood to be an independent adult with the skills to build a life for him or herself wherever he or she chooses rather than simply being physically part of a community. 
-    * Father Mathew at SCH points out that this apparent disjuncture between child and youth policy is particularly worrying in light of recent reports on the unemployability of the vast majority of Indian youth
-    * Future-oriented policy and programs:
-        * Whilst it has rightly been argued that child policy which sees the child as an ‘adult in waiting’ more than a ‘child in the here and now’ creates its own problems,53 few would deny the serious costs to both children and society – of creating short-sighted child policies – particularly for vulnerable children.
-        * In an individual interview for the present study, father mathew described his long-term vision of establishing a mentorship programme, where individual donors who sponsor children’s material care while at SCH become a source of emotional, social and professional support throughout the child’s stay in the institutional setting as well as following discharge. The other goal is an alumni network of past SCH beneficiaries who, once discharged, may find it helpful to reach out to one another for various forms of support – much like university graduates entering a new phase of their lives.
-        * **SCH’s “sibling programme**”, which was being discussed and planned at the time of this paper’s writing, is also considered key to this future-oriented approach. Fr Mathew maintains that linking the children at SCH to negative elder siblings – who are highly likely to outlive their parents – is one crucial way of ensuring some kind of long-term support for these children once they are discharged
-    *effects of institutional care and functioning after removal from the institution.
+
+## Family (re)integration and community (re)integration are not unproblematic concepts:
+- “community integration” is understood to be an independent adult with the skills to build a life for him or herself wherever he or she chooses rather than simply being physically part of a community. 
+- Community integration or reintegration is seen as flowing automatically once children are transferred from an institution to a family setting. The documents appear to present the goals of family integration and successful community integration as synonymous. This is despite the worrying findings that a sizable number of children who are placed in foster care “age out” in the system and enter society woefully ill equipped for successful “community integration.”
+- The point is not to argue that institutional care prepares children for independent living while the proposed “alternatives” do not. Instead it is to say that the rigid goal of “family integration at all costs” does not ensure successful community integration and may in some cases positively discourage it. 
+- Father Mathew at SCH points out that this apparent disjuncture between child and youth policy is particularly worrying in light of recent reports on the unemployability of the vast majority of Indian youth
+    
 
 
-# Legal and Policy Frameworks on Restoration
+
+# Restoration/Family Reintegration
+
+## Legal and Policy Frameworks on Restoration
 [^2]
 According to a document that outlines the guidelines for reintegration of children to families, these guidelines are based on
 * The UN Convention on the Rights of the Child (UNCRC) (UN 1989);
@@ -682,11 +681,11 @@ The following systems and processes are outlined in a document that clearly expl
 - Caring for CLHA is made more complicated still since in a number of places across India, enrolment in a community-based school is difficult for CLHA due to stigma. Misinformation fuels fears among fellow students’ parents that studying with a CLHA will put their own child at risk, often providing an effective barrier to education for this population
 - This is since many of the children are brought forward for admission through NGOs that seek out “the most vulnerable and disadvantaged children among the infected children in the area.” 73 Moreover, the Home’s policy is that “preference will be given to orphans,” and that “children of single parents and children living with parents will be considered only after assessing the family condition...”
 
-### Role of Primary Caregivers (PCGs):
-- It should be noted at the outset that “primary caregiver” is the technical term used by SCH to refer to the person – outside of SCH staff who is primarily responsible for any major decisions regarding the child. The primary caregiver is responsible for decisions like the child’s enrolment in SCH (subject to SCH acceptance) and discharge. The primary caregiver is also responsible for phoning and visiting the child and taking the child home for holiday(s). 
-- Unless the point calls for specification as to whether a parent, extended kin or an non-relative entrusted with the child’s care is being referred to, the “PCG” (primary caregiver) will be used, and should be taken to mean any of these three.
-- Certainly, SCH’s “Keep the parents alive” policy – which networks with NGOs to ensure infected parents of the children under its care receive adequate medical care and supervision is a form of “empowering
-- “Teaching” PCGs did not preclude the latter’s possibilities for empowered caregiving, indeed it positively facilitated it. In their interviews, SCH staff members maintained that their links with NGOs help to promote as far as possible, benefits such as access to ration cards and employment for a number of the family members of children under their care.
+## Future-oriented policy and programs:
+- In an individual interview for the present study, father mathew described his long-term vision of establishing a mentorship programme, where individual donors who sponsor children’s material care while at SCH become a source of emotional, social and professional support throughout the child’s stay in the institutional setting as well as following discharge. The other goal is an alumni network of past SCH beneficiaries who, once discharged, may find it helpful to reach out to one another for various forms of support – much like university graduates entering a new phase of their lives.
+- *SCH’s “sibling programme**”, which was being discussed and planned at the time of this paper’s writing, is also considered key to this future-oriented approach. Fr Mathew maintains that linking the children at SCH to negative elder siblings – who are highly likely to outlive their parents – is one crucial way of ensuring some kind of long-term support for these children once they are discharged
+    *effects of institutional care and functioning after removal from the institution.
+
 
 # Barries to acceptance of alternate care models in India
 In a paper that describes existing alternate care systems in India[^7], we learn that there are socio-cultural barriers that create resistance to upholding formal alternative care in India.
