@@ -240,17 +240,11 @@ According to a paper on alternative care in India, these are the existing commun
 - Even the staunchest advocates of family-based care appreciate that this is not always possible – either because the child has been orphaned or because some biological parents for medical or other reasons are unable to care for their child. 
     * For this reason, foster care or adoption are typically presented as viable alternatives to institutional care for these children to be able to be brought up in an environment which is as home-like as possible.
 - Most relevant to the present study, the striking absence of foster care and low rates of adoption across India have been noted. 
-        * Various reasons for why foster care has proven difficult to implement in India have been cited – but they include 
 * Community-based care and institutional care cater for the same populations:
     * Community-based organisations and social welfare agencies are seen as being able to provide support to the families (biological or otherwise) of vulnerable children while keeping the latter out of institutions. 
     * Yet here too, assuming that the “alternative” of community care targets the same populations that would otherwise have resided in institutions is problematic 
     * Social service “Creaming”:
-        * The problem of “creaming” in social services remains a glaring one. As Schuerman has noted, “many programs appear to favour the acceptance of''better `` or''easier `` cases, cases that are relatively less needy.”
-        * Targeted Intervention programs in India:
-            * In the case of India, a look at how Targeted Intervention programs (TIs) for PLHA have fared is instructive. TIs have been one of the main mechanisms for reducing transmission of HIV across India under the National AIDS Control Programme (NACP-II). 
-            * Statistics indicate that 2008 saw a significant decline in transmission rates amongst female sex workers in high HIV prevalence southern districts as compared to 2001 in places where TIs were intense. Yet a 2007 parliamentary committee report reveals that this is only part of the picture. 
-            * As of 2007, 45% of sex workers, 47% of injecting drug users and a staggering 94% of men who have sex with men – all considered “target” vulnerable populations – had not received any intervention.
-            *  Moreover, the committee noted that the Department of Health presented no figures for the Male Sex Worker population, suggesting that they either “do not have the figures of estimated coverage or they are simply not covered at all.” 
+        * The problem of “creaming” in social services remains a glaring one. As Schuerman has noted, “many programs appear to favour the acceptance of better or easier cases, cases that are relatively less needy.”
         * The idea that the acutely vulnerable can be equally and even better served by targeted social policies is challenged by these findings.
     * Weakened pubic voice:
         * One of the serious consequences of dismantling these kinds of pioneering institutions is the resulting fragmentation of vulnerable populations from a public voice point of view.
