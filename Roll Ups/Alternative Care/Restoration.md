@@ -401,6 +401,20 @@ According to a guideline document on global restoration practices, we need to ke
 - This includes, and is not limited to, waste disposal mechanisms, usage and disposal of wastewater, access to bathrooms and toilets, and water for drinking and household purposes. 
 - Although the access to toilets and bathrooms does not determine the decision to restore a child with their family, it is an essential part of the post-restoration follow-up.
 - Discuss the challenges with relevant authorities (local CSOs, community leaders, other civic authorities) and draw up possible measures in overcoming these challenges.
+- Personal hygiene practices need to be continued once the child is restored to their family, especially in low-income, urban communities with space and resource constraints.
+
+### Physical Health
+- Physical health of a child is critical during post-restoration follow-up. Sometimes, medical conditions can arise once the child is restored with their family. 
+- Before a child is restored to their family, a detailed physical assessment is conducted by the CCI. If the child is undergoing treatment, the continuation of that treatment post restoration becomes an integral part of the child’s rehabilitation plan. 
+- Certified medical systems, or qualified, state authorized services recognized by the competent authorities, including super-specialized services are essential for diagnosis and treatment of the child
+- Conduct regular follow-ups: Case workers also actively follow up with family and/or with the health facility on the treatment that is being provided to the child after restoration.
+- Provide financial assistance: Sometimes, case workers also link families to medical sponsorships or referral to a private hospital or clinic pro bono depending on the family’s financial capacities
+
+### Mental Health
+- Public awareness of mental health is extremely low, especially within low-income communities, and there is a general reluctance to approach mental health services. 
+- The counseling sessions focus on dealing with trauma and post-traumatic symptoms including anxiety, self -harm, psychosomatic symptoms, building resilience, dealing with society, commitment to re-integration, and developing healthy parenting techniques
+
+
 	
 
 # The stages in the reintegration process
