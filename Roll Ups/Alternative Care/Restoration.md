@@ -266,7 +266,7 @@ According to a paper on alternative care in India, these are the existing commun
 
 # Restoration/Family Reintegration
 
-## Legal and Policy Frameworks on Restoration
+## Global Legal and Policy Frameworks on Restoration
 [^2]
 According to a document that outlines the guidelines for reintegration of children to families, these guidelines are based on
 * The UN Convention on the Rights of the Child (UNCRC) (UN 1989);
@@ -276,7 +276,7 @@ According to a document that outlines the guidelines for reintegration of childr
 * The Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children (UN 2000);
 *  Minimum Standards for Child Protection in Humanitarian Action (CPWG 2012).
 
-# Restoration
+# 
 * [^1] According to a care manual created by Prerna, **Definition: The process of reuniting a child with their family is known as restoration**
 * The right of children to not be separated from one’s family and, if separated from one’s family for whatever reasons, then their right to be restored to their family has been articulated explicitly in recent laws and instruments. 
 	* Unfortunately, there may be situations where the natural or extended families, and more appropriately natural parents and close natural relatives get separated from their child, or become incompetent, disinclined to provide care and protection to their child or become a source of harm to the child. In such cases, the responsibility to provide care and protection may fall on the State. This corrective measure is also called deinstitutionalization but the term describes only a part of the larger process of restoration.
