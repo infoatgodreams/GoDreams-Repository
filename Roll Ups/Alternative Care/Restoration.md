@@ -147,6 +147,9 @@ According to a paper on alternative care in India, these are the existing commun
 - There is a general lack of awareness about foster care systems in the country. 
 - Surprisingly, some institutional care settings are unaware of the policy and programme for keeping a child in foster care. 
 - The institutional staff that are aware of the programme are also confused with whom to approach and avail the services as it is not effective. Therefore, the staff who prepare the individual care plan for each child do not select or recommend these methods for the rehabilitation and social integration of children because they do not function effectively.
+- According to Sneha Care home, there are “problems of ‘matching’ children and foster carers around issues of caste, religion, colour and language.” 
+	- Interestingly, work on child care in Cape Town, has also pointed to the dearth of formal foster care or adoption amongst the Indian community compared to the African community during the apartheid era -suggesting that this resistance to foster care may not be transient .
+-  With the stigma surrounding HIV/ AIDS being so strong, the prospect of being fostered or adopted is an even more distant one for Indian CLHA.
 
 
 ## Kinship Care
@@ -236,13 +239,8 @@ According to a paper on alternative care in India, these are the existing commun
 ## Family and community-based care are not the universally best options
 - Even the staunchest advocates of family-based care appreciate that this is not always possible – either because the child has been orphaned or because some biological parents for medical or other reasons are unable to care for their child. 
     * For this reason, foster care or adoption are typically presented as viable alternatives to institutional care for these children to be able to be brought up in an environment which is as home-like as possible.
-    * Adoption and Foster care in India:
-        * Most relevant to the present study, the striking absence of foster care across India has been noted. 
+- Most relevant to the present study, the striking absence of foster care and low rates of adoption across India have been noted. 
         * Various reasons for why foster care has proven difficult to implement in India have been cited – but they include 
-            * the difficulties of identifying foster carers with “appropriate motivation and adequate housing” 
-            * and “problems of ‘matching’ children and foster carers around issues of caste, religion, colour and language.”  
-        * Interestingly, work on child care in Cape Town, has also pointed to the dearth of formal foster care or adoption amongst the Indian community compared to the African community during the apartheid era -suggesting that this resistance to foster care may not be transient .
-        * With the stigma surrounding HIV/ AIDS being so strong that many infected children are actually (unofficially) prevented from attending school in their communities owing to the fear of fellow students’ parents, the prospect of being fostered or adopted is an even more distant one for Indian CLHA.
 * Community-based care and institutional care cater for the same populations:
     * Community-based organisations and social welfare agencies are seen as being able to provide support to the families (biological or otherwise) of vulnerable children while keeping the latter out of institutions. 
     * Yet here too, assuming that the “alternative” of community care targets the same populations that would otherwise have resided in institutions is problematic 
