@@ -5,43 +5,48 @@ tags:
 - Rollups
 ---
 
-The need for alternative care systems
-Foster care 
-Adoption
-Restoration
 
 
 # What puts children in institutions? 
 * According to a massive meta analysis on institutionalisation[^6], 
-	* Despite institutions often being described as orphanages, studies show that 80–90% of children residing in them have a living parent. 
-    * Poverty is often cited as the main reason for institutional placement, along with access to health care and education. However, the majority of poor families do not place their children in institutions, and more complex causes are involved, such as the social marginalisation that can accompany childbearing outside of marriage.
-    * Emergencies and disasters can also lead to a child being placed in an institution on the assumption that they were orphaned, even though they might not have been.
+	* Studies show that **80–90% of children residing in them have a living parent**. 
+    * Poverty is often cited as the main reason for institutional placement, along with access to health care and education. However, the majority of poor families do not place their children in institutions, and more complex causes are involved, such as the **social marginalisation that can accompany childbearing outside of marriage**.
+    * **Emergencies and disasters** can also lead to a child being placed in an institution
     * Child abuse within families is not cited as a common reason for placement in institutions in lower income countries, but is more so in higher income settings.
-    * In summary, the entry of children into institutions is the result of multiple drivers, such as poverty, parental mental health problems, disability, or parental death from disease. Cultural factors might also have a role in the placement of children in institutions, as is the case when children are born outside of marriage to young mothers in some societies. Very few children worldwide have access to professional case management during placement decisions.
+
+
+# How do we better gatekeeping entry into institutions?
+According to a report on Alternative care, authored by Udayan Care [^9]
+- Preventing separation of children from families
+- Political commitment and accountability to keep children within families
+- Assessment and documentation of the child and family situation in a multi-sectoral context
+- Engagement with and empowerment of family members and community
+- Regular review and complaint mechanism, reunification with family, wherever possible,
+- High quality, accessible, and affordable, services for all, targeted and specialised for those in need
+- Child budgeting, measuring the costs and social return of well-being of children
+- Supporting transition of children successfully
+- Placing children in alternative care in the best way possible 
+- Monitoring all children in alternative care. 
+
 
 
 # The Need for Alternative Care Systems
-According to a massive review on institutionalisation, 
--  The effect of institutionalisation: Meta-analytical results
-    * In 80% of the studies we analysed, the effects of institutionalisation were assessed by comparing children in institutions with norm groups (eg, with average anthropometric growth curves) or children living with their biological parents; in 20% of the studies, the comparisons were made with adopted children, with children living in foster families, or with children living in kinship care.
-    * The meta­analysis found that residency in an institution is associated with substantial developmental delays and deviations (table 1; figure 3).
-    * Institutionalisation is strongly associated with delays in physical growth, brain development, cognitive development, and attention, with combined effects sizes (Hedges’ g) ranging from 0·50 to 1·44.
-    * The combined effect sizes for physical health (0·29) and socioemotional development (0·32) are smaller.
-    * Thus, the greatest effects on children were delayed physical growth (height and weight for age) and delayed brain and cognitive development, to the extent that in these developmental domains at least 80% of the institutionalised group are below the mean of the comparisons.
-    * The more modest effect sizes for institutionalisation in the domains of physical health and socioemotional development might be partly explained by measurement issues.
-    * First, in several studies the assessments were done many months to years after the children left the institution, potentially diluting the effects of institu tionalisation with postinstitutional experiences.
-    * Studies assessing the children’s physical health within a year after leaving an institution showed substantial adverse effects (Hedges’ g 0·63).
-    * Of note, dental health was included as part of the measurement of physical health in some studies and was sometimes better in children in institutions than in their peers who had not lived in an institution.
-    * An important limitation is that most of the studies of socioemotional development (including mental health) used standard parent or caregiver questionnaires not designed to measure social deficits thought to be specific to children living in institutions.
-    * The smaller effects on socioemotional development might also reflect children in institutions having learnt not to express emotion because of the oppressive and neglectful regimes under which these children often live.
-    * The results might therefore underestimate the amount of disorder in children who have left institutions.
-    * To evaluate the effect of institutionalisation on attachment, we compared the distribution of attachment within institutions to the normative distribution in typically developing children growing up in birth families.
-    * Only a few children developed a secure attachment relationship with the closest caregiver within the institution.
-    * In 11 studies including 471 children (figure 6), the proportion of securely attached children in institutions (24%) was significantly lower than the normative proportion (62%; Hedges’ g 0·76).
-    * The effects of institutionalisation on growth and development might vary as a function of age of assessment, which ranged from infancy to adolescence.
-    * The largest delays for physical growth and for cognitive development emerge in infancy and early childhood up to age 42 months (table 1; figure 3).
-    * By contrast, attention problems tend to increase with age, possibly because executive attention generally develops later, so problems might be difficult to detect in early childhood.
-    * In terms of cognitive and socioemotional development and attention, boys had more delays than girls after growing up in institutions. Girls had more delays in physical health.
+According to a massive meta-analysis on institutionalisation[^6], 
+
+### Developmental concerns
+- The meta analysis found that residency in an institution is associated with substantial developmental delays and deviations
+- Institutionalisation is strongly associated with delays in physical growth, brain development, cognitive development, and attention.
+- The greatest effects on children were delayed physical growth (height and weight for age) and delayed brain and cognitive development, to the extent that in these developmental domains at least 80% of the institutionalised group are below the mean of the comparisons.
+- The smaller effects on socioemotional development might also reflect children in institutions having learnt not to express emotion because of the oppressive and neglectful regimes under which these children often live.
+- The largest delays for physical growth and for cognitive development emerge in infancy and early childhood up to age 42 months
+
+### Health concerns (Physical & Mental Health)
+- Studies assessing the children’s physical health within a year after leaving an institution showed substantial adverse effects 
+	*- Of note, dental health was included as part of the measurement of physical health in some studies and was sometimes better in children in institutions than in their peers who had not lived in an institution.* (*counterintuitive*)
+- Only a few children developed a secure attachment relationship with the closest caregiver within the institution.
+- Attention problems tend to increase with age, possibly because executive attention generally develops later, so problems might be difficult to detect in early childhood.
+- In terms of cognitive and socioemotional development and attention, boys had more delays than girls after growing up in institutions. Girls had more delays in physical health.
+
 * Comparison with the Bucharest Early Intervention Project
     * Compared with the meta­analytical results, delays in cognitive development are more pronounced in the BEIP. The BEIP and the meta­analysis showed similar results for the other developmental domains (overlapping 95% CIs are shown in table 1), and this convergence of non experimental results with the experimental results contributes to the robustness of our meta­analytical findings.
 * Benefits of deinstitutionalisation: Meta-analytical results
@@ -733,4 +738,5 @@ According to a paper on the challenges in social reintegration of children from 
 [^6]: [[Institutionalisation and deinstitutionalisation of children, a systematic and integrative review of evidence regarding effects on development]]
 [^7]: [[Alternative Care in India, Issues and Prospects]]
 [^8]: [[Child care institutions in India Investigating issues and challenges in children’s rehabilitation and social integration]]
-[^9]: 
+[^9]: [[Alternative Care for Children, Udayan Care]]
+[^10]: 
