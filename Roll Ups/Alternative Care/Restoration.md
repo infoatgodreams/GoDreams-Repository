@@ -150,15 +150,22 @@ According to a paper on alternative care in India, these are the existing commun
 
 
 ## Kinship Care
-- Kinship care is full time care of a child by a relative or member of the extended family (Bromfield and Osborn, 2007). This is an arrangement which is the most common form of alternative care worldwide. It is characteristically managed without formal legal intervention. In numerous developing nations, kinship is fundamentally the only form of alternative care available (UNICEF, 2006).
+- Kinship care is full time care of a child by a relative or member of the extended family (Bromfield and Osborn, 2007). 
+- This is an arrangement which is the most common form of alternative care worldwide. It is characteristically managed without formal legal intervention. In numerous developing nations, kinship is fundamentally the only form of alternative care available (UNICEF, 2006).
 -  It offers many advantages over other forms of care since it permits family relationships to continue, keeps the children within their culture and community, and avoids the anxieties associated with the placement of children with unfamiliar adults and families.  
 
 ## Sponsorship 
 - Sponsorship is providing of additional financial support to families who are unable to meet educational and other needs of their children, due to a number of reasons.
--  The assistance is towards meeting expenditures on medical, nutritional and educational and other needs of the child, allowing the child to continue and stay with their biological families. 
+- The assistance is towards meeting expenditures on medical, nutritional and educational and other needs of the child, allowing the child to continue and stay with their biological families. 
 - Working with the family as a unit is a very effective approach in sponsorship. Eventually, families are trained to become self reliant and independent through long-term rehabilitation plans that is self-sustainable. 
-- NIAC reflects the shift in childcare from the “Welfare” to the “Developmental” and from the “Needs” to the “Rights” and from “Institutional Care” to “Non-Institutional Alternative Care”. A collective and co-ordinated approach that focused on family and community based care for children and youth is a step in the right direction of child protection.
-  
+- It is of two types preventive and rehabilitative. As the name suggests, the former prevents the children from being institutionalized and later rehabilitating and integrating children out of the institutions to the family (The Integrated Child Protection Scheme, 2014). 
+
+### Problems with sponsorship
+- The study shows that not a single child from the twenty childcare institutions uses the scheme to help children’s institutional recovery. Two children from one institution were chosen for sponsorship but were not funded (although the selection list was declared more than a year ago). 
+- Parents tend to keep the children in institutional care rather than receive a mere two thousand rupees.
+- There is no proper knowledge in the community as such people are unaware of the programmes. 
+- Moreover, institutional care providers are also unaware of the programme 
+- The delay in sanctioning money was another reason why the sponsorshop programme fails. 
 
 ## Current push for deinstitutionalization 
 * **UNICEF** has declared its support for programmes “including provision of information on the detrimental impact of institutional care on the young child, and education for parents of children with disabilities and parents at risk of abandoning their infants' ' to discourage the use of institutional care. 
