@@ -76,7 +76,7 @@ According to a massive meta-analysis on institutionalisation[^6],
     * “Permanency Planning” programmes – which aim to support families to care for children in their homes – have been introduced, “at least on a trial basis,” in almost every state
 	* Small group homes which are argued to be more personal than large institutions and guardianship are included as “subalternatives.”
 
-- According to a paper on alternative care in India, these are the existing community-based care models in India:
+According to a paper on alternative care in India, these are the existing community-based care models in India:
 
 ## Community Based Child Protection
 
