@@ -276,16 +276,14 @@ According to a document that outlines the guidelines for reintegration of childr
 * The Protocol to Prevent, Suppress and Punish Trafficking in Persons, Especially Women and Children (UN 2000);
 *  Minimum Standards for Child Protection in Humanitarian Action (CPWG 2012).
 
-# 
-* [^1] According to a care manual created by Prerna, **Definition: The process of reuniting a child with their family is known as restoration**
+# Introduction to restoration
+* [^1] According to a care manual created by Prerna, restoration is the process of reuniting a child with their family is known as restoration. The process of a separated child making what is anticipated to be a permanent transition back to his or her family and community (usually of origin), in order to receive protection and care and to find a sense of belonging and purpose in all spheres of life.”
 * The right of children to not be separated from one’s family and, if separated from one’s family for whatever reasons, then their right to be restored to their family has been articulated explicitly in recent laws and instruments. 
 	* Unfortunately, there may be situations where the natural or extended families, and more appropriately natural parents and close natural relatives get separated from their child, or become incompetent, disinclined to provide care and protection to their child or become a source of harm to the child. In such cases, the responsibility to provide care and protection may fall on the State. This corrective measure is also called deinstitutionalization but the term describes only a part of the larger process of restoration.
-* According to a document that outlines restoration guidelines, Family reintegration is what the majority of the separated children and their families want (BCN et al. 2013). 
-	* These guidelines explores principles of good practice in children’s reintegration aimed primarily at child protection programme managers in low and lower-middleincome contexts. 
-	* The guidelines cover reintegration back into families of origin and do not coverplacement into alternative care or new families through adoption or similar practices.
-	* **Definition of Reintegration**: “The process of a separated child making what is anticipated to be a permanent transition back to his or her family and community (usually of origin), in order to receive protection and care and to find a sense of belonging and purpose in all spheres of life.”
+
 
 ## Why is reintegration/restoration so important? 
+- According to a document that outlines restoration guidelines, Family reintegration is what the majority of the separated children and their families want
 - According to a manual on the guidelines for institutional childcare in Ethiopia, reintegration is crucial in
 	* preventing the various psycho-social problems that arise among children due to deprivation of familial care
 	* facilitating conditions for the assimilation of children with their parents and/or members of extended family and promote their all rounded development
