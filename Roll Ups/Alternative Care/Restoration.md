@@ -58,13 +58,13 @@ According to a massive review on institutionalisation,
     * Furthermore, in many of the domains that did show an intervention effect, children in foster care rarely did as well as children who had never been institutionalised.
     * Whether this absence of full remediation reflects late age at placement (ie, average age at placement was about 22 months) or sample bias (eg, are children who were abandoned by their parents different from children who were not abandoned) is unclear.
     * The convergence of the correlational meta analytical results and the experimental BEIP findings is reassuring for both the internal validity of the metaanalytical results (potential confounders do not seem to dominate the meta analytical outcome) as well as the external validity of the BEIP results. The convergence reciprocally supports both approaches.
-    * * We found compelling evidence that institutional care is associated with negative developmental outcomes. The negative effects are greatest with regard to physical growth (including brain growth as indexed by head circumference) and cognition, and are strong in relation to attention problems (eg, attention­deficit hyperactivity disorder).
+    * * We found compelling evidence that institutional care is associated with negative developmental outcomes. The negative effects are greatest with regard to physical growth (including brain growth as indexed by head circumference) and cognition, and are strong in relation to attention problems (eg, attention deficit hyperactivity disorder).
 	* Effects appear to vary as a function of the type of institutional care—ie, its duration and quality—with the suggestion that children aged 6–24 months are especially susceptible to the effects of institutional care.
-	* Evidence of catch­up or recovery following deinstitutionalisation has been shown, although many affected children do not show full catch­up, especially children with extended deprivation.
+	* Evidence of catch up or recovery following deinstitutionalisation has been shown, although many affected children do not show full catchup, especially children with extended deprivation.
 	* Despite this, many children who have left institutions adapt reasonably well. Given the corroboration of observational results by data from the BEIP randomised controlled trial data, evidence for the causal benefits of deinstitutionalisation is quite strong
-	* Nevertheless, meta analytical estimates converged with the findings of the only experimental trial in this field, the BEIP,6 which controlled for potential differences between children in institutions using random assignment to foster care or prolonged institutionalisation. More experimental and quasi­experimental studies are needed that make creative use of alternative approaches, such as propensity score matching, instrumental variables, or Mendelian experiments, to broaden the evidence base.
+	* Nevertheless, meta analytical estimates converged with the findings of the only experimental trial in this field, the BEIP,6 which controlled for potential differences between children in institutions using random assignment to foster care or prolonged institutionalisation. More experimental and quasi-experimental studies are needed that make creative use of alternative approaches, such as propensity score matching, instrumental variables, or Mendelian experiments, to broaden the evidence base.
 	* In general, we suggest that the evidence presented here underestimates rather than overestimates the effect of institutionalisation and deinstitutionalisation on children’s development.
-	* In particular, the commonly used instruments might not capture some of the unique effects of institutional care, and typical outcomes such as quasi­autism and indiscriminate social behaviours are often not systematically assessed.
+	* In particular, the commonly used instruments might not capture some of the unique effects of institutional care, and typical outcomes such as quasi-autism and indiscriminate social behaviours are often not systematically assessed.
 	* The average effect of institutionalisation is an underestimation for some children and an overestimation for other children.13
 	* Not all children are affected to the same extent, and which individual factors make them more or less susceptible to the negative effect of institutional care needs further investigation.
 	* The policy Commission has two core propositions: that children’s exposure to institutionalised living should be avoided completely if possible, or minimised if not, and that to achieve this first proposition, extended kinship families need to be supported where possible, and adoptive or stable foster­family care should be supported where necessary.
@@ -665,6 +665,58 @@ In a paper that describes existing alternate care systems in India[^7], we learn
 - ### Large numbers of the children in need of care and protection
 	-   Since India is a huge country, the number of children in need of care and protection is also large. Hence it is a long and tiring process which takes a lot of effort and consistently hard work to develop a pool of prospective families willing to provide short term residential care for such children.
 
+# Problems associated with alternative care systems:
+[^8]
+According to a paper on the challenges in social reintegration of children from institutional care, these are the following challenges we observe in different systems, 
+
+## Family Restoration
+
+- The problem with family restoration (for some children) is that the children are sent back to the same environment where they were abuse and neglected. 
+- There are also children (abandoned, surrendered and orphan) who do not have family and are not adopted; in this case, the institutions find it difficult to restore them to a family environment. 
+- Furthermore, instead of changing the child's behaviour and attitude, institutional care merely restores the child without adequate planning and preparation and pressurize the parents to take the child back (if the child has some attitude or behavioural problems). 
+- Some parents who never visited their children Child does not receive moral and financial support 
+- Parents without a sense of responsibility Not willing to take back the child 
+- Children prefer to stay back - Some children refusing to be restored 
+
+## Sponsorship
+
+### What is sponsorship?
+- Preventing institutionalizing and rehabilitating and social integrating through sponsorship Sponsorship is another method for rehabilitating and social integrating of children. 
+- The programme helps in preventing a child from being institutionalized and restores the child to the family. 
+- It is of two types preventive and rehabilitative. As the name suggests, the former prevents the children from being institutionalized and later rehabilitating and integrating children out of the institutions to the family (The Integrated Child Protection Scheme, 2014). 
+
+### Problems with sponsorship
+- The study shows that not a single child from the twenty childcare institutions uses the scheme to help children’s institutional recovery. Two children from one institution were chosen for sponsorship but were not funded (although the selection list was declared more than a year ago). 
+- Parents tend to keep the children in institutional care rather than receive a mere two thousand rupees.
+- There is no proper knowledge in the community as such people are unaware of the programmes. 
+- Moreover, institutional care providers are also unaware of the programme 
+- The delay in sanctioning money was another reason why the sponsorshop programme fails. 
+
+## Foster Care
+- Foster care as means for preparing children ’ s rehabilitation and social integration Like adoption, foster care is also one way for children to be rehabilitated and socially integrated. 
+- Children still can be in a family environment; however, it is just temporary. It is one way of preparing for the adoption of children. 
+- The child welfare committee makes the final decision for foster care after studying the family's intent, capacity, and experiences living with children. Foster parents are also responsible for the health, education, nutrition and well-being of children compared to adoption (The Juvenile Justice (Care and Protection of Children) Act, 2015, n.d.)
+
+### Problems with foster care
+- The study indicates that not a single child from the twenty child care institutions is placed in a foster care facility. 
+- Surprisingly, some insti tutional cares are unaware of the policy and programme for keeping a child in foster care. 
+- The institutional staffs that are aware of the programme are also confused with whom to approach and avail the services as it is not effective. Therefore, the staffs who prepare the individual care plan for each child do not select or recommend these methods for the rehabilitation and social integration of children because they do not function effectively.
+- The caregiver also points out that people do not inquire about taking in children for foster care which is also one of the reasons for not keeping child in a foster care. This certainly violates children’s rights to foster care and with a family. 
+
+## Problems with Adoption
+
+### Rules and guidelines
+- It is stated and also observed that the rules are rigid, the procedures are lengthy, and the state scenario is not always applicable. While it prohibits unlawful adoption of children, it is difficult for parents to adopt a child because parents must be physically, psychologically and financially stable without any criminal history. Concerning their income, health, etc., they have to organize and send various documents. 
+- They have to register on the website as Prospective Adoptive Parents (PAPs) and wait for their chance. Besides, matching is also carried out by the Central Adoption Resource Agency (CARA) and not by the adoption agency concerned. 
+- Parents cannot physically pick the children, and the child's preference is often an issue again when done online. If the prospective parents are pleased with the child, a home study will be performed by the Specialist Adoption Agency (SAA) of the respective state and recommended for adoption.
+-  Otherwise, the process must again start with the parents waiting for their opportunity and CARA matching the parent – child. This slows the process of adop - tion, meaning children have to live in institutional care for longer. 
+- The study also indicates that registered prospective parents waiting for their chance are so high compared to children who are adopted.
+
+### Differently able or girl child usually left out. 
+- The study also suggests that most prospective parents prefer a male boy, ideally be - tween 0 and 3 years of age. Children with different able or special needs are only adopted by foreigners and not within the state or country (which is also minimal).
+- Therefore, children who are otherwise differ - ently able, older children and girls are generally left out. Surprisingly, in two institutions (specialized adoption agency), not a single child in the institutions nor any child was available for adoption. 
+
+
 
 
 
@@ -675,4 +727,5 @@ In a paper that describes existing alternate care systems in India[^7], we learn
 [^5]: [[Institutional care versus community based care of children, Case study based on child care model practised at Sneha Care Home]]
 [^6]: [[Institutionalisation and deinstitutionalisation of children, a systematic and integrative review of evidence regarding effects on development]]
 [^7]: [[Alternative Care in India, Issues and Prospects]]
-[^8]: 
+[^8]: [[Child care institutions in India Investigating issues and challenges in children’s rehabilitation and social integration]]
+[^9]: 
