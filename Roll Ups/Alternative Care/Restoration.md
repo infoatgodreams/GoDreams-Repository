@@ -155,18 +155,18 @@ According to a paper on alternative care in India, these are the existing commun
 -  It offers many advantages over other forms of care since it permits family relationships to continue, keeps the children within their culture and community, and avoids the anxieties associated with the placement of children with unfamiliar adults and families.  
 
 ### The problem with Kinship care:
-Kinship-based care has been proposed as an alternative to institutional care for orphaned children or children whose parents are unable to care for them. 
-        * Indeed, because it involves blood ties and therefore, it is assumed, is based on a sense of familial loyalty and genuine affection, it is often presented as the preferred alternative over formal, non-kinship-based foster care or adoption
-        * Yet this assumption can lead to a number of dangers. 
-            * Evidence has been cited that it leads to less monitoring than formal fostering. For example, at SCH, one staff member recounted the case of one girl, formerly under the institution’s care, who was sold into sex slavery by her uncle. 
-        * By appealing to our sense of family as a safe haven, kinship care appears innocuous, but, as this girl’s experience demonstrates, that is clearly not always the case  
-        * As extended families are broken up, and as **financial pressures **make it difficult for people to sustain even their own nuclear families, one must question the extent to which even the most well-meaning extended kin can cope with the burden of taking in a niece, nephew or grandchild with multiple needs such as CLHA that may require even more financial and emotional investment than a healthy child.
-        * For children with their kins working in agriculture and other daily wage work, kinship care would mean living in a mostly empty house, until aunts and uncles return home from a hard day’s work. 
-        * The **current indian government scheme,** which gives 700 rupees a month to those caring for CLHA in their homes, can hardly be seen as an effective solution – since in the overwhelming majority of cases, the children’s extended kin are struggling even as the financial burden of caring for the ill child is carried completely by SCH.
-        * Problems with grandparent care for vulnerable children: 
-            * In ‘From Roots to Roots’, Tolfree reports research in Uganda which “found that behavioural problems were common in grandparent-headed households.” The study found that children who had a grandparent in their fifties and sixties as a caretaker were “vulnerable to malnutrition and infectious diseases because food production was low and medical care could not be afforded.
-            * A US-based study “found that custodial grandparents have a 50% higher chance of having a daily activity limitation. They report lower satisfaction with their own health and rate their health status lower than do non-custodial grandparents
-            * SCH runs an outreach programme in Kolar in collaboration with ‘Sisters of Precious Blood’ – a faith-based Community Care Centre. One nurse working in the outreach programme explained to this author that ART adherence is often more challenging when it comes to CLHA living in grandparent-headed households. The tendency for grandparents to forget, or to insist on giving children herbal medicines which interfere with the ART medication is a serious concern which she says she and the other staff members at ‘Sisters of Precious Blood’ often find themselves battling with.
+#### Unfounded assumptions
+- Indeed, because it involves blood ties and therefore, it is assumed, is based on a sense of familial loyalty and genuine affection, it is often presented as the preferred alternative over formal, non-kinship-based foster care or adoption
+- Yet this assumption can lead to a number of dangers. 
+	- Evidence has been cited that it leads to less monitoring than formal fostering.
+	- As extended families are broken up, and as financial pressures make it difficult for people to sustain even their own nuclear families, one must question the extent to which even the most well-meaning extended kin can cope with the burden of taking in a niece, nephew or grandchild with multiple needs such as CLHA that may require even more financial and emotional investment than a healthy child.
+- For children with their kins working in agriculture and other daily wage work, kinship care would mean living in a mostly empty house, until aunts and uncles return home from a hard day’s work. 
+- The **current indian government scheme,** which gives 700 rupees a month to those caring for CLHA in their homes, can hardly be seen as an effective solution – since in the overwhelming majority of cases, the children’s extended kin are struggling even as the financial burden of caring for the ill child is carried completely by SCH.
+
+#### Problems with grandparent care for vulnerable children: 
+- In ‘From Roots to Roots’, Tolfree reports research in Uganda which “found that behavioural problems were common in grandparent-headed households.” The study found that children who had a grandparent in their fifties and sixties as a caretaker were “vulnerable to malnutrition and infectious diseases because food production was low and medical care could not be afforded.
+- A US-based study “found that custodial grandparents have a 50% higher chance of having a daily activity limitation. They report lower satisfaction with their own health and rate their health status lower than do non-custodial grandparents
+- SCH runs an outreach programme in Kolar in collaboration with ‘Sisters of Precious Blood’ – a faith-based Community Care Centre. One nurse working in the outreach programme explained to this author that ART adherence is often more challenging when it comes to CLHA living in grandparent-headed households. The tendency for grandparents to forget, or to insist on giving children herbal medicines which interfere with the ART medication is a serious concern which she says she and the other staff members at ‘Sisters of Precious Blood’ often find themselves battling with.
 
 ## Sponsorship 
 - Sponsorship is providing of additional financial support to families who are unable to meet educational and other needs of their children, due to a number of reasons.
@@ -192,6 +192,7 @@ Kinship-based care has been proposed as an alternative to institutional care for
 	    * And importantly, place all of this within an overall strategy of deinstitutionalization.
 
 # Why is this single-minded push illogical? 
+
 ## Differing points of influence in care outcomes in children
 
 ### Pre-institutional context
@@ -217,19 +218,19 @@ Kinship-based care has been proposed as an alternative to institutional care for
 ### Child-related factors: Genetic factors
 - Several studies of candidate genes for specific disorders have shown that genetic variations might affect the susceptibility of a child to both negative effects of institutional care and positive responses to placement in a supportive family.
     * For example, children living in institutions who have the short allele of the 5-HTT gene are more likely than children without this allele to show emotional problems generally,and socially indiscriminate behaviour specifically.
+ 
 
+## Comparison to private boarding
+- One – and arguably the only contention in defence of this apparent double standard is that conditions in boarding schools are better than those in institutional care and that the harm and neglect that is potentially experienced by children within institutional care does not extend to borders. Yet evidence supporting this contention is conspicuous by its absence
+- Since there is little sound evidence to back up the claim that the boarding school system for the privileged is automatically and innately less harmful than institutional care for vulnerable children, perhaps the emphasis should be on the quality of care and education being provided to children in each rather than on where it is provided.
 
+## Institutional Care and Community/Familial Care are not mutually exclusive
 
-- Interestingly, Sneha Care Home has been against this binary pitting of institutional care against the “alternatives” of family and community-based care is the not-implicit assumption that the two are mutually exclusive, that one precludes the other: that institutions weaken familial and community ties, that funding institutional care drains resources from community-based initiatives.
-	- ### Private Boarding versus Institutional care:
-    * One – and arguably the only contention in defence of this apparent double standard is that conditions in boarding schools are better than those in institutional care and that the harm and neglect that is potentially experienced by children within institutional care does not extend to borders. Yet evidence supporting this contention is conspicuous by its absence
-	    * Since there is little sound evidence to back up the claim that the boarding school system for the privileged is automatically and innately less harmful than institutional care for vulnerable children, perhaps the emphasis should be on the quality of care and education being provided to children in each rather than on where it is provided.
-	* Impact of institutional care on family relationships:
-	    * While it might be assumed that institutional placement would sever or weaken familial relations, evidence points to the positive effects that placing a family member in institutional care can have in terms of improving family ties and dynamics. In the case of the elderly, for example, it has been found that “nursing home placement leads to renewed or discovered closeness of familial bonds
-	    * Demonstrating institutional care’s potential long-term benefits for family dynamics was a longitudinal study which interviewed the families of children with mental retardation who had received residential treatment both one and two years after placement.
+- While it might be assumed that institutional placement would sever or weaken familial relations, evidence points to the positive effects that placing a family member in institutional care can have in terms of improving family ties and dynamics.
+- Demonstrating institutional care’s potential long-term benefits for family dynamics was a longitudinal study which interviewed the families of children with mental retardation who had received residential treatment both one and two years after placement.
 	    * The study found that “respondents primarily reported post placement benefits to the family.” Crucially, however, the study also noted that in this particular case, family involvement in the children’s treatment programme while they were institutionalized was “high and stable.”
 	    * Indeed, a renowned longitudinal study carried out in the 1960s – “The Cleveland Bellefaire follow-up study” – found that for children leaving institutions and returning to their families and communities, the gains accrued from institutional care tended to last longer if staff worked with parents and community agents for a transitional period once the child was discharged
-	    * Lack of planned and nurtured contact between children in residential care and their families was found to be an almost universal phenomenon in the countries covered by Save the Children’s research. It is extremely rare to find any institution which positively values family contact
+
 	* * Institutional care and family/community care as being mutually exclusive:
     * This “care continuum” is a continuum in the sense that it presents an array of care options which fall across a spectrum but not in the sense that children are encouraged to move along it – since the goal is increasingly that of “permanency”, and within a family setting
     * This view is problematic for a number of reasons:
