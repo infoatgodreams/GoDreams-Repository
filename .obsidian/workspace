@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "15159f335ccc06c3",
+        "id": "c7c245e155e7399c",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roll Ups/Alternative Care/Restoration.md",
+            "file": "Volume 3/Current Reality/International CCIs/Play and Cognition Among Young Children Reared  in an Institution.md",
             "mode": "source",
             "source": false
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Alternative Care/Restoration.md",
+                "file": "Volume 3/Current Reality/International CCIs/Play and Cognition Among Young Children Reared  in an Institution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +86,17 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "15159f335ccc06c3",
+  "active": "c7c245e155e7399c",
   "lastOpenFiles": [
+    "Volume 3/Current Reality/International CCIs/Play and Cognition Among Young Children Reared  in an Institution.md",
+    "Volume 3/Current Reality/International CCIs/Healthy play, better coping, The importance of play for the development of children in health and disease.md",
+    "Play.md",
     "Roll Ups/Alternative Care/Restoration.md",
     "Volume 3/Care Standards/India- Service Providers to CCIs/Restoration Model Prerna.md",
     "Volume 3/Current Reality/India CCIs/Child care institutions in India Investigating issues and challenges in children’s rehabilitation and social integration.md",
     "Volume 3/Care Standards/India- Service Providers to CCIs/Before, Not After, An evaluation of Aangan trust’s preventive approach to child protection in India.md",
     "Volume 3/Current Reality/India CCIs/Alternative Care for Children, Udayan Care.md",
     "Volume 3/Current Reality/India CCIs/Alternative Care in India, Issues and Prospects.md",
-    "Volume 3/Current Reality/India CCIs/Morbidity profile of orphan children in Southern India.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Save the Children/Save the Children_ SOP for Care and Protection of Children in Street Situations.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Trauma-Informed-Care.md",
-    "Volume 1/Care Standards/International CCIs/Irvington HouseGrowth Potential of Pre-school aged children in institutional care.md"
+    "Volume 3/Current Reality/India CCIs/Morbidity profile of orphan children in Southern India.md"
   ]
 }
