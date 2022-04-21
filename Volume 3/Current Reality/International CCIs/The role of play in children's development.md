@@ -241,13 +241,10 @@ tags:
 
 ### Games and spatial skills
 
-
-
 * Newman, Hansen & Gutierrez (2016), on the other hand, in a study with 8-year olds, investigated the effects of playing two different games (Block building or Scrabble) on spatial ability, with pre and post-tests involving a computerised mental rotation test with reaction time as the outcome measure, and fMRI scans. Not surprisingly, only the block play group showed significant training effects on the mental rotation test and increased activation in brain regions associated with spatial processing. However, what this tells us about the specific effects of playing games with rules is not clear. 
 
 
 ### Games: an untapped field of study
-
 
 
 * The key theoretical point about games with rules, that their essentially social nature supports children’s social and moral development, has been supported, for boys at least, by one study. As regards intellectual benefits, there are 3 or 4 studies supporting some gains, over a short period of time, for aspects of numeracy. 
@@ -266,8 +263,6 @@ tags:
 
 ## **Closing thoughts**
 
-
-
 * When and how is play more effective than other contexts for learning? As outlined in the previous sections, there is evidence, among other things, that:
 * physical play is linked to motor development, and some tentative evidence that it is linked to social development;
 * unstructured breaks from cognitive tasks improve learning and attention, though it is unclear whether play leads to greater improvements in learning than simply taking a break and, for example, talking with friends; 
@@ -284,13 +279,11 @@ Also, to make stronger conclusions about the importance of learning through play
 ### Joyful and actively engaging
 
 
-
 * Children who perceive an activity as play are more focused, attentive, motivated and show signs of higher well-being while on-task (Howard & McInnes, 2013; Sawyer, 2017) This suggests that perceiving an activity as play creates active engagement and joy, which leads to children being in the appropriate cognitive and emotional state to remain on-task and process information. 
 * But in addition to this, various studies show how social interaction, meaning and iteration can also be important factors in children’s learning
 
 
 ### Socially interactive
-
 
 
 * Lehrer at al. (2014) assessed whether the activities children engaged in during their unstructured time predicted their ‘adaptive skills’ (as measured on the teacher-report BASC-2 measure)
