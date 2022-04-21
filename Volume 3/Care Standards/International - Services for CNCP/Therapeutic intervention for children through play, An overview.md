@@ -7,6 +7,7 @@ tags-
 - globalresearch
 
 ---
+Domain tags: [[Play]]
 
 # Brief
 
@@ -19,7 +20,7 @@ This review article aims to provide a brief description on the use of play as th
 - Author: Basavaraj Shrinivasa, Madina Bukhari1, Ragesh G2, Ameer Hamza
 - Summarized By: Nishtha Dani
 - ## Gold Standard Inputs & Outcomes:
-- ## Baseline Inpu
+- ## Baseline Inputs
 
     
 # Play Therapy
