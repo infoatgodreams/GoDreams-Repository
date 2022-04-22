@@ -340,6 +340,12 @@ According to a white paper on the role of play in children's development[^1],
 
 ## Current needs of play for children in care
 - These needs are based on a study on physical activty in residential care homes in Ireland[^10]
+	- Previous research has suggested that many children in residential care settings often do not have access to extra-curricular learning and activity opportunities which could help deal with their physical, social and emotional needs
+	- Research conducted directly with children in care has indicated the significant value they place on relationships with care staff and peers, whilst highlighting the difficulty they can experience in developing these connections and relationships
+	- There was a further belief that due to previous experiences and life events these YP may be more susceptible to influence by others, but not to be influenced by the adults around them as easily as their peers.
+	- Engagement in physical activity (PA) has consistently been found to be associated with positive outcomes for young people (YP), including improved physical, mental and emotional well- being
+	- There is significant evidence of the positive impact of participation in PA on psychological well being of YP 
+	- Previous research has highlighted the potential of engagement in activities for providing consistency and a sense of stability for YP who have experienced significant changes in their lives 
 
 ## Assessing play behaviour in institutional care
 - [^3]In a paper that studied play and congition correlation in institutional children, they discussed previous evidence that shows that
