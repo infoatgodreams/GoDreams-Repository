@@ -33,11 +33,14 @@ Evidence for value of play
 	- Play also helps forge connections between children. It allows them to learn how to share, to negotiate and resolve conflicts, and to learn self-advocacy skills when necessary.
 
 ## Play & Child Development 
-According to a paper that studied the interplay of play and cognition[^3], 
-- Play behaviours do not precisely mirror cognitive or other developmental processes, but play is an impetus for development.
-- Studies describing play and its relationship to development have demonstrated associations with cognition, motor skills, language, sensory processing, socialization, affect, and disposition
-- Children progress through a succession of simple to more complex play stages associated with cognition.
-- The strong correlation between cognition and play parallels other studies of children with developmental disabilities. In these studies, children with cognitive delays progressed more slowly than typical peers in their achievement on standardized assessments of cognition; however, the correlation between cognition and play was moderate to high
+- According to a paper that studied the interplay of play and cognition[^3], 
+	- Play behaviours do not precisely mirror cognitive or other developmental processes, but play is an impetus for development.
+	- Studies describing play and its relationship to development have demonstrated associations with cognition, motor skills, language, sensory processing, socialization, affect, and disposition
+	- Children progress through a succession of simple to more complex play stages associated with cognition.
+	- The strong correlation between cognition and play parallels other studies of children with developmental disabilities. In these studies, children with cognitive delays progressed more slowly than typical peers in their achievement on standardized assessments of cognition; however, the correlation between cognition and play was moderate to high
+- According to a paper that discusses the importance of play in development[^5], 
+	- The playful interactions with caregivers give the child plenty of opportunities to hear the language and motivate them to speak.
+	- As the child grows older, they play with other children and learn to share, follow the rules of the game and wait for their turn to play. Thus they begin to learn to take into consideration another person's point of view.
 
 ## Play & Child Emotional Expression
 In a paper that discusses the effect of play on child health development[^2], we look at how play forms children's identity
@@ -48,6 +51,17 @@ In a paper that discusses the effect of play on child health development[^2], we
 	- In adolescence, co-constructed narratives have been linked to the development of identity, which is considered a key-element for mental health 
 	- Play may also allow for the expression of frustration and rage, allowing the child (or adult) to cope with environmental challenges, thereby contributing to mental health 
 	- play allows children to experiment and explore, and playful activities provide a secure setting for testing the consequences of many alternative scenarios, in order to develop a rich and flexible behavioural, social and emotional repertoire
+
+## Play & Learning 
+- According to a paper that discusses the importance of play in development[^5], 
+	- In Infancy Thought Develops Through Activity:  As an infant the only way the child can learn is by doing an activity and finding out for themself. In the early years learning of social, cognitive, language and motor skills is possible only through play.
+	- Children Learn by Doing: Instead of being allowed to do an activity, if the child was merely told about the concept, it would not be so clear to them. 
+	- Play Holds the Child's Attention: Play involves the children physically and holds their attention in one activity for longer periods and, therefore, aids learning. 
+	- Learning Through Play is Fun: It is only fair that we help children learn through ways they enjoy and make learning a stimulating and rewarding experience for them. Play, therefore, is an enjoyable medium through which children learn things they are ready to learn.
+
+	
+
+
 
 # Types of Play
 
@@ -440,6 +454,11 @@ Recent studies have used applied games to successfully decrease anxiety or depre
 # Play Therapy
 
 # Play Assessment:
+
+- According to a paper that describes the importance of play in development[^3], play is an effective tool to study development in children
+	-  When play is not being controlled by adults children are not inhibited or conscious and, therefore, one can see them at their best.
+	* Play activities help us to know about the child's cognitive abilities.
+	* Play also reflects the child's social development.
 - A paper that studied the interplay of play and cognition[^3], used 
 	- Bayley Scales of Infant Development, 2nd edition (BSID-II; Bayley, 1993). We used the BSID-II to assess children’s general cognitive development. 
 	* Play assessment: used two toy sets to assess play. 
@@ -504,3 +523,4 @@ Parents should encourage young people to be outdoors and limit the time they use
 [^2]: [[Healthy play, better coping, The importance of play for the development of children in health and disease]]
 [^3]: [[Play and Cognition Among Young Children Reared  in an Institution]]
 [^4]: [[The Importance of Play in Promoting Healthy Child Development and Maintaining Strong Parent Child Bond, Focus on Children in Poverty]]
+[^5]: [[Importance of Play in Development]]
