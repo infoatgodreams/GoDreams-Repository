@@ -605,7 +605,6 @@ According to UNICEF's report on understanding the evidence for child-focused spo
 
 
 
-
 [^1]: [[The role of play in children's development]]
 [^2]: [[Healthy play, better coping, The importance of play for the development of children in health and disease]]
 [^3]: [[Play and Cognition Among Young Children Reared  in an Institution]]
@@ -617,4 +616,3 @@ According to UNICEF's report on understanding the evidence for child-focused spo
 [^9]: [[Effects Of A Structural Intervention And Implementation On Physical Activity Among Youth In Residential Children’s Homes]]
 [^10]: [[Physical activity, Exploring the barriers and facilitators for the engagementof young people in residential care in Ireland]]
 [^11]: [[Creating Trauma informed Sports Programming]]
-[^12]: 
