@@ -372,115 +372,6 @@ According to a white paper on the role of play in children's development[^1],
 	* Keeping school facilities open for use by community families in the evenings and on weekends when they are usually closed may increase engagement in these activities.
 * Udayan Care[^8] recommends that all institutions have Indoor and outdoor games, yoga, meditation, music, television, picnics and outings and cultural programmes, gardening, library, dance, art therapy etc., and child-friendly library
 
-## Challenges in structured interventions applied accross different institutions
-- Context: This study reports the effects of a structural intervention, ENRICH (Environmental Interventions in Children’s Homes) which targeted the physical and social environment within residential children’s homes (RCHs) to increase physical activity (PA) among residents. [^9]
-- Hypothesis: 
-	- ENRICH was a structural intervention that worked with adult staff as change agents to create a more health-promoting environment in the RCH, which was hypothesized to result in increased PA among children. 
-	- Based on theory and expert recommendation, we anticipated that working with organizational change agents to create PA-promoting environments that could be adapted to setting and population needs would increase PA among the children residing there, but this was not the case.
-- **Results:The ENRICH intervention had no impact on physical activity of youth residing within RCHs, even after the level of intervention implementation was considered**
-
-### Lessons Learned
-- Within the group home setting, it is clear that implementation does not occur in an ordered and uniform process and is influenced by many contextual factors within organizational environments.
-- Interventions targeting organizational changes to impact population health behaviors should devote careful attention and provide adequate resources to effectively monitor and document implementation.
-- Moreover, contextual factors within organizational settings including the PA environment and organizational capacity to implement health promotion programs are important to consider and should be assessed prior to implementation.
-- Future work is needed to examine the different organizational climates and cultures which influence the implementation of health promotion programs and changes to the physical and social PA environment. 
-
-
-# Children with Chronic Conditions 
-
-## Challenging Play Behaviours in Chronic Illness
-- In addition to the somatic and psychological consequences of their illness, several factors such as isolation, stigma, inequality, bullying and doubts concerning their physical and intellectual capacities are everyday realities for children with chronic diseases that may negatively impact healthy play and development
-- Being hospitalized, pain and fatigue, social isolation and the ‘other-than-normal’ treatment of diseased children are likely to compromise their play behaviour
-- Health care professionals primarily focus on the biological facets of treatment success, and may be less inclined to address the effects of disease on patients’ daily routine and self-perceptionn. 
-- **Any source of stress can compromise well-being**
-	- This includes hospitalization and treatment regimes to social challenges and physical limitations
-	- Interruption of daily routines, an unfamiliar environment, strange and frightening equipment, and feelings of a lack of control may increase stress in children, leasing to trauma, when in hospitals
-        * serious chronic illness can have detrimental effects on school attendance, relations with peers at school and school engagement
-
-## Play as a tool to improve outcomes in chronic illness
-
-- Optimal strategies, incorporating diverse methodologies such as very early interventions, play therapies, gaming and interactive technology, aimed at improving well-being and quality of life in this population are much needed
-- From a therapeutic perspective, play as intervention is valuable because play
-	- regulates negative affect and diminishes stress
-	- facilitates coping with adverse events
-	- is useful for processing new information both cognitively and emotionally by allowing for order and integration
-	- is a safe way to practice new behaviour and experiment with solutions
-	- stimulates fantasy and creative (divergent) thinking
-	- stimulates the development of empathy 
-
-## Treatment potential of game technology
-Recent studies have used applied games to successfully decrease anxiety or depressive symptoms in adolescents
-
-### Games influence behaviour in children
-
-- Playing games can influence social, emotional and cognitive development. The immersive social context of today’s games help gamers rapidly learn social skills and pro-social behaviour
-- playing a prosocial game was shown to induce long-lasting enhancements in e.g. helping, cooperation, empathy and emotional awareness 
-- individuals who had played a cooperative game showed more prosocial behaviour in a dilemma task than players who had played competitively, suggesting that these behaviours might be transferable to their peer and family relations outside the gaming environment
-- Little is known about the long-term effects of gaming on emotions and mood, although there are reasons to think that gaming may be positive for an individual’s growth and social connection
-- Regular games can be used to motivate and engage patients in physical activity and therapy as well
-- Games also have the potential to enhance mental health and wellbeing in children and adolescents
-
-#### Video games 
--  Playing video games can enhance problem solving skills and creativity and, mostly action games, have a positive impact on focus and spatial skills
-- In addition, a recent study on the consequences of playing video games, identified positive outcome for intellectual functioning, competence in reading, mathematics, spelling and academic achievement
-        * On the one hand, games can be used to distract patients and help them to cope with the side effects of treatments, like nausea, vomiting, anxiety, fatigue and pain, much the same as physical play does
-        * Computer games may have the same effect as an often more expensive relaxation training.
-        * Applied games could be combined with patient-tailored tools to assess a patient’s wellbeing in dedicated e-health platforms to deliver personalized interventions
-
-# Play Therapy
-- This section is primarily taken from two papers, one on evidence based play therapy[^6] and another one that describes therapeutic interventions in children through play[^7]. 
-
-## What is play therapy?
-- As described in a paper on evidence-based play therapy[^6], Founded in 1982, the Association for Play Therapy (APT) formed to develop and promote play therapy as a separate and distinct psychotherapy modality for treatment. 
-- Play therapy is a form of therapy used primarily for children. That’s because children may not be able to process their own emotions or articulate problems to parents or other adults.
-- Although people of all ages can benefit from play therapy, it’s typically used with children between the ages of 3 and 12. 
-- Play therapy may be helpful in a variety of circumstances, such as:
-	- facing medical procedures, chronic illness, or palliative care
-	- developmental delay or learning disabilities
-	- problem behaviors in school
-	- aggressive or angry behavior
-	- family issues, like divorce, separation, or death of a close family member
-	- natural disasters or traumatic events
-	- domestic violence, abuse, or neglect
-	- anxiety, depression, grief
-	- eating and toileting disorders
-	- attention deficit hyperactivity disorder (ADHD)
-	- autism spectrum disorder (ASD)
-
-## How does play therapy work? 
-- There’s a bit of a communication gap between children and adults. Depending on age and stage of development, children simply don’t have the language skills of adults. They may feel something, but in many cases, they either can’t express it to an adult or don’t have a trusted adult to express it to.
-- Children learn to understand the world and their place in it through play. It’s where they’re free to act out their inner feelings and deepest emotions. Toys can act as symbols and take on greater meaning — if you know what to look for.
-- Since the child can’t adequately express themselves in the adult world, the therapist joins the child in their world, on their level.
-- As they play, the child may become less guarded and more apt to share their feelings. But they aren’t pressured. They’re allowed to do so in their own time and with their own method of communication.
-
-
-
-## Evidence backing play therapy
-
-These are results from a number of research studies that used play therapy interventions. You can find them listed in more detail in the source papers. [^6][^7]
-- These most recent studies have demonstrated the positive impact of play therapy on general behavioral problems
-- Results demonstrated that children receiving play therapy showed statistically significant decreases in externalizing behavior problems, specifically conduct problems, and moderate improvements in internalizing behavior problems, specifically anxiety
-- Following a treatment of play therapy for child witnesses of domestic violence, children in the experimental group scored significantly higher than children in the control group on self-concept. 
-- In therapy interventions for children with learning disabilities, Children who participated in the play therapy intervention demonstrated statistically significant improvement in scores on the BASC-PRF on overall composite scores and internalizing problems over children in the control group.
-- In a study that looked at at-risk children, Although there was no difference between groups on anxiety, a statistically significant difference was found between groups on self-esteem and locus of control.
-- In a study that looked at short term play therapy with earthquake victims, Results demonstrated a significant decrease in anxiety, as well as a large treatment effect, for children participating in the experimental group as compared to the control group. Suicide risk as measured by the MDI-C was also found to be significantly less in the experimental group as compared to the control group.
-- Trostle (1988) found that after 10 sessions of nondirective group play therapy, bilingual Puerto Rican children showed significant improvement in self-control and higher developmental level play behaviors when compared to their control group peer.
-
-# Play Assessment:
-
-- According to a paper that describes the importance of play in development[^3], play is an effective tool to study development in children
-	-  When play is not being controlled by adults children are not inhibited or conscious and, therefore, one can see them at their best.
-	* Play activities help us to know about the child's cognitive abilities.
-	* Play also reflects the child's social development.
-- A paper that studied the interplay of play and cognition[^3], used 
-	- Bayley Scales of Infant Development, 2nd edition (BSID-II; Bayley, 1993). We used the BSID-II to assess children’s general cognitive development. 
-	* Play assessment: used two toy sets to assess play. 
-	    * The first consisted of exploratory toys comparable to those donated to the institutions. 
-	    * The second set consisted primarily of symbolic toys to provide sufficient opportunity to elicit the children’s symbolic play behaviours.
-* The same paper on cognition and play[^3] suggests that play assessments may be used by therapists attempting to assess children newly adopted from institutions who are difficult to engage in standardized testing, but able to be engaged in play. 
-	* A therapist familiar with a play scale similar to the one used in this study may be able to gauge a child’s developmental status through observing play behaviours.
-
-
 # Play Settings & Schedules 
 
 ## Varying needs of children based on age
@@ -531,6 +422,117 @@ These are results from a number of research studies that used play therapy inter
 	- Encourage your child to try a variety of movements in a safe environment—for example, hopping, swinging, climbing, and doing somersaults.
 	- Limit screen time to healthy levels. Age-appropriate media can have benefits for older children, especially if you watch and play with them. But real time social interactions and play are much better for children than digital media for learning.
 	- Encourage your child's school to offer recess and playful learning approaches in addition to more structured learning approaches like reading, memorization and worksheets.
+
+## Challenges in structured interventions applied accross different institutions
+- Context: This study reports the effects of a structural intervention, ENRICH (Environmental Interventions in Children’s Homes) which targeted the physical and social environment within residential children’s homes (RCHs) to increase physical activity (PA) among residents. [^9]
+- Hypothesis: 
+	- ENRICH was a structural intervention that worked with adult staff as change agents to create a more health-promoting environment in the RCH, which was hypothesized to result in increased PA among children. 
+	- Based on theory and expert recommendation, we anticipated that working with organizational change agents to create PA-promoting environments that could be adapted to setting and population needs would increase PA among the children residing there, but this was not the case.
+- **Results:The ENRICH intervention had no impact on physical activity of youth residing within RCHs, even after the level of intervention implementation was considered**
+
+### Lessons Learned
+- Within the group home setting, it is clear that implementation does not occur in an ordered and uniform process and is influenced by many contextual factors within organizational environments.
+- Interventions targeting organizational changes to impact population health behaviors should devote careful attention and provide adequate resources to effectively monitor and document implementation.
+- Moreover, contextual factors within organizational settings including the PA environment and organizational capacity to implement health promotion programs are important to consider and should be assessed prior to implementation.
+- Future work is needed to examine the different organizational climates and cultures which influence the implementation of health promotion programs and changes to the physical and social PA environment. 
+
+
+
+
+# Play Therapy
+- This section is primarily taken from two papers, one on evidence based play therapy[^6] and another one that describes therapeutic interventions in children through play[^7]. 
+
+## What is play therapy?
+- As described in a paper on evidence-based play therapy[^6], Founded in 1982, the Association for Play Therapy (APT) formed to develop and promote play therapy as a separate and distinct psychotherapy modality for treatment. 
+- Play therapy is a form of therapy used primarily for children. That’s because children may not be able to process their own emotions or articulate problems to parents or other adults.
+- Although people of all ages can benefit from play therapy, it’s typically used with children between the ages of 3 and 12. 
+- Play therapy may be helpful in a variety of circumstances, such as:
+	- facing medical procedures, chronic illness, or palliative care
+	- developmental delay or learning disabilities
+	- problem behaviors in school
+	- aggressive or angry behavior
+	- family issues, like divorce, separation, or death of a close family member
+	- natural disasters or traumatic events
+	- domestic violence, abuse, or neglect
+	- anxiety, depression, grief
+	- eating and toileting disorders
+	- attention deficit hyperactivity disorder (ADHD)
+	- autism spectrum disorder (ASD)
+
+## How does play therapy work? 
+- There’s a bit of a communication gap between children and adults. Depending on age and stage of development, children simply don’t have the language skills of adults. They may feel something, but in many cases, they either can’t express it to an adult or don’t have a trusted adult to express it to.
+- Children learn to understand the world and their place in it through play. It’s where they’re free to act out their inner feelings and deepest emotions. Toys can act as symbols and take on greater meaning — if you know what to look for.
+- Since the child can’t adequately express themselves in the adult world, the therapist joins the child in their world, on their level.
+- As they play, the child may become less guarded and more apt to share their feelings. But they aren’t pressured. They’re allowed to do so in their own time and with their own method of communication.
+
+## Evidence backing play therapy
+These are results from a number of research studies that used play therapy interventions. You can find them listed in more detail in the source papers. [^6][^7]
+- These most recent studies have demonstrated the positive impact of play therapy on general behavioral problems
+- Results demonstrated that children receiving play therapy showed statistically significant decreases in externalizing behavior problems, specifically conduct problems, and moderate improvements in internalizing behavior problems, specifically anxiety
+- Following a treatment of play therapy for child witnesses of domestic violence, children in the experimental group scored significantly higher than children in the control group on self-concept. 
+- In therapy interventions for children with learning disabilities, Children who participated in the play therapy intervention demonstrated statistically significant improvement in scores on the BASC-PRF on overall composite scores and internalizing problems over children in the control group.
+- In a study that looked at at-risk children, Although there was no difference between groups on anxiety, a statistically significant difference was found between groups on self-esteem and locus of control.
+- In a study that looked at short term play therapy with earthquake victims, Results demonstrated a significant decrease in anxiety, as well as a large treatment effect, for children participating in the experimental group as compared to the control group. Suicide risk as measured by the MDI-C was also found to be significantly less in the experimental group as compared to the control group.
+- Trostle (1988) found that after 10 sessions of nondirective group play therapy, bilingual Puerto Rican children showed significant improvement in self-control and higher developmental level play behaviors when compared to their control group peer.
+
+## Treatment potential of game technology
+Recent studies have used applied games to successfully decrease anxiety or depressive symptoms in adolescents
+
+### Games influence behaviour in children
+- Playing games can influence social, emotional and cognitive development. The immersive social context of today’s games help gamers rapidly learn social skills and pro-social behaviour
+- playing a prosocial game was shown to induce long-lasting enhancements in e.g. helping, cooperation, empathy and emotional awareness 
+- individuals who had played a cooperative game showed more prosocial behaviour in a dilemma task than players who had played competitively, suggesting that these behaviours might be transferable to their peer and family relations outside the gaming environment
+- Little is known about the long-term effects of gaming on emotions and mood, although there are reasons to think that gaming may be positive for an individual’s growth and social connection
+- Regular games can be used to motivate and engage patients in physical activity and therapy as well
+- Games also have the potential to enhance mental health and wellbeing in children and adolescents
+
+#### Video games 
+-  Playing video games can enhance problem solving skills and creativity and, mostly action games, have a positive impact on focus and spatial skills
+- In addition, a recent study on the consequences of playing video games, identified positive outcome for intellectual functioning, competence in reading, mathematics, spelling and academic achievement
+        * On the one hand, games can be used to distract patients and help them to cope with the side effects of treatments, like nausea, vomiting, anxiety, fatigue and pain, much the same as physical play does
+        * Computer games may have the same effect as an often more expensive relaxation training.
+        * Applied games could be combined with patient-tailored tools to assess a patient’s wellbeing in dedicated e-health platforms to deliver personalized interventions
+
+
+# Play Assessment:
+
+- According to a paper that describes the importance of play in development[^3], play is an effective tool to study development in children
+	-  When play is not being controlled by adults children are not inhibited or conscious and, therefore, one can see them at their best.
+	* Play activities help us to know about the child's cognitive abilities.
+	* Play also reflects the child's social development.
+- A paper that studied the interplay of play and cognition[^3], used 
+	- Bayley Scales of Infant Development, 2nd edition (BSID-II; Bayley, 1993). We used the BSID-II to assess children’s general cognitive development. 
+	* Play assessment: used two toy sets to assess play. 
+	    * The first consisted of exploratory toys comparable to those donated to the institutions. 
+	    * The second set consisted primarily of symbolic toys to provide sufficient opportunity to elicit the children’s symbolic play behaviours.
+* The same paper on cognition and play[^3] suggests that play assessments may be used by therapists attempting to assess children newly adopted from institutions who are difficult to engage in standardized testing, but able to be engaged in play. 
+	* A therapist familiar with a play scale similar to the one used in this study may be able to gauge a child’s developmental status through observing play behaviours.
+
+
+# Sports & Vulnerable Children 
+
+## Benefits
+According to a paper on physical activity and sports in alternative care in Ireland, we know that there are multiple benefits to regular strcutured activity for children 
+
+### Improves Social relationships:
+    * Participation in structured activities, including PA, has been argued to be associated with better social relationships and mental health, but such engagement is lower for children in care than YP living in their homes (Conn, et al., 2013).
+    * PA engagement has been found to facilitate the building of social networks and connections for this population of YP (Quarmby, 2014; Quarmby et al., 2019). 
+* Build resilience
+    * In order to improve long term outcomes, there is a need to build resilience with these vulnerable young people (Gilligan, 2000, 2008), and engagement in PA is argued to allow for the development of such resilient behaviours (White & Bennie, 2015).
+    * Berridge (2017) study of 26 YP in care in England further identified the importance of stable and secure adult relationships within the care setting to help build resilience.
+* Minimise disruptive effects of changes in care setting:
+    * Fong, Schwab & Armour (2006) have proposed that in the face of placement changes, continuity of activities should be a priority for this group. They argue this would allow YP to maintain regular, familiar and/or normalising activities, which might minimise the disruptive effect of changes in care. In this respect, engagement in PA and sporting activities could be a stabilising factor during a period of change.
+    * Gay et al. (2011) reported similar findings with significant correlations between PA and the opportunities and characteristics of the care settings. YP in settings with a recreation director and those in rural locations reported greater PA engagement, than those in urban locations. 
+* Build confidence:
+    * In more recent research, YP in residential care identified that engagement in sport and PA developed their confidence, competence, character and connections, with positive peer and adult relationships viewed as central to securing positive outcomes from such engagement (Quarmby et al., 2019).
+* Better manage emotions and stressful life events:
+    *  In terms of other outcomes, all of the participants discussed how engagement in PA provided a way for the YP to develop active strategies to deal with stressful life events. They talked about the potential of using PA as a way to vent and burn energy and for YP to manage their emotions
+    * A number of the participants described how PA was identified within YP’s care plans as an intervention for reducing anxiety and how successful it could be. Maria discussed this in relation to the important emphasis placed on PA for an individual YP she worked with, stating that PA was “the last thing to be taken away from YP because it was an actual intervention that directly worked for her anxiety and anger and was part of her overall plan”.
+* Develop their identity:
+    * Participants frequently highlighted PA as an opportunity for YP to develop an identity based on a new hobby or activity and based on success and positive experiences in this activity.
+    * Adolescence is recognised as significant time of identity development for YP in care (Gilligan, 2008) and PA was identified in the current research as offering the opportunity for the development of a positive sense of identity, similar to previous research (Lakey et al., 2017; White & Benny, 2015). The staff viewed engagement in PA as a way of helping YP to reshape their identity and build hope, providing opportunities for experiencing success, recognition and praise
+
+
 
 
 [^1]: [[The role of play in children's development]]
