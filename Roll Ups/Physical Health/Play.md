@@ -364,6 +364,13 @@ Also, to make stronger conclusions about the importance of learning through play
 
 # Play in Institutional Care
 
+## Factors that affect play in low-resource settings
+- In a paper that describes the importance of play in promoting healthy caregiving relationships[^4], we explore what makes play difficult for children in low-resource communities. 
+	- Access to recess and other in-school creative and physical outlets (eg, physical education, art, music), as well as after-school youth development programs are reduced. 
+	* Second, out-of-school opportunities for play may be compromised by a lack of safe play areas, because parks and playgrounds are less abundant in lower-income areas and, in some cases, may be unsafe because of drug dealing, violence, and vandalism. 
+	* Because lower-income parents have to deal with additional social, emotional, and economic stressors of daily living, they may have less time, energy, and resources available to provide active and creative playtime at the park, playground, or even in the home.
+	* Schools, under pressure to increase academic performance and to decrease the achievement gap of students, have increased direct educational time, including after-school enrichment and tutorial programs, versus play time
+
 ## Assessing play behaviour in institutional care
 - [^3]In a paper that studied play and congition correlation in institutional children, they discussed previous evidence that shows that
 	* In a classic field study of child development in orphanages, Provence and Lipton (1962) described infants reaching for and grasping toys until 5 or 6 months of age, but from that point on their exploration dwindled and continued to do so with further institutionalization.
@@ -380,6 +387,13 @@ Also, to make stronger conclusions about the importance of learning through play
 * It is likely that children living in institutions have had little experience with objects such as toys, balls, and puzzles that are used in these evaluations. It is possible that this unfamiliarity can influence assessment results.
 * a weak relationship between play and cognition could also indicate that moderating variables, such as motivation, sense of security, or motor behaviours, were influencing this relationship. 
 * Conversely, if institutionalized children demonstrated play behaviours that highly corresponded with standardized measures, it may offer practitioners alternatives during challenging assessments. 
+
+## Policy recommendations
+- [^4]Recommendations to improve play opportunities in low resource settings: 
+	* In schools, the need to support social and emotional learning and healthy child development must be held alongside the need to increase academic scores. Otherwise, school engagement might suffer and efforts at creating a better-prepared generation might fail.
+	* Supervised after-school programs can be critical to children who live in communities where outside playing might be dangerous or unsupervised. 
+	* Community-based programs that offer a wide variety of services, ranging from homework assistance to athletic programs and from character development to the creative arts can contribute heavily to the positive development of youth.
+	* Keeping school facilities open for use by community families in the evenings and on weekends when they are usually closed may increase engagement in these activities.
 
 
 # Children with Chronic Conditions 
@@ -422,6 +436,8 @@ Recent studies have used applied games to successfully decrease anxiety or depre
         * On the one hand, games can be used to distract patients and help them to cope with the side effects of treatments, like nausea, vomiting, anxiety, fatigue and pain, much the same as physical play does
         * Computer games may have the same effect as an often more expensive relaxation training.
         * Applied games could be combined with patient-tailored tools to assess a patient’s wellbeing in dedicated e-health platforms to deliver personalized interventions
+
+# Play Therapy
 
 # Play Assessment:
 - A paper that studied the interplay of play and cognition[^3], used 
@@ -487,3 +503,4 @@ Parents should encourage young people to be outdoors and limit the time they use
 [^1]: [[The role of play in children's development]]
 [^2]: [[Healthy play, better coping, The importance of play for the development of children in health and disease]]
 [^3]: [[Play and Cognition Among Young Children Reared  in an Institution]]
+[^4]: [[The Importance of Play in Promoting Healthy Child Development and Maintaining Strong Parent Child Bond, Focus on Children in Poverty]]
