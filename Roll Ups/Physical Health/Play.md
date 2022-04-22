@@ -20,6 +20,8 @@ Evidence for value of play
 
 According to a white paper on the role of play in children's development[^1], 
 * In children it includes activity play (e.g. jumping, climbing, dancing, skipping, bike riding and ball play), fine-motor practice (e.g. sewing, colouring, cutting, junk modelling and manipulating action toys and construction toys) and what is usually referred to as ‘rough-and-tumble’ (play fighting with friends, siblings or caregivers). 
+
+## Impact of Physical Play
 * In a significant, but purely theoretical paper, Bjorklund & Brown (1998) argued that different types of physical play could contribute to gender differences in spatial abilities, for example boys might engage in more hand-eye coordination or estimating trajectories of objects. 
 * In a more recent review, Brussoni et al. (2015) concluded that ‘the evidence suggests overall positive effects of risky outdoor play on a variety of health indicators and behaviours in children aged 3-12 years. However, they pointed out that these conclusions were based on ‘very low’ to ‘moderate’ quality evidence
 * Becker et al. (2014) used accelerometers to assess preschool children’s level of physical activity and found a medium level correlation (0.46) with cognitive self-regulation, measured using the Head-Toes-Knees-Shoulders Task (HTKS) test. 
