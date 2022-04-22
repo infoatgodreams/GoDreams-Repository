@@ -22,29 +22,28 @@ According to a white paper on the role of play in children's development[^1],
 * In children it includes activity play (e.g. jumping, climbing, dancing, skipping, bike riding and ball play), fine-motor practice (e.g. sewing, colouring, cutting, junk modelling and manipulating action toys and construction toys) and what is usually referred to as ‘rough-and-tumble’ (play fighting with friends, siblings or caregivers). 
 
 ## Impact of Physical Play
-* In a significant, but purely theoretical paper, Bjorklund & Brown (1998) argued that different types of physical play could contribute to gender differences in spatial abilities, for example boys might engage in more hand-eye coordination or estimating trajectories of objects. 
+
 * In a more recent review, Brussoni et al. (2015) concluded that ‘the evidence suggests overall positive effects of risky outdoor play on a variety of health indicators and behaviours in children aged 3-12 years. However, they pointed out that these conclusions were based on ‘very low’ to ‘moderate’ quality evidence
-* Becker et al. (2014) used accelerometers to assess preschool children’s level of physical activity and found a medium level correlation (0.46) with cognitive self-regulation, measured using the Head-Toes-Knees-Shoulders Task (HTKS) test. 
+* Becker et al. (2014) used accelerometers to assess preschool children’s level of physical activity and found a medium level correlation (0.46) with **cognitive self-regulation**, measured using the Head-Toes-Knees-Shoulders Task (HTKS) test. 
 * There was also a significant indirect effect of active play on maths and literacy scores via the HTKS test, leading to the conclusion that self-regulation mediates a relationship between active play and school achievement. 
-* As regards rough-and-tumble play, Bjorklund & Brown (1998) suggested that it facilitates development of social cognition through the coding and decoding of social cues or signals.
-* Pellis & Pellis (2009), for example, reviewed a series of studies with simple mammals, mainly rats, showing that ‘there is a mechanism by which experiences accrued during play fighting can improve social competence’ 
+* In regards to **rough-and-tumble play**, Bjorklund & Brown (1998) suggested that it facilitates development of social cognition through the coding and decoding of social cues or signals.
 * In one study, for example, moderate to large positive correlations, for popular children and for boys (but not for rejected children and girls), were found between rough-and-tumble play and higher interpersonal cognitive problem solving scores.
-* Colwell & Lindsey (2005) also found these kinds of differential relationships according to gender. They reported that, for boys (but not girls), same-sex rough-and-tumble play was associated with same-sex peer acceptance and teachers’ ratings of social competence. Interestingly, however, boys’ rough-and-tumble play with mixed-sex peers was negatively associated with peer acceptance and teachers’ ratings of social competence.
+* Colwell & Lindsey (2005) also found these kinds of differential relationships according to gender. They reported that, for boys (but not girls), same-sex rough-and-tumble play was associated with same-sex peer acceptance and teachers’ ratings of social competence. **Interestingly, however, boys’ rough-and-tumble play with mixed-sex peers was negatively associated with peer acceptance and teachers’ ratings of social competence.**
 
-
-### Play during school recess 
-
+### Physical Play during school recess is not necessary
 * Thus, in their review of this area, Pellegrini & Bohn (2005) conclude that ‘unstructured breaks from demanding cognitive tasks seem to facilitate school learning, as well as more general social competence and adjustment to school.
-*  In a study of 5-9-year-olds’ playground behaviour, Pellegrini, Huberty & Jones (1995) found that children’s attentiveness improved after recess, but physical activity did not seem to play an important role in this, as recess with limited opportunity for physical activity was found to have the same effect. 
-* Similarly, in a year-long study of playground games with rules (ball games, chase, and jumping or singing games) during 5-6-year-old children’s first year in school, they concluded that it was the social interaction with peers during recess that was linked to school success, in terms of academic outcomes (
+*  In a study of 5-9-year-olds’ playground behaviour, Pellegrini, Huberty & Jones (1995) found that children’s attentiveness improved after recess, **but physical activity did not seem to play an important role in this, as recess with limited opportunity for physical activity was found to have the same effect.** 
+* Similarly, in a year-long study of playground games with rules (ball games, chase, and jumping or singing games) during 5-6-year-old children’s first year in school, they concluded that it was the social interaction with peers during recess that was linked to school success, in terms of academic outcomes. 
 
 
 ### Conclusions about Physical Play
 
-* The evidence base for conclusions on physical play is not extensive. In addition to the studies reviewed here, we found a further 8 studies which were mostly small scale, exploratory case studies. This adds up to little more than 20 studies, and the majority of these are with quite small samples of less than a hundred children.
-* there is good evidence that physically active play provides children with exercise and the consequent health benefits;
-* there seems to be reasonable evidence associating physical play of various kinds with academic progress and cognitive self-regulation, and with social competence; • there is some evidence that, for boys, rough-and-tumble play supports the development of their social competence and emotional awareness and has possible indirect effects on academic progress; 
+* The evidence base for conclusions on physical play is not extensive. 
+* There is good evidence that physically active play provides **children with exercise and the consequent health benefits**
+* there seems to be reasonable evidence associating physical play of various kinds with academic progress and cognitive self-regulation, and with social competence; 
+	* • there is some evidence that, for boys, rough-and-tumble play supports the development of their social competence and emotional awareness and has possible indirect effects on academic progress; 
 * there is evidence that unstructured breaks from cognitive tasks improve learning and attention, though it is unclear whether physical play contributes to this effect beyond simply taking a break and, for example, talking with friends.
+
 
 
 ## **Play with objects**
@@ -143,8 +142,6 @@ According to a white paper on the role of play in children's development[^1],
 
 ### Pretend play and creativity
 
-
-
 * We found three studies that addressed the relation between pretend play and creativity.
 * As a measure of creativity, children were asked to provide endings to stories and to make drawings, both of which were rated for creativity by the experimenters. Children who engaged in more elaborate role play – particularly involving imaginary friends and pretend identities – scored significantly higher for creativity in their narratives. 
 * Wallace and Russ (2015) looked at how pretend play predicted the creativity of 31 privately educated girls over a four-year period, from when the girls were between 5 and 10 years old to when they were between 9 and 14 years old. Pretend play was assessed using the Affect in Play Scale, and creativity was measured with the Alternative Uses Task, where children are asked to think of different uses for common objects such as a key or a shoe. Children who were more imaginative and organised in their pretend play at the start of the study scored higher on the Alternative Uses Task four years later. 
@@ -168,8 +165,6 @@ According to a white paper on the role of play in children's development[^1],
 
 ### Pretend play and language
 
-
-
 * Conner, Kelly-Vance, Ryalls & Friehe (2014) reported the one study we found relating pretend play to language development. 
 * This involved 10 2 year olds with whom they developed an intervention which included components of reading, modeling, and positive reinforcement of language and play.
 * All the children were assessed using the Play in Early Childhood Evaluation System, the Preschool Language Scale and a Vocabulary Assessment. The results showed that children who received the intervention increased pretend play, comprehension and expressive communication skills more than the comparison group.
@@ -178,13 +173,10 @@ According to a white paper on the role of play in children's development[^1],
 
 ### Pretence and emotion regulation
 
-
-
 * Gilpin, Brown and Pierucci (2015) measured the emotion regulation skills and fantasy orientation of 103 5-year old children using checklists and questionnaires, and found that the two measures were correlated. This finding slightly expands the previous correlational finding of Shields and Cicchetti (1997), discussed by Lillard et al., in that it shows that there is a specific correlation with fantasy orientation in addition to pretence behaviour in general.
 
 
 ### Pretence and social development
-
 
 
 * In one very recent study in Hong Kong, Fung & Cheng (2017) have reported evidence related to pretend play and social development.
