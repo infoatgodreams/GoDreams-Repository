@@ -343,6 +343,7 @@ According to a white paper on the role of play in children's development[^1],
 	* This finding paralleled Kreppner and colleagues’ (1999) findings that play behaviours of children previously institutionalized were rated lower than those of a comparison group. 
 	* In addition to underlying cognitive abilities, such as those related to expressive language, other foundational behaviours such as object manipulation and social development have been found to be associated with play behaviours.
 	* **Children living in institutions appeared to play at a level better matching their mental than chronological age** (Mental Age is based on intellectual development.Chronological Age is the number of years a person has lived. When a person's mental age is equal to his actual age, he is said to have an average IQ*)
+* In a paper on sport and physical activity in looked after children[^13], it is argued that prolonged participation in sports activities may be an important source of stability and consistency for those living in or leaving care, as it helps reestablish some sense of structure to their lives 
 
 ### Limitations of traditional assessment in children's institutions
 * It is likely that children living in institutions have had little experience with objects such as toys, balls, and puzzles that are used in these evaluations. It is possible that this unfamiliarity can influence assessment results.
@@ -482,7 +483,7 @@ Recent studies have used applied games to successfully decrease anxiety or depre
 
 # Sports & Vulnerable Children 
 
-## Benefits
+## Benefits of Sports for CNCP
 According to a paper on physical activity and sports in alternative care in Ireland[^10], we know that there are multiple benefits to regular strcutured activity for children 
 
 ### Improves Social relationships:
@@ -574,7 +575,6 @@ According to UNICEF's report on understanding the evidence for child-focused spo
 - More meaningful child participation in programme design and evidence building is needed.
 
 # Play Assessment:
-
 - According to a paper that describes the importance of play in development[^3], play is an effective tool to study development in children
 	-  When play is not being controlled by adults children are not inhibited or conscious and, therefore, one can see them at their best.
 	* Play activities help us to know about the child's cognitive abilities.
@@ -601,3 +601,4 @@ According to UNICEF's report on understanding the evidence for child-focused spo
 [^9]: [[Effects Of A Structural Intervention And Implementation On Physical Activity Among Youth In Residential Children’s Homes]]
 [^10]: [[Physical activity, Exploring the barriers and facilitators for the engagementof young people in residential care in Ireland]]
 [^11]: [[Creating Trauma informed Sports Programming]]
+[^12]: [[Sport and physical activity in the lives of looked-after children a ‘hidden group’ in research, policy and practice]]
