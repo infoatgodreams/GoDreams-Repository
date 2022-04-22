@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "education",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,11 +63,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e154e99fa257850e",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 3/Current Reality/International CCIs/The role of play in children's development.md",
+                "file": "Roll Ups/Physical Health/Play.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,10 +102,10 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "1a6249f321d701da",
+  "active": "9e31ca400183ad2d",
   "lastOpenFiles": [
-    "Volume 3/Current Reality/International CCIs/The role of play in children's development.md",
     "Roll Ups/Physical Health/Play.md",
+    "Volume 3/Current Reality/International CCIs/The role of play in children's development.md",
     "Volume 3/Current Reality/International CCIs/Importance of Play in Development.md",
     "Volume 3/Current Reality/International CCIs/Evaluating the relationship between physical education, sport and social inclusion.md",
     "Volume 3/Care Standards/International - Services for CNCP/Evidence Based Play Therapy.md",
