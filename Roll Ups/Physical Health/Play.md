@@ -21,12 +21,16 @@ Evidence for value of play
 	- initiated in the absence of severe stress 
 
 # Why Play? 
-A review paper on the importance of play in the development of child health[^2], discusses that:
-- An evolutionary perspective dictates that play must serve an important purpose considering the costs it entails in terms of time, energy and risk of injury and predation 
-- From a developmental perspective, play allows children to experiment with their behavioural and social repertoire, and to practice their physical and communication skills
-- Play facilitates the development of social competence, emotional capacities and resilience, creativity and problem-solving skills
-According to a paper that studied play in relation to cognition outcomes[^3], 
-- Play has been related to the development of both cognition and social competence (Fisher, 1992). The findings indicate that the relationship between cognition and play is relatively robust.
+- A review paper on the importance of play in the development of child health[^2], discusses that:
+	- An evolutionary perspective dictates that play must serve an important purpose considering the costs it entails in terms of time, energy and risk of injury and predation 
+	- From a developmental perspective, play allows children to experiment with their behavioural and social repertoire, and to practice their physical and communication skills
+	- Play facilitates the development of social competence, emotional capacities and resilience, creativity and problem-solving skills
+- According to a paper that studied play in relation to cognition outcomes[^3], 
+	- Play has been related to the development of both cognition and social competence (Fisher, 1992). The findings indicate that the relationship between cognition and play is relatively robust.
+- According to a paper on the importance of play in promoting healthy caregiver relationships, 
+	- Play is essential in developing social and emotional ties.
+	- It allows parents to “listen” in a very different, but productive, way. When parents observe their children playing or join them in child-driven play, they can view the world through their child’s eyes and, therefore, may learn to communicate or offer guidance more effectively.
+	- Play also helps forge connections between children. It allows them to learn how to share, to negotiate and resolve conflicts, and to learn self-advocacy skills when necessary.
 
 ## Play & Child Development 
 According to a paper that studied the interplay of play and cognition[^3], 
