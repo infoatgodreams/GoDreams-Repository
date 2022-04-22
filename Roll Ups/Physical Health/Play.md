@@ -512,7 +512,7 @@ Recent studies have used applied games to successfully decrease anxiety or depre
 # Sports & Vulnerable Children 
 
 ## Benefits
-According to a paper on physical activity and sports in alternative care in Ireland, we know that there are multiple benefits to regular strcutured activity for children 
+According to a paper on physical activity and sports in alternative care in Ireland[^10], we know that there are multiple benefits to regular strcutured activity for children 
 
 ### Improves Social relationships:
 - Participation in structured activities, including sports, has been argued to be associated with better social relationships and mental health, but such engagement is lower for children in care than children  living in their homes
@@ -534,6 +534,38 @@ According to a paper on physical activity and sports in alternative care in Irel
 - Participants frequently highlighted sports as an opportunity for children to develop an identity based on a new hobby or activity and based on success and positive experiences in this activity.
 - Adolescence is recognised as significant time of identity development for children in care (Gilligan, 2008) and sports was identified in the current research as offering the opportunity for the development of a positive sense of identity, similar to previous research (Lakey et al., 2017; White & Benny, 2015).
 
+## Barriers for children's engagement in sports in care settings:
+According to a paper on physical activity and sports in alternative care in Ireland[^10], we know that there are multiple problems with regular strcutured activity for children 
+
+### Experience of Trauma:
+- Adversity in life and in particular the experience of trauma and disruption was identified as the most significant barriers for children's limited engagement.
+- The impact of previous chaotic lifestyles on current choices and behaviours, was highlighted as one of the main reasons sports was not viewed as a priority for these children.
+- Due to adverse life experiences these children can often have lower intra-personal skills than their peers (Fratto, 2016) along with reduced levels of self efficacy (Quarmby & Pickering, 2016a,b) which can directly impact their willingness and motivation to engage in sports. 
+
+### Routine in care settings:
+- There was a belief that as children had limited choices in their daily lives in the setting, this often led to a reluctance to engage when offered a choice to participate in an activity. This was further impacted by the fact that children often did not recognise the benefits engagement may provide
+- There was a common sub-theme in discussions of the routine acting as a barrier for the children engaging in spontaneous activities. This was recognised as a significant barrier for unprompted engagement
+- Quarmby (2014) has similarly suggested that the organisational structure of the care settings and the policies that govern activities can impact the ability of children to engage in sports and activity. The authors argue that the need to plan all activities in advance may reduce the sense of control that children develop in activities, thus acting as a barrier to engagement and their sense of enjoyment 
+- Consistent with other research in the area, the staff in the current study felt that children whilst living in residential care may prioritise other areas of their life due to the serious nature of their life, which prevent them engaging in behaviours that may lead to long term positive outcomes, (Berridge, 2017).
+
+### Being under the radar in care settings:
+- Several participants discussed how the children in care settings feel that they are being constantly analysed by the professionals, which prevented the children entering a further situation where they were being judged.
+
+## Stigma related to their identity as a child in care:
+- The expectation that children would engage with people outside of the care setting, or reveal their identity as a child in care, could lead to fear and act as a barrier to engagement in community based activities.
+- This fear of being judged was felt to extend to outside of the care setting for children, and acted as a significant barrier to engagement in community activities. Participants identified that children do not want to appear different to others, and often expressed fear of engaging in sporting activities outside of the care setting for this reason.
+- Greater restraint such as having friends over or being able to be on their own with friends after the events was argued to prevent children engaging in sports outside of the residential unit. The participants suggested that children were often fearful of the stigma of being a child in care leading to rejection and so they chose not to engage with others.
+
+### Low motivation and lack of hope in future:
+- Within this sub-theme a lack of hope was prominent as being observed in children and a belief that this explained children lack of engagement in sporting. This lack of hope in the future was also linked directly to children’s recognition of the importance of making positive changes in their lives to improve their overall wellbeing
+- The motivation to engage in activities was perceived to represent a significant obstacle to children engaging, whilst previously it was suggested that physical access to PA may have prevented engagement.
+
+### Low social skills:
+- The participants frequently identified this as one of the major obstacles for the YP’s engagement, as they lacked the necessary social skills to join activities with others.
+    * They talked about how the YP were sometimes aware of their lack of social skills and this prevented them from engaging, despite a desire to become involved
+    * The staff frequently identified the role of previous life experiences on the difficulty YP had in developing the necessary social skills, such as lack of engagement in PA and play as young children. This was illustrated by Stephen’s point that for these YP PA “wasn’t a priority for these kids, so they never learnt how so now don’t know how to start”. “Ability to play, the spontaneous ability, is often missing in YPs lives, they just didn’t learn this and had the opportunity when they were younger”. 
+
+
 
 
 
@@ -547,3 +579,4 @@ According to a paper on physical activity and sports in alternative care in Irel
 [^8]: [[UdayanCare_Standards Of Care in Child Care Institutions]]
 [^9]: [[Effects Of A Structural Intervention And Implementation On Physical Activity Among Youth In Residential Children’s Homes]]
 [^10]: [[Physical activity, Exploring the barriers and facilitators for the engagementof young people in residential care in Ireland]]
+[^11]: 
