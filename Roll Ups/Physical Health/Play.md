@@ -12,6 +12,21 @@ Evidence for value of play
 
 
 
+# Defining Play
+- According a paper on the importance of play in health, play is described using a biological perspective
+	- not fully functional in the context in which it appears
+	- spontaneous, pleasurable, rewarding, and voluntary
+	- different from other more serious behaviours in form (e.g. exaggerated) or timing (e.g. occurring early in life before the more serious version is needed)
+	- repeated, but not in unvarying stereotypic form (e.g. rocking or pacing) 
+	- initiated in the absence of severe stress 
+
+# Why Play? 
+A review paper on the importance of play in the development of child health[^2], discusses that:
+- An evolutionary perspective dictates that play must serve an important purpose considering the costs it entails in terms of time, energy and risk of injury and predation 
+- From a developmental perspective, play allows children to experiment with their behavioural and social repertoire, and to practice their physical and communication skills
+- Play facilitates the development of social competence, emotional capacities and resilience, creativity and problem-solving skills
+
+
 # Types of Play
 
 ## **Physical play**
@@ -302,9 +317,6 @@ Also, to make stronger conclusions about the importance of learning through play
 
 
 ## **What we know:**
-
-
-
 * Perceiving an activity as the play seems to lead to higher levels of joy and active Engagement
 * Social interaction during play is sometimes linked to improved learning outcomes.
 * Pretending may lead to improved outcomes because children make more meaningful links to their own knowledge and experience.
@@ -312,9 +324,6 @@ Also, to make stronger conclusions about the importance of learning through play
 
 
 ## **What we don’t know:**
-
-
-
 * What is the relative contribution of joy and active engagement to learning through play? Are they both required for learning to occur?
 * What is it about social interaction that can improve learning outcomes? Is it the knowledge transmitted by the play partner, increases in confidence and communication skills, or something else?
 * Does pretence make children create meaningful links to their own experience, compared to other learning contexts and other types of play?
@@ -322,3 +331,4 @@ Also, to make stronger conclusions about the importance of learning through play
 * Under what conditions, if any, are the characteristics detrimental to learning? Particularly for social interaction, it seems logical that playing with an ignorant or misguided partner could lead to reduced or maladaptive learning.
 
 [^1]: [[The role of play in children's development]]
+[^2]: [[Healthy play, better coping, The importance of play for the development of children in health and disease]]
