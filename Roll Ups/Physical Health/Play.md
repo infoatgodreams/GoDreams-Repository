@@ -339,5 +339,48 @@ Also, to make stronger conclusions about the importance of learning through play
 * How much effect does meaning have on learning during play? Is there a large or small difference in learning if children can link material to their own experience?
 * Under what conditions, if any, are the characteristics detrimental to learning? Particularly for social interaction, it seems logical that playing with an ignorant or misguided partner could lead to reduced or maladaptive learning.
 
+# Children with Chronic Conditions 
+
+## Challenging Play Behaviours in Chronic Illness
+- In addition to the somatic and psychological consequences of their illness, several factors such as isolation, stigma, inequality, bullying and doubts concerning their physical and intellectual capacities are everyday realities for children with chronic diseases that may negatively impact healthy play and development
+- Being hospitalized, pain and fatigue, social isolation and the ‘other-than-normal’ treatment of diseased children are likely to compromise their play behaviour
+- Health care professionals primarily focus on the biological facets of treatment success, and may be less inclined to address the effects of disease on patients’ daily routine and self-perceptionn. 
+- **Any source of stress can compromise well-being**
+	- This includes hospitalization and treatment regimes to social challenges and physical limitations
+	- Interruption of daily routines, an unfamiliar environment, strange and frightening equipment, and feelings of a lack of control may increase stress in children, leasing to trauma, when in hospitals
+        * serious chronic illness can have detrimental effects on school attendance, relations with peers at school and school engagement
+
+## Play as a tool to improve outcomes in chronic illness
+
+- Optimal strategies, incorporating diverse methodologies such as very early interventions, play therapies, gaming and interactive technology, aimed at improving well-being and quality of life in this population are much needed
+- From a therapeutic perspective, play as intervention is valuable because play
+	- regulates negative affect and diminishes stress
+	- facilitates coping with adverse events
+	- is useful for processing new information both cognitively and emotionally by allowing for order and integration
+	- is a safe way to practice new behaviour and experiment with solutions
+	- stimulates fantasy and creative (divergent) thinking
+	- stimulates the development of empathy 
+
+## Treatment potential of game technology
+Recent studies have used applied games to successfully decrease anxiety or depressive symptoms in adolescents
+
+### Games influence behaviour in children
+
+- Playing games can influence social, emotional and cognitive development. The immersive social context of today’s games help gamers rapidly learn social skills and pro-social behaviour
+- playing a prosocial game was shown to induce long-lasting enhancements in e.g. helping, cooperation, empathy and emotional awareness 
+- individuals who had played a cooperative game showed more prosocial behaviour in a dilemma task than players who had played competitively, suggesting that these behaviours might be transferable to their peer and family relations outside the gaming environment
+- Little is known about the long-term effects of gaming on emotions and mood, although there are reasons to think that gaming may be positive for an individual’s growth and social connection
+- Regular games can be used to motivate and engage patients in physical activity and therapy as well
+- Games also have the potential to enhance mental health and wellbeing in children and adolescents
+
+#### Video games 
+-  Playing video games can enhance problem solving skills and creativity and, mostly action games, have a positive impact on focus and spatial skills
+- In addition, a recent study on the consequences of playing video games, identified positive outcome for intellectual functioning, competence in reading, mathematics, spelling and academic achievement
+        * On the one hand, games can be used to distract patients and help them to cope with the side effects of treatments, like nausea, vomiting, anxiety, fatigue and pain, much the same as physical play does
+        * Computer games may have the same effect as an often more expensive relaxation training.
+        * Applied games could be combined with patient-tailored tools to assess a patient’s wellbeing in dedicated e-health platforms to deliver personalized interventions
+
+
+
 [^1]: [[The role of play in children's development]]
 [^2]: [[Healthy play, better coping, The importance of play for the development of children in health and disease]]
