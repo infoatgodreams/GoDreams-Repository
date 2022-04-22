@@ -515,22 +515,24 @@ Recent studies have used applied games to successfully decrease anxiety or depre
 According to a paper on physical activity and sports in alternative care in Ireland, we know that there are multiple benefits to regular strcutured activity for children 
 
 ### Improves Social relationships:
-    * Participation in structured activities, including PA, has been argued to be associated with better social relationships and mental health, but such engagement is lower for children in care than YP living in their homes (Conn, et al., 2013).
-    * PA engagement has been found to facilitate the building of social networks and connections for this population of YP (Quarmby, 2014; Quarmby et al., 2019). 
-* Build resilience
-    * In order to improve long term outcomes, there is a need to build resilience with these vulnerable young people (Gilligan, 2000, 2008), and engagement in PA is argued to allow for the development of such resilient behaviours (White & Bennie, 2015).
-    * Berridge (2017) study of 26 YP in care in England further identified the importance of stable and secure adult relationships within the care setting to help build resilience.
-* Minimise disruptive effects of changes in care setting:
-    * Fong, Schwab & Armour (2006) have proposed that in the face of placement changes, continuity of activities should be a priority for this group. They argue this would allow YP to maintain regular, familiar and/or normalising activities, which might minimise the disruptive effect of changes in care. In this respect, engagement in PA and sporting activities could be a stabilising factor during a period of change.
-    * Gay et al. (2011) reported similar findings with significant correlations between PA and the opportunities and characteristics of the care settings. YP in settings with a recreation director and those in rural locations reported greater PA engagement, than those in urban locations. 
-* Build confidence:
-    * In more recent research, YP in residential care identified that engagement in sport and PA developed their confidence, competence, character and connections, with positive peer and adult relationships viewed as central to securing positive outcomes from such engagement (Quarmby et al., 2019).
-* Better manage emotions and stressful life events:
-    *  In terms of other outcomes, all of the participants discussed how engagement in PA provided a way for the YP to develop active strategies to deal with stressful life events. They talked about the potential of using PA as a way to vent and burn energy and for YP to manage their emotions
-    * A number of the participants described how PA was identified within YP’s care plans as an intervention for reducing anxiety and how successful it could be. Maria discussed this in relation to the important emphasis placed on PA for an individual YP she worked with, stating that PA was “the last thing to be taken away from YP because it was an actual intervention that directly worked for her anxiety and anger and was part of her overall plan”.
-* Develop their identity:
-    * Participants frequently highlighted PA as an opportunity for YP to develop an identity based on a new hobby or activity and based on success and positive experiences in this activity.
-    * Adolescence is recognised as significant time of identity development for YP in care (Gilligan, 2008) and PA was identified in the current research as offering the opportunity for the development of a positive sense of identity, similar to previous research (Lakey et al., 2017; White & Benny, 2015). The staff viewed engagement in PA as a way of helping YP to reshape their identity and build hope, providing opportunities for experiencing success, recognition and praise
+- Participation in structured activities, including sports, has been argued to be associated with better social relationships and mental health, but such engagement is lower for children in care than children  living in their homes
+- Sports engagement has been found to facilitate the building of social networks and connections for this population of children.
+
+### Build resilience
+- In order to improve long term outcomes, there is a need to build resilience with these vulnerable young people (Gilligan, 2000, 2008), and engagement in sports is argued to allow for the development of such resilient behaviours (White & Bennie, 2015).
+
+### Minimise disruptive effects of changes in care setting:
+- Fong, Schwab & Armour (2006) have proposed that in the face of placement changes, continuity of activities should be a priority for this group. They argue this would allow children to maintain regular, familiar and/or normalising activities, which might minimise the disruptive effect of changes in care. In this respect, engagement in sports and sporting activities could be a stabilising factor during a period of change.
+
+### Build confidence:
+- In more recent research, children in residential care identified that engagement in sport and PA developed their confidence, competence, character and connections, with positive peer and adult relationships viewed as central to securing positive outcomes from such engagement (Quarmby et al., 2019).
+
+### Better manage emotions and stressful life events:
+- In terms of other outcomes, all of the participants discussed how engagement in PA provided a way for the children to develop active strategies to deal with stressful life events. They talked about the potential of using sports as a way to vent and burn energy and for children to manage their emotions
+
+### Develop their identity:
+- Participants frequently highlighted sports as an opportunity for children to develop an identity based on a new hobby or activity and based on success and positive experiences in this activity.
+- Adolescence is recognised as significant time of identity development for children in care (Gilligan, 2008) and sports was identified in the current research as offering the opportunity for the development of a positive sense of identity, similar to previous research (Lakey et al., 2017; White & Benny, 2015).
 
 
 
