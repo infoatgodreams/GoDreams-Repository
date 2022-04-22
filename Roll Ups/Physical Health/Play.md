@@ -423,6 +423,19 @@ Recent studies have used applied games to successfully decrease anxiety or depre
 	* A therapist familiar with a play scale similar to the one used in this study may be able to gauge a child’s developmental status through observing play behaviours.
 
 
+# Play Settings & Schedules 
+
+- According to the American Association of Paediatrics, 
+	- Provide opportunities for your child to sing and dance.
+	- Tell stories to your child and ask questions about what he or she remembers.
+	- Give your child time and space to act out imaginary scenes, roles, and activities.
+	- Allow your child to move between make-believe games and reality—for example, playing house and helping you with chores.
+	- Schedule time for your child to interact with friends to practice socializing and building friendships.
+	- Encourage your child to try a variety of movements in a safe environment—for example, hopping, swinging, climbing, and doing somersaults.
+	- Limit screen time to healthy levels. Age-appropriate media can have benefits for older children, especially if you watch and play with them. But real time social interactions and play are much better for children than digital media for learning.
+	- Encourage your child's school to offer recess and playful learning approaches in addition to more structured learning approaches like reading, memorization and worksheets.
+
+
 [^1]: [[The role of play in children's development]]
 [^2]: [[Healthy play, better coping, The importance of play for the development of children in health and disease]]
 [^3]: [[Play and Cognition Among Young Children Reared  in an Institution]]
