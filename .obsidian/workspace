@@ -4,17 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "114a5c22f93fc635",
+        "id": "9e31ca400183ad2d",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Roll Ups/Physical Health/Play.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Physical Health/Play.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +81,9 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "114a5c22f93fc635",
+  "active": "9e31ca400183ad2d",
   "lastOpenFiles": [
+    "Volume 3/Current Reality/International CCIs/Evaluating the relationship between physical education, sport and social inclusion.md",
     "Roll Ups/Physical Health/Play.md",
     "Volume 3/Care Standards/International - Services for CNCP/Evidence Based Play Therapy.md",
     "Volume 3/Care Standards/International - Services for CNCP/Therapeutic intervention for children through play, An overview.md",
@@ -98,7 +92,6 @@
     "Volume 3/Care Standards/International - Service Providers to CCIs/Physical activity, Exploring the barriers and facilitators for the engagementof young people in residential care in Ireland.md",
     "Roll Ups/Education/Play.md",
     "Roll Ups/Mental Health/Mental Health.md",
-    "Roll Ups/Infrastructure.md",
-    "Roll Ups/Assessment Tools.md"
+    "Roll Ups/Infrastructure.md"
   ]
 }
