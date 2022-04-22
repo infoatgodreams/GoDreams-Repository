@@ -52,12 +52,22 @@ In a paper that discusses the effect of play on child health development[^2], we
 	- Play Holds the Child's Attention: Play involves the children physically and holds their attention in one activity for longer periods and, therefore, aids learning. 
 	- Learning Through Play is Fun: It is only fair that we help children learn through ways they enjoy and make learning a stimulating and rewarding experience for them. Play, therefore, is an enjoyable medium through which children learn things they are ready to learn.
 
-	
-
 # Types of Play 
 ### (Skim, details not as relevant- read conclusions for each type of play)
 
 This section primarily relies on a white-paper that captures the value of play in child development. [^1]
+
+## Summary of this section (for ease of reading)
+
+* When and how is play more effective than other contexts for learning? As outlined in the previous sections, there is evidence, among other things, that:
+	* physical play is linked to motor development, and some tentative evidence that it is linked to social development;
+	* unstructured breaks from cognitive tasks improve learning and attention, though it is unclear whether play leads to greater improvements in learning than simply taking a break and, for example, talking with friends; 
+	* block play leads to improvements in spatial processing/mental rotation; 
+	* construction play relates to language development, and this relationship may be strongest in infancy, with pretend play becoming more important for language as children enter toddlerhood; 
+	* word-play and word-games relate to language development; 
+	* pretend play relates to language development, and particularly narrative skills; • pretend play – and particularly fantasy-oriented pretence – may relate to learning-to-learn skills such as executive function and self-regulation. 
+	* board games (particularly those with numbers and linear number sequences) lead to improvements in numeracy/mathematics ability; 
+	* physical games with rules help children (and especially boys) adapt to formal schooling 
 
 ## **Physical play**
 
@@ -81,7 +91,6 @@ According to a white paper on the role of play in children's development[^1],
 	* co-ordination
 	* balance
 
-
 ### Physical Play during school recess is not necessary
 * Thus, in their review of this area, Pellegrini & Bohn (2005) conclude that ‘unstructured breaks from demanding cognitive tasks seem to facilitate school learning, as well as more general social competence and adjustment to school.
 *  In a study of 5-9-year-olds’ playground behaviour, Pellegrini, Huberty & Jones (1995) found that children’s attentiveness improved after recess, **but physical activity did not seem to play an important role in this, as recess with limited opportunity for physical activity was found to have the same effect.** 
@@ -89,7 +98,6 @@ According to a white paper on the role of play in children's development[^1],
 
 
 ### Conclusions about Physical Play
-
 * The evidence base for conclusions on physical play is not extensive. 
 * There is good evidence that physically active play provides **children with exercise and the consequent health benefits**
 * there seems to be reasonable evidence associating physical play of various kinds with academic progress and cognitive self-regulation, and with social competence; 
@@ -99,7 +107,6 @@ According to a white paper on the role of play in children's development[^1],
 
 
 ## **Play with objects**
-
 * This second type of play, which is also widely observed in primates, concerns children’s developing explorations of the world and the objects they find within it.
 * Play with objects begins as soon as infants can grasp and hold on to them; early investigative behaviours include mouthing/biting, rotating while looking, rubbing/stroking, hitting and dropping.
 * From around 18-24 months, toddlers begin to arrange objects, which gradually develops into sorting and classifying activities. By the age of 4 years, building, making and constructing behaviours emerge
@@ -122,14 +129,12 @@ According to a white paper on the role of play in children's development[^1],
 
 
 ### Conclusions about object play
-
 * theoretical arguments have been developed, and have been supported by some empirical studies, linking play with objects with the development of representational abilities, reasoning and problem-solving strategies; 
 * a range of studies have provided reasonable evidence of links between play with objects with the development of language, maths and spatial skills; 
 * It is also the case that, overwhelmingly, studies of play with objects have been with young children under the age of 7 years.
 
 
 ## **Symbolic play**
-
 * We now come to types of play which are engaged in only by humans, mainly because they rely on our incomparable symbolic representational abilities. 
 * The first of the types, which we are referring to as symbolic play, concerns play with the various symbolic representational systems we use to make and communicate meaning. For this reason, an alternative name for this type of play might be ‘semiotic’ play. 
 * This type of play emerges in children from around the age of 12 months when they first begin to intentionally use sounds to convey meaning (although it could be argued that they play with sounds, in babbling, much earlier and also with gestures, which are used to convey meaning during the first year of life) 
@@ -214,7 +219,6 @@ According to a white paper on the role of play in children's development[^1],
 
 
 ### Conclusions about Pretend Play
-
 * Pretend play is one way of developing children’s reasoning skills, but there are other ways of achieving the same result that are just as effective; 
 * Pretend play may be a way of developing children’s social skills and awareness of others’ minds (‘Theory of mind’). Most of the evidence is mixed or unsatisfactory, but there is good evidence from one recent study that pretend play may have an impact on social development; 
 * Pretend play could be crucial to the development of language, narrative skills and emotion regulation, but the evidence is very limited and more research is needed; • there are differences in the quality of learning and applications of learning when children learn in pretence versus non-pretence contexts; 
@@ -223,8 +227,8 @@ According to a white paper on the role of play in children's development[^1],
 
 
 ## **Games with rules**
-
-* Young children are strongly motivated by the need to make sense of their world and, as part of this, they are very interested in rules. From a very young age children begin to enjoy games with rules, and to invent their own. These include physical games such as chasing games, hide-and-seek, throwing and catching etc.
+* Young children are strongly motivated by the need to make sense of their world and, as part of this, they are very interested in rules.
+*  From a very young age children begin to enjoy games with rules, and to invent their own. These include physical games such as chasing games, hide-and-seek, throwing and catching etc.
 * As children mature, electronic and computer games, and the whole variety of sporting activities emerge.
 * As well as helping children to develop their understandings about rules, the main developmental contribution of playing games derives from their essentially social nature. While playing games with their friends, siblings and parents, it has been argued that young children are learning a range of social skills related to sharing, taking turns, understanding others’ perspectives and so on.
 * The most frequently occurring outcome reported for games for learning was knowledge acquisition, while entertainment games addressed a broader range of affective, behaviour change, perceptual and cognitive and physiological outcomes.
@@ -262,17 +266,7 @@ According to a white paper on the role of play in children's development[^1],
 * games with rules may act as a proxy for an adult scaffolding and guiding children’s learning, while also giving the child freedom and choice in their activity.
 
 
-## Summary of this section (for ease of reading)
 
-* When and how is play more effective than other contexts for learning? As outlined in the previous sections, there is evidence, among other things, that:
-	* physical play is linked to motor development, and some tentative evidence that it is linked to social development;
-	* unstructured breaks from cognitive tasks improve learning and attention, though it is unclear whether play leads to greater improvements in learning than simply taking a break and, for example, talking with friends; 
-	* block play leads to improvements in spatial processing/mental rotation; 
-	* construction play relates to language development, and this relationship may be strongest in infancy, with pretend play becoming more important for language as children enter toddlerhood; 
-	* word-play and word-games relate to language development; 
-	* pretend play relates to language development, and particularly narrative skills; • pretend play – and particularly fantasy-oriented pretence – may relate to learning-to-learn skills such as executive function and self-regulation. 
-	* board games (particularly those with numbers and linear number sequences) lead to improvements in numeracy/mathematics ability; 
-	* physical games with rules help children (and especially boys) adapt to formal schooling 
 
 
 # Characteristics of Play in the context of Learning
