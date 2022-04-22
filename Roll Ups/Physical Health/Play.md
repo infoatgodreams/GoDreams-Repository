@@ -350,6 +350,23 @@ Also, to make stronger conclusions about the importance of learning through play
 
 # Play in Institutional Care
 
+## Assessing play behaviour in institutional care
+- [^3]In a paper that studied play and congition correlation in institutional children, they discussed previous evidence that shows that
+	* In a classic field study of child development in orphanages, Provence and Lipton (1962) described infants reaching for and grasping toys until 5 or 6 months of age, but from that point on their exploration dwindled and continued to do so with further institutionalization.
+	* Children cared for in institutions exhibited less exploratory play, less varied play, and developmentally lower levels of play than their home-reared peers. (These findings must, however, be interpreted conservatively).
+	* Kaler and Freeman (1994) conducted a play test on Romanian children. The authors described the children’s play behaviours as “... quite low for the sample’s chronological age but appropriate for the mental age”
+	* British-born adoptees exhibited significantly higher levels of pretend play, roleplay and referencing of others’ mental states than the Romanian adoptees, suggesting that the effects of institutionalization may be long-lasting. 
+* In the same paper, in a study conducted by authors, they noted that 
+	* when compared to children with the same chronological age in McCune’s sample, fewer children from the sample demonstrated play behaviours at each level of play with the exception of symbolic play
+	* This finding paralleled Kreppner and colleagues’ (1999) findings that play behaviours of children previously institutionalized were rated lower than those of a comparison group. 
+	* In addition to underlying cognitive abilities, such as those related to expressive language, other foundational behaviours such as object manipulation and social development have been found to be associated with play behaviours.
+	* **Children living in institutions appeared to play at a level better matching their mental than chronological age** (Mental Age is based on intellectual development.Chronological Age is the number of years a person has lived. When a person's mental age is equal to his actual age, he is said to have an average IQ*)
+
+### Limitations of assessment in children's institutions
+* It is likely that children living in institutions have had little experience with objects such as toys, balls, and puzzles that are used in these evaluations. It is possible that this unfamiliarity can influence assessment results.
+* a weak relationship between play and cognition could also indicate that moderating variables, such as motivation, sense of security, or motor behaviours, were influencing this relationship. 
+* Conversely, if institutionalized children demonstrated play behaviours that highly corresponded with standardized measures, it may offer practitioners alternatives during challenging assessments. 
+
 
 # Children with Chronic Conditions 
 
@@ -398,6 +415,8 @@ Recent studies have used applied games to successfully decrease anxiety or depre
 	* Play assessment: used two toy sets to assess play. 
 	    * The first consisted of exploratory toys comparable to those donated to the institutions. 
 	    * The second set consisted primarily of symbolic toys to provide sufficient opportunity to elicit the children’s symbolic play behaviours.
+* The same paper on cognition and play[^3] suggests that play assessments may be used by therapists attempting to assess children newly adopted from institutions who are difficult to engage in standardized testing, but able to be engaged in play. 
+	* A therapist familiar with a play scale similar to the one used in this study may be able to gauge a child’s developmental status through observing play behaviours.
 
 
 [^1]: [[The role of play in children's development]]
