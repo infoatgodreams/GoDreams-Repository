@@ -470,29 +470,26 @@ Recent studies have used applied games to successfully decrease anxiety or depre
 
 # Play Settings & Schedules 
 
+# Varying needs of children based on age
+
 ## Children aged under five
+- Children between four and five years are often in a pre-school setting. They have different routines and structures in their day. 
+- They’re becoming more independent, self-confident and inquisitive.
+- Usually they are content to play with their toys for longer, enjoy doing new things, and will play with or without an adult.
+- Playing with your child is still lots of fun but you should encourage their freely chosen play.
 
-Children between four and five years are often in a pre-school setting. They have different routines and structures in their day. They’re becoming more independent, self-confident and inquisitive. 
-
-Usually they are content to play with their toys for longer, enjoy doing new things, and will play with or without an adult.
-
-Playing with your child is still lots of fun but you should encourage their freely chosen play.
-
- Suitable playing activities for children this age include:
-
+### Suitable playing activities for children this age include:
 -   reading or looking at books
 -   simple games such as snap, i-spy, snakes and ladders, playing cards
 -   outdoor scavenger hunts, picnics, ball games, hide-and-seek
 -   adding new items to the dressing up box such as old mobile phones, cameras, walkie-talkies and binoculars
 
+
 ## School age children
+- As children grow up, they become more independent. They also test boundaries, explore their emotions and make friends
+- They should be encouraged to follow their own play ideas and instincts.
 
-As children grow up, they become more independent. They also test boundaries, explore their emotions and make friends.
-
-They should be encouraged to follow their own play ideas and instincts.
-
-Suitable playing activities for children this age include:
-
+### Suitable playing activities for children this age include:
 -   outdoor play, traditional games, two ball, hopscotch, tag, bike rides, tree climbing
 -   den building using blankets, sheets, fabric, string, pegs, cushions, carpet squares
 -   doing arts and crafts such as junk art, building, crafts, sewing, woodwork
@@ -500,14 +497,18 @@ Suitable playing activities for children this age include:
 -   playing in the rain or snow
 -   walking to school
 
+
 ## Post primary children and young people
+- When a child leaves primary school, they still need to play. 
+- They need opportunities to explore their neighbourhoods, test their boundaries and be outdoors. 
+- Their friends and friendship groups are important. 
+- Caregivers should encourage young people to be outdoors and limit the time they use mobile telephones and digital screens. They need:
+	- time to relax away from study and schoolwork, household tasks or structured activity
+	- indoor and outdoor spaces to relax
 
-When a child leaves primary school, they still need to play. They need opportunities to explore their neighbourhoods, test their boundaries and be outdoors. Their friends and friendship groups are important. They often enjoy socialising in parks or public places.
 
-Parents should encourage young people to be outdoors and limit the time they use mobile telephones and digital screens. They need:
+# Recommended care practices for caregivers
 
--   time to relax away from study and schoolwork, household tasks or structured activity
--   indoor and outdoor spaces to relax
 - According to the American Association of Paediatrics, 
 	- Provide opportunities for your child to sing and dance.
 	- Tell stories to your child and ask questions about what he or she remembers.
