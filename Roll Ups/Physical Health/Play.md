@@ -267,9 +267,7 @@ According to a white paper on the role of play in children's development[^1],
 
 
 
-
-
-# Characteristics of Play in the context of Learning
+# Play in the context of Learning
 
 ## Joyful and actively engaging
 * Children who perceive an activity as play are more focused, attentive, motivated and show signs of higher well-being while on-task (Howard & McInnes, 2013; Sawyer, 2017)
@@ -294,21 +292,20 @@ According to a white paper on the role of play in children's development[^1],
 
 
 ### Iterative
-
 * Therefore, these studies of object play demonstrate how the iterative nature of play can make it a more effective learning context for innovative problem-solving. Variation is key
 * It was concluded that cooperative problem-solving activities that allow children greater control of the task goals and interaction, similar to play contexts, appear to promote higher levels of cooperation and more effective learning and performance in young children. 
 * In sum, certain studies from the existing body of research into play types and child outcomes support the hypothesis that the five characteristics of playful experiences are the main factors that facilitate learning through play. However, more research is needed to confirm this hypothesis. 
 * Finally, although there is some suggestive evidence about the role of play in supporting the development of communication skills, of abstract thought, self regulation,and more adaptive, flexible, creative thinking, we still do not have conclusive evidence of causal relations.
 
 
-## **What we know:**
+## **What we know about play and learning outcomes:**
 * Perceiving an activity as the play seems to lead to higher levels of joy and active Engagement
 * Social interaction during play is sometimes linked to improved learning outcomes.
 * Pretending may lead to improved outcomes because children make more meaningful links to their own knowledge and experience.
 * Iterative play may lead to more creative, innovative ways of thinking and problem solving.
 
 
-## **What we don’t know:**
+## **What we don’t know about play and learning outcomes:**
 * What is the relative contribution of joy and active engagement to learning through play? Are they both required for learning to occur?
 * What is it about social interaction that can improve learning outcomes? Is it the knowledge transmitted by the play partner, increases in confidence and communication skills, or something else?
 * Does pretence make children create meaningful links to their own experience, compared to other learning contexts and other types of play?
@@ -347,12 +344,12 @@ According to a white paper on the role of play in children's development[^1],
 	* In addition to underlying cognitive abilities, such as those related to expressive language, other foundational behaviours such as object manipulation and social development have been found to be associated with play behaviours.
 	* **Children living in institutions appeared to play at a level better matching their mental than chronological age** (Mental Age is based on intellectual development.Chronological Age is the number of years a person has lived. When a person's mental age is equal to his actual age, he is said to have an average IQ*)
 
-### Limitations of assessment in children's institutions
+### Limitations of traditional assessment in children's institutions
 * It is likely that children living in institutions have had little experience with objects such as toys, balls, and puzzles that are used in these evaluations. It is possible that this unfamiliarity can influence assessment results.
 * a weak relationship between play and cognition could also indicate that moderating variables, such as motivation, sense of security, or motor behaviours, were influencing this relationship. 
 * Conversely, if institutionalized children demonstrated play behaviours that highly corresponded with standardized measures, it may offer practitioners alternatives during challenging assessments. 
 
-## Policy recommendations
+### Policy recommendations for improving play
 - [^4]Recommendations to improve play opportunities in low resource settings: 
 	* In schools, the need to support social and emotional learning and healthy child development must be held alongside the need to increase academic scores. Otherwise, school engagement might suffer and efforts at creating a better-prepared generation might fail.
 	* Supervised after-school programs can be critical to children who live in communities where outside playing might be dangerous or unsupervised. 
@@ -360,11 +357,14 @@ According to a white paper on the role of play in children's development[^1],
 	* Keeping school facilities open for use by community families in the evenings and on weekends when they are usually closed may increase engagement in these activities.
 * Udayan Care[^8] recommends that all institutions have Indoor and outdoor games, yoga, meditation, music, television, picnics and outings and cultural programmes, gardening, library, dance, art therapy etc., and child-friendly library
 
-# Play Settings & Schedules 
 
-## Varying needs of children based on age
+## Play Settings & Schedules 
 
-### Children aged under five
+These recommendations are from the American Academy of Paediatrics
+
+### Varying needs of children based on age
+
+#### Children aged under five
 - Children between four and five years are often in a pre-school setting. They have different routines and structures in their day. 
 - They’re becoming more independent, self-confident and inquisitive.
 - Usually they are content to play with their toys for longer, enjoy doing new things, and will play with or without an adult.
@@ -377,7 +377,7 @@ According to a white paper on the role of play in children's development[^1],
 -   adding new items to the dressing up box such as old mobile phones, cameras, walkie-talkies and binoculars
 
 
-### School age children
+#### School age children
 - As children grow up, they become more independent. They also test boundaries, explore their emotions and make friends
 - They should be encouraged to follow their own play ideas and instincts.
 
@@ -390,7 +390,7 @@ According to a white paper on the role of play in children's development[^1],
 -   walking to school
 
 
-### Post primary children and young people
+#### Post primary children and young people
 - When a child leaves primary school, they still need to play. 
 - They need opportunities to explore their neighbourhoods, test their boundaries and be outdoors. 
 - Their friends and friendship groups are important. 
@@ -399,8 +399,7 @@ According to a white paper on the role of play in children's development[^1],
 	- indoor and outdoor spaces to relax
 
 
-## Recommended care practices for caregivers
-
+### Recommended care practices for caregivers
 - According to the American Association of Paediatrics, 
 	- Provide opportunities for your child to sing and dance.
 	- Tell stories to your child and ask questions about what he or she remembers.
@@ -411,7 +410,7 @@ According to a white paper on the role of play in children's development[^1],
 	- Limit screen time to healthy levels. Age-appropriate media can have benefits for older children, especially if you watch and play with them. But real time social interactions and play are much better for children than digital media for learning.
 	- Encourage your child's school to offer recess and playful learning approaches in addition to more structured learning approaches like reading, memorization and worksheets.
 
-## Challenges in structured interventions applied accross different institutions
+## Challenges in structured play interventions applied accross different institutions
 - Context: This study reports the effects of a structural intervention, ENRICH (Environmental Interventions in Children’s Homes) which targeted the physical and social environment within residential children’s homes (RCHs) to increase physical activity (PA) among residents. [^9]
 - Hypothesis: 
 	- ENRICH was a structural intervention that worked with adult staff as change agents to create a more health-promoting environment in the RCH, which was hypothesized to result in increased PA among children. 
@@ -423,7 +422,6 @@ According to a white paper on the role of play in children's development[^1],
 - Interventions targeting organizational changes to impact population health behaviors should devote careful attention and provide adequate resources to effectively monitor and document implementation.
 - Moreover, contextual factors within organizational settings including the PA environment and organizational capacity to implement health promotion programs are important to consider and should be assessed prior to implementation.
 - Future work is needed to examine the different organizational climates and cultures which influence the implementation of health promotion programs and changes to the physical and social PA environment. 
-
 
 
 
@@ -480,21 +478,6 @@ Recent studies have used applied games to successfully decrease anxiety or depre
         * On the one hand, games can be used to distract patients and help them to cope with the side effects of treatments, like nausea, vomiting, anxiety, fatigue and pain, much the same as physical play does
         * Computer games may have the same effect as an often more expensive relaxation training.
         * Applied games could be combined with patient-tailored tools to assess a patient’s wellbeing in dedicated e-health platforms to deliver personalized interventions
-
-
-# Play Assessment:
-
-- According to a paper that describes the importance of play in development[^3], play is an effective tool to study development in children
-	-  When play is not being controlled by adults children are not inhibited or conscious and, therefore, one can see them at their best.
-	* Play activities help us to know about the child's cognitive abilities.
-	* Play also reflects the child's social development.
-- A paper that studied the interplay of play and cognition[^3], used 
-	- Bayley Scales of Infant Development, 2nd edition (BSID-II; Bayley, 1993). We used the BSID-II to assess children’s general cognitive development. 
-	* Play assessment: used two toy sets to assess play. 
-	    * The first consisted of exploratory toys comparable to those donated to the institutions. 
-	    * The second set consisted primarily of symbolic toys to provide sufficient opportunity to elicit the children’s symbolic play behaviours.
-* The same paper on cognition and play[^3] suggests that play assessments may be used by therapists attempting to assess children newly adopted from institutions who are difficult to engage in standardized testing, but able to be engaged in play. 
-	* A therapist familiar with a play scale similar to the one used in this study may be able to gauge a child’s developmental status through observing play behaviours.
 
 
 # Sports & Vulnerable Children 
@@ -590,8 +573,22 @@ According to UNICEF's report on understanding the evidence for child-focused spo
 - Better evidence is needed for the monitoring of sport for development initiatives, including more research on effective implementation.
 - More meaningful child participation in programme design and evidence building is needed.
 
+# Play Assessment:
+
+- According to a paper that describes the importance of play in development[^3], play is an effective tool to study development in children
+	-  When play is not being controlled by adults children are not inhibited or conscious and, therefore, one can see them at their best.
+	* Play activities help us to know about the child's cognitive abilities.
+	* Play also reflects the child's social development.
+- A paper that studied the interplay of play and cognition[^3], used 
+	- Bayley Scales of Infant Development, 2nd edition (BSID-II; Bayley, 1993). We used the BSID-II to assess children’s general cognitive development. 
+	* Play assessment: used two toy sets to assess play. 
+	    * The first consisted of exploratory toys comparable to those donated to the institutions. 
+	    * The second set consisted primarily of symbolic toys to provide sufficient opportunity to elicit the children’s symbolic play behaviours.
+* The same paper on cognition and play[^3] suggests that play assessments may be used by therapists attempting to assess children newly adopted from institutions who are difficult to engage in standardized testing, but able to be engaged in play. 
+	* A therapist familiar with a play scale similar to the one used in this study may be able to gauge a child’s developmental status through observing play behaviours.
 
 
+# References
 
 [^1]: [[The role of play in children's development]]
 [^2]: [[Healthy play, better coping, The importance of play for the development of children in health and disease]]
