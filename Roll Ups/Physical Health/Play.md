@@ -243,8 +243,6 @@ According to a white paper on the role of play in children's development[^1],
 
 ### Summary
 
-
-
 * board games (particularly those with numbers and linear number sequences) lead to improvements in numeracy/mathematics ability; 
 * physical games with rules help children (and especially boys) adapt to formal schooling;
 * games with rules may act as a proxy for an adult scaffolding and guiding children’s learning, while also giving the child freedom and choice in their activity.
@@ -264,6 +262,8 @@ According to a white paper on the role of play in children's development[^1],
 
 Also, to make stronger conclusions about the importance of learning through play, we need to look at studies comparing play to other learning contexts. These suggested relationships between the research on the five types of play and development, and the five characteristics, are described on the following pages.
 
+# Characteristics of Play in the context of Learning
+
 
 ### Joyful and actively engaging
 
@@ -273,7 +273,6 @@ Also, to make stronger conclusions about the importance of learning through play
 
 
 ### Socially interactive
-
 
 * Lehrer at al. (2014) assessed whether the activities children engaged in during their unstructured time predicted their ‘adaptive skills’ (as measured on the teacher-report BASC-2 measure)
 * Similarly, Pellegrini (1992) found that 5-year-old children’s level of social interaction with other children during recess predicted their school achievement, whereas their level of social interaction with teachers during recess was negatively related to their school achievement
@@ -286,16 +285,12 @@ Also, to make stronger conclusions about the importance of learning through play
 
 ### Meaningful
 
-
-
 * The children who simply played the number board game became more interested in mathematics, and one explanation for this result is that numbers now had more meaning for them – they had found a new context in their lives in which numbers could be applied, and that context was fun!
 * Dansky (1980) found that sociodramatic play led to children developing higher narrative skills than other conditions with equal adult contact, showing that social interactions with a more knowledgeable partner is not the important factor in this case. Baumer, Ferholt & Lecusay (2005) compared how pretending versus story talk influenced narrative development, and pretending led to superior outcomes.
 * When pretending, a child needs to draw on their own personal experience and interests in order to generate ideas for characters and situations. Discussing a story, by contrast, can remain a relatively abstract, detached activity. 
 
 
 ### Iterative
-
-
 
 * While the studies discussed above likely involved some level of iterative activity, it is difficult to know how much, and children may well engage in board games and pretend play without much repetition with-variation
 * What is different about the play condition compared to the training condition in such studies? The play in this case is clearly iterative, as children would have tried out different actions with the materials and different ways of connecting the sticks.
