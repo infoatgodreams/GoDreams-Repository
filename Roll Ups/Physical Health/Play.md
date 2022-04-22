@@ -452,6 +452,42 @@ Recent studies have used applied games to successfully decrease anxiety or depre
         * Applied games could be combined with patient-tailored tools to assess a patient’s wellbeing in dedicated e-health platforms to deliver personalized interventions
 
 # Play Therapy
+- This section is primarily taken from two papers, one on evidence based play therapy[^6] and another one that describes therapeutic interventions in children through play[^7]. 
+
+## What is play therapy?
+
+- As described in a paper on evidence-based play therapy[^6], Founded in 1982, the Association for Play Therapy (APT) formed to develop and promote play therapy as a separate and distinct psychotherapy modality for treatment. 
+- Play therapy is a form of therapy used primarily for children. That’s because children may not be able to process their own emotions or articulate problems to parents or other adults.
+- Although people of all ages can benefit from play therapy, it’s typically used with children between the ages of 3 and 12. 
+- Play therapy may be helpful in a variety of circumstances, such as:
+	- facing medical procedures, chronic illness, or palliative care
+	- developmental delay or learning disabilities
+	- problem behaviors in school
+	- aggressive or angry behavior
+	- family issues, like divorce, separation, or death of a close family member
+	- natural disasters or traumatic events
+	- domestic violence, abuse, or neglect
+	- anxiety, depression, grief
+	- eating and toileting disorders
+	- attention deficit hyperactivity disorder (ADHD)
+	- autism spectrum disorder (ASD)
+
+## How does play therapy work? 
+- There’s a bit of a communication gap between children and adults. Depending on age and stage of development, children simply don’t have the language skills of adults. They may feel something, but in many cases, they either can’t express it to an adult or don’t have a trusted adult to express it to.
+- Children learn to understand the world and their place in it through play. It’s where they’re free to act out their inner feelings and deepest emotions. Toys can act as symbols and take on greater meaning — if you know what to look for.
+- Since the child can’t adequately express themselves in the adult world, the therapist joins the child in their world, on their level.
+- As they play, the child may become less guarded and more apt to share their feelings. But they aren’t pressured. They’re allowed to do so in their own time and with their own method of communication.
+
+## Evidence backing play therapy
+
+These are results from a number of research studies that used play therapy interventions. You can find them listed in more detail in the source papers. [^6][^7]
+- These most recent studies have demonstrated the positive impact of play therapy on general behavioral problems
+- Results demonstrated that children receiving play therapy showed statistically significant decreases in externalizing behavior problems, specifically conduct problems, and moderate improvements in internalizing behavior problems, specifically anxiety
+- Following a treatment of play therapy for child witnesses of domestic violence, children in the experimental group scored significantly higher than children in the control group on self-concept. 
+- In therapy interventions for children with learning disabilities, Children who participated in the play therapy intervention demonstrated statistically significant improvement in scores on the BASC-PRF on overall composite scores and internalizing problems over children in the control group.
+- In a study that looked at at-risk children, Although there was no difference between groups on anxiety, a statistically significant difference was found between groups on self-esteem and locus of control.
+- In a study that looked at short term play therapy with earthquake victims, Results demonstrated a significant decrease in anxiety, as well as a large treatment effect, for children participating in the experimental group as compared to the control group. Suicide risk as measured by the MDI-C was also found to be significantly less in the experimental group as compared to the control group.
+- Trostle (1988) found that after 10 sessions of nondirective group play therapy, bilingual Puerto Rican children showed significant improvement in self-control and higher developmental level play behaviors when compared to their control group peer.
 
 # Play Assessment:
 
@@ -470,26 +506,26 @@ Recent studies have used applied games to successfully decrease anxiety or depre
 
 # Play Settings & Schedules 
 
-# Varying needs of children based on age
+## Varying needs of children based on age
 
-## Children aged under five
+### Children aged under five
 - Children between four and five years are often in a pre-school setting. They have different routines and structures in their day. 
 - They’re becoming more independent, self-confident and inquisitive.
 - Usually they are content to play with their toys for longer, enjoy doing new things, and will play with or without an adult.
 - Playing with your child is still lots of fun but you should encourage their freely chosen play.
 
-### Suitable playing activities for children this age include:
+#### Suitable playing activities for children this age include:
 -   reading or looking at books
 -   simple games such as snap, i-spy, snakes and ladders, playing cards
 -   outdoor scavenger hunts, picnics, ball games, hide-and-seek
 -   adding new items to the dressing up box such as old mobile phones, cameras, walkie-talkies and binoculars
 
 
-## School age children
+### School age children
 - As children grow up, they become more independent. They also test boundaries, explore their emotions and make friends
 - They should be encouraged to follow their own play ideas and instincts.
 
-### Suitable playing activities for children this age include:
+#### Suitable playing activities for children this age include:
 -   outdoor play, traditional games, two ball, hopscotch, tag, bike rides, tree climbing
 -   den building using blankets, sheets, fabric, string, pegs, cushions, carpet squares
 -   doing arts and crafts such as junk art, building, crafts, sewing, woodwork
@@ -498,7 +534,7 @@ Recent studies have used applied games to successfully decrease anxiety or depre
 -   walking to school
 
 
-## Post primary children and young people
+### Post primary children and young people
 - When a child leaves primary school, they still need to play. 
 - They need opportunities to explore their neighbourhoods, test their boundaries and be outdoors. 
 - Their friends and friendship groups are important. 
@@ -507,7 +543,7 @@ Recent studies have used applied games to successfully decrease anxiety or depre
 	- indoor and outdoor spaces to relax
 
 
-# Recommended care practices for caregivers
+## Recommended care practices for caregivers
 
 - According to the American Association of Paediatrics, 
 	- Provide opportunities for your child to sing and dance.
@@ -525,3 +561,5 @@ Recent studies have used applied games to successfully decrease anxiety or depre
 [^3]: [[Play and Cognition Among Young Children Reared  in an Institution]]
 [^4]: [[The Importance of Play in Promoting Healthy Child Development and Maintaining Strong Parent Child Bond, Focus on Children in Poverty]]
 [^5]: [[Importance of Play in Development]]
+[^6]: [[Evidence Based Play Therapy]]
+[^7]: [[Therapeutic intervention for children through play, An overview]]
