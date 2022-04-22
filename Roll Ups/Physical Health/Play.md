@@ -363,6 +363,9 @@ According to a white paper on the role of play in children's development[^1],
 	* Keeping school facilities open for use by community families in the evenings and on weekends when they are usually closed may increase engagement in these activities.
 * Udayan Care[^8] recommends that all institutions have Indoor and outdoor games, yoga, meditation, music, television, picnics and outings and cultural programmes, gardening, library, dance, art therapy etc., and child-friendly library
 
+## Challenges in structured interventions applied accross different institutions
+Context: This study reports the effects of a structural intervention, ENRICH (Environmental Interventions in Children’s Homes) which targeted the physical and social environment within residential children’s homes (RCHs) to increase physical activity (PA) among residents
+
 
 
 # Children with Chronic Conditions 
