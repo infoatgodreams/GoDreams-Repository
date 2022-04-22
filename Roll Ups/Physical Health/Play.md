@@ -25,6 +25,15 @@ A review paper on the importance of play in the development of child health[^2],
 - An evolutionary perspective dictates that play must serve an important purpose considering the costs it entails in terms of time, energy and risk of injury and predation 
 - From a developmental perspective, play allows children to experiment with their behavioural and social repertoire, and to practice their physical and communication skills
 - Play facilitates the development of social competence, emotional capacities and resilience, creativity and problem-solving skills
+According to a paper that studied play in relation to cognition outcomes[^3], 
+- Play has been related to the development of both cognition and social competence (Fisher, 1992). The findings indicate that the relationship between cognition and play is relatively robust.
+
+## Play & Child Development 
+According to a paper that studied the interplay of play and cognition[^3], 
+- Play behaviours do not precisely mirror cognitive or other developmental processes, but play is an impetus for development.
+- Studies describing play and its relationship to development have demonstrated associations with cognition, motor skills, language, sensory processing, socialization, affect, and disposition
+- Children progress through a succession of simple to more complex play stages associated with cognition.
+- The strong correlation between cognition and play parallels other studies of children with developmental disabilities. In these studies, children with cognitive delays progressed more slowly than typical peers in their achievement on standardized assessments of cognition; however, the correlation between cognition and play was moderate to high
 
 ## Play & Child Emotional Expression
 In a paper that discusses the effect of play on child health development[^2], we look at how play forms children's identity
@@ -339,6 +348,9 @@ Also, to make stronger conclusions about the importance of learning through play
 * How much effect does meaning have on learning during play? Is there a large or small difference in learning if children can link material to their own experience?
 * Under what conditions, if any, are the characteristics detrimental to learning? Particularly for social interaction, it seems logical that playing with an ignorant or misguided partner could lead to reduced or maladaptive learning.
 
+# Play in Institutional Care
+
+
 # Children with Chronic Conditions 
 
 ## Challenging Play Behaviours in Chronic Illness
@@ -380,7 +392,14 @@ Recent studies have used applied games to successfully decrease anxiety or depre
         * Computer games may have the same effect as an often more expensive relaxation training.
         * Applied games could be combined with patient-tailored tools to assess a patient’s wellbeing in dedicated e-health platforms to deliver personalized interventions
 
+# Play Assessment:
+- A paper that studied the interplay of play and cognition[^3], used 
+	- Bayley Scales of Infant Development, 2nd edition (BSID-II; Bayley, 1993). We used the BSID-II to assess children’s general cognitive development. 
+	* Play assessment: used two toy sets to assess play. 
+	    * The first consisted of exploratory toys comparable to those donated to the institutions. 
+	    * The second set consisted primarily of symbolic toys to provide sufficient opportunity to elicit the children’s symbolic play behaviours.
 
 
 [^1]: [[The role of play in children's development]]
 [^2]: [[Healthy play, better coping, The importance of play for the development of children in health and disease]]
+[^3]: [[Play and Cognition Among Young Children Reared  in an Institution]]
