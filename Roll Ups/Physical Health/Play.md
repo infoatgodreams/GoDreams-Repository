@@ -342,9 +342,9 @@ According to a white paper on the role of play in children's development[^1],
 - These needs are based on a study on physical activty in residential care homes in Ireland[^10]
 	- Previous research has suggested that many children in residential care settings often do not have access to extra-curricular learning and activity opportunities which could help deal with their physical, social and emotional needs
 	- Research conducted directly with children in care has indicated the significant value they place on relationships with care staff and peers, whilst highlighting the difficulty they can experience in developing these connections and relationships
-	- There was a further belief that due to previous experiences and life events these YP may be more susceptible to influence by others, but not to be influenced by the adults around them as easily as their peers.
+	- There was a further belief that due to previous experiences and life events these children may be more susceptible to influence by others, but not to be influenced by the adults around them as easily as their peers.
 	- Engagement in physical activity (PA) has consistently been found to be associated with positive outcomes for young people (YP), including improved physical, mental and emotional well- being
-	- There is significant evidence of the positive impact of participation in PA on psychological well being of YP 
+	- There is significant evidence of the positive impact of participation in PA on psychological well being of children 
 	- Previous research has highlighted the potential of engagement in activities for providing consistency and a sense of stability for YP who have experienced significant changes in their lives 
 
 ## Assessing play behaviour in institutional care
@@ -551,20 +551,40 @@ According to a paper on physical activity and sports in alternative care in Irel
 ### Being under the radar in care settings:
 - Several participants discussed how the children in care settings feel that they are being constantly analysed by the professionals, which prevented the children entering a further situation where they were being judged.
 
-## Stigma related to their identity as a child in care:
+### Stigma related to their identity as a child in care:
 - The expectation that children would engage with people outside of the care setting, or reveal their identity as a child in care, could lead to fear and act as a barrier to engagement in community based activities.
 - This fear of being judged was felt to extend to outside of the care setting for children, and acted as a significant barrier to engagement in community activities. Participants identified that children do not want to appear different to others, and often expressed fear of engaging in sporting activities outside of the care setting for this reason.
 - Greater restraint such as having friends over or being able to be on their own with friends after the events was argued to prevent children engaging in sports outside of the residential unit. The participants suggested that children were often fearful of the stigma of being a child in care leading to rejection and so they chose not to engage with others.
 
 ### Low motivation and lack of hope in future:
 - Within this sub-theme a lack of hope was prominent as being observed in children and a belief that this explained children lack of engagement in sporting. This lack of hope in the future was also linked directly to children’s recognition of the importance of making positive changes in their lives to improve their overall wellbeing
-- The motivation to engage in activities was perceived to represent a significant obstacle to children engaging, whilst previously it was suggested that physical access to PA may have prevented engagement.
+- The motivation to engage in activities was perceived to represent a significant obstacle to children engaging, whilst previously it was suggested that physical access to sports may have prevented engagement.
 
 ### Low social skills:
-- The participants frequently identified this as one of the major obstacles for the YP’s engagement, as they lacked the necessary social skills to join activities with others.
-    * They talked about how the YP were sometimes aware of their lack of social skills and this prevented them from engaging, despite a desire to become involved
-    * The staff frequently identified the role of previous life experiences on the difficulty YP had in developing the necessary social skills, such as lack of engagement in PA and play as young children. This was illustrated by Stephen’s point that for these YP PA “wasn’t a priority for these kids, so they never learnt how so now don’t know how to start”. “Ability to play, the spontaneous ability, is often missing in YPs lives, they just didn’t learn this and had the opportunity when they were younger”. 
+- The participants frequently identified this as one of the major obstacles for the children’s engagement, as they lacked the necessary social skills to join activities with others.
+- They talked about how the children were sometimes aware of their lack of social skills and this prevented them from engaging, despite a desire to become involved
+- The staff frequently identified the role of previous life experiences on the difficulty children had in developing the necessary social skills, such as lack of engagement in sports and play as young children. 
 
+## Strategies to increase engagement in Sports in care settings:
+According to a paper on physical activity and sports in alternative care in Ireland[^10], we know that there are multiple ways of improving  regular strcutured activity for children 
+
+### Recognising and understanding trauma:
+- In terms of strategies to increase engagement in sports, there was a common theme of the importance of recognising and understanding adversity and trauma and incorporating this into all work with children
+- Based on these unique and individual experiences of children, they  argue that an understanding of trauma informed practice is imperative when working with children
+
+### Shared experiences:
+- Attachment to significant others within the residential setting and outside was a dominant theme that was identified as presenting an obstacle and a facilitating factor for engagement, in relation to family and peers.
+- Similar to this, the importance of shared experiences between children and staff was identified as linked to both motivation, further relationship building and as an overall positive outcome from sports engagement.
+- Sports was viewed as a way of the children developing these connections, and offering a non-threatening or safe way of developing these.
+- Sports and sharing the experience of the activity was further identified as a potential way of helping children to reconnect and extend their relationships with families.
+- Similar to this point, sports  was highlighted as an opportunity for staff and children to develop relationships in a non-directive way, and as a powerful strategy for ongoing work with children, as trust developed within the relationship. 
+
+### Informal activities:
+- While there was a clear recognition of structured sports within the residential setting, the participants also talked about the importance of non-formal physical activities as a way of working with children, and the perception of choice this afforded the children. 
+- Brain suggested that the organic nature of informal activities could be very effective “sometimes if planned the children won't do it but if natural can happen easier, simple as being outside kicking a ball and it can develop into a match. But if you organised a match they wouldn’t engage”.
+- Whilst structured sports was identified as important in the current study, the role of informal or unstructured activities was seen as providing control and sense of agency to the children. 
+- Informal activities also overcame the issue of children rebelling against structured activities and facilitated the development of skills for spontaneous play and games, which it was felt some children had limited experience of engaging in. 
+- The findings in the current study also indicated that informal activities would allow for the development of skills that children could use to further develop relationships with peers
 
 
 
