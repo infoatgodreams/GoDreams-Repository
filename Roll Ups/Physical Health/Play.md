@@ -338,6 +338,9 @@ According to a white paper on the role of play in children's development[^1],
 	* Because lower-income parents have to deal with additional social, emotional, and economic stressors of daily living, they may have less time, energy, and resources available to provide active and creative playtime at the park, playground, or even in the home.
 	* Schools, under pressure to increase academic performance and to decrease the achievement gap of students, have increased direct educational time, including after-school enrichment and tutorial programs, versus play time
 
+## Current needs of play for children in care
+- These needs are based on a study on physical activty in residential care homes in Ireland[^10]
+
 ## Assessing play behaviour in institutional care
 - [^3]In a paper that studied play and congition correlation in institutional children, they discussed previous evidence that shows that
 	* In a classic field study of child development in orphanages, Provence and Lipton (1962) described infants reaching for and grasping toys until 5 or 6 months of age, but from that point on their exploration dwindled and continued to do so with further institutionalization.
@@ -364,8 +367,17 @@ According to a white paper on the role of play in children's development[^1],
 * Udayan Care[^8] recommends that all institutions have Indoor and outdoor games, yoga, meditation, music, television, picnics and outings and cultural programmes, gardening, library, dance, art therapy etc., and child-friendly library
 
 ## Challenges in structured interventions applied accross different institutions
-Context: This study reports the effects of a structural intervention, ENRICH (Environmental Interventions in Children’s Homes) which targeted the physical and social environment within residential children’s homes (RCHs) to increase physical activity (PA) among residents
+- Context: This study reports the effects of a structural intervention, ENRICH (Environmental Interventions in Children’s Homes) which targeted the physical and social environment within residential children’s homes (RCHs) to increase physical activity (PA) among residents. [^9]
+- Hypothesis: 
+	- ENRICH was a structural intervention that worked with adult staff as change agents to create a more health-promoting environment in the RCH, which was hypothesized to result in increased PA among children. 
+	- Based on theory and expert recommendation, we anticipated that working with organizational change agents to create PA-promoting environments that could be adapted to setting and population needs would increase PA among the children residing there, but this was not the case.
+- **Results:The ENRICH intervention had no impact on physical activity of youth residing within RCHs, even after the level of intervention implementation was considered**
 
+### Lessons Learned
+- Within the group home setting, it is clear that implementation does not occur in an ordered and uniform process and is influenced by many contextual factors within organizational environments.
+- Interventions targeting organizational changes to impact population health behaviors should devote careful attention and provide adequate resources to effectively monitor and document implementation.
+- Moreover, contextual factors within organizational settings including the PA environment and organizational capacity to implement health promotion programs are important to consider and should be assessed prior to implementation.
+- Future work is needed to examine the different organizational climates and cultures which influence the implementation of health promotion programs and changes to the physical and social PA environment. 
 
 
 # Children with Chronic Conditions 
@@ -523,3 +535,5 @@ These are results from a number of research studies that used play therapy inter
 [^6]: [[Evidence Based Play Therapy]]
 [^7]: [[Therapeutic intervention for children through play, An overview]]
 [^8]: [[UdayanCare_Standards Of Care in Child Care Institutions]]
+[^9]: [[Effects Of A Structural Intervention And Implementation On Physical Activity Among Youth In Residential Children’s Homes]]
+[^10]: [[Physical activity, Exploring the barriers and facilitators for the engagementof young people in residential care in Ireland]]
