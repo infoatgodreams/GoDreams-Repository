@@ -283,26 +283,23 @@ According to a white paper on the role of play in children's development[^1],
 
 # Characteristics of Play in the context of Learning
 
-
-### Joyful and actively engaging
-
-* Children who perceive an activity as play are more focused, attentive, motivated and show signs of higher well-being while on-task (Howard & McInnes, 2013; Sawyer, 2017) This suggests that perceiving an activity as play creates active engagement and joy, which leads to children being in the appropriate cognitive and emotional state to remain on-task and process information. 
+## Joyful and actively engaging
+* Children who perceive an activity as play are more focused, attentive, motivated and show signs of higher well-being while on-task (Howard & McInnes, 2013; Sawyer, 2017)
+* This suggests that perceiving an activity as play creates active engagement and joy, which leads to children being in the appropriate cognitive and emotional state to remain on-task and process information. 
 * But in addition to this, various studies show how social interaction, meaning and iteration can also be important factors in children’s learning
 
 
-### Socially interactive
-
+## Socially interactive
 * Lehrer at al. (2014) assessed whether the activities children engaged in during their unstructured time predicted their ‘adaptive skills’ (as measured on the teacher-report BASC-2 measure)
 * Similarly, Pellegrini (1992) found that 5-year-old children’s level of social interaction with other children during recess predicted their school achievement, whereas their level of social interaction with teachers during recess was negatively related to their school achievement
 * Playing with other children, watching them and learning from them, may be one of the ways in which playful learning exerts its effect.
 * However, children can also learn from adults in playful contexts. 
-*  It would therefore be behavioural problems and difficulties adapting to school that were negatively related to school achievement, rather than interactions with teachers causing a reduction in children’s school achievement 
+* It would therefore be behavioural problems and difficulties adapting to school that were negatively related to school achievement, rather than interactions with teachers causing a reduction in children’s school achievement 
 * These results demonstrate that playful interaction with a knowledgeable adult can be a more effective context for learning than traditional teaching approaches such as completing problems in an exercise book. We can see that learning from others – both adults and children – through social interaction explains some of the ways in which playful learning can be superior to other learning approaches. 
 * Furthermore, it seems possible that playing with others could also be detrimental to learning in some situations – for example if the play partner passes on false information or a deficient strategy.
 
 
-### Meaningful
-
+## Meaningful
 * The children who simply played the number board game became more interested in mathematics, and one explanation for this result is that numbers now had more meaning for them – they had found a new context in their lives in which numbers could be applied, and that context was fun!
 * Dansky (1980) found that sociodramatic play led to children developing higher narrative skills than other conditions with equal adult contact, showing that social interactions with a more knowledgeable partner is not the important factor in this case. Baumer, Ferholt & Lecusay (2005) compared how pretending versus story talk influenced narrative development, and pretending led to superior outcomes.
 * When pretending, a child needs to draw on their own personal experience and interests in order to generate ideas for characters and situations. Discussing a story, by contrast, can remain a relatively abstract, detached activity. 
@@ -310,11 +307,8 @@ According to a white paper on the role of play in children's development[^1],
 
 ### Iterative
 
-* While the studies discussed above likely involved some level of iterative activity, it is difficult to know how much, and children may well engage in board games and pretend play without much repetition with-variation
-* What is different about the play condition compared to the training condition in such studies? The play in this case is clearly iterative, as children would have tried out different actions with the materials and different ways of connecting the sticks.
-* Therefore, these studies of object play demonstrate how the iterative nature of play can make it a more effective learning context for innovative problem-solving.
-* Bonawitz et al. concluded that instruction appeared to promoteefficient learning, but at the cost of reducing children’s exploration and their likelihood of discovering novel information. In a similar vein, Ramani (2012) reported a study in which four- and five-year-old peer dyads completed a playful, flexible and child-driven building task or a more structured, adult-driven building task. 
-* As predicted, the children in the playful condition It is still largely an open question as to whether children engaged in greater positive joint communication and built more complex structures than did those in the structured condition, and these differences carried over into a subsequent joint building task. Ramani concluded that cooperative problem-solving activities that allow children greater control of the task goals and interaction, similar to play contexts, appear to promote higher levels of cooperation and more effective learning and performance in young children. 
+* Therefore, these studies of object play demonstrate how the iterative nature of play can make it a more effective learning context for innovative problem-solving. Variation is key
+* It was concluded that cooperative problem-solving activities that allow children greater control of the task goals and interaction, similar to play contexts, appear to promote higher levels of cooperation and more effective learning and performance in young children. 
 * In sum, certain studies from the existing body of research into play types and child outcomes support the hypothesis that the five characteristics of playful experiences are the main factors that facilitate learning through play. However, more research is needed to confirm this hypothesis. 
 * Finally, although there is some suggestive evidence about the role of play in supporting the development of communication skills, of abstract thought, self regulation,and more adaptive, flexible, creative thinking, we still do not have conclusive evidence of causal relations.
 
@@ -332,6 +326,8 @@ According to a white paper on the role of play in children's development[^1],
 * Does pretence make children create meaningful links to their own experience, compared to other learning contexts and other types of play?
 * How much effect does meaning have on learning during play? Is there a large or small difference in learning if children can link material to their own experience?
 * Under what conditions, if any, are the characteristics detrimental to learning? Particularly for social interaction, it seems logical that playing with an ignorant or misguided partner could lead to reduced or maladaptive learning.
+
+
 
 # Play in Institutional Care
 
@@ -365,6 +361,8 @@ According to a white paper on the role of play in children's development[^1],
 	* Supervised after-school programs can be critical to children who live in communities where outside playing might be dangerous or unsupervised. 
 	* Community-based programs that offer a wide variety of services, ranging from homework assistance to athletic programs and from character development to the creative arts can contribute heavily to the positive development of youth.
 	* Keeping school facilities open for use by community families in the evenings and on weekends when they are usually closed may increase engagement in these activities.
+* Udayan Care[^8] recommends that all institutions have Indoor and outdoor games, yoga, meditation, music, television, picnics and outings and cultural programmes, gardening, library, dance, art therapy etc., and child-friendly library
+
 
 
 # Children with Chronic Conditions 
@@ -521,3 +519,4 @@ These are results from a number of research studies that used play therapy inter
 [^5]: [[Importance of Play in Development]]
 [^6]: [[Evidence Based Play Therapy]]
 [^7]: [[Therapeutic intervention for children through play, An overview]]
+[^8]: [[UdayanCare_Standards Of Care in Child Care Institutions]]
