@@ -572,6 +572,14 @@ According to a paper on physical activity and sports in alternative care in Irel
 - In terms of strategies to increase engagement in sports, there was a common theme of the importance of recognising and understanding adversity and trauma and incorporating this into all work with children
 - Based on these unique and individual experiences of children, they  argue that an understanding of trauma informed practice is imperative when working with children
 
+### Trauma sensitive design in sports:
+According to a paper on Trauma Informed Sports Programming[^12]
+- There are three main concepts that build upon common existing curriculum features: play, skills, and strengths. 
+	* Play can lead to the development of competency, executive functioning, and a positive sense of self, which are all crucial in the process of recovery from traumatic experiences. Play activities allow children who have experienced trauma to lessen anxiety and depression and enhance their capacity for pleasure and desire. 
+	*  A skills-based focus has been adopted in many treatment approaches and is key in allowing kids to develop competencies in different areas, which can then serve as a platform for identifying strengths. 
+	* Identifying and emphasizing strengths can then build efficacy and self-esteem, which is crucial for children with trauma exposure who are often overwhelmed with feelings of guilt, blame, fear, and anxiety.
+
+
 ### Shared experiences:
 - Attachment to significant others within the residential setting and outside was a dominant theme that was identified as presenting an obstacle and a facilitating factor for engagement, in relation to family and peers.
 - Similar to this, the importance of shared experiences between children and staff was identified as linked to both motivation, further relationship building and as an overall positive outcome from sports engagement.
@@ -586,6 +594,15 @@ According to a paper on physical activity and sports in alternative care in Irel
 - Informal activities also overcame the issue of children rebelling against structured activities and facilitated the development of skills for spontaneous play and games, which it was felt some children had limited experience of engaging in. 
 - The findings in the current study also indicated that informal activities would allow for the development of skills that children could use to further develop relationships with peers
 
+### Constraints of sporting interventions in care:
+According to UNICEF's report on understanding the evidence for child-focused sport for development, 
+- Successful sport for development initiatives involve multi-sectoral cooperation, such as the inclusion of education and social components.
+- Coaches play a critical role in safeguarding children and mitigating possible negative influences.
+- There is little evidence to suggest involvement in sport reduces a child’s risk of abuse and exploitation. In fact, when not done well, there are indications that some sports can increase exposure to violence.
+- Better evidence is needed for the monitoring of sport for development initiatives, including more research on effective implementation.
+- More meaningful child participation in programme design and evidence building is needed.
+
+
 
 
 
@@ -599,4 +616,5 @@ According to a paper on physical activity and sports in alternative care in Irel
 [^8]: [[UdayanCare_Standards Of Care in Child Care Institutions]]
 [^9]: [[Effects Of A Structural Intervention And Implementation On Physical Activity Among Youth In Residential Children’s Homes]]
 [^10]: [[Physical activity, Exploring the barriers and facilitators for the engagementof young people in residential care in Ireland]]
-[^11]: 
+[^11]: [[Creating Trauma informed Sports Programming]]
+[^12]: 
