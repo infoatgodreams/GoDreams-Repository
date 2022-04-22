@@ -26,6 +26,15 @@ A review paper on the importance of play in the development of child health[^2],
 - From a developmental perspective, play allows children to experiment with their behavioural and social repertoire, and to practice their physical and communication skills
 - Play facilitates the development of social competence, emotional capacities and resilience, creativity and problem-solving skills
 
+## Play & Child Emotional Expression
+In a paper that discusses the effect of play on child health development[^2], we look at how play forms children's identity
+
+- Erikson (1977) proposed that play allows children to experiment with a wide range of experiences, and simulates their potential real-life consequences
+- Piaget (1962) theorized that make-believe play provides children with opportunities to reproduce real-life conflicts, to work out ideal resolutions for their own pleasure, and to ameliorate negative feelings
+	- Narratives and story-telling can support children in integrating a broad variety of positive and negative life experiences
+	- In adolescence, co-constructed narratives have been linked to the development of identity, which is considered a key-element for mental health 
+	- Play may also allow for the expression of frustration and rage, allowing the child (or adult) to cope with environmental challenges, thereby contributing to mental health 
+	- play allows children to experiment and explore, and playful activities provide a secure setting for testing the consequences of many alternative scenarios, in order to develop a rich and flexible behavioural, social and emotional repertoire
 
 # Types of Play
 
