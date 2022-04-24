@@ -10,7 +10,7 @@ tags:
 - globalresearch 
 
 ---
-Domain tags: [[Physical Health]] 
+Domain tags: [[Physical Health]] [[Nutrition]]
 
 # Brief:
 
