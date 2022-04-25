@@ -7,12 +7,8 @@
         "id": "540e1796f0064b3a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Roll Ups/Nutrition/Nutrition.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Nutrition/Nutrition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Roll Ups/Nutrition/Nutrition.md"
-              }
+              "state": {}
             }
           },
           {
@@ -123,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Roll Ups/Nutrition/Nutrition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,15 +143,15 @@
   },
   "active": "540e1796f0064b3a",
   "lastOpenFiles": [
+    "The St. Petersburg– U.S.A. Orphanage Project.md",
+    "impact assessment.md",
+    "FairstartGlobal.md",
     "Roll Ups/Nutrition/Nutrition.md",
     "Volume 1/Care Standards/GOI & Indian Standards/Budget for Children 2022 - HAQ/Budget for Children 2022-23 Analysis.md",
     "Volume 3/Care Standards/Associated sector innovations/National School Health Policy, Kenya.md",
     "Guardians Guidebook/GG Nutrition.md",
     "Volume 1/Current Reality/India CCIs/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
     "Roll Ups/Child Safety/Child Rights Law.md",
-    "client 1.md",
-    "note 2.md",
-    "Example/Note 1.md",
-    "tokens.md"
+    "client 1.md"
   ]
 }
