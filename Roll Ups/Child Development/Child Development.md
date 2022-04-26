@@ -99,6 +99,13 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 	- Children assessed in adolescence had the highest levels of problems. This was true across all subscales of the CBCL [Child Behavior Checklist], with the highest rates for attention and externalizing problems.
 	- This suggests the possibility of a single mechanism underlying the development of persistent behavior problems, perhaps the neurobiological consequences of chronic stress in the institution. 
 	- Similar to the results for behavior problems, social skills were worse for later-adopted children, and the relation was again a step-like increase at an age-at-adoption of 18 months.
+- According to a paper on the consequences of early institutionalisation[^11], 
+	- Institutionalized children also commonly display certain specific behaviors that are rare among parent-reared children, such as:
+		- stereotypies or self-stimulation (e.g., rocking, head banging, arm waving), 
+		- problems with attention and activity control, 
+		- internalizing and externalizing behavior, 
+		- high rates of disorganized or unscoreable attachment on the Strange Situation Procedure, 
+		- and indiscriminate friendliness.
 
 ## Executive Function Delays
 - [^5]Older-adopted children displayed lower inhibitory control and poorer working memory than children adopted at younger ages, but the groups did not differ significantly on a spatial self-ordered search task, which measures spatial working memory. 
@@ -114,6 +121,10 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 - In a groundbreaking intervention study, Groark, Muhamedrahimov, Palmov, Nikiforova, and McCall (2005) demonstrated that promoting caregiver sensitivity leads to better socioemotional and cognitive development of the children involved and a better atmosphere in the groups consisting of children of differing ages. 
 - Caregiver-child ratio might also be important. Groark and colleagues (2005) managed to decrease the number of children per caregiver, which promoted children’s development significantly.
 - Children with the most favorable caregiver-child ratio (maximally three children per caregiver) did not significantly lag behind their peers reared in families. This means that in residential care with small groups intellectual development of the pupils may not lag behind substantially.
+- According to a paper on the consequences of early institutionalisation, 
+    * Children: caregiver ratios tend to be high, roughly 6–8  to 1, and sometimes higher, even in wards of young infants.
+    *  Further, there are many and changing caregivers, some of whom may work long shifts (24 hours) and then are off for three days. This caregiver scheduling, turnover, vacations that may be as high as 50–60 days per year, plus ward transitions mean that children can experience 60–100 different caregivers by the time they are 19 months old (St. Petersburg-USA Orphanage Research Team, 2008). 
+    * Finally, and perhaps most importantly, caregiver-child interactions tend to be limited, perfunctory, and business-like with a minimum of warm, sensitive, responsive interactions.
 
 ## Poor environments: 
 - In less-developed countries the discrepancies between the IQ of residential and family-reared children was indeed largest. 
@@ -297,4 +308,5 @@ According to a paper on developmental consequences of parent-child separation[^3
 [^7]: [[Maintaining a Social-Emotional Intervention and Its Benefits for Institutionalized Children]]
 [^8]: [[Normal Development Infancy, childhood, and adolescence]]
 [^9]: [[The Child Care HOME Inventories, assessing the quality of family child care homes]]
-[^10]: 
+[^10]: [[The consequences of early institutionalization, can institutions  be improved, should they]]
+[^11]: 
