@@ -18,12 +18,12 @@
         }
       },
       {
-        "id": "2f44e7c84a94ffca",
+        "id": "96f74ee992db416c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+            "file": "Volume 3/Current Reality/International CCIs/Play and Cognition Among Young Children Reared  in an Institution.md",
             "mode": "source",
             "source": false
           }
@@ -85,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+                "file": "Volume 3/Current Reality/International CCIs/Play and Cognition Among Young Children Reared  in an Institution.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -102,17 +102,17 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "2f44e7c84a94ffca",
+  "active": "96f74ee992db416c",
   "lastOpenFiles": [
-    "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+    "Volume 3/Current Reality/International CCIs/Play and Cognition Among Young Children Reared  in an Institution.md",
     "Roll Ups/Child Development/Child Development.md",
+    "Volume 3/Care Standards/International CCIs/The Physical, Developmental, and Mental Health Needs of Young Children in Child Welfare by Initial Placement Type.md",
+    "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Volume 3/Current Reality/International CCIs/The consequences of early institutionalization, can institutions  be improved, should they.md",
     "Volume 3/Care Standards/International - Services for CNCP/The Child Care HOME Inventories, assessing the quality of family child care homes.md",
     "Volume 3/Current Reality/International CCIs/Normal Development Infancy, childhood, and adolescence.md",
     "Volume 3/Care Standards/International - Service Providers to CCIs/Maintaining a Social-Emotional Intervention and Its Benefits for Institutionalized Children.md",
     "Volume 3/Care Standards/International CCIs/IQ of Children Growing up in CCI.md",
-    "Volume 3/Care Standards/International - Service Providers to CCIs/Early Caregiver Child Interaction and Children Development, Lessons from the St. Petersburg USA Orphanage Intervention Research Project.md",
-    "Volume 3/Care Standards/International - Services for CNCP/Developmental Milestones Chart.md",
-    "Volume 3/Current Reality/International CCIs/Developmental Effects of Parent Child Separation.md"
+    "Volume 3/Care Standards/International - Service Providers to CCIs/Early Caregiver Child Interaction and Children Development, Lessons from the St. Petersburg USA Orphanage Intervention Research Project.md"
   ]
 }

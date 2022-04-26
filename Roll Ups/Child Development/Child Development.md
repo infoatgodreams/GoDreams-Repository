@@ -103,11 +103,12 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 	- Similar to the results for behavior problems, social skills were worse for later-adopted children, and the relation was again a step-like increase at an age-at-adoption of 18 months.
 - According to a paper on the consequences of early institutionalisation[^11], 
 	- Institutionalized children also commonly display certain specific behaviors that are rare among parent-reared children, such as:
-		- stereotypies or self-stimulation (e.g., rocking, head banging, arm waving), 
+		- stereotypies or self-stimulation (e.g., rocking, head banging, arm waving). 			-  *In the general absence of sensory stimulation  and soothing by adults, for example, by rocking, children may learn to provide their own  stimulation or soothing by making stereotyped movements.* 
 		- problems with attention and activity control, 
 		- internalizing and externalizing behavior, 
 		- high rates of disorganized or unscoreable attachment on the Strange Situation Procedure, 
 		- and indiscriminate friendliness.
+	- According to a paper on the impact of institutionalisation on child development, 			the unwillingness to interact with peers further prevents them  from learning normal patterns of social interaction. When they do become comfortable  enough to interact with peers in their new environment, they externalize (“act out”) in unacceptable ways that do not endear them to those peers. 
 
 ## Executive Function Delays
 - [^5]Older-adopted children displayed lower inhibitory control and poorer working memory than children adopted at younger ages, but the groups did not differ significantly on a spatial self-ordered search task, which measures spatial working memory. 
@@ -311,12 +312,29 @@ A paper on the impact of institutionalisation on IQ, covers this important study
         * Denver II test
         * Battelle
         * Minnesota
-    * According to a paper on assessing quality of care homes[^9], we learn about the 
+* According to a paper on assessing quality of care homes[^9], we learn about the 
 	    * Family Day Care Rating Scale (FDCRS) and Infant/Toddler Environment Rating Scale (ITERS) by Harms and Clifford (1984), 
 	    * the PROFILE by Abbott-Shim and Sibley (1993), the Caregiver Interaction Scale by Arnett (1989), 
 	    * the Adult Involvement Scale (AIS) by Howes and Stewart (1987), and the
 	    * Observational Record of the Caregiving Environment (ORCE) developed by the NICHD Early Child Care Research Network (1996) are some of the tools in use.
-	    * All these tools follow a top-down approach and have a pre-defined rubric that allows to score the child care homes.
+		    * All these tools follow a top-down approach and have a pre-defined rubric that allows to score the child care homes.
+- According to a paper that studied the needs of children in institutional care, these are the folowing assessment tools used:
+	- To measure sociodemographic characteristics of the children, details from the Health and Human Services Agency's data information system was obtained. It consisted of age, gender, primary language, race/ethnicity, reason for removal, and initial placement type. Seven categories were used to describe reason for removal:
+		  - sexual abuse,
+		  - physical abuse,
+		  - emotional abuse,
+		  - child neglect,
+		  - caregiver absence,
+		  - change of placement,
+		  - other, including exploitation (e.g., using a child to beg for money) and out-of-town inquiries (e.g., a child from Mexico living in the San Diego area needing child welfare services).
+	- Medical Charts at Polinsky:The physical health and mental health status data were abstracted from these charts.
+		- **Physical health** : The body systems section of the medical record grouped potential health problems under the following proscribed categories: dermatologic, respiratory, digestive, ear, eye, endocrine, musculoskeletal, neurological, mental health, cardiac, hematologic, reproductive, urinary, toxic syndromes, in utero exposure, toxic screen results, nonaccidental trauma, birth history, metabolic/ nourishment, systemic infections
+	  - **Mental health** : Seven types of mental health disturbances were specified on the standardized intake form in the chart: attention-deficit hyperactivity disorder (ADHD), autism/ pervasive developmental disorder, depression, oppositional defiant disorder, adjustment disorder, disruptive disorder, and others
+-  Denver Developmental Screening Test II (Denver II):
+The Denver-II was used to screen all children entering Polinsky for developmental delay. This tool can be used to screen children from birth to 6 years of age and includes 125 items in four sections: Personal-Social, Language, Fine Motor-Adaptive, and Gross Motor. It was used by the DSEP program for three reasons.
+- Bayley Scales of Infant Development II (Bayley-II):
+The Bayley-II36 was used to evaluate children ages 0 to 42 months on three scales of development: mental, motor, and behavior.
+- Stanford-Binet IV (SB-IV):The SB-IV was developed to evaluate cognitive development for ages 2 years through adulthood and measures four areas: verbal reasoning, abstract/visual reasoning, quantitative reasoning, and short-term memory.
 
 
 # References
@@ -332,4 +350,4 @@ A paper on the impact of institutionalisation on IQ, covers this important study
 [^9]: [[The Child Care HOME Inventories, assessing the quality of family child care homes]]
 [^10]: [[The consequences of early institutionalization, can institutions  be improved, should they]]
 [^11]: [[The Impact of Institutionalization on Child Development_Kim Mclean]]
-[^12]: 
+[^12]: [[The Physical, Developmental, and Mental Health Needs of Young Children in Child Welfare by Initial Placement Type]]
