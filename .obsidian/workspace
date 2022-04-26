@@ -7,8 +7,12 @@
         "id": "fbc7f4a37a94b7c6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: kim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e154e99fa257850e",
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +89,15 @@
   },
   "active": "fbc7f4a37a94b7c6",
   "lastOpenFiles": [
+    "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
+    "Volume 1/Volume 1 Public Resource Links/Research Papers/Global/The Impact of Institutionalization on Child Development_Kim Mclean.pdf",
+    "Volume 1/Daily Log/📕Navneeth's Log.md",
     "Roll Ups/Physical Health/Play.md",
     "Volume 3/Care Standards/International - Services for CNCP/Sport and physical activity in the lives of looked-after children a ‘hidden group’ in research, policy and practice.md",
     "Volume 3/Care Standards/International - Services for CNCP/Therapeutic intervention for children through play, An overview.md",
     "Volume 3/Current Reality/International CCIs/The role of play in children's development.md",
     "Volume 3/Care Standards/International - Services for CNCP/The Importance of Play in Promoting Healthy Child Development and Maintaining Strong Parent Child Bond, Focus on Children in Poverty.md",
     "Volume 3/Current Reality/International CCIs/Importance of Play in Development.md",
-    "Volume 3/Current Reality/International CCIs/Play and Cognition Among Young Children Reared  in an Institution.md",
-    "Volume 3/Care Standards/International - Services for CNCP/Creating Trauma informed Sports Programming.md",
-    "Volume 3/Care Standards/International - Service Providers to CCIs/Physical activity, Exploring the barriers and facilitators for the engagementof young people in residential care in Ireland.md",
-    "Volume 3/Care Standards/International - Services for CNCP/Effects Of A Structural Intervention And Implementation On Physical Activity Among Youth In Residential Children’s Homes.md"
+    "Volume 3/Current Reality/International CCIs/Play and Cognition Among Young Children Reared  in an Institution.md"
   ]
 }
