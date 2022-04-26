@@ -16,6 +16,18 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "c07682529a2e5122",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 3/Current Reality/International CCIs/Caregiving Disruptions Affect Growth and Pubertal Development in Institutionalised Childre in Romania, an RCT.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -93,6 +105,7 @@
   "active": "276ab37f5f446807",
   "lastOpenFiles": [
     "Roll Ups/Child Development/Child Development.md",
+    "Volume 3/Current Reality/International CCIs/Caregiving Disruptions Affect Growth and Pubertal Development in Institutionalised Childre in Romania, an RCT.md",
     "Volume 3/Current Reality/International CCIs/A Meta Analysis of 70 Years of Intervention improving Cognitive Development in Institutionalized Children.md",
     "Volume 3/Care Standards/International - Service Providers to CCIs/Maintaining a Social-Emotional Intervention and Its Benefits for Institutionalized Children.md",
     "Volume 3/Current Reality/International CCIs/Normal Development Infancy, childhood, and adolescence.md",
@@ -100,7 +113,6 @@
     "Volume 3/Care Standards/International CCIs/The Physical, Developmental, and Mental Health Needs of Young Children in Child Welfare by Initial Placement Type.md",
     "Volume 3/Care Standards/International - Services for CNCP/Developmental Milestones Chart.md",
     "images/Infant and Toddlers (Physical, Cognitive, Social).jpeg",
-    "picture.png.md",
-    "Volume 3/Current Reality/International CCIs/The role of play in children's development.md"
+    "picture.png.md"
   ]
 }
