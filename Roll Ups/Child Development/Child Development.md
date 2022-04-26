@@ -193,8 +193,10 @@ According to a paper on developmental consequences of parent-child separation[^3
 
 ### Success of the intervention
 - Specific areas of improvement included physical growth, cognitive and social-emotional development, and attachment quality to caregivers. 
+- Behavioral and mental development were assessed with the Battelle Developmental Inventory increased perhaps the largest average increase in behavioral/mental development observed for any intervention in the literature. 
 - Children improved more the longer they resided in the intervention institutions, and this was true for children with and without disabilities.
 - Children in the intervention institutions also gained more than those in NoI in height, weight, and chest circumference, and they progressively displayed fewer functional limitations; again gains were greater the longer children were in the intervention. 
+- In caregiver-child free play sessions, typically developing T +SC and TO children displayed a higher quality of play, alertness, and self-regulation than NoI, and T +SC children showed more positive affect, social initiative, and communication than TO and NoI children – again more the longer they were in the intervention
 
 ### Sustaining the success of this intervention
 
@@ -205,6 +207,12 @@ According to a paper on developmental consequences of parent-child separation[^3
 	- Third, a train-the-trainer strategy was adopted so that training personnel were continually available to prepare new caregivers who replaced those who left during and after the intervention
 	- Fourth, an in-house monitoring and supervision system was established in which specialists (e.g., staff professionals in children with disabilities, early education) were responsible for monitoring the caregivers and encouraging them to implement the training on the wards on a continuing basis.
 	- Furthermore, following the end of the intervention project, additional coaching and technical assistance were provided by author Palmov and two other professionals to both Training + Structural Changes and TO, which consisted of weekly or bimonthly visitations, supervision, and periodic refresher training.
+
+### Recommendations from this intervention
+* The St. Petersburg intervention demonstrates that institutions do not need to operate in the way most do and that encouraging caregivers to interact more appropriately with children in an environment that is made more family-like can produce very substantial improvements in the development of resident infants and toddlers
+* A recent study (McCall et al., in press) indicates that the T SC institution has maintained for at least six years the same quality of care as reflected on the HOME as it had during the intervention 
+*  Interestingly, the DQs of children in all three institutions improved over the six-year period, perhaps because fewer children were sent to institutions but staff levels remained the same producing smaller groups and fewer children per caregiver in all three of the institutions (McCall et al., in press).
+* These results and those of similar interventions indicate that institutions can be improved; the improvements can produce substantial increases in physical, mental, social, and behavioral development in both typically developing children and those with disabilities; and such benefits can be maintained for at least six years with no additional funds
 
 ## Successful interventions include one or many of the following components: 
 - According to a meta-analysis that described different interventions in instituional children, these components are seen in successful interventions that improve cognitive performance[^1],  
