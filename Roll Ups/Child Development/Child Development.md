@@ -76,6 +76,22 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 		- Secure attachment, for example, was found to protect against the vulnerabilities posed by institutionalization, early deprivation such as household income poverty, and other risks experienced during childhood.
 	- There is evidence of disruptions in adult–child relationships, peer relationships, and physiological processes as mechanisms because of parental separation
 
+## Effect of Trauma on Development
+
+- #### General cognitive and language delay
+	- On the whole, children exposed to neglect may be more vulnerable to general delays in cognitive and language development.  Neglected children and those raised in poverty may be more at risk of general cognitive delay than those exposed to abuse 
+	- Among abused children, increasing severity of abuse is associated with lowered IQ relative to matched controls 
+	- The presence of PTSD appears to affect cognitive functioning. Studies show that children with PTSD subsequent to abuse have lower verbal IQ on assessment, suggesting that the presence of PTSD rather than abuse _per se_ may be more relevant
+	- The IQ scores of those children exposed to domestic violence was found to be eight points lower than children who were not exposed to violence; after controlling for the effects of genetics and other forms of maltreatment
+- #### Problems with memory: 
+	- There is reasonable evidence that memory is affected by trauma and adversity. Brain structures that are associated with memory consolidation have been found to differ in adults (but not children) who report a history of abuse.
+- #### Bias in the processing of social/emotional information
+	- There is some evidence that social and emotional information is processed differently among children that have experienced abuse. The amygdala, an area of the brain associated with the automatic (pre-conscious) processing of emotional information, has been shown to be over-responsive to emotional stimuli (e.g., angry faces) in studies of abused children
+- ##### Metacognitive skills
+	- Neuropsychological research suggests that children who have experienced neglect and physical abuse can experience problems in auditory attention and cognitive flexibility (problem-solving and planning)
+- ##### Behavioural regulation
+	- Compared to non-neglected peers, emotionally neglected children may have less efficient brain activity during tasks that require inhibitory control, suggesting that neglect is associated with poor ability to self-regulate and inhibit responses
+
 
 ## Physical Development Delays
 
@@ -102,7 +118,7 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 	- At age 16, early-emerging deficits in problem-solving, attention, spatial planning, and short-term visual attention persisted into adolescence, and the gap in spatial working memory between once-institutionalized and never-institutionalized children widened in comparison to earlier in childhood.
 - According to a paper that studied impact of institutionalisation on child development[^12], 
 	-  Morison et al. (1995) found that 78%  of orphanage children were **delayed in all four  areas of development (personal–social, gross  motor, fine motor–adaptive, and language development)** 
-	- 
+	
 ## Pubertal Development 
 
 - According to a paper on caregiving disruptions and their effect on development, we see that[^2]
@@ -134,6 +150,9 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 ## Language Development Delays
 - According to the study on St. Petersburg USA Orphanage intervention[^5], Children adopted before 12 months of age displayed levels of expressive and receptive language skills
 - In contrast, language proficiency was lower for children adopted after 12 months of age in both the expressive and receptive domains. 
+
+
+
 
 
 
