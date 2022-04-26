@@ -83,7 +83,9 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 - According to a paper on the developmental effects of parent-child separation[^3]
 	-  we learn that the impact includes poorer brain functioning, smaller brain size, lower levels of cognition, and elevated social/behavioural problems, specifically disinhibition, inattention, hyperactivity, and attachment disruptions.
 	- At age 16, early-emerging deficits in problem-solving, attention, spatial planning, and short-term visual attention persisted into adolescence, and the gap in spatial working memory between once-institutionalized and never-institutionalized children widened in comparison to earlier in childhood.
-
+- According to a paper that studied impact of institutionalisation on child development[^12], 
+	-  Morison et al. (1995) found that 78%  of orphanage children were **delayed in all four  areas of development (personal–social, gross  motor, fine motor–adaptive, and language development)** 
+	- 
 ## Pubertal Development 
 
 - According to a paper on caregiving disruptions and their effect on development, we see that[^2]
@@ -214,6 +216,17 @@ According to a paper on developmental consequences of parent-child separation[^3
 *  Interestingly, the DQs of children in all three institutions improved over the six-year period, perhaps because fewer children were sent to institutions but staff levels remained the same producing smaller groups and fewer children per caregiver in all three of the institutions (McCall et al., in press).
 * These results and those of similar interventions indicate that institutions can be improved; the improvements can produce substantial increases in physical, mental, social, and behavioral development in both typically developing children and those with disabilities; and such benefits can be maintained for at least six years with no additional funds
 
+
+## Hodges and Tizard Study
+A paper on the impact of institutionalisation on IQ, covers this important study that shows that  institutionalized children were not destined for developmental compromise. They studied children who had spent the first 2 years of their lives in high-quality institutions in the United Kingdom (Tizard, 1977).
+- In these institutions the child to caregiver ratios were 3:1 and the were taken on outings, and were fed well.
+- The major way in which orphanage children’s lives differed from the lives of home-reared children was that caregivers were discouraged from forming intimate relationships with them (Tizard & Tizard, 1971). 
+- Tizard and Joseph (1970) first assessed children in the institution when they were 2 years old and compared them to a sample of home-reared children from a working class background. 
+- They found that the institution children’s [[IQ]] scores were only slightly lower than those of the working class children and that their language was only slightly delayed. 
+- At age 4.5 the mean [IQ](Roll%20Ups/Education/IQ.md) of the children in an institution was in the average range and no language problems were found (Tizard & Rees, 1974). 
+- Hodges and Tizard (1989) reported that children adopted from the institution had normal [IQ](Roll%20Ups/Education/IQ.md)s at 8 and 16 years of age. Tizard’s findings were more positive than the findings of the earlier search, but it is important to note that the children in Tizard’s sample had not experienced the extreme deprivation experienced by earlier samples of children  (e.g., Goldfarb, 1945a)
+
+
 ## Successful interventions include one or many of the following components: 
 - According to a meta-analysis that described different interventions in instituional children, these components are seen in successful interventions that improve cognitive performance[^1],  
 	- Regular visual and auditory stimulation 
@@ -317,4 +330,5 @@ According to a paper on developmental consequences of parent-child separation[^3
 [^8]: [[Normal Development Infancy, childhood, and adolescence]]
 [^9]: [[The Child Care HOME Inventories, assessing the quality of family child care homes]]
 [^10]: [[The consequences of early institutionalization, can institutions  be improved, should they]]
-[^11]: 
+[^11]: [[The Impact of Institutionalization on Child Development_Kim Mclean]]
+[^12]: 
