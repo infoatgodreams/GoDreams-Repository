@@ -11,8 +11,6 @@ Domain tags: [[Child Development]]
 
 # Brief:
 
-
-
 * Scope & Description: 2005). In this commentary the authors present a narrative review and a meta-analysis of intervention studies in orphanages and children’s homes with reported outcomes on child cognitive development. They estimate the combined effect size of the interventions and test which study characteristics are significant moderators of effectiveness. 
 * Link: [https://drive.google.com/drive/u/1/folders/15q-KBGvUJ_uFh2epebZnH25xDDlInyYU](https://drive.google.com/drive/u/1/folders/15q-KBGvUJ_uFh2epebZnH25xDDlInyYU
 * Original Link: [https://sci-hub.hkvisa.net/10.1111/j.1540-5834.2008.00498.x](https://sci-hub.hkvisa.net/10.1111/j.1540-5834.2008.00498.x)
