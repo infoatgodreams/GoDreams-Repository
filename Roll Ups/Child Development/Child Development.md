@@ -227,6 +227,13 @@ A paper on the impact of institutionalisation on IQ, covers this important study
 - At age 4.5 the mean [IQ](Roll%20Ups/Education/IQ.md) of the children in an institution was in the average range and no language problems were found (Tizard & Rees, 1974). 
 - Hodges and Tizard (1989) reported that children adopted from the institution had normal [IQ](Roll%20Ups/Education/IQ.md)s at 8 and 16 years of age. Tizard’s findings were more positive than the findings of the earlier search, but it is important to note that the children in Tizard’s sample had not experienced the extreme deprivation experienced by earlier samples of children  (e.g., Goldfarb, 1945a)
 
+## Play and Cognition
+- According to a paper on the relation of play and congition in institutional care[^13]
+	- Play has been related to the development of both cognition and social competence
+	- Play involved moving from learning schemes such as grasping or swinging an object, to new schemes involving higher levels of integration through pleasurable, spontaneous, and unorganized repetition and synthesis.
+	- Studies describing play and its relationship to development have demonstrated associations with cognition, motor skills, language, sensory processing, socialization, affect, and disposition
+	- Children cared for in institutions exhibited less exploratory play, less varied play, and developmentally lower levels of play than their home-reared peers. 
+	- Findings suggest that cognitive development, as measured by the standardized BSID-II, is related to play behaviours. 
 
 ## Successful interventions include one or many of the following components: 
 - According to a meta-analysis that described different interventions in instituional children, these components are seen in successful interventions that improve cognitive performance[^1],  
@@ -351,3 +358,4 @@ The Bayley-II36 was used to evaluate children ages 0 to 42 months on three scale
 [^10]: [[The consequences of early institutionalization, can institutions  be improved, should they]]
 [^11]: [[The Impact of Institutionalization on Child Development_Kim Mclean]]
 [^12]: [[The Physical, Developmental, and Mental Health Needs of Young Children in Child Welfare by Initial Placement Type]]
+[^13]: [[Play and Cognition Among Young Children Reared  in an Institution]]
