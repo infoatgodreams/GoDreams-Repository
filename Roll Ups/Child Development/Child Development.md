@@ -27,8 +27,10 @@ According to a paper on development[^8], Several recurring developmental princip
 * They may also vary according to other contextual differences including historical era, community, or socioeconomic status.
 * Nature and timing of some capabilities are less likely to vary across context, particularly in physical and cognitive domains. Skills and behaviors— such as cooing and babbling, initiation of speech, or the ability to use abstract reasoning—develop in a more species-specific pattern; they are all capabilities that are unlikely to differ cross-culturally
 
+
 # Domains of Development
 According to a paper on development, we learn about the different types of development to pay attention to[^8], 
+
 
 ### Cognitive development 
 - focuses on changes and growth in internal mental processes, such as -concrete and abstract thinking, reasoning, problem-solving, memorizing, recalling, planning, imaging, and creating.
@@ -41,6 +43,7 @@ According to a paper on development, we learn about the different types of devel
 
 ### Behavioral development
 * Behavioral milestones refer broadly to the child’s development of age-appropriate behavior, such as - following rules/regulating deviant behavior.
+
 
 # Young Adult Development  Model 
 According to this framework published by the Young Adult Success Project at UChicago,  The young adult success model posits three factors that are most directly related to positive outcomes in young adulthood
@@ -58,6 +61,7 @@ According to this framework published by the Young Adult Success Project at UChi
 - opportunities for skill-building and
 - integration across multiple contexts 
 
+
 # Impact of Institutionalisation
 
 According to a meta-analysis of over 70 years of intervention studies on cognitive development, these are the common failings in institutional care[^1]
@@ -72,8 +76,8 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 		- Secure attachment, for example, was found to protect against the vulnerabilities posed by institutionalization, early deprivation such as household income poverty, and other risks experienced during childhood.
 	- There is evidence of disruptions in adult–child relationships, peer relationships, and physiological processes as mechanisms because of parental separation
 
-## Effect of Trauma on Development
 
+## Effect of Trauma on Development
 From a review on the impact of trauma on child development, we now know that
 - #### General cognitive and language delay
 	- On the whole, children exposed to neglect may be more vulnerable to general delays in cognitive and language development.  Neglected children and those raised in poverty may be more at risk of general cognitive delay than those exposed to abuse 
@@ -94,8 +98,8 @@ From a review on the impact of trauma on child development, we now know that
 	- Compared to non-neglected peers, emotionally neglected children may have less efficient brain activity during tasks that require inhibitory control, suggesting that neglect is associated with poor ability to self-regulate and inhibit responses
 
 
-## Physical Development Delays
 
+## Physical Development Delays
 ### Height & Weight
 - According to a meta analysis on interventions to improve development outcomes in children[^1], 
 	- With regard to physical development, institutional care has shown dramatic negative effects on growth, with a major affect, reflecting the association between height and duration of stay in the orphanage
@@ -108,6 +112,7 @@ From a review on the impact of trauma on child development, we now know that
   - Despite placement in a more stable, nurturing, and stimulating environment, head circumference, a surrogate for brain size, did not significantly improve in foster care group between baseline and 12 years.
 
 
+
 ## Cognitive Development Delays
 - According to a meta analysis on interventions to improve development outcomes in children[^1]
 	- Children living in orphanages are often markedly delayed, to the point of apparent mental retardation that disappears with improving environments. 
@@ -118,12 +123,14 @@ From a review on the impact of trauma on child development, we now know that
 	- At age 16, early-emerging deficits in problem-solving, attention, spatial planning, and short-term visual attention persisted into adolescence, and the gap in spatial working memory between once-institutionalized and never-institutionalized children widened in comparison to earlier in childhood.
 - According to a paper that studied impact of institutionalisation on child development[^12], 
 	-  Morison et al. (1995) found that 78%  of orphanage children were **delayed in all four  areas of development (personal–social, gross  motor, fine motor–adaptive, and language development)** 
-	
+
+
 ## Pubertal Development 
 - According to a paper on caregiving disruptions and their effect on development, we see that[^2]
 	- Institutionalized group boys showed lower Tanner scores compared with foster care group and family care group. *The Tanner scale (also known as the Tanner stages or Sexual Maturity Rating (SMR)) is a scale of physical development in children, adolescents and adults. The scale defines physical measurements of development based on external primary and secondary sex characteristics, such as the size of the breasts, genitals, testicular volume and development of pubic hair.* 
 	- A previous survey of pubertal development in children experiencing severe deprivation within Romanian orphanages revealed that the onset of puberty was delayed by approximately 2.5 years in girls and 1.5 years in boys.
 	- Despite expectations of altered pubertal tempo, the only difference noted was that Tanner scores at age 12 years in institutionalized group boys were lower compared with both foster care group and family care group boys. Tanner development and age of menarche were comparable among girls in institutionalized group, foster care group, and family care group.
+
 
 ## Pyschosocial Development Delays
 - According to a paper that sudies the developmental effects of parental separation, when there is volitional separation (parents leave for better pastures), we see that 
@@ -143,10 +150,12 @@ From a review on the impact of trauma on child development, we now know that
 	- According to a paper on the impact of institutionalisation on child development, 			the unwillingness to interact with peers further prevents them  from learning normal patterns of social interaction. When they do become comfortable  enough to interact with peers in their new environment, they externalize (“act out”) in unacceptable ways that do not endear them to those peers. 
 		- Children in residential care were also found to have difficulties in both the affective and cognitive dimensions of empathy, and they manifested low levels of empathic stress and empathic joy, which resulted in a coping style oriented towards the self
 
+
 ## Executive Function Delays
 - [^5]Older-adopted children displayed lower inhibitory control and poorer working memory than children adopted at younger ages, but the groups did not differ significantly on a spatial self-ordered search task, which measures spatial working memory. 
 - Children with this kind of difficulty can benefit from highly structured environments where expectations are clear. 
 - They can benefit from prompts to stay on task and the use of pre-arranged strategies to let them know when a transition is pending. These can include advanced warnings, using timers, and visual cues (e.g., paper chain links or a timer to count down to the end of an activity).
+
 
 ## Language Development Delays
 - According to the study on St. Petersburg USA Orphanage intervention[^5], Children adopted before 12 months of age displayed levels of expressive and receptive language skills
@@ -353,7 +362,7 @@ A paper on the impact of institutionalisation on IQ covers this important study 
 	- The timing of the intervention however made a significant difference. Interventions starting before the first birthday of the child were significantly more effective  than interventions starting at a later age. 
 	- Effect of interventions decreased with increasing age of the children at the start of the intervention. 
 	- Interventions with children younger than 12 months were more effective than interventions starting at a later age. Similar effects have been found for children’s physical growth
-- According to a paper on the developmental effects of parental separation, 
+- According to a paper on the developmental effects of parental separation[^3], 
 	- Length of time in an institution appears to be negatively associated with developmental outcomes.  
 	- Cognitive recovery was inversely related to the length of stay in institutional care.
 	- prolonged residence in orphanages led to higher neuropsychological deficits in memory, attention, and inhibitory control but similar levels to peers in auditory processing, rule acquisition, and planning
@@ -372,7 +381,6 @@ A paper on the impact of institutionalisation on IQ covers this important study 
 	- Caregivers rarely initiated or maintained reciprocal social interactions with children or provided physical affection. Instead, caregivers used directive language and focused on providing the necessities (feeding, changing diapers, bathing) in a business-like manner with little eye contact, talking, or playing. 
 	- Thus, although the physical resources were adequate in these institutions, children had few warm, sensitive, and responsive interactions with a few consistent caregivers
 - According to a paper that studied the impact of institutionalisation on child development,  In addition to the length of time in an institution, the availability of toys and having been a favorite in the institution were associated with fewer delays and higher scores on the Gesell scales, whereas being described as dirty when first met by parents was associated with more delays and lower Gesell scores
-
 
 ## Other factors
 - According to the St Petersburg USA Orphanage Intervention Research Project[^5], other moderating factors include
@@ -425,6 +433,7 @@ Physical activity guidelines for school-age kids recommend that they get **at l
 	- Provide opportunities for your child to develop an understanding of rules by playing simple table games that rely on chance rather than on skills such as cards, dominoes, tic-tac-toe.
 	- Teach by speaking out loud to yourself (so your child will hear) about a problem and how to resolve it. An example: We are out of milk, bread and fruit. I’m not feeling well. I will call daddy and ask him to stop by the grocery store on his way home to get them.
 	- Demonstrate that behaviors and actions have consequences for everybody involved in a situation: If you do that, this will happen or when you do this, then you will get this
+
 
 ## Adolescents
 
