@@ -149,6 +149,15 @@ According to a paper on developmental consequences of parent-child separation[^3
 - Children improved more the longer they resided in the intervention institutions, and this was true for children with and without disabilities.
 - Children in the intervention institutions also gained more than those in NoI in height, weight, and chest circumference, and they progressively displayed fewer functional limitations; again gains were greater the longer children were in the intervention. 
 
+### Sustaining the success of this intervention
+
+- According to a paper[^7] on the benefits of maintaining a socioemotional intervention in institutional settings, we learn about the different maintenance activities used to continue the initial success of the intervention:
+	- Attempts to maintain the intervention were of two types—creating an intervention that had features that would promote maintenance after the original demonstration project ended and procedures implemented during the intervention and the time following the intervention that might contribute to program maintenance
+	- The original intervention involved several components thought to promote maintenance. First, the double intervention was implemented in a BH in which the director was thoroughly committed to implementing and maintaining the intervention and insisted that her staff do so.
+	- Second, although the intervention project provided substantial resources to this BH including some funds to hire additional caregivers, the intervention was designed to reduce the number of different caregivers in children’s lives but not to increase the number of caregiver hours available to children.
+	- Third, a train-the-trainer strategy was adopted so that training personnel were continually available to prepare new caregivers who replaced those who left during and after the intervention
+	- Fourth, an in-house monitoring and supervision system was established in which specialists (e.g., staff professionals in children with disabilities, early education) were responsible for monitoring the caregivers and encouraging them to implement the training on the wards on a continuing basis.
+	- Furthermore, following the end of the intervention project, additional coaching and technical assistance were provided by author Palmov and two other professionals to both Training + Structural Changes and TO, which consisted of weekly or bimonthly visitations, supervision, and periodic refresher training.
 
 ## Successful interventions include one or many of the following components: 
 - According to a meta-analysis that described different interventions in instituional children, these components are seen in successful interventions that improve cognitive performance[^1],  
@@ -243,3 +252,4 @@ According to a paper on developmental consequences of parent-child separation[^3
 [^4]: [[Developmental Milestones Chart]]
 [^5]: [[Early Caregiver Child Interaction and Children Development, Lessons from the St. Petersburg USA Orphanage Intervention Research Project]]
 [^6]: [[IQ of Children Growing up in CCI]]
+[^7]: [[Maintaining a Social-Emotional Intervention and Its Benefits for Institutionalized Children]]
