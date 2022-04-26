@@ -380,6 +380,14 @@ According to a paper designed to understand if dance activities can improve cogn
 - According to the Institute for Human Services and the Ohio Child Welfare Training Program[^4], these charts can be used to assess child's milestone achievement and delays. 
 
 ## School-aged children
+### How active should my 6- to 12-year-old be?
+
+Physical activity guidelines for school-age kids recommend that they get **at least 1 hour** of moderate to strong physical activity daily. In addition:
+- Most of the physical activity should be aerobic, where kids use large muscles and continue for a period of time.
+- Examples of aerobic activity are running, swimming, and dancing.
+- School-age kids usually have brief bouts of moderate to strong physical activity alternating with light activity or rest throughout the day. Any moderate to strong activity counts toward the 60-minute goal.
+- Muscle-strengthening and bone-strengthening physical activity should be included at least 3 days a week.
+- Children naturally build strong muscles and bones when they run, jump and play. Formal weight programs aren’t needed. However, they are safe when properly designed and supervised.
 ![[School Aged (Physical, Cognitive, Social).png]]
 
 
@@ -396,6 +404,21 @@ According to Hope Worldwide[^14], here are a few practices to support children a
 - Encourage a sense of being able to achieve even against all problems
 - Teach them how to handle failure and solve problems
 - Caregiver must give appropriate support
+
+- According to the American Psychological Association, these are the tips for caregivers
+	- Help your children to develop a sense of competence: give them opportunities to master some skills like cooking, building models, making crafts, playing an instrument.
+	- Reinforce the understanding of right and wrong and consequences.
+	- Teach problem solving to your child. Use the IDEAL model to:
+		- Identify the problem and the feelings involved (Your child is being bullied and is afraid of going to school)
+		- Determine with the child possible solutions without use of violence.
+		- Evaluate with the child the merits of each possible solution.
+		- Act, choosing the best solution.
+		- Learn from what you and your child did to solve the problem.
+		- Use real-life situations (in your family or make-up a situation) and when you are on the bus, in the car or in the kitchen, play the IDEAL game with your child. A mock scenario could be: A child can’t watch TV because he or she hasn’t done homework and she/he is mad and breaks the remote control.
+	- Reinforce prosocial skills such as sharing, empathy, cooperation by asking a child to do things like help care for a baby, collect food for a shelter.
+	- Provide opportunities for your child to develop an understanding of rules by playing simple table games that rely on chance rather than on skills such as cards, dominoes, tic-tac-toe.
+	- Teach by speaking out loud to yourself (so your child will hear) about a problem and how to resolve it. An example: We are out of milk, bread and fruit. I’m not feeling well. I will call daddy and ask him to stop by the grocery store on his way home to get them.
+	- Demonstrate that behaviors and actions have consequences for everybody involved in a situation: If you do that, this will happen or when you do this, then you will get this
 
 ## Adolescents
 ![[Adoloscents (Physical, Cognitive, Social).png]]
