@@ -322,6 +322,17 @@ According to a paper designed to understand if dance activities can improve cogn
 -   interventions that focus on the development of specific cognitive skills
 
 
+## Using Cognitive Therapies to improve cognitive outcomes in children
+- According to a meta analysis on the Efficacy of Cognitive Training Programs in Children and Adolescents, 
+	- Cognitive therapies are intended to improve basic cognitive functions, whatever the cause of the deficiency may be. Children and adolescents with various cognitive deficits are treated with behavioral therapeutic and computer-supported training programs.
+	- Such training programs are used in children with the following disorders:
+		-  Disturbances in mental development
+		- Severe attention disorders 
+		- Acquired cerebral function disorders or brain injury, also status post mild craniocerebral trauma
+		-  Cognitive therapy and training programs are most frequently indicated in children with attention deficit disorders or attention deficit hyperactivity disorders (ADD/ADHD), where the efficacy of solely medicinal treatment has been questioned.
+- 
+
+
 
 ## Successful interventions include one or many of the following components: 
 - According to a meta-analysis that described different interventions in instituional children, these components are seen in successful interventions that improve cognitive performance[^1],  
