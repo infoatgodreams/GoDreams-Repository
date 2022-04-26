@@ -30,18 +30,17 @@ Domain tags: [[Child Development]]
 
 ![[Infant and Toddlers (Emotional).png]]
 
+![[Preschool (Physical, Cognitive, Social).png]]
+
+![[Preschool (Emotional).png]]
+
+![[School Aged (Physical, Cognitive, Social).png]]
 
 
-[https://drive.google.com/file/d/1p1vlOItS665khGsJSaL2V8zgPhYvrsyS/view?usp=sharing](https://drive.google.com/file/d/1p1vlOItS665khGsJSaL2V8zgPhYvrsyS/view?usp=sharing) 
+![[School Aged (Emotional).png]]
 
-[https://drive.google.com/file/d/1GwWwy27ZenZjo_BNYNxMv5ai9M5f_2Mw/view?usp=sharing](https://drive.google.com/file/d/1GwWwy27ZenZjo_BNYNxMv5ai9M5f_2Mw/view?usp=sharing)
 
-[https://drive.google.com/file/d/1BCBVp7-4kZtaLIVhtqI_8gtAioUSWNao/view?usp=sharing](https://drive.google.com/file/d/1BCBVp7-4kZtaLIVhtqI_8gtAioUSWNao/view?usp=sharing)
+![[Adoloscents (Physical, Cognitive, Social).png]]
 
-[https://drive.google.com/file/d/1Zav5lC5LulNqXRxsycdS9Ax6genLwivg/view?usp=sharing](https://drive.google.com/file/d/1Zav5lC5LulNqXRxsycdS9Ax6genLwivg/view?usp=sharing)
+![[Adolescents (Emotional).png]]
 
-[https://drive.google.com/file/d/14IiYsotARIYuoeDyF8YkhVhE44rK57fT/view?usp=sharing](https://drive.google.com/file/d/14IiYsotARIYuoeDyF8YkhVhE44rK57fT/view?usp=sharing)
-
-[https://drive.google.com/file/d/1B15mKcoArQI1czEVlpxxr_Xgf9bItqQd/view?usp=sharing](https://drive.google.com/file/d/1B15mKcoArQI1czEVlpxxr_Xgf9bItqQd/view?usp=sharing) 
-
-[https://drive.google.com/file/d/1MX73OjzhplJWGc13IKdIBs4C0JqpDIe_/view?usp=sharing](https://drive.google.com/file/d/1MX73OjzhplJWGc13IKdIBs4C0JqpDIe_/view?usp=sharing)
