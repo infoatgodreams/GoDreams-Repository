@@ -220,6 +220,19 @@ According to a paper on developmental consequences of parent-child separation[^3
 ### The Bucharest Early Intervention Project (BEIP)
 - [^15][[The Bucharest Early Intervention Project]] ( has begun providing a foster care inter-  vention in Bucharest, Romania, in which they  are following the development of children removed from orphanage to foster care and comparing their developmental progress to both children who remain in orphanage and a community comparison group. 
 - The study showed that high-quality foster care has the potential of improving children’s development relative to the typical institutional environment
+
+### Study Design
+- Children in the BEIP were randomized into either the ‘Care As Usual Group’ (CAUG) (the group who remained in institutional care), or ‘High Quality Foster Care Group’(FCG), and a comparison group of non-institutionally raised children were matched by age and gender
+
+
+### Study findings
+- No biological differences between children who were raised in institutional environments and those in the comparison group who had never been cared for in an institutional environment ,nor with those who had been randomised to high quality foster care.
+- Lower IQ scores for both FCG and CAUG as compared to the comparison group.
+- Higher levels of callous-unemotional traits among children who experienced any institutional care as opposed to the comparison group. *(Callous-unemotional (CU) traits comprise a temperament dimension characterized by low empathy, interpersonal callousness, restricted affect and a lack of concern for performance.)*
+- Children in the FCG were more likely to display adaptive functioning than those in the CAUG (*Adaptive functioning means **how well a person handles common demands in life and how independent they are compared to others of a similar age and background***.)
+- Higher psychopathology among those in CAUG and the FCG compared to the comparison group at ages 8, 12, and 16. The FCG had significantly lower psychopathology than the CAUG at age 16. 
+- Particularly high rates of attention problems, poor self-regulation, attachment disorders and anxiety are noted among those who experienced institutional care.
+- Children who experienced institutional care had reduced cognitive processing speed compared to the comparison group.
 - However,both the wealth of evidence from the BEIP (using a strong RCT methodology), and more piece meal evidence from other comparative studies, indicate that children and young people who are either initiallyplaced, or subsequently move to, family based environments are able to match children who were neverremoved from the home, and make up ground on disadvantages they may have experienced uponplacement
 
 
@@ -232,7 +245,7 @@ A paper on the impact of institutionalisation on IQ, covers this important study
 - At age 4.5 the mean [IQ](Roll%20Ups/Education/IQ.md) of the children in an institution was in the average range and no language problems were found (Tizard & Rees, 1974). 
 - Hodges and Tizard (1989) reported that children adopted from the institution had normal [IQ](Roll%20Ups/Education/IQ.md)s at 8 and 16 years of age. Tizard’s findings were more positive than the findings of the earlier search, but it is important to note that the children in Tizard’s sample had not experienced the extreme deprivation experienced by earlier samples of children  (e.g., Goldfarb, 1945a)
 
-## Play and Cognition
+## Using Play to improve Cognition
 - According to a paper on the relation of play and congition in institutional care[^13]
 	- Play has been related to the development of both cognition and social competence
 	- Play involved moving from learning schemes such as grasping or swinging an object, to new schemes involving higher levels of integration through pleasurable, spontaneous, and unorganized repetition and synthesis.
