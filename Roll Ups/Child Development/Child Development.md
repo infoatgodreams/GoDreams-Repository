@@ -295,12 +295,33 @@ A paper on the impact of institutionalisation on IQ, covers this important study
 ![[School Aged (Physical, Cognitive, Social).png]]
 
 
+## Warning Signs 
+According to Hope Worldwide[^14], here are a few concerns of not meeting these needs at this age
+- Where the child does not accomplish the tasks, he may give up hope for the future
+- The child might feel inferior (less than his/her peers)
+- The child may feel inadequate (not knowing, not being able)
+
+## Role of caregiver
+According to Hope Worldwide[^14], here are a few practices to support children at this age, 
+- Praise the child’s efforts
+- Encourage the child to see himself/herself as equal to the peers
+- Encourage a sense of being able to achieve even against all problems
+- Teach them how to handle failure and solve problems
+- Caregiver must give appropriate support
+
 ## Adolescents
 ![[Adoloscents (Physical, Cognitive, Social).png]]
 
 ![[Adolescents (Emotional).png]]
 
 
+## Role of the caregiver: 
+According to Hope Worldwide[^14], here are a few practices to support children at this age, 
+- Keep open communication channels
+- Encourage the child to speak their mind or express their opinions
+- Provide advice and guidance
+- Set boundaries with child
+- Give the child the opportunity to express his/her anger and other difficult feelings
 
 # Assessment tools [[Assessment Tools]]
 - According to a paper that looked at IQ of children growing up in CCIs, 
@@ -359,3 +380,4 @@ The Bayley-II36 was used to evaluate children ages 0 to 42 months on three scale
 [^11]: [[The Impact of Institutionalization on Child Development_Kim Mclean]]
 [^12]: [[The Physical, Developmental, and Mental Health Needs of Young Children in Child Welfare by Initial Placement Type]]
 [^13]: [[Play and Cognition Among Young Children Reared  in an Institution]]
+[^14]: [[Hope Worldwide_Introduction to Working with Children and Psychosocial Support]]
