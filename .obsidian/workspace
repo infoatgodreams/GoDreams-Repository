@@ -6,10 +6,24 @@
       {
         "id": "276ab37f5f446807",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Roll Ups/Child Development/Child Development.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "faad538cbb77db7a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 3/Current Reality/International CCIs/A Meta Analysis of 70 Years of Intervention improving Cognitive Development in Institutionalized Children.md",
             "mode": "source",
             "source": false
           }
@@ -49,11 +63,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e154e99fa257850e",
@@ -69,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Child Development/Child Development.md",
+                "file": "Volume 3/Current Reality/International CCIs/A Meta Analysis of 70 Years of Intervention improving Cognitive Development in Institutionalized Children.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +102,9 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "276ab37f5f446807",
+  "active": "faad538cbb77db7a",
   "lastOpenFiles": [
+    "Volume 3/Current Reality/International CCIs/A Meta Analysis of 70 Years of Intervention improving Cognitive Development in Institutionalized Children.md",
     "Roll Ups/Child Development/Child Development.md",
     "Volume 3/Care Standards/International - Service Providers to CCIs/Maintaining a Social-Emotional Intervention and Its Benefits for Institutionalized Children.md",
     "Volume 3/Current Reality/International CCIs/Normal Development Infancy, childhood, and adolescence.md",
@@ -96,7 +113,6 @@
     "Volume 3/Care Standards/International - Services for CNCP/Developmental Milestones Chart.md",
     "images/Infant and Toddlers (Physical, Cognitive, Social).jpeg",
     "picture.png.md",
-    "Volume 3/Current Reality/International CCIs/The role of play in children's development.md",
-    "conflict-files-obsidian-git.md"
+    "Volume 3/Current Reality/International CCIs/The role of play in children's development.md"
   ]
 }
