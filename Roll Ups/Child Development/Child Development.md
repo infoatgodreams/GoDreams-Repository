@@ -46,6 +46,22 @@ According to a paper on development, we learn about the different types of devel
 ### Behavioral development
 * Behavioral milestones refer broadly to the child’s development of age-appropriate behavior, such as - following rules/regulating deviant behavior.
 
+# Young Adult Development  Model 
+According to this framework published by the Young Adult Success Project at UChicago,  The young adult success model posits three factors that are most directly related to positive outcomes in young adulthood
+- competencies, complex sets of abilities that allow individuals to perform roles, navigate contexts and adapt to different needs and demands
+- integrated identity, a coherent sense of self across time, contexts and include multiple aspects of one’s identity and
+	- agency, the ability to determine one’s own life path rather than being subject to external forces
+
+## Settings that favour development
+- physical and psychological safety
+-  appropriate structure
+- supportive relationships
+- opportunities to belong
+- positive social norms
+- support of efficacy and mattering
+- opportunities for skill-building and
+- integration across multiple contexts 
+
 # Impact of Institutionalisation
 
 According to a meta-analysis of over 70 years of intervention studies on cognitive development, these are the common failings in institutional care[^1]
