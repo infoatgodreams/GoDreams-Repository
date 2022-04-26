@@ -34,6 +34,20 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 - [^1]In a randomized control trial the Bucharest Early Intervention Project showed that foster care as an intervention improved the cognitive outcome of children substantially (Nelson et al., 2007).
 - The remarkable catch-up shown by adopted children in comparison with their peers who remain behind in institutional care (e.g., Rutter et al., 1998; Van IJzendoorn & Juffer, 2006) cannot for the greater part be ascribed to selection bias
 
+## Successful interventions include one or many of the following components: 
+- Regular visual and auditory stimulation 
+- Impersonal tactile stimulation
+- Decreased child-caregiver ratio
+- Personal relationship with one caregiver 
+- Increased caregiver stability 
+- Sensitive interaction with children
+- Personal care 
+- Pre-school attendance 
+- Impersonal stimulation of exploration 
+- Cognitive stimulation 
+- Structured play 
+- 
+
 
 # Factors that affect developmental outcomes
 ## Timing 
