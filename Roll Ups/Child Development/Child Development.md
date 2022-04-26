@@ -73,6 +73,31 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 
 
 
+# Reasons for delayed cognitive development in institutions
+## Care in large groups:
+- In a groundbreaking intervention study, Groark, Muhamedrahimov, Palmov, Nikiforova, and McCall (2005) demonstrated that promoting caregiver sensitivity leads to better socioemotional and cognitive development of the children involved and a better atmosphere in the groups consisting of children of differing ages. 
+- Caregiver-child ratio might also be important. Groark and colleagues (2005) managed to decrease the number of children per caregiver, which promoted children’s development significantly.
+- Children with the most favorable caregiver-child ratio (maximally three children per caregiver) did not significantly lag behind their peers reared in families. This means that in residential care with small groups intellectual development of the pupils may not lag behind substantially.
+
+## Poor environments: 
+- In less-developed countries the discrepancies between the IQ of residential and family-reared children was indeed largest. 
+-  In the latter countries the IQ delays were negligible, perhaps because of the extreme poor living conditions for both categories of children (family reared and orphanage-reared) in those African countries. 
+- Wolff (1995) even suggested that in Eritrea children living in orphanages were better off than children reared by their parents.
+- Similarly, Kodero (2001) found that AIDS/HIV orphans in Kenya received better care in children’s homes than in other forms of care, including care by the extended family.
+
+## Lack of challenging stimuli:
+- The stimulus deprivation theory (Casler, 1961) suggests that the lack of physical and social stimuli of any kind may be the most important cause of intellectual delays, and enriching the orphanage environment would result in better intellectual development.
+- Cognitive stimulation may be another important factor in children’s homes. Morison, Chisholm, and Ames (1995) showed that with an increasing amount of play materials, developmental delays decreased in children adopted from orphanages (see also Kaler & Freeman, 1994).
+
+## Lack of stable attachments
+- The maternal deprivation concept (Bowlby, 1951) states that a stable and continuous attachment relationship with a sensitive caregiver is essential for socioemotional as well as for intellectual development. 
+- If this is true, children’s homes with more sensitive caregivers and smaller groups might be less damaging to intellectual development.
+
+## Age of children and duration of stay:
+- Age of the children and the duration of their stay in the orphanage may also play a role in the degree to which gjusroup care affects children’s intellectual development. One would expect that younger entry into the orphanage (Sloutsky, 1997) and a longer stay (Sloutsky, 1997; Spitz, 1945) would be more detrimental, but the evidence is equivocal
+
+
+
 # Interventions to improve cognitive development
 
 ## Foster Care & Adoption
