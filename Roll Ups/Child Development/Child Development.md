@@ -217,6 +217,10 @@ According to a paper on developmental consequences of parent-child separation[^3
 *  Interestingly, the DQs of children in all three institutions improved over the six-year period, perhaps because fewer children were sent to institutions but staff levels remained the same producing smaller groups and fewer children per caregiver in all three of the institutions (McCall et al., in press).
 * These results and those of similar interventions indicate that institutions can be improved; the improvements can produce substantial increases in physical, mental, social, and behavioral development in both typically developing children and those with disabilities; and such benefits can be maintained for at least six years with no additional funds
 
+### The Bucharest Early Intervention Project (BEIP)
+- [[The Bucharest Early Intervention Project]] ( has begun providing a foster care inter-  vention in Bucharest, Romania, in which they  are following the development of children removed from orphanage to foster care and comparing their developmental progress to both children who remain in orphanage and a community comparison group. 
+- The study showed that high-quality foster care has the potential of improving children’s development relative to the typical institutional environment
+
 
 ## Hodges and Tizard Study
 A paper on the impact of institutionalisation on IQ, covers this important study that shows that  institutionalized children were not destined for developmental compromise. They studied children who had spent the first 2 years of their lives in high-quality institutions in the United Kingdom (Tizard, 1977).
