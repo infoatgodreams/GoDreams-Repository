@@ -4,17 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e31ca400183ad2d",
+        "id": "fbc7f4a37a94b7c6",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Roll Ups/Physical Health/Play.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -73,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Physical Health/Play.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +83,7 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "9e31ca400183ad2d",
+  "active": "fbc7f4a37a94b7c6",
   "lastOpenFiles": [
     "Roll Ups/Physical Health/Play.md",
     "Volume 3/Care Standards/International - Services for CNCP/Sport and physical activity in the lives of looked-after children a ‘hidden group’ in research, policy and practice.md",
