@@ -330,8 +330,14 @@ According to a paper designed to understand if dance activities can improve cogn
 		- Severe attention disorders 
 		- Acquired cerebral function disorders or brain injury, also status post mild craniocerebral trauma
 		-  Cognitive therapy and training programs are most frequently indicated in children with attention deficit disorders or attention deficit hyperactivity disorders (ADD/ADHD), where the efficacy of solely medicinal treatment has been questioned.
-- 
 
+### Evidence-backed outcomes of cognitive therapy 
+- Behaviour: The greatest effects were reported in the area of behavior/psychopathology
+- Intelligence—The overall effect was slight.
+- School performance—Here too, the effects were slight
+- These interventions do not treat underlying diseases; rather, they train specific cognitive functions such as attention, memory, and executive functions, with the intention of improving skills at school and in daily life. 
+- A meta-analysis showed no overall favorable effects of cognitive training programs on cognitive functions. Favorable effects on behavior were demonstrated but represent nonspecific effects of treatment.
+- Clear-cut effects were demonstrated only for individual selected interventions and indications. This underlines the necessity of proper neuropsychological evaluation to identify the patients for whom cognitive training is indicated.
 
 
 ## Successful interventions include one or many of the following components: 
