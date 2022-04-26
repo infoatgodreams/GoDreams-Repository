@@ -26,6 +26,9 @@ Domain tags: [[Child Development]]
 * Professionals can review the chart prior to scheduled interactions with children to prompt their recall of common milestones and to help them identify potential developmental delays or concerns.  
 * The chart can be used to assess the child’s achievement of milestones and apparent delays. 
 
+ ![[Infant and Toddlers (Physical, Cognitive, Social).jpeg]]
+
+
 [https://drive.google.com/file/d/1W23DdkxkRFX31hI5lpwv6LO5z3xSEsE5/view?usp=sharing](https://drive.google.com/file/d/1W23DdkxkRFX31hI5lpwv6LO5z3xSEsE5/view?usp=sharing) 
 
 [https://drive.google.com/file/d/1p1vlOItS665khGsJSaL2V8zgPhYvrsyS/view?usp=sharing](https://drive.google.com/file/d/1p1vlOItS665khGsJSaL2V8zgPhYvrsyS/view?usp=sharing) 
