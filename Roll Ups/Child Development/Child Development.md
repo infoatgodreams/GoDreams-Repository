@@ -271,6 +271,15 @@ A paper on the impact of institutionalisation on IQ, covers this important study
 	- Children cared for in institutions exhibited less exploratory play, less varied play, and developmentally lower levels of play than their home-reared peers. 
 	- Findings suggest that cognitive development, as measured by the standardized BSID-II, is related to play behaviours. 
 
+## Using Physical Exercise to improve Cognition
+
+According to a paper designed to understand if dance activities can improve cognitive performance, we find out that, 
+- Recent systematic reviews and meta-analyses have shown that the evidence for the long-term effects of structured exercise programs on children’s cognitive performance is inconclusive; some studies report positive effects, while others report no effects (see for reviews
+- Nevertheless, it can be concluded that increasing the time spent on exercise in school at the cost of academic lessons does not negatively impact children’s cognitive performance
+- The vast majority of studies that examined the long-term effects of exercise on cognitive performance of children have implemented extensive exercise interventions with durations of 30–60 min per session, mostly delivered three to five times a week. These studies are simply impractical in the context of institutions
+-  A study examined high intensity aerobic exercises or (2) high intensity combined aerobic and strength exercises were implemented three times per week in 14–16 years old adolescents. The exercise bouts were implemented once a week during recess and twice a week as part of the regular physical education (PE) classes. The authors found no significant differences in executive functioning between the intervention groups and the control group that followed the regular PE classes
+
+
 ## Successful interventions include one or many of the following components: 
 - According to a meta-analysis that described different interventions in instituional children, these components are seen in successful interventions that improve cognitive performance[^1],  
 	- Regular visual and auditory stimulation 
