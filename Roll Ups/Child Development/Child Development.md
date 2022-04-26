@@ -55,6 +55,11 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 	- A previous survey of pubertal development in children experiencing severe deprivation within Romanian orphanages revealed that the onset of puberty was delayed by approximately 2.5 years in girls and 1.5 years in boys.
 	- Despite expectations of altered pubertal tempo, the only difference noted was that Tanner scores at age 12 years in institutionalized group boys were lower compared with both foster care group and family care group boys. Tanner development and age of menarche were comparable among girls in institutionalized group, foster care group, and family care group.
 
+## Pyschosocial Development
+- According to a paper that sudies the developmental effects of parental separation, when there is volitional separation (parents leave for better pastures), we see that 
+	- children separated from their mothers for 4 years or longer reported significantly higher-level anxiety and depression symptoms than those who were never separated, controlling for developmental level and country of origin.
+	- Children who were left behind by migrating parents had poorer school performance; increased feelings of abandonment, anger, and loneliness; and more sleep complaints. 
+
 
 
 # Interventions to improve cognitive development
@@ -68,6 +73,32 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 	* show cognitive development scores in the normal range.
 	* at 42 and 54 months old, children who had been placed in foster care showed cognitive gains over their peers who remained in orphanages.
 	* Placement in foster care also improves electroencephalogram measures of brain activity, relative to those who remained in institutional care.
+
+## School-Based Interventions:
+
+According to a paper on developmental consequences of parent-child separation[^3], 
+**Classroom-based interventions can be feasibly implemented by nonspecialized, trained personnel.** 
+- In a sample of left-behind adolescents, a teacher-student relationship positively predicted self-esteem and negatively predicted depression and problem behaviours.
+* association between teacher-student relationship and depression was stronger among the left-behind group. 
+* In India, a school-based intervention targeted Tibetan adolescents living in exile with limited family contact. This life skills training intervention, carried out with 300 adolescents aged 13–19 years, showed positive social and mental health impacts. This program reduced youth reports of stress related to, school, leisure and the future through various skill-based course topics such as creative thinking, critical thinking, effective communication, empathy, and decision making.
+* School-based cognitive behavioural therapy (CBT) group intervention in two schools in London for traumatized refugee or asylum-seeking children from countries affected by war. Teachers identified participants based on students’ classroom behaviour and their disclosure of traumatic events. The intervention reduced overall and intrusive PTSD symptoms and increased improvements in behaviour, as indicated by a teacher measure.
+
+## Community-Based Interventions:
+According to a paper on developmental consequences of parent-child separation[^3], 
+**Group interventions may be an effective way to target multiple youths who have experienced loss and separation in a single setting while facilitating social interaction with others facing a similar experience.**
+- Utilizing preexisting community and social services and programming might be an effective way to leverage systems that are already in place to reach those separated from a caregiver.
+
+### Children Companion Mothers Program (CCMP)
+- The community-based intervention, the Children Companion Mothers Program (CCMP), took place over 3 years. 
+- As part of the intervention, each participating village had a physical space for children to attend after-school activities; a paid, full-time program employee providing welfare services and program access to children; and a commitment of local governing institutions and authorities to collaboratively solve issues faced by left-behind children, as identified by the village program employee. 
+- Overall, results suggest that this community-level approach may have reduced disparities between left-behind and non-left-behind groups as shown by CCMP participants’ levels on various well-being indicators.
+* CCMP participants exhibited higher resilience, safety awareness, and communicative competence as well as better academic performance, guardianship, and physical health habits than participants in the control group, according to self-report measures. 
+
+### Youth Readiness Intervention
+- Youth Readiness Intervention, which integrated CBT and interpersonal therapy developed for 15- to 24-year-olds in a randomized controlled trial.
+* Program outreach, recruitment, and implementation were done at the community level, and the 10–12 intervention sessions at times involved family and community members as a way to foster engagement and establish a support system.
+* improved with regard to emotion regulation and prosocial behaviour, as well as educational engagement, like attendance and enrollment, according to a teacher survey (classroom performance scale) and youth report. 
+
 
 ## Successful interventions include one or many of the following components: 
 - According to a meta-analysis that described different interventions in instituional children, these components are seen in successful interventions that improve cognitive performance[^1],  
@@ -107,8 +138,24 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 - Thus, although we did not observe major changes in pubertal development among groups, caregiving disruptions deserve further investigation as a factor that could moderate changes in pubertal tempo in girls and boys.
 
 
+# Typical Developmental Milestones
+- According to the Institute for Human Services and the Ohio Child Welfare Training Program[^4], these charts can be used to assess child's milestone achievement and delays. 
+
+## School-aged children
+![[School Aged (Physical, Cognitive, Social).png]]
+
+
+## Adolescents
+![[Adoloscents (Physical, Cognitive, Social).png]]
+
+![[Adolescents (Emotional).png]]
+
+
+
+
 # References
 
 [^1]: [[A Meta Analysis of 70 Years of Intervention improving Cognitive Development in Institutionalized Children]]
 [^2]: [[Caregiving Disruptions Affect Growth and Pubertal Development in Institutionalised Childre in Romania, an RCT]]
 [^3]: [[Developmental Effects of Parent Child Separation]]
+[^4]: [[Developmental Milestones Chart]]
