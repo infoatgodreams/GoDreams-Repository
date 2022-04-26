@@ -185,9 +185,9 @@ From a review on the impact of trauma on child development, we now know that
 
 
 
-# Interventions to improve cognitive development
+# Interventions to improve cognitive development in institutional care
 
-## Six principles for supporting children in care who have been traumatised
+## Six principles for supporting children in care 
 - Provide safe environments and rich experiences that stimulate and enrich brain growth.
 - Support children and caregivers to understand the link between traumatic events and cognitive difficulties.
 - Develop and support positive relationships and connections in children's lives.
@@ -329,7 +329,7 @@ A paper on the impact of institutionalisation on IQ covers this important study 
 - Clear-cut effects were demonstrated only for individual selected interventions and indications. This underlines the necessity of proper neuropsychological evaluation to identify the patients for whom cognitive training is indicated.
 
 
-## Successful interventions include one or many of the following components: 
+## Successful interventions in institutions include one or many of the following components: 
 - According to a meta-analysis that described different interventions in instituional children, these components are seen in successful interventions that improve cognitive performance[^1],  
 	- Regular visual and auditory stimulation 
 	- Impersonal tactile stimulation
