@@ -62,6 +62,7 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 
 
 
+
 # Interventions to improve cognitive development
 
 ## Foster Care & Adoption
@@ -83,7 +84,8 @@ According to a paper on developmental consequences of parent-child separation[^3
 * In India, a school-based intervention targeted Tibetan adolescents living in exile with limited family contact. This life skills training intervention, carried out with 300 adolescents aged 13–19 years, showed positive social and mental health impacts. This program reduced youth reports of stress related to, school, leisure and the future through various skill-based course topics such as creative thinking, critical thinking, effective communication, empathy, and decision making.
 * School-based cognitive behavioural therapy (CBT) group intervention in two schools in London for traumatized refugee or asylum-seeking children from countries affected by war. Teachers identified participants based on students’ classroom behaviour and their disclosure of traumatic events. The intervention reduced overall and intrusive PTSD symptoms and increased improvements in behaviour, as indicated by a teacher measure.
 
-## Community-Based Interventions:
+## Community-Based Interventions
+
 According to a paper on developmental consequences of parent-child separation[^3], 
 **Group interventions may be an effective way to target multiple youths who have experienced loss and separation in a single setting while facilitating social interaction with others facing a similar experience.**
 - Utilizing preexisting community and social services and programming might be an effective way to leverage systems that are already in place to reach those separated from a caregiver.
@@ -98,6 +100,10 @@ According to a paper on developmental consequences of parent-child separation[^3
 - Youth Readiness Intervention, which integrated CBT and interpersonal therapy developed for 15- to 24-year-olds in a randomized controlled trial.
 * Program outreach, recruitment, and implementation were done at the community level, and the 10–12 intervention sessions at times involved family and community members as a way to foster engagement and establish a support system.
 * improved with regard to emotion regulation and prosocial behaviour, as well as educational engagement, like attendance and enrollment, according to a teacher survey (classroom performance scale) and youth report. 
+
+
+## St Petersburg USA Orphanage Intervention Research 
+
 
 
 ## Successful interventions include one or many of the following components: 
@@ -137,6 +143,19 @@ According to a paper on developmental consequences of parent-child separation[^3
 - According to a paper that studies disruptions in caregiving and their effect on development in children[^2],  Aside from group differences in growth, the compromised height and weight growth patterns linked to individual differences in caregiver disruptions in foster care group underscore the importance of a consistent caregiving environment for child well-being.
 - Thus, although we did not observe major changes in pubertal development among groups, caregiving disruptions deserve further investigation as a factor that could moderate changes in pubertal tempo in girls and boys.
 
+## Quality of Caregiving
+- According to a paper on the St. Petersburg USA Orphanage intervention research, 
+	- Caregivers received little training, and most of their training pertained to routine caregiving and basic physical health
+	- Caregivers rarely initiated or maintained reciprocal social interactions with children or provided physical affection. Instead, caregivers used directive language and focused on providing the necessities (feeding, changing diapers, bathing) in a business-like manner with little eye contact, talking, or playing. 
+	- Thus, although the physical resources were adequate in these institutions, children had few warm, sensitive, and responsive interactions with a few consistent caregivers
+
+
+## Other factors
+- According to the St Petersburg USA Orphanage Intervention Research Project[^5], other moderating factors include
+	- Severity of deprivation
+	- Age at assessment 
+	- Gender
+
 
 # Typical Developmental Milestones
 - According to the Institute for Human Services and the Ohio Child Welfare Training Program[^4], these charts can be used to assess child's milestone achievement and delays. 
@@ -159,3 +178,4 @@ According to a paper on developmental consequences of parent-child separation[^3
 [^2]: [[Caregiving Disruptions Affect Growth and Pubertal Development in Institutionalised Childre in Romania, an RCT]]
 [^3]: [[Developmental Effects of Parent Child Separation]]
 [^4]: [[Developmental Milestones Chart]]
+[^5]: [[Early Caregiver Child Interaction and Children Development, Lessons from the St. Petersburg USA Orphanage Intervention Research Project]]
