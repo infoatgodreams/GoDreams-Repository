@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 3/Current Reality/International CCIs/Normal Development Infancy, childhood, and adolescence.md",
+            "file": "Volume 3/Care Standards/International - Service Providers to CCIs/Maintaining a Social-Emotional Intervention and Its Benefits for Institutionalized Children.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 3/Current Reality/International CCIs/Normal Development Infancy, childhood, and adolescence.md",
+                "file": "Volume 3/Care Standards/International - Service Providers to CCIs/Maintaining a Social-Emotional Intervention and Its Benefits for Institutionalized Children.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "276ab37f5f446807",
   "lastOpenFiles": [
+    "Volume 3/Care Standards/International - Service Providers to CCIs/Maintaining a Social-Emotional Intervention and Its Benefits for Institutionalized Children.md",
     "Volume 3/Current Reality/International CCIs/Normal Development Infancy, childhood, and adolescence.md",
     "Volume 3/Current Reality/International CCIs/Developmental Effects of Parent Child Separation.md",
     "Roll Ups/Child Development/Child Development.md",
@@ -96,7 +97,6 @@
     "images/Infant and Toddlers (Physical, Cognitive, Social).jpeg",
     "picture.png.md",
     "Volume 3/Current Reality/International CCIs/The role of play in children's development.md",
-    "conflict-files-obsidian-git.md",
-    "Volume 3/Current Reality/International CCIs/The consequences of early institutionalization, can institutions  be improved, should they.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
