@@ -218,8 +218,9 @@ According to a paper on developmental consequences of parent-child separation[^3
 * These results and those of similar interventions indicate that institutions can be improved; the improvements can produce substantial increases in physical, mental, social, and behavioral development in both typically developing children and those with disabilities; and such benefits can be maintained for at least six years with no additional funds
 
 ### The Bucharest Early Intervention Project (BEIP)
-- [[The Bucharest Early Intervention Project]] ( has begun providing a foster care inter-  vention in Bucharest, Romania, in which they  are following the development of children removed from orphanage to foster care and comparing their developmental progress to both children who remain in orphanage and a community comparison group. 
+- [^15][[The Bucharest Early Intervention Project]] ( has begun providing a foster care inter-  vention in Bucharest, Romania, in which they  are following the development of children removed from orphanage to foster care and comparing their developmental progress to both children who remain in orphanage and a community comparison group. 
 - The study showed that high-quality foster care has the potential of improving children’s development relative to the typical institutional environment
+- However,both the wealth of evidence from the BEIP (using a strong RCT methodology), and more piece meal evidence from other comparative studies, indicate that children and young people who are either initiallyplaced, or subsequently move to, family based environments are able to match children who were neverremoved from the home, and make up ground on disadvantages they may have experienced uponplacement
 
 
 ## Hodges and Tizard Study
@@ -385,3 +386,4 @@ The Bayley-II36 was used to evaluate children ages 0 to 42 months on three scale
 [^12]: [[The Physical, Developmental, and Mental Health Needs of Young Children in Child Welfare by Initial Placement Type]]
 [^13]: [[Play and Cognition Among Young Children Reared  in an Institution]]
 [^14]: [[Hope Worldwide_Introduction to Working with Children and Psychosocial Support]]
+[^15]: [[Function, quality and outcomes of residential care]]
