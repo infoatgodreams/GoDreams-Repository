@@ -129,18 +129,13 @@ The intervention focused on the improvement of the institutional environment by 
 
 ## Research Team Intervention:
 
-* Each institution was assigned to a different condition: Training plus Structural Changes** (T+SC), **training but no structural changes or Training Only **(TO), **no Intervention or care-as-usual** (NoI). **
-
-                ■ **Training: **Training consisted of 12–14 sessions (approximately 60 h total) teaching caregivers to interact with children in a more “parent-like” manner by providing more warm, sensitive, and contingently responsive care to children.** **
-
-
-                ■ **Structural changes: **Were designed to create a more “family-like” environment within the institution. These changes were designed to support caregiver–child interactions and relationships, and included reducing the number of caregivers per group, appointing primary caregivers who worked more consistently during the week, reducing group sizes, integrating groups by age and disability status, stopping periodic “graduations” of children to new rooms with new caregivers and peers, appointing a few consistent substitute caregivers for each group, and establishing “family hour” twice daily in which visitors were prohibited and children spent time with their caregivers.
+* Each institution was assigned to a different condition: Training plus Structural Changes** (T+SC), **training but no structural changes or Training Only **(TO), **no Intervention or care-as-usual** (NoI). 
+* Training: Training consisted of 12–14 sessions (approximately 60 h total) teaching caregivers to interact with children in a more “parent-like” manner by providing more warm, sensitive, and contingently responsive care to children.
+* Structural changes: Were designed to create a more “family-like” environment within the institution. These changes were designed to support caregiver–child interactions and relationships, and included reducing the number of caregivers per group, appointing primary caregivers who worked more consistently during the week, reducing group sizes, integrating groups by age and disability status, stopping periodic “graduations” of children to new rooms with new caregivers and peers, appointing a few consistent substitute caregivers for each group, and establishing “family hour” twice daily in which visitors were prohibited and children spent time with their caregivers.
 
 
 
 ## Key findings from Training and Structural Changes: 
-
-
 
 * Children in the T+SC group showed the largest developmental gains, followed by those in the TO group, which in turn improved more than the NoI group. 
 * Specific areas of improvement included physical growth, cognitive and social-emotional development, and attachment quality to caregivers. 
@@ -150,8 +145,7 @@ The intervention focused on the improvement of the institutional environment by 
 * Children in the intervention institutions also gained more than those in NoI in height, weight, and chest circumference, and they progressively displayed fewer functional limitations; again gains were greater the longer children were in the intervention. 
 * Transition to new groups of peers and caregivers disrupted emerging relationships. These developmental profiles showed that children who did not experience a transition (i.e., T+SC) made steady linear developmental improvement across age, but the scores of those children who did transition (i.e., TO) increased before and after but not during the age period when they were transitioned to a new group. Scores for children in NoI did not change before, during, or after a ward transition.
 
-## 
-    Scaled-Up Intervention:
+## Scaled-Up Intervention:
 
 * The intervention and its benefits for children were sustained on the institution’s regular government budget for at least 10 years after it was completed. 
 * Similar interventions have been implemented in 15 institutions and more than 300 caregivers have been trained elsewhere in the Russian Federation with positive results.
