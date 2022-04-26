@@ -35,18 +35,19 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 - The remarkable catch-up shown by adopted children in comparison with their peers who remain behind in institutional care (e.g., Rutter et al., 1998; Van IJzendoorn & Juffer, 2006) cannot for the greater part be ascribed to selection bias
 
 ## Successful interventions include one or many of the following components: 
-- Regular visual and auditory stimulation 
-- Impersonal tactile stimulation
-- Decreased child-caregiver ratio
-- Personal relationship with one caregiver 
-- Increased caregiver stability 
-- Sensitive interaction with children
-- Personal care 
-- Pre-school attendance 
-- Impersonal stimulation of exploration 
-- Cognitive stimulation 
-- Structured play 
-- 
+- According to a meta-analysis that described different interventions in instituional children, these components are seen in successful interventions that improve cognitive performance[^1],  
+	- Regular visual and auditory stimulation 
+	- Impersonal tactile stimulation
+	- Decreased child-caregiver ratio
+	- Personal relationship with one caregiver 
+	- Increased caregiver stability 
+	- Sensitive interaction with children
+	- Personal care 
+	- Pre-school attendance 
+	- Impersonal stimulation of exploration 
+	- Cognitive stimulation 
+	- Structured play 
+
 
 
 # Factors that affect developmental outcomes
