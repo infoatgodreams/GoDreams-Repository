@@ -126,6 +126,7 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 		- high rates of disorganized or unscoreable attachment on the Strange Situation Procedure, 
 		- and indiscriminate friendliness.
 	- According to a paper on the impact of institutionalisation on child development, 			the unwillingness to interact with peers further prevents them  from learning normal patterns of social interaction. When they do become comfortable  enough to interact with peers in their new environment, they externalize (“act out”) in unacceptable ways that do not endear them to those peers. 
+		- Children in residential care were also found to have difficulties in both the affective and cognitive dimensions of empathy, and they manifested low levels of empathic stress and empathic joy, which resulted in a coping style oriented towards the self
 
 ## Executive Function Delays
 - [^5]Older-adopted children displayed lower inhibitory control and poorer working memory than children adopted at younger ages, but the groups did not differ significantly on a spatial self-ordered search task, which measures spatial working memory. 
