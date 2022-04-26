@@ -13,30 +13,32 @@ tags:
 
 
 * Scope & Description: 2005). In this commentary the authors present a narrative review and a meta-analysis of intervention studies in orphanages and children’s homes with reported outcomes on child cognitive development. They estimate the combined effect size of the interventions and test which study characteristics are significant moderators of effectiveness. 
-* Link: [https://drive.google.com/drive/u/1/folders/15q-KBGvUJ_uFh2epebZnH25xDDlInyYU](https://drive.google.com/drive/u/1/folders/15q-KBGvUJ_uFh2epebZnH25xDDlInyYU)
+* Link: [https://drive.google.com/drive/u/1/folders/15q-KBGvUJ_uFh2epebZnH25xDDlInyYU](https://drive.google.com/drive/u/1/folders/15q-KBGvUJ_uFh2epebZnH25xDDlInyYU
 * Original Link: [https://sci-hub.hkvisa.net/10.1111/j.1540-5834.2008.00498.x](https://sci-hub.hkvisa.net/10.1111/j.1540-5834.2008.00498.x)
 * Date: 26th April 2022
 * Author: 
 * Summarized By: Nishtha Dani
 * Gold Standard Inputs & Outcomes:
 * Baseline Inputs & Outcomes:  (Brief 1 liner + Table of content links/link to sections) -- indian homes basic standards
-* Introduction
-    * Orphanages usually do not meet the conditions of the average expectable environment, a prerequisite for children’s normal development, encompassing protective, stable caregiving and open opportunities for exploration and mastery of the world. 
-    * In this respect, institutional care implies structural neglect. Numerous studies have shown that children growing up in orphanages are at risk in various domains of functioning, including their physical, socio-emotional and cognitive development
-    * With regard to physical development, institutional care has shown dramatic negative effects on growth, with a meta-analytic effect size of d51.71 for the association between height and duration of stay in the orphanage
-    * Often it is not (only) deficiencies in nutrition or medical care that cause growth retardation, but that these growth delays are also the result of socio-emotional neglect.
-    * Children living in orphanages are often markedly delayed, to the point of apparent mental retardation that disappears with improving environments. 
-    * The combined effect size of 75 studies of cognitive delays in orphanages is d50.74, with an absolute difference in IQ between institutionalized and family-reared children of 20 IQ points. 
-    * Adoption can thus be depicted as an effective intervention for institutionalized children, and it makes sense to propose adoption or foster care as preferred alternatives to institutional care.
-    * In the same vein, in a randomized control trial the Bucharest Early Intervention Project showed that foster care as an intervention improved the cognitive outcome of children substantially (Nelson et al., 2007). Foster care intervention led to improved cognitive outcomes for the intervention children, with effect sizes of d50.62 at 42 months and d50.47 at 54 months.
-    * In some countries adoption and foster care are culturally unacceptable or economically impossible (Wolff & Fesseha, 1998); moreover, some children are shunned by potential adoptive or foster parents due to their special needs or clinical condition and are therefore likely to remain in institutional care. 
-* Topic of the Paper
-    * In this commentary we present a narrative review and a meta-analysis of intervention studies in orphanages and children’s homes with reported outcomes on child cognitive development.We estimate the combined effect size of the interventions and test which study characteristics are significant moderators of effectiveness.
-* Interventions improving Cognitive Development in Institutionalized Children
-    * Intervention efforts aimed at ameliorating the negative effects of institutionalization on children’s cognitive development date back to the 1930s, spanning a period of70 years of interventions in orphanages.
-    * Selection criteria for inclusion were that the intervention took place in the institution (excluding Skeels & Dye, 1939, who moved intervention infants from an orphanage to an institution for mentally retarded females who spent time with the children and formed special relationships with them; thereupon they were adopted and did not return to the orphanage), and that cognitive development as the outcome measure was assessed through observation (excluding Smyke, Dumitrescu, & Zeanah, 2002, where caregivers were interviewed on children’s language development.
-    * Typically developing children and children with disabilities were included in the meta-analysis as two separate studies. Typically developing intervention children outperformed control children with a difference of more than one standard deviation on the Battelle developmental scales (d51.05).
-    * Children with disabilities gained about half as much from the intervention compared to typically developing children (see Table 29), presumably because children with specific disabilities were more limited in their ability to improve developmentally
+
+
+## Impact of Institutionalisation
+- Orphanages usually do not meet the conditions of the average expectable environment, a prerequisite for children’s normal development, encompassing protective, stable caregiving and open opportunities for exploration and mastery of the world. 
+- In this respect, institutional care implies structural neglect. Numerous studies have shown that children growing up in orphanages are at risk in various domains of functioning, including their physical, socio-emotional and cognitive development
+- With regard to physical development, institutional care has shown dramatic negative effects on growth, with a meta-analytic effect size of d51.71 for the association between height and duration of stay in the orphanage
+- Often it is not (only) deficiencies in nutrition or medical care that cause growth retardation, but that these growth delays are also the result of socio-emotional neglect.
+- Children living in orphanages are often markedly delayed, to the point of apparent mental retardation that disappears with improving environments. 
+- The combined effect size of 75 studies of cognitive delays in orphanages is d50.74, with an absolute difference in IQ between institutionalized and family-reared children of 20 IQ points. 
+- Adoption can thus be depicted as an effective intervention for institutionalized children, and it makes sense to propose adoption or foster care as preferred alternatives to institutional care.
+- In the same vein, in a randomized control trial the Bucharest Early Intervention Project showed that foster care as an intervention improved the cognitive outcome of children substantially (Nelson et al., 2007). Foster care intervention led to improved cognitive outcomes for the intervention children, with effect sizes of d50.62 at 42 months and d50.47 at 54 months.
+- In some countries adoption and foster care are culturally unacceptable or economically impossible (Wolff & Fesseha, 1998); moreover, some children are shunned by potential adoptive or foster parents due to their special needs or clinical condition and are therefore likely to remain in institutional care. 
+- In this commentary we present a narrative review and a meta-analysis of intervention studies in orphanages and children’s homes with reported outcomes on child cognitive development.We estimate the combined effect size of the interventions and test which study characteristics are significant moderators of effectiveness.
+
+ ## Interventions improving Cognitive Development in Institutionalized Children
+- Intervention efforts aimed at ameliorating the negative effects of institutionalization on children’s cognitive development date back to the 1930s, spanning a period of70 years of interventions in orphanages.
+- Selection criteria for inclusion were that the intervention took place in the institution (excluding Skeels & Dye, 1939, who moved intervention infants from an orphanage to an institution for mentally retarded females who spent time with the children and formed special relationships with them; thereupon they were adopted and did not return to the orphanage), and that cognitive development as the outcome measure was assessed through observation (excluding Smyke, Dumitrescu, & Zeanah, 2002, where caregivers were interviewed on children’s language development.
+- Typically developing children and children with disabilities were included in the meta-analysis as two separate studies. Typically developing intervention children outperformed control children with a difference of more than one standard deviation on the Battelle developmental scales 
+- Children with disabilities gained about half as much from the intervention compared to typically developing children (see Table 29), presumably because children with specific disabilities were more limited in their ability to improve developmentally
 * Meta Analysis of all studies
     * The Meta-analysis of the studies reviewed above was performed using the Comprehensive Meta-Analysis program (CMA, Borenstein, Rothstein, & Cohen, 2005, Version 2).
     * Interventions in orphanages have been quite successful in enhancing children’s cognitive development
