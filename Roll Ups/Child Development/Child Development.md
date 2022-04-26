@@ -146,10 +146,13 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 
 ## Executive Function Delays
 - [^5]Older-adopted children displayed lower inhibitory control and poorer working memory than children adopted at younger ages, but the groups did not differ significantly on a spatial self-ordered search task, which measures spatial working memory. 
+- Children with this kind of difficulty can benefit from highly structured environments where expectations are clear. 
+- They can benefit from prompts to stay on task and the use of pre-arranged strategies to let them know when a transition is pending. These can include advanced warnings, using timers, and visual cues (e.g., paper chain links or a timer to count down to the end of an activity).
 
 ## Language Development Delays
 - According to the study on St. Petersburg USA Orphanage intervention[^5], Children adopted before 12 months of age displayed levels of expressive and receptive language skills
 - In contrast, language proficiency was lower for children adopted after 12 months of age in both the expressive and receptive domains. 
+- Language acquisition delays (i.e., delays in developing speech and vocabulary) mean that affected children may struggle with verbally mediated counselling approaches that rely on oral language competence, such as narrative therapies and restorative justice approaches.
 
 
 
@@ -186,6 +189,15 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 
 
 # Interventions to improve cognitive development
+
+## Six principles for supporting children in care who have been traumatised
+
+- Provide safe environments and rich experiences that stimulate and enrich brain growth.
+- Support children and caregivers to understand the link between traumatic events and cognitive difficulties.
+- Develop and support positive relationships and connections in children's lives.
+- Maintain targeted interventions throughout childhood and adolescence.
+- Offer all children in care targeted and trauma-specific interventions.
+- Ensure that specific cognitive difficulties are addressed directly.
 
 ## Foster Care & Adoption
 
@@ -297,6 +309,18 @@ According to a paper designed to understand if dance activities can improve cogn
 - Nevertheless, it can be concluded that increasing the time spent on exercise in school at the cost of academic lessons does not negatively impact children’s cognitive performance
 - The vast majority of studies that examined the long-term effects of exercise on cognitive performance of children have implemented extensive exercise interventions with durations of 30–60 min per session, mostly delivered three to five times a week. These studies are simply impractical in the context of institutions
 -  A study examined high intensity aerobic exercises or (2) high intensity combined aerobic and strength exercises were implemented three times per week in 14–16 years old adolescents. The exercise bouts were implemented once a week during recess and twice a week as part of the regular physical education (PE) classes. The authors found no significant differences in executive functioning between the intervention groups and the control group that followed the regular PE classes
+
+## Trauma-based interventions
+- Children in care are likely to have experienced a complex mix of neglect, trauma and adversity. There is an urgent need to develop tailored interventions for the difficulties faced by these children.
+-  In the meantime, all children in care should be offered interventions based on the best current evidence, and that target trauma symptoms and cognitive skills.
+
+### Targeted strategies include:
+-   Trauma-Focused CBT 
+		- At present, Trauma-Focused CBT is the approach that has most empirical support This trauma-specific intervention has also been shown to improve broad aspects of executive functioning such as cognitive skills and emotional regulation 
+		- Therefore, until more tailored interventions are developed for the complex needs of children in care, trauma-specific therapy should be offered as part of the support plan for children who have been exposed to traumatic events
+-   Dialectical Behaviour Therapy
+-   interventions that focus on the development of specific cognitive skills
+
 
 
 ## Successful interventions include one or many of the following components: 
