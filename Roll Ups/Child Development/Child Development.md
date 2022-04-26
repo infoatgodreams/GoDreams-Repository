@@ -10,6 +10,42 @@ Typical developmental delays in institutional care
 Caregiving interventions to improve development indicators
 
 
+# Principles of development
+According to a paper on development[^8], Several recurring developmental principles or themes are important to keep in mind when defining normal development and identifying growth processes and milestones
+
+### Nature and nurture
+* There is an interaction between nature and nurture, that influences development
+* For mental health professionals, it is necessary to consider the extent of their child clients’ normal or atypical development, it is important to recognize the complex interplay of nature and nurture and how this contributes to the clients’ clinical presentations.
+
+### Developmental timing and plasticity
+* Normal child development occurs on a continuum, ranging from children whose physical, cognitive, social-emotional, and behavioral development may lag behind those of their peers, to children who are precocious, meeting or surpassing developmental milestones before most children their age. Even still, a majority of children who develop slightly earlier or later than their peers may do so within a “normal” timeframe.
+* It is useful to keep in mind that, barring early mental or physical disorders, lapses in development and deviations from the norm at different points in time are not necessarily predictive of subsequent developmental deficits or delays. Instead, children typically continue to grow and change. 
+* Traits or skills can be altered throughout the lifespan although they typically are more malleable earlier in development. This notion of plasticity is an important characteristic of normal child development. 
+
+### Critical and sensitive periods
+* Critical period: A critical period is a limited time that begins and ends abruptly during which a specific function develops. If the conditions for development are not available during that time it may be extremely difficult or even impossible to develop these functions later in life. 
+* Sensitive period: A sensitive period is a time when it is easiest for children to acquire certain skills. It is similar to a critical period in that it is a time of optimal development, but it is best understood as a time of maximum sensitivity that begins and ends more gradually and is more amenable to recovery
+
+### Role of culture and context
+* development may vary considerably within and across racial/ethnic and cultural groups. 
+* They may also vary according to other contextual differences including historical era, community, or socioeconomic status.
+* Nature and timing of some capabilities are less likely to vary across context, particularly in physical and cognitive domains. Skills and behaviors— such as cooing and babbling, initiation of speech, or the ability to use abstract reasoning—develop in a more species-specific pattern; they are all capabilities that are unlikely to differ cross-culturally
+
+# Domains of Development
+According to a paper on development, we learn about the different types of development to pay attention to[^8], 
+
+### Cognitive development 
+- focuses on changes and growth in internal mental processes, such as -concrete and abstract thinking, reasoning, problem-solving, memorizing, recalling, planning, imaging, and creating.
+
+### Linguistic development
+* linguistic development domain references the child’s communication skills, developing speech patterns, and sentence structuring.
+
+### Social-emotional development
+* The social-emotional domain involves the development of relationships with others and the learning of social norms and customs, as well as growth in the ability to identify, understand, express, and modulate one’s feelings. 
+
+### Behavioral development
+* Behavioral milestones refer broadly to the child’s development of age-appropriate behavior, such as - following rules/regulating deviant behavior.
+
 # Impact of Institutionalisation
 
 According to a meta-analysis of over 70 years of intervention studies on cognitive development, these are the common failings in institutional care[^1]
@@ -253,3 +289,5 @@ According to a paper on developmental consequences of parent-child separation[^3
 [^5]: [[Early Caregiver Child Interaction and Children Development, Lessons from the St. Petersburg USA Orphanage Intervention Research Project]]
 [^6]: [[IQ of Children Growing up in CCI]]
 [^7]: [[Maintaining a Social-Emotional Intervention and Its Benefits for Institutionalized Children]]
+[^8]: [[Normal Development Infancy, childhood, and adolescence]]
+[^9]: 
