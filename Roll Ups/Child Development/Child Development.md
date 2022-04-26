@@ -426,6 +426,25 @@ According to Hope Worldwide[^14], here are a few practices to support children a
 ![[Adolescents (Emotional).png]]
 
 
+
+## Factors associated with resilience and positive outcomes in adolescents
+
+### Stable, positive relationship with at least one caring adult
+ Numerous studies have found that the presence of an adult—a parent or someone other than a parent—with a strong positive, emotional attachment to the child is associated with resilience (Garbarino, 1999). This might be a teacher or coach, an extended family member, or a mentor, such as those found in the Big Brothers/Big Sisters Program (Roth & Brooks-Gunn, 2000).
+
+### Religious and spiritual anchors
+A sense of meaning is one of the major pathways through which violent youth find their way to a constructive future, with religious and spiritual institutions and practices being important vehicles for developing a sense of meaning for these youth (Garbarino, 1999).
+
+### High, realistic academic expectations and adequate support  
+Schools that provide students with a sense of shared cooperative responsibility and belonging, convey high expectations for participation, and provide high levels of individual support for students tend to enhance resilience (Siedman et al., in press).
+
+### Positive home environment
+A warm, nurturing parenting style, with both clear limit setting and respect for the growing autonomy of adolescents, appears to be associated with resilience in adolescents (Jessor, 1991; Lerner & Galambos, 1998). 
+
+### Emotional intelligence and ability to cope with stress  
+Although intelligence per se has been reported to be associated with resilience (Fergusson & Lynskey, 1996), the factors that may be more important, because they are more amenable to change and are also involved in resilience, are emotional intelligence and the ability to cope with stress (Garbarino, 1999).
+
+
 ## Role of the caregiver: 
 According to Hope Worldwide[^14], here are a few practices to support children at this age, 
 - Keep open communication channels
@@ -433,6 +452,8 @@ According to Hope Worldwide[^14], here are a few practices to support children a
 - Provide advice and guidance
 - Set boundaries with child
 - Give the child the opportunity to express his/her anger and other difficult feelings
+
+
 
 # Assessment tools [[Assessment Tools]]
 - According to a paper that looked at IQ of children growing up in CCIs, 
