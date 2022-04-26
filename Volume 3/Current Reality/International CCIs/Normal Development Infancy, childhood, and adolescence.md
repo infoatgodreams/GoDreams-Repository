@@ -8,7 +8,7 @@ tags:
 - globalresearch
 
 ---
-
+Domain tags: [[Child Development]]
 
 # Brief:
 
@@ -103,178 +103,88 @@ Several recurring developmental principles or themes are important to keep in mi
 	* Development of attachment relationships: Infant’s bond with the primary caregiver
 	* Separation anxiety: Displays anxiety when the caregiver leaves
 
-* 13 months – 18 months
+### 13 months – 18 months
 * Cognitive milestones
-
-        -Memory storage and retrieval continue to advance
-
-
-        -babies at this age can imitate others with increasing delays between the time of the observed behavior and the imitation of this behavior in other contexts
-
-
-        -Infants at this age also begin to store prior experiences in memory and are aware when present situations are not in accordance with prior events/pre-existing expectations
+	* Memory storage and retrieval continue to advance
+	* babies at this age can imitate others with increasing delays between the time of the observed behavior and the imitation of this behavior in other contexts
+	* Infants at this age also begin to store prior experiences in memory and are aware when present situations are not in accordance with prior events/pre-existing expectations
 
 * Linguistic milestones
-
-        -Infants typically say their first word at 12 or 13 months
-
-
-        -After the first word, vocabulary will grow to about 200 words during this period (this varies depending on the developmental environment)
-
+	* Infants typically say their first word at 12 or 13 months
+	* After the first word, vocabulary will grow to about 200 words during this period (this varies depending on the developmental environment)
 * Social-emotional and behavioral milestones
+	* more concrete signs of self-awareness develop
+	* Infants now are aware that their body, emotions and behaviors are separate entities from those of their primary caregiver and from others
 
-        -more concrete signs of self-awareness develop
-
-
-        -Infants now are aware that their body, emotions and behaviors are separate entities from those of their primary caregiver and from others
-
-* 19 months – 2 years
+### 19 months – 2 years
 * Cognitive milestones
-
-        -cognitive advances continue in the areas of memory, problem-solving, and attention.
-
-
-        -infants can develop and carry out action plans (eg: building a structure with blocks)
+	* cognitive advances continue in the areas of memory, problem-solving, and attention.
+	* infants can develop and carry out action plans (eg: building a structure with blocks)
 
 * Linguistic milestones
-
-        -start combining two or more words
+	- start combining two or more words
 
 * Social-emotional and behavioral milestones
-
-        -infant becomes aware of the names for various emotional states and starts to use language and other behaviors to regulate his or her emotional experience
-
-
-        -shows an increased capacity for empathy
-
-
-        -more complex emotions emerge at this time- embarrassment, guilt, and shame, all of which are emotional responses to others’ perspectives of the child’s behavior.
-
-
-        -Behaviors indicative of separation anxiety decreases in their intensity during this stage and infants begin to show higher-level emotional regulation skills, such as delay of gratification.
+	* infant becomes aware of the names for various emotional states and starts to use language and other behaviors to regulate his or her emotional experience
+	* shows an increased capacity for empathy
+	* more complex emotions emerge at this time- embarrassment, guilt, and shame, all of which are emotional responses to others’ perspectives of the child’s behavior.
+	* Behaviors indicative of separation anxiety decreases in their intensity during this stage and infants begin to show higher-level emotional regulation skills, such as delay of gratification.
 
 
 
 ## Normal development in late toddlerhood and preschool (2 yrs-5yrs)
 
 
-
 * Cognitive milestones
-
-        -normally developing children will engage in more complex sociodramatic play, including developing imaginary friends, reflecting a growing capacity for mental representations
-
-
-        -Make-believe play with peers begins at age two or 2½, and increases in complexity until age four or five
-
-
-        -At age three or four, toddlers also come to understand dual representation or the recognition that a symbolic object, such as a model of a train station, is both an object and a symbol of something else.
-
-
-        -Private speech occurs when toddlers and preschoolers talk to themselves out loud, providing themselves with guidance when solving problems, such as thinking through or planning their behavior
+	* normally developing children will engage in more complex sociodramatic play, including developing imaginary friends, reflecting a growing capacity for mental representations
+	* Make-believe play with peers begins at age two or 2½, and increases in complexity until age four or five
+	* At age three or four, toddlers also come to understand dual representation or the recognition that a symbolic object, such as a model of a train station, is both an object and a symbol of something else.
+	* Private speech occurs when toddlers and preschoolers talk to themselves out loud, providing themselves with guidance when solving problems, such as thinking through or planning their behavior
 
 * Linguistic milestones
-
-        -Important milestones include the growth of the child’s vocabulary to about 2,000 words by age five.
-
-
-        Ability to define known words and integrate new words into sentences upon hearing them toward the end of the preschool period
+	* Important milestones include the growth of the child’s vocabulary to about 2,000 words by age five.
+	* Ability to define known words and integrate new words into sentences upon hearing them toward the end of the preschool period
 
 * Social-emotional and behavioral milestones
-
-        -At age two, there is a universal increase in physically aggressive behavior, which can include biting and hitting peers, family members, and the primary caregiver.
-
-
-        -Temper tantrums are also normative during late toddlerhood.
-
-
-        -understanding the emotions of others occur during this period. In particular, more complex behavioral and linguistic expressions of emotion, including empathy and sympathy, develop during this time. 
-
-
-        -By age three or four, toddlers and preschoolers become more accurate in their appraisal of emotions and emotion-related behaviors in others, including peers
-
-
-        -emotional display rules, children become more aware of when to display certain emotions
-
-
-        -Children’s capacity to describe mental states and the characteristics of others also grows in accordance with increasing self-awareness and language skills
-
-
-        -During this period, children also come to recognize cultural and racial differences between groups
-
-
-        -become more aware of gender-stereotyped behavior by age five or six
-
-
-        -children become more competent at feeding themselves
-
-
-        -toileting oneself also typically emerges and becomes part of the child’s behavioral repertoire at this time
-
-
-        -toddlers and preschoolers’ continuing growth in self-awareness, they become more curious about, and begin to explore themselves sexually.
+	* At age two, there is a universal increase in physically aggressive behavior, which can include biting and hitting peers, family members, and the primary caregiver.
+	* Temper tantrums are also normative during late toddlerhood.
+	* understanding the emotions of others occur during this period. In particular, more complex behavioral and linguistic expressions of emotion, including empathy and sympathy, develop during this time. 
+	* By age three or four, toddlers and preschoolers become more accurate in their appraisal of emotions and emotion-related behaviors in others, including peers
+	* emotional display rules, children become more aware of when to display certain emotions
+	* Children’s capacity to describe mental states and the characteristics of others also grows in accordance with increasing self-awareness and language skills
+	* During this period, children also come to recognize cultural and racial differences between groups
+	* become more aware of gender-stereotyped behavior by age five or six
+	* children become more competent at feeding themselves
+	* toileting oneself also typically emerges and becomes part of the child’s behavioral repertoire at this time
+	* toddlers and preschoolers’ continuing growth in self-awareness, they become more curious about, and begin to explore themselves sexually.
 
 
 
 ## Normal development in childhood (6yrs -11 yrs.)
 
-
-
 * Cognitive milestones
-
-        -by age eight or nine most children can focus on their material, or are easily redirected.
-
-
-        -Children also become aware of various skills to improve or increase memory. Using cognitive rehearsal strategies - the creation of mental cues and categories, or the repeating of information to help themselves recall important tasks or processes.
-
-
-        -more orientation to time and spatial organization
-
-
-        -more sophistication in the seriation and categorization of objects according to specific characteristics such as shape, size, length, color
-
-
-        -increasing capacity for the processing of auditory and visual information
-
-
-        -Problem-solving and reasoning also improve during childhood as thinking becomes more organized, creative, and flexible, and the capacity for metacognition, or “thinking about thinking” develops.
-
-
-        -cognitive self-regulation or the process of monitoring one’s thoughts and actions in learning new skills also develops
+	* by age eight or nine most children can focus on their material, or are easily redirected.
+	* Children also become aware of various skills to improve or increase memory. Using cognitive rehearsal strategies - the creation of mental cues and categories, or the repeating of information to help themselves recall important tasks or processes.
+	* more orientation to time and spatial organization
+	* more sophistication in the seriation and categorization of objects according to specific characteristics such as shape, size, length, color
+	* increasing capacity for the processing of auditory and visual information
+	* Problem-solving and reasoning also improve during childhood as thinking becomes more organized, creative, and flexible, and the capacity for metacognition, or “thinking about thinking” develops.
+	* cognitive self-regulation or the process of monitoring one’s thoughts and actions in learning new skills also develops
 
 * Linguistic milestones
-
-        -vocabulary growth increases to an average of 10,000 words during this period.
-
-
-        -acquire shading skills, or communication skills related to gradually changing the topic of the conversation.
+	* vocabulary growth increases to an average of 10,000 words during this period.
+	* acquire shading skills, or communication skills related to gradually changing the topic of the conversation.
 
 * Social-emotional and behavioral milestones
-
-        -self-esteem, or beliefs about self-worth, begins to drop in comparison to its higher levels during the toddler and preschool years
-
-
-        -The need for self-control increases during this developmental stage as children engage in purposeful actions that are often in larger groups
-
-
-        -children tend to play with children of their own genders
-
-
-        -awareness of more complex emotions (pride, shame, guilt, embarrassment) becomes more sophisticated and children change their behavioral responses to such emotions as they develop in their maturity
-
-
-        -Problem-focused coping occurs. Here children when children identify if the issue, they are facing is changeable or not, think about possible solutions, and then carry out their chosen solution.
-
-
-        -Empathy is another complex emotional state that continues to develop during this period
-
-
-        -Children become more sophisticated in their ability to think about the thoughts or emotions of others, showing increased perspective taking that also informs their capacity to demonstrate empathy.
-
-
-        -Peer victimization or bullying also begins to occur more frequently
-
-
-        -Progress in moral development
+	* self-esteem, or beliefs about self-worth, begins to drop in comparison to its higher levels during the toddler and preschool years
+	* The need for self-control increases during this developmental stage as children engage in purposeful actions that are often in larger groups
+	* children tend to play with children of their own genders
+	* awareness of more complex emotions (pride, shame, guilt, embarrassment) becomes more sophisticated and children change their behavioral responses to such emotions as they develop in their maturity
+	* Problem-focused coping occurs. Here children when children identify if the issue, they are facing is changeable or not, think about possible solutions, and then carry out their chosen solution.
+	* Empathy is another complex emotional state that continues to develop during this period
+	* Children become more sophisticated in their ability to think about the thoughts or emotions of others, showing increased perspective taking that also informs their capacity to demonstrate empathy.
+	* Peer victimization or bullying also begins to occur more frequently
+	* Progress in moral development
 
 
 
@@ -283,49 +193,24 @@ Several recurring developmental principles or themes are important to keep in mi
 
 
 * Cognitive milestones
-
-        -growing self-consciousness and metacognition, or increased attention to and awareness of their own thought processes
-
-
-        -due to the hormonal despite their greater sophistication in complex reasoning, adolescents may also become more impulsive and less attentive at times, and may also struggle to effectively make decisions and plan for the consequences of their behavior
-
-
-        -Cognitive distortions about the self also appear with adolescents increased self-consciousness—called the imaginary audience and defined as a belief that they are the main focus of other people’s attention
-
-
-        -The personal fable (Belief that one’s experiences and feelings are unique from others) may also give rise to a sense of invulnerability and singularity, creating a propensity for behavioral risk-taking
-
-
-        -more advanced in their performance of mental operations and their information-processing skills and cognitive self-regulation improve overall. 
-
-
-        -Greater planning and problem-solving abilities, abstract thinking and reasoning, and the capacity to understand, compare, or integrate advanced theoretical perspectives
+	* growing self-consciousness and metacognition, or increased attention to and awareness of their own thought processes
+	* due to the hormonal despite their greater sophistication in complex reasoning, adolescents may also become more impulsive and less attentive at times, and may also struggle to effectively make decisions and plan for the consequences of their behavior
+	* Cognitive distortions about the self also appear with adolescents increased self-consciousness—called the imaginary audience and defined as a belief that they are the main focus of other people’s attention
+	* The personal fable (Belief that one’s experiences and feelings are unique from others) may also give rise to a sense of invulnerability and singularity, creating a propensity for behavioral risk-taking
+	* more advanced in their performance of mental operations and their information-processing skills and cognitive self-regulation improve overall. 
+	* Greater planning and problem-solving abilities, abstract thinking and reasoning, and the capacity to understand, compare, or integrate advanced theoretical perspectives
 
 * Linguistic milestones
-
-        -vocabulary can grow to over 40,000 words by age 18
-
-
-        -vocabulary will likely include a number of abstract terms, with adolescents mastering the syllable stress and intonation of these more difficult words
-
-
-        -By age 14, adolescents will use and understand conversational nuances, such as sarcasm or irony
-
-
-        -By age 18, their communication patterns are increasingly patterned according to specific contextual cues or societal expectations across a variety of environmental situations
+	* vocabulary can grow to over 40,000 words by age 18
+	* vocabulary will likely include a number of abstract terms, with adolescents mastering the syllable stress and intonation of these more difficult words
+	* By age 14, adolescents will use and understand conversational nuances, such as sarcasm or irony
+	* By age 18, their communication patterns are increasingly patterned according to specific contextual cues or societal expectations across a variety of environmental situations
 
 * Social-emotional and behavioral milestones
-
-        -Adolescents are more self-aware and self-conscious than younger children and may engage in more frequent risk-taking or experimentation, particularly when encouraged to do so by peers.
-
-
-        -Mild to moderate variations in mood and behavior
-
-
-        -Importance of peer group conformity
-
-
-        -Peer victimization becomes more social or relationally focused in content
+	* Adolescents are more self-aware and self-conscious than younger children and may engage in more frequent risk-taking or experimentation, particularly when encouraged to do so by peers.
+	* Mild to moderate variations in mood and behavior
+	* Importance of peer group conformity
+	* Peer victimization becomes more social or relationally focused in content
 
 
 
