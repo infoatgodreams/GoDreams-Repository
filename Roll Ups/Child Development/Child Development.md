@@ -16,6 +16,11 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 - Orphanages usually do not meet the conditions of the average expectable environment, a prerequisite for children’s normal development, encompassing protective, stable caregiving and open opportunities for exploration and mastery of the world. 
 - In this respect, institutional care implies structural neglect. Numerous studies have shown that children growing up in orphanages are at risk in various domains of functioning, including their physical, socio-emotional and cognitive development
 
+## Impact of Parent-Child Separation
+- According to a paper on the developmental effects of parent-child separation[^3], we learn that 
+	- Experiencing persecution, conflict, war, or disaster in childhood has well-documented negative impacts on children’s health, learning, well-being, and educational progress.
+	- Separation of children and parents in these contexts both removes this important source of mitigating adversity and compounds the stress and trauma that a child experiences, amounting to a potentially devastating developmental and psychological impact.
+
 ## Physical Development Delays
 
 ### Height & Weight
@@ -31,11 +36,17 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 	- Children living in orphanages are often markedly delayed, to the point of apparent mental retardation that disappears with improving environments. 
 	- The absolute difference in IQ between institutionalized and family-reared children of 20 IQ points. 
 
-## Occipital frontal circumference (OFC):
+## Occipital frontal circumference (OFC)
 - According to a paper on caregiving disruptions and their effect on development, we see that[^2]
   - Despite placement in a more stable, nurturing, and stimulating environment, head circumference, a surrogate for brain size, did not significantly improve in foster care group between baseline and 12 years.
 
 ## Pubertal Development 
+
+- According to a paper on caregiving disruptions and their effect on development, we see that[^2]
+	- Institutionalized group boys showed lower Tanner scores compared with foster care group and family care group. *The Tanner scale (also known as the Tanner stages or Sexual Maturity Rating (SMR)) is a scale of physical development in children, adolescents and adults. The scale defines physical measurements of development based on external primary and secondary sex characteristics, such as the size of the breasts, genitals, testicular volume and development of pubic hair.* 
+	- A previous survey of pubertal development in children experiencing severe deprivation within Romanian orphanages revealed that the onset of puberty was delayed by approximately 2.5 years in girls and 1.5 years in boys.
+	- Despite expectations of altered pubertal tempo, the only difference noted was that Tanner scores at age 12 years in institutionalized group boys were lower compared with both foster care group and family care group boys. Tanner development and age of menarche were comparable among girls in institutionalized group, foster care group, and family care group.
+
 
 
 # Interventions to improve cognitive development
@@ -71,10 +82,11 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 
 ## Stability in Caregiving
 - According to a paper that studies disruptions in caregiving and their effect on development in children[^2],  Aside from group differences in growth, the compromised height and weight growth patterns linked to individual differences in caregiver disruptions in foster care group underscore the importance of a consistent caregiving environment for child well-being.
-- 
+- Thus, although we did not observe major changes in pubertal development among groups, caregiving disruptions deserve further investigation as a factor that could moderate changes in pubertal tempo in girls and boys.
 
 
 # References
 
 [^1]: [[A Meta Analysis of 70 Years of Intervention improving Cognitive Development in Institutionalized Children]]
 [^2]: [[Caregiving Disruptions Affect Growth and Pubertal Development in Institutionalised Childre in Romania, an RCT]]
+[^3]: [[Developmental Effects of Parent Child Separation]]
