@@ -115,28 +115,19 @@ Studies of children who have experienced early institutionalization represent fo
 ## Moderators of the Effects of Early Institutionalization on Children’s Development
 
 Moderating factors may explain differences in results across studies of PI children in the wider literature. PI children’s outcomes were found to vary based on:
-
-
-                ■  age at adoption
-
-                ■ severity of deprivation
-
-
-                ■ age at assessment
-
-
-                ■ gender
+- age at adoption
+- severity of deprivation
+- age at assessment
+- gender
 
 
 ## Focus of the intervention:
 
 
-          The intervention focused on the improvement of the institutional environment by increasing the quality of caregiver–child interactions—without changes in nutrition, medical care, sanitation, and safety. Leading to substantial increases in the physical, cognitive, and social-emotional development of resident children with and without disabilities. 
+The intervention focused on the improvement of the institutional environment by increasing the quality of caregiver–child interactions—without changes in nutrition, medical care, sanitation, and safety. Leading to substantial increases in the physical, cognitive, and social-emotional development of resident children with and without disabilities. 
 
 
 ## Research Team Intervention:
-
-
 
 * Each institution was assigned to a different condition: Training plus Structural Changes** (T+SC), **training but no structural changes or Training Only **(TO), **no Intervention or care-as-usual** (NoI). **
 
