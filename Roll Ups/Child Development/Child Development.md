@@ -301,7 +301,6 @@ A paper on the impact of institutionalisation on IQ covers this important study 
 	- Findings suggest that cognitive development, as measured by the standardized BSID-II, is related to play behaviours. 
 
 ## Using Physical Exercise to improve Cognition
-
 - According to a paper designed to understand if dance activities can improve cognitive performance, we find out that, 
 	- Recent systematic reviews and meta-analyses have shown that the evidence for the long-term effects of structured exercise programs on children’s cognitive performance is inconclusive; some studies report positive effects, while others report no effects (see for reviews
 	- Nevertheless, it can be concluded that increasing the time spent on exercise in school at the cost of academic lessons does not negatively impact children’s cognitive performance
@@ -354,7 +353,7 @@ A paper on the impact of institutionalisation on IQ covers this important study 
 
 
 
-# Factors that affect developmental outcomes
+# Other factors that affect developmental outcomes
 ## Time & Timing
 *Generally, the earlier and younger that children leave institutional care for stable foster care or adoption, the better it is for their outcomes and trajectory.*
 
@@ -382,13 +381,19 @@ A paper on the impact of institutionalisation on IQ covers this important study 
 	- Thus, although the physical resources were adequate in these institutions, children had few warm, sensitive, and responsive interactions with a few consistent caregivers
 - According to a paper that studied the impact of institutionalisation on child development,  In addition to the length of time in an institution, the availability of toys and having been a favorite in the institution were associated with fewer delays and higher scores on the Gesell scales, whereas being described as dirty when first met by parents was associated with more delays and lower Gesell scores
 
-## Other factors
+## Miscellaneous factors
+*Didnt come across these factors in more detail in these readings. Might have been covered in other roll-ups*
+
 - According to the St Petersburg USA Orphanage Intervention Research Project[^5], other moderating factors include
 	- Severity of deprivation
 	- Age at assessment 
 	- Gender
 		- However, according to a paper on the IQ of children growing up in CCIs[^6], Gender did not appear to be a significant moderator; whether the studies included only males or only females did not yield different effect sizes 
-
+	- Nutritional status
+	- Home environment
+	- Physical Health
+	- Disease burden
+	
 
 # Typical Developmental Milestones
 - According to the Institute for Human Services and the Ohio Child Welfare Training Program[^4], these charts can be used to assess child's milestone achievement and delays. 

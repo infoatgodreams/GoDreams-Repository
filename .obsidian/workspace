@@ -42,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fairstart",
+                "query": "phys",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,6 +92,7 @@
   "active": "276ab37f5f446807",
   "lastOpenFiles": [
     "Roll Ups/Child Development/Child Development.md",
+    "Volume 1/Daily Log/📕Navneeth's Log.md",
     "Roll Ups/Caregiving/Caregiving.md",
     "Roll Ups/Alternative Care/Restoration.md",
     "Volume 3/Current Reality/International CCIs/3 Year Change in Wellbeing of children in institutional and family based care settings in 5 low to middle income countries.md",
@@ -99,7 +100,6 @@
     "Roll Ups/Mental Health/Mental Health.md",
     "Volume 2/Current Reality/International CCIs/Function, quality and outcomes of residential care.md",
     "Volume 3/Current Reality/International CCIs/A Meta Analysis of 70 Years of Intervention improving Cognitive Development in Institutionalized Children.md",
-    "Volume 3/Current Reality/International CCIs/Institutionalisation and deinstitutionalisation of children, a systematic and integrative review of evidence regarding effects on development.md",
-    "Volume 1/Care Standards/International - Services for CNCP/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md"
+    "Volume 3/Current Reality/International CCIs/Institutionalisation and deinstitutionalisation of children, a systematic and integrative review of evidence regarding effects on development.md"
   ]
 }
