@@ -5,10 +5,6 @@ tags:
 - Rollups
 ---
 
-Typical developmental profile
-Typical developmental delays in institutional care 
-Caregiving interventions to improve development indicators
-
 
 # Principles of development
 According to a paper on development[^8], Several recurring developmental principles or themes are important to keep in mind when defining normal development and identifying growth processes and milestones
@@ -54,7 +50,7 @@ According to this framework published by the Young Adult Success Project at UChi
 
 ## Settings that favour development
 - physical and psychological safety
--  appropriate structure
+- appropriate structure
 - supportive relationships
 - opportunities to belong
 - positive social norms
@@ -78,17 +74,22 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 
 ## Effect of Trauma on Development
 
+From a review on the impact of trauma on child development, we now know that
 - #### General cognitive and language delay
 	- On the whole, children exposed to neglect may be more vulnerable to general delays in cognitive and language development.  Neglected children and those raised in poverty may be more at risk of general cognitive delay than those exposed to abuse 
 	- Among abused children, increasing severity of abuse is associated with lowered IQ relative to matched controls 
 	- The presence of PTSD appears to affect cognitive functioning. Studies show that children with PTSD subsequent to abuse have lower verbal IQ on assessment, suggesting that the presence of PTSD rather than abuse _per se_ may be more relevant
 	- The IQ scores of those children exposed to domestic violence was found to be eight points lower than children who were not exposed to violence; after controlling for the effects of genetics and other forms of maltreatment
+
 - #### Problems with memory: 
 	- There is reasonable evidence that memory is affected by trauma and adversity. Brain structures that are associated with memory consolidation have been found to differ in adults (but not children) who report a history of abuse.
+
 - #### Bias in the processing of social/emotional information
 	- There is some evidence that social and emotional information is processed differently among children that have experienced abuse. The amygdala, an area of the brain associated with the automatic (pre-conscious) processing of emotional information, has been shown to be over-responsive to emotional stimuli (e.g., angry faces) in studies of abused children
+
 - ##### Metacognitive skills
 	- Neuropsychological research suggests that children who have experienced neglect and physical abuse can experience problems in auditory attention and cognitive flexibility (problem-solving and planning)
+
 - ##### Behavioural regulation
 	- Compared to non-neglected peers, emotionally neglected children may have less efficient brain activity during tasks that require inhibitory control, suggesting that neglect is associated with poor ability to self-regulate and inhibit responses
 
@@ -96,14 +97,13 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 ## Physical Development Delays
 
 ### Height & Weight
-
 - According to a meta analysis on interventions to improve development outcomes in children[^1], 
 	- With regard to physical development, institutional care has shown dramatic negative effects on growth, with a major affect, reflecting the association between height and duration of stay in the orphanage
 	- Often it is not (only) deficiencies in nutrition or medical care that cause growth retardation, but that these growth delays are also the result of socio-emotional neglect.
 - According to a paper on caregiving disruptions and their effect on development, we see that[^2]
 	- Increasing disruptions in the caregiving environment were related to decreasing rates of growth in height in foster care group and weight in institutionalized group and foster care group, but not BMI.
 
-## Occipital frontal circumference (OFC)
+### Occipital frontal circumference (OFC)
 - According to a paper on caregiving disruptions and their effect on development, we see that[^2]
   - Despite placement in a more stable, nurturing, and stimulating environment, head circumference, a surrogate for brain size, did not significantly improve in foster care group between baseline and 12 years.
 
@@ -120,7 +120,6 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 	-  Morison et al. (1995) found that 78%  of orphanage children were **delayed in all four  areas of development (personal–social, gross  motor, fine motor–adaptive, and language development)** 
 	
 ## Pubertal Development 
-
 - According to a paper on caregiving disruptions and their effect on development, we see that[^2]
 	- Institutionalized group boys showed lower Tanner scores compared with foster care group and family care group. *The Tanner scale (also known as the Tanner stages or Sexual Maturity Rating (SMR)) is a scale of physical development in children, adolescents and adults. The scale defines physical measurements of development based on external primary and secondary sex characteristics, such as the size of the breasts, genitals, testicular volume and development of pubic hair.* 
 	- A previous survey of pubertal development in children experiencing severe deprivation within Romanian orphanages revealed that the onset of puberty was delayed by approximately 2.5 years in girls and 1.5 years in boys.
@@ -156,10 +155,8 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 
 
 
-
-
-
 # Reasons for delayed cognitive development in institutions
+
 ## Care in large groups:
 - In a groundbreaking intervention study, Groark, Muhamedrahimov, Palmov, Nikiforova, and McCall (2005) demonstrated that promoting caregiver sensitivity leads to better socioemotional and cognitive development of the children involved and a better atmosphere in the groups consisting of children of differing ages. 
 - Caregiver-child ratio might also be important. Groark and colleagues (2005) managed to decrease the number of children per caregiver, which promoted children’s development significantly.
@@ -191,7 +188,6 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 # Interventions to improve cognitive development
 
 ## Six principles for supporting children in care who have been traumatised
-
 - Provide safe environments and rich experiences that stimulate and enrich brain growth.
 - Support children and caregivers to understand the link between traumatic events and cognitive difficulties.
 - Develop and support positive relationships and connections in children's lives.
@@ -200,7 +196,6 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 - Ensure that specific cognitive difficulties are addressed directly.
 
 ## Foster Care & Adoption
-
 - [^1]In a randomized control trial the Bucharest Early Intervention Project showed that foster care as an intervention improved the cognitive outcome of children substantially (Nelson et al., 2007).
 - The remarkable catch-up shown by adopted children in comparison with their peers who remain behind in institutional care (e.g., Rutter et al., 1998; Van IJzendoorn & Juffer, 2006) cannot for the greater part be ascribed to selection bias
 - According to a paper that studied the effects of parental separation[^3], 
@@ -210,7 +205,6 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 	* Placement in foster care also improves electroencephalogram measures of brain activity, relative to those who remained in institutional care.
 
 ## School-Based Interventions:
-
 According to a paper on developmental consequences of parent-child separation[^3], 
 **Classroom-based interventions can be feasibly implemented by nonspecialized, trained personnel.** 
 - In a sample of left-behind adolescents, a teacher-student relationship positively predicted self-esteem and negatively predicted depression and problem behaviours.
@@ -219,7 +213,6 @@ According to a paper on developmental consequences of parent-child separation[^3
 * School-based cognitive behavioural therapy (CBT) group intervention in two schools in London for traumatized refugee or asylum-seeking children from countries affected by war. Teachers identified participants based on students’ classroom behaviour and their disclosure of traumatic events. The intervention reduced overall and intrusive PTSD symptoms and increased improvements in behaviour, as indicated by a teacher measure.
 
 ## Community-Based Interventions
-
 According to a paper on developmental consequences of parent-child separation[^3], 
 **Group interventions may be an effective way to target multiple youths who have experienced loss and separation in a single setting while facilitating social interaction with others facing a similar experience.**
 - Utilizing preexisting community and social services and programming might be an effective way to leverage systems that are already in place to reach those separated from a caregiver.
@@ -237,7 +230,6 @@ According to a paper on developmental consequences of parent-child separation[^3
 
 
 ## St Petersburg USA Orphanage Intervention Research [^5]
-
 ### Research structure 
 * Each institution was assigned to a different condition: Training plus Structural Changes** (T+SC), **training but no structural changes or Training Only **(TO), **no Intervention or care-as-usual** (NoI). 
 * Training: Training consisted of 12–14 sessions (approximately 60 h total) teaching caregivers to interact with children in a more “parent-like” manner by providing more warm, sensitive, and contingently responsive care to children.
@@ -251,20 +243,18 @@ According to a paper on developmental consequences of parent-child separation[^3
 - In caregiver-child free play sessions, typically developing T +SC and TO children displayed a higher quality of play, alertness, and self-regulation than NoI, and T +SC children showed more positive affect, social initiative, and communication than TO and NoI children – again more the longer they were in the intervention
 
 ### Sustaining the success of this intervention
-
 - According to a paper[^7] on the benefits of maintaining a socioemotional intervention in institutional settings, we learn about the different maintenance activities used to continue the initial success of the intervention:
-	- Attempts to maintain the intervention were of two types—creating an intervention that had features that would promote maintenance after the original demonstration project ended and procedures implemented during the intervention and the time following the intervention that might contribute to program maintenance
 	- The original intervention involved several components thought to promote maintenance. First, the double intervention was implemented in a BH in which the director was thoroughly committed to implementing and maintaining the intervention and insisted that her staff do so.
 	- Second, although the intervention project provided substantial resources to this BH including some funds to hire additional caregivers, the intervention was designed to reduce the number of different caregivers in children’s lives but not to increase the number of caregiver hours available to children.
 	- Third, a train-the-trainer strategy was adopted so that training personnel were continually available to prepare new caregivers who replaced those who left during and after the intervention
 	- Fourth, an in-house monitoring and supervision system was established in which specialists (e.g., staff professionals in children with disabilities, early education) were responsible for monitoring the caregivers and encouraging them to implement the training on the wards on a continuing basis.
 	- Furthermore, following the end of the intervention project, additional coaching and technical assistance were provided by author Palmov and two other professionals to both Training + Structural Changes and TO, which consisted of weekly or bimonthly visitations, supervision, and periodic refresher training.
 
-### Recommendations from this intervention
+### Larger recommendations from this intervention
 * The St. Petersburg intervention demonstrates that institutions do not need to operate in the way most do and that encouraging caregivers to interact more appropriately with children in an environment that is made more family-like can produce very substantial improvements in the development of resident infants and toddlers
-* A recent study (McCall et al., in press) indicates that the T SC institution has maintained for at least six years the same quality of care as reflected on the HOME as it had during the intervention 
 *  Interestingly, the DQs of children in all three institutions improved over the six-year period, perhaps because fewer children were sent to institutions but staff levels remained the same producing smaller groups and fewer children per caregiver in all three of the institutions (McCall et al., in press).
 * These results and those of similar interventions indicate that institutions can be improved; the improvements can produce substantial increases in physical, mental, social, and behavioral development in both typically developing children and those with disabilities; and such benefits can be maintained for at least six years with no additional funds
+
 
 ### The Bucharest Early Intervention Project (BEIP)
 - [^15][[The Bucharest Early Intervention Project]] ( has begun providing a foster care inter-  vention in Bucharest, Romania, in which they  are following the development of children removed from orphanage to foster care and comparing their developmental progress to both children who remain in orphanage and a community comparison group. 
@@ -273,12 +263,11 @@ According to a paper on developmental consequences of parent-child separation[^3
 ### Study Design
 - Children in the BEIP were randomized into either the ‘Care As Usual Group’ (CAUG) (the group who remained in institutional care), or ‘High Quality Foster Care Group’(FCG), and a comparison group of non-institutionally raised children were matched by age and gender
 
-
 ### Study findings
 - No biological differences between children who were raised in institutional environments and those in the comparison group who had never been cared for in an institutional environment ,nor with those who had been randomised to high quality foster care.
 - Lower IQ scores for both FCG and CAUG as compared to the comparison group.
 - Higher levels of callous-unemotional traits among children who experienced any institutional care as opposed to the comparison group. *(Callous-unemotional (CU) traits comprise a temperament dimension characterized by low empathy, interpersonal callousness, restricted affect and a lack of concern for performance.)*
-- Children in the FCG were more likely to display adaptive functioning than those in the CAUG (*Adaptive functioning means **how well a person handles common demands in life and how independent they are compared to others of a similar age and background***.)
+- Children in the FCG were more likely to display adaptive functioning than those in the CAUG (*Adaptive functioning means how well a person handles common demands in life and how independent they are compared to others of a similar age and background)
 - Higher psychopathology among those in CAUG and the FCG compared to the comparison group at ages 8, 12, and 16. The FCG had significantly lower psychopathology than the CAUG at age 16. 
 - Particularly high rates of attention problems, poor self-regulation, attachment disorders and anxiety are noted among those who experienced institutional care.
 - Children who experienced institutional care had reduced cognitive processing speed compared to the comparison group.
@@ -286,7 +275,7 @@ According to a paper on developmental consequences of parent-child separation[^3
 
 
 ## Hodges and Tizard Study
-A paper on the impact of institutionalisation on IQ, covers this important study that shows that  institutionalized children were not destined for developmental compromise. They studied children who had spent the first 2 years of their lives in high-quality institutions in the United Kingdom (Tizard, 1977).
+A paper on the impact of institutionalisation on IQ covers this important study that shows that  institutionalized children were not destined for developmental compromise. They studied children who had spent the first 2 years of their lives in high-quality institutions in the United Kingdom (Tizard, 1977).
 - In these institutions the child to caregiver ratios were 3:1 and the were taken on outings, and were fed well.
 - The major way in which orphanage children’s lives differed from the lives of home-reared children was that caregivers were discouraged from forming intimate relationships with them (Tizard & Tizard, 1971). 
 - Tizard and Joseph (1970) first assessed children in the institution when they were 2 years old and compared them to a sample of home-reared children from a working class background. 
@@ -304,11 +293,11 @@ A paper on the impact of institutionalisation on IQ, covers this important study
 
 ## Using Physical Exercise to improve Cognition
 
-According to a paper designed to understand if dance activities can improve cognitive performance, we find out that, 
-- Recent systematic reviews and meta-analyses have shown that the evidence for the long-term effects of structured exercise programs on children’s cognitive performance is inconclusive; some studies report positive effects, while others report no effects (see for reviews
-- Nevertheless, it can be concluded that increasing the time spent on exercise in school at the cost of academic lessons does not negatively impact children’s cognitive performance
-- The vast majority of studies that examined the long-term effects of exercise on cognitive performance of children have implemented extensive exercise interventions with durations of 30–60 min per session, mostly delivered three to five times a week. These studies are simply impractical in the context of institutions
--  A study examined high intensity aerobic exercises or (2) high intensity combined aerobic and strength exercises were implemented three times per week in 14–16 years old adolescents. The exercise bouts were implemented once a week during recess and twice a week as part of the regular physical education (PE) classes. The authors found no significant differences in executive functioning between the intervention groups and the control group that followed the regular PE classes
+- According to a paper designed to understand if dance activities can improve cognitive performance, we find out that, 
+	- Recent systematic reviews and meta-analyses have shown that the evidence for the long-term effects of structured exercise programs on children’s cognitive performance is inconclusive; some studies report positive effects, while others report no effects (see for reviews
+	- Nevertheless, it can be concluded that increasing the time spent on exercise in school at the cost of academic lessons does not negatively impact children’s cognitive performance
+	- The vast majority of studies that examined the long-term effects of exercise on cognitive performance of children have implemented extensive exercise interventions with durations of 30–60 min per session, mostly delivered three to five times a week. These studies are simply impractical in the context of institutions
+	-  A study examined high intensity aerobic exercises or (2) high intensity combined aerobic and strength exercises were implemented three times per week in 14–16 years old adolescents. The exercise bouts were implemented once a week during recess and twice a week as part of the regular physical education (PE) classes. The authors found no significant differences in executive functioning between the intervention groups and the control group that followed the regular PE classes
 
 ## Trauma-based interventions
 - Children in care are likely to have experienced a complex mix of neglect, trauma and adversity. There is an urgent need to develop tailored interventions for the difficulties faced by these children.
@@ -397,35 +386,35 @@ According to a paper designed to understand if dance activities can improve cogn
 - According to the Institute for Human Services and the Ohio Child Welfare Training Program[^4], these charts can be used to assess child's milestone achievement and delays. 
 
 ## School-aged children
-### How active should my 6- to 12-year-old be?
 
+![[School Aged (Physical, Cognitive, Social).png]]
+
+
+### Warning Signs 
+According to Hope Worldwide[^14], here are a few concerns of not meeting these needs at this age
+- Where the child does not accomplish the tasks, he may give up hope for the future
+- The child might feel inferior (less than his/her peers)
+- The child may feel inadequate (not knowing, not being able)
+
+### How active should a 6- to 12-year-old be?
 Physical activity guidelines for school-age kids recommend that they get **at least 1 hour** of moderate to strong physical activity daily. In addition:
 - Most of the physical activity should be aerobic, where kids use large muscles and continue for a period of time.
 - Examples of aerobic activity are running, swimming, and dancing.
 - School-age kids usually have brief bouts of moderate to strong physical activity alternating with light activity or rest throughout the day. Any moderate to strong activity counts toward the 60-minute goal.
 - Muscle-strengthening and bone-strengthening physical activity should be included at least 3 days a week.
 - Children naturally build strong muscles and bones when they run, jump and play. Formal weight programs aren’t needed. However, they are safe when properly designed and supervised.
-![[School Aged (Physical, Cognitive, Social).png]]
 
-
-## Warning Signs 
-According to Hope Worldwide[^14], here are a few concerns of not meeting these needs at this age
-- Where the child does not accomplish the tasks, he may give up hope for the future
-- The child might feel inferior (less than his/her peers)
-- The child may feel inadequate (not knowing, not being able)
-
-## Role of caregiver
-According to Hope Worldwide[^14], here are a few practices to support children at this age, 
-- Praise the child’s efforts
-- Encourage the child to see himself/herself as equal to the peers
-- Encourage a sense of being able to achieve even against all problems
-- Teach them how to handle failure and solve problems
-- Caregiver must give appropriate support
-
+### Role of caregiver
+- According to Hope Worldwide[^14], here are a few practices to support children at this age, 
+	- Praise the child’s efforts
+	- Encourage the child to see himself/herself as equal to the peers
+	- Encourage a sense of being able to achieve even against all problems
+	- Teach them how to handle failure and solve problems
+	- Caregiver must give appropriate support
 - According to the American Psychological Association, these are the tips for caregivers
 	- Help your children to develop a sense of competence: give them opportunities to master some skills like cooking, building models, making crafts, playing an instrument.
 	- Reinforce the understanding of right and wrong and consequences.
-	- Teach problem solving to your child. Use the IDEAL model to:
+	- Teach problem solving to your child. **Use the IDEAL model** to:
 		- Identify the problem and the feelings involved (Your child is being bullied and is afraid of going to school)
 		- Determine with the child possible solutions without use of violence.
 		- Evaluate with the child the merits of each possible solution.
@@ -438,27 +427,30 @@ According to Hope Worldwide[^14], here are a few practices to support children a
 	- Demonstrate that behaviors and actions have consequences for everybody involved in a situation: If you do that, this will happen or when you do this, then you will get this
 
 ## Adolescents
+
 ![[Adoloscents (Physical, Cognitive, Social).png]]
 
 ![[Adolescents (Emotional).png]]
 
 
 
-## Factors associated with resilience and positive outcomes in adolescents
+### Factors associated with resilience and positive outcomes in adolescents
 
-### Stable, positive relationship with at least one caring adult
+According to child-parenting guidelines in the US, these are the factors that influence outcomes for young adults
+
+#### Stable, positive relationship with at least one caring adult
  Numerous studies have found that the presence of an adult—a parent or someone other than a parent—with a strong positive, emotional attachment to the child is associated with resilience (Garbarino, 1999). This might be a teacher or coach, an extended family member, or a mentor, such as those found in the Big Brothers/Big Sisters Program (Roth & Brooks-Gunn, 2000).
 
-### Religious and spiritual anchors
+#### Religious and spiritual anchors
 A sense of meaning is one of the major pathways through which violent youth find their way to a constructive future, with religious and spiritual institutions and practices being important vehicles for developing a sense of meaning for these youth (Garbarino, 1999).
 
-### High, realistic academic expectations and adequate support  
+#### High, realistic academic expectations and adequate support  
 Schools that provide students with a sense of shared cooperative responsibility and belonging, convey high expectations for participation, and provide high levels of individual support for students tend to enhance resilience (Siedman et al., in press).
 
-### Positive home environment
-A warm, nurturing parenting style, with both clear limit setting and respect for the growing autonomy of adolescents, appears to be associated with resilience in adolescents (Jessor, 1991; Lerner & Galambos, 1998). 
+#### Positive home environment
+A warm, nurturing parenting style, with both clear limit setting and respect for the growing autonomy of adolescents, appears to be associated with resilience in adolescents 
 
-### Emotional intelligence and ability to cope with stress  
+#### Emotional intelligence and ability to cope with stress  
 Although intelligence per se has been reported to be associated with resilience (Fergusson & Lynskey, 1996), the factors that may be more important, because they are more amenable to change and are also involved in resilience, are emotional intelligence and the ability to cope with stress (Garbarino, 1999).
 
 
