@@ -199,6 +199,7 @@ According to a paper on developmental consequences of parent-child separation[^3
 	- Severity of deprivation
 	- Age at assessment 
 	- Gender
+		- However, according to a paper on the IQ of children growing up in CCIs[^6], Gender did not appear to be a significant moderator; whether the studies included only males or only females did not yield different effect sizes 
 
 
 # Typical Developmental Milestones
@@ -215,6 +216,24 @@ According to a paper on developmental consequences of parent-child separation[^3
 
 
 
+# Assessment tools [[Assessment Tools]]
+- According to a paper that looked at IQ of children growing up in CCIs, 
+	- A list of such tests of IQ measurements are:
+        * Raven's Matrices
+        * WISC
+        * Hetzer-Bühler
+        * Griffiths
+        * Gesell Schedules
+        * Bayley Scales
+        * Cattell test
+        * SON
+        * Stanford-Binet
+        * Uzgiris-Hunt
+        * Gesell/Kuhlmann Merrill-Palmer
+        * Denver II test
+        * Battelle
+        * Minnesota
+
 
 # References
 
@@ -223,3 +242,4 @@ According to a paper on developmental consequences of parent-child separation[^3
 [^3]: [[Developmental Effects of Parent Child Separation]]
 [^4]: [[Developmental Milestones Chart]]
 [^5]: [[Early Caregiver Child Interaction and Children Development, Lessons from the St. Petersburg USA Orphanage Intervention Research Project]]
+[^6]: [[IQ of Children Growing up in CCI]]
