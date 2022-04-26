@@ -34,18 +34,19 @@ tags:
 - In some countries adoption and foster care are culturally unacceptable or economically impossible (Wolff & Fesseha, 1998); moreover, some children are shunned by potential adoptive or foster parents due to their special needs or clinical condition and are therefore likely to remain in institutional care. 
 - In this commentary we present a narrative review and a meta-analysis of intervention studies in orphanages and children’s homes with reported outcomes on child cognitive development.We estimate the combined effect size of the interventions and test which study characteristics are significant moderators of effectiveness.
 
- ## Interventions improving Cognitive Development in Institutionalized Children
+## Interventions improving Cognitive Development in Institutionalized Children
 - Intervention efforts aimed at ameliorating the negative effects of institutionalization on children’s cognitive development date back to the 1930s, spanning a period of70 years of interventions in orphanages.
 - Selection criteria for inclusion were that the intervention took place in the institution (excluding Skeels & Dye, 1939, who moved intervention infants from an orphanage to an institution for mentally retarded females who spent time with the children and formed special relationships with them; thereupon they were adopted and did not return to the orphanage), and that cognitive development as the outcome measure was assessed through observation (excluding Smyke, Dumitrescu, & Zeanah, 2002, where caregivers were interviewed on children’s language development.
 - Typically developing children and children with disabilities were included in the meta-analysis as two separate studies. Typically developing intervention children outperformed control children with a difference of more than one standard deviation on the Battelle developmental scales 
 - Children with disabilities gained about half as much from the intervention compared to typically developing children (see Table 29), presumably because children with specific disabilities were more limited in their ability to improve developmentally
-* Meta Analysis of all studies
-    * The Meta-analysis of the studies reviewed above was performed using the Comprehensive Meta-Analysis program (CMA, Borenstein, Rothstein, & Cohen, 2005, Version 2).
-    * Interventions in orphanages have been quite successful in enhancing children’s cognitive development
-    * Several moderators were tested to explore differences between effect sizes. Focus and duration of the intervention did not make a difference for the effectiveness of the intervention. No significant difference in effect size was found between randomized control trials and studies with other designs.
-    * The timing of the intervention however made a significant difference. Interventions starting before the first birthday of the child were significantly more effective (d51.03, k58, N5468) than interventions starting at a later age. 
-    * Effect sizes decreased with increasing age of the children at the start of the intervention. 
-    * More recent studies reported more effective interventions (d50.98, k57, N5578) than earlier studies (d50.55, k57, N5248), and interventions in North America (Canada and United States) were less effective (d50.55, k56, N5235) than interventions implemented in other parts of the world. 
+
+## Meta Analysis of all studies
+- The Meta-analysis of the studies reviewed above was performed using the Comprehensive Meta-Analysis program (CMA, Borenstein, Rothstein, & Cohen, 2005, Version 2)
+- Interventions in orphanages have been quite successful in enhancing children’s cognitive development
+- Several moderators were tested to explore differences between effect sizes. Focus and duration of the intervention did not make a difference for the effectiveness of the intervention. No significant difference in effect size was found between randomized control trials and studies with other designs.
+- The timing of the intervention however made a significant difference. Interventions starting before the first birthday of the child were significantly more effective (d51.03, k58, N5468) than interventions starting at a later age. 
+- Effect sizes decreased with increasing age of the children at the start of the intervention. 
+- More recent studies reported more effective interventions (d50.98, k57, N5578) than earlier studies (d50.55, k57, N5248), and interventions in North America (Canada and United States) were less effective (d50.55, k56, N5235) than interventions implemented in other parts of the world. 
 * Conclusion
     * Interventions in orphanages have been successful in enhancing children’s cognitive development. The combined effect size in the current meta-analysis of orphanage-based interventions (d50.84) is much larger than the effect ofearly educational programs to stimulate socio-economically disadvantaged family-reared children’s cognitive development.
     * This may point to the extremely disadvantageous rearing environment of institutional settings when care as usual is provided, to children’s plasticity to overcome their delays resulting from institutions’ standard care, and to the variety of means that can be used to achieve the aim of stimulating cognitive development in institutionalized children.
