@@ -278,6 +278,12 @@ According to a paper on developmental consequences of parent-child separation[^3
         * Denver II test
         * Battelle
         * Minnesota
+    * According to a paper on assessing quality of care homes[^9], we learn about the 
+	    * Family Day Care Rating Scale (FDCRS) and Infant/Toddler Environment Rating Scale (ITERS) by Harms and Clifford (1984), 
+	    * the PROFILE by Abbott-Shim and Sibley (1993), the Caregiver Interaction Scale by Arnett (1989), 
+	    * the Adult Involvement Scale (AIS) by Howes and Stewart (1987), and the
+	    * Observational Record of the Caregiving Environment (ORCE) developed by the NICHD Early Child Care Research Network (1996) are some of the tools in use.
+	    * All these tools follow a top-down approach and have a pre-defined rubric that allows to score the child care homes.
 
 
 # References
@@ -290,4 +296,5 @@ According to a paper on developmental consequences of parent-child separation[^3
 [^6]: [[IQ of Children Growing up in CCI]]
 [^7]: [[Maintaining a Social-Emotional Intervention and Its Benefits for Institutionalized Children]]
 [^8]: [[Normal Development Infancy, childhood, and adolescence]]
-[^9]: 
+[^9]: [[The Child Care HOME Inventories, assessing the quality of family child care homes]]
+[^10]: 
