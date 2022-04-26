@@ -96,6 +96,7 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 - According to a meta analysis on interventions to improve development outcomes in children[^1]
 	- Children living in orphanages are often markedly delayed, to the point of apparent mental retardation that disappears with improving environments. 
 	- The absolute difference in IQ between institutionalized and family-reared children of 20 IQ points. 
+- According to a paper that studied IQ in children in institutional care in the North-West in India, the institutionalized males as well as females reported lower IQ.  More than half of the institutionalized subjects were significantly below the average IQ levels (IQ below 70). 
 - According to a paper on the developmental effects of parent-child separation[^3]
 	-  we learn that the impact includes poorer brain functioning, smaller brain size, lower levels of cognition, and elevated social/behavioural problems, specifically disinhibition, inattention, hyperactivity, and attachment disruptions.
 	- At age 16, early-emerging deficits in problem-solving, attention, spatial planning, and short-term visual attention persisted into adolescence, and the gap in spatial working memory between once-institutionalized and never-institutionalized children widened in comparison to earlier in childhood.
