@@ -458,6 +458,8 @@ According to Hope Worldwide[^14], here are a few practices to support children a
 - Challenge them to think about possibilities for the future.
 - Compliment and praise your teen for well-thought-out decisions.
 - Help them in reevaluating poorly made decisions.
+- One important way to improve cognitive development for your kids is to regularly expose them to new environments. Don't just stick to your regular routine. Schedule field trips to new places in town, like museums, parks, zoos, aquariums, playgrounds, and more.
+- Music is a great tool for helping promote the development of many important cognitive skills. Music as well as memory and word identification, sensory perception, and more.
 
 
 
