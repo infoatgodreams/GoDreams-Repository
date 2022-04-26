@@ -452,6 +452,12 @@ According to Hope Worldwide[^14], here are a few practices to support children a
 - Provide advice and guidance
 - Set boundaries with child
 - Give the child the opportunity to express his/her anger and other difficult feelings
+- Include them in discussions about a variety of topics, issues, and current events.
+- Encourage your teen to think independently and develop their own ideas.
+- Help your child in setting goals.
+- Challenge them to think about possibilities for the future.
+- Compliment and praise your teen for well-thought-out decisions.
+- Help them in reevaluating poorly made decisions.
 
 
 
