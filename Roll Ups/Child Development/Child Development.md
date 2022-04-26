@@ -55,11 +55,21 @@ According to a meta-analysis of over 70 years of intervention studies on cogniti
 	- A previous survey of pubertal development in children experiencing severe deprivation within Romanian orphanages revealed that the onset of puberty was delayed by approximately 2.5 years in girls and 1.5 years in boys.
 	- Despite expectations of altered pubertal tempo, the only difference noted was that Tanner scores at age 12 years in institutionalized group boys were lower compared with both foster care group and family care group boys. Tanner development and age of menarche were comparable among girls in institutionalized group, foster care group, and family care group.
 
-## Pyschosocial Development
+## Pyschosocial Development Delays
 - According to a paper that sudies the developmental effects of parental separation, when there is volitional separation (parents leave for better pastures), we see that 
 	- children separated from their mothers for 4 years or longer reported significantly higher-level anxiety and depression symptoms than those who were never separated, controlling for developmental level and country of origin.
-	- Children who were left behind by migrating parents had poorer school performance; increased feelings of abandonment, anger, and loneliness; and more sleep complaints. 
+	- Children who were left behind by migrating parents had poorer school performance; increased feelings of abandonment, anger, and loneliness; and more sleep complaints.
+- According to a paper on the Petersburg-USA orphanage study[^5], 
+	- Children assessed in adolescence had the highest levels of problems. This was true across all subscales of the CBCL [Child Behavior Checklist], with the highest rates for attention and externalizing problems.
+	- This suggests the possibility of a single mechanism underlying the development of persistent behavior problems, perhaps the neurobiological consequences of chronic stress in the institution. 
+	- Similar to the results for behavior problems, social skills were worse for later-adopted children, and the relation was again a step-like increase at an age-at-adoption of 18 months.
 
+## Executive Function Delays
+- [^5]Older-adopted children displayed lower inhibitory control and poorer working memory than children adopted at younger ages, but the groups did not differ significantly on a spatial self-ordered search task, which measures spatial working memory. 
+
+## Language Development Delays
+- According to the study on St. Petersburg USA Orphanage intervention[^5], Children adopted before 12 months of age displayed levels of expressive and receptive language skills
+- In contrast, language proficiency was lower for children adopted after 12 months of age in both the expressive and receptive domains. 
 
 
 
@@ -102,8 +112,17 @@ According to a paper on developmental consequences of parent-child separation[^3
 * improved with regard to emotion regulation and prosocial behaviour, as well as educational engagement, like attendance and enrollment, according to a teacher survey (classroom performance scale) and youth report. 
 
 
-## St Petersburg USA Orphanage Intervention Research 
+## St Petersburg USA Orphanage Intervention Research [^5]
 
+### Research structure 
+* Each institution was assigned to a different condition: Training plus Structural Changes** (T+SC), **training but no structural changes or Training Only **(TO), **no Intervention or care-as-usual** (NoI). 
+* Training: Training consisted of 12–14 sessions (approximately 60 h total) teaching caregivers to interact with children in a more “parent-like” manner by providing more warm, sensitive, and contingently responsive care to children.
+* Structural changes: Were designed to create a more “family-like” environment within the institution. These changes were designed to support caregiver–child interactions and relationships, and included reducing the number of caregivers per group, appointing primary caregivers who worked more consistently during the week, reducing group sizes, integrating groups by age and disability status, stopping periodic “graduations” of children to new rooms with new caregivers and peers, appointing a few consistent substitute caregivers for each group, and establishing “family hour” twice daily in which visitors were prohibited and children spent time with their caregivers.
+
+### Success of the intervention
+- Specific areas of improvement included physical growth, cognitive and social-emotional development, and attachment quality to caregivers. 
+- Children improved more the longer they resided in the intervention institutions, and this was true for children with and without disabilities.
+- Children in the intervention institutions also gained more than those in NoI in height, weight, and chest circumference, and they progressively displayed fewer functional limitations; again gains were greater the longer children were in the intervention. 
 
 
 ## Successful interventions include one or many of the following components: 
