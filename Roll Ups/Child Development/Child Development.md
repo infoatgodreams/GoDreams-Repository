@@ -269,6 +269,7 @@ A paper on the impact of institutionalisation on IQ, covers this important study
 	- Caregivers received little training, and most of their training pertained to routine caregiving and basic physical health
 	- Caregivers rarely initiated or maintained reciprocal social interactions with children or provided physical affection. Instead, caregivers used directive language and focused on providing the necessities (feeding, changing diapers, bathing) in a business-like manner with little eye contact, talking, or playing. 
 	- Thus, although the physical resources were adequate in these institutions, children had few warm, sensitive, and responsive interactions with a few consistent caregivers
+- According to a paper that studied the impact of institutionalisation on child development,  In addition to the length of time in an institution, the availability of toys and having been a favorite in the institution were associated with fewer delays and higher scores on the Gesell scales, whereas being described as dirty when first met by parents was associated with more delays and lower Gesell scores
 
 
 ## Other factors
