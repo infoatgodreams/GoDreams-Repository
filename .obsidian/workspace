@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "276ab37f5f446807",
+        "id": "92cc39c9226cc4d3",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roll Ups/Child Development/Child Development.md",
-            "mode": "source",
+            "file": "Volume 2/Current Reality/India CCIs/Youth Development Models and Indian Youth.md",
+            "mode": "preview",
             "source": false
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -42,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "phys",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -51,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -72,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Child Development/Child Development.md",
+                "file": "Volume 2/Current Reality/India CCIs/Youth Development Models and Indian Youth.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +86,10 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "276ab37f5f446807",
+  "active": "92cc39c9226cc4d3",
   "lastOpenFiles": [
+    "Volume 2/Current Reality/India CCIs/Youth Development Models and Indian Youth.md",
+    "Volume 3/Current Reality/India CCIs/Alternative Care for Children, Udayan Care.md",
     "Roll Ups/Child Development/Child Development.md",
     "Volume 1/Daily Log/📕Navneeth's Log.md",
     "Roll Ups/Caregiving/Caregiving.md",
@@ -98,8 +97,6 @@
     "Volume 3/Current Reality/International CCIs/3 Year Change in Wellbeing of children in institutional and family based care settings in 5 low to middle income countries.md",
     "Volume 3/Care Standards/International - Services for CNCP/The Importance of Play in Promoting Healthy Child Development and Maintaining Strong Parent Child Bond, Focus on Children in Poverty.md",
     "Roll Ups/Mental Health/Mental Health.md",
-    "Volume 2/Current Reality/International CCIs/Function, quality and outcomes of residential care.md",
-    "Volume 3/Current Reality/International CCIs/A Meta Analysis of 70 Years of Intervention improving Cognitive Development in Institutionalized Children.md",
-    "Volume 3/Current Reality/International CCIs/Institutionalisation and deinstitutionalisation of children, a systematic and integrative review of evidence regarding effects on development.md"
+    "Volume 2/Current Reality/International CCIs/Function, quality and outcomes of residential care.md"
   ]
 }
