@@ -7,8 +7,12 @@
         "id": "4fa5dd6a26a48d51",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Volume 2/Current Reality/International CCIs/Untitled.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Volume 2/Current Reality/International CCIs/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +88,15 @@
   },
   "active": "4fa5dd6a26a48d51",
   "lastOpenFiles": [
-    "Volume 2/Current Reality/India CCIs/Impact of institutionalization on IQ in adolescents of NorthWest India.md",
+    "Volume 2/Current Reality/International CCIs/Untitled.md",
     "Volume 2/Current Reality/India CCIs/Youth Development Models and Indian Youth.md",
+    "Volume 2/Current Reality/India CCIs/Impact of institutionalization on IQ in adolescents of NorthWest India.md",
     "Volume 2/Current Reality/India CCIs/Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices.md",
     "Volume 2/Care Standards/India - Service Providers to CCIs/Theorizing pathways to resilience among orphaned adolescents in institutional care in India.md",
     "Volume 2/Care Standards/India - Service Providers to CCIs/Rainbow_Home Records.md",
     "Volume 2/Care Standards/India - Service Providers to CCIs/Aftercare Model_Prerana.md",
     "Volume 3/Current Reality/India CCIs/Alternative Care for Children, Udayan Care.md",
     "Roll Ups/Child Development/Child Development.md",
-    "Volume 1/Daily Log/📕Navneeth's Log.md",
-    "Roll Ups/Caregiving/Caregiving.md"
+    "Volume 1/Daily Log/📕Navneeth's Log.md"
   ]
 }
