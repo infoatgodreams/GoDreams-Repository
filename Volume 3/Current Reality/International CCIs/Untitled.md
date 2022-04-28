@@ -44,8 +44,6 @@ We expect that adverse childhood experiences and socio-economic background relat
 
 ### Finnish Education system:
 
-
-
 * Transitions to adulthood in the Finnish system are structured by the nation’s education system
 * school-leavers at the end of compulsory basic education (typically aged 16 years) opt for general or vocational secondary education
 * Finland’s well-developed education system generally promotes labor market access, educational attainment in the form of formal qualifications is important for employability
@@ -54,9 +52,6 @@ We expect that adverse childhood experiences and socio-economic background relat
 ## Parental confounder
 
 To compare children in care with peers never in care, data were drawn from registers on several individual and parental confounders to find matches with similar pre-care characteristics for the care-experienced population. 
-
-
-
 * The selected confounders include parents’ education (highest parental education on a three-level scale: basic, secondary, and post-secondary)
 * social assistance benefit receipt (either of the parents received income support, a means-tested last-resort benefit, for six months during at least one of the follow-up years)
 * mental health problems (either of the parents diagnosed with mental health problems in inpatient care).
@@ -67,31 +62,22 @@ To compare children in care with peers never in care, data were drawn from regis
 
 
 ## Care history characters:
-
-
-    Regardless of the causal effects of the care history factors on children in care, several of them are potential predictors of future outcomes. The selected care history factors:
-
-
-
-* age at first placement (first placement before age 13 or at age 13–17)
-* time spent in care
-* number of placements
-* most typical placement type (foster family care, residential care, or other types of care)
-* aging out of care (spent time in care at the age of 17)
-* and receipt of after-care housing support (Child welfare’s after-care housing support in Finland is one form of after-care services provided until age 21 on a voluntary basis for those leaving or aging out of care)
+- Regardless of the causal effects of the care history factors on children in care, several of them are potential predictors of future outcomes. The selected care history factors:
+	* age at first placement (first placement before age 13 or at age 13–17)
+	* time spent in care
+	* number of placements
+	* most typical placement type (foster family care, residential care, or other types of care)
+	* aging out of care (spent time in care at the age of 17)
+	* and receipt of after-care housing support (Child welfare’s after-care housing support in Finland is one form of after-care services provided until age 21 on a voluntary basis for those leaving or aging out of care)
 
 
 ## Matched peer groups:
-
-
 
 * Exact matching on sex was done and then used a maximum caliper of 0.3 to select controls using propensity scores (caliper is the maximum allowable difference in the propensity to be placed in care between a case and control).
 * For both sexes, matching was done in three steps. First, matches were selected for those placed at ages 0 to 6. Then excluded the selected matches from the general population never in care and did the matching procedure for those placed at ages 7 to 12. Lastly, the matching for those placed at ages 13 to 17 was done. 
 
 
 ## Key findings:
-
-
 
 * Young adults who were placed in out-of-home (children in care) care as children and young people have high risks for low levels of –
     * Education
@@ -110,8 +96,6 @@ To compare children in care with peers never in care, data were drawn from regis
 
 Young adults with care experience were less likely to enter trajectories characterized by education and employment than peers never in care
 
-
-
 * Overall, trajectories where participation in education and work are typical and relatively stable, which included 38% of the care population, 62% of the matched peer group, and 74% of the total general population never in care.
 * In comparison with the matched peer group, those with care experience were less likely to enter one of the trajectories where participation in higher education is common.
 * However, the difference between children in care and matched peers not in care was statistically insignificant when observing trajectories where students received secondary level study benefit (a benefit based on parents’ income level) during vocational or general secondary education before entering higher education or stable employment.
@@ -124,16 +108,11 @@ Young adults with care experience were less likely to enter trajectories charact
 
 Young adults with care experience were more likely than peers never in care to have children in early adulthood. This is indicated by the higher share of children in care in the early parenthood trajectory.
 
-
-
 * Individuals in this trajectory were almost exclusively women. Of women with care experience, 26% entered the early parenthood trajectory, while corresponding figures for women without care experience were 16% in the matched group and 8% in the total general population.
 * Differences between the groups in the late parenthood trajectory were not statistically significant.
 
 
 ## Summary of study results:
-
-
-
 * The findings showed that placement in care is strongly associated with temporal dynamics during the period from age 18 to 25.
 * The results demonstrated that in comparison with peers with a similar birth-family background but no care experience, children in care have high risks of trajectories where unemployment, reliance on social assistance benefits, and early parenthood are common.
 * The study found that children in care were less likely to participate in higher education than peers never in care from families with similar backgrounds. Those that entered higher education did so mostly through a trajectory where their education was supported by secondary level study benefits.
