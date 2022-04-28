@@ -6,6 +6,7 @@ author: Karen O Donnell
 tags: 
 - globalresearch
 ---
+Domain tags: [[Education]]
 
 # Brief:
 
@@ -114,7 +115,7 @@ tags:
 * The results suggest that these tests of learning can be done in LMIC in non-standard settings and that they are, as predicted, associated with child age and even more strongly with the child’s formal educational experience despite the diversity among site.
 * Given that the child’s experience in formal education in these five countries makes a large contribution to the child’s performance on the tests, is formal education increasing intellectual ability or is there other learning in school that is associated with child performance? In other words, tests drawn or derived from standard IQ tests may not always index static cognitive capacity but also non-cognitive learning skills and behavior that are strongly influenced by educational opportunities.
 * It is concluded that this type of brief assessment, based on tests derived in countries with higher socioeconomic status, is applicable for understanding child individual differences in contexts in which learning is a function of not only age and innate abilities but also of highly variable opportunities for learning.
-* One hypothesis about these findings comes from studies of preschool programs in the United States in which Heckman and colleagues [62–64] conclude that formal education contributes to non-cognitive skills as well as to cognitive abilities per se and that non-cognitive abilities learned in formal education can contribute even more to successful lives in school and in adulthood. 
+* One hypothesis about these findings comes from studies of preschool programs in the United States in which Heckman and colleagues conclude that formal education contributes to non-cognitive skills as well as to cognitive abilities per se and that non-cognitive abilities learned in formal education can contribute even more to successful lives in school and in adulthood. 
 * Significant interactions were present between educational level and site as test score predictors, indicating that the effect of educational level varies across the five sites, a finding that remained significant after statistically controlling for child site, age, and gender highly variable in consistency, quality, and attendance within and across the five nations in the study.
 * The argument is made that innate cognitive ability is only one aspect of child developmental outcomes and that these so-called ‘‘non-cognitive’’ abilities are also developed in the family and in school where the child learns to attend, to be motivated to achieve, and to play by the rules of the setting. 
 * On the other hand, the adapted CVLT may provide an easy-to-administer indicator of not only verbal memory but also the child’s motivation and attention, that is, factors that may improve with interventions that address a number of factors, such as nutrition, psychosocial well being, and access to education.
@@ -123,8 +124,6 @@ tags:
 
 
 ## Limitations
-
-
 
 * There exists no gold standard assessment of child learning in these contexts, which limits conclusions about validity of our test protocol but also argues for the need to do and report these kinds of studies. 
 * These data are cross-sectional in nature, and we cannot infer causality or exclude other possible influences on scores, such as administration variability or quality of schooling. 
