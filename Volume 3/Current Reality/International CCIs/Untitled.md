@@ -5,17 +5,12 @@ title: Home or Care? A Comparison of Educational Outcomes for Maltreated Childre
 author: Linda Cusworth, Louise Tracey, Helen Baldwin, and Nina Biehal
 
 tags: 
-
-
-
-* globalresearch
+- globalresearch
 
 ---
 
 
 # Brief:
-
-
 
 * Scope & Description: A study was conducted to explore the differences in educational outcomes between children-in-care and children-out-of-care and it was found that being in care is not a directly related with poor educational outcomes. Other influential factors were found that are discussed. 
 * Link: [https://drive.google.com/file/d/14zrkrtHtMi1ZWPAJVhPPLJOYLUklJIsC/view?usp=sharing](https://drive.google.com/file/d/14zrkrtHtMi1ZWPAJVhPPLJOYLUklJIsC/view?usp=sharing) 
@@ -29,31 +24,9 @@ tags:
 
 # Difference between educational outcomes of children in care with those out-of-care
 
-More recently, an analysis of
-GCSE examination results of all children at the age of sixteen (General
-Certificate of Secondary Education) found that although children in care
-had significantly lower average point scores than children in the wider
-population, those continuously in care for one year or more performed
-better in examinations than ‘children in need’, who received home-based
-
-services (Sebba et al., 2015). Children in care for less than a year per-
-formed worst of all, a finding consistent with another study which
-
-reported better educational outcomes for adolescents in long-term foster
-placements (Dixon et al., 2006).
-Some studies in the USA and Australia that compared children in
-
-care to other child welfare-involved children found no differences in aca-
-demic performance after controlling for differences between the groups
-
-(Font and Mcguire-Jack, 2013; Berger et al., 2015), although others
-
-found their educational performance was worse than that of the compar-
-ison group (Weiss and Fantuzzo, 2001; Smithgall et al., 2004). However,
-
-an American study that compared children in care to others in the com-
-munity, including maltreated children not in care, reported that child-
-ren’s test scores on various measures were fully or partly mediated by
+- More recently, an analysis of GCSE examination results of all children at the age of sixteen (General Certificate of Secondary Education) found that although children in care had significantly lower average point scores than children in the wider population, those continuously in care for one year or more performed better in examinations than ‘children in need’, who received home-based services (Sebba et al., 2015). Children in care for less than a year per- formed worst of all, a finding consistent with another study which reported better educational outcomes for adolescents in long-term foster placements (Dixon et al., 2006).
+- Some studies in the USA and Australia that compared children in care to other child welfare-involved children found no differences in academic performance after controlling for differences between the groups(Font and Mcguire-Jack, 2013; Berger et al., 2015), although others found their educational performance was worse than that of the comparison group (Weiss and Fantuzzo, 2001; Smithgall et al., 2004). 
+- However, an American study that compared children in care to others in the community, including maltreated children not in care, reported that children’s test scores on various measures were fully or partly mediated by
 
 maltreatment (Fantuzzo and Perlman, 2007).
 
