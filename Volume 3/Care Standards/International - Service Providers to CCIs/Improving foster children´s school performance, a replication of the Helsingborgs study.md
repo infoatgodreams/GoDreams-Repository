@@ -8,7 +8,7 @@ tags:
 - Practitioner 
 
 ---
-
+Domain tags: [[Education]]
 
 # Brief:
 * Scope & Description: In this paper a replication of the Helsingborg study (Tideman et al, 2011), was staged in the municipality of Norrköping 2008 to 2011. Results confirm the conclusions from the original study, that children in foster care can benefit from a working model aimed to improve school performance. Furthermore, a possible way to address poor numeracy skills by computerized working memory training was found
@@ -88,7 +88,7 @@ tags:
         * DLS (Järpsten, 1999, 2002, 2004) (Järpsten and Taube, 1997) for assessing reading and writing skills, DLSM for reading comprehension,
         *  “Reading chains” for assessment of verbal and reading fluency (Jacobsson, 2001) 
         * The Olof Magne mathematical diagnostic tests to assess numeracy performance (Engström and Magne, 2006).
-* Limitations of the trial:
+* ## Limitations of the trial
     * Power related limitation 
         * A power related limitation concerns the pedagogical assessment of literacy. Because of age related sectioning of tests, longitudinal comparisons become difficult. 
         * A test measuring digit processing at age 8 cannot be compared to reading comprehension for the same child at age 10. 

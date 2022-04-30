@@ -7,6 +7,7 @@ tags:
 - globalresearch 
 ---
 
+Domain tags: [[Education]]
 
 # Brief:
 * Scope & Description: The study focuses on the temporal dynamics during the early adulthood transition among children in out-of-home care. It explores early adulthood education and employment trajectories among young adults who experienced out-of-home care during childhood. For the data, a sample of N=59,476 of whom 1893 were in care was taken up. The study took place in Finland on all children born in 1987. 

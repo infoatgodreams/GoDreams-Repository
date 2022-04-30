@@ -7,7 +7,7 @@ tags:
 - globalresearch 
 
 ---
-
+Domain tags: [[Education]]
 
 # Brief:
 

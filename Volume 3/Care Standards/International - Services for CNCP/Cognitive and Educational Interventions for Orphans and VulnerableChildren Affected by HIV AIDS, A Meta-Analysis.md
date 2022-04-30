@@ -7,6 +7,8 @@ Tags:
 - globalresearch
 ---
 
+Domain tags: [[Education]]
+
 # Brief:
 * Scope & Description: Orphans and vulnerable children affected by HIV/AIDS (HIV OVC) are at risk for cognitive difficulties and lack of access to education. This review examined the summative effectiveness of interventions and the specific effects of participant age and intervention length. Interventions targeting cognitive outcomes had a small, significant effect, with no effect of moderating variables.Interventions targeting educational outcomes had significant effects. Educational interventions over 1 year were effective, but effects of intervention length were not significant.
 * Link: [https://drive.google.com/drive/u/1/folders/15q-KBGvUJ_uFh2epebZnH25xDDlInyYU](https://drive.google.com/drive/u/1/folders/15q-KBGvUJ_uFh2epebZnH25xDDlInyYU)
