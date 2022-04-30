@@ -8,7 +8,7 @@ tags:
 
 - globalresearch
 ---
-
+Domain tags: [[Education]]
 
 # Brief:
 
@@ -55,7 +55,7 @@ tags:
 * Monitoring and Evaluation of the Programme
     * Monitoring and evaluation is a process of self assessment, knowledge generation, and collective action in which stakeholders in a program or intervention collaboratively define the evaluation issues, collect and analyze data, and have action as a result of what they learn through this process 
     * An evaluation from start to finish can give stakeholders a sense of ownership over the results; provide timely, reliable, and valid information for management decision-making, increase cost-effectiveness of monitoring and evaluation information
-* Using Theoretical Framework for Programme Analysis: 
+* ## Using Theoretical Framework for Programme Analysis: 
     * Stakeholder Theory
         * The stakeholder analysis thus seems like an appropriate candidate remedy for the complexity related challenges of the balanced scorecard as a strategic management tool
         * According to emergence of CSR to Stakeholder theory, which suggests that an organization's survival and success are recognized by the achievement of its economic (profit maximization) and non-economic (corporate social performance) objectives in the interest of their stakeholders
@@ -67,7 +67,7 @@ tags:
         * Stakeholder theory specifies the extent to which a corporation treats its stakeholders appropriately, and thus is linked to corporate social responsibility
     * Theory of Change
         * by understanding, what the project is trying to achieve, how and why, project staff and evaluators will be able to monitor and measure the desired results and compare them against the original theory of change 
-* Impact of Variants on the Programme
+* ## Impact of Variants on the Programme
     * Socio-Cultural Norms
         * Patriarchal (conservative) gender ideology is dominant in rural community and is believed to be the root of the patriarchal social structure in the country which hinders women from participating in community development related activities 
         * aspects of social-cultural factors influence the performance of orphans and vulnerable children Programmes in Kenya through:
@@ -86,7 +86,7 @@ tags:
         * Helps in suggesting the way forward 
         * during the monitoring, the team interviews users and staff as well for their view on system performance and a scorecard is produced for each facility
         * monitoring and evaluation was conducted occasionally and that monitoring and evaluation improve the inclusivity of beneficiaries in OVC projects and create a good environment for interaction between stakeholders and bring onboard resources available
-* Future Recommendations to enhance the Programme
+* ## Future Recommendations to enhance the Programme
     * the community should be sensitized to be heavily involved in these projects; including them as the stakeholders of the projects as well as allowing them to contribute to the projects hence improving the performance of the projects
     * parents and the community should be sensitized to the effect of some cultural practices which affect the children
     * allocation of funds should be increased to improve the OVCs' health status and financial resources should be estimated realistically at the time of planning for the success of the OVC programme that human resources efficiency enables monitoring of OVC Programmes
