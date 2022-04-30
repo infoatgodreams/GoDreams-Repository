@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 3/Care Standards/International - Services for CNCP/A Rough Guide to Individual Educational Planning (IEPs).md",
+            "file": "Volume 3/Care Standards/International - Service Providers to CCIs/Factors influencing performance of orphans and vulnerable children, programmes in Kenya, A case of unbound project in Tharka Nithi County in Kenya.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: improving",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 3/Care Standards/International - Services for CNCP/A Rough Guide to Individual Educational Planning (IEPs).md",
+                "file": "Volume 3/Care Standards/International - Service Providers to CCIs/Factors influencing performance of orphans and vulnerable children, programmes in Kenya, A case of unbound project in Tharka Nithi County in Kenya.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +88,15 @@
   },
   "active": "65e53ba84e28ce1d",
   "lastOpenFiles": [
+    "Volume 3/Care Standards/International - Service Providers to CCIs/Factors influencing performance of orphans and vulnerable children, programmes in Kenya, A case of unbound project in Tharka Nithi County in Kenya.md",
+    "Volume 3/Current Reality/India CCIs/Exploring Factors Associated with Educational Outcomes for Orphan and Abandoned Children in India.md",
+    "Volume 3/Current Reality/India CCIs/Untitled.md",
     "Volume 3/Care Standards/International - Services for CNCP/A Rough Guide to Individual Educational Planning (IEPs).md",
     "Volume 3/Current Reality/India CCIs/Child care institutions in India Investigating issues and challenges in children’s rehabilitation and social integration.md",
-    "Volume 3/Current Reality/India CCIs/Exploring Factors Associated with Educational Outcomes for Orphan and Abandoned Children in India.md",
     "Volume 3/Current Reality/India CCIs/Morbidity profile of orphan children in Southern India.md",
     "Volume 3/Current Reality/International CCIs/From Care to Education and Work? Education And Employment Trajectories in Early Adulthood by Children in Out Of Home Care.md",
     "Volume 3/Current Reality/International CCIs/Home or Care? A Comparison of Educational Outcomes for Maltreated Children.md",
     "Volume 3/Current Reality/International CCIs/The educational outcomes of children in care, a scoping review.md",
-    "Volume 3/Care Standards/International - Services for CNCP/Educational support for orphans and vulnerable children in primary schools, Challenges and interventions.md",
-    "Volume 3/Current Reality/International CCIs/A Brief Assessment of Learning for Orphaned and Abandoned Children in Low and Middle Income Countries.md",
-    "Volume 3/Current Reality/International CCIs/The role of play in children's development.md"
+    "Volume 3/Care Standards/International - Services for CNCP/Educational support for orphans and vulnerable children in primary schools, Challenges and interventions.md"
   ]
 }
