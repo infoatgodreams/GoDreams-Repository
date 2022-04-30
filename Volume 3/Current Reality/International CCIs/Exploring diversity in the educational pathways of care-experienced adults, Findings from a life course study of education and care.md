@@ -89,7 +89,6 @@ Domain tags: [[Education]]
 ## Pathway 1: typical pathway
 
 
-
 * Participants who had taken this pathway completed their compulsory education ‘on time’ and went on to pursue undergraduate degrees straight after completing their compulsory education.
 * While all three participants in this group took a ‘typical’ pathway 4 In the Irish context, children generally attend primary school from approximately age five to age 12 and secondary school from age 12 to age 18. 5 Post Leaving Certificate (PLC) courses are full-time and last for one to two years. 
 * They offer a mixture of practical work, academic work and work experience (Citizens Information, 2018). 5 from secondary to higher education, they had notably different early school and home experiences. One participant was in the same longterm placement from infancy, one came into care aged eight after chaotic early years with her birth family, and the other came into care aged 15.
@@ -97,8 +96,6 @@ Domain tags: [[Education]]
 
 
 ## Pathway 2: typical pathway ‘plus’
-
-
 
 * Participants on this pathway had all successfully pursued higher education in the years after they left school. For participants in this group this progression involved completion of a one-year further education course prior to entering higher education.
 * All three found themselves struggling in different ways towards the end of secondary school and this manifested itself in skipping school, worrying about support after they left care, and acting out.
@@ -108,8 +105,6 @@ Domain tags: [[Education]]
 
 ## Pathway 3: short-term disrupted pathway
 
-
-
 * Participants on this pathway had taken a period of time out of education in their teenage years before returning to further and/or higher education in their late teens or early 20s.
 * All participants in this group spent the years after leaving secondary education in a range of contexts and roles. For some the time was spent working and pursuing short-term courses or caring for their young babies while others experienced addiction and homelessness.
 * Returning to education was prompted by various factors including the possibility of gaining financial support for pursuing education, a concern regarding losing financial support related to aftercare, consistent and regular encouragement of extended family, wanting to prove those who doubted them wrong, and wanting to provide for young children.
@@ -118,8 +113,6 @@ Domain tags: [[Education]]
 
 ## Pathway 4: long-term disrupted pathway
 
-
-
 * Participants on this pathway had taken an extended break from education before returning, or planning to return, to further or higher education.
 * Six participants had taken this pathway. While some in this group had had chaotic and highly disjointed school and placement experiences, one had had a highly stable placement and educational experience.
 * In the years between their secondary education and their most recent return – or planned return – to further and/or higher education participants, had been engaged in diverse activities including working in various sectors (for example, retail, the hospitality industry, and the voluntary sector), learning a trade, experiencing homelessness, parenting, and caring for birth parents reflecting various life experiences.
@@ -127,8 +120,6 @@ Domain tags: [[Education]]
 
 
 # Discussion
-
-
 
 * In the case of the 18 adults interviewed for this study, the pursuit of post-compulsory education occurred in different ways and within different timeframes. The pursuit of education is not always a linear endeavour (Davey & Jamieson, 2003; Feinstein & Peck, 2008).
 * The alternative disrupted pathways identified in this paper resonate with some of those identified in previous studies, for example in the YiPPEE study (Jackson & Cameron, 2012) and Harrison's (2017) recent work in England. Many participants in this study pursued higher education via ‘PLC’ courses echoing Harrison's (2019) finding that many care-experienced young people in England pursued pathways into higher education via further education and adult education courses.
@@ -143,8 +134,6 @@ Domain tags: [[Education]]
 
 
 # Concluding remarks
-
-
 
 * Firstly, the life course principle of expected ‘diversity in life trajectories’ provides a valuable lens through which to consider the educational pathways of adults with care experience.
 * Secondly, the potential for the concepts of roles and transitions to enhance our knowledge of this issue warrants further investigation.
