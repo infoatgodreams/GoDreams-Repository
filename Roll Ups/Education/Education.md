@@ -27,7 +27,7 @@ tags:
 - Most African countries lack statutory after-care services and support for care leavers. 
 - Without support, many care leavers in India, Zimbabwe, and Philippines face financial difficulties and the pressure to earn an income which forces them to postpone their education
 
-# Facilitators of Academic success:
+## Facilitators of Academic success:
 
 From conversations with care-leavers in Ghana, we know that[^3]
 * The factors identified in various studies as contributing to the educational success of care leavers include:
@@ -55,43 +55,44 @@ From conversations with care-leavers in Ghana, we know that[^3]
 
 
 # Barriers to Academic Achievement
-
-* Evidence from Ghanaian care-leaving research suggests that many young people who leave care experience challenges with employment, housing, and social integration (Frimpong-Manso, 2018). 
+- Evidence from Ghanaian care-leaving research suggests that many young people who leave care experience challenges with employment, housing, and social integration (Frimpong-Manso, 2018). 
 * The care leavers who have good outcomes are often those who have the opportunity to stay longer in care to finish their education and also have financial and material support from the residential facility after leaving care (Frimpong-Manso, 2018).
-* Key factors that act as barriers to Academic Achievement are:
-    * ## Lack of Educational Support and Guidance:
-        * Staff’s low expectations and lack of belief in their academic potential had negative consequences for the young people’s educational outcomes, as they did little to promote their aspiration for higher education. 
-        * An interesting finding from this study is that for some of the young people, the extremely high expectations of the staff members also had a negative influence on their education. 
-        * Because, as revealed by other research (e.g., Murayama et al., 2016), the unrealistic expectations of adults put undue pressure on young people. This contributed to them experiencing low self-esteem and eventual disengagement from school
-        * Many of the young people who took part in the study suggested that an impediment to their education was the lack of support to compensate for their pre-care losses. 
-        * Many of them had never or hardly attended school before entering care. However, despite this disadvantage, they felt that they did not get enough guidance and mentoring from their carers and teachers. 
-        * Most of the staff paid little attention to their studies or had difficulty helping with subjects such as maths or science
-        * Several of the participants also reiterated that adults in the children’s homes often had low expectations and aspirations for those who were academically weak. 
-        * The staff gave them little motivation and encouragement to excel. According to the young people, these attitudes undermined their self-belief and contributed to their underachievement in school.
-        * The participants reiterated that those considered academically weak, especially the females, were advised by the staff of the children’s homes to shelve their higher educational aspirations in favor of lower courses such as vocational training, even if that was not what they wanted to do
-        * The participants from one of the residential facilities revealed that the overly high expectations of the staff affected their academic progress negatively. 
-        * They pointed out that the staff pushed them to attend the international college owned by the residential facility, even when they did not satisfy the admission criteria. 
-        * However, some young people struggled to cope with the academic work and failed several of their courses, leading to their dismissal from the college and ending their schooling
-        * Previous Ghanaian research (Darkwah et al., 2016) shows that staff in residential facilities generally have low academic qualifications and minimal on-the-job training, which probably contributed to their failure to assess the young people’s academic competence or give them academic support outside school hours.
-    * ## Non-participation in Educational Decisions
-        * Children in care are not consulted or given opportunities to communicate their views on decisions. Without their participation, the young people end up in courses that they have little interest in or ability to pursue, leading to many dropping out or struggling to attain good qualifications. 
-        * Like other existing research (Berridge, 2017; Wilson et al., 2019), care leavers in this study have the desire to have some control over their education. 
-        * The inability to do so is a denial of their rights that are enshrined in the Convention on the Rights of the Child and recommended by the Guidelines for the Alternative Care of Children. 
-        * Enabling children to take part in decisions helps professionals to identify their needs and improves their self-esteem and confidence
-        * From the accounts of almost all the young people, the staff in the orphanages mostly decided on their education and career, including making choices about schools and courses, without consulting them or explaining the reasons. 
-        * The young people then felt pressured to accept the decisions with little consideration given to their wishes
-        * Many of the participants felt that the decisions and advice given by some staff were poor and not always in their best interest. The young people felt disempowered and disoriented by the decisions they disagreed with but forced to accept. This included not being allowed to attend their preferred school or doing the course that they wanted. 
-        * Those who did not do well in school and those who did not continue with their education blamed it on not having an interest in what they were forced to study
-        * The youth felt that while the staff might have had good intentions when they made choices about their education, it would have been better if they had consulted them, given them reasons behind the decisions made, or opportunities to share their opinions
-        * As far as personal decision-making was concerned, the young people display agency in identifying personal challenges, and then planning and implementing solutions.
-    * ## Stigma
-        * Stigma emerged from the study as a barrier to academic progress. Negative comments from teachers and schoolmates because of their care background made school unlikable for many of the young people in the study. These experiences of stigma resulted in some even dropping out, disrupting their education 
-        * However, similar to studies from Wales (Mannay et al., 2017), the practices of some residential care facilities and schools intended to aid their academic work rather generated some of the stigma the young people experienced in school
-        * Some of the interviewees mentioned that they experienced stigma in school, which impeded their academic progress. According to them, certain organizational policies intended to assist them rather became a source of stigma. 
-        * For example, though they did not want people to find out they were living in a children’s home, being taken to school in the institution’s bus revealed their care status
-        * The young people who attended school in their children’s home suggested that the activities of their instructors led to feeling stigmatized. 
-        * Dora said, “The teachers referred to children from the children’s home as ‘our children,’ and they also separated our exam results from those of the other students.” 
-        * Many of the participants indicated that once their mates found out they were from the children’s home, they experienced different forms of stigma, discrimination and social exclusion
+
+## Lack of Educational Support and Guidance:
+- Staff’s low expectations and lack of belief in their academic potential had negative consequences for the young people’s educational outcomes, as they did little to promote their aspiration for higher education. 
+- An interesting finding from this study is that for some of the young people, the extremely high expectations of the staff members also had a negative influence on their education. 
+- Because, as revealed by other research (e.g., Murayama et al., 2016), the unrealistic expectations of adults put undue pressure on young people. This contributed to them experiencing low self-esteem and eventual disengagement from school
+- Many of the young people who took part in the study suggested that an impediment to their education was the lack of support to compensate for their pre-care losses.
+-  Many of them had never or hardly attended school before entering care. However, despite this disadvantage, they felt that they did not get enough guidance and mentoring from their carers and teachers. 
+- Most of the staff paid little attention to their studies or had difficulty helping with subjects such as maths or science
+- Several of the participants also reiterated that adults in the children’s homes often had low expectations and aspirations for those who were academically weak. 
+- The staff gave them little motivation and encouragement to excel. According to the young people, these attitudes undermined their self-belief and contributed to their underachievement in school.
+- The participants reiterated that those considered academically weak, especially the females, were advised by the staff of the children’s homes to shelve their higher educational aspirations in favor of lower courses such as vocational training, even if that was not what they wanted to do
+- The participants from one of the residential facilities revealed that the overly high expectations of the staff affected their academic progress negatively. 
+- They pointed out that the staff pushed them to attend the international college owned by the residential facility, even when they did not satisfy the admission criteria. 
+- However, some young people struggled to cope with the academic work and failed several of their courses, leading to their dismissal from the college and ending their schooling
+- Previous Ghanaian research (Darkwah et al., 2016) shows that staff in residential facilities generally have low academic qualifications and minimal on-the-job training, which probably contributed to their failure to assess the young people’s academic competence or give them academic support outside school hours.
+
+## Non-participation in Educational Decisions
+- Children in care are not consulted or given opportunities to communicate their views on decisions. Without their participation, the young people end up in courses that they have little interest in or ability to pursue, leading to many dropping out or struggling to attain good qualifications. 
+- Like other existing research (Berridge, 2017; Wilson et al., 2019), care leavers in this study have the desire to have some control over their education. 
+- The inability to do so is a denial of their rights that are enshrined in the Convention on the Rights of the Child and recommended by the Guidelines for the Alternative Care of Children. 
+- Enabling children to take part in decisions helps professionals to identify their needs and improves their self-esteem and confidence
+- From the accounts of almost all the young people, the staff in the orphanages mostly decided on their education and career, including making choices about schools and courses, without consulting them or explaining the reasons.
+- The young people then felt pressured to accept the decisions with little consideration given to their wishes
+- Many of the participants felt that the decisions and advice given by some staff were poor and not always in their best interest. The young people felt disempowered and disoriented by the decisions they disagreed with but forced to accept. This included not being allowed to attend their preferred school or doing the course that they wanted. 
+- Those who did not do well in school and those who did not continue with their education blamed it on not having an interest in what they were forced to study
+- The youth felt that while the staff might have had good intentions when they made choices about their education, it would have been better if they had consulted them, given them reasons behind the decisions made, or opportunities to share their opinions
+- As far as personal decision-making was concerned, the young people display agency in identifying personal challenges, and then planning and implementing solutions.
+
+## Stigma
+- Stigma emerged from the study as a barrier to academic progress. Negative comments from teachers and schoolmates because of their care background made school unlikable for many of the young people in the study. These experiences of stigma resulted in some even dropping out, disrupting their education 
+- However, similar to studies from Wales (Mannay et al., 2017), the practices of some residential care facilities and schools intended to aid their academic work rather generated some of the stigma the young people experienced in school
+- Some of the interviewees mentioned that they experienced stigma in school, which impeded their academic progress. According to them, certain organizational policies intended to assist them rather became a source of stigma. 
+- For example, though they did not want people to find out they were living in a children’s home, being taken to school in the institution’s bus revealed their care status
+- The young people who attended school in their children’s home suggested that the activities of their instructors led to feeling stigmatized. 
+	- Dora said, “The teachers referred to children from the children’s home as ‘our children,’ and they also separated our exam results from those of the other students.” 
+- Many of the participants indicated that once their mates found out they were from the children’s home, they experienced different forms of stigma, discrimination and social exclusion
 
 
 
