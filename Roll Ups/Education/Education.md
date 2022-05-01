@@ -112,8 +112,28 @@ From conversations with care-leavers in Ghana, we know that[^3]
 - The young people who attended school in their children’s home suggested that the activities of their instructors led to feeling stigmatized. 
 	- Dora said, “The teachers referred to children from the children’s home as ‘our children,’ and they also separated our exam results from those of the other students.” 
 - Many of the participants indicated that once their mates found out they were from the children’s home, they experienced different forms of stigma, discrimination and social exclusion
+- Low self-esteem among OVC was found to be a contributing factor to poor performance in education as T6SA said “self-esteem is … related to low morale and their performances are disturbed”.
 
 ## Poor teaching support
+According to a paper on educational support for OVC in South Africa, 
+* Findings from our study indicated that the challenges deterring teachers from supporting OVC include lack of sufficient time for individual attention to OVC. As one teacher said, “we have no sufficient time to support individual children” (T2SA)
+* Wood and Goba (2011) noted that teachers trained in life orientation felt a sense of being marginalised by their colleagues who left OVC for them to deal with. On the other hand OVC experienced stigma which was challenging for life orientation teachers who could not prevent it from happening.
+* Reading and writing were other challenges that OVC struggled with. Twenty six (40%) learners reported that they were not able to write like other children while 14 (23%) indicated they were not able to read like others.
+* This challenge could be connected to lack of sufficient time for teachers to attend to learners individually, leaving OVC struggling on their own.
+* Lack of concentration among OVC, submitting school work late and not doing their school/homework were other challenges cited as likely to have negative influence on OVC’s education.
+
+## Lack of parental support
+* Mwoma & Pillay (2015) noted that parents/guardians were not supportive to OVC in relation to homework. Pillay (2011) revealed that learners from child headed households lacked support and they mostly had negative experiences in their homes characterised by abject poverty.
+
+## Home environment
+* Absenteeism and lateness to school were other challenges likely to negatively influence OVC’s academic performance.
+* Mishra and Bignami-Van Assche (2008) revealed that various reasons could make OVC be at greater risk of absenteeism and dropping out of school. The reasons according to them would include inability to pay fees, need to help with household labour or having to stay at home to care for sick parents or younger children.
+* Ebersohn and Eloff, (2002) observed that due to the death of parents and close relatives as a result of HIV/AIDS, families have been disrupted causing an increase of destitute and abandoned children in South Africa.
+* This was supported by findings from our study where OVC were reported to be relocating from relative to relative while others could not do their homework indicating that they lacked supervision and support in their home.
+* Cleanliness among OVC was another challenge indicating that OVC are not supervised at home to ensure personal hygiene. Being the first teachers and protectors of their children, parents have a primary responsibility of ensuring that children have a conducive social environment at home.
+* Bronfenbrenner (1979) identified the home as the microsystem where children are socialised to learn how to interact with other social agents in society. Supervision of children by parents/guardians ensures that children become responsible and are not rendered vulnerable to the law by becoming violent to other children or by destroying property (Sund, 2006). 
+* Supervision at home could include ensuring that children are encouraged to do home/schoolwork, observe personal hygiene, and that parents/guardians work hand in hand with teachers to ensure that OVC attend school regularly as these were major negative challenges reported to be influencing the education for OVC
+
 
 
 # Successful interventions in improving educational outcomes 
@@ -122,12 +142,38 @@ From conversations with care-leavers in Ghana, we know that[^3]
 	- Our study revealed that the government through the implementation of a no fee policy in schools, enabled OVC to access their basic education. This was confirmed by 57 (88%) learners indicating that the government paid their fees and 48 (74%) learners indicating that this support enabled many of them to access education.
 	- Findings further revealed that schools through the government soup kitchens provided meals to OVC where 63 (96%) learners and 38 (90.5%) teachers confirmed this fact.
 
-# Individual Education Planning
+## School feeding program
+
+* Food and nutrition are important components for OVC’s support (PEPFAR, 2006). USAID and CRS (2008) pointed out that school feeding programs can enable children in general and OVC in particular to access education by addressing hunger and the need to work to survive. Findings from our study revealed that although schools had feeding programs, some OVC lacked meals in their homes compelling them to come to school without having breakfast.
+* Eight (12%) learners also confirmed this fact that OVC did not have meals at home. Due to lack of food at home, some OVC would even come to school when they were sick to have one meal a day provided in school. 
+* Some schools are trying to provide food parcels for OVC to take home, but they experience further challenges in providing enough for family members. For others some OVC lacked lunch boxes to carry the food home.
+
+## Supporting OVC with school work
+* Mwoma & Pillay (2015) maintained that in supporting OVC, life orientation skills are critical for OVC especially those taking care of their ailing parents/guardians. However this support was missing as 54% of the teachers and 31% of the OVC indicated that they are not taught how to care for sick persons at home, implying the children struggle on their own. This may have indirect influence on their participation in education as they may not attend school regularly or do homework. 
+* Among the strategies identified that could be used to improve support for OVC with school work at the meso and exosystem levels is the need for government to employ more teachers to support OVC after school hours.
+* Participants also suggested that there should be a social worker in each school, to whom OVC could be referred for further support.
+* Findings further indicated that for OVC to be supported effectively there is need for a collective responsibility from teachers, parents/guardians, and government to ensure that OVC are supported in their educational needs. Each of these stakeholders should play their roles effectively to support OVC both at home and in school in line with Bronfenbrenner’s (1979) findings that the home, the school, the government and the community at large have a critical role in a child’s development and learning.
+
+
+### Provision of feeding programs 
+* Feeding children is very important in ensuring that they have energy to play and learn and have good health. Findings from our study indicated that some children came to school without breakfast, indicating that they could be starving at home. To mitigate this, interviewees suggested that there is a need to provide food parcels for OVC to take home.
+* USAID and CRS (2008) maintain that take home rations have been shown to promote participation, progression and retention of OVC in education. They further argue that, children who are not hungry are better able to concentrate in class. Therefore, providing food parcels for OVC is critical in ensuring that they do not go to school hungry. 
+
+
+### Strengthening caregiver systems
+* McGuckin and Minton (2014) in supporting the ecological systems theory maintain that the environment in which a child grows up, plays a critical role in shaping the relationship between the child and his/her development. The family, school and neighbourhood has the most and earliest influence on the child’s development (Krishnan, 2010).
+* Thus providing the educational needs for OVC by family members and the school community is important in enhancing the educational performance of OVC.
+* Findings from our study revealed that, in order for OVC to get adequate support from guardians/parents there is a need for workshops to sensitise them to the need to fully support OVC with school/homework and to supervise their personal hygiene at home.
+* PEPFAR (2006) maintained that supporting families helps build a protective environment for vulnerable children. Krishnan (2010) also pointed out that what happens in a microsystem such as home where a child lives, could influence what happens in the school and vice versa. It is imperative therefore, that capacity building for guardians/parents on the importance of supporting children under their care while at home and in school is an option that cannot be overlooked.
+* Regular home visits by social workers was another strategy deemed to be supportive especially for social workers to identify the various needs of OVC alongside the needs of parents/guardians with a view of identifying the appropriate ways of meeting those needs.
+* Identifying needy guardians/parents for OVC and providing them with social grants was another strategy cited to ensure that they are able to purchase necessities for these children to promote their personal hygiene.
+
+## Individual Education Planning
 **Note: An IEP is often created by the teacher; but can be adapted to different settings**
 According to an articule that discusses development and implmentation of individual education plans for children with special needs[^2], 
 
 
-## Key Characteristics of an IEP
+### Key Characteristics of an IEP
 
 ### Special
 - An individual education plan can be the medium by which we put the special into special education. 
