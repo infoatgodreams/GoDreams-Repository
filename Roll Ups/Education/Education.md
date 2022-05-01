@@ -168,6 +168,13 @@ According to a paper on educational support for OVC in South Africa,
 * Bronfenbrenner (1979) identified the home as the microsystem where children are socialised to learn how to interact with other social agents in society. Supervision of children by parents/guardians ensures that children become responsible and are not rendered vulnerable to the law by becoming violent to other children or by destroying property (Sund, 2006). 
 * Supervision at home could include ensuring that children are encouraged to do home/schoolwork, observe personal hygiene, and that parents/guardians work hand in hand with teachers to ensure that OVC attend school regularly as these were major negative challenges reported to be influencing the education for OVC
 
+## Gender
+
+* A situational analysis of education in India by USAID (2014) indicated that although primary school enrollment is high, the dropout rate for both boys and girls increases manifold when transitioning to higher-level classes. 
+* boys become more labor force Bready^ and are directed towards paid labor.
+* girls, the reasons for dropping out might include marriage, caretaking of younger siblings or ailing parents, and reservation of resources, among others.
+* Interestingly, child’s gender was not a significant predictor of education outcome.
+* This suggests that although child’s gender might be an important predictor of education outcomes, for this particular sample, other factors might be more influential.
 
 
 # Successful interventions in improving educational outcomes 
