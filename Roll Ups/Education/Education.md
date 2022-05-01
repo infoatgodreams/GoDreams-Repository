@@ -29,30 +29,29 @@ tags:
 
 # Facilitators of Academic success:
 
+From conversations with care-leavers in Ghana, we know that[^3]
 * The factors identified in various studies as contributing to the educational success of care leavers include:
     * resourcefulness and motivation, 
     * having key adults who provide guidance and encouragement, 
     * financial and practical support, 
     * and participation in extracurricular activities.
-* In several developed countries, policies such as the UK’s Children’s and Families Act, 2014, have emerged over the years to address the academic needs of children in care and care leavers (Geiger & Beltran, 2017). These policies have put in place academic (e.g., virtual school) and financial support (e.g., tuition waivers) that seek to improve the educational outcomes of care leavers
 * Care leavers in many developing countries highlight the access to education as a positive feature of care. Islam (2013) argues that the positive experience is because, in Bangladesh and other developing countries, education is often viewed as a primary function of residential care as it is a vehicle for the social improvement of children who are in care mainly because of poverty. 
 * Thus, compared to their pre-care lives often characterised by poverty and homelessness, the well-run facilities provide the stability for the young people to attend school
-* Key factors that facilitate academic success are:
-    * ## Personal Motivation
-        * According to the participants, having personal motivation is an important part of academic success. Their narrations suggest that despite the challenges they experienced pre-care and in-care, they had the conviction to succeed academically to make their future better 
-        * A deeper analysis of the data revealed that Hilda and the other participants who progressed to higher education mostly entered care after 5 years and because of poverty. 
-        * Having experienced disruptions to their schooling, they saw care as an opportunity to get an education and a “better life”, something that they would not have gotten if they had stayed with their parents or extended families
-        * However, after leaving care, some of them realized the value of education after they struggled to find employment. Instead of giving in to the challenges they were facing, they devised strategies to enable them continue their education. They saved to raise the money that they needed for school or found support from informal sources such as their intimate partners.
-    * ## Encouragement from Adults and Peers
-        * Aside from the personal resources, the young people in the study also suggest that support from carers and other significant adults facilitated their academic progress
-        * It is therefore probable that those who had poor educational experiences and who were having difficulties after leaving care are underrepresented in this study.
-        * The findings seem to suggest a link between the care leaver’s educational achievement and staff members’ expectations and attitudes. From the accounts of the young people, having a significant adult who took an interest in their academic work boosted their confidence and determination to succeed, echoing the findings in other studies. 
-        * Several participants mentioned that the encouragement and support from adults and their peers served as an important facilitator to their academic success. 
-        * The adults, often their immediate carers and teachers, pushed them to do well in school and believed in their potential, which showed through their actions. According to the participants, the encouragement and advice from these adults helped them realize the importance of education
-        * Aside from the encouragement and motivation, the adults provided practical support that helped many of the care leavers with their education. 
-        * The adults attended school events, contacted their teachers regularly to enquire about their progress, and used their own money to pay the school fees for some of the participants after they had left care
-        * Others received support and motivation from informal sources such as their biological relatives
-        * Another youth also explained that he was motivated to study harder and stay in school because his peers in care who attended university became his role models
+
+## Personal Motivation
+- According to the participants, having personal motivation is an important part of academic success. Their narrations suggest that despite the challenges they experienced pre-care and in-care, they had the conviction to succeed academically to make their future better 
+- Having experienced disruptions to their schooling, they saw care as an opportunity to get an education and a “better life”, something that they would not have gotten if they had stayed with their parents or extended families
+
+## Encouragement from Adults and Peers
+- Aside from the personal resources, the young people in the study also suggest that support from carers and other significant adults facilitated their academic progress
+- It is therefore probable that those who had poor educational experiences and who were having difficulties after leaving care are underrepresented in this study.
+- The findings seem to suggest a link between the care leaver’s educational achievement and staff members’ expectations and attitudes. From the accounts of the young people, having a significant adult who took an interest in their academic work boosted their confidence and determination to succeed, echoing the findings in other studies. 
+- Several participants mentioned that the encouragement and support from adults and their peers served as an important facilitator to their academic success. 
+- The adults, often their immediate carers and teachers, pushed them to do well in school and believed in their potential, which showed through their actions. According to the participants, the encouragement and advice from these adults helped them realize the importance of education
+- Aside from the encouragement and motivation, the adults provided practical support that helped many of the care leavers with their education. 
+- The adults attended school events, contacted their teachers regularly to enquire about their progress, and used their own money to pay the school fees for some of the participants after they had left care
+- Others received support and motivation from informal sources such as their biological relatives
+- Another youth also explained that he was motivated to study harder and stay in school because his peers in care who attended university became his role models
 
 
 # Barriers to Academic Achievement
@@ -300,3 +299,4 @@ According to an articule that discusses development and implmentation of individ
 [^1]: [[A Brief Assessment of Learning for Orphaned and Abandoned Children in Low and Middle Income Countries]]
 [^2]: [[A Rough Guide to Individual Educational Planning (IEPs)]]
 [^3]: [[Educational Experiences of Care Leavers from Residential Care in Ghana]]
+[^4]: 
