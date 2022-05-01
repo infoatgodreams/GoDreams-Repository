@@ -30,8 +30,6 @@ Domain tags: [[Education]]
 
 ## Major Cognitive Interventions done till date
 
-
-
 * One such cognitive intervention consisted of computerized cognitive rehabilitation (CCRT) delivered in the child’s home in Uganda; it involved cognitive games designed to enhance spatial working memory, vigilance attention, and nonverbal reasoning. This intervention was meant to directly improve neurocognitive development.
 * Another intervention was also delivered in Uganda (Boivin et al., 2017); it relied on the Mediational Intervention for Sensitizing Caregivers (MISC), where caregivers are trained to enhance their children’s cognitive development by learning to focus their attention, providing meaning to their experiences, expanding (making them aware of how the learning experience transcends the present situation), encouraging (praising their accomplishment while explaining the reason for their success), and regulating (directing and shaping the child’s behavior according to task requirements).
 * Recent systematic review suggests that HIV OVCs experience cognitive delay and that cognitive (direct or indirect) interventions directed at either the child or caregiver have the potential to improve cognitive outcomes.
