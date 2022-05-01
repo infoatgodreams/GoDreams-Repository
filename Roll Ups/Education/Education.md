@@ -8,20 +8,23 @@ tags:
 # Major challenges of learning for OVC (Orphans and Vulnerable Children)
 - According to a report that looks at child performance in five different sites in developing countries[^1], The ill effects of being an orphaned or abandoned child (OAC) in a LMIC are reported to include fewer years of schooling, poorer school performance, poorer households, less adequate housing, increased malnutrition, higher morbidity and mortality, poorer access to medical care, and a higher prevalence of depression
 
-Pre-care:
-        * Many children, before they enter care, lag behind their peers academically because they have special educational needs due to their experiences of abuse, mental health issues, or disability. 
-        * In many African countries such as Cote D’Ivoire, many vulnerable children who enter care, including orphans and those living with a disability, are often excluded from education because of poverty, the need for labor or parental sickness or death
-    * In-care:
-        * Many young people in care experience frequent placement moves, affecting their school attendance and performance. 
-        * Also, carers and school teachers often have low expectations for young people in care and thus do not encourage them to pursue higher education 
-        * In developing countries, a significant obstacle to the education of children and young people in care is the financing arrangements of residential care facilities. Most facilities depend heavily on funding from donors and volunteers (Keshavarzian & Borgstr€om, 2020). While funds from donors allow the facilities to educate the children, it has its challenges 
-        * In India, young people in care often have to opt for vocational courses because the institutions have difficulty finding donors to fund expensive courses like medicine (Azam et al., 2019). 
-        * In addition, a growing phenomenon in Africa and Asia is orphanage tourism, where tourists and volunteers are allowed to visit and stay in care facilities for a fee or donation (Richter & Norman, 2010). However, some activities of the visitors disrupt the children’s education. For instance, the children sometimes miss school to rehearse and undertake performances to entertain donors visiting the residential facility (Islam, 2013). 
-        * In countries such as Bangladesh, Botswana and India, young people in or from residential care indicate facing stigma from school teachers and schoolmates because of their care or orphan background
-    * Aftercare: 
-        * Many young people have difficulty persisting with their education after leaving care. 
-        * Most African countries lack statutory after-care services and support for care leavers. 
-        * Without support, many care leavers in India, Zimbabwe, and Philippines face financial difficulties and the pressure to earn an income which forces them to postpone their education
+## Pre-care:
+- Many children, before they enter care, lag behind their peers academically because they have special educational needs due to their experiences of abuse, mental health issues, or disability. 
+- In many African countries such as Cote D’Ivoire, many vulnerable children who enter care, including orphans and those living with a disability, are often excluded from education because of poverty, the need for labor or parental sickness or death
+
+## In-care:
+- Many young people in care experience frequent placement moves, affecting their school attendance and performance.
+- Also, carers and school teachers often have low expectations for young people in care and thus do not encourage them to pursue higher education 
+- In developing countries, a significant obstacle to the education of children and young people in care is the financing arrangements of residential care facilities. Most facilities depend heavily on funding from donors and volunteers (Keshavarzian & Borgstr€om, 2020). While funds from donors allow the facilities to educate the children, it has its challenges 
+- In India, young people in care often have to opt for vocational courses because the institutions have difficulty finding donors to fund expensive courses like medicine (Azam et al., 2019). 
+- In addition, a growing phenomenon in Africa and Asia is orphanage tourism, where tourists and volunteers are allowed to visit and stay in care facilities for a fee or donation (Richter & Norman, 2010). 
+- However, some activities of the visitors disrupt the children’s education. For instance, the children sometimes miss school to rehearse and undertake performances to entertain donors visiting the residential facility (Islam, 2013).
+- In countries such as Bangladesh, Botswana and India, young people in or from residential care indicate facing stigma from school teachers and schoolmates because of their care or orphan background
+
+## Aftercare: 
+- Many young people have difficulty persisting with their education after leaving care. 
+- Most African countries lack statutory after-care services and support for care leavers. 
+- Without support, many care leavers in India, Zimbabwe, and Philippines face financial difficulties and the pressure to earn an income which forces them to postpone their education
 
 
 
