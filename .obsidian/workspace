@@ -63,11 +63,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e154e99fa257850e",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Education/Education.md",
+                "file": "Volume 3/Current Reality/International CCIs/A Brief Assessment of Learning for Orphaned and Abandoned Children in Low and Middle Income Countries.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,10 +102,10 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "65e53ba84e28ce1d",
+  "active": "e8ce7951cfb893e0",
   "lastOpenFiles": [
-    "Roll Ups/Education/Education.md",
     "Volume 3/Current Reality/International CCIs/A Brief Assessment of Learning for Orphaned and Abandoned Children in Low and Middle Income Countries.md",
+    "Roll Ups/Education/Education.md",
     "Volume 3/Care Standards/International - Services for CNCP/Educational intervention planning for children in foster care in Finland, A case study.md",
     "Volume 3/Current Reality/India CCIs/Alternative Care for Children, Udayan Care.md",
     "Volume 3/Current Reality/India CCIs/Alternative Care in India, Issues and Prospects.md",
