@@ -169,7 +169,7 @@ According to a paper on educational support for OVC in South Africa,
 * Supervision at home could include ensuring that children are encouraged to do home/schoolwork, observe personal hygiene, and that parents/guardians work hand in hand with teachers to ensure that OVC attend school regularly as these were major negative challenges reported to be influencing the education for OVC
 
 ## Gender
-
+According to a paper exploring factors associated with educational outcomes for OVC in India[^5], 
 * A situational analysis of education in India by USAID (2014) indicated that although primary school enrollment is high, the dropout rate for both boys and girls increases manifold when transitioning to higher-level classes. 
 * boys become more labor force Bready^ and are directed towards paid labor.
 * girls, the reasons for dropping out might include marriage, caretaking of younger siblings or ailing parents, and reservation of resources, among others.
@@ -179,7 +179,7 @@ According to a paper on educational support for OVC in South Africa,
 
 # Successful interventions in improving educational outcomes 
 ## Welcome policy changes 
-- According to a paper on educational support for orphans and vulnerable children in South Africa[^5], 
+- According to a paper on educational support for orphans and vulnerable children in South Africa[^4], 
 	- Our study revealed that the government through the implementation of a no fee policy in schools, enabled OVC to access their basic education. This was confirmed by 57 (88%) learners indicating that the government paid their fees and 48 (74%) learners indicating that this support enabled many of them to access education.
 	- Findings further revealed that schools through the government soup kitchens provided meals to OVC where 63 (96%) learners and 38 (90.5%) teachers confirmed this fact.
 
