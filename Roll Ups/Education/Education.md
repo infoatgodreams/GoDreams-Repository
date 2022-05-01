@@ -98,6 +98,11 @@ According to a paper on exploring factors associated with educational outcomes f
 * children who live in households that are headed by non-biologically related caregivers’ fare systematically worse than those living with biological parents.
 * participation in educational activities by orphans residing in resource-constrained households is considered a luxury. 
 * These children are often involved in paid or unpaid work and are deprived of educational opportunities due to disadvantages arising from the interaction between limited resources and relationship with the caregiver. 
+* Child education outcomes were significantly associated with caregiver’s health and education. This finding supports previous studies that indicate caregiver education and health are protective factors for children at risk.
+* Educated parents are more likely to understand the value of their children being educated and its long-term positive effects, irrespective of their socioeconomic status.
+* if the caregiver is in poor health, he/she is less likely to be working and providing for the children.
+*  children with ailing caregivers are more likely to drop out of school, and spend most of their time nursing the caregiver, or providing for the household.
+
 
 
 # Barriers to Academic Achievement
