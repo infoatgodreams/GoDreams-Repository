@@ -48,9 +48,6 @@ Domain tags: [[Education]]
 
 
 ## Characteristics of the Child:
-
-
-
 * Certain child characteristics also impact educational outcomes. These include age, gender, and health of the children.
 * In India, female children continue to be one of the most disadvantaged groups that are systematically left out of school due to fiscal constraints, safety, and perceived economic returns, among other reasons.
 * male children in low-income families, as compared to male children in higher-income families, are more likely to be involved in work as compared to being enrolled in school. 

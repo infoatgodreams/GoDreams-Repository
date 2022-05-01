@@ -72,6 +72,33 @@ From conversations with care-leavers in Ghana, we know that[^3]
 - Others received support and motivation from informal sources such as their biological relatives
 - Another youth also explained that he was motivated to study harder and stay in school because his peers in care who attended university became his role models
 
+## Stable caregivers
+According to a paper on exploring factors associated with educational outcomes for orphaned children in India[^5], 
+* Caregivers are the direct source of social and financial capital that ensures proper development of a child (Scott et al. 2013). 
+* They are also the means to transmit policies and programs in the larger ecosystem in order to support children in attaining their rights. 
+* Many studies have suggested that caregiver health and education are the most influential factors that impact a child’s educational outcome
+* Caregivers with higher levels of education are more likely to support school enrollment and retain children in school, despite monetary constraints
+* caregivers that have access to proper shelter, health care, food, and other basic assets have greater ability to provide good quality care to their children, thereby, improving the child’s education and health outcomes.
+* Along with low-socioeconomic status, certain social and cultural factors further reduce the capability of caregivers, including gender, caste, religion, land distribution, and geographical location (Tsujita 2013).
+
+## Characteristics of the Child:
+According to a paper on exploring factors associated with educational outcomes for orphaned children in India[^5], 
+* Certain child characteristics also impact educational outcomes. These include age, gender, and health of the children.
+* In India, female children continue to be one of the most disadvantaged groups that are systematically left out of school due to fiscal constraints, safety, and perceived economic returns, among other reasons.
+* male children in low-income families, as compared to male children in higher-income families, are more likely to be involved in work as compared to being enrolled in school. 
+* although more barriers exist for female children for school enrollment, their educational achievement tends to be higher as compared to boys
+* Age: While there has been an increase in primary school enrollment, UNICEF reports indicate that the secondary school enrollment rates in India still remain dismal.
+* India faces a high dropout rate when children are transitioning from primary school to higher levels of education.
+* a high proportion of students (15.9 %) drop out of school in grade 5 in India
+
+## Strong Relationship between Caregiver and Child:
+* The caregiver’s investment in the child’s education is based on the interplay of child, caregiver, and household characteristics
+* caregivers of HIV/AIDSaffected orphans in Sub-Saharan Africa face a heavy burden of financially supporting the orphans in addition to providing for their own families. 
+* In such circumstances, children that are not biologically related to the caregiver might face additional disadvantages as compared to those children that are biologically related.
+* children who live in households that are headed by non-biologically related caregivers’ fare systematically worse than those living with biological parents.
+* participation in educational activities by orphans residing in resource-constrained households is considered a luxury. 
+* These children are often involved in paid or unpaid work and are deprived of educational opportunities due to disadvantages arising from the interaction between limited resources and relationship with the caregiver. 
+
 
 # Barriers to Academic Achievement
 - Evidence from Ghanaian care-leaving research suggests that many young people who leave care experience challenges with employment, housing, and social integration (Frimpong-Manso, 2018). 
@@ -372,4 +399,5 @@ According to an articule that discusses development and implmentation of individ
 [^2]: [[A Rough Guide to Individual Educational Planning (IEPs)]]
 [^3]: [[Educational Experiences of Care Leavers from Residential Care in Ghana]]
 [^4]: [[Educational support for orphans and vulnerable children in primary schools, Challenges and interventions]]
-[^5]: 
+[^5]: [[Exploring Factors Associated with Educational Outcomes for Orphan and Abandoned Children in India]]
+[^6]: 
