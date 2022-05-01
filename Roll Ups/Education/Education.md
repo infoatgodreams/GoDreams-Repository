@@ -102,6 +102,8 @@ According to a paper on exploring factors associated with educational outcomes f
 * Educated parents are more likely to understand the value of their children being educated and its long-term positive effects, irrespective of their socioeconomic status.
 * if the caregiver is in poor health, he/she is less likely to be working and providing for the children.
 *  children with ailing caregivers are more likely to drop out of school, and spend most of their time nursing the caregiver, or providing for the household.
+* Results suggest that when caregivers have limited resources, their caretaking abilities are compromised, as they make choices about who to provide for and which household members have more value.
+* orphans in households with non-biological caregivers might be more engaged in paid work to generate additional income, or be involved in household chores to reserve resources rather than utilizing it for education related expenses.
 
 
 
