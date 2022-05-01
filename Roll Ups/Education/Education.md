@@ -114,7 +114,11 @@ From conversations with care-leavers in Ghana, we know that[^3]
 - Many of the participants indicated that once their mates found out they were from the children’s home, they experienced different forms of stigma, discrimination and social exclusion
 
 
-
+# Successful interventions in improving educational outcomes 
+## Welcome policy changes 
+- According to a paper on educational support for orphans and vulnerable children in South Africa[^5], 
+	- Our study revealed that the government through the implementation of a no fee policy in schools, enabled OVC to access their basic education. This was confirmed by 57 (88%) learners indicating that the government paid their fees and 48 (74%) learners indicating that this support enabled many of them to access education.
+	- Findings further revealed that schools through the government soup kitchens provided meals to OVC where 63 (96%) learners and 38 (90.5%) teachers confirmed this fact.
 
 # Individual Education Planning
 **Note: An IEP is often created by the teacher; but can be adapted to different settings**
