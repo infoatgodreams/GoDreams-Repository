@@ -5,8 +5,27 @@ tags:
 - Rollups
 ---
 
-# Major challenges of learning for OVC (Orphans and Vulnerable Children)
+
+# The value of educational support to OVC (Orphans and Vulnerable Children)
+According to a paper on the educational support for OVC in South Africa[^5], 
+* Education as recognised in the convention on the rights of the child is a basic human right for all children (Committee on the Rights of the Child, 1989). A child who has access to quality primary schooling has a better chance in life. 
+* A child who knows how to read and write and do basic arithmetic has a solid foundation for continued learning throughout life (USAID & CRS, 2008).
+* They further observe that education benefits individuals and the whole nation as a major instrument for social and economic development (USAID & CRS, 2008)
+* Hallfors et al (2011) pointed out that supporting adolescent girls to stay in school increases their chances of remaining in school, hence reducing chances of contracting HIV through early marriage. This intervention further reduces chances of girls dropping out of school
+* Kelly (2002) maintained that formal school education is a powerful tool for transforming\ poverty in an environment where HIV/AIDS are rampart. He further argued that growth in education may positively influence growth out of poverty.
+* Schools not only benefit the child but can serve as important resource centres to meet the broader needs of the community (PEPFAR, 2006). “Education is likely to lead to employability and can foster a child developing a sense of competence” (PEPFAR, 2006, p. 9). 
+* However, Wood and Goba (2011) in their study noted that teachers perceived themselves as not adequately prepared to deal with issues affecting OVC.
+* USAID and CRS (2008) point out that basic education in primary and secondary levels contribute to the reduction of poverty. It increases labour productivity, improves health and enables people to participate fully in the economy and the development of their societies.
+* Thus OVC need educational interventions as they are at risk of becoming infected with HIV due to economic hardships, reduced parental care and protection and increased susceptibility to abuse, and exploitation.
+
+
+# Major challenges of learning for OVC 
 - According to a report that looks at child performance in five different sites in developing countries[^1], The ill effects of being an orphaned or abandoned child (OAC) in a LMIC are reported to include fewer years of schooling, poorer school performance, poorer households, less adequate housing, increased malnutrition, higher morbidity and mortality, poorer access to medical care, and a higher prevalence of depression
+- According to a paper on the educational support for OVC in South Africa, we learn about the following struggles[^5]
+	- Due to HIV/AIDS, the traditional structure of households is changing in affected communities, leaving vulnerable children to adapt to non-traditional families and poverty (Ebersohn & Eloff, 2002). Ebersohn and Eloff note that when parents die, some orphans are left under the care of aged grandparents or under older siblings to care for them.
+	* Fleming further argued that maternal and double orphans are more discriminated against in accessing education than paternal orphans (Fleming, 2015; Case et al, 2004).
+	* Vulnerable children from child-headed households are burdened with domestic and economic responsibilities, which in turn affect their participation in education in relation to attend and succeed in school (Fleming, 2015).
+	* As the number of OVC grows, communities become less and less capable of addressing all their basic needs, including their ability to go to school (UNICEF, 2009)
 
 - According to a paper on educational experiences of care leavers from Ghana, these are the following factors that affect educational attainment[^3], 
 ## Pre-care:
@@ -300,4 +319,5 @@ According to an articule that discusses development and implmentation of individ
 [^1]: [[A Brief Assessment of Learning for Orphaned and Abandoned Children in Low and Middle Income Countries]]
 [^2]: [[A Rough Guide to Individual Educational Planning (IEPs)]]
 [^3]: [[Educational Experiences of Care Leavers from Residential Care in Ghana]]
-[^4]: 
+[^4]: [[Educational support for orphans and vulnerable children in primary schools, Challenges and interventions]]
+[^5]: 
