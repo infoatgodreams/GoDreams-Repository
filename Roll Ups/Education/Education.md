@@ -113,6 +113,8 @@ From conversations with care-leavers in Ghana, we know that[^3]
 	- Dora said, “The teachers referred to children from the children’s home as ‘our children,’ and they also separated our exam results from those of the other students.” 
 - Many of the participants indicated that once their mates found out they were from the children’s home, they experienced different forms of stigma, discrimination and social exclusion
 
+## Poor teaching support
+
 
 # Successful interventions in improving educational outcomes 
 ## Welcome policy changes 
