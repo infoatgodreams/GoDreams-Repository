@@ -18,6 +18,14 @@ According to a paper on the educational support for OVC in South Africa[^5],
 * USAID and CRS (2008) point out that basic education in primary and secondary levels contribute to the reduction of poverty. It increases labour productivity, improves health and enables people to participate fully in the economy and the development of their societies.
 * Thus OVC need educational interventions as they are at risk of becoming infected with HIV due to economic hardships, reduced parental care and protection and increased susceptibility to abuse, and exploitation.
 
+According to a paper on educational intervention planning for children in care[^14], 
+- Youth that left long term foster care after age 17 have been disadvantaged fivefold; 
+	- firstly because of their higher risk of poor grades in primary school, 
+	- secondly because they received lower grades than other children with the same cognitive capacity, 
+	- thirdly because they got a lower education than peers with similar cognitive capacity (results on males only in Vinnerljung et al., 2010), 
+	- fourthly because they got lower education than peers with the same average grades from primary school; 
+	- and fifthly because of their lower chance of achieving a secondary education when grades were poor, e.g. through use of adult education opportunities.
+
 According to a paper on the educational outcomes of children in care, 
 - In the UK, it is evident that looked after children were being failed by the education system as far back as the 1980s. When data started to be collected, the clearest indicator of this was the number of children leaving care with no school qualifications of any kind (Jackson et al., 2005). 
 * A 2008 literature review published in the USA found that children in OHC demonstrated several academic risks, which was partly caused by multiple disruptions in schooling due to changes in placements
@@ -793,4 +801,5 @@ According to Rainbow Homes, CCIs need the following facilities
 [^10]: [[Home or Care? A Comparison of Educational Outcomes for Maltreated Children]]
 [^11]: [[Guidelines for Institutional Childcare, Ethiopia]]
 [^12]: [[Boarding and Day School Students A Large-Scale Multilevel Investigation of Academic Outcomes Among Students and Classrooms.]]
-[^13]: 
+[^13]: [[Educational intervention planning for children in foster care in Finland, A case study]]
+[^14]: 
