@@ -111,7 +111,7 @@ According to paper on the educational outcomes of children in care[^6]
 -  Many children have experienced significant trauma, and this can have long-term impact on educational engagement and outcomes.
 
 ## Poor teaching support
-According to a paper on educational support for OVC in South Africa, 
+According to a paper on educational support for OVC in South Africa[^14], 
 * Findings from our study indicated that the challenges deterring teachers from supporting OVC include lack of sufficient time for individual attention to OVC. As one teacher said, “we have no sufficient time to support individual children”
 * Reading and writing were other challenges that OVC struggled with. Twenty six (40%) learners reported that they were not able to write like other children while 14 (23%) indicated they were not able to read like others.
 * This challenge could be connected to lack of sufficient time for teachers to attend to learners individually, leaving OVC struggling on their own.
@@ -734,4 +734,4 @@ According to Rainbow Homes, CCIs need the following facilities
 [^11]: [[Guidelines for Institutional Childcare, Ethiopia]]
 [^12]: [[Boarding and Day School Students A Large-Scale Multilevel Investigation of Academic Outcomes Among Students and Classrooms.]]
 [^13]: [[Educational intervention planning for children in foster care in Finland, A case study]]
-[^14]: 
+[^14]: [[Orphans and vulnerable children, Trends in School Access and Experience in Eastern and Southern Africa]]
