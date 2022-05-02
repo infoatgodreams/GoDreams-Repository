@@ -6,14 +6,15 @@ tags:
 ---
 
 
+# Why is education important for OVC?(Orphans and Vulnerable children)
 
-# The value of educational support to OVC (Orphans and Vulnerable Children)
 According to a paper on the educational support for OVC in South Africa[^5], 
-* Education as recognised in the convention on the rights of the child is a basic human right for all children (Committee on the Rights of the Child, 1989). A child who has access to quality primary schooling has a better chance in life. 
-* A child who knows how to read and write and do basic arithmetic has a solid foundation for continued learning throughout life (USAID & CRS, 2008).
+* Education as recognised in the convention on the rights of the child is **a basic human right for all children** (Committee on the Rights of the Child, 1989). 
+* A child who has access to quality primary schooling has a **better chance in life.** 
+* A child who knows how to read and write and do basic arithmetic has a **solid foundation for continued learning** throughout life (USAID & CRS, 2008).
 * They further observe that education benefits individuals and the whole nation as a major instrument for social and economic development (USAID & CRS, 2008)
-* Hallfors et al (2011) pointed out that supporting adolescent girls to stay in school increases their chances of remaining in school, hence reducing chances of contracting HIV through early marriage. This intervention further reduces chances of girls dropping out of school
-* Kelly (2002) maintained that formal school education is a powerful tool for transforming\ poverty in an environment where HIV/AIDS are rampart. He further argued that growth in education may positively influence growth out of poverty.
+* Hallfors et al (2011) pointed out that supporting adolescent girls to stay in school increases their chances of remaining in school, **hence reducing chances of contracting HIV through early marriage**. This intervention further reduces chances of girls dropping out of school
+* Kelly (2002) maintained that formal school education is a powerful tool for transforming poverty in an environment where HIV/AIDS are rampart. He further argued that growth in education may positively influence growth out of poverty.
 * Schools not only benefit the child but can serve as important resource centres to meet the broader needs of the community (PEPFAR, 2006). “Education is likely to lead to employability and can foster a child developing a sense of competence” (PEPFAR, 2006, p. 9). 
 * However, Wood and Goba (2011) in their study noted that teachers perceived themselves as not adequately prepared to deal with issues affecting OVC.
 * USAID and CRS (2008) point out that basic education in primary and secondary levels contribute to the reduction of poverty. It increases labour productivity, improves health and enables people to participate fully in the economy and the development of their societies.
