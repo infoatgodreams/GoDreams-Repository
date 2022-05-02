@@ -43,8 +43,31 @@ According to a paper that compared outcomes of maltreated children in foster/hom
 - Others have compared them to children involved with child welfare services who remain at home, with an early English study finding that foster children performed no worse than a comparison group receiving social work support in the community. It concluded that, whilst care did not appear to compensate children for prior educational disadvantage, nor was it the cause of their poor educational achievement
 
 
+## Learnings from boarding schools
+
+From a study on boarding and day school students, we know that[^12]
+* boarding students were more likely to report they were satisfied with their academic experience and were more likely to report that school prepared them for college.
+* boarding instills independence and acceptance of cultural diversity.
+* boarding for disadvantaged students enhanced their exposure to social and educational capital.
+* found predominant parity between boarding and day students (described below), but where small effects were identified, they favored boarders.
+* potentially positive outcomes for boarding students.
+*  research documenting negative effects of boarding for some children. mental health and wellbeing among high school boarders (boys) as they transitioned to and into boarding school.
+* They found increases in emotional problems among boarding students over time. 
+* They also found that academic motivation declined over time; however, this was the case for both boarders and day students. 
+* boarding and day students reported increases in depression, anxiety, and emotional symptoms between Grades 7 and 9, but that boarding students reported higher levels of anxiety and stress than day students at the end of Grade 8. 
+* It has also been documented how some boarding schools are contexts perpetuating institutional and societal power structures and problematic ideologies—such as those around gender
+* After controlling for background and personality attributes, we found predominant parity between boarding and day students in their motivation, engagement, and achievement. 
+* We also found that motivation, engagement, and achievement at the class-level were not significantly affected by the number of boarders in the classroom. 
+* In addition, the effects of boarding were generally not moderated by students’ background or personality attributes.
 
 
+## Null Boarding Effects 
+
+* there is not a major difference in educational outcomes when comparing boarding and day school students. 
+* relatively few differences (with small effect sizes) in academic wellbeing (e.g., domain-general academic motivation and engagement) and personal wellbeing.
+* no major changes in self-concept through this transition. 
+* found that disadvantaged students in boarding initially experienced low levels of wellbeing, but their wellbeing adjusted during their boarding experience. 
+* They also found boarders experienced academic gains 2 years after commencing boarding, but this effect did not generalize across students.
 
 # Major challenges of learning for OVC 
 - According to a report that looks at child performance in five different sites in developing countries[^1], The ill effects of being an orphaned or abandoned child (OAC) in a LMIC are reported to include fewer years of schooling, poorer school performance, poorer households, less adequate housing, increased malnutrition, higher morbidity and mortality, poorer access to medical care, and a higher prevalence of depression
@@ -769,4 +792,5 @@ According to Rainbow Homes, CCIs need the following facilities
 [^9]: [[Improving foster children´s school performance, a replication of the Helsingborgs study]]
 [^10]: [[Home or Care? A Comparison of Educational Outcomes for Maltreated Children]]
 [^11]: [[Guidelines for Institutional Childcare, Ethiopia]]
-[^12]: 
+[^12]: [[Boarding and Day School Students A Large-Scale Multilevel Investigation of Academic Outcomes Among Students and Classrooms.]]
+[^13]: 
