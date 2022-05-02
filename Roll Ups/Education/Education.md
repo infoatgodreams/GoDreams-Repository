@@ -618,7 +618,23 @@ According to Rainbow homes, the four-five hours after school have to be split ac
 
 ## Role of teacher in CCI
 According to Rainbow Homes, the teacher at a CCI plays the following roles:
-- To
+- To teach primary level bridge course to children who need to become academically ready for school, to engage in age appropriate schooling 
+- To help children build proficienncy in EngLISH
+- To help children in high levels in school -Class V and above with subject specific expertise in Math, Science and Social Studies 
+- Support children with special needs and learning disabilities. 
+- While working with younger children, the teacher is also responsible for helping the younger kids inculcate good habits 
+- Manage the classroom/ study room by bringing in a formal atomosphere- put up charts, use teaching aids, etc.
+- Setting a learning schedule for the children 
+- Working on the Individual Education Plan for each child in the CCI
+
+## Facilities to support educational outcomes 
+According to Rainbow Homes, CCIs need the following facilities 
+- A TV and DVD player to show documentaries or use Computer Aided Learning 
+- A portable music player 
+- A laptop/PC, preferably in sufficient numbers to support digital learning in a Computer Room
+- An LCD or Projector screen
+- Reading material like books, magazines, newspapers, newsletters and reference books based on age differentiation
+
 
 
 
