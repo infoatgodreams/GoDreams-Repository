@@ -582,6 +582,21 @@ According to an articule that discusses development and implmentation of individ
 ### Start with small number of children:
 - Introducing IEPs at first can be daunting, but getting started, even with a small number of students, is the key. It is hoped that this article is helpful in giving some encouragement and practical guidance.
 
+# Education in CCIs
+## Principles of guiding education for children in CCIs
+- All children are capable of being educated and learn
+- All children have a rich body of natural knowledge acquired before the school process which helps them make sense of a new learning
+- Children learn best when they learn in groups and interact with each other and with life around them 
+- Children need to be deeply invested to one or two individuals for their own sense of emotional well-being and security and this feeling of being emotionally nurtured is key for learning 
+- Learning takes place in an environment free of fear.
+- All children will be in school, without exception
+- Each child will be taken care of until they become financially and socially independent 
+
+## Comprehensive education
+
+
+
+
 
 # Practices in the CCI
 - Miracle foundation[^9] recommends the following educational practices in the home
