@@ -16,6 +16,18 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "f476e3d9c103ed82",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Volume 3/Current Reality/International CCIs/The educational outcomes of children in care, a scoping review.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Education/Education.md",
+                "file": "Volume 3/Current Reality/International CCIs/The educational outcomes of children in care, a scoping review.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,17 +102,17 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "65e53ba84e28ce1d",
+  "active": "f476e3d9c103ed82",
   "lastOpenFiles": [
+    "Volume 3/Current Reality/International CCIs/The educational outcomes of children in care, a scoping review.md",
     "Roll Ups/Education/Education.md",
+    "Volume 1/Current Reality/International CCIs/The Impact of Institutionalization on Child Development_Kim Mclean.md",
     "Volume 3/Care Standards/International - Service Providers to CCIs/Factors influencing performance of orphans and vulnerable children, programmes in Kenya, A case of unbound project in Tharka Nithi County in Kenya.md",
     "Volume 3/Care Standards/International - Services for CNCP/Systematic review of educational interventions for looked-after children and young people, Recommendations for intervention development and evaluation.md",
     "Volume 3/Current Reality/India CCIs/Exploring Factors Associated with Educational Outcomes for Orphan and Abandoned Children in India.md",
     "Volume 3/Care Standards/International - Services for CNCP/Educational support for orphans and vulnerable children in primary schools, Challenges and interventions.md",
     "Volume 3/Care Standards/Associated sector innovations/Boarding and Day School Students A Large-Scale Multilevel Investigation of Academic Outcomes Among Students and Classrooms..md",
     "Volume 3/Current Reality/International CCIs/Exploring diversity in the educational pathways of care-experienced adults, Findings from a life course study of education and care.md",
-    "Volume 3/Care Standards/International - Services for CNCP/Educational intervention planning for children in foster care in Finland, A case study.md",
-    "Volume 3/Care Standards/International CCIs/Educational Experiences of Care Leavers from Residential Care in Ghana.md",
-    "Volume 3/Care Standards/International - Services for CNCP/Cognitive and Educational Interventions for Orphans and VulnerableChildren Affected by HIV AIDS, A Meta-Analysis.md"
+    "Volume 3/Care Standards/International - Services for CNCP/Educational intervention planning for children in foster care in Finland, A case study.md"
   ]
 }

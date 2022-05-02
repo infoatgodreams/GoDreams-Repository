@@ -18,6 +18,14 @@ According to a paper on the educational support for OVC in South Africa[^5],
 * USAID and CRS (2008) point out that basic education in primary and secondary levels contribute to the reduction of poverty. It increases labour productivity, improves health and enables people to participate fully in the economy and the development of their societies.
 * Thus OVC need educational interventions as they are at risk of becoming infected with HIV due to economic hardships, reduced parental care and protection and increased susceptibility to abuse, and exploitation.
 
+According to a paper on the educational outcomes of children in care, 
+- In the UK, it is evident that looked after children were being failed by the education system as far back as the 1980s. When data started to be collected, the clearest indicator of this was the number of children leaving care with no school qualifications of any kind (Jackson et al., 2005). 
+* A 2008 literature review published in the USA found that children in OHC demonstrated several academic risks, which was partly caused by multiple disruptions in schooling due to changes in placements
+* Research also indicates that children in care in Canada have poorer educational outcomes than their same age peers (Dill et al., 2012; Flynn et al., 2012)
+* Australian Institute of Health and Welfare (AIHW) data has long indicated that children in care have lower reading and numeracy test scores than their peers (AIHW, 2007; 2011). A 2007 study looked at 47 young people discharged from care in NSW in the 1990s. The study found that these young people were half more likely to have finished Year 12 than their peers in the general population. Almost 20% of the care leavers involved in the study had not completed Year 10 (Cashmore et al., 2007).
+* An important finding is that some young people in OHC do have successful educational outcomes. They are the young people who are participating in or have completed a post-secondary qualification at university or other institution. 
+
+
 
 # Major challenges of learning for OVC 
 - According to a report that looks at child performance in five different sites in developing countries[^1], The ill effects of being an orphaned or abandoned child (OAC) in a LMIC are reported to include fewer years of schooling, poorer school performance, poorer households, less adequate housing, increased malnutrition, higher morbidity and mortality, poorer access to medical care, and a higher prevalence of depression
@@ -47,6 +55,8 @@ According to a paper on the educational support for OVC in South Africa[^5],
 - Without support, many care leavers in India, Zimbabwe, and Philippines face financial difficulties and the pressure to earn an income which forces them to postpone their education
 
 ## Facilitators of Academic success:
+
+*According to a paper on the educational outcomes of children in care[^7], There are common themes among those who have done well. These include good relationships with and support from key adults, and a sense of resilience combined with high aspirations and persistence. A stable placement while attending a good school in the final years of secondary education also helps.* 
 
 From conversations with care-leavers in Ghana, we know that[^3]
 * The factors identified in various studies as contributing to the educational success of care leavers include:
@@ -147,6 +157,12 @@ According to a paper on exploring factors associated with educational outcomes f
 	- Dora said, “The teachers referred to children from the children’s home as ‘our children,’ and they also separated our exam results from those of the other students.” 
 - Many of the participants indicated that once their mates found out they were from the children’s home, they experienced different forms of stigma, discrimination and social exclusion
 - Low self-esteem among OVC was found to be a contributing factor to poor performance in education as T6SA said “self-esteem is … related to low morale and their performances are disturbed”.
+
+## Impact of social deprivation and trauma:
+According to paper on the educational outcomes of children in care
+- Children and young people in care have almost universally had a difficult start in life. 
+- Most children in care are from socially disadvantaged backgrounds, often from families with high numbers of contacts with mental health and alcohol and other drug treatment services. 
+-  Many children have experienced significant trauma, and this can have long-term impact on educational engagement and outcomes.
 
 ## Poor teaching support
 According to a paper on educational support for OVC in South Africa, 
@@ -409,4 +425,5 @@ According to an articule that discusses development and implmentation of individ
 [^3]: [[Educational Experiences of Care Leavers from Residential Care in Ghana]]
 [^4]: [[Educational support for orphans and vulnerable children in primary schools, Challenges and interventions]]
 [^5]: [[Exploring Factors Associated with Educational Outcomes for Orphan and Abandoned Children in India]]
-[^6]: 
+[^6]: [[The educational outcomes of children in care, a scoping review]]
+[^7]: 
