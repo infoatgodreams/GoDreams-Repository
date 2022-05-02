@@ -184,6 +184,34 @@ According to a paper on educational support for OVC in South Africa,
 * Bronfenbrenner (1979) identified the home as the microsystem where children are socialised to learn how to interact with other social agents in society. Supervision of children by parents/guardians ensures that children become responsible and are not rendered vulnerable to the law by becoming violent to other children or by destroying property (Sund, 2006). 
 * Supervision at home could include ensuring that children are encouraged to do home/schoolwork, observe personal hygiene, and that parents/guardians work hand in hand with teachers to ensure that OVC attend school regularly as these were major negative challenges reported to be influencing the education for OVC
 
+## School disruption and absenteeism
+- The impact of the school disruption often caused by placement changes is another theme addressed in several studies. This is a contested topic, with some research showing multiple school changes contribute to poor educational outcomes, and other studies showing they have negligible impact. 
+- Lima et al. (2018) found that young people in care with more than five placements were more likely to have poorer educational outcomes than those with fewer than five placements 
+- Research focussing on care leavers described school changes as a problem (Harvey et al., 2017), which is supported by evidence from an international scoping review (Luke &O’Higgins, 2018) which found that multiple placements are detrimental to educational outcomes.
+- Research focusing on the opinions and views of children and young people indicates that school changes are an issue for them because it disrupts relationships with their peers and teachers and influences both their experience and engagement of school. Chronic disengagement is a key factor in absenteeism, which is another issue raised in some studies (Association of Children’s Welfare Agencies [ACWA].
+- In contrast, other studies showed that children in care had better attendance than their vulnerable peers, and that regular school attendance is a key protective factor for educational outcomes.
+- The evidence suggests that regardless of outcomes measured by test results, children and young people usually find placement and school changes disruptive and upsetting, particularly in the final years of schooling. 
+- Placement changes and associated issues of school disruption and absenteeism are often due to issues within the care or education systems or lack of integration between them
+
+## Care and education system
+- Some authors noted issues within schools including the lack of implementation of Individual Education Plans (IEP) and the lack of skills among school staff to support children with complex trauma backgrounds
+- Research also highlights issues in the care system, including a lack of support and training, inclusion in planning for carers, training for caseworkers. Other issues include unclear funding guidelines, poor communication between agencies and inadequate education resources. 
+- Caseworkers raised issues around lack of time spent with children due to the reactive and regulatory focus of their work, also reporting that their emphasis was on the psychological needs of young people rather than education
+- A number of studies reported that children and young people in care were concerned they weren’t being listened to or involved in decision making about education or things that affected their education. Other authors noted a lack of integration between the care and education systems and how this negatively impacts on education.
+
+## Managing transitions
+- The research suggests there are issues at each level of educational transitions. 
+- Research on Australian care leavers emphasised the need for further support beyond the age of 18 and positive interventions to make the transition to tertiary study easier. 
+- Other issues include the need for care leavers transitioning to university to be included in equity frameworks, and the need for better data collection about care leavers.
+
+## Importance of relationship and agency
+- Many of the papers stress the importance of a good relationship with at least one supportive adult. Other themes emerging included relationships being the most significant influence in career development for young people and the importance in a young person’s life of a relationship with a significant adult who values learning and provides emotional support to the young person.
+- An international review suggests that caregiver involvement in schooling is associated with better outcomes.
+- Relationships with key adults can contribute to building resilience in young people with adverse experiences 
+- One study found that many young people regarded their own efforts as central to their possible success. In another study, individual agency was a key theme. Many young people took an active role in their educational progress and felt it was up to them.
+- Matheson’s(2016) study directly addresses personal factors and found that care leavers in tertiary education had high aspirations and a sense of resilience, although many also felt luck played a role in their educational success. 
+- Key themes from two further studies were the student’s sense of resilience and their motivation and determination to succeed.
+
 ## Gender
 According to a paper exploring factors associated with educational outcomes for OVC in India[^5], 
 * A situational analysis of education in India by USAID (2014) indicated that although primary school enrollment is high, the dropout rate for both boys and girls increases manifold when transitioning to higher-level classes. 
@@ -194,6 +222,16 @@ According to a paper exploring factors associated with educational outcomes for 
 
 
 # Successful interventions in improving educational outcomes 
+
+## Principles of improving educational outcomes for CNCP
+According to. apaper on the educational outcomes of children in care[^6], 
+
+* Stigma and low expectations can perhaps be best addressed through awareness raising and better education of agency and school staff. 
+* School disruption and other issues raised in the literature tend to reflect issues in the care systems and the way resources are allocated, managed and prioritised. 
+* Much of the research includes recommendations about providing better services to young people by better training of staff, stabilising placements, reviewing corporate parenting practices, better integration of the care and education systems, valuing education and providing more support for young people transitioning out of the care system
+* There is a need for all workers in the sector to be aware of and trained to manage the ongoing impacts of trauma on children and young people in care. 
+* Workers should also try to minimise placement changes that lead to school disruption, especially in the final years of school. They should contribute to a culture that values education, supports young people to build resilience and has high expectations of them.
+* The findings of this scoping review are not new findings. The 2010 report which informed the National Standards for OHC raised similar issues around stability, supporting transition from care, better training and support for carers and workers, improvements in practice and relationships, more inclusive decision making and improved access to support services. 
 ## Welcome policy changes 
 - According to a paper on educational support for orphans and vulnerable children in South Africa[^4], 
 	- Our study revealed that the government through the implementation of a no fee policy in schools, enabled OVC to access their basic education. This was confirmed by 57 (88%) learners indicating that the government paid their fees and 48 (74%) learners indicating that this support enabled many of them to access education.
@@ -224,6 +262,77 @@ According to a paper exploring factors associated with educational outcomes for 
 * PEPFAR (2006) maintained that supporting families helps build a protective environment for vulnerable children. Krishnan (2010) also pointed out that what happens in a microsystem such as home where a child lives, could influence what happens in the school and vice versa. It is imperative therefore, that capacity building for guardians/parents on the importance of supporting children under their care while at home and in school is an option that cannot be overlooked.
 * Regular home visits by social workers was another strategy deemed to be supportive especially for social workers to identify the various needs of OVC alongside the needs of parents/guardians with a view of identifying the appropriate ways of meeting those needs.
 * Identifying needy guardians/parents for OVC and providing them with social grants was another strategy cited to ensure that they are able to purchase necessities for these children to promote their personal hygiene.
+
+### Kids in Transition to School
+
+- The intervention was delivered within the school setting
+- This is a classroom-based program delivered 2 months prior to kindergarten entry and during the first 2 months of school.
+- Children attend 24 sessions that address early literacy skills, prosocial skills, and self-regulatory activities. 
+- Sessions comprise 12–15 children and are delivered for a period of 2 hours, twice weekly in the first phase, and once weekly in the second phase. 
+- Carers attend eight parallel meetings intended to develop their capacity to support the child in practicing new skills, routines, and behavior. 
+- Child sessions are delivered by a graduate-level teacher and two assistant teachers, and the carer group is delivered by a facilitator and assistant, with all completing a standardized 40-hour training program. 
+- Participants also receive supplemental materials to support the implementation of new skills.
+
+#### Results
+* measured early literacy skills in children aged six and under, finding a small effect of 0.26.
+
+
+##### Early Start to Emancipation Preparation (ESTEP) programme 
+
+- The intervention was delivered in the care setting, where undergraduate and graduate students are the delivery agents.
+- Young people meet with a tutor twice a week within the care setting and receive up to 50 hours of tutoring in a math, spelling, reading, and vocabulary curriculum.
+- Tutors receive one day of training on commencement of the intervention and ongoing development twice a year.
+- A mentoring relationship is also anticipated, with youth acquiring the skills and experience to develop healthy relationships. 
+
+
+##### Teach Your Children Well (TYCW) approach
+
+- The interventions were delivered by carers within the care setting.
+- The individual-level Teach Your Children Well focuses on direct one-to-one instruction by trained foster carers.
+- Intervention includes 3 hours of instruction per week, comprising 2 hours one-to-one instruction in reading, 30 minutes reading aloud by the foster child, and 30 minutes self-paced instruction in maths. The small-group-based Teach Your Children Well involves one or two trained university students delivering the curriculum to 3–4 children.
+- The duration is 25 weeks-30 weeks
+
+#### Results
+* Reported positive effects on sentence comprehensio and math computation. There was no significant impact on word reading or spelling.
+* It was reported that single children had significant improvements in word reading, sentence comprehension, reading composite, and maths, while sibling pairs only indicated significance for math computation.
+* The evaluation found that ADHD, mental health, internalized and externalized behaviors, as defined by the Child Behavior Checklist, moderated the relationship between the intervention and academic skills.
+
+
+##### Multidimensional Treatment Foster Care for Adolescents (MTFC-A) 
+
+- Delivers training and supervision to specialist foster parents for a nine-month period, with a short period of aftercare.
+- There is also the Multidimensional Treatment Foster Care (MTFC) intervention which caters to young girls leaving the juvenile system. The intervention involves moving into a specialist foster placement for an average duration of 174 days.
+
+
+##### The Letterbox Club 
+
+- This intervention was delivered in the care setting, but there was no delivery agent and the learning was child-led. 
+- It is a gifting intervention that provides personalized educational resources to children in foster care, with resources including books, stationary items and mathematical games.
+- Parcels are delivered to the child on a monthly basis over a six-month period. The intervention does not rely on, expect or demand foster carer involvement.
+
+
+##### Head Start 
+- This is non -standardized in its setting, delivery agent, and duration.
+- It is a holistic, wraparound set of services intended to support disadvantaged pre-school-age children. 
+
+#### Results
+* also found an effect at 6 months post-baseline (ß = 0.16, p = 0.02) which was reported as significant. 
+* At 18 months post-baseline there was no significant direct intervention effect, but there was a modest indirect effect, with gains in pre-academic skills, the establishment of positive teacher-child relationships and change in behaviour problems during Head Start predicting higher pre-academic skills in the following year.
+* Head Start, measured teacher-student relationships. At six months post-baseline there was a significant effect for the intervention
+
+
+##### The Fostering Individualized Assistance Program (FIAP)
+- It is delivered by family specialists who serve as family-centered, clinical case managers and home-based counselors working across all settings in tailoring services for individual children.
+- On receipt of a referral, the specialist advises the welfare agency, advocates for the young person, and investigates alternative school options.
+
+
+##### The Way Home
+
+- The intervention was delivered to young people who had left residential care.
+- It is a 12-month intervention to support the transition of youth with or at risk of disabilities as they reintegrate into the home following a stay in out-of-home care. 
+- Each family is assigned a trained family consultant who delivers the majority of the intervention.
+- The program integrates three interventions. Over the duration of the intervention family consultants spend approximately 138 hours with each family.
+
 
 ## Individual Education Planning
 **Note: An IEP is often created by the teacher; but can be adapted to different settings**
