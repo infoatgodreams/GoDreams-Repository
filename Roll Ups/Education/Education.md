@@ -554,7 +554,16 @@ According to an articule that discusses development and implmentation of individ
 - Introducing IEPs at first can be daunting, but getting started, even with a small number of students, is the key. It is hoped that this article is helpful in giving some encouragement and practical guidance.
 
 
-
+# Practices in the CCI
+- Miracle foundation[^9] recommends the following educational practices in the home
+	- hiring of qualified coaching teachers,who provided critical education support to children after school hours.  
+	- activity-based teaching and learning method, story pedagogy,effective lesson-planning and classroom management. 
+	- Aptitude testing and career 
+	- counselling were conducted for children in class 10th & above by Miracle’s network of experts and consultants. 
+	- adult transition planning of the children’s home aimed at supporting the children beyond 18 years of age until they become independent adults with selected opportunities, scholarship programmes for advanced education or vocational training,university academic education, professional courses that best suits each child’saptitudes and interests.
+	- Children participation through children’s committees
+	- on topics like discipline, health and hygiene and sports and recreation was a new learning for the children and staff.
+	- child-to-child, mentorship programme was introduced in the home, where eachof the older children had one or two younger children under his or her support and observation.
 
 
 
@@ -571,4 +580,5 @@ According to an articule that discusses development and implmentation of individ
 [^5]: [[Exploring Factors Associated with Educational Outcomes for Orphan and Abandoned Children in India]]
 [^6]: [[The educational outcomes of children in care, a scoping review]]
 [^7]: [[Systematic review of educational interventions for looked-after children and young people, Recommendations for intervention development and evaluation]]
-[^8]: 
+[^8]: [[Miracle Foundation_Institutionalised Children_Explorations and Beyond]]
+[^9]: 
