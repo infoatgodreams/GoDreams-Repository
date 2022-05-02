@@ -16,18 +16,6 @@
           },
           "pinned": true
         }
-      },
-      {
-        "id": "ed76fa6659438741",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Volume 3/Care Standards/International - Service Providers to CCIs/Factors influencing performance of orphans and vulnerable children, programmes in Kenya, A case of unbound project in Tharka Nithi County in Kenya.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -85,14 +73,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 3/Care Standards/International - Service Providers to CCIs/Factors influencing performance of orphans and vulnerable children, programmes in Kenya, A case of unbound project in Tharka Nithi County in Kenya.md",
+                "file": "Roll Ups/Education/Education.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -102,17 +90,17 @@
     "direction": "horizontal",
     "width": 301
   },
-  "active": "ed76fa6659438741",
+  "active": "65e53ba84e28ce1d",
   "lastOpenFiles": [
-    "Volume 3/Care Standards/International - Service Providers to CCIs/Factors influencing performance of orphans and vulnerable children, programmes in Kenya, A case of unbound project in Tharka Nithi County in Kenya.md",
     "Roll Ups/Education/Education.md",
-    "Volume 3/Current Reality/International CCIs/From Care to Education and Work? Education And Employment Trajectories in Early Adulthood by Children in Out Of Home Care.md",
-    "Volume 1/Care Standards/International - Govts, UN & World Bodies/Global Childhood Report 2021.md",
-    "Volume 3/Current Reality/International CCIs/Home or Care? A Comparison of Educational Outcomes for Maltreated Children.md",
     "Volume 3/Care Standards/International - Services for CNCP/Cognitive and Educational Interventions for Orphans and VulnerableChildren Affected by HIV AIDS, A Meta-Analysis.md",
-    "Volume 3/Care Standards/International - Service Providers to CCIs/Improving foster children´s school performance, a replication of the Helsingborgs study.md",
-    "Volume 1/Care Standards/International CCIs/Irvington HouseGrowth Potential of Pre-school aged children in institutional care.md",
-    "Volume 1/Care Standards/International - Govts, UN & World Bodies/Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Miracle Foundation/Miracle Foundation_Institutionalised Children_Explorations and Beyond.md"
+    "Volume 2/Current Reality/International CCIs/Institutionalisation and Deinstitutionalisation, a systematic review of evidence on its impact on Development.md",
+    "Volume 2/Care Standards/International - Govt, UN & World Bodies/Guidelines for Institutional Childcare, Ethiopia.md",
+    "Volume 2/Current Reality/India CCIs/Psychosocial distress and coping mechanism of Orphan Children in Institutional Care in Delhi.md",
+    "Volume 3/Care Standards/International - Services for CNCP/Sport and physical activity in the lives of looked-after children a ‘hidden group’ in research, policy and practice.md",
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Rainbow Foundation/Supporting Carers Author_ Rainbow Home.md",
+    "Volume 3/Care Standards/International - Services for CNCP/The Importance of Play in Promoting Healthy Child Development and Maintaining Strong Parent Child Bond, Focus on Children in Poverty.md",
+    "Volume 2/Care Standards/India - Service Providers to CCIs/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
+    "Volume 1/Care Standards/India - Service Providers to CCIs/Udayan Care/UdayanCare_Standards Of Care in Child Care Institutions.md"
   ]
 }
