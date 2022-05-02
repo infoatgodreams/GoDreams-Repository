@@ -643,7 +643,23 @@ According to Rainbow Homes, CCIs need the following facilities
 - Create a reference point to which child's progress is compared and tracked 
 
 
-### Ensuring readiness for schools 
+### Ensuring readiness for schools: Bridge Course
+- A bridge course includes all the elements taught in a particular subject at that school level 
+- Bridge age-appropriate competencies in a time-bound manner
+- The course's duration and speed depends on the baseline assessment of the child- it typically takes 18-24 months 
+- Exerting a gentle pressure on the child to sufficiently motivate the child is crucial 
+- Use diverse learning materials to keep the child engaged
+
+## Helping children settle into schools 
+### Child-school preparation principles
+- Introduce the child well in advance to the teachers and staff at the school
+- Inform the child about what they need to do in case of emergencies; for eg,. if they're unwell
+- Request the school to set up a buddy
+- Address any fears or concerns of the child directly 
+- Prepare the child with basic life skills road safety, health, hygiene, interpersonal communication.
+
+### Areas of focus in improving child performance in school
+
 
 
 
