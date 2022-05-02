@@ -73,14 +73,7 @@ From a study on boarding and day school students, we know that[^12]
 # Major barriers of academic success for OVC 
 *According to a report that looks at child performance in five different sites in developing countries[^1], The ill effects of being an orphaned or abandoned child (OAC) in a LMIC are reported to include **fewer years of schooling, poorer school performance, poorer households, less adequate housing, increased malnutrition, higher morbidity and mortality, poorer access to medical care, and a higher prevalence of depression***
 
-- Many young people in care experience frequent placement moves, affecting their school attendance and performance.
-- In developing countries, a significant obstacle to the education of children and young people in care is the financing arrangements of residential care facilities. Most facilities depend heavily on funding from donors and volunteers (Keshavarzian & Borgstr€om, 2020). While funds from donors allow the facilities to educate the children, it has its challenges 
-- In addition, a growing phenomenon in Africa and Asia is orphanage tourism, where tourists and volunteers are allowed to visit and stay in care facilities for a fee or donation. However, some activities of the visitors disrupt the children’s education. For instance, the children sometimes miss school to rehearse and undertake performances to entertain donors visiting the residential facility 
-- Many young people have difficulty persisting with their education after leaving care. 
-- Most African countries lack statutory after-care services and support for care leavers. 
-- Without support, many care leavers in India, Zimbabwe, and Philippines face financial difficulties and the pressure to earn an income which forces them to postpone their education
-- Evidence from Ghanaian care-leaving research suggests that many young people who leave care experience challenges with employment, housing, and social integration (Frimpong-Manso, 2018). 
-* The care leavers who have good outcomes are often those who have the opportunity to stay longer in care to finish their education and also have financial and material support from the residential facility after leaving care (Frimpong-Manso, 2018).
+
 
 ## Lack of Educational Support and Guidance:
 - Staff’s **low expectations and lack of belief** in their academic potential had negative consequences for the young people’s educational outcomes, as they did little to promote their aspiration for higher education. 
@@ -124,59 +117,50 @@ According to a paper on educational support for OVC in South Africa[^14],
             * What direction am I heading? 
             * How am I doing? 
             * What is my next step forward? 
-    * Formal assessment of performance:
-        * A third strong factor in Hattie’s syntheses is formal assessment of performance (effect size 0.90). In the Skolfam model these three factors are applie
 
 ## Lack of parental support
-* Mwoma & Pillay (2015) noted that parents/guardians were not supportive to OVC in relation to homework. Pillay (2011) revealed that learners from child headed households lacked support and they mostly had negative experiences in their homes characterised by abject poverty.
+* Mwoma & Pillay (2015) noted that parents/guardians were not supportive to OVC in relation to homework. 
+* Pillay (2011) revealed that learners from child headed households lacked support and they mostly had negative experiences in their homes characterised by abject poverty.
 
 ## Home environment
 * Absenteeism and lateness to school were other challenges likely to negatively influence OVC’s academic performance.
-* Mishra and Bignami-Van Assche (2008) revealed that various reasons could make OVC be at greater risk of absenteeism and dropping out of school. The reasons according to them would include inability to pay fees, need to help with household labour or having to stay at home to care for sick parents or younger children.
-* Ebersohn and Eloff, (2002) observed that due to the death of parents and close relatives as a result of HIV/AIDS, families have been disrupted causing an increase of destitute and abandoned children in South Africa.
-* This was supported by findings from our study where OVC were reported to be relocating from relative to relative while others could not do their homework indicating that they lacked supervision and support in their home.
-* Cleanliness among OVC was another challenge indicating that OVC are not supervised at home to ensure personal hygiene. Being the first teachers and protectors of their children, parents have a primary responsibility of ensuring that children have a conducive social environment at home.
-* Bronfenbrenner (1979) identified the home as the microsystem where children are socialised to learn how to interact with other social agents in society. Supervision of children by parents/guardians ensures that children become responsible and are not rendered vulnerable to the law by becoming violent to other children or by destroying property (Sund, 2006). 
+* Mishra and Bignami-Van Assche (2008) revealed that various reasons could make OVC be at greater risk of absenteeism and dropping out of school. **The reasons according to them would include inability to pay fees, need to help with household labour or having to stay at home to care for sick parents or younger children.**
+* **Cleanliness among OVC was another challenge indicating that OVC are not supervised at home to ensure personal hygiene.** Being the first teachers and protectors of their children, parents have a primary responsibility of ensuring that children have a conducive social environment at home.
+* Bronfenbrenner (1979) identified the home as the microsystem where children are socialised to learn how to interact with other social agents in society. Supervision of children by parents/guardians ensures that children become responsible and are not rendered vulnerable to the law by becoming violent to other children or by destroying property
 * Supervision at home could include ensuring that children are encouraged to do home/schoolwork, observe personal hygiene, and that parents/guardians work hand in hand with teachers to ensure that OVC attend school regularly as these were major negative challenges reported to be influencing the education for OVC
 
 ## School disruption and absenteeism
 - The impact of the school disruption often caused by placement changes is another theme addressed in several studies. This is a contested topic, with some research showing multiple school changes contribute to poor educational outcomes, and other studies showing they have negligible impact. 
-- Lima et al. (2018) found that young people in care with more than five placements were more likely to have poorer educational outcomes than those with fewer than five placements 
-- Research focussing on care leavers described school changes as a problem (Harvey et al., 2017), which is supported by evidence from an international scoping review (Luke &O’Higgins, 2018) which found that multiple placements are detrimental to educational outcomes.
-- Research focusing on the opinions and views of children and young people indicates that school changes are an issue for them because it disrupts relationships with their peers and teachers and influences both their experience and engagement of school. Chronic disengagement is a key factor in absenteeism, which is another issue raised in some studies (Association of Children’s Welfare Agencies [ACWA].
+- Lima et al. (2018) found that **young people in care with more than five placements** were more likely to have poorer educational outcomes than those with fewer than five placements 
+- Research focusing on the opinions and views of children and young people indicates that school changes are an issue for them because it disrupts relationships with their peers and teachers and influences both their experience and engagement of school. Chronic disengagement is a key factor in absenteeism, which is another issue raised in some studies
 - In contrast, other studies showed that children in care had better attendance than their vulnerable peers, and that regular school attendance is a key protective factor for educational outcomes.
-- The evidence suggests that regardless of outcomes measured by test results, children and young people usually find placement and school changes disruptive and upsetting, particularly in the final years of schooling. 
-- Placement changes and associated issues of school disruption and absenteeism are often due to issues within the care or education systems or lack of integration between them
+- In developing countries, a significant obstacle to the education of children and young people in care is the financing arrangements of residential care facilities. Most facilities depend heavily on funding from donors and volunteers. While funds from donors allow the facilities to educate the children, it has its challenges 
+	- In addition, a growing phenomenon in Africa and Asia is orphanage tourism, where tourists and volunteers are allowed to visit and stay in care facilities for a fee or donation. **However, some activities of the visitors disrupt the children’s education.** For instance, the children sometimes miss school to rehearse and undertake performances to entertain donors visiting the residential facility 
+
 
 ## Care and education system
 - Some authors noted issues within schools including the lack of implementation of Individual Education Plans (IEP) and the lack of skills among school staff to support children with complex trauma backgrounds
 - Research also highlights issues in the care system, including a lack of support and training, inclusion in planning for carers, training for caseworkers. Other issues include unclear funding guidelines, poor communication between agencies and inadequate education resources. 
-- Caseworkers raised issues around lack of time spent with children due to the reactive and regulatory focus of their work, also reporting that their emphasis was on the psychological needs of young people rather than education
-- A number of studies reported that children and young people in care were concerned they weren’t being listened to or involved in decision making about education or things that affected their education. Other authors noted a lack of integration between the care and education systems and how this negatively impacts on education.
 
 ## Managing transitions
 - The research suggests there are issues at each level of educational transitions. 
 - Research on Australian care leavers emphasised the need for further support beyond the age of 18 and positive interventions to make the transition to tertiary study easier. 
-- Other issues include the need for care leavers transitioning to university to be included in equity frameworks, and the need for better data collection about care leavers.
+- Many young people have difficulty persisting with their education after leaving care. 
+- Most African countries lack statutory after-care services and support for care leavers. 
+- Without support, many care leavers in India, Zimbabwe, and Philippines face financial difficulties and the pressure to earn an income which forces them to postpone their education
+- Evidence from Ghanaian care-leaving research suggests that many young people who leave care experience challenges with employment, housing, and social integration (Frimpong-Manso, 2018). 
+* The care leavers who have good outcomes are often those who have the opportunity to stay longer in care to finish their education and also have financial and material support from the residential facility after leaving care (Frimpong-Manso, 2018).
 
-## Importance of relationship and agency
-- Many of the papers stress the importance of a good relationship with at least one supportive adult. Other themes emerging included relationships being the most significant influence in career development for young people and the importance in a young person’s life of a relationship with a significant adult who values learning and provides emotional support to the young person.
-- An international review suggests that caregiver involvement in schooling is associated with better outcomes.
-- Relationships with key adults can contribute to building resilience in young people with adverse experiences 
-- One study found that many young people regarded their own efforts as central to their possible success. In another study, individual agency was a key theme. Many young people took an active role in their educational progress and felt it was up to them.
-- Matheson’s(2016) study directly addresses personal factors and found that care leavers in tertiary education had high aspirations and a sense of resilience, although many also felt luck played a role in their educational success. 
-- Key themes from two further studies were the student’s sense of resilience and their motivation and determination to succeed.
 
-## Gender
+## Gendered expectations
 According to a paper exploring factors associated with educational outcomes for OVC in India[^5], 
 * A situational analysis of education in India by USAID (2014) indicated that although primary school enrollment is high, the dropout rate for both boys and girls increases manifold when transitioning to higher-level classes. 
-* boys become more labor force Bready^ and are directed towards paid labor.
+* boys become more labor force and are directed towards paid labor.
 * girls, the reasons for dropping out might include marriage, caretaking of younger siblings or ailing parents, and reservation of resources, among others.
-* Interestingly, child’s gender was not a significant predictor of education outcome.
 * This suggests that although child’s gender might be an important predictor of education outcomes, for this particular sample, other factors might be more influential.
 
 
-## Facilitators of Academic success:
+# Facilitators of Academic success in OVC:
 
 *According to a paper on the educational outcomes of children in care[^7], There are common themes among those who have done well. These include good relationships with and support from key adults, and a sense of resilience combined with high aspirations and persistence. A stable placement while attending a good school in the final years of secondary education also helps.* 
 
@@ -186,8 +170,14 @@ From conversations with care-leavers in Ghana, we know that[^3]
     * having key adults who provide guidance and encouragement, 
     * financial and practical support, 
     * and participation in extracurricular activities.
-* Care leavers in many developing countries highlight the access to education as a positive feature of care. Islam (2013) argues that the positive experience is because, in Bangladesh and other developing countries, education is often viewed as a primary function of residential care as it is a vehicle for the social improvement of children who are in care mainly because of poverty. 
-* Thus, compared to their pre-care lives often characterised by poverty and homelessness, the well-run facilities provide the stability for the young people to attend school
+
+
+## Importance of relationship and agency
+- Many of the papers stress the importance of a good relationship with at least one supportive adult. Other themes emerging included relationships being the most significant influence in career development for young people and the importance in a young person’s life of a relationship with a significant adult who values learning and provides emotional support to the young person.
+- An international review suggests that caregiver involvement in schooling is associated with better outcomes.
+- Relationships with key adults can contribute to building resilience in young people with adverse experiences 
+- One study found that many young people regarded their own efforts as central to their possible success. In another study, individual agency was a key theme. Many young people took an active role in their educational progress and felt it was up to them.
+
 
 ## Personal Motivation
 - According to the participants, having personal motivation is an important part of academic success. Their narrations suggest that despite the challenges they experienced pre-care and in-care, they had the conviction to succeed academically to make their future better 
