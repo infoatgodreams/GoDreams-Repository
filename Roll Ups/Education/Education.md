@@ -6,6 +6,8 @@ tags:
 ---
 
 
+
+
 # The value of educational support to OVC (Orphans and Vulnerable Children)
 According to a paper on the educational support for OVC in South Africa[^5], 
 * Education as recognised in the convention on the rights of the child is a basic human right for all children (Committee on the Rights of the Child, 1989). A child who has access to quality primary schooling has a better chance in life. 
@@ -755,9 +757,6 @@ According to Rainbow Homes, CCIs need the following facilities
     * Rainbow home recommends that there needs to be a strong school-home interaction enocuraged so that the caregivers and teachers are collaborating on achieving the best outcomes for the child.
 	    * Invite teachers and principals to the home for events 
 	    * Sensitise the teachers about the needs of the children
-
-
-
 
 
 
