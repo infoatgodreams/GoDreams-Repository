@@ -7,7 +7,6 @@ tags:
 
 
 
-
 # The value of educational support to OVC (Orphans and Vulnerable Children)
 According to a paper on the educational support for OVC in South Africa[^5], 
 * Education as recognised in the convention on the rights of the child is a basic human right for all children (Committee on the Rights of the Child, 1989). A child who has access to quality primary schooling has a better chance in life. 
