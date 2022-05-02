@@ -14,19 +14,19 @@ According to a paper on the educational support for OVC in South Africa[^5],
 * A child who knows how to read and write and do basic arithmetic has a **solid foundation for continued learning** throughout life (USAID & CRS, 2008).
 * They further observe that education benefits individuals and the whole nation as a major instrument for social and economic development (USAID & CRS, 2008)
 * Hallfors et al (2011) pointed out that supporting adolescent girls to stay in school increases their chances of remaining in school, **hence reducing chances of contracting HIV through early marriage**. This intervention further reduces chances of girls dropping out of school
-* Kelly (2002) maintained that formal school education is a powerful tool for transforming poverty in an environment where HIV/AIDS are rampart. 
 * Schools not only benefit the child but can serve as important resource centres to meet the broader needs of the community (PEPFAR, 2006). “Education is likely to lead to employability and can foster a child developing a sense of competence” (PEPFAR, 2006, p. 9). 
-* However, Wood and Goba (2011) in their study noted that teachers perceived themselves as not adequately prepared to deal with issues affecting OVC.
 * USAID and CRS (2008) point out that basic education in primary and secondary levels contribute to the reduction of poverty. It increases labour productivity, improves health and enables people to participate fully in the economy and the development of their societies.
-* Thus OVC need educational interventions as they are at risk of becoming infected with HIV due to economic hardships, reduced parental care and protection and increased susceptibility to abuse, and exploitation.
+* Thus OVC **need educational interventions** as they are at risk of becoming infected with HIV due to economic hardships, reduced parental care and protection and increased susceptibility to abuse, and exploitation.
 
+
+# Data that captures the struggles of OVC in achieving educational outcomes
 According to a paper on educational intervention planning for children in care[^14], 
 - Youth that left long term foster care after age 17 have been disadvantaged fivefold; 
-	- firstly because of their higher risk of poor grades in primary school, 
-	- secondly because they received lower grades than other children with the same cognitive capacity, 
-	- thirdly because they got a lower education than peers with similar cognitive capacity (results on males only in Vinnerljung et al., 2010), 
-	- fourthly because they got lower education than peers with the same average grades from primary school; 
-	- and fifthly because of their lower chance of achieving a secondary education when grades were poor, e.g. through use of adult education opportunities.
+	- firstly because of their **higher risk of poor grades in primary school,** 
+	- secondly because **they received lower grades than other children with the same cognitive capacity**, 
+	- thirdly because they got a **lower education** than peers with similar cognitive capacity (results on males only in Vinnerljung et al., 2010), 
+	- fourthly because they got **lower education than peers with the same average grades** from primary school; 
+	- and fifthly because of their l**ower chance of achieving a secondary education when grades were poor**, e.g. through use of adult education opportunities.
 
 According to a paper on the educational outcomes of children in care, 
 - In the UK, it is evident that looked after children were being failed by the education system as far back as the 1980s. When data started to be collected, the clearest indicator of this was the number of children leaving care with no school qualifications of any kind (Jackson et al., 2005). 
@@ -35,7 +35,8 @@ According to a paper on the educational outcomes of children in care,
 * Australian Institute of Health and Welfare (AIHW) data has long indicated that children in care have lower reading and numeracy test scores than their peers (AIHW, 2007; 2011). A 2007 study looked at 47 young people discharged from care in NSW in the 1990s. The study found that these young people were half more likely to have finished Year 12 than their peers in the general population. Almost 20% of the care leavers involved in the study had not completed Year 10 (Cashmore et al., 2007).
 * An important finding is that some young people in OHC do have successful educational outcomes. They are the young people who are participating in or have completed a post-secondary qualification at university or other institution. 
 
-## Comparison of educational outcomes for maltreated children in home vs care settings
+
+# Comparison of educational outcomes for maltreated children in home vs care settings
 According to a paper that compared outcomes of maltreated children in foster/home settings vs larger institutional care settings[^11].
 - More recently, an analysis of GCSE examination results of all children at the age of sixteen (General Certificate of Secondary Education) found that although children in care had significantly lower average point scores than children in the wider population, those continuously in care for one year or more performed better in examinations than ‘children in need’, who received home-based services (Sebba et al., 2015). Children in care for less than a year per- formed worst of all, a finding consistent with another study which reported better educational outcomes for adolescents in long-term foster placements (Dixon et al., 2006).
 - Some studies in the USA and Australia that compared children in care to other child welfare-involved children found no differences in academic performance after controlling for differences between the groups(Font and Mcguire-Jack, 2013; Berger et al., 2015), although others found their educational performance was worse than that of the comparison group (Weiss and Fantuzzo, 2001; Smithgall et al., 2004). 
