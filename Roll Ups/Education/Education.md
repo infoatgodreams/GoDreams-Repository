@@ -672,11 +672,45 @@ According to Rainbow Homes, CCIs need the following facilities
 - Silent when asked about friends or teachers
 - Tries to get rid of books and uniform by hiding them or throwing them away 
 
+### Recommended learning practices at the home
+- The Homework class
+- Regular monitoring of learning outcomes in school
+- Learning enhancement classes
+- English proficiency classes
+- Computer proficiency classes
+- Life skills
 
+## Creative learning approaches in the CCI
+- Project-based learning
+- Peer teaching
+- The Library
+- Story telling
+- Wall magazine/newsletter
+- Quiz
+- Debates
+- Discussions based on films/books
 
+# Management of comprehensive education program
 
+## Teachers
+### Recruitment,training and support
+- The goal is to get trained teachers or employ graduates and offer to support them to get a teacher training certificate
+- Mandatory orientation for all teachers
+- Twice a year, 3-5 days of need based training workshops for all teachers 
+- At least one set of trainings needs to be fully residential 
 
+### Reflection, review and planning
+- Ever two weeks all teachers reflect and review their work, planning for the next two weeks
+- Each reflection includes joys, sorrows and learnings
 
+### Necessary documentation
+- Children's educational plan and progress record
+- Record of lesson plans
+- Assessment records
+- All papers with reference to maintenance of equipment
+- Records of all training workshops organized for the teachers
+- Half yearly and annual reports
+- Database of experts, consultants in education, resource persons and partners for collaboration
 
 
 
@@ -715,7 +749,6 @@ According to Rainbow Homes, CCIs need the following facilities
     * Rainbow home recommends that there needs to be a strong school-home interaction enocuraged so that the caregivers and teachers are collaborating on achieving the best outcomes for the child.
 	    * Invite teachers and principals to the home for events 
 	    * Sensitise the teachers about the needs of the children
-* 
 
 
 
