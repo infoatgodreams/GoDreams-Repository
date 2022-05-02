@@ -593,8 +593,32 @@ According to an articule that discusses development and implmentation of individ
 - Each child will be taken care of until they become financially and socially independent 
 
 ## Comprehensive education
+According to Rainbow Homes, these are the essential components of an educational system in CCIs
+- School support 
+- Bridge 
+- Sports
+- Life skills
+- English 
+- Computer
+- Recreation
+- Remedial Help
+
+## Recommended routines 
+According to Rainbow homes, the four-five hours after school have to be split across 
+- sports
+- homework
+- prior learning
+- Culturual activities
+- English language classes
+- Library
+- Computer classes
+- Life skills
+- Time with caregivers
 
 
+## Role of teacher in CCI
+According to Rainbow Homes, the teacher at a CCI plays the following roles:
+- 
 
 
 
