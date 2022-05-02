@@ -4,17 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "65e53ba84e28ce1d",
+        "id": "442b49eb963afdf8",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Roll Ups/Education/Education.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -73,12 +67,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Education/Education.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "encouragement from adults and peers",
+                "searchQuery": "The caregiver’s investment in the child’s education is based on the interplay of child, caregiver, and household characteristics",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -88,9 +81,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 301,
+    "collapsed": true
   },
-  "active": "65e53ba84e28ce1d",
+  "active": "442b49eb963afdf8",
   "lastOpenFiles": [
     "Roll Ups/Education/Education.md",
     "Volume 3/Care Standards/International CCIs/Educational Experiences of Care Leavers from Residential Care in Ghana.md",

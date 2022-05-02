@@ -440,6 +440,7 @@ According to an articule that discusses development and implmentation of individ
 
 
 # Improving educational outcomes in CCIs
+
 ## Principles of guiding education for children in CCIs
 According to a manual created by Rainbow Homes, these are the following principles we need to keep in mind while designing an education program at the CCI
 
@@ -462,8 +463,15 @@ According to Rainbow Homes, these are the essential components of an educational
 - **Recreation**
 - **Remedial** **Help**
 
+### Outcomes for optimal child performance in school
+- **Disicipline and self control** : Children are comfortable in a structured classroom environment after years of chaos.
+- **Problems with authority** : Children deal with any deep rooted issues or conflicts with authority figures; learns to trust the staff and the teachers
+- **Academic challenges** : Children are able to understand and apply what they learn in the classroom
+- **Hygiene**: Children never look shabby; they have clean uniform, combed hair and short nails
+- **Health**: Children avoid any health related complications in school settings, typically infectious diseases like conjunctivitis, lice, viral fever, and other skin diseases 
+
 ## Recommended routines 
-According to Rainbow homes, the four-five hours after school have to be split across 
+According to Rainbow homes, the four-five hours after school have to be split across,
 - sports
 - homework
 - prior learning
@@ -475,10 +483,10 @@ According to Rainbow homes, the four-five hours after school have to be split ac
 - Time with caregivers
 
 
-## Role of teacher in CCI
+## Role of a teacher in the CCI
 According to Rainbow Homes, the teacher at a CCI plays the following roles:
 - To teach primary level bridge course to children who need to become academically ready for school, to engage in age appropriate schooling 
-- To help children build proficienncy in EngLISH
+- To help children build proficienncy in English
 - To help children in high levels in school -Class V and above with subject specific expertise in Math, Science and Social Studies 
 - Support children with special needs and learning disabilities. 
 - While working with younger children, the teacher is also responsible for helping the younger kids inculcate good habits 
@@ -495,6 +503,7 @@ According to Rainbow Homes, CCIs need the following facilities
 - Reading material like books, magazines, newspapers, newsletters and reference books based on age differentiation
 
 ## Preparing the Child for Mainstream school
+
 ### Understanding the level of learning in Children: Baseline Assessment
 - Indicates the right place for the child to start in the bridge course sequence 
 - Ascertains child's current capacity and style of learning
@@ -509,20 +518,15 @@ According to Rainbow Homes, CCIs need the following facilities
 - Exerting a gentle pressure on the child to sufficiently motivate the child is crucial 
 - Use diverse learning materials to keep the child engaged
 
+
 ## Helping children settle into schools 
+
 ### Child-school preparation principles
 - Introduce the child well in advance to the teachers and staff at the school
 - Inform the child about what they need to do in case of emergencies; for eg,. if they're unwell
 - Request the school to set up a buddy
 - Address any fears or concerns of the child directly 
 - Prepare the child with basic life skills road safety, health, hygiene, interpersonal communication.
-
-### Outcomes for optimal child performance in school
-- Disicipline and self control : Children are comfortable in a structured classroom environment after years of chaos.
-- Problems with authority : Children deal with any deep rooted issues or conflicts with authority figures; learns to trust the staff and the teachers
-- Academic challenges : Children are able to understand and apply what they learn in the classroom
-- Hygiene: Children never look shabby; they have clean uniform, combed hair and short nails
-- Health: Children avoid any health related complications in school settings, typically infectious diseases like conjunctivitis, lice, viral fever, and other skin diseases 
 
 ### Symptoms of children facing troubles in school
 - Persistently refusing to go to school
@@ -531,7 +535,7 @@ According to Rainbow Homes, CCIs need the following facilities
 - Silent when asked about friends or teachers
 - Tries to get rid of books and uniform by hiding them or throwing them away 
 
-### Recommended learning practices at the home
+### Recommended diverse learning practices at the home
 - The Homework class
 - Regular monitoring of learning outcomes in school
 - Learning enhancement classes
@@ -549,9 +553,9 @@ According to Rainbow Homes, CCIs need the following facilities
 - Debates
 - Discussions based on films/books
 
-# Management of comprehensive education program
 
-## Teachers
+## Management of comprehensive education program
+
 ### Recruitment,training and support
 - The goal is to get trained teachers or employ graduates and offer to support them to get a teacher training certificate
 - Mandatory orientation for all teachers
@@ -571,29 +575,33 @@ According to Rainbow Homes, CCIs need the following facilities
 - Half yearly and annual reports
 - Database of experts, consultants in education, resource persons and partners for collaboration
 
+## Strong school-home interaction
+ * Rainbow home recommends that there needs to be a strong school-home interaction enocuraged so that the caregivers and teachers are collaborating on achieving the best outcomes for the child.
+	 * Invite teachers and principals to the home for events 
+	 * Sensitise the teachers about the needs of the children
 
 
-# Practices in the CCI
+
+## Other best practices in the CCI 
 - Miracle foundation[^9] recommends the following educational practices in the home
-	- hiring of qualified coaching teachers,who provided critical education support to children after school hours.  
-	- activity-based teaching and learning method, story pedagogy,effective lesson-planning and classroom management. 
-	- Aptitude testing and career 
-	- counselling were conducted for children in class 10th & above by Miracle’s network of experts and consultants. 
-	- adult transition planning of the children’s home aimed at supporting the children beyond 18 years of age until they become independent adults with selected opportunities, scholarship programmes for advanced education or vocational training,university academic education, professional courses that best suits each child’saptitudes and interests.
-	- Children participation through children’s committees
+	- **hiring of qualified coaching teachers**,who provided critical education support to children after school hours.  
+	- **activity-based teaching and learning method**, story pedagogy,effective lesson-planning and classroom management. 
+	- **Aptitude testing and career counselling** were conducted for children in class 10th & above by Miracle’s network of experts and consultants. 
+	- **adult transition planning** of the children’s home aimed at supporting the children beyond 18 years of age until they become independent adults with selected opportunities, scholarship programmes for advanced education or vocational training,university academic education, professional courses that best suits each child’saptitudes and interests.
+	- **Children participation** through children’s committees
 	- on topics like discipline, health and hygiene and sports and recreation was a new learning for the children and staff.
 	- child-to-child, mentorship programme was introduced in the home, where eachof the older children had one or two younger children under his or her support and observation.
+
 - According to guidelines for institutional childcare in Ethiopia, [^12]
-	- Academic Education
+	- ### Academic Education
         * A childcare institution has the responsibility to provide educational opportunities to the children from kindergarten to higher levels of education.
-        * A childcare institution shall have its own kindergarten within the compound of the childcare institution.
         * A childcare institution shall provide all the necessary educational material to the children.
         * A childcare institution shall offer supportive educational services to children with educational difficulties.
         * A childcare institution shall continue to offer support to children who join higher institutions.
         * The counsellor should follow-up the educational development of the children regularly.
         * The counsellor should prepare a quarterly report on the educational development of the children and submit the same to the administration of the childcare institution.
         * A childcare institution shall have a reading room, preferably with some relevant books.
-    * Vocational Training
+    * ### Vocational Training
         * A childcare institution shall make vocational training available to eligible group of children either within the institution or outside.
         * The child is considered eligible for a vocational training when he/she at least:
             * is twelve years of age and above
@@ -605,10 +613,8 @@ According to Rainbow Homes, CCIs need the following facilities
         * The counsellor should follow-up the vocational development of trainees attending vocational training monthly.
         * The counsellor should prepare a quarterly report on the vocational development of children attending vocational training and submit the same to the administration of the childcare institution.
         * A childcare institution shall provide the necessary support to beneficiaries who complete vocational training in securing employment opportunities.
-    * Rainbow home recommends that there needs to be a strong school-home interaction enocuraged so that the caregivers and teachers are collaborating on achieving the best outcomes for the child.
-	    * Invite teachers and principals to the home for events 
-	    * Sensitise the teachers about the needs of the children
 
+   
 
 
 
