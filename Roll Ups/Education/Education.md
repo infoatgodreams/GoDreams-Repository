@@ -635,6 +635,17 @@ According to Rainbow Homes, CCIs need the following facilities
 - An LCD or Projector screen
 - Reading material like books, magazines, newspapers, newsletters and reference books based on age differentiation
 
+## Preparing the Child for Mainstream school
+### Understanding the level of learning in Children: Baseline Assessment
+- Indicates the right place for the child to start in the bridge course sequence 
+- Ascertains child's current capacity and style of learning
+- Sets an approximate time frame after which the child would be ready to attend the school
+- Create a reference point to which child's progress is compared and tracked 
+
+
+### Ensuring readiness for schools 
+
+
 
 
 
