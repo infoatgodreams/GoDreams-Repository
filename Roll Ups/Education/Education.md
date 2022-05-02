@@ -658,7 +658,22 @@ According to Rainbow Homes, CCIs need the following facilities
 - Address any fears or concerns of the child directly 
 - Prepare the child with basic life skills road safety, health, hygiene, interpersonal communication.
 
-### Areas of focus in improving child performance in school
+### Outcomes for optimal child performance in school
+- Disicipline and self control : Children are comfortable in a structured classroom environment after years of chaos.
+- Problems with authority : Children deal with any deep rooted issues or conflicts with authority figures; learns to trust the staff and the teachers
+- Academic challenges : Children are able to understand and apply what they learn in the classroom
+- Hygiene: Children never look shabby; they have clean uniform, combed hair and short nails
+- Health: Children avoid any health related complications in school settings, typically infectious diseases like conjunctivitis, lice, viral fever, and other skin diseases 
+
+### Symptoms of children facing troubles in school
+- Persistently refusing to go to school
+- Showing a sudden drop in enthusisasm
+- Quiet and withdrawn
+- Silent when asked about friends or teachers
+- Tries to get rid of books and uniform by hiding them or throwing them away 
+
+
+
 
 
 
@@ -697,6 +712,10 @@ According to Rainbow Homes, CCIs need the following facilities
         * The counsellor should follow-up the vocational development of trainees attending vocational training monthly.
         * The counsellor should prepare a quarterly report on the vocational development of children attending vocational training and submit the same to the administration of the childcare institution.
         * A childcare institution shall provide the necessary support to beneficiaries who complete vocational training in securing employment opportunities.
+    * Rainbow home recommends that there needs to be a strong school-home interaction enocuraged so that the caregivers and teachers are collaborating on achieving the best outcomes for the child.
+	    * Invite teachers and principals to the home for events 
+	    * Sensitise the teachers about the needs of the children
+* 
 
 
 
