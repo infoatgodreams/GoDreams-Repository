@@ -263,6 +263,8 @@ According to. apaper on the educational outcomes of children in care[^6],
 * Regular home visits by social workers was another strategy deemed to be supportive especially for social workers to identify the various needs of OVC alongside the needs of parents/guardians with a view of identifying the appropriate ways of meeting those needs.
 * Identifying needy guardians/parents for OVC and providing them with social grants was another strategy cited to ensure that they are able to purchase necessities for these children to promote their personal hygiene.
 
+According to a paper that reviewed educational interventions for children in care,these are some of the interesting interventions tried across the world along with the their results [^7]
+
 ### Kids in Transition to School
 
 - The intervention was delivered within the school setting
@@ -284,6 +286,14 @@ According to. apaper on the educational outcomes of children in care[^6],
 - Tutors receive one day of training on commencement of the intervention and ongoing development twice a year.
 - A mentoring relationship is also anticipated, with youth acquiring the skills and experience to develop healthy relationships. 
 
+#### Results
+ The ESTEP programme found no impacts on letter word identification, calculation or passage comprehension.
+* The authors hypothesize that a large number of young people enter care due to mental health and behavioral problems, with this being evidenced by the fact that 6.5% of the study sample tested positive for post-traumatic stress, 35.1% reported having been in special educational programs prior to the study, and 26.1% reported a learning disability. 
+* They suggest that the graduate students who delivered the intervention did not have the specialist training necessary to serve these youth, and specialist teachers may be more appropriate delivery agents.
+* found no effect on grade completion at 26.8-month follow-up.
+* It assessed the impact on school behavior, which was a composite measure of getting along with teachers; paying attention in school; getting your homework done; getting along with other students, and arriving on time for class. At approximately 2 years post-baseline the intervention demonstrated no effect.
+
+
 
 ##### Teach Your Children Well (TYCW) approach
 
@@ -303,12 +313,21 @@ According to. apaper on the educational outcomes of children in care[^6],
 - Delivers training and supervision to specialist foster parents for a nine-month period, with a short period of aftercare.
 - There is also the Multidimensional Treatment Foster Care (MTFC) intervention which caters to young girls leaving the juvenile system. The intervention involves moving into a specialist foster placement for an average duration of 174 days.
 
+#### Results
+* Evaluation of group-based Multidimensional Treatment Foster Care for Adolescents indicated no impact on scholastic or language skills.
+* Multidimensional Treatment Foster Care for young girls leaving the youth justice system was evaluated for homework completion on three days in a one-week period at 3–6 months and 12 months post-baseline. At both time points the intervention group spent more days on homework than the control group; individuals in the intervention group spent approximately 150% more days in a week on homework at 12 months post-baseline, while the control group experienced a decline in the time allocated to this task.
+* School attendance was assessed and it was found that Multidimensional Treatment Foster Care for young girls leaving the juvenile system had an effect at the level at 12 months post-baseline. 
 
 ##### The Letterbox Club 
 
 - This intervention was delivered in the care setting, but there was no delivery agent and the learning was child-led. 
 - It is a gifting intervention that provides personalized educational resources to children in foster care, with resources including books, stationary items and mathematical games.
 - Parcels are delivered to the child on a monthly basis over a six-month period. The intervention does not rely on, expect or demand foster carer involvement.
+
+#### Results
+* Evaluation of the Letterbox Club reported no effect on reading accuracy, reading comprehension, or reading rate. 
+* In the trial of education specialists, it reported differences between the intervention group and control group at baseline but no significant differences at follow-up for maths test achievement scores (p = .082) or reading test achievement scores (p = .448).
+* It measured the impact on attitude towards reading, which included recreational reading and academic reading, in addition to the liking of school. At approximately eight months post-baseline there was no impact on these outcomes.
 
 
 ##### Head Start 
@@ -325,6 +344,11 @@ According to. apaper on the educational outcomes of children in care[^6],
 - It is delivered by family specialists who serve as family-centered, clinical case managers and home-based counselors working across all settings in tailoring services for individual children.
 - On receipt of a referral, the specialist advises the welfare agency, advocates for the young person, and investigates alternative school options.
 
+#### Results:
+* indicated that at 42-month follow-up those in the control group were 2.5 times more likely to engage in an extreme proportion of days on suspension (>1% of school days).
+* When the population was separated into a younger and older subset, there was no significant effect for the younger group but a significant impact was retained for the older category, with the control group being more than four times as likely to be suspended.
+* evaluation of the family-specialist coordinated programme did not find any impact on the extreme number of school-to-school movements, which is defined as more than three placements per year.
+
 
 ##### The Way Home
 
@@ -332,6 +356,17 @@ According to. apaper on the educational outcomes of children in care[^6],
 - It is a 12-month intervention to support the transition of youth with or at risk of disabilities as they reintegrate into the home following a stay in out-of-home care. 
 - Each family is assigned a trained family consultant who delivers the majority of the intervention.
 - The program integrates three interventions. Over the duration of the intervention family consultants spend approximately 138 hours with each family.
+
+#### Results
+* reported that young people in the control group were more than three times more likely to leave school compared to those in the intervention group at 12-months post-baseline (E.S. = 0.30, 95% CI = 0.12,0.75).
+
+### Fostering Healthy Futures
+* The Fostering Healthy Futures programme is a manualized skills group that aims to reduce stigma and provide opportunities to learn social and emotional competencies within a supportive environment.
+	* Groups are delivered for 30 weeks, lasting approximately 1.5 hrs each week, and comprise two trained facilitators and 8–10 children. 
+	* The intervention is informed by the evidence-based PATHS curriculum and the Second Step approach.
+	* Mentoring is also provided by graduate students in social work, who act as role model and advocate for the young person, meeting with them for 2–4 hours per week. 
+	* An RCT has been conducted with 156 children aged 9–11 in foster care due to maltreatment. 
+	* The primary outcome was mental health, and at 15 months post-baseline the intervention groups scored significantly lower on multi-informant measures of poor mental health. Secondary educational outcomes were measured as part of the trial and analysis is currently being undertaken.
 
 
 ## Individual Education Planning
@@ -535,4 +570,5 @@ According to an articule that discusses development and implmentation of individ
 [^4]: [[Educational support for orphans and vulnerable children in primary schools, Challenges and interventions]]
 [^5]: [[Exploring Factors Associated with Educational Outcomes for Orphan and Abandoned Children in India]]
 [^6]: [[The educational outcomes of children in care, a scoping review]]
-[^7]: 
+[^7]: [[Systematic review of educational interventions for looked-after children and young people, Recommendations for intervention development and evaluation]]
+[^8]: 
