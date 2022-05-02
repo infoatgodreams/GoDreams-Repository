@@ -618,7 +618,7 @@ According to Rainbow homes, the four-five hours after school have to be split ac
 
 ## Role of teacher in CCI
 According to Rainbow Homes, the teacher at a CCI plays the following roles:
-- 
+- To
 
 
 
