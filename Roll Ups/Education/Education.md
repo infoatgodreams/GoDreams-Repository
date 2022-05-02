@@ -130,6 +130,7 @@ According to a paper on educational support for OVC in South Africa[^14],
 * Supervision at home could include ensuring that children are encouraged to do home/schoolwork, observe personal hygiene, and that parents/guardians work hand in hand with teachers to ensure that OVC attend school regularly as these were major negative challenges reported to be influencing the education for OVC
 
 ## School disruption and absenteeism
+According to a paper on educational experiences if careleavers from Ghana's residential care systems[^3], 
 - The impact of the school disruption often caused by placement changes is another theme addressed in several studies. This is a contested topic, with some research showing multiple school changes contribute to poor educational outcomes, and other studies showing they have negligible impact. 
 - Lima et al. (2018) found that **young people in care with more than five placements** were more likely to have poorer educational outcomes than those with fewer than five placements 
 - Research focusing on the opinions and views of children and young people indicates that school changes are an issue for them because it disrupts relationships with their peers and teachers and influences both their experience and engagement of school. Chronic disengagement is a key factor in absenteeism, which is another issue raised in some studies
@@ -143,6 +144,7 @@ According to a paper on educational support for OVC in South Africa[^14],
 - Research also highlights issues in the care system, including a lack of support and training, inclusion in planning for carers, training for caseworkers. Other issues include unclear funding guidelines, poor communication between agencies and inadequate education resources. 
 
 ## Managing transitions
+According to a paper on educational experiences if careleavers from Ghana's residential care systems[^3]
 - The research suggests there are issues at each level of educational transitions. 
 - Research on Australian care leavers emphasised the need for further support beyond the age of 18 and positive interventions to make the transition to tertiary study easier. 
 - Many young people have difficulty persisting with their education after leaving care. 
@@ -173,6 +175,7 @@ From conversations with care-leavers in Ghana, we know that[^3]
 
 
 ## Importance of relationship and agency
+According to a paper on educational experiences if careleavers from Ghana's residential care systems[^3]
 - Many of the papers stress the importance of a good relationship with at least one supportive adult. Other themes emerging included relationships being the most significant influence in career development for young people and the importance in a young person’s life of a relationship with a significant adult who values learning and provides emotional support to the young person.
 - An international review suggests that caregiver involvement in schooling is associated with better outcomes.
 - Relationships with key adults can contribute to building resilience in young people with adverse experiences 
@@ -180,30 +183,26 @@ From conversations with care-leavers in Ghana, we know that[^3]
 
 
 ## Personal Motivation
+According to a paper on educational experiences if careleavers from Ghana's residential care systems[^3]
 - According to the participants, having personal motivation is an important part of academic success. Their narrations suggest that despite the challenges they experienced pre-care and in-care, they had the conviction to succeed academically to make their future better 
 - Having experienced disruptions to their schooling, they saw care as an opportunity to get an education and a “better life”, something that they would not have gotten if they had stayed with their parents or extended families
 
 ## Encouragement from Adults and Peers
+According to a paper on educational experiences if careleavers from Ghana's residential care systems[^3]
 - Aside from the personal resources, the young people in the study also suggest that support from carers and other significant adults facilitated their academic progress
-- It is therefore probable that those who had poor educational experiences and who were having difficulties after leaving care are underrepresented in this study.
 - The findings seem to suggest a link between the care leaver’s educational achievement and staff members’ expectations and attitudes. From the accounts of the young people, having a significant adult who took an interest in their academic work boosted their confidence and determination to succeed, echoing the findings in other studies. 
-- Several participants mentioned that the encouragement and support from adults and their peers served as an important facilitator to their academic success. 
 - The adults, often their immediate carers and teachers, pushed them to do well in school and believed in their potential, which showed through their actions. According to the participants, the encouragement and advice from these adults helped them realize the importance of education
 - Aside from the encouragement and motivation, the adults provided practical support that helped many of the care leavers with their education. 
 - The adults attended school events, contacted their teachers regularly to enquire about their progress, and used their own money to pay the school fees for some of the participants after they had left care
-- Others received support and motivation from informal sources such as their biological relatives
-- Another youth also explained that he was motivated to study harder and stay in school because his peers in care who attended university became his role models
 
 ## Stable caregivers
 According to a paper on exploring factors associated with educational outcomes for orphaned children in India[^5], 
 * Caregivers are the direct source of social and financial capital that ensures proper development of a child (Scott et al. 2013). 
-* They are also the means to transmit policies and programs in the larger ecosystem in order to support children in attaining their rights. 
-* Many studies have suggested that caregiver health and education are the most influential factors that impact a child’s educational outcome
+* Many studies have suggested that **caregiver health and education** are the most influential factors that impact a child’s educational outcome
 * Caregivers with higher levels of education are more likely to support school enrollment and retain children in school, despite monetary constraints
-* caregivers that have access to proper shelter, health care, food, and other basic assets have greater ability to provide good quality care to their children, thereby, improving the child’s education and health outcomes.
 * Along with low-socioeconomic status, certain social and cultural factors further reduce the capability of caregivers, including gender, caste, religion, land distribution, and geographical location (Tsujita 2013).
 
-## Characteristics of the Child:
+## Characteristics of the Child
 According to a paper on exploring factors associated with educational outcomes for orphaned children in India[^5], 
 * Certain child characteristics also impact educational outcomes. These include age, gender, and health of the children.
 * In India, female children continue to be one of the most disadvantaged groups that are systematically left out of school due to fiscal constraints, safety, and perceived economic returns, among other reasons.
@@ -213,70 +212,50 @@ According to a paper on exploring factors associated with educational outcomes f
 * India faces a high dropout rate when children are transitioning from primary school to higher levels of education.
 * a high proportion of students (15.9 %) drop out of school in grade 5 in India
 
-## Strong Relationship between Caregiver and Child:
-* The caregiver’s investment in the child’s education is based on the interplay of child, caregiver, and household characteristics
-* caregivers of HIV/AIDSaffected orphans in Sub-Saharan Africa face a heavy burden of financially supporting the orphans in addition to providing for their own families. 
-* In such circumstances, children that are not biologically related to the caregiver might face additional disadvantages as compared to those children that are biologically related.
-* children who live in households that are headed by non-biologically related caregivers’ fare systematically worse than those living with biological parents.
-* participation in educational activities by orphans residing in resource-constrained households is considered a luxury. 
-* These children are often involved in paid or unpaid work and are deprived of educational opportunities due to disadvantages arising from the interaction between limited resources and relationship with the caregiver. 
-* Child education outcomes were significantly associated with caregiver’s health and education. This finding supports previous studies that indicate caregiver education and health are protective factors for children at risk.
-* Educated parents are more likely to understand the value of their children being educated and its long-term positive effects, irrespective of their socioeconomic status.
-* if the caregiver is in poor health, he/she is less likely to be working and providing for the children.
-*  children with ailing caregivers are more likely to drop out of school, and spend most of their time nursing the caregiver, or providing for the household.
-* Results suggest that when caregivers have limited resources, their caretaking abilities are compromised, as they make choices about who to provide for and which household members have more value.
-* orphans in households with non-biological caregivers might be more engaged in paid work to generate additional income, or be involved in household chores to reserve resources rather than utilizing it for education related expenses.
 
-
-
-
-
-# Successful interventions in improving educational outcomes 
+# Successful interventions in improving educational outcomes in institutional settings 
 
 ## Principles of improving educational outcomes for CNCP
-According to. apaper on the educational outcomes of children in care[^6], 
-
-* Stigma and low expectations can perhaps be best addressed through awareness raising and better education of agency and school staff. 
-* School disruption and other issues raised in the literature tend to reflect issues in the care systems and the way resources are allocated, managed and prioritised. 
+According to a paper on the educational outcomes of children in care[^6], 
+* Stigma and low expectations can perhaps be best addressed through **awareness raising and better education of agency and school staff.** 
+* **School disruption** and other issues raised in the literature tend to reflect issues in the care systems and the way resources are allocated, managed and prioritised. 
 * Much of the research includes recommendations about providing better services to young people by better training of staff, stabilising placements, reviewing corporate parenting practices, better integration of the care and education systems, valuing education and providing more support for young people transitioning out of the care system
-* There is a need for all workers in the sector to be aware of and trained to manage the ongoing impacts of trauma on children and young people in care. 
-* Workers should also try to minimise placement changes that lead to school disruption, especially in the final years of school. They should contribute to a culture that values education, supports young people to build resilience and has high expectations of them.
-* The findings of this scoping review are not new findings. The 2010 report which informed the National Standards for OHC raised similar issues around stability, supporting transition from care, better training and support for carers and workers, improvements in practice and relationships, more inclusive decision making and improved access to support services. 
+* There is a need for all workers in the sector to be aware of and trained to manage the **ongoing impacts of trauma on children and young people in care.** 
+* They should contribute to a culture that values education, supports young people to build resilience and has high expectations of them.
+
 ## Welcome policy changes 
 - According to a paper on educational support for orphans and vulnerable children in South Africa[^4], 
 	- Our study revealed that the government through the implementation of a no fee policy in schools, enabled OVC to access their basic education. This was confirmed by 57 (88%) learners indicating that the government paid their fees and 48 (74%) learners indicating that this support enabled many of them to access education.
 	- Findings further revealed that schools through the government soup kitchens provided meals to OVC where 63 (96%) learners and 38 (90.5%) teachers confirmed this fact.
 
 ## School feeding program
+- According to a paper on educational support for orphans and vulnerable children in South Africa[^4], 
+	* Food and nutrition are important components for OVC’s support (PEPFAR, 2006). USAID and CRS (2008) pointed out that school feeding programs can enable children in general and OVC in particular to access education by addressing hunger and the need to work to survive. 
+	* Eight (12%) learners also confirmed this fact that OVC did not have meals at home. Due to lack of food at home, some OVC would even come to school when they were sick to have one meal a day provided in school. 
+	* USAID and CRS (2008) maintain that take home rations have been shown to promote participation, progression and retention of OVC in education. They further argue that, children who are not hungry are better able to concentrate in class. Therefore, providing food parcels for OVC is critical in ensuring that they do not go to school hungry. 
 
-* Food and nutrition are important components for OVC’s support (PEPFAR, 2006). USAID and CRS (2008) pointed out that school feeding programs can enable children in general and OVC in particular to access education by addressing hunger and the need to work to survive. Findings from our study revealed that although schools had feeding programs, some OVC lacked meals in their homes compelling them to come to school without having breakfast.
-* Eight (12%) learners also confirmed this fact that OVC did not have meals at home. Due to lack of food at home, some OVC would even come to school when they were sick to have one meal a day provided in school. 
-* Some schools are trying to provide food parcels for OVC to take home, but they experience further challenges in providing enough for family members. For others some OVC lacked lunch boxes to carry the food home.
 
 ## Supporting OVC with school work
-* Mwoma & Pillay (2015) maintained that in supporting OVC, life orientation skills are critical for OVC especially those taking care of their ailing parents/guardians. However this support was missing as 54% of the teachers and 31% of the OVC indicated that they are not taught how to care for sick persons at home, implying the children struggle on their own. This may have indirect influence on their participation in education as they may not attend school regularly or do homework. 
-* Among the strategies identified that could be used to improve support for OVC with school work at the meso and exosystem levels is the need for government to employ more teachers to support OVC after school hours.
-* Participants also suggested that there should be a social worker in each school, to whom OVC could be referred for further support.
-* Findings further indicated that for OVC to be supported effectively there is need for a collective responsibility from teachers, parents/guardians, and government to ensure that OVC are supported in their educational needs. Each of these stakeholders should play their roles effectively to support OVC both at home and in school in line with Bronfenbrenner’s (1979) findings that the home, the school, the government and the community at large have a critical role in a child’s development and learning.
+- According to a paper on educational support for orphans and vulnerable children in South Africa[^4], 
+	* Mwoma & Pillay (2015) maintained that in supporting OVC, life orientation skills are critical for OVC especially those taking care of their ailing parents/guardians. However this support was missing as 54% of the teachers and 31% of the OVC indicated that they are not taught how to care for sick persons at home, implying the children struggle on their own. This may have indirect influence on their participation in education as they may not attend school regularly or do homework. 
+	* Among the strategies identified that could be used to improve support for OVC with school work is the need for government to employ more teachers to support OVC after school hours.
+	* Participants also suggested that there should be a social worker in each school, to whom OVC could be referred for further support.
 
 
-### Provision of feeding programs 
-* Feeding children is very important in ensuring that they have energy to play and learn and have good health. Findings from our study indicated that some children came to school without breakfast, indicating that they could be starving at home. To mitigate this, interviewees suggested that there is a need to provide food parcels for OVC to take home.
-* USAID and CRS (2008) maintain that take home rations have been shown to promote participation, progression and retention of OVC in education. They further argue that, children who are not hungry are better able to concentrate in class. Therefore, providing food parcels for OVC is critical in ensuring that they do not go to school hungry. 
-
-
-### Strengthening caregiver systems
-* McGuckin and Minton (2014) in supporting the ecological systems theory maintain that the environment in which a child grows up, plays a critical role in shaping the relationship between the child and his/her development. The family, school and neighbourhood has the most and earliest influence on the child’s development (Krishnan, 2010).
-* Thus providing the educational needs for OVC by family members and the school community is important in enhancing the educational performance of OVC.
+## Strengthening caregiver systems
+* McGuckin and Minton (2014) in supporting the ecological systems theory maintain that the environment in which a child grows up, plays a critical role in shaping the relationship between the child and his/her development. 
 * Findings from our study revealed that, in order for OVC to get adequate support from guardians/parents there is a need for workshops to sensitise them to the need to fully support OVC with school/homework and to supervise their personal hygiene at home.
-* PEPFAR (2006) maintained that supporting families helps build a protective environment for vulnerable children. Krishnan (2010) also pointed out that what happens in a microsystem such as home where a child lives, could influence what happens in the school and vice versa. It is imperative therefore, that capacity building for guardians/parents on the importance of supporting children under their care while at home and in school is an option that cannot be overlooked.
+* PEPFAR (2006) maintained that supporting families helps build a protective environment for vulnerable children. It is imperative therefore, that capacity building for guardians/parents on the importance of supporting children under their care while at home and in school is an option that cannot be overlooked.
 * Regular home visits by social workers was another strategy deemed to be supportive especially for social workers to identify the various needs of OVC alongside the needs of parents/guardians with a view of identifying the appropriate ways of meeting those needs.
 * Identifying needy guardians/parents for OVC and providing them with social grants was another strategy cited to ensure that they are able to purchase necessities for these children to promote their personal hygiene.
+
+
+
+## Small-scale, interesting educational interventions for children in institutions
 
 According to a paper that reviewed educational interventions for children in care,these are some of the interesting interventions tried across the world along with the their results [^7]
 
 ### Kids in Transition to School
-
 - The intervention was delivered within the school setting
 - This is a classroom-based program delivered 2 months prior to kindergarten entry and during the first 2 months of school.
 - Children attend 24 sessions that address early literacy skills, prosocial skills, and self-regulatory activities. 
@@ -286,18 +265,17 @@ According to a paper that reviewed educational interventions for children in car
 - Participants also receive supplemental materials to support the implementation of new skills.
 
 #### Results
-* measured early literacy skills in children aged six and under, finding a small effect of 0.26.
+* measured early literacy skills in children aged six and under, finding a small improvement
 
 
-##### Early Start to Emancipation Preparation (ESTEP) programme 
-
+### Early Start to Emancipation Preparation (ESTEP) programme 
 - The intervention was delivered in the care setting, where undergraduate and graduate students are the delivery agents.
 - Young people meet with a tutor twice a week within the care setting and receive up to 50 hours of tutoring in a math, spelling, reading, and vocabulary curriculum.
 - Tutors receive one day of training on commencement of the intervention and ongoing development twice a year.
 - A mentoring relationship is also anticipated, with youth acquiring the skills and experience to develop healthy relationships. 
 
 #### Results
- The ESTEP programme found no impacts on letter word identification, calculation or passage comprehension.
+ - The ESTEP programme found no impacts on letter word identification, calculation or passage comprehension.
 * The authors hypothesize that a large number of young people enter care due to mental health and behavioral problems, with this being evidenced by the fact that 6.5% of the study sample tested positive for post-traumatic stress, 35.1% reported having been in special educational programs prior to the study, and 26.1% reported a learning disability. 
 * They suggest that the graduate students who delivered the intervention did not have the specialist training necessary to serve these youth, and specialist teachers may be more appropriate delivery agents.
 * found no effect on grade completion at 26.8-month follow-up.
@@ -305,8 +283,7 @@ According to a paper that reviewed educational interventions for children in car
 
 
 
-##### Teach Your Children Well (TYCW) approach
-
+### Teach Your Children Well (TYCW) approach
 - The interventions were delivered by carers within the care setting.
 - The individual-level Teach Your Children Well focuses on direct one-to-one instruction by trained foster carers.
 - Intervention includes 3 hours of instruction per week, comprising 2 hours one-to-one instruction in reading, 30 minutes reading aloud by the foster child, and 30 minutes self-paced instruction in maths. The small-group-based Teach Your Children Well involves one or two trained university students delivering the curriculum to 3–4 children.
@@ -318,8 +295,7 @@ According to a paper that reviewed educational interventions for children in car
 * The evaluation found that ADHD, mental health, internalized and externalized behaviors, as defined by the Child Behavior Checklist, moderated the relationship between the intervention and academic skills.
 
 
-##### Multidimensional Treatment Foster Care for Adolescents (MTFC-A) 
-
+### Multidimensional Treatment Foster Care for Adolescents (MTFC-A) 
 - Delivers training and supervision to specialist foster parents for a nine-month period, with a short period of aftercare.
 - There is also the Multidimensional Treatment Foster Care (MTFC) intervention which caters to young girls leaving the juvenile system. The intervention involves moving into a specialist foster placement for an average duration of 174 days.
 
@@ -328,8 +304,8 @@ According to a paper that reviewed educational interventions for children in car
 * Multidimensional Treatment Foster Care for young girls leaving the youth justice system was evaluated for homework completion on three days in a one-week period at 3–6 months and 12 months post-baseline. At both time points the intervention group spent more days on homework than the control group; individuals in the intervention group spent approximately 150% more days in a week on homework at 12 months post-baseline, while the control group experienced a decline in the time allocated to this task.
 * School attendance was assessed and it was found that Multidimensional Treatment Foster Care for young girls leaving the juvenile system had an effect at the level at 12 months post-baseline. 
 
-##### The Letterbox Club 
 
+### The Letterbox Club 
 - This intervention was delivered in the care setting, but there was no delivery agent and the learning was child-led. 
 - It is a gifting intervention that provides personalized educational resources to children in foster care, with resources including books, stationary items and mathematical games.
 - Parcels are delivered to the child on a monthly basis over a six-month period. The intervention does not rely on, expect or demand foster carer involvement.
@@ -340,7 +316,7 @@ According to a paper that reviewed educational interventions for children in car
 * It measured the impact on attitude towards reading, which included recreational reading and academic reading, in addition to the liking of school. At approximately eight months post-baseline there was no impact on these outcomes.
 
 
-##### Head Start 
+## Head Start 
 - This is non -standardized in its setting, delivery agent, and duration.
 - It is a holistic, wraparound set of services intended to support disadvantaged pre-school-age children. 
 
@@ -350,7 +326,7 @@ According to a paper that reviewed educational interventions for children in car
 * Head Start, measured teacher-student relationships. At six months post-baseline there was a significant effect for the intervention
 
 
-##### The Fostering Individualized Assistance Program (FIAP)
+### The Fostering Individualized Assistance Program (FIAP)
 - It is delivered by family specialists who serve as family-centered, clinical case managers and home-based counselors working across all settings in tailoring services for individual children.
 - On receipt of a referral, the specialist advises the welfare agency, advocates for the young person, and investigates alternative school options.
 
@@ -360,15 +336,15 @@ According to a paper that reviewed educational interventions for children in car
 * evaluation of the family-specialist coordinated programme did not find any impact on the extreme number of school-to-school movements, which is defined as more than three placements per year.
 
 
-##### The Way Home
-
+### The Way Home
 - The intervention was delivered to young people who had left residential care.
 - It is a 12-month intervention to support the transition of youth with or at risk of disabilities as they reintegrate into the home following a stay in out-of-home care. 
 - Each family is assigned a trained family consultant who delivers the majority of the intervention.
 - The program integrates three interventions. Over the duration of the intervention family consultants spend approximately 138 hours with each family.
 
 #### Results
-* reported that young people in the control group were more than three times more likely to leave school compared to those in the intervention group at 12-months post-baseline (E.S. = 0.30, 95% CI = 0.12,0.75).
+* reported that young people in the control group were more than three times more likely to leave school compared to those in the intervention group at 12-months post-baseline 
+
 
 ### Fostering Healthy Futures
 * The Fostering Healthy Futures programme is a manualized skills group that aims to reduce stigma and provide opportunities to learn social and emotional competencies within a supportive environment.
@@ -379,12 +355,12 @@ According to a paper that reviewed educational interventions for children in car
 	* The primary outcome was mental health, and at 15 months post-baseline the intervention groups scored significantly lower on multi-informant measures of poor mental health. Secondary educational outcomes were measured as part of the trial and analysis is currently being undertaken.
 
 
-## Individual Education Planning
+# Individual Education Planning
 **Note: An IEP is often created by the teacher; but can be adapted to different settings**
 According to an articule that discusses development and implmentation of individual education plans for children with special needs[^2], 
 
 
-### Key Characteristics of an IEP
+## Key Characteristics of an IEP
 
 ### Special
 - An individual education plan can be the medium by which we put the special into special education. 
@@ -425,7 +401,8 @@ According to an articule that discusses development and implmentation of individ
 - It is always discouraging to hear any of these key participants say that an IEP exists, but they are not sure what it says or where it is. 
 - This suggests that the IEP exists in paper only and is without meaning or value. It should be a guide to which students, teachers and parents refer on an on-going basis.
 
-## Need for an IEP:
+## Need for an IEP
+
 ### An IEP makes best use of assessments
 - Most children now attending special educational provision have been assessed by a psychologist. 
 - A comprehensive psychological report should include information about the child’s learning strengths and difficulties and suggestions for supporting the child in his or her learning
@@ -462,84 +439,10 @@ According to an articule that discusses development and implmentation of individ
 - The previous IEP can, and should, be used to plan the next IEP and there is an invaluable record of priorities, plans, targets achieved and not achieved and resources deployed.
 
 
-# The making of an IEP
-### Getting started
-- In schools where there is little or no experience of devising IEPs, the tasks of gathering information, organising planning meetings, recording targets and reviewing can seem very daunting. 
-- Inevitably, like any new process, the first few attempts will be experienced as unfamiliar and there will be elements of resistance, confusion and difficulty. 
-- It should also be remembered that the process will be far more time-consuming at first and with experience the various elements will not seem so cumbersome and demanding.
-
-### Training 
-- The next step is to organise adequate training for staff. This could be organised through your local teacher’s centre, or perhaps through a professional body such as IATSE/ ILSA.
-
-### Gathering Information
-- A key task in developing an IEP is to gather information from relevant sources. It is important that one adult has overall responsibility for the IEP. 
-- This is particularly important in situations where a child has contact with many people in the course of his or her school day. 
-- Some information can be gathered before a planning meeting takes place, and particular care needs to be taken to ensure the meaningful collaboration of parents and children
-
-### Writing targets
-- Under the terms of the Act, long term goals, targets and strategies would all be part of the section ‘goals which the child is to achieve over a period not exceeding 12 months.’
-- The first task is to identify the child’s strengths and difficulties (the nature and degree of the child’s abilities, skills and talents and the nature and degree of the child’s special educational needs and how those affect his/ her progress). 
-- It is most important that information is recorded in precise behavioural terms. The greater the level of detail at this stage, the more likely that targets will be accurate and relevant
-- It is at this preparation stage that objective data is most useful, because it allows us to set realistic targets, it gives a clear baseline from which to work and it establishes clarity about the current level of functioning
-- Ideally teachers should prepare a written account of the child’s level of skill in key areas (the present level of educational performance of the child). 
-- On the basis of the above information it should be possible to agree a summary statement about the child’s special educational needs, (the special educational needs of the child). 
-- The next step is to talk about priorities and long term goals. It is very useful for a teacher to ask her/himself, ‘What do I want this child to be doing at the end of this year that she/ he cannot do now?’. 
-- To foster positive thinking, it can be helpful to say, ‘It would be great if…’. This question should be explicitly aired at the planning meeting to have as much consensus as possible. The answer to such a question usually gives the whole IEP endeavour a focus.
-- The next step is to compose some targets. These should relate very directly to the needs identified in the first section and should also build on the gifts and strengths identified. Again, precise terms are essential if the targets are to be meaningful. 
-- Some practitioners refer to SMART targets (specific, measurable, agreed, realistic, timed). It is not necessary to become torturously convoluted and pedantic, but it is essential that the targets are written in such a way that they can be effectively evaluated.
-
-### Specifying strategies
-- This is a vital step in articulating what is special about the special education that the student is offered. Where relevant, teachers should state the ways in which targets are to be delivered
-
-### Parental Involvement
-- In some situations it may be better if the parents' views are sought before the planning meeting, either by informal meeting, questionnaire or by telephone interview. 
-- These mechanisms need not be overly time-consuming and allow professionals to be aware of parental issues in advance of the meeting. 
-- This also allows parents to have a structured framework to work through in advance of the meeting and may help them to clarify their own thoughts and have some sense of what to expect. 
-- In some cases the parents need not attend the planning meeting, but their contribution may be recorded, shared at the meeting, and the IEP can be drafted by the multidisciplinary team and then shared with the parent subsequently in a more informal meeting.
-    * Parents do often ask, ‘What can I do to help my child?’ and teachers should give this question some prior consideration. 
-    * Parents may volunteer to undertake a task, such as listening to a child read every evening. 
-    * Parents may also be involved in monitoring behaviour. Most importantly, parents can be engaged in the giving of rewards.
-
-### Student Participation
-- In these cases a familiar and sympathetic adult should spend some time with the student in advance of the meeting, eliciting his/her views. 
-- Schools can develop a very simple proforma prompt sheet with relevant questions and issues. 
-- If the student will not be attending the meeting, his/ her views should be shared with the group. 
-- Some schools have found it useful to ask the student to join the meeting towards the end of the process
-
-### Monitoring
-- An IEP needs some amount of on-going monitoring. A key member of staff needs to have an overview of the targets and of the child’s progress. 
-- Certainly, staff should not be doggedly implementing a strategy that does not work, just because it is specified in the original IEP.
-
-### Reviewing
-- Reviews should actively involve the child and parents, as well as teachers and support staff. There are a range of different ways of organising reviews. It is usually best if any system developed fits in as far as possible with existing school structures
-- There should be some written documentation, even if it is a scribbled, dated note on the original IEP which notes which targets have been achieved. This will be invaluable information for the following year when the IEP for the next academic year is being prepared. 
-- In a formal review meeting key questions which need to be asked are: 
-        * What progress has the child made? 
-        * Which targets have been achieved?  
-        * How successful were the strategies used? 
-        * What are the next steps? 
-        * Should alternative strategies be tried? 
-        * Is a more detailed assessment needed? 
-        * Is everyone clear about what has been agreed? 
-        * Who will do what, by when?
-
-
-# Recommendations for an IEP:
-
-### Beware of paperwork:
-- The author advises to beware of cumbersome systems, which involve a lot of paperwork. These usually collapse or else are sustained through teacher exhaustion but are neither helpful to teachers, nor useful to children. 
-
-### High standard quality of dialogue:
-- It is far more important that the quality of dialogue during a review meeting is of the highest standard, then that the written document is pristine. Some solutions; drafted targets can be written on slips of paper and, if agreed, can be pasted onto a blank document. 
-
-### Do not reinvent the wheel. 
-- Proformas for the IEP planning sheet and the IEP document itself can be gleaned from relevant sources. With time, most schools will probably develop their own system, with tailor made paperwork, but proformas are certainly a way to get started (two are included at the end of this article). 
-
-### Start with small number of children:
-- Introducing IEPs at first can be daunting, but getting started, even with a small number of students, is the key. It is hoped that this article is helpful in giving some encouragement and practical guidance.
-
-# Education in CCIs
+# Improving educational outcomes in CCIs
 ## Principles of guiding education for children in CCIs
+According to a manual created by Rainbow Homes, these are the following principles we need to keep in mind while designing an education program at the CCI
+
 - All children are capable of being educated and learn
 - All children have a rich body of natural knowledge acquired before the school process which helps them make sense of a new learning
 - Children learn best when they learn in groups and interact with each other and with life around them 
@@ -550,14 +453,14 @@ According to an articule that discusses development and implmentation of individ
 
 ## Comprehensive education
 According to Rainbow Homes, these are the essential components of an educational system in CCIs
-- School support 
-- Bridge 
-- Sports
-- Life skills
-- English 
-- Computer
-- Recreation
-- Remedial Help
+- **School support** 
+- **Bridge** 
+- **Sports**
+- **Life skills**
+- **English** 
+- **Computer**
+- **Recreation**
+- **Remedial** **Help**
 
 ## Recommended routines 
 According to Rainbow homes, the four-five hours after school have to be split across 
