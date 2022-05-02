@@ -26,6 +26,7 @@ According to a paper on the educational outcomes of children in care,
 * An important finding is that some young people in OHC do have successful educational outcomes. They are the young people who are participating in or have completed a post-secondary qualification at university or other institution. 
 
 ## Comparison of educational outcomes for maltreated children in home vs care settings
+According to a paper that compared outcomes of maltreated children in foster/home settings vs larger institutional care settings[^11].
 - More recently, an analysis of GCSE examination results of all children at the age of sixteen (General Certificate of Secondary Education) found that although children in care had significantly lower average point scores than children in the wider population, those continuously in care for one year or more performed better in examinations than ‘children in need’, who received home-based services (Sebba et al., 2015). Children in care for less than a year per- formed worst of all, a finding consistent with another study which reported better educational outcomes for adolescents in long-term foster placements (Dixon et al., 2006).
 - Some studies in the USA and Australia that compared children in care to other child welfare-involved children found no differences in academic performance after controlling for differences between the groups(Font and Mcguire-Jack, 2013; Berger et al., 2015), although others found their educational performance was worse than that of the comparison group (Weiss and Fantuzzo, 2001; Smithgall et al., 2004). 
 - However, an American study that compared children in care to others in the community, including maltreated children not in care, reported that children’s test scores on various measures were fully or partly mediated by maltreatment (Fantuzzo and Perlman, 2007).
@@ -610,4 +611,5 @@ According to an articule that discusses development and implmentation of individ
 [^7]: [[Systematic review of educational interventions for looked-after children and young people, Recommendations for intervention development and evaluation]]
 [^8]: [[Miracle Foundation_Institutionalised Children_Explorations and Beyond]]
 [^9]: [[Improving foster children´s school performance, a replication of the Helsingborgs study]]
-[^10]: 
+[^10]: [[Home or Care? A Comparison of Educational Outcomes for Maltreated Children]]
+[^11]: 
