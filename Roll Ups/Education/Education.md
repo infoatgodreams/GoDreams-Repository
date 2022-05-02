@@ -86,35 +86,33 @@ From a study on boarding and day school students, we know that[^12]
 - Staff’s **low expectations and lack of belief** in their academic potential had negative consequences for the young people’s educational outcomes, as they did little to promote their aspiration for higher education. 
 - An interesting finding from this study is that for some of the young people, t**he extremely high expectations** of the staff members also had a negative influence on their education because, as revealed by other research (e.g., Murayama et al., 2016), the unrealistic expectations of adults put undue pressure on young people. This contributed to them experiencing low self-esteem and eventual disengagement from school
 - Many of the young people who took part in the study suggested that an impediment to their education was the **lack of support to compensate for their pre-care losses**. Many children, before they enter care, lag behind their peers academically because they have special educational needs due to their experiences of abuse, mental health issues, or disability. 
-- Many of them had never or hardly attended school before entering care. However, despite this disadvantage, they felt that they did not get enough guidance and mentoring from their carers and teachers. 
-- Most of the staff paid little attention to their studies or had difficulty helping with subjects such as maths or science
-- Several of the participants also reiterated that adults in the children’s homes often had low expectations and aspirations for those who were academically weak. 
-- The participants reiterated that those considered academically weak, especially the females, were advised by the staff of the children’s homes to shelve their higher educational aspirations in favor of lower courses such as vocational training, even if that was not what they wanted to do
+- Most of the staff paid little attention to their studies or had **difficulty helping with subjects such as maths or science**
+- Several of the participants also reiterated that adults in the children’s homes often had low expectations and aspirations for those **who were academically weak.** 
+- The participants reiterated that those considered academically weak, especially the females, were advised by the staff of the children’s homes to shelve their higher educational aspirations in favor of lower courses such as **vocational training**, even if that was not what they wanted to do
 	- In India, young people in care often have to opt for vocational courses because the institutions have difficulty finding donors to fund expensive courses like medicine (Azam et al., 2019). 
-- Previous Ghanaian research (Darkwah et al., 2016) shows that staff in residential facilities generally have low academic qualifications and minimal on-the-job training, which probably contributed to their failure to assess the young people’s academic competence or give them academic support outside school hours.
+- Previous Ghanaian research (Darkwah et al., 2016) shows that staff in residential facilities generally have l**ow academic qualifications and minimal on-the-job training**, which probably contributed to their failure to assess the young people’s academic competence or give them academic support outside school hours.
 
 ## Non-participation in Educational Decisions
-- Children in care are not consulted or given opportunities to communicate their views on decisions. Without their participation, the young people end up in courses that they have little interest in or ability to pursue, leading to many dropping out or struggling to attain good qualifications. 
-- Enabling children to take part in decisions helps professionals to identify their needs and improves their self-esteem and confidence
-- The young people then felt pressured to accept the decisions with little consideration given to their wishes
+- Children in care are **not consulted or given opportunities to communicate** their views on decisions. Without their participation, the young people end up in courses that they have little interest in or ability to pursue, leading to many dropping out or struggling to attain good qualifications. 
+- Enabling children to take part in decisions helps professionals to identify their needs and improves their **self-esteem and confidence**
+- The young people then **felt pressured** to accept the decisions with little consideration given to their wishes
 - Many of the participants felt that the decisions and advice given by some staff were poor and not always in their best interest. The young people felt disempowered and disoriented by the decisions they disagreed with but forced to accept. This included not being allowed to attend their preferred school or doing the course that they wanted. 
 
 ## Stigma
-- Stigma emerged from the study as a barrier to academic progress. Negative comments from teachers and schoolmates because of their care background made school unlikable for many of the young people in the study. These experiences of stigma resulted in some even dropping out, disrupting their education 
+- **Stigma emerged from the study as a barrier to academic progress.** Negative comments from teachers and schoolmates because of their care background made school unlikable for many of the young people in the study. These experiences of stigma resulted in some even dropping out, disrupting their education 
 - Some of the interviewees mentioned that they experienced stigma in school, which impeded their academic progress. According to them, certain organizational policies intended to assist them rather became a source of stigma. For example, though they did not want people to find out they were living in a children’s home, being taken to school in the institution’s bus revealed their care status 
-- Many of the participants indicated that once their mates found out they were from the children’s home, they experienced different forms of stigma, discrimination and social exclusion
-- Low self-esteem among OVC was found to be a contributing factor to poor performance in education as T6SA said “self-esteem is … related to low morale and their performances are disturbed”.
+- Many of the participants indicated that once their mates found out they were from the children’s home, **they experienced different forms of stigma, discrimination and social exclusion**
+- **Low self-esteem** among OVC was found to be a contributing factor to poor performance in education as T6SA said “self-esteem is … related to low morale and their performances are disturbed”.
 
 ## Impact of social deprivation and trauma:
-According to paper on the educational outcomes of children in care
+According to paper on the educational outcomes of children in care[^6]
 - Children and young people in care have almost universally had a difficult start in life. 
 - Most children in care are from socially disadvantaged backgrounds, often from families with high numbers of contacts with mental health and alcohol and other drug treatment services. 
 -  Many children have experienced significant trauma, and this can have long-term impact on educational engagement and outcomes.
 
 ## Poor teaching support
 According to a paper on educational support for OVC in South Africa, 
-* Findings from our study indicated that the challenges deterring teachers from supporting OVC include lack of sufficient time for individual attention to OVC. As one teacher said, “we have no sufficient time to support individual children” (T2SA)
-* Wood and Goba (2011) noted that teachers trained in life orientation felt a sense of being marginalised by their colleagues who left OVC for them to deal with. On the other hand OVC experienced stigma which was challenging for life orientation teachers who could not prevent it from happening.
+* Findings from our study indicated that the challenges deterring teachers from supporting OVC include lack of sufficient time for individual attention to OVC. As one teacher said, “we have no sufficient time to support individual children”
 * Reading and writing were other challenges that OVC struggled with. Twenty six (40%) learners reported that they were not able to write like other children while 14 (23%) indicated they were not able to read like others.
 * This challenge could be connected to lack of sufficient time for teachers to attend to learners individually, leaving OVC struggling on their own.
 * Lack of concentration among OVC, submitting school work late and not doing their school/homework were other challenges cited as likely to have negative influence on OVC’s education.
