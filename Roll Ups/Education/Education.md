@@ -171,6 +171,16 @@ According to a paper on educational support for OVC in South Africa,
 * Reading and writing were other challenges that OVC struggled with. Twenty six (40%) learners reported that they were not able to write like other children while 14 (23%) indicated they were not able to read like others.
 * This challenge could be connected to lack of sufficient time for teachers to attend to learners individually, leaving OVC struggling on their own.
 * Lack of concentration among OVC, submitting school work late and not doing their school/homework were other challenges cited as likely to have negative influence on OVC’s education.
+- According to a paper on improving foster children's performance in schools[^9], these are a couple of crucial factors for determining performance
+	- Teachers’ positive expectations:
+        * As stated by authors as Mitchell (2006), and shown in meta analysis by Hattie (2009), teachers’ positive expectations of academic performance have a substantial impact on children’s school achievements. 
+    * Feedback on students’ performance:
+        * Another important factor promoting good school results is feedback on students’ performance. Hattie clarifies that effective feedback should cover three aspects: 
+            * What direction am I heading? 
+            * How am I doing? 
+            * What is my next step forward? 
+    * Formal assessment of performance:
+        * A third strong factor in Hattie’s syntheses is formal assessment of performance (effect size 0.90). In the Skolfam model these three factors are applie
 
 ## Lack of parental support
 * Mwoma & Pillay (2015) noted that parents/guardians were not supportive to OVC in relation to homework. Pillay (2011) revealed that learners from child headed households lacked support and they mostly had negative experiences in their homes characterised by abject poverty.
@@ -581,4 +591,5 @@ According to an articule that discusses development and implmentation of individ
 [^6]: [[The educational outcomes of children in care, a scoping review]]
 [^7]: [[Systematic review of educational interventions for looked-after children and young people, Recommendations for intervention development and evaluation]]
 [^8]: [[Miracle Foundation_Institutionalised Children_Explorations and Beyond]]
-[^9]: 
+[^9]: [[Improving foster children´s school performance, a replication of the Helsingborgs study]]
+[^10]: 
