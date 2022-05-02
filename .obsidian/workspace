@@ -7,8 +7,12 @@
         "id": "442b49eb963afdf8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Roll Ups/Education/Education.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -45,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e154e99fa257850e",
@@ -67,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Roll Ups/Education/Education.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
