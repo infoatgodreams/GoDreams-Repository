@@ -18,8 +18,9 @@ According to a paper on the educational support for OVC in South Africa[^5],
 * USAID and CRS (2008) point out that basic education in primary and secondary levels contribute to the reduction of poverty. It increases labour productivity, improves health and enables people to participate fully in the economy and the development of their societies.
 * Thus OVC **need educational interventions** as they are at risk of becoming infected with HIV due to economic hardships, reduced parental care and protection and increased susceptibility to abuse, and exploitation.
 
+# Data relevant to education of OVC
 
-# Data that captures the struggles of OVC in achieving educational outcomes
+## Data that captures the struggles of OVC in achieving educational outcomes
 According to a paper on educational intervention planning for children in care[^14], 
 - Youth that left long term foster care after age 17 have been disadvantaged fivefold; 
 	- firstly because of their **higher risk of poor grades in primary school,** 
@@ -36,178 +37,71 @@ According to a paper on the educational outcomes of children in care,
 * An important finding is that some young people in OHC do have successful educational outcomes. They are the young people who are participating in or have completed a post-secondary qualification at university or other institution. 
 
 
-# Comparison of educational outcomes for maltreated children in home vs care settings
+## Comparison of educational outcomes for maltreated children in home vs care settings
+*Maltreatment refers to the cruel and violent treatment of children*
+
 According to a paper that compared outcomes of maltreated children in foster/home settings vs larger institutional care settings[^11].
-- More recently, an analysis of GCSE examination results of all children at the age of sixteen (General Certificate of Secondary Education) found that although children in care had significantly lower average point scores than children in the wider population, those continuously in care for one year or more performed better in examinations than ‘children in need’, who received home-based services (Sebba et al., 2015). Children in care for less than a year per- formed worst of all, a finding consistent with another study which reported better educational outcomes for adolescents in long-term foster placements (Dixon et al., 2006).
-- Some studies in the USA and Australia that compared children in care to other child welfare-involved children found no differences in academic performance after controlling for differences between the groups(Font and Mcguire-Jack, 2013; Berger et al., 2015), although others found their educational performance was worse than that of the comparison group (Weiss and Fantuzzo, 2001; Smithgall et al., 2004). 
-- However, an American study that compared children in care to others in the community, including maltreated children not in care, reported that children’s test scores on various measures were fully or partly mediated by maltreatment (Fantuzzo and Perlman, 2007).
-- Both the children currently in care and those in the home group were less likely to meet age-related expectations for receptive vocabulary, literacy and communication than children in the general population. Children in the care appeared slightly more likely to meet the standard age-related expectations for receptive vocabulary than the home group, although this difference did not quite reach significance. 
-- In teacher assessments of communication (listening, speaking and understanding), however, the care group were significantly less likely to meet expectations than the home group. Nevertheles, the difference between children in care and other children with histories of child welfare involvement was not statistically significant, reflecting findings elsewhere
-- - The two groups proved to be well-matched in terms of their current age and welfare histories, and there was also little difference between them on measures of parenting style. However, children in the care group were significantly more likely to have experienced severe maltreatment. They had also experienced a significantly higher total number of risk factors, including more types of abuse and neglect and more parental problems. 
-- The care group were also more likely to be disabled and to have SEN, although these differences did not quite reach statistical significance. Their parents were nearly twice as likely to have problems of drug or alcohol misuse, and were more likely to be involved in offending and to have a disability or chronic health problem. More serious histories of adversity may increase both the risk of admission to care and the risk of poor educational outcomes, thus potentially operating as a confounding factor, which may help to explain differences in attainment between children in care and those in the wider population.
-- Differences in the pre-school skills of advantaged and disadvantaged children have been found to be predominantly in language and communication. Early language, including vocabulary development, is linked to early literacy and it is this that is linked to wider educational attainment and later-life outcomes (Phillips and Lonigan, 2009; Marmot, 2010).
--  For most children who start school behind their peers, the attainment gap will only increase throughout their school career. 
-- It is therefore essential to understand the early development of vocabulary, communication and literacy skills for children who enter care at an early age.
-- This article reports the findings of a new study, which drew on a set of variables compiled from multiple data sources to compare the educational development of a sample of young children in care due to abuse or neglect to that for children with histories of maltreatment currently living at home. 
-- The analysis draws on the conceptual framework that children’s backgrounds and pre-care experiences, including of maltreatment, are implicit in mediating their educational outcomes. 
-- Studies, which have tried to overcome this selection bias by comparing children in care to others with similar demographic characteristics have reported a weaker relationship between placement and educational outcomes. 
-- Others have compared them to children involved with child welfare services who remain at home, with an early English study finding that foster children performed no worse than a comparison group receiving social work support in the community. It concluded that, whilst care did not appear to compensate children for prior educational disadvantage, nor was it the cause of their poor educational achievement
+- Some studies in the USA and Australia that compared children in care to other child welfare-involved children found no differences in academic performance after controlling for differences between the groups, although others found their educational performance was worse than that of the comparison group
+- However, an American study that compared children in care to others in the community, including maltreated children not in care, reported that children’s test scores on various measures were fully or partly mediated by maltreatment
+- Both the children currently in care and those in the foster home group were less likely to meet age-related expectations for receptive vocabulary, literacy and communication than children in the general population. **Children in the care appeared slightly more likely to meet the standard age-related expectations for receptive vocabulary than the foster home group, although this difference did not quite reach significance.** 
+- In teacher assessments of communication (listening, speaking and understanding), however, the care group were significantly less likely to meet expectations than the foster home group. 
+- The two groups proved to be well-matched in terms of their current age and welfare histories, and there was also little difference between them on measures of parenting style. However, children in the care group were significantly more likely to have experienced severe maltreatment. They had also experienced a significantly higher total number of risk factors, including more types of abuse and neglect and more parental problems. 
+- **Differences in the pre-school skills of advantaged and disadvantaged children have been found to be predominantly in language and communication. Early language, including vocabulary development, is linked to early literacy and it is this that is linked to wider educational attainment and later-life outcomes** (Phillips and Lonigan, 2009; Marmot, 2010).
+- For most children who start school behind their peers, the attainment gap will only increase throughout their school career. 
+- Others have compared them to children involved with child welfare services who remain at home, with an early English study finding that foster children performed no worse than a comparison group receiving social work support in the community. **It concluded that, whilst care did not appear to compensate children for prior educational disadvantage, nor was it the cause of their poor educational achievement**
 
 
-## Learnings from boarding schools
+## Insights from children studying in boarding schools
+*Boarding schools show us that educational outcomes are not determined by an institutional setting*
 
 From a study on boarding and day school students, we know that[^12]
-* boarding students were more likely to report they were satisfied with their academic experience and were more likely to report that school prepared them for college.
-* boarding instills independence and acceptance of cultural diversity.
-* boarding for disadvantaged students enhanced their exposure to social and educational capital.
-* found predominant parity between boarding and day students (described below), but where small effects were identified, they favored boarders.
-* potentially positive outcomes for boarding students.
-*  research documenting negative effects of boarding for some children. mental health and wellbeing among high school boarders (boys) as they transitioned to and into boarding school.
-* They found increases in emotional problems among boarding students over time. 
-* They also found that academic motivation declined over time; however, this was the case for both boarders and day students. 
-* boarding and day students reported increases in depression, anxiety, and emotional symptoms between Grades 7 and 9, but that boarding students reported higher levels of anxiety and stress than day students at the end of Grade 8. 
+* Boarding students were more likely to report they were satisfied with their academic experience and were more likely to report that school prepared them for college.
+* Boarding instills independence and acceptance of cultural diversity.
+-  **Boarding for disadvantaged students enhanced their exposure to social and educational capital.****
+* Found predominant parity between boarding and day students (described below), but where small effects were identified, they favored boarders.
+*  Research documenting negative effects of boarding for some children. mental health and wellbeing among high school boarders (boys) as they transitioned to and into boarding school.
+* **They found increases in emotional problems among boarding students over time.** 
 * It has also been documented how some boarding schools are contexts perpetuating institutional and societal power structures and problematic ideologies—such as those around gender
-* After controlling for background and personality attributes, we found predominant parity between boarding and day students in their motivation, engagement, and achievement. 
+* After controlling for background and personality attributes, **we found predominant parity between boarding and day students in their motivation, engagement, and achievement.** 
 * We also found that motivation, engagement, and achievement at the class-level were not significantly affected by the number of boarders in the classroom. 
 * In addition, the effects of boarding were generally not moderated by students’ background or personality attributes.
-
-
-## Null Boarding Effects 
-
-* there is not a major difference in educational outcomes when comparing boarding and day school students. 
+* **There is not a major difference in educational outcomes when comparing boarding and day school students.** 
 * relatively few differences (with small effect sizes) in academic wellbeing (e.g., domain-general academic motivation and engagement) and personal wellbeing.
-* no major changes in self-concept through this transition. 
-* found that disadvantaged students in boarding initially experienced low levels of wellbeing, but their wellbeing adjusted during their boarding experience. 
-* They also found boarders experienced academic gains 2 years after commencing boarding, but this effect did not generalize across students.
+* **found that disadvantaged students in boarding initially experienced low levels of wellbeing, but their wellbeing adjusted during their boarding experience.** 
 
-# Major challenges of learning for OVC 
-- According to a report that looks at child performance in five different sites in developing countries[^1], The ill effects of being an orphaned or abandoned child (OAC) in a LMIC are reported to include fewer years of schooling, poorer school performance, poorer households, less adequate housing, increased malnutrition, higher morbidity and mortality, poorer access to medical care, and a higher prevalence of depression
-- According to a paper on the educational support for OVC in South Africa, we learn about the following struggles[^5]
-	- Due to HIV/AIDS, the traditional structure of households is changing in affected communities, leaving vulnerable children to adapt to non-traditional families and poverty (Ebersohn & Eloff, 2002). Ebersohn and Eloff note that when parents die, some orphans are left under the care of aged grandparents or under older siblings to care for them.
-	* Fleming further argued that maternal and double orphans are more discriminated against in accessing education than paternal orphans (Fleming, 2015; Case et al, 2004).
-	* Vulnerable children from child-headed households are burdened with domestic and economic responsibilities, which in turn affect their participation in education in relation to attend and succeed in school (Fleming, 2015).
-	* As the number of OVC grows, communities become less and less capable of addressing all their basic needs, including their ability to go to school (UNICEF, 2009)
 
-- According to a paper on educational experiences of care leavers from Ghana, these are the following factors that affect educational attainment[^3], 
-## Pre-care:
-- Many children, before they enter care, lag behind their peers academically because they have special educational needs due to their experiences of abuse, mental health issues, or disability. 
-- In many African countries such as Cote D’Ivoire, many vulnerable children who enter care, including orphans and those living with a disability, are often excluded from education because of poverty, the need for labor or parental sickness or death
+# Major barriers of academic success for OVC 
+*According to a report that looks at child performance in five different sites in developing countries[^1], The ill effects of being an orphaned or abandoned child (OAC) in a LMIC are reported to include **fewer years of schooling, poorer school performance, poorer households, less adequate housing, increased malnutrition, higher morbidity and mortality, poorer access to medical care, and a higher prevalence of depression***
 
-## In-care:
 - Many young people in care experience frequent placement moves, affecting their school attendance and performance.
-- Also, carers and school teachers often have low expectations for young people in care and thus do not encourage them to pursue higher education 
 - In developing countries, a significant obstacle to the education of children and young people in care is the financing arrangements of residential care facilities. Most facilities depend heavily on funding from donors and volunteers (Keshavarzian & Borgstr€om, 2020). While funds from donors allow the facilities to educate the children, it has its challenges 
-- In India, young people in care often have to opt for vocational courses because the institutions have difficulty finding donors to fund expensive courses like medicine (Azam et al., 2019). 
-- In addition, a growing phenomenon in Africa and Asia is orphanage tourism, where tourists and volunteers are allowed to visit and stay in care facilities for a fee or donation (Richter & Norman, 2010). 
-- However, some activities of the visitors disrupt the children’s education. For instance, the children sometimes miss school to rehearse and undertake performances to entertain donors visiting the residential facility (Islam, 2013).
-- In countries such as Bangladesh, Botswana and India, young people in or from residential care indicate facing stigma from school teachers and schoolmates because of their care or orphan background
-
-## Aftercare: 
+- In addition, a growing phenomenon in Africa and Asia is orphanage tourism, where tourists and volunteers are allowed to visit and stay in care facilities for a fee or donation. However, some activities of the visitors disrupt the children’s education. For instance, the children sometimes miss school to rehearse and undertake performances to entertain donors visiting the residential facility 
 - Many young people have difficulty persisting with their education after leaving care. 
 - Most African countries lack statutory after-care services and support for care leavers. 
 - Without support, many care leavers in India, Zimbabwe, and Philippines face financial difficulties and the pressure to earn an income which forces them to postpone their education
-
-## Facilitators of Academic success:
-
-*According to a paper on the educational outcomes of children in care[^7], There are common themes among those who have done well. These include good relationships with and support from key adults, and a sense of resilience combined with high aspirations and persistence. A stable placement while attending a good school in the final years of secondary education also helps.* 
-
-From conversations with care-leavers in Ghana, we know that[^3]
-* The factors identified in various studies as contributing to the educational success of care leavers include:
-    * resourcefulness and motivation, 
-    * having key adults who provide guidance and encouragement, 
-    * financial and practical support, 
-    * and participation in extracurricular activities.
-* Care leavers in many developing countries highlight the access to education as a positive feature of care. Islam (2013) argues that the positive experience is because, in Bangladesh and other developing countries, education is often viewed as a primary function of residential care as it is a vehicle for the social improvement of children who are in care mainly because of poverty. 
-* Thus, compared to their pre-care lives often characterised by poverty and homelessness, the well-run facilities provide the stability for the young people to attend school
-
-## Personal Motivation
-- According to the participants, having personal motivation is an important part of academic success. Their narrations suggest that despite the challenges they experienced pre-care and in-care, they had the conviction to succeed academically to make their future better 
-- Having experienced disruptions to their schooling, they saw care as an opportunity to get an education and a “better life”, something that they would not have gotten if they had stayed with their parents or extended families
-
-## Encouragement from Adults and Peers
-- Aside from the personal resources, the young people in the study also suggest that support from carers and other significant adults facilitated their academic progress
-- It is therefore probable that those who had poor educational experiences and who were having difficulties after leaving care are underrepresented in this study.
-- The findings seem to suggest a link between the care leaver’s educational achievement and staff members’ expectations and attitudes. From the accounts of the young people, having a significant adult who took an interest in their academic work boosted their confidence and determination to succeed, echoing the findings in other studies. 
-- Several participants mentioned that the encouragement and support from adults and their peers served as an important facilitator to their academic success. 
-- The adults, often their immediate carers and teachers, pushed them to do well in school and believed in their potential, which showed through their actions. According to the participants, the encouragement and advice from these adults helped them realize the importance of education
-- Aside from the encouragement and motivation, the adults provided practical support that helped many of the care leavers with their education. 
-- The adults attended school events, contacted their teachers regularly to enquire about their progress, and used their own money to pay the school fees for some of the participants after they had left care
-- Others received support and motivation from informal sources such as their biological relatives
-- Another youth also explained that he was motivated to study harder and stay in school because his peers in care who attended university became his role models
-
-## Stable caregivers
-According to a paper on exploring factors associated with educational outcomes for orphaned children in India[^5], 
-* Caregivers are the direct source of social and financial capital that ensures proper development of a child (Scott et al. 2013). 
-* They are also the means to transmit policies and programs in the larger ecosystem in order to support children in attaining their rights. 
-* Many studies have suggested that caregiver health and education are the most influential factors that impact a child’s educational outcome
-* Caregivers with higher levels of education are more likely to support school enrollment and retain children in school, despite monetary constraints
-* caregivers that have access to proper shelter, health care, food, and other basic assets have greater ability to provide good quality care to their children, thereby, improving the child’s education and health outcomes.
-* Along with low-socioeconomic status, certain social and cultural factors further reduce the capability of caregivers, including gender, caste, religion, land distribution, and geographical location (Tsujita 2013).
-
-## Characteristics of the Child:
-According to a paper on exploring factors associated with educational outcomes for orphaned children in India[^5], 
-* Certain child characteristics also impact educational outcomes. These include age, gender, and health of the children.
-* In India, female children continue to be one of the most disadvantaged groups that are systematically left out of school due to fiscal constraints, safety, and perceived economic returns, among other reasons.
-* male children in low-income families, as compared to male children in higher-income families, are more likely to be involved in work as compared to being enrolled in school. 
-* although more barriers exist for female children for school enrollment, their educational achievement tends to be higher as compared to boys
-* Age: While there has been an increase in primary school enrollment, UNICEF reports indicate that the secondary school enrollment rates in India still remain dismal.
-* India faces a high dropout rate when children are transitioning from primary school to higher levels of education.
-* a high proportion of students (15.9 %) drop out of school in grade 5 in India
-
-## Strong Relationship between Caregiver and Child:
-* The caregiver’s investment in the child’s education is based on the interplay of child, caregiver, and household characteristics
-* caregivers of HIV/AIDSaffected orphans in Sub-Saharan Africa face a heavy burden of financially supporting the orphans in addition to providing for their own families. 
-* In such circumstances, children that are not biologically related to the caregiver might face additional disadvantages as compared to those children that are biologically related.
-* children who live in households that are headed by non-biologically related caregivers’ fare systematically worse than those living with biological parents.
-* participation in educational activities by orphans residing in resource-constrained households is considered a luxury. 
-* These children are often involved in paid or unpaid work and are deprived of educational opportunities due to disadvantages arising from the interaction between limited resources and relationship with the caregiver. 
-* Child education outcomes were significantly associated with caregiver’s health and education. This finding supports previous studies that indicate caregiver education and health are protective factors for children at risk.
-* Educated parents are more likely to understand the value of their children being educated and its long-term positive effects, irrespective of their socioeconomic status.
-* if the caregiver is in poor health, he/she is less likely to be working and providing for the children.
-*  children with ailing caregivers are more likely to drop out of school, and spend most of their time nursing the caregiver, or providing for the household.
-* Results suggest that when caregivers have limited resources, their caretaking abilities are compromised, as they make choices about who to provide for and which household members have more value.
-* orphans in households with non-biological caregivers might be more engaged in paid work to generate additional income, or be involved in household chores to reserve resources rather than utilizing it for education related expenses.
-
-
-
-# Barriers to Academic Achievement
 - Evidence from Ghanaian care-leaving research suggests that many young people who leave care experience challenges with employment, housing, and social integration (Frimpong-Manso, 2018). 
 * The care leavers who have good outcomes are often those who have the opportunity to stay longer in care to finish their education and also have financial and material support from the residential facility after leaving care (Frimpong-Manso, 2018).
 
 ## Lack of Educational Support and Guidance:
-- Staff’s low expectations and lack of belief in their academic potential had negative consequences for the young people’s educational outcomes, as they did little to promote their aspiration for higher education. 
-- An interesting finding from this study is that for some of the young people, the extremely high expectations of the staff members also had a negative influence on their education. 
-- Because, as revealed by other research (e.g., Murayama et al., 2016), the unrealistic expectations of adults put undue pressure on young people. This contributed to them experiencing low self-esteem and eventual disengagement from school
-- Many of the young people who took part in the study suggested that an impediment to their education was the lack of support to compensate for their pre-care losses.
--  Many of them had never or hardly attended school before entering care. However, despite this disadvantage, they felt that they did not get enough guidance and mentoring from their carers and teachers. 
+- Staff’s **low expectations and lack of belief** in their academic potential had negative consequences for the young people’s educational outcomes, as they did little to promote their aspiration for higher education. 
+- An interesting finding from this study is that for some of the young people, t**he extremely high expectations** of the staff members also had a negative influence on their education because, as revealed by other research (e.g., Murayama et al., 2016), the unrealistic expectations of adults put undue pressure on young people. This contributed to them experiencing low self-esteem and eventual disengagement from school
+- Many of the young people who took part in the study suggested that an impediment to their education was the **lack of support to compensate for their pre-care losses**. Many children, before they enter care, lag behind their peers academically because they have special educational needs due to their experiences of abuse, mental health issues, or disability. 
+- Many of them had never or hardly attended school before entering care. However, despite this disadvantage, they felt that they did not get enough guidance and mentoring from their carers and teachers. 
 - Most of the staff paid little attention to their studies or had difficulty helping with subjects such as maths or science
 - Several of the participants also reiterated that adults in the children’s homes often had low expectations and aspirations for those who were academically weak. 
-- The staff gave them little motivation and encouragement to excel. According to the young people, these attitudes undermined their self-belief and contributed to their underachievement in school.
 - The participants reiterated that those considered academically weak, especially the females, were advised by the staff of the children’s homes to shelve their higher educational aspirations in favor of lower courses such as vocational training, even if that was not what they wanted to do
-- The participants from one of the residential facilities revealed that the overly high expectations of the staff affected their academic progress negatively. 
-- They pointed out that the staff pushed them to attend the international college owned by the residential facility, even when they did not satisfy the admission criteria. 
-- However, some young people struggled to cope with the academic work and failed several of their courses, leading to their dismissal from the college and ending their schooling
+	- In India, young people in care often have to opt for vocational courses because the institutions have difficulty finding donors to fund expensive courses like medicine (Azam et al., 2019). 
 - Previous Ghanaian research (Darkwah et al., 2016) shows that staff in residential facilities generally have low academic qualifications and minimal on-the-job training, which probably contributed to their failure to assess the young people’s academic competence or give them academic support outside school hours.
 
 ## Non-participation in Educational Decisions
 - Children in care are not consulted or given opportunities to communicate their views on decisions. Without their participation, the young people end up in courses that they have little interest in or ability to pursue, leading to many dropping out or struggling to attain good qualifications. 
-- Like other existing research (Berridge, 2017; Wilson et al., 2019), care leavers in this study have the desire to have some control over their education. 
-- The inability to do so is a denial of their rights that are enshrined in the Convention on the Rights of the Child and recommended by the Guidelines for the Alternative Care of Children. 
 - Enabling children to take part in decisions helps professionals to identify their needs and improves their self-esteem and confidence
-- From the accounts of almost all the young people, the staff in the orphanages mostly decided on their education and career, including making choices about schools and courses, without consulting them or explaining the reasons.
 - The young people then felt pressured to accept the decisions with little consideration given to their wishes
 - Many of the participants felt that the decisions and advice given by some staff were poor and not always in their best interest. The young people felt disempowered and disoriented by the decisions they disagreed with but forced to accept. This included not being allowed to attend their preferred school or doing the course that they wanted. 
-- Those who did not do well in school and those who did not continue with their education blamed it on not having an interest in what they were forced to study
-- The youth felt that while the staff might have had good intentions when they made choices about their education, it would have been better if they had consulted them, given them reasons behind the decisions made, or opportunities to share their opinions
-- As far as personal decision-making was concerned, the young people display agency in identifying personal challenges, and then planning and implementing solutions.
 
 ## Stigma
 - Stigma emerged from the study as a barrier to academic progress. Negative comments from teachers and schoolmates because of their care background made school unlikable for many of the young people in the study. These experiences of stigma resulted in some even dropping out, disrupting their education 
-- However, similar to studies from Wales (Mannay et al., 2017), the practices of some residential care facilities and schools intended to aid their academic work rather generated some of the stigma the young people experienced in school
-- Some of the interviewees mentioned that they experienced stigma in school, which impeded their academic progress. According to them, certain organizational policies intended to assist them rather became a source of stigma. 
-- For example, though they did not want people to find out they were living in a children’s home, being taken to school in the institution’s bus revealed their care status
-- The young people who attended school in their children’s home suggested that the activities of their instructors led to feeling stigmatized. 
-	- Dora said, “The teachers referred to children from the children’s home as ‘our children,’ and they also separated our exam results from those of the other students.” 
+- Some of the interviewees mentioned that they experienced stigma in school, which impeded their academic progress. According to them, certain organizational policies intended to assist them rather became a source of stigma. For example, though they did not want people to find out they were living in a children’s home, being taken to school in the institution’s bus revealed their care status 
 - Many of the participants indicated that once their mates found out they were from the children’s home, they experienced different forms of stigma, discrimination and social exclusion
 - Low self-esteem among OVC was found to be a contributing factor to poor performance in education as T6SA said “self-esteem is … related to low morale and their performances are disturbed”.
 
@@ -282,6 +176,71 @@ According to a paper exploring factors associated with educational outcomes for 
 * girls, the reasons for dropping out might include marriage, caretaking of younger siblings or ailing parents, and reservation of resources, among others.
 * Interestingly, child’s gender was not a significant predictor of education outcome.
 * This suggests that although child’s gender might be an important predictor of education outcomes, for this particular sample, other factors might be more influential.
+
+
+## Facilitators of Academic success:
+
+*According to a paper on the educational outcomes of children in care[^7], There are common themes among those who have done well. These include good relationships with and support from key adults, and a sense of resilience combined with high aspirations and persistence. A stable placement while attending a good school in the final years of secondary education also helps.* 
+
+From conversations with care-leavers in Ghana, we know that[^3]
+* The factors identified in various studies as contributing to the educational success of care leavers include:
+    * resourcefulness and motivation, 
+    * having key adults who provide guidance and encouragement, 
+    * financial and practical support, 
+    * and participation in extracurricular activities.
+* Care leavers in many developing countries highlight the access to education as a positive feature of care. Islam (2013) argues that the positive experience is because, in Bangladesh and other developing countries, education is often viewed as a primary function of residential care as it is a vehicle for the social improvement of children who are in care mainly because of poverty. 
+* Thus, compared to their pre-care lives often characterised by poverty and homelessness, the well-run facilities provide the stability for the young people to attend school
+
+## Personal Motivation
+- According to the participants, having personal motivation is an important part of academic success. Their narrations suggest that despite the challenges they experienced pre-care and in-care, they had the conviction to succeed academically to make their future better 
+- Having experienced disruptions to their schooling, they saw care as an opportunity to get an education and a “better life”, something that they would not have gotten if they had stayed with their parents or extended families
+
+## Encouragement from Adults and Peers
+- Aside from the personal resources, the young people in the study also suggest that support from carers and other significant adults facilitated their academic progress
+- It is therefore probable that those who had poor educational experiences and who were having difficulties after leaving care are underrepresented in this study.
+- The findings seem to suggest a link between the care leaver’s educational achievement and staff members’ expectations and attitudes. From the accounts of the young people, having a significant adult who took an interest in their academic work boosted their confidence and determination to succeed, echoing the findings in other studies. 
+- Several participants mentioned that the encouragement and support from adults and their peers served as an important facilitator to their academic success. 
+- The adults, often their immediate carers and teachers, pushed them to do well in school and believed in their potential, which showed through their actions. According to the participants, the encouragement and advice from these adults helped them realize the importance of education
+- Aside from the encouragement and motivation, the adults provided practical support that helped many of the care leavers with their education. 
+- The adults attended school events, contacted their teachers regularly to enquire about their progress, and used their own money to pay the school fees for some of the participants after they had left care
+- Others received support and motivation from informal sources such as their biological relatives
+- Another youth also explained that he was motivated to study harder and stay in school because his peers in care who attended university became his role models
+
+## Stable caregivers
+According to a paper on exploring factors associated with educational outcomes for orphaned children in India[^5], 
+* Caregivers are the direct source of social and financial capital that ensures proper development of a child (Scott et al. 2013). 
+* They are also the means to transmit policies and programs in the larger ecosystem in order to support children in attaining their rights. 
+* Many studies have suggested that caregiver health and education are the most influential factors that impact a child’s educational outcome
+* Caregivers with higher levels of education are more likely to support school enrollment and retain children in school, despite monetary constraints
+* caregivers that have access to proper shelter, health care, food, and other basic assets have greater ability to provide good quality care to their children, thereby, improving the child’s education and health outcomes.
+* Along with low-socioeconomic status, certain social and cultural factors further reduce the capability of caregivers, including gender, caste, religion, land distribution, and geographical location (Tsujita 2013).
+
+## Characteristics of the Child:
+According to a paper on exploring factors associated with educational outcomes for orphaned children in India[^5], 
+* Certain child characteristics also impact educational outcomes. These include age, gender, and health of the children.
+* In India, female children continue to be one of the most disadvantaged groups that are systematically left out of school due to fiscal constraints, safety, and perceived economic returns, among other reasons.
+* male children in low-income families, as compared to male children in higher-income families, are more likely to be involved in work as compared to being enrolled in school. 
+* although more barriers exist for female children for school enrollment, their educational achievement tends to be higher as compared to boys
+* Age: While there has been an increase in primary school enrollment, UNICEF reports indicate that the secondary school enrollment rates in India still remain dismal.
+* India faces a high dropout rate when children are transitioning from primary school to higher levels of education.
+* a high proportion of students (15.9 %) drop out of school in grade 5 in India
+
+## Strong Relationship between Caregiver and Child:
+* The caregiver’s investment in the child’s education is based on the interplay of child, caregiver, and household characteristics
+* caregivers of HIV/AIDSaffected orphans in Sub-Saharan Africa face a heavy burden of financially supporting the orphans in addition to providing for their own families. 
+* In such circumstances, children that are not biologically related to the caregiver might face additional disadvantages as compared to those children that are biologically related.
+* children who live in households that are headed by non-biologically related caregivers’ fare systematically worse than those living with biological parents.
+* participation in educational activities by orphans residing in resource-constrained households is considered a luxury. 
+* These children are often involved in paid or unpaid work and are deprived of educational opportunities due to disadvantages arising from the interaction between limited resources and relationship with the caregiver. 
+* Child education outcomes were significantly associated with caregiver’s health and education. This finding supports previous studies that indicate caregiver education and health are protective factors for children at risk.
+* Educated parents are more likely to understand the value of their children being educated and its long-term positive effects, irrespective of their socioeconomic status.
+* if the caregiver is in poor health, he/she is less likely to be working and providing for the children.
+*  children with ailing caregivers are more likely to drop out of school, and spend most of their time nursing the caregiver, or providing for the household.
+* Results suggest that when caregivers have limited resources, their caretaking abilities are compromised, as they make choices about who to provide for and which household members have more value.
+* orphans in households with non-biological caregivers might be more engaged in paid work to generate additional income, or be involved in household chores to reserve resources rather than utilizing it for education related expenses.
+
+
+
 
 
 # Successful interventions in improving educational outcomes 
