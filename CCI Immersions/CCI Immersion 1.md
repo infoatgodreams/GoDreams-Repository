@@ -1,1 +1,1 @@
-The first CCI we visited, in early May 
+The first CCI we visited, in early May =
