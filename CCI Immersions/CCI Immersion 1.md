@@ -9,4 +9,6 @@ The Rainbow model enables a local partner like Auxilium to partner with the depa
 
 ### Proximity Map
 
-![[Pasted image 20220514145326.png]]
+![[ANC_Navneeth_Notes (19)_Proximity Map.jpeg]]
+
+

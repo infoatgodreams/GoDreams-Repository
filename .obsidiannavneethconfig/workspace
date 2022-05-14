@@ -6,13 +6,15 @@
       {
         "id": "540e1796f0064b3a",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "CCI Immersions/CCI Immersion 1.md",
             "mode": "source",
             "source": false
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -153,14 +155,14 @@
   "active": "540e1796f0064b3a",
   "lastOpenFiles": [
     "CCI Immersions/CCI Immersion 1.md",
+    "ANC_Navneeth_Notes (19)_Proximity Map 1.jpeg.md",
+    "Media Resources/ANC_Navneeth_Notes (19)_Proximity Map 1.jpeg",
+    "Media Resources/ANC_Navneeth_Notes (19)_Proximity Map.jpeg",
     "CCI Immersions/Immersion Key.md",
     "The St. Petersburg– U.S.A. Orphanage Project.md",
     "impact assessment.md",
     "FairstartGlobal.md",
     "Roll Ups/Nutrition/Nutrition.md",
-    "Volume 1/Care Standards/GOI & Indian Standards/Budget for Children 2022 - HAQ/Budget for Children 2022-23 Analysis.md",
-    "Volume 3/Care Standards/Associated sector innovations/National School Health Policy, Kenya.md",
-    "Guardians Guidebook/GG Nutrition.md",
-    "Volume 1/Current Reality/India CCIs/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md"
+    "Volume 1/Care Standards/GOI & Indian Standards/Budget for Children 2022 - HAQ/Budget for Children 2022-23 Analysis.md"
   ]
 }
