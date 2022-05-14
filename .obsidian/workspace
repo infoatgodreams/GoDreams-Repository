@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9e31ca400183ad2d",
+        "id": "442b49eb963afdf8",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roll Ups/Physical Health/Play.md",
+            "file": "Volume 3/Current Reality/International CCIs/Home or Care_A Comparison of Educational Outcomes for Maltreated Children.md",
             "mode": "source",
             "source": false
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -51,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e154e99fa257850e",
@@ -73,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Physical Health/Play.md",
+                "file": "Volume 3/Current Reality/International CCIs/Home or Care_A Comparison of Educational Outcomes for Maltreated Children.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "searchQuery": "The caregiver’s investment in the child’s education is based on the interplay of child, caregiver, and household characteristics",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -88,19 +84,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 301,
+    "collapsed": true
   },
-  "active": "9e31ca400183ad2d",
+  "active": "442b49eb963afdf8",
   "lastOpenFiles": [
-    "Roll Ups/Physical Health/Play.md",
-    "Volume 3/Care Standards/International - Services for CNCP/Sport and physical activity in the lives of looked-after children a ‘hidden group’ in research, policy and practice.md",
-    "Volume 3/Care Standards/International - Services for CNCP/Therapeutic intervention for children through play, An overview.md",
-    "Volume 3/Current Reality/International CCIs/The role of play in children's development.md",
+    "Volume 3/Current Reality/International CCIs/Home or Care_A Comparison of Educational Outcomes for Maltreated Children.md",
+    "Volume 3/Current Reality/International CCIs/From Care to Education and Work_Education And Employment Trajectories in Early Adulthood by Children in Out Of Home Care.md",
+    "Roll Ups/Education/Education.md",
+    "Volume 3/Care Standards/International CCIs/Educational Experiences of Care Leavers from Residential Care in Ghana.md",
+    "Volume 3/Current Reality/International CCIs/Orphans and vulnerable children, Trends in School Access and Experience in Eastern and Southern Africa.md",
     "Volume 3/Care Standards/International - Services for CNCP/The Importance of Play in Promoting Healthy Child Development and Maintaining Strong Parent Child Bond, Focus on Children in Poverty.md",
-    "Volume 3/Current Reality/International CCIs/Importance of Play in Development.md",
-    "Volume 3/Current Reality/International CCIs/Play and Cognition Among Young Children Reared  in an Institution.md",
-    "Volume 3/Care Standards/International - Services for CNCP/Creating Trauma informed Sports Programming.md",
-    "Volume 3/Care Standards/International - Service Providers to CCIs/Physical activity, Exploring the barriers and facilitators for the engagementof young people in residential care in Ireland.md",
-    "Volume 3/Care Standards/International - Services for CNCP/Effects Of A Structural Intervention And Implementation On Physical Activity Among Youth In Residential Children’s Homes.md"
+    "Volume 3/Care Standards/International - Services for CNCP/Systematic review of educational interventions for looked-after children and young people, Recommendations for intervention development and evaluation.md",
+    "Volume 1/Care Standards/International - Govts, UN & World Bodies/UN/Guidelines on Alternative Care_UN.md",
+    "Volume 3/Current Reality/International CCIs/Exploring diversity in the educational pathways of care-experienced adults, Findings from a life course study of education and care.md",
+    "Volume 3/Care Standards/International - Services for CNCP/Educational support for orphans and vulnerable children in primary schools, Challenges and interventions.md"
   ]
 }
