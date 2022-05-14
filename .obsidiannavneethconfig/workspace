@@ -7,8 +7,12 @@
         "id": "540e1796f0064b3a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CCI Immersions/CCI Immersion 1.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CCI Immersions/CCI Immersion 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CCI Immersions/CCI Immersion 1.md"
+              }
             }
           },
           {
@@ -116,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CCI Immersions/CCI Immersion 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,11 +147,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 783.1365356445312
+    "width": 783.1365356445312,
+    "collapsed": true
   },
   "active": "540e1796f0064b3a",
   "lastOpenFiles": [
-    "Untitled.md",
+    "CCI Immersions/CCI Immersion 1.md",
+    "CCI Immersions/Immersion Key.md",
     "The St. Petersburg– U.S.A. Orphanage Project.md",
     "impact assessment.md",
     "FairstartGlobal.md",
@@ -151,7 +161,6 @@
     "Volume 1/Care Standards/GOI & Indian Standards/Budget for Children 2022 - HAQ/Budget for Children 2022-23 Analysis.md",
     "Volume 3/Care Standards/Associated sector innovations/National School Health Policy, Kenya.md",
     "Guardians Guidebook/GG Nutrition.md",
-    "Volume 1/Current Reality/India CCIs/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
-    "Roll Ups/Child Safety/Child Rights Law.md"
+    "Volume 1/Current Reality/India CCIs/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md"
   ]
 }
