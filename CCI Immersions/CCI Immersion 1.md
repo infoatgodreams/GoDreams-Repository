@@ -1,0 +1,1 @@
+The first CCI we visited, in early May 
