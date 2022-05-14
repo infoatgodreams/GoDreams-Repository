@@ -1,1 +1,1 @@
-The first CCI we visited, in early May =
+The first CCI we visited, in early May, is a home that houses 55 girls from vulnerable family backgrounds. 
