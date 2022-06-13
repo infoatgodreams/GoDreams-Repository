@@ -15,8 +15,9 @@ Play
 
 The availability of the science and the current reality of nutrition in CCIs implies that the **emphasis of this domain be on building and sustaining:** 
 
-> [!info]-  Example 1
-> -
+> [!info]-  Structure in sports time
+> - Structured play time in place to ensure children are getting mininum no. of hours of physical exercise a week. 
+> - 
 
 For these levers to work, the primary **challenges and opportunities that exist** are: 
 
