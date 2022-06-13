@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "540e1796f0064b3a",
+        "id": "2ee5f84be8895c71",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CCI Immersions/CCI Immersion 1.md",
+            "file": "Guardians Guidebook/GG Play.md",
             "mode": "source",
             "source": false
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCI Immersions/CCI Immersion 1.md",
+                "file": "Guardians Guidebook/GG Play.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCI Immersions/CCI Immersion 1.md"
+                "file": "Guardians Guidebook/GG Play.md"
               }
             }
           },
@@ -125,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCI Immersions/CCI Immersion 1.md",
+                "file": "Guardians Guidebook/GG Play.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -152,8 +150,10 @@
     "width": 783.1365356445312,
     "collapsed": true
   },
-  "active": "540e1796f0064b3a",
+  "active": "2ee5f84be8895c71",
   "lastOpenFiles": [
+    "Guardians Guidebook/GG Play.md",
+    "Guardians Guidebook/GG Nutrition.md",
     "CCI Immersions/CCI Immersion 1.md",
     "ANC_Navneeth_Notes (19)_Proximity Map 1.jpeg.md",
     "Media Resources/ANC_Navneeth_Notes (19)_Proximity Map 1.jpeg",
@@ -161,8 +161,6 @@
     "CCI Immersions/Immersion Key.md",
     "The St. Petersburg– U.S.A. Orphanage Project.md",
     "impact assessment.md",
-    "FairstartGlobal.md",
-    "Roll Ups/Nutrition/Nutrition.md",
-    "Volume 1/Care Standards/GOI & Indian Standards/Budget for Children 2022 - HAQ/Budget for Children 2022-23 Analysis.md"
+    "FairstartGlobal.md"
   ]
 }
