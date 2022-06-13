@@ -23,8 +23,6 @@ Play
  - Children are in simple/complex play stages based on their age
  - Children facilitate conflict resolution strategies on their own when required
  - Children have lifeskills such as swimming & cycling
- - 
- - 
 
 # Key levers at CCIs 
 
