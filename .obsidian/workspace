@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roll Ups/Nutrition/Nutrition.md",
-            "mode": "source",
+            "file": "Guardians Guidebook/GG Nutrition.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "duke",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Nutrition/Nutrition.md",
+                "file": "Guardians Guidebook/GG Nutrition.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,8 +89,8 @@
   },
   "active": "442b49eb963afdf8",
   "lastOpenFiles": [
-    "Roll Ups/Nutrition/Nutrition.md",
     "Guardians Guidebook/GG Nutrition.md",
+    "Roll Ups/Nutrition/Nutrition.md",
     "Guardians Guidebook/GG Play.md",
     "Guardians Guidebook/GG Mental Health.md",
     "Guardians Guidebook/GG Child Safety.md",
