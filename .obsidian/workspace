@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "442b49eb963afdf8",
+        "id": "5d8dfce2c49792a8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roll Ups/Caregiving/Caregiving.md",
-            "mode": "preview",
+            "file": "Guardians Guidebook/GG Child Safety.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,13 +69,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Caregiving/Caregiving.md",
+                "file": "Guardians Guidebook/GG Child Safety.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "The caregiver’s investment in the child’s education is based on the interplay of child, caregiver, and household characteristics",
-                "backlinkCollapsed": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -84,20 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301,
-    "collapsed": true
+    "width": 301
   },
-  "active": "442b49eb963afdf8",
+  "active": "5d8dfce2c49792a8",
   "lastOpenFiles": [
-    "Volume 2/Care Standards/India - Service Providers to CCIs/UdayanCare_Institutionalised Children, Seminar on Standards of Mental Health and Care.md",
-    "Volume 1/Care Standards/India - Service Providers to CCIs/Prerana/Institutional Care Model Author_ Prerana Org.md",
-    "Volume 1/Care Standards/International - Services for CNCP/Ideal Components and current characteristics of alternative care options for children outside of parental care in low resource countries.md",
-    "Volume 3/Care Standards/International - Services for CNCP/Guidelines on Children Reintegration.md",
-    "Volume 1/Care Standards/International - Service Providers to CCIs/Hope Wordwide/Hope Worldwide_Introduction to Working with Children and Psychosocial Support.md",
-    "Volume 3/Care Standards/International - Services for CNCP/Effects Of A Structural Intervention And Implementation On Physical Activity Among Youth In Residential Children’s Homes.md",
-    "Volume 3/Current Reality/International CCIs/Normal Development Infancy, childhood, and adolescence.md",
-    "Volume 1/Care Standards/International - Govts, UN & World Bodies/British Columbnia/Canada_British Columbia_Food and Nutrition Manual for homes.md",
-    "Roll Ups/Caregiving/Caregiving.md",
-    "Volume 3/Care Standards/India- Service Providers to CCIs/Before, Not After, An evaluation of Aangan trust’s preventive approach to child protection in India.md"
+    "Volume 2/Care Standards/India - Service Providers to CCIs/CSA_Institutional Care for Vulnerable Children The Law, Present Scenario, and Way Ahead.md",
+    "Volume 2/Care Standards/India - Service Providers to CCIs/CSA_Children's Committees.md",
+    "Volume 2/Care Standards/India - Service Providers to CCIs/CSA_Child Protection Policy.md",
+    "Volume 2/Care Standards/India - Service Providers to CCIs/Theorizing pathways to resilience among orphaned adolescents in institutional care in India.md",
+    "Volume 2/Care Standards/India - Service Providers to CCIs/Rainbow_Home Records.md",
+    "Volume 2/Care Standards/International - Services for CNCP/Study of Foster Care in Nepal.md",
+    "Volume 2/Care Standards/International - Services for CNCP/Exploring and Addressing the Sexual Violence of Boys in Nepal.md",
+    "Volume 2/Current Reality/International CCIs/Attachment in Institutionalized and Community Children in Romania.md",
+    "Guardians Guidebook/GG Nutrition.md",
+    "Guardians Guidebook/GG Mental Health.md"
   ]
 }
