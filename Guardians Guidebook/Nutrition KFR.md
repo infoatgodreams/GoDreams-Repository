@@ -1,11 +1,12 @@
 
-**Introduction to the Domain**
+[[Roll Ups/Nutrition/Nutrition]]
+## Introduction to the Domain
 
 Nutrition is a vital component of childcare that has far-reaching consequences across outcomes in physical health, mental health, education and overall quality of life.  We know that there are far-reaching consequences to malnutrition, including Malnutrition leads to failure in early physical growth, delayed motor skills, and cognitive and behavioral development. (Galler, 2021)
 
 Under-nutrition diminishes immunity and increases morbidity and mortality. Children who survive malnutrition in early childhood have physical and cognitive disadvantages compared to those who have had adequate nutritional inputs. Multiple studies show that nutrition in a child’s early years is linked to their health and academic performance in later years. (Nyaradi, 2013) 
 
-**Overview of Nutrition in Child Care Institutions:**
+## Overview of Nutrition in Child Care Institutions:
 
   
 It is essential to understand the extent to which institutional nutritional practices affect the development and well-being of children in care. While early childhood (0-8 years) is critical for adequate health outcomes as adults, children can have a second window, during middle childhood, and adolescence – the period from age 5 to 19 – for growth, psychosocial development, and establishing a healthy relationship with food. Good nutrition during this period fuels growing brains and bodies, and has shown to play a role in improving school attendance, academic performance, and cognition. Emphasis on nutrition may also allow children from disadvantaged backgrounds to experience catch-up growth after stunting in early childhood. While institutions across the country have done relatively well to reduce obvious signs of hunger and malnutrition, it is clear that we now need to shift our focus to more “hidden” signs of malnutrition. According to the World Health Organization, the burden of malnutrition consists of both under-nutrition and overweight and obesity, as well as diet-related noncommunicable diseases. Under-nutrition manifests in four broad forms: wasting, stunting, underweight, and micronutrient deficiencies. 
@@ -18,7 +19,7 @@ From observational insights and existing literature, the following are a few fac
   - Inadequate infrastructure: Kitchens are not always designed to facilitate large- scale cooking. Gaps in the use of effective cooking equipment, storage spaces, and sanitation practices, are observed.
 
   
-**Stakeholders:**
+### Stakeholders:
 
 Key stakeholders at an institution include the kitchen staff, leadership, caregiving staff, medical in-charge, donors, and children
 
@@ -31,10 +32,10 @@ Key stakeholders at an institution include the kitchen staff, leadership, caregi
 
   
 
-**Nutritional Outcomes**
+# Nutritional Outcomes
   
 
-**Optimal Adult Outcomes**
+## Optimal Adult Outcomes
 
 These outcome indicators typically describe the long-term success seen in the nutritional status of care-leavers. As defined by UNICEF, children from institutions should grow up to be healthy, productive adults who are Safe from preventable nutritional deficiencies and illnesses that affect long-term health status
 
@@ -46,9 +47,9 @@ These outcome indicators typically describe the long-term success seen in the nu
 
   
 
-**Current Reality**
+## Current Reality
 
-**From literature**
+## From literature
 
 - According to existing research on care leavers in the UK, adults who lived in institutional care during childhood had a 40% chance of reporting poor health 10 years later. This rose to an 85% chance over the following two decades. (Murray, 2020)
 - It is also reported that there are great disparities in health outcomes for children based on the specific institution that they grew up in. 
@@ -56,194 +57,78 @@ These outcome indicators typically describe the long-term success seen in the nu
 - It’s also seen that male care leavers often report better health outcomes than female care leavers, suggesting a strong gendered component to nutritional practices in institutional settings. (Udayan Care, 2019)
   
 
-**From the Field**
+## From the Field
 
 - Care leavers are often unaware of their own nutritional needs, and lack the ability to create structured meal plans for their optimal health. 
 - Care leavers often associate “good food” with donor-provided, high-calorie meals, and showcase less interest in different food groups, avoiding vegetables and fruits.
 - Care leavers show marked gender differences in receiving training for essential life skills like cooking, grocery shopping, cleaning, and maintaining their own meals. 
 - Care leavers are unable to self-identify and communicate symptoms of malnourishment and other deficiencies.
 
-  
+ 
+## Optimal Childhood Indicators
 
   
-
-**Optimal Childhood Indicators**
-
-  
-
-These social impact indicators allow us to evaluate the positive nutritional status of children in CCIs
-
-  
-
-Children in institutions show no stunting, wasting, and have height and weight appropriate to their age.
-
-  
-
-Children enjoy a wide variety of food, across different food groups with nutrient diversity.
+- These social impact indicators allow us to evaluate the positive nutritional status of children in CCIs
+- Children in institutions show no stunting, wasting, and have height and weight appropriate to their age.
+- Children enjoy a wide variety of food, across different food groups with nutrient diversity.
+- Children have sufficient energy levels through the day, able to easily get through a day of school, after-school activities, and play.
+- Children have no recurring medical issues that can be improved or influenced by diet.
+- Children are able to self-regulate their consumption, exhibiting awareness of their own eating habits and dietary preferences.
+- Children exhibit a clear understanding of the importance of a healthy diet and know how to choose healthy balanced meals; customized to their needs. 
 
   
 
-Children have sufficient energy levels through the day, able to easily get through a day of school, after-school activities, and play. 
+## Current Reality
+
+
+## From literature:
+
+- Research suggests that children leaving institutions are unaware of general morbidities and associated nutritional risks. 
+- Studies from Kenya have shown that there is a high recurrence of acute respiratory infections, malaria, and diarrhea linked to the poor nutritional status of children in institutions.
+- From research on institutional outcomes in South India, we know that Vitamin A and B complex deficiency were the most common nutritional deficiency signs among children, and were more prevalent, relative to family settings. 
+- Research has suggested that one out of every four children in institutions in South India suffer from sickness, fatigue, and bad sleep, all indicators of inadequate nutritional practices.
+- According to this research in India, there is accumulating evidence that early malnutrition, marked by stunting, is associated with long-term deficits in cognitive and academic performance, even when social and psychological differences are controlled.
+- According to a meta-analysis that studied children adopted from Romanian orphanages and others, 65% of orphanage children continued to have eating problems even 11 months after adoption
 
   
+## From the Field:
 
-Children have no recurring medical issues that can be improved or influenced by diet.
-
-  
-
-Children are able to self-regulate their consumption, exhibiting awareness of their own eating habits and dietary preferences.
-
-  
-
-Children exhibit a clear understanding of the importance of a healthy diet and know how to choose healthy balanced meals; customized to their needs. 
+- Children are often not aware of diverse food types, the value they add and associated life skills like meal planning and cooking.
+- Children are prone to developing an inability to self manage diet or regulate portion sizes, possibly due to food being served by CCI staff in standard quantities. 
+- Children may develop complications in health conditions due to limited access to specialized diets.
+- Children develop a taste preference for sweets, cakes, and ‘donor meals’. In some CCIs, there is an effort to shift focus from donor meals to in-house diets by ensuring outside food brought in is limited.
+- Children are very aware and conscious of the role of donors in the food they eat; their relationship with ‘donor meals’ is often marked by a strong push to eat beyond typical satiety levels.
 
   
-
-  
-
-**Current Reality**
-
-  
-
-**From literature:**
-
-  
-
-Research suggests that children leaving institutions are unaware of general morbidities and associated nutritional risks. 
-
-  
-
-Studies from Kenya have shown that there is a high recurrence of acute respiratory infections, malaria, and diarrhea linked to the poor nutritional status of children in institutions.
-
-  
-
-From research on institutional outcomes in South India, we know that Vitamin A and B complex deficiency were the most common nutritional deficiency signs among children, and were more prevalent, relative to family settings. 
-
-  
-
-Research has suggested that one out of every four children in institutions in South India suffer from sickness, fatigue, and bad sleep, all indicators of inadequate nutritional practices.
-
-  
-
-According to this research in India, there is accumulating evidence that early malnutrition, marked by stunting, is associated with long-term deficits in cognitive and academic performance, even when social and psychological differences are controlled.
-
-  
-
-According to a meta-analysis that studied children adopted from Romanian orphanages and others, 65% of orphanage children continued to have eating problems even 11 months after adoption
-
-  
-
-  
-
-**From the Field:**
-
-  
-
-Children are often not aware of diverse food types, the value they add and associated life skills like meal planning and cooking.
-
-  
-
-Children are prone to developing an inability to self manage diet or regulate portion sizes, possibly due to food being served by CCI staff in standard quantities. 
-
-  
-
-Children may develop complications in health conditions due to limited access to specialized diets.
-
-  
-
-Children develop a taste preference for sweets, cakes, and ‘donor meals’. In some CCIs, there is an effort to shift focus from donor meals to in-house diets by ensuring outside food brought in is limited.
-
-  
-
-Children are very aware and conscious of the role of donors in the food they eat; their relationship with ‘donor meals’ is often marked by a strong push to eat beyond typical satiety levels.
-
-  
-
-  
-
-**Suggested Childhood Inputs**
+### Suggested Childhood Inputs
 
 _You can find the official recommendations for nutrition from the Juvenile Justice Act attached in the annexure of this document_
 
-  
 
-Diets need to be balanced and efficient to deliver nutritional inputs on par with global standards.
+- Diets need to be balanced and efficient to deliver nutritional inputs on par with global standards.
+- Diets need frequent monitoring of nutritional inputs and outputs through metrics such as macro-nutrient/micronutrient composition of the diet, height vs age, weight vs age, and medical reports.
+- Menus and meal plans need to be standardized with the support of qualified nutritionists, doctors, and leadership staff at the institution.
+- Close attention needs to be paid to operationalizing hygiene, food safety, and sanitization routines.
+- Children with deficiencies are identified with appropriate diagnosis and in comparison to relative benchmarks. 
+- Children with nutritional deficiencies are supported with menu upgrades, special diets, and expert consultations.
+- Children spend time with caregivers during meal times, to bond and develop positive associations with food.
+- Allied health concerns, in relation to eating practices are identified through observation & testing, of eating disorders, allergies and medical issues.
+- Children are taught about the food cycle from production to waste disposal.
+- Donor influence on meal times and nutritional quality is regulated
+- Age-appropriate nutritional intake needs to be considered in designing meal plans and follow-up systems.
+- Caregivers facilitate regular discussions about healthy food habits with children.
 
-  
 
-Diets need frequent monitoring of nutritional inputs and outputs through metrics such as macro-nutrient/micronutrient composition of the diet, height vs age, weight vs age, and medical reports.
 
-  
+## Current Reality
 
-Menus and meal plans need to be standardized with the support of qualified nutritionists, doctors, and leadership staff at the institution.
+## From literature:
 
-  
-
-Close attention needs to be paid to operationalizing hygiene, food safety, and sanitization routines.
-
-  
-
-Children with deficiencies are identified with appropriate diagnosis and in comparison to relative benchmarks. 
-
-  
-
-Children with nutritional deficiencies are supported with menu upgrades, special diets, and expert consultations.
-
-  
-
-Children spend time with caregivers during meal times, to bond and develop positive associations with food.
-
-  
-
-Allied health concerns, in relation to eating practices are identified through observation & testing, of eating disorders, allergies and medical issues.
-
-  
-
-Children are taught about the food cycle from production to waste disposal.
-
-  
-
-Donor influence on meal times and nutritional quality is regulated.
-
-  
-
-Age-appropriate nutritional intake needs to be considered in designing meal plans and follow-up systems.
-
-  
-
-Caregivers facilitate regular discussions about healthy food habits with children.
-
-  
-
-  
-
-**Current Reality**
-
-  
-
-**From literature:**
-
-  
-
-Existing research on nutritional inputs in childcare institutions suggests that the psychosocial stress of living in an institution influences the generalized chronic under-nutrition reported.
-
-  
-
-Limited funding and reliance on donations for food were frequently mentioned issues, contributing to low diet diversity and resulting in diets high in starches and legumes.
-
-Dietary diversity was reported to be low for children in institutional care, especially in terms of fruits, vegetables and protein.
-
-  
-
-Poor hygiene and sanitation, as shown by existing research often lead to frequent illnesses in children that result in subsequent poor utilization of nutrients.
-
-  
-
-Research shows that older children are often fed the same quantity of the food as the younger children resulting in lower than required intake in older children.
-
-  
-
-  
+- Existing research on nutritional inputs in childcare institutions suggests that the psychosocial stress of living in an institution influences the generalized chronic under-nutrition reported.
+- Limited funding and reliance on donations for food were frequently mentioned issues, contributing to low diet diversity and resulting in diets high in starches and legumes.
+- Dietary diversity was reported to be low for children in institutional care, especially in terms of fruits, vegetables and protein.
+- Poor hygiene and sanitation, as shown by existing research often lead to frequent illnesses in children that result in subsequent poor utilization of nutrients.
+- Research shows that older children are often fed the same quantity of the food as the younger children resulting in lower than required intake in older children.
 
 ## From the Field:
 - Children are given at least 4 meals a day, typically allowing them to be satiated.
