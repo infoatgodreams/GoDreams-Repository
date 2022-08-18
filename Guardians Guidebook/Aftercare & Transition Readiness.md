@@ -1,125 +1,57 @@
-**Introduction to the Domain**
 
-  
+[[Aftercare]]
+# Introduction to the Domain
 
-  
 
 We know that institutional care forms the bedrock of the system for vulnerable children outside familial care. However, it is also important to recognize that children-in-care need to be properly prepared for independent living, and supported closely during the transition period to adulthood. After the transition, young adults also need access to specific programs that provide a wider safety net for them to grow into fully integrated members of society. 
 
-  
+We need to pay special attention to preparing children who age out of institutions (referred to as ‘Care Leavers’) to ease the transition process and enable their active participation in shaping their own future. 
 
-We need to pay special attention to preparing children who age out of institutions (referred to as ‘Care Leavers’) ​​to ease the transition process and enable their active participation in shaping their own future. 
 
-  
+## Overview of Aftercare Services in Child Care Institutions
 
-**Overview of Aftercare Services in Child Care Institutions**
-
-  
 
 In India, aftercare systems are only emerging and are a fairly recent development. Given the relatively new system, there are very few institutions and organizations that offer aftercare services to care leavers, and more pertinently, CCIs are still yet to fully embrace the need for a comprehensive, multi-year, aftercare/transition plan for children. 
 
-  
-
 In India, The Juvenile Justice (Care and Protection of Children) Act, 2015 and the Juvenile Justice (Care and Protection of Children) Model Rules, 2016 contain legal provisions that make aftercare of children, who have attained the age of eighteen years and are leaving a Child Care Institution, a key area of concern.  However, multiple studies show that the quality of support received by care leavers is not comprehensive and that their journey through the first decade of adult life is often disrupted, unstable, and full of challenges. 
 
-  
 
 Aftercare is that phase in the life of a young person who is now a Care Leaver (CL) and has transitioned out of care to start the journey toward independent living. While children leave the care of CCIs once they are 18, institutions play a crucial role in preparing them to be able to live independently. This preparation can start as young as age 12, and is critical to ensure successful transitions. 
 
-  
-
 From observational insights and existing literature, the following are a few factors that influence the quality of aftercare outcomes in institutional care:
+- Lack of familial and community support: During the transitional period, it is essential for care leavers to have a community of support that they can lean on to handle difficulties as they adjust to an entirely new way of life. Many care leavers struggle to create such a support system for themselves.
+- Lack of resources, manpower, and funding: Since the CCIs primary focus is on providing quality care for children who are living there, there is often a lack of resources and manpower to extend into support for care leavers.
+- High turnover rates at institutions make it difficult to create and implement a long-term aftercare transition plan for children. When the primary caregiver of the child leaves, new caregivers lose important history and relationship context with the young adult.
 
-  
 
-Lack of familial and community support: During the transitional period, it is essential for care leavers to have a community of support that they can lean on to handle difficulties as they adjust to an entirely new way of life. Many care leavers struggle to create such a support system for themselves.
 
-  
-
-Lack of resources, manpower, and funding: Since the CCIs primary focus is on providing quality care for children who are living there, there is often a lack of resources and manpower to extend into support for care leavers.
-
-  
-
-High turnover rates at institutions make it difficult to create and implement a long-term aftercare transition plan for children. When the primary caregiver of the child leaves, new caregivers lose important history and relationship context with the young adult.
-
-  
-
-  
-
-**Stakeholders** 
-
-  
+## Stakeholders
 
 In a childcare institution, the primary stakeholders involved in preparing children for transition are the leadership of the institution, caregivers/house parents, aftercare service providers, private career counsellors, school teachers, and previous alumni of the institution. 
 
-  
-
-In an institution, the primary responsibility for aftercare planning rests on the **leadership**, i.e the programme director or coordinator at the institution. They’re often responsible for making key decisions regarding continuing educational support to care leavers, creating connections between care leavers and potential care providers or donors, and facilitating the transition of the care leavers into society. This responsibility in certain institutions is taken up by the Child Welfare Officer.
-
-  
-
-At an institutional level, the **house parent and caregivers** also play an important role in helping the leadership understand the interests, needs of the child, to help them plan for their future. 
-
-  
-
-**Aftercare services providers** can be involved to help care leavers settle in during their transition period. These are typically other civil society organizations, but are sometimes also housed within the same organization that runs the CCI.
+- In an institution, the primary responsibility for aftercare planning rests on the **leadership**, i.e the programme director or coordinator at the institution. They’re often responsible for making key decisions regarding continuing educational support to care leavers, creating connections between care leavers and potential care providers or donors, and facilitating the transition of the care leavers into society. This responsibility in certain institutions is taken up by the Child Welfare Officer.
+- At an institutional level, the **house parent and caregivers** also play an important role in helping the leadership understand the interests, needs of the child, to help them plan for their future. 
+- **Aftercare services providers** can be involved to help care leavers settle in during their transition period. These are typically other civil society organizations, but are sometimes also housed within the same organization that runs the CCI.
+- **Private career counsellors and school teachers** are often involved in helping the children and the staff at the institution create a career roadmap for children based on their past performance. This can offer clarity to both care leavers and the leadership in preparing to support their journey forward. 
+- **Counsellors and mental health staff** should run workshops and sessions to prepare children for transition, helping them adjust to the idea of a new environment outside the safe haven of the institution.  
+- Actively engaged **alumni** can make a huge difference in preparing care leavers because they’re able to share their own experiences, challenges, and pitfalls that their juniors can learn from.
 
   
 
-**Private career counsellors and school teachers** are often involved in helping the children and the staff at the institution create a career roadmap for children based on their past performance. This can offer clarity to both care leavers and the leadership in preparing to support their journey forward. 
+# Aftercare Outcomes
 
-  
-
-**Counsellors and mental health staff** should run workshops and sessions to prepare children for transition, helping them adjust to the idea of a new environment outside the safe haven of the institution.  
-
-  
-
-Actively engaged **alumni** can make a huge difference in preparing care leavers because they’re able to share their own experiences, challenges, and pitfalls that their juniors can learn from.
-
-  
-
-**Aftercare Outcomes**
-
-  
-
-**Optimal Adult Outcomes**
-
+## Optimal Adult Outcomes
 _These outcome indicators typically describe the long-term success seen in all domains of care leavers_
-
-  
 
 Throughout this report, outcomes for care leavers have been highlighted across each domain area. Some of these have been mentioned again below:
 
-  
-
 Care leavers show stability and continuity in their education, attain graduate education outcomes, and are able to hold on to a job for extended periods of time. 
-
-  
-
 Care leavers exhibit positive well-being in physical, mental, and emotional realms.
-
-  
-
 Care leavers are able to show empathy, and have the capacity to extend help to other people in need or other vulnerable care leavers in similar circumstances.
-
-  
-
 Care leavers establish purposeful, enjoyable careers that help create a feeling of self-worth.
-
-  
-
 Care leavers have strong self-esteem and showcase acceptance of their past. 
-
-  
-
 Care leavers develop strong relationships from official to informal/social support circles.
-
-  
-
 Care leavers develop habits and mindsets that result in the ability to live independently and maintain a career.
-
-  
-
 Care leavers integrate into their community actively, participating in regular day-to-day life in their communities, free of any discrimination or stigma. 
 
   
