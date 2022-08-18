@@ -47,7 +47,7 @@ From observational insights and existing literature, the following are a few fac
 - Care leavers showcase resilience, learning from their experiences in play and extracurricular activities to deal with difficult situations.
 - Care leavers are confident in their own talents and abilities, building relevant skills while engaging in activities outside traditional schooling. 
 - Care leavers manage emotions and stressful life events through engagement in sports, music, theatre, or art. 
--Care leavers develop a strong sense of identity and self-esteem, commonly correlated with exposure to different activities. 
+- Care leavers develop a strong sense of identity and self-esteem, commonly correlated with exposure to different activities. 
 
   
 
