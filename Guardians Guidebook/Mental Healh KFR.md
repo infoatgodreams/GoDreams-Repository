@@ -148,58 +148,19 @@ _You can find the official recommendations for mental health from the Juvenile J
 
 ### From Literature:
 
-In a seminar organized by Udayan Care, experts laid out what they see as common pitfalls in institutions that can affect mental health in children
-
-  
-
-Rigidity in daily schedules while necessary to establish discipline can often be too restrictive for children to freely express themselves.
-
-  
-
-Lack of provisions to accommodate the change in individual rights when children turn older; preventing them from learning to set up independence in their routines.
-
-  
-
+- In a seminar organized by Udayan Care, experts laid out what they see as common pitfalls in institutions that can affect mental health in children
+- Rigidity in daily schedules while necessary to establish discipline can often be too restrictive for children to freely express themselves.
+- Lack of provisions to accommodate the change in individual rights when children turn older; preventing them from learning to set up independence in their routines.
 Inability to get special care and personalized space because of the density of institutions. Individualized care is necessary for trauma informed practices, but it is rare in practice.
-
-  
-
 Moral codes imposed by the administrative policies of the institutional set-up are often tradition based and sometimes are not in line with progressive childcare practices.
-
-  
-
 Lack of provisions to accommodate the change in individual rights when children turn older; preventing them from learning to set up independence in their routines.
-
-  
-
 Provisions for a counselor are often insufficient, social workers/counselors are frequently overburdened with documentation needs and high volume of work. 
-
-  
-
 Only a limited set of livelihood training programs can be made available – not sufficient to cater to individual future aspirations, specifically for such a diverse vulnerable population as in institutional settings.
-
-  
-
 Mental health assessments are not regular, nor are they comprehensive, often relying on inputs from other adult caregivers and educators. 
-
-  
-
 Sharing circles are rare practices and it’s not common for mental health to be discussed outside of poor performance in schools and major behavioral concerns.
-
-  
-
 Children remain under diagnosed with serious mental illnesses and often do not receive the right medication in time.
-
-  
-
 In a study conducted by the Ministry of Women and Child Development(MWCD) physical abuse was recorded in 56.73 percent of children in institutions, a major cause of mental health difficulties. 
-
-  
-
 Existing evidence indicates that early separation from parents is a risk factor for developing a chronic response to traumatic stressors, meaning that an individual would be less able to positively cope with negative stressors that come up in their life.
-
-  
-
   
 
 **From the Field:**
