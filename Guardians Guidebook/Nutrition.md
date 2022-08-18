@@ -409,55 +409,29 @@ Some of the recurring themes that we saw in the research surrounding nutrition i
 
 **From the Field**
 
-  
+- **Kitchen Facilities & Equipment**
 
-**Kitchen Facilities & Equipment**
+Improved infrastructure for efficient cooking: In well-run CCIs, large-scale cooking appliances are used to improve efficiency in preparation, allowing fewer staff to cater to a large number of children. Many CCIs lack sufficient equipment to cook for large numbers of children, resulting in cooks compromising on the cutting of sufficient vegetables and other nutritional inputs to save time impacting the nutrition level in meals served. 
 
-  
+- **Donor-influenced behavior**
 
-Improved infrastructure for efficient cooking: In well-run CCIs, large-scale cooking appliances are used to improve efficiency in preparation, allowing fewer staff to cater to a large number of children. 
+  In most CCIs, meals tend to be the easiest to get sponsored and donors are often seen participating in the meal-time. Type of meals consumed by children are influenced by donor-contributions and their preferences. Children’s relationship with food can be complicated by the frequent involvement of unknown adults in food preparation and mealtimes. Food preferences can be impacted by the frequency of celebratory food such as cakes, biryani, fast food/snacks etc 
 
-  
-
-Many CCIs lack sufficient equipment to cook for large numbers of children, resulting in cooks compromising on the cutting of sufficient vegetables and other nutritional inputs to save time impacting the nutrition level in meals served. 
-
-  
-
-**Donor-influenced behavior**
-
-  
-
-In most CCIs, meals tend to be the easiest to get sponsored and donors are often seen participating in the meal-time. Type of meals consumed by children are influenced by donor-contributions and their preferences. Children’s relationship with food can be complicated by the frequent involvement of unknown adults in food preparation and mealtimes. Food preferences can be impacted by the frequency of celebratory food such as cakes, biryani, fast food/snacks etc 
-
-  
-
-**Meal Plans & Nutritional inputs**
-
-  
+- **Meal Plans & Nutritional inputs**
 
 Most CCIs rely on in-house expertise to create meal plans, and these plans are only updated once in 6 months to a year. Lack of expert guidance limits the  nutritional quality of meals, and there is  an overreliance on carbohydrate-heavy meals, with little emphasis on fresh fruits and vegetables.
 
-  
-
-**Hygiene & Waste disposal**
-
-  
+  - **Hygiene & Waste disposal**
 
 When it comes to influencing the consumption of food and absorption of nutrients from food, hygiene plays an important role in improving nutritional outcomes in children. While many institutions focus on the provision of food, disposal is often not given sufficient consideration. This leads to unhygienic and unsanitary conditions around plate washing and dustbin areas.
 
-  
-
-**Small cooking batches** 
-
-  
+- **Small cooking batches** 
 
 In institutions with a small number of children or individual kitchens in each cottage, we have observed that cooks and kitchen staff are able to ensure higher standards of hygiene and cleanliness while being able to customize menu plans based on the individual needs of their set of children.
 
   
 
-**Eating behaviours and caregiving guidelines**
-
-  
+- **Eating behaviours and caregiving guidelines**
 
 We’ve noticed that institutions that encourage small, group settings for children to eat in, allow for caregivers to bond with their children during meal times, reduce food wastage, and monitor the eating behaviors of children with special dietary needs. Close, circular table settings are preferred to long tables that do not support family-style eating habits.
 
@@ -465,11 +439,8 @@ We’ve noticed that institutions that encourage small, group settings for child
 
 **Nutrition - Juvenile Justice Model Rules, 2016**
 
-  
-
 Individual Care Plan, a comprehensive development plan for a child based on age and gender-specific needs and case history of the child, is to be prepared in consultation with the child  in order to restore the child’s self-esteem, dignity and self-worth and nurture him into a responsible citizen and accordingly the plan shall address the following, including but not limited to health and nutrition needs, including any special needs. (p.176, Chapter-I, Preliminary)
 
-  
 
 All institutions under the Act shall ensure proper storage and inspection of articles of food (p.200, Chapter-VI, Rehabilitation and Social Re-integration)
 
@@ -477,23 +448,16 @@ All institutions under the Act shall ensure proper storage and inspection of art
 
 Nutrition and Diet Scale: 
 
-  
-
 (i) the children shall be provided four meals in a day including breakfast;
 
 (ii) the menu shall be prepared with the help of a nutritional expert or doctor to ensure balanced diet and variety in taste as per the minimum nutritional standard and diet scale;
 
 (iii) every Child Care Institution shall strictly adhere to the minimum nutritional standard and diet scale.
 
-  
 
 Children may be provided special meals on holidays, festivals, sports and cultural day and celebration of national festival.
 
-  
-
 Infants and sick children shall be provided special diet according to the advice of the doctor on their dietary requirement.
-
-  
 
 The requirement of each child shall also be taken into account including need for iron and folic acid supplements.
 
