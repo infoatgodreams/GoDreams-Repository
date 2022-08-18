@@ -4,7 +4,7 @@ author: Akshay
 tags : 
 - Governmentofindia
 ---
-Tags: [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md) [Child Sexual Abuse](Roll%20Ups/Child%20Safety/Child%20Sexual%20Abuse.md) [[Roll Ups/Child Safety/Child Rights Law]]
+Tags: [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md) [Child Sexual Abuse](Child%20Sexual%20Abuse.md) [[Child Rights Law]]
 Link: https://ncpcr.gov.in/showfile.php?lang=1&level=2&&sublinkid=1581&lid=1586
 
 # Context: 

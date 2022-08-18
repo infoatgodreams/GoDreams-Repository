@@ -13,14 +13,14 @@ tags:
 
 
 # IQ
-[Education](Roll%20Ups/Education/Education.md) [IQ](Roll%20Ups/Education/IQ.md)
+[Education](Roll%20Ups/Education/Education.md) [IQ](IQ.md)
 
 -  Further support for the idea that institutionalized children were not destined for developmental compromise came from the work of Barbara Tizard and her colleagues with children who had spent the first 2 years of their lives in high-quality institutions in the United Kingdom (Tizard, 1977).
 	-  In these institutions the child to caregiver ratios were 3:1 and the were taken on outings, and were fed well.
 	-  The major way in which orphanage children’s lives differed from the lives of home-reared children was that caregivers were discouraged from forming intimate relationships with them (Tizard & Tizard, 1971). 
 	- Tizard and Joseph (1970) first assessed children in the institution when they were 2 years old and compared them to a sample of home-reared children from a working class background. They found that the institution children’s [[IQ]] scores were only slightly lower than those of the working class children and that their language was only slightly delayed. 
-	- At age 4.5 the mean [IQ](Roll%20Ups/Education/IQ.md) of the children in an institution was in the average range and no language problems were found (Tizard & Rees, 1974). 
-	- Hodges and Tizard (1989) reported that children adopted from the institution had normal [IQ](Roll%20Ups/Education/IQ.md)s at 8 and 16 years of age. Tizard’s findings were more positive than the findings of the earlier search, but it is important to note that the children in Tizard’s sample had not experienced the extreme deprivation experienced by earlier samples of children  (e.g., Goldfarb, 1945a)
+	- At age 4.5 the mean [IQ](IQ.md) of the children in an institution was in the average range and no language problems were found (Tizard & Rees, 1974). 
+	- Hodges and Tizard (1989) reported that children adopted from the institution had normal [IQ](IQ.md)s at 8 and 16 years of age. Tizard’s findings were more positive than the findings of the earlier search, but it is important to note that the children in Tizard’s sample had not experienced the extreme deprivation experienced by earlier samples of children  (e.g., Goldfarb, 1945a)
 - Dennis (1973) followed children from a Lebanese orphanage after they were adopted and compared the developmental outcomes of children adopted at different ages. He claimed that children who had been adopted before 2 years of age eventually regained normal IQs whereas those who were  adopted after 2 years of age showed permanent deficits in IQ. Although this claim has often been cited, it has not been adequately tested
 - Both sets of literature clearly demonstrate that institutionalization early in  life has a negative impact on intellectual development and that it is not only institutionalization but also the length of institutionalization that is important.  Most of the recent information we have concerning the impact of institutionalization on intellectual development has been the result of the 1989 overthrow of the Ceausescu regime in Romania, after which the world be came aware of thousands of children being housed in Romanian state-run orphanages.
 	- Shortly after the revolution, Kaler and  Freeman (1994) were able to assess children  within the orphanage context.They conducted cognitive assessments on 25 children ranging  in age from 23 to 50 months who resided in a Romanian orphanage and compared them to same age peers from a Romanian kindergarten class. Apgar scores that were available for 13 of the children indicated that they had normal births. Using the Bayley Scales of Infant Development (Bayley, 1969), Kaler and Free  man (1994) found that none of the orphanage  children were functioning at their age level, and **20 of the 25 children functioned at levels  that were less than half their chronological  age.**
@@ -149,7 +149,7 @@ tags:
 		-  quality of physical care,
 		-  whether toys were available (Chisholm et al. 1998)
 		-  or children’s weight or developmental delay at adoption (O’Connor et al.,1999; O’Connor, Rutter, et al., 2000) 
-		- [[Roll Ups/Education/IQ]] does not appear to be strongly related to indiscriminate friendliness
+		- [[IQ]] does not appear to be strongly related to indiscriminate friendliness
 	-  Researchers have  consistently found associations between orphanage children’s indiscriminate friendliness  and their behavior problems. [Caregiving](Roll%20Ups/Caregiving/Caregiving.md)
 		- Chisholm (1998)  found that at 3 years postadoption, children’s  indiscriminate friendliness scores were positively correlated with their scores on the [CBCL](CBCL). [Observed behavior assessments](Roll%20Ups/Child%20Development/Observed%20behavior%20assessments.md)
 		- Le Mare and Audet (2002) found that children's scores on indiscriminate friendliness at 3 years after adoption were positively correlated with their attention problem scores more than 8 years after adoption. [Attention Problems](Attention%20Problems)

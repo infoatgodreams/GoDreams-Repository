@@ -4,17 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eacd9af5ed40efe6",
+        "id": "ce8345616cf1396b",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Roll Ups/Physical Health/Physical Health.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -42,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "space constra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -51,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -72,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Physical Health/Physical Health.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,17 +82,17 @@
     "width": 301,
     "collapsed": true
   },
-  "active": "935199b94694109c",
+  "active": "ce8345616cf1396b",
   "lastOpenFiles": [
-    "Volume 2/Care Standards/GOI & Indian Standards/Dietary Gudelines for Indians.md",
     "Roll Ups/Physical Health/Physical Health.md",
+    "Guardians CAP Repository.md",
+    "Volume 2/Care Standards/GOI & Indian Standards/Dietary Gudelines for Indians.md",
     "Volume 1/Current Reality/International CCIs/Institutional Care for Young Children -  Review of Literature and Policy Implications  (with DOI).md",
     "Roll Ups/Nutrition/Nutrition.md",
     "Volume 2/Current Reality/International CCIs/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
     "Volume 3/Care Standards/International - Service Providers to CCIs/Health Care Issues for Children and Adolescents in Foster Care and Kinship Care (USA).md",
     "Volume 3/Current Reality/India CCIs/Alternative Care for Children, Udayan Care.md",
     "Roll Ups/Alternative Care/Restoration.md",
-    "Volume 3/Current Reality/India CCIs/Child care institutions in India Investigating issues and challenges in children’s rehabilitation and social integration.md",
-    "Volume 3/Current Reality/India CCIs/Alternative Care in India, Issues and Prospects.md"
+    "Volume 3/Current Reality/India CCIs/Child care institutions in India Investigating issues and challenges in children’s rehabilitation and social integration.md"
   ]
 }

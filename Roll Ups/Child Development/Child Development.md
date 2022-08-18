@@ -289,8 +289,8 @@ A paper on the impact of institutionalisation on IQ covers this important study 
 - The major way in which orphanage children’s lives differed from the lives of home-reared children was that caregivers were discouraged from forming intimate relationships with them (Tizard & Tizard, 1971). 
 - Tizard and Joseph (1970) first assessed children in the institution when they were 2 years old and compared them to a sample of home-reared children from a working class background. 
 - They found that the institution children’s [[IQ]] scores were only slightly lower than those of the working class children and that their language was only slightly delayed. 
-- At age 4.5 the mean [IQ](Roll%20Ups/Education/IQ.md) of the children in an institution was in the average range and no language problems were found (Tizard & Rees, 1974). 
-- Hodges and Tizard (1989) reported that children adopted from the institution had normal [IQ](Roll%20Ups/Education/IQ.md)s at 8 and 16 years of age. Tizard’s findings were more positive than the findings of the earlier search, but it is important to note that the children in Tizard’s sample had not experienced the extreme deprivation experienced by earlier samples of children  (e.g., Goldfarb, 1945a)
+- At age 4.5 the mean [IQ](IQ.md) of the children in an institution was in the average range and no language problems were found (Tizard & Rees, 1974). 
+- Hodges and Tizard (1989) reported that children adopted from the institution had normal [IQ](IQ.md)s at 8 and 16 years of age. Tizard’s findings were more positive than the findings of the earlier search, but it is important to note that the children in Tizard’s sample had not experienced the extreme deprivation experienced by earlier samples of children  (e.g., Goldfarb, 1945a)
 
 ## Using Play to improve Cognition
 - According to a paper on the relation of play and congition in institutional care[^13]

@@ -40,7 +40,7 @@ tags:
 	- [Emergency Protocol](Roll%20Ups/CCI%20Operations/Emergency%20Protocol.md)
 	- [Program Operations](Roll%20Ups/CCI%20Operations/Program%20Operations.md)
 - [Education](Roll%20Ups/Education/Education.md)
-	- [IQ](Roll%20Ups/Education/IQ.md)
+	- [IQ](IQ.md)
 	- [Skilling](Roll%20Ups/Education/Skilling.md)
 - [Hygiene](Roll%20Ups/Hygiene/Hygiene.md)
 - [Mental Health](Roll%20Ups/Mental%20Health/Mental%20Health.md)
