@@ -47,12 +47,12 @@ tags: Practitioner
 	- and norms for building; proper and non-slippery flooring; lighting, ventilation, heating, cooling, toilet (gender and age appropriate and disabled friendly), water, first-aid kit, fire extinguishers; dormitories, and rooms for vocational training, recreation, store and counselling;
 	-  periodic inspection of electrical installations; proper storage and inspection of food; facilities and equipment for differently-abled children;other logistical and functional items like computers, photocopiers, printer, telephone with internet, furniture and projector.
 	- CCIs should be child-friendly and should not look like a jail or lock-up.
-- Clothing, bedding and toiletries [Hygiene](Roll%20Ups/Hygiene/Hygiene.md) (Rule 30)
+- Clothing, bedding and toiletries [Hygiene](Hygiene.md) (Rule 30)
 	- Clothing and bedding according to scale and climatic conditions; 
 	- miscellaneous items like slippers, shoes (sports/school), school uniform, school bag, handkerchief, socks, stationery etc.; suit once in three years;
 	-  night clothing and bedding for hospitals attached to CCIs; 
 	- and toiletries like oil, soap and other material like broomstick, mosquito repellant machine etc. as per scale.
-- Sanitation and [Hygiene](Roll%20Ups/Hygiene/Hygiene.md)(Rule 31)
+- Sanitation and [Hygiene](Hygiene.md)(Rule 31)
 	- Facilities like water for drinking and other purposes
 	- proper drainage, garbage disposal, pest control
 	- toilets (at least one for seven children), bathroom (at least one for 10 children) 

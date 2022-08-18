@@ -42,7 +42,7 @@ tags:
 - [Education](Roll%20Ups/Education/Education.md)
 	- [IQ](IQ.md)
 	- [Skilling](Roll%20Ups/Education/Skilling.md)
-- [Hygiene](Roll%20Ups/Hygiene/Hygiene.md)
+- [Hygiene](Hygiene.md)
 - [Mental Health](Roll%20Ups/Mental%20Health/Mental%20Health.md)
 - [Physical Health](Roll%20Ups/Physical%20Health/Physical%20Health.md)
 - [Assessment Tools](Roll%20Ups/Assessment%20Tools.md)

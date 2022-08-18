@@ -86,7 +86,7 @@ This study also concurs with 1999 micronutrient survey, which reported a relativ
 # Morbidity
 - Prevalence of morbidity was significantly higher (t=2.61, df=206,p=0.005) among boys (27.9%) than girls (13.5%) ages 4-7 years.
 - Similarly, prevalence of morbidity was also significantly higher (t=2.56, df=206, p=0.006) among boys (18.3%) than girls (6.7%) ages 8-11 years.
-- Of the orphanage children ages 6-11 years, 48% reported washing hands after visiting the toilet, 49.4% washed hands before meals and 12.8% washed hands with soap during the critical times, the day before the interview. [Hygiene](Roll%20Ups/Hygiene/Hygiene.md)
+- Of the orphanage children ages 6-11 years, 48% reported washing hands after visiting the toilet, 49.4% washed hands before meals and 12.8% washed hands with soap during the critical times, the day before the interview. [Hygiene](Hygiene.md)
 
 
 # Calorific Intake
