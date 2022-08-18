@@ -1,5 +1,6 @@
 {
   "legacyEditor": false,
   "promptDelete": false,
-  "attachmentFolderPath": "Media Resources"
+  "attachmentFolderPath": "Media Resources",
+  "alwaysUpdateLinks": true
 }

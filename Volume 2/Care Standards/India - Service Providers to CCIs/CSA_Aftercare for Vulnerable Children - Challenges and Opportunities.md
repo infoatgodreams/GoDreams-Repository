@@ -4,7 +4,7 @@ author: Akshay
 tags :
 - Practitioner
 ---
-Tags: [[Roll Ups/Child Development/Child Lifecycle/Aftercare]] [[Roll Ups/Education/Skilling]]
+Tags: [[Aftercare]] [[Roll Ups/Education/Skilling]]
 Link: https://drive.google.com/file/d/1lIj3c08kiHUy9WmxQ4Usc1TNC4KLm_T4/view?usp=sharing
 
 Context: This webinar is mostly about their own aftercare program run in Goa, MP, Maharashtra, Orissa. Offers interesting insights into what’s working for them. 

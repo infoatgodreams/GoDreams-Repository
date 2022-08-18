@@ -18,7 +18,7 @@ tags:
 - [Child Development](Roll%20Ups/Child%20Development/Child%20Development.md)
 	- Child Life Cycle
 		- [Admissions](Admissions.md)
-		- [Aftercare](Roll%20Ups/Child%20Development/Child%20Lifecycle/Aftercare.md)
+		- [Aftercare](Aftercare.md)
 		- [Pre-admission to CCIs](Pre-admission%20to%20CCIs.md)
 	- [Child Profile](Child%20Profile.md)
 	- [ChildParticipation](ChildParticipation.md)
