@@ -28,7 +28,7 @@ Link : https://drive.google.com/file/d/1xbldLE1U9c-s2pljL2RLdgv72IDisiLc/view?us
 	- Parasitesfrom6–76%
 	- Half the studies with dietary information found inadequate intake or diet diversity. Younger children were typically more malnourished than older children, with a few exceptions (Page 1)
 
-# [Pre-admission to CCIs](Roll%20Ups/Child%20Development/Child%20Lifecycle/Pre-admission%20to%20CCIs.md)
+# [Pre-admission to CCIs](Pre-admission%20to%20CCIs.md)
 - Children in institutional care often face numerous adversities prior to admission and many enter institutionalized care with pre-existing nutritional, developmental, medical and neurological conditions(Baron,Baron&Spencer,2001; The Children’s Health Care Collaborative Study Group,1994; The St. Petersburg-USA Orphanage ResearchTeam,2005; The St. Petersburg-USA Orphanage ResearchTeam,2008). (Page 3)
 - Born prematurely or with low birth weight and many have had exposure to drugs or alcohol, HIV, stress or a range of other issues —all of which can impact their health.(Baron,Baron&Spencer,2001; Groceetal.,2014; The Children’s Health Care Collaborative Study Group,1994; The St. Petersburg-USA Orphanage Research Team,2008) (Page 3)
 - No information about children’s early lives or exposures prior to coming into care(The Children’s Health Care Collaborative Study Group,1994; The St Petersburg-USA Orphanage Research Team,2005; The St.Petersburg-USA Orphanage Research Team,2008). (Page 3)

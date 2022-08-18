@@ -92,7 +92,7 @@ tags: Practitioner
 	-  It covers occupational therapy, and skill and interest based training having potential for placement.
 - Recreational facilities [[Play]] (Rule 38)
 	- Indoor and outdoor games, yoga, meditation, music, television, picnics and outings and cultural programmes, gardening, library, dance, art therapy etc., and child-friendly library (Page 18)
-- Children's Participation [[Roll Ups/Child Development/Childrens Committees]]
+- Children's Participation [[Childrens Committees]]
 	- Children as Members of Management Committee: According to Rule 39 (3) of the JJ Rules 2016, the management committee of a child care institution shall have ‘two child representatives from each of the Children’s Committees’ as members.  
 	- Children’s Suggestion Box: The management committee of every CCI is required to put in place a complaint and redressal mechanism for the benefit of children. According to Rule 39 (5) of the JJ Rules 2016, a Children’s Suggestion Box shall be installed closer to the residential area of CCI, so that children can have easy access to the facility. The Chairperson of the management committee or his representative from DCPU checks the suggestions of children every week in presence of members of children’s committees. 
 	- The Rule also requires the Chairperson to call for an emergency meeting of the management committee to discuss and act on feedback  suggestions of urgent nature (Page 18). Besides other members, two members of the children’s committee participate in any such emergency meeting. The suggestions received through Suggestion Box and actions taken on the basis of emergency meeting are discussed and reviewed in the monthly meeting of the management committee.  
@@ -107,7 +107,7 @@ tags: Practitioner
 		- Creative expression of views through wall papers, paintings, newsletter etc.
 		-  As facilitators of the process, the child care institutions are required to ensure that the children’s committees meet every month, their records are maintained properly, and are provided with necessary support, space, stationery and guidance.  (Page 19)
 
-# [[Roll Ups/Child Development/Child Lifecycle/Admissions]]
+# [[Admissions]]
 
 - **Procedures to be followed at the time of receiving a child (Rule 69 F) (Page 20)**
 	- The child’s full personal description is noted in admission and discharge register. 
@@ -138,7 +138,7 @@ tags: Practitioner
 	- Children in need of special care are allotted different dormitory. 
 	- For children under rehabilitation stay, the care plan covers the entire period of stay; and it accommodates the directions of CWC, JJB and children’s court.
 
-- ### [Child Profile](Roll%20Ups/Child%20Development/Child%20Profile.md): 
+- ### [Child Profile](Child%20Profile.md): 
 	- Form 7 given in JJ Rules 2016 is used for preparing individual care plan. An individual care plan is prepared keeping in view the child’s case history, education and vocational aptitude. 
 		-  Individual care plan is reviewed by CWO or CWCWO or CW maintains a record of difficulties, if any, faced by the child during the period of stay in CCI. 
 		- CWO or CW keeps of a record of complaints by the child regarding the facilities of CCI.

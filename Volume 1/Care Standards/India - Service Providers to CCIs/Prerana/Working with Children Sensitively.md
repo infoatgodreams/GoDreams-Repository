@@ -17,7 +17,7 @@ Tags:  [Care Practices](Roll%20Ups/Caregiving/Care%20Practices.md) [[Roll Ups/Me
 Here are some tips for caregivers to deal with children sensitively:
 
 ## **Communication with Children**
-[Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md) [Child Profile](Roll%20Ups/Child%20Development/Child%20Profile.md)
+[Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md) [Child Profile](Child%20Profile.md)
 * Whenever a child is seen engaging in unacceptable behavior or is found doing something that is unacceptable, the child should be first asked what he/she was up to. Listen to children. After knowing what the child was doing, an adult can explain why a behavior is inappropriate.
 * In order to avoid shaming, embarrassing or humiliating the child, the caregivers should hold this conversation one- on-one with the child and avoid confronting the child in front of the other children.
 * Talk about inappropriate behavior without demeaning their self worth or attacking their personality or character.

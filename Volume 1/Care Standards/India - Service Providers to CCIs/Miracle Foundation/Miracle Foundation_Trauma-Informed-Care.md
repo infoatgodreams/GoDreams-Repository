@@ -3,7 +3,7 @@ title: Miracle Foundation - Trauma Informed Care in CCIs
 author: Miracle Foundation
 tag: Practitioner
 ---
-Tags: [TIC-Trauma Informed Care](Roll%20Ups/Caregiving/TIC-Trauma%20Informed%20Care.md)  [Child Profile](Roll%20Ups/Child%20Development/Child%20Profile.md)[[Harris and Fallot’s Using Trauma Theory to Design Service Systems]]  [[Roll Ups/Mental Health/Mental Health]]  [[Roll Ups/Caregiving/Individualised Care]] [[Roll Ups/Alternative Care/Restoration]] [MiracleFoundation](MiracleFoundation)
+Tags: [TIC-Trauma Informed Care](Roll%20Ups/Caregiving/TIC-Trauma%20Informed%20Care.md)  [Child Profile](Child%20Profile.md)[[Harris and Fallot’s Using Trauma Theory to Design Service Systems]]  [[Roll Ups/Mental Health/Mental Health]]  [[Roll Ups/Caregiving/Individualised Care]] [[Roll Ups/Alternative Care/Restoration]] [MiracleFoundation](MiracleFoundation)
 
 Link: https://drive.google.com/file/d/1XoYO7EMTQ4h07bsPBPFXp2wQ_jy6Q6Hn/view?usp=sharing
 ## Trauma Informed Care
