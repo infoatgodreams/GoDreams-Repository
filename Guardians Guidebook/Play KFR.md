@@ -24,69 +24,30 @@ Physical activities and extracurricular engagements are important elements in co
 
 The primary stakeholders responsible for creating a supportive environment of play and extracurricular engagement in an institution are the child welfare officers, the leadership of the institution, teachers in school, primary caregivers at the home, volunteers, and other civil society organizations. 
 
-In a majority of institutions, play and elements of extracurricular activities are primarily determined by the child welfare officer and the leadership of the organization. They often influence the activities available to children in institutions and organize funding for these activities, based on the interests and needs of the children. Leadership that stresses the value of play will make space in their funding and schedule of children to allow for these activities. 
+- In a majority of institutions, play and elements of extracurricular activities are primarily determined by the child welfare officer and the leadership of the organization. They often influence the activities available to children in institutions and organize funding for these activities, based on the interests and needs of the children. Leadership that stresses the value of play will make space in their funding and schedule of children to allow for these activities. 
+- Volunteers and other civil society organizations play a crucial role in teaching children multiple activities and hobbies including music, art, dance, and photography. Volunteers can fill in niche expertise areas in different elements of play and provide cost-effective alternatives to engaging private service providers. 
+- Teachers & house parents are also required to consciously provide space in children’s schedules for play and unstructured free time. 
+- Coaches and trainers are sometimes engaged for specific skills, sports, or arts.
 
-Volunteers and other civil society organizations play a crucial role in teaching children multiple activities and hobbies including music, art, dance, and photography. Volunteers can fill in niche expertise areas in different elements of play and provide cost-effective alternatives to engaging private service providers. 
-
-Teachers & house parents are also required to consciously provide space in children’s schedules for play and unstructured free time. 
-
-Coaches and trainers are sometimes engaged for specific skills, sports, or arts.
 
 From observational insights and existing literature, the following are a few factors that influence the quality of play outcomes in institutional care:
+- Access to creative and physical play outlets through physical education, art, music, and theatre is low due to a lack of facilities, and reduced funding.
+- In institutions, after-school opportunities for play may be compromised by a lack of safe play areas, because secure open spaces like parks /playgrounds are less common in childcare institutions.
+- Children in CCIs are often under a lot of academic pressure from different stakeholders, which often results in compromises on time to play.
+- Experience of Trauma: Adversity in life and in particular the experience of trauma and disruption was identified as the most significant barriers to children’s limited engagement.
+- Children have limited choices in their daily lives by virtue of rigid routines in CCIs, and this often led to a reluctance to engage when offered a choice to participate in an extracurricular activity
 
+
+# Play Outcomes
   
+## Optimal Adult Outcomes
 
-Access to creative and physical play outlets through physical education, art, music, and theatre is low due to a lack of facilities, and reduced funding.
-
-  
-
-In institutions, after-school opportunities for play may be compromised by a lack of safe play areas, because secure open spaces like parks /playgrounds are less common in childcare institutions.
-
-  
-
-Children in CCIs are often under a lot of academic pressure from different stakeholders, which often results in compromises on time to play.
-
-  
-
-Experience of Trauma: Adversity in life and in particular the experience of trauma and disruption was identified as the most significant barriers to children’s limited engagement.
-
-  
-
-Children have limited choices in their daily lives by virtue of rigid routines in CCIs, and this often led to a reluctance to engage when offered a choice to participate in an extracurricular activity
-
-  
-
-**Play Outcomes**
-
-  
-
-  
-
-**Optimal Adult Outcomes**
-
-  
-
-Care leavers are able to use skills developed from play and extracurricular engagements to build social relationships between peers.
-
-  
-
-Care leavers exhibit typical cognitive and emotional development, relative to peers from non-institutional settings.
-
-  
-
-Care leavers showcase resilience, learning from their experiences in play and extracurricular activities to deal with difficult situations.
-
-  
-
-Care leavers are confident in their own talents and abilities, building relevant skills while engaging in activities outside traditional schooling. 
-
-  
-
-Care leavers manage emotions and stressful life events through engagement in sports, music, theatre, or art. 
-
-  
-
-Care leavers develop a strong sense of identity and self-esteem, commonly correlated with exposure to different activities. 
+- Care leavers are able to use skills developed from play and extracurricular engagements to build social relationships between peers.
+- Care leavers exhibit typical cognitive and emotional development, relative to peers from non-institutional settings.
+- Care leavers showcase resilience, learning from their experiences in play and extracurricular activities to deal with difficult situations.
+- Care leavers are confident in their own talents and abilities, building relevant skills while engaging in activities outside traditional schooling. 
+- Care leavers manage emotions and stressful life events through engagement in sports, music, theatre, or art. 
+-Care leavers develop a strong sense of identity and self-esteem, commonly correlated with exposure to different activities. 
 
   
 
