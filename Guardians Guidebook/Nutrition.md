@@ -245,169 +245,63 @@ Research shows that older children are often fed the same quantity of the food a
 
   
 
-**From the Field:**
+## From the Field:
+- Children are given at least 4 meals a day, typically allowing them to be satiated.
+- Meat & eggs, if provided on a regular basis can alleviate protein consumption concerns and prove to be an excellent source of nutrients for children.
+- Diets are usually carbohydrate heavy.
+- Fruits and vegetables are quickly perishable and more expensive, dissuading caregivers from providing a diverse range of fresh produce.
+- Lunch tends to be the most nutritionally dense meal of the day, tilting the balance of the diet plan- breakfast & dinner tend to be simple and nutritionally deficient.
+- Menu plans are not usually created with the help of registered nutritionists and doctors; nor are they updated regularly. 
+- Donors heavily influence meal timings, meal plans, and eating habits.
+- Children are engaged in creating and updating the menu plan through children’s committees, but are not always equipped with the knowledge and skills to contribute effectively.
+- Children are often scolded and punished in response to eating habits, versus caregivers adopting a more encouraging, positive framework to help children improve their eating practices.
 
   
 
-Children are given at least 4 meals a day, typically allowing them to be satiated.
+# Key Excerpts from Research
 
-  
-
-Meat & eggs, if provided on a regular basis can alleviate protein consumption concerns and prove to be an excellent source of nutrients for children.
-
-  
-
-Diets are usually carbohydrate heavy.
-
-  
-
-Fruits and vegetables are quickly perishable and more expensive, dissuading caregivers from providing a diverse range of fresh produce.
-
-  
-
-Lunch tends to be the most nutritionally dense meal of the day, tilting the balance of the diet plan- breakfast & dinner tend to be simple and nutritionally deficient.
-
-  
-
-Menu plans are not usually created with the help of registered nutritionists and doctors; nor are they updated regularly. 
-
-  
-
-Donors heavily influence meal timings, meal plans, and eating habits.
-
-  
-
-Children are engaged in creating and updating the menu plan through children’s committees, but are not always equipped with the knowledge and skills to contribute effectively.
-
-  
-
-Children are often scolded and punished in response to eating habits, versus caregivers adopting a more encouraging, positive framework to help children improve their eating practices.
-
-  
-
-**Key Excerpts from Research**
-
-  
-
-  
-
-**From Literature**
-
-  
+## From Literature
 
 Some of the recurring themes that we saw in the research surrounding nutrition in children in need of care and protection and children living in institutions were: 
-
   
-
-**Micronutrient deficiencies**: According to a meta-analysis of the nutritional status of children in care, Vitamin A and B complex deficiency were the most common nutritional deficiency signs among children. Other common deficiencies were iodine, zinc, and albumin. (Sarma, 1991)
-
-  
-
-**Caregiver training** greatly influences nutritional outcomes in children. It is essential for caregivers to develop healthy eating practices in children, encouraging diverse tastes and a comprehensive understanding of nutrition - a valuable skill for adulthood. (Moyo, 2018). 
-
-  
-
-**Poor hygiene and sanitation** can lead to frequent illness and poor absorption of nutrients. It is important to remember that hygiene and nutrition are closely linked. Often, waste disposal is not considered carefully enough in developing the food cycle at the institution. (Chitty, 2015)
-
-  
-
-**Caregiver ratio** is also a crucial metric that influences nutritional practices in an institution. The number of children served by each caregiver is critical to higher quality care. The poor caregiver-to-child ratio not only inhibits social interaction but also influences the way caregivers respond to the needs of the children. This includes crucial dietary needs and practices. Young children in group care often fail to thrive, tend to be sickly, and often demanding of attention - they need consistent caregiving. (Moyo, 2018)
-
-  
-
-**Regular feedback** from children, staff, and external stakeholders is essential to improving the quality of food at the institution. Children need to be actively engaged in the food practices at the CCI through children’s committees and feedback boxes. 
-
-  
-
-**Eating behaviors** in children in institutions tend to be poorly developed. Studies have suggested that children in institutional care may not learn how to judge feelings of satiety. They may ask for more or less food than they need; with a tendency to overeat when food is available; due to past experiences of irregular availability of food.  in abundance. (MacLean, 2003)
-
-  
-
-**Meal timings** should be ritualized, with the focus on caregivers spending adequate time with children during meal times to encourage them to eat complete meals, nudge them to try different foods, and develop long-lasting bonds. Children are shown to positively respond to attention and care during their meal times. (Powell, 2017)
+- **Micronutrient deficiencies**: According to a meta-analysis of the nutritional status of children in care, Vitamin A and B complex deficiency were the most common nutritional deficiency signs among children. Other common deficiencies were iodine, zinc, and albumin. (Sarma, 1991)
+- **Caregiver training** greatly influences nutritional outcomes in children. It is essential for caregivers to develop healthy eating practices in children, encouraging diverse tastes and a comprehensive understanding of nutrition - a valuable skill for adulthood. (Moyo, 2018). 
+- **Poor hygiene and sanitation** can lead to frequent illness and poor absorption of nutrients. It is important to remember that hygiene and nutrition are closely linked. Often, waste disposal is not considered carefully enough in developing the food cycle at the institution. (Chitty, 2015)
+- **Caregiver ratio** is also a crucial metric that influences nutritional practices in an institution. The number of children served by each caregiver is critical to higher quality care. The poor caregiver-to-child ratio not only inhibits social interaction but also influences the way caregivers respond to the needs of the children. This includes crucial dietary needs and practices. Young children in group care often fail to thrive, tend to be sickly, and often demanding of attention - they need consistent caregiving. (Moyo, 2018)
+- **Regular feedback** from children, staff, and external stakeholders is essential to improving the quality of food at the institution. Children need to be actively engaged in the food practices at the CCI through children’s committees and feedback boxes. 
+- **Eating behaviors** in children in institutions tend to be poorly developed. Studies have suggested that children in institutional care may not learn how to judge feelings of satiety. They may ask for more or less food than they need; with a tendency to overeat when food is available; due to past experiences of irregular availability of food.  in abundance. (MacLean, 2003)
+- **Meal timings** should be ritualized, with the focus on caregivers spending adequate time with children during meal times to encourage them to eat complete meals, nudge them to try different foods, and develop long-lasting bonds. Children are shown to positively respond to attention and care during their meal times. (Powell, 2017)
 
   
 
   
 
-**Literature References**
+### Literature References
 
   
 
 - Nyaradi, A., Li, J., Hickling, S., Foster, J., & Oddy, W. H. (2013). The role of nutrition in children’s neurocognitive development, from pregnancy through childhood. Frontiers in human neuroscience, 7, 97. https://doi.org/10.3389/fnhum.2013.00097
-
-  
-
 - Galler, J. R., Bringas-Vega, M. L., Tang, Q., Rabinowitz, A. G., Musa, K. I., Chai, W. J., Omar, H., Abdul Rahman, M. R., Abd Hamid, A. I., Abdullah, J. M., & Valdés-Sosa, P. A. (2021). Neurodevelopmental effects of childhood malnutrition: A neuroimaging perspective. NeuroImage, 231, 117828. https://doi.org/10.1016/j.neuroimage.2021.117828
-
-  
-
 - Riaz, M., Azam, N., Mahmood, H., Asif, R., Khan, N., & Mughal, F. (2021). NUTRITIONAL STATUS ASSESSMENT OF ORPHANAGE CHILDREN IN RAWALPINDI. PAFMJ, 71(6), 2139-43. https://doi.org/10.51253/pafmj.v71i6.6496
-
-  
-
-  
-
 - Murray, E. T., Lacey, R., Maughan, B., & Sacker, A. (2020). Association of childhood out-of-home care status with all-cause mortality up to 42-years later: Office of National Statistics Longitudinal Study. BMC public health, 20(1), 735. https://doi.org/10.1186/s12889-020-08867-3
-
-  
-
 - Supporting Youth Leaving Care: A Study of Current Aftercare Practices in Delhi (2019), Udayan Care
-
-  
-
 - Toutem, S., Singh, V., & Ganguly, E. (2018). Morbidity profile of orphan children in Southern India. International journal of contemporary pediatrics, 5(5), 1947–1951. https://doi.org/10.18203/2349-3291.ijcp20183537
-
-  
-
 - Global Childhood Report, Toughest Places to be a Child (2021), Save the Children 
-
-  
-
 - Thielman, N., Ostermann, J., Whetten, K., Whetten, R., O’Donnell, K., & Positive Outcomes for Orphans Research Team (2012). Correlates of poor health among orphans and abandoned children in less wealthy countries: the importance of caregiver health. PloS one, 7(6), e38109. https://doi.org/10.1371/journal.pone.0038109
-
-  
-
 - Kamath, S. M., Venkatappa, K. G., & Sparshadeep, E. M. (2017). Impact of Nutritional Status on Cognition in Institutionalized Orphans: A Pilot Study. Journal of clinical and diagnostic research : JCDR, 11(3), CC01–CC04. https://doi.org/10.7860/JCDR/2017/22181.9383
-
-  
-
 - Moyo Burhaan Bakari, Munyaka-Ng’ang’a Ann, Chege Peter (2018). Childcare Practices, Morbidity Status and Nutrition Status of Preschool Children (24-59 Months) Living in Orphanages in Kwale County, Kenya.
-
-  
-
 - Sarma, K. V., Vazir, S., Rao, D. H., Sastry, J. G., & Rao, N. P. (1991). Nutrition, health and psychosocial profile of institutionalized children. Indian pediatrics, 28(7), 767–778.
-
-  
-
 - DeLacey, E., Tann, C., Groce, N., Kett, M., Quiring, M., Bergman, E., Garcia, C., & Kerac, M. (2020). The nutritional status of children living within institutionalized care: a systematic review. PeerJ, 8, e8484. https://doi.org/10.7717/peerj.8484
-
-  
-
 - Teferi, H., & Teshome, T. (2021). Magnitude and Associated Factors of Undernutrition Among Children Aged 6-59 Months in Ethiopian Orphanage Centres. Pediatric health, medicine and therapeutics, 12, 141–150. https://doi.org/10.2147/PHMT.S289809
-
-  
-
 - MacLean K. (2003). The impact of institutionalization on child development. Development and psychopathology, 15(4), 853–884. https://doi.org/10.1017/s0954579403000415
-
-  
-
 - Standards of Care in Child Care Institutions, A Series on Alternative Care (2017), Udayan Care
-
-  
-
 - Indian Academy of Pediatrics Growth Charts Committee, Khadilkar, V., Yadav, S., Agrawal, K. K., Tamboli, S., Banerjee, M., Cherian, A., Goyal, J. P., Khadilkar, A., Kumaravel, V., Mohan, V., Narayanappa, D., Ray, I., & Yewale, V. (2015). Revised IAP growth charts for height, weight and body mass index for 5- to 18-year-old Indian children. Indian pediatrics, 52(1), 47–55. https://doi.org/10.1007/s13312-015-0566-5
-
-  
-
 - Chitty, A. (2015). The Impact of Poor Sanitation on Nutrition. Policy brief, SHARE Research Consortium, London, UK; UNICEF India, Delhi, India
-
-  
-
 - Powell, F., Farrow, C., Meyer, C., & Haycraft, E. (2017). The importance of mealtime structure for reducing child food fussiness. Maternal & child nutrition, 13(2), e12296. https://doi.org/10.1111/mcn.12296
 
   
 
-**From the Field**
+## From the Field
 
 - **Kitchen Facilities & Equipment**
 
@@ -437,134 +331,61 @@ We’ve noticed that institutions that encourage small, group settings for child
 
   
 
-**Nutrition - Juvenile Justice Model Rules, 2016**
+# Nutrition - Juvenile Justice Model Rules, 2016
 
-Individual Care Plan, a comprehensive development plan for a child based on age and gender-specific needs and case history of the child, is to be prepared in consultation with the child  in order to restore the child’s self-esteem, dignity and self-worth and nurture him into a responsible citizen and accordingly the plan shall address the following, including but not limited to health and nutrition needs, including any special needs. (p.176, Chapter-I, Preliminary)
+- Individual Care Plan, a comprehensive development plan for a child based on age and gender-specific needs and case history of the child, is to be prepared in consultation with the child  in order to restore the child’s self-esteem, dignity and self-worth and nurture him into a responsible citizen and accordingly the plan shall address the following, including but not limited to health and nutrition needs, including any special needs. (p.176, Chapter-I, Preliminary)
+- All institutions under the Act shall ensure proper storage and inspection of articles of food (p.200, Chapter-VI, Rehabilitation and Social Re-integration)
 
-
-All institutions under the Act shall ensure proper storage and inspection of articles of food (p.200, Chapter-VI, Rehabilitation and Social Re-integration)
-
-  
-
-Nutrition and Diet Scale: 
+- Nutrition and Diet Scale: 
 
 (i) the children shall be provided four meals in a day including breakfast;
 
 (ii) the menu shall be prepared with the help of a nutritional expert or doctor to ensure balanced diet and variety in taste as per the minimum nutritional standard and diet scale;
 
 (iii) every Child Care Institution shall strictly adhere to the minimum nutritional standard and diet scale.
+- Children may be provided special meals on holidays, festivals, sports and cultural day and celebration of national festival.
+- Infants and sick children shall be provided special diet according to the advice of the doctor on their dietary requirement.
+- The requirement of each child shall also be taken into account including need for iron and folic acid supplements.
+- The menu for the day shall be prepared in consultation with the Children’s Committee and shall be displayed in the dining hall.
 
-
-Children may be provided special meals on holidays, festivals, sports and cultural day and celebration of national festival.
-
-Infants and sick children shall be provided special diet according to the advice of the doctor on their dietary requirement.
-
-The requirement of each child shall also be taken into account including need for iron and folic acid supplements.
-
-  
-
-The menu for the day shall be prepared in consultation with the Children’s Committee and shall be displayed in the dining hall.
-
-  
-
-Meal Timing and Menu:
-
-  
+- Meal Timing and Menu:
 
 (i) Breakfast – 7.30 a.m. to 8.30 a.m.
-
-  
-
 (a) upma or chapattis made of wheat or ragi or any other dish;
-
 (b) chutneys from Gongura or fresh curry leave or fresh coriander or Coconut and Putnadal etc., dal or vegetable may be issued as a dish;
-
 (c) milk;
-
 (d) any seasonal fruit in sufficient quantity.
 
-  
-
 (ii) Lunch at 12.30 to 1.30 P.M. and Dinner – 7.00 P.M. – 8.00 P.M
-
-  
-
 (a) rice or Chapattis or combination of both;
-
 (b) vegetable curry;
-
 (c) sambar or dal;
-
 (d) butter milk or curd.
 
-  
-
 iii) depending on the season, the Person-in-charge shall have the discretion to alter the time for distribution of food;
-
-  
-
 Variation in diet may be as per seasonal and regional variations, a suggested diet variation is given below:-
-
-  
-
 (i) varieties of dal e g., Toor (Arhar), Moong (Green Gram) and Chana (Bengal Gram) may be given alternatively;
-
-  
-
 (ii) on non-vegetarian days, vegetarian children shall be issued with either 60 gms of jaggery and 60 gms of groundnut seeds per head in the shape of laddus or any other sweet dish or 100 gms paneer;
-
-  
-
 (iii) leafy vegetables such as Fenugreek (Methi), Spinach (Palak), Sarson (Mustard leaves) GonguraThotakura or any other saag etc., may also be issued once in a week. If a kitchen garden is attached to any institution, leafy vegetables, should be grown and issued and the Superintendent should try to issue variety of vegetables and see that the same vegetable is not repeated for at least a period of one week;
-
-  
-
 (iv) seasonal fruits shall be provided in a non-repetitive manner in sufficient quantities;
-
-  
-
 (v) the Person-in-charge may make temporary alterations in the scale of diet in individual cases when considered necessary by him, or on the advice of the doctor of the institution subject to the condition that the scale laid down is not exceeded.
 
-  
-
-On the advice of the institution’s doctor or at the discretion of the Person-in-charge, every sick child who is prevented from taking regular food, on account of his ill-health, may be issued with medical diet as per the scale for sick children.
-
-  
-
-Extra diet for nourishment like milk, eggs, sugar and fruits shall be issued to the children on the advice of the institution doctor in addition to the regular diet, to gain weight or for other health reasons and for the purpose of calculation of the daily ration, the sick children shall be excluded from the day’s strength.
-
-  
-
-Special lunch or dinner may be provided to the children at the Child Care Institution at the rate fixed by the Person-in-charge of the Child Care Institution, from time to time on national festivals and festival occasions, including(p 204, Chapter-VI, Rehabilitation and Social Re-integration):
-
-  
+- On the advice of the institution’s doctor or at the discretion of the Person-in-charge, every sick child who is prevented from taking regular food, on account of his ill-health, may be issued with medical diet as per the scale for sick children.
+- Extra diet for nourishment like milk, eggs, sugar and fruits shall be issued to the children on the advice of the institution doctor in addition to the regular diet, to gain weight or for other health reasons and for the purpose of calculation of the daily ration, the sick children shall be excluded from the day’s strength.
+- Special lunch or dinner may be provided to the children at the Child Care Institution at the rate fixed by the Person-in-charge of the Child Care Institution, from time to time on national festivals and festival occasions, including(p 204, Chapter-VI, Rehabilitation and Social Re-integration):
 
 (a) Republic Day (26th January);
-
 (b) Independence Day (15th August);
-
 (c) Mahatma Gandhi’s Birth day (2nd October);
-
 (d) Children’s Day (14th November);
-
 (e) National festivals;
-
 (f) Local festivals;
-
 (g) Annual Day of the Child Care Institution
 
-  
+- The Person-in-charge shall inspect the Child Care Institution as often as possible but not less than twice a day. He shall make a record of the timings of his inspection and also note his observations in a separate book maintained for the purpose, especially with regard to(p.222, Chapter-IX, Miscellaneous):
+	- quality and quantity of food
+	- hygienic maintenance of food articles and other supplies
 
-The Person-in-charge shall inspect the Child Care Institution as often as possible but not less than twice a day. He shall make a record of the timings of his inspection and also note his observations in a separate book maintained for the purpose, especially with regard to(p.222, Chapter-IX, Miscellaneous):
+- Procedure to be adopted at the time of receiving the child (p.229, Chapter-IX, Miscellaneous)
 
-  
-
-- quality and quantity of food
-
-- hygienic maintenance of food articles and other supplies
-
-  
-
-Procedure to be adopted at the time of receiving the child (p.229, Chapter-IX, Miscellaneous)
-
-- The child shall be provided food to eat and drink if the child is hungry, irrespective of the time of receiving such child.
+	- The child shall be provided food to eat and drink if the child is hungry, irrespective of the time of receiving such child.
