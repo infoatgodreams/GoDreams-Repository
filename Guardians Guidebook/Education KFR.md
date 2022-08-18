@@ -154,111 +154,42 @@ _You can find the official recommendations for education from the Juvenile Justi
 - Conversations around academic and career goals need to be frequent, even more so from middle school onwards
 
   
+## Current Reality 
+
+### From Literature
+
+- Children’s learning lags when coming into institutions and lack of support for staff to help children improve, leads to a cycle of low expectations for academic potential and career aspirations. 
+- Children in care are rarely consulted or given opportunities to communicate their views on decisions. Without their participation, the young people end up in courses that they have little interest in or ability to pursue, leading to many dropping out or struggling to attain good qualifications.
+- In addition, a growing phenomenon in Africa and Asia is orphanage tourism, where tourists and volunteers are allowed to visit and stay in care facilities for a fee or donation. However, some activities of the visitors disrupt the children’s education. For instance, the children sometimes miss school to rehearse and undertake performances to entertain donors visiting the residential facility.
+- An interesting finding from the research is that for some young people, the extremely high expectations of the staff members also had a negative influence on their education because the unrealistic expectations of adults put undue pressure on young people. This contributed to them experiencing low self-esteem and eventual disengagement from school.
+- In a few cases, negative comments from teachers and schoolmates because of their care background made school difficult for many of the young people in the study. These experiences of stigma resulted in some even dropping out, disrupting their education.
+- An Individual Education Plan is necessary for each child in an institution to receive customized support and to track progress regularly.
+- Grades, satisfaction with schooling, and general perception of children about learning and school are only monitored at a group level. Individual context is typically lacking.
+- There is an inadequacy of books and reference material at institutions, with many CCIs relying on donated materials. 
+- Alternative modes of learning outside of textbook based are rarely available.
+
+
+## From the Field
+
+- Infrastructure and facilities don’t always support ideal learning environments for children- Study room facilities can be inadequate and children are often required to find places to study without any tables or seating arrangements. 
+- Children receive varied educational inputs based on whether they go sent to government or private schools; a majority of institutions send their children to government schools or low-income private schools due to resource constraints.
+- Children within the same home may sometimes receive unequal access to quality education depending on their education being sponsored by donors. 
+- Education sponsorship is a common tool used to engage donors; donors expect children to keep in touch with them through letters, calls, or visits. 
+- Lack of afterschool support, mainly driven by a lack of availability of qualified tutors at the home is observed in some institutions. This is more commonly observed for subjects of mathematics and sciences in high school, that require more qualified tutors.
+- Study time is often supervised by a house parent who is not always trained to teach children or support them with their homework, and sometimes cannot read or write in the language of instruction but are able to judge based on volume of home-work completed and diary notes from school teachers.
+- Children with learning disorders or attention issues are often neglected due to lack of bandwidth or lack of expertise. Behavioural concerns in school or during study time are not always directly reported to counsellors and teachers sometimes struggle to identify non-violent methods of disciplining children. 
+- Some children pursue NIOS curriculum, but the majority of children in CCIs from Bangalore, Chennai and Cochin are state board students followed by CBSE, based on trends observed in scholarship applications.
+- Individual education plans are not commonly used in practice and remain documentation tools.
 
   
 
-**Current Reality**
+# Key Excerpts from Research
 
-  
 
-**From Literature**
-
-  
-
-Children’s learning lags when coming into institutions and lack of support for staff to help children improve, leads to a cycle of low expectations for academic potential and career aspirations. 
-
-  
-
-Children in care are rarely consulted or given opportunities to communicate their views on decisions. Without their participation, the young people end up in courses that they have little interest in or ability to pursue, leading to many dropping out or struggling to attain good qualifications.
-
-  
-
-In addition, a growing phenomenon in Africa and Asia is orphanage tourism, where tourists and volunteers are allowed to visit and stay in care facilities for a fee or donation. However, some activities of the visitors disrupt the children’s education. For instance, the children sometimes miss school to rehearse and undertake performances to entertain donors visiting the residential facility.
-
-  
-
-An interesting finding from the research is that for some young people, the extremely high expectations of the staff members also had a negative influence on their education because the unrealistic expectations of adults put undue pressure on young people. This contributed to them experiencing low self-esteem and eventual disengagement from school.
-
-  
-
-In a few cases, negative comments from teachers and schoolmates because of their care background made school difficult for many of the young people in the study. These experiences of stigma resulted in some even dropping out, disrupting their education.
-
-  
-
-An Individual Education Plan is necessary for each child in an institution to receive customized support and to track progress regularly.
-
-  
-
-Grades, satisfaction with schooling, and general perception of children about learning and school are only monitored at a group level. Individual context is typically lacking.
-
-There is an inadequacy of books and reference material at institutions, with many CCIs relying on donated materials. 
-
-  
-
-Alternative modes of learning outside of textbook based are rarely available.
-
-  
-
-  
-
-**From the Field**
-
-  
-
-Infrastructure and facilities don’t always support ideal learning environments for children- Study room facilities can be inadequate and children are often required to find places to study without any tables or seating arrangements. 
-
-  
-
-Children receive varied educational inputs based on whether they go sent to government or private schools; a majority of institutions send their children to government schools or low-income private schools due to resource constraints.
-
-  
-
-Children within the same home may sometimes receive unequal access to quality education depending on their education being sponsored by donors. 
-
-  
-
-Education sponsorship is a common tool used to engage donors; donors expect children to keep in touch with them through letters, calls, or visits. 
-
-  
-
-Lack of afterschool support, mainly driven by a lack of availability of qualified tutors at the home is observed in some institutions. This is more commonly observed for subjects of mathematics and sciences in high school, that require more qualified tutors.
-
-  
-
-Study time is often supervised by a house parent who is not always trained to teach children or support them with their homework, and sometimes cannot read or write in the language of instruction but are able to judge based on volume of home-work completed and diary notes from school teachers.
-
-  
-
-Children with learning disorders or attention issues are often neglected due to lack of bandwidth or lack of expertise. Behavioural concerns in school or during study time are not always directly reported to counsellors and teachers sometimes struggle to identify non-violent methods of disciplining children. 
-
-  
-
-Some children pursue NIOS curriculum, but the majority of children in CCIs from Bangalore, Chennai and Cochin are state board students followed by CBSE, based on trends observed in scholarship applications.
-
-  
-
-Individual education plans are not commonly used in practice and remain documentation tools.
-
-  
-
-  
-
-**Key Excerpts from Research**
-
-  
-
-**From Literature**
-
-  
+## From Literature
 
 **Disruption in learning:** Children growing up in the same institution for many years had better attendance markers than their vulnerable peers from family care, but this changes for worse if the child is moved around to different institutions. (Frimpong-Manso, 2021)
-
-  
-
 **Poor educational attainment:** Studies in Australia by the Australian Institute of Health and Welfare (AIHW) have indicated that children in care have lower reading and numeracy test scores than their peers (Australian Institute of Health & Welfare, 2015)
-
-  
-
 **Turbulent early years:** Children in need of care and protection often experience difficult early childhoods, leading to lags in language and communication that can be difficult to bridge when they are in schools. (Babchishin, 2015).
 
   
