@@ -67,223 +67,86 @@ _These outcome indicators typically describe the long-term success seen in the m
 
 ### From the Field:
 
-Care leavers reported being unable to manage independently because they’re not used to being solely responsible for their health, education and mental-well being.
-Some care leavers articulate looking back at their life in the children’s homes with fondness, and would frequently visit.
-Some care leavers expressed distress at not having access to records of their childhoods in institutions in the form of pictures etc.
-Care leavers find it difficult to mingle with peers in their universities and workplaces, reporting a feeling of separateness from their peers in these spaces.
-Care leavers report higher rates of negative habits including smoking, drug use, and alcohol use.
-Care leavers are not often in regular therapy or do not choose to access professional mental health support. While care leavers have access to mental health services at the institution, they rarely have regular therapeutic support once they leave; access to mental health is harder.
-Care leavers find it harder to function without the structure that institutional care provides.
-Some care leavers reported switching between jobs frequently, due to struggles maintaining relationships with peers or management at workplaces.
+- Care leavers reported being unable to manage independently because they’re not used to being solely responsible for their health, education and mental-well being.
+- Some care leavers articulate looking back at their life in the children’s homes with fondness, and would frequently visit.
+- Some care leavers expressed distress at not having access to records of their childhoods in institutions in the form of pictures etc.
+- Care leavers find it difficult to mingle with peers in their universities and workplaces, reporting a feeling of separateness from their peers in these spaces.
+- Care leavers report higher rates of negative habits including smoking, drug use, and alcohol use.
+- Care leavers are not often in regular therapy or do not choose to access professional mental health support. While care leavers have access to mental health services at the institution, they rarely have regular therapeutic support once they leave; access to mental health is harder.
+- Care leavers find it harder to function without the structure that institutional care provides.
+- Some care leavers reported switching between jobs frequently, due to struggles maintaining relationships with peers or management at workplaces.
   
 
-**Mental Health Indicators and Inputs**
+# Mental Health Indicators and Inputs
 
-  
-
-  
-
-**Optimal Childhood Indicators** 
-
+## Optimal Childhood Indicators
 _These social impact indicators allow us to evaluate the positive mental well-being of children in CCIs_
 
+- Children have regular attachment patterns with other children and adults and are able to discern what’s appropriate with people of varying degrees of closeness.
+- Children have minimal behavioral challenges outside of what is expected for their age, using healthy modalities to deal with conflict and issues with authority. 
+- Children exhibit resilience in the face of struggle, and are able to focus on problem-solving instead of resorting to unhealthy coping patterns. 
+- Children show that they are able to actively leverage and use existing safe spaces and support systems at the institution.
+- Young children with low self-esteem begin perceiving themselves as more competent and confident after mental health interventions at the institution. 
+- Children have become equipped to identify negative emotions using tangible tools and respond or report them to trusted caregivers where required.
+- Children showcase a clear understanding that their emotions are separate from their behaviors, and behaviors do not need to be driven by emotions.
+- Children clear recognize harmful gender stereotypes as social constructs that can be harmful and they learn to play an active role in altering harmful behavior.
+- Children report high levels of satisfaction with their time at the institution and adopt an overall happy, positive attitude towards their stay.
+- The number of mental health and behavioural concerns exhibited by children at an institution is on par with familial and community settings.
+
+
+
+## Current Reality
+
+### From Literature:
+
+- Research shows that children in CCIs often have to deal with attachment disorders, behavioral and thinking disorders including mood disorders, delinquency, impulsivity, inhibition, violence, and failures in learning.
+- It is also known that children with trauma are also prone to committing acts of self-injury, suicide and have higher rates of psychiatric disorders. 
+- From intervention studies in caregiving, we know that children with a history of early institutional care showed more academic difficulties and deficits in social skills, such as maintaining trustful interpersonal relationships. 
+- From research on institutional care, we know that many children-develop long-term mental health difficulties including depression, anxiety, and suicidal ideation.
+- Children in institutions show a lack of social boundaries displaying indiscriminately sociable behaviour pattern. 
+- It is also reported that children who experienced institutional care had reduced cognitive processing speed compared to the comparison group.
+- Children in institutions in Delhi reported that isolation and loneliness were the most common problems; describing their inability to integrate with the community. 
+- According to research in India, we know that some older children accepted that many times they smoked and chewed tobacco to avoid tension and be carefree. Some others reported that they often used pain relieving balms as inhalants to relieve tension and anxiety.
   
 
-Children have regular attachment patterns with other children and adults and are able to discern what’s appropriate with people of varying degrees of closeness.
-
-  
-
-Children have minimal behavioral challenges outside of what is expected for their age, using healthy modalities to deal with conflict and issues with authority. 
-
-  
-
-Children exhibit resilience in the face of struggle, and are able to focus on problem-solving instead of resorting to unhealthy coping patterns. 
-
-  
-
-Children show that they are able to actively leverage and use existing safe spaces and support systems at the institution.
-
-  
-
-Young children with low self-esteem begin perceiving themselves as more competent and confident after mental health interventions at the institution. 
-
-  
-
-Children have become equipped to identify negative emotions using tangible tools and respond or report them to trusted caregivers where required.
-
-  
-
-Children showcase a clear understanding that their emotions are separate from their behaviors, and behaviors do not need to be driven by emotions.
-
-  
-
-Children clear recognize harmful gender stereotypes as social constructs that can be harmful and they learn to play an active role in altering harmful behavior.
-
-  
-
-Children report high levels of satisfaction with their time at the institution and adopt an overall happy, positive attitude towards their stay.
-
-  
-
-The number of mental health and behavioural concerns exhibited by children at an institution is on par with familial and community settings.
-
-  
-
-  
-
-**Current Reality**
-
-  
-
-**From Literature:**
-
-  
-
-Research shows that children in CCIs often have to deal with attachment disorders, behavioral and thinking disorders including mood disorders, delinquency, impulsivity, inhibition, violence, and failures in learning.
-
-  
-
-It is also known that children with trauma are also prone to committing acts of self-injury, suicide and have higher rates of psychiatric disorders. 
-
-  
-
-From intervention studies in caregiving, we know that children with a history of early institutional care showed more academic difficulties and deficits in social skills, such as maintaining trustful interpersonal relationships. 
-
-  
-
-From research on institutional care, we know that many children-develop long-term mental health difficulties including depression, anxiety, and suicidal ideation.
-
-  
-
-Children in institutions show a lack of social boundaries displaying indiscriminately sociable behaviour pattern. 
-
-  
-
-It is also reported that children who experienced institutional care had reduced cognitive processing speed compared to the comparison group.
-
-  
-
-Children in institutions in Delhi reported that isolation and loneliness were the most common problems; describing their inability to integrate with the community. 
-
-  
-
-According to research in India, we know that some older children accepted that many times they smoked and chewed tobacco to avoid tension and be carefree. Some others reported that they often used pain relieving balms as inhalants to relieve tension and anxiety.
-
-  
-
-  
-
-**From the Field:**
-
-  
-
-Children often feel home-sick and abandoned by their parents, often displayed through emotional outbursts and sudden temper tantrums.
-
-  
-
-Children have complicated relationships with their parents and families, often swinging between intense affection and apathy.
-
-  
-
-Children often report behaviour challenges in school and the institution, particularly with bullying and peer-interaction difficulties.
-
-  
-
-Children show indiscriminate friendliness and unhealthy attachment patterns with adults, unable to use different approaches to interact with donors, patrons and staff members at the institution.
-
-  
-
-Children are unable to form strong bonds with their caregivers because of high turnover and low caregiver-to-children ratio. 
-
-  
-
-Children do not have clear life objectives unable to find meaning/purpose that can drive performance.
-
-  
-
-Older children display a clear lack of independent living skills, including poor social and relationship skills to integrate with the community.
-
-  
-
-Children sometimes resort to substance abuse, driven by peer pressure and stress.
-
-  
-
-Children often lack gender sensitivity and struggle to establish friendly relationships with the other gender. 
-
-  
-
-Children are often highly excited to receive any adult attention, leaving them open to unhealthy relationship patterns in the future. 
-
-  
-
-  
-
-**Suggested Childhood Inputs**
+### From the Field:
+
+- Children often feel home-sick and abandoned by their parents, often displayed through emotional outbursts and sudden temper tantrums.
+- Children have complicated relationships with their parents and families, often swinging between intense affection and apathy.
+- Children often report behaviour challenges in school and the institution, particularly with bullying and peer-interaction difficulties.
+- Children show indiscriminate friendliness and unhealthy attachment patterns with adults, unable to use different approaches to interact with donors, patrons and staff members at the institution.
+- Children are unable to form strong bonds with their caregivers because of high turnover and low caregiver-to-children ratio. 
+- Children do not have clear life objectives unable to find meaning/purpose that can drive performance.
+- Older children display a clear lack of independent living skills, including poor social and relationship skills to integrate with the community.
+- Children sometimes resort to substance abuse, driven by peer pressure and stress.
+- Children often lack gender sensitivity and struggle to establish friendly relationships with the other gender. 
+- Children are often highly excited to receive any adult attention, leaving them open to unhealthy relationship patterns in the future. 
+
+
+# Suggested Childhood Inputs
 
 _You can find the official recommendations for mental health from the Juvenile Justice Act attached in the annexure of this document_
 
   
-
-When it comes to caregivers and mental health providers, the key indicators of success seem to be regular training, supervision, low turnover, establishing continuity, and low child-caregiver ratios.
-
-  
-
-Children must receive care from caregivers that have low-stress levels and are happy at their jobs.
-
-  
-
-Children need regular time with their caregivers and counsellors through story-time, a time during meals, and regular unstructured talk time to discuss their day, their memories, and their challenges. 
-
-  
-
-Small group settings are essential to support bonding between caregivers and children, specifically for children with a history of trauma.
-
-  
-
-Children have choice and control in their day-to-day decision-making, in an age appropriate manner. They are made well aware of their rights and responsibilities. Children make crucial decisions on their mental health programs along with the counsellor and caregiver, increasing participation, ownership, and effectiveness of the program.
+- When it comes to caregivers and mental health providers, the key indicators of success seem to be regular training, supervision, low turnover, establishing continuity, and low child-caregiver ratios.
+- Children must receive care from caregivers that have low-stress levels and are happy at their jobs.
+- Children need regular time with their caregivers and counsellors through story-time, a time during meals, and regular unstructured talk time to discuss their day, their memories, and their challenges. 
+- Small group settings are essential to support bonding between caregivers and children, specifically for children with a history of trauma.
+- Children have choice and control in their day-to-day decision-making, in an age appropriate manner. They are made well aware of their rights and responsibilities. Children make crucial decisions on their mental health programs along with the counsellor and caregiver, increasing participation, ownership, and effectiveness of the program.
+- Children make crucial decisions with the caregiver and the counsellor, increasing participation and as a result, the effectiveness of any mental health program. 
+- When it comes to discipline, children need to have task clarity, consistency, and interpersonal boundaries. Disciplinary strategies have to be rooted in kindness and compassion.
+- Counsellors build on children’s interests and develop coping skills for them to fall back on if and when they leave the institution.
+- Regular counseling services and therapeutic spaces need to be provided to all children.
+- Mental health practitioners ensure that children do not suffer additional victimization through adverse labeling, and that they use empowering, validating vocabulary to refer to the children.
+- Sharing and restorative circles are encouraged at institutions to develop relationships between children and to handle interpersonal conflict. 
+- Children have adult role models with frequent interaction and mentoring, to ensure consistency in caregiving.
+- Children are provided with training on crucial life skills, psychosocial well-being, and understanding of what unhealthy behaviors look like.
 
   
+## Current Reality
 
-Children make crucial decisions with the caregiver and the counsellor, increasing participation and as a result, the effectiveness of any mental health program. 
 
-  
-
-When it comes to discipline, children need to have task clarity, consistency, and interpersonal boundaries. Disciplinary strategies have to be rooted in kindness and compassion.
-
-  
-
-Counsellors build on children’s interests and develop coping skills for them to fall back on if and when they leave the institution.
-
-  
-
-Regular counseling services and therapeutic spaces need to be provided to all children.
-
-  
-
-Mental health practitioners ensure that children do not suffer additional victimization through adverse labeling, and that they use empowering, validating vocabulary to refer to the children.
-
-  
-
-Sharing and restorative circles are encouraged at institutions to develop relationships between children and to handle interpersonal conflict. 
-
-  
-
-Children have adult role models with frequent interaction and mentoring, to ensure consistency in caregiving.
-
-  
-
-Children are provided with training on crucial life skills, psychosocial well-being, and understanding of what unhealthy behaviors look like.
-
-  
-
-**Current Reality**
-
-  
-
-**From Literature:**
-
-  
+### From Literature:
 
 In a seminar organized by Udayan Care, experts laid out what they see as common pitfalls in institutions that can affect mental health in children
 
