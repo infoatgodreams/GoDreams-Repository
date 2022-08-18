@@ -13,50 +13,24 @@ There is growing evidence that play enhances child development and learning outc
 - Board games (particularly those with numbers and linear number sequences) lead to improvements in numeracy/mathematics ability.
 
 
-  
-**Overview of Play in Child Care Institutions**
-
-  
+## Overview of Play in Child Care Institutions
 
 It is known that adverse childhood events have a negative effect on cognitive performance and correlate  with lower levels of intelligence, academic achievement, executive function, and other developmental outcomes in the lives of vulnerable children exposed to stressors like poverty and abuse. 
 
-  
-
-Physical activities and extracurricular engagements are important elements in counteracting this negative impact, influencing physical and mental health, in making friendships and for success in school. These activities also improve school readiness, later academic performance and adapting to independent adult life.
+Physical activities and extracurricular engagements are important elements in counteracting this negative impact, influencing physical and mental health, in making friendships and for success in school. These activities also improve school readiness, later academic performance and adapting to independent adult life. Specifically, the period of growth at an institution is a period of reorganizing the child’s self-image. Recent research has pointed out that the children’s consistent participation in physical education lessons and additional activities like music, dance, self-defense classes, and theatre can greatly help in building their self-esteem and improving their self-image. 
 
   
-
-Specifically, the period of growth at an institution is a period of reorganizing the child’s self-image. Recent research has pointed out that the children’s consistent participation in physical education lessons and additional activities like music, dance, self-defense classes, and theatre can greatly help in building their self-esteem and improving their self-image. 
-
-  
-
-  
-
-**Stakeholders** 
-
-  
+## Stakeholders
 
 The primary stakeholders responsible for creating a supportive environment of play and extracurricular engagement in an institution are the child welfare officers, the leadership of the institution, teachers in school, primary caregivers at the home, volunteers, and other civil society organizations. 
 
-  
-
 In a majority of institutions, play and elements of extracurricular activities are primarily determined by the child welfare officer and the leadership of the organization. They often influence the activities available to children in institutions and organize funding for these activities, based on the interests and needs of the children. Leadership that stresses the value of play will make space in their funding and schedule of children to allow for these activities. 
-
-  
 
 Volunteers and other civil society organizations play a crucial role in teaching children multiple activities and hobbies including music, art, dance, and photography. Volunteers can fill in niche expertise areas in different elements of play and provide cost-effective alternatives to engaging private service providers. 
 
-  
-
 Teachers & house parents are also required to consciously provide space in children’s schedules for play and unstructured free time. 
 
-  
-
 Coaches and trainers are sometimes engaged for specific skills, sports, or arts.
-
-  
-
-  
 
 From observational insights and existing literature, the following are a few factors that influence the quality of play outcomes in institutional care:
 
