@@ -88,219 +88,70 @@ In more detail, 
 - Care leavers are often needed to take care of household responsibilities or are asked to get married to ease the burden of their families as soon as they leave the institution, affecting their uptake of careers or education. 
 - Existing schemes for education and skilling of youth are under-utilized for care leavers due to a lack of awareness amongst youth.
 
-**Educational Indicators and Inputs**
 
-  
+# Educational Indicators and Inputs
 
-  
-
-**Optimal Childhood Indicators** 
-
+## Optimal Childhood Indicators
 _These social impact indicators allow us to evaluate the positive educational status of children in CCIs_
 
-  
-
-All children must be in school in the appropriate class for their age with high continuity and attendance.
-
-  
-
-Children with learning disabilities should be regularly accessing specialised education services. 
-
-  
-
-Children are able to articulate a positive attitude towards education & school.
-
-  
-
-Children are able to self-regulate behavior and attention during classes. 
+- All children must be in school in the appropriate class for their age with high continuity and attendance.
+- Children with learning disabilities should be regularly accessing specialised education services. 
+- Children are able to articulate a positive attitude towards education & school.
+- Children are able to self-regulate behavior and attention during classes. 
+- Children have clear academic goals.
+- Children are able to engage with and learn from material that is age appropriate.
+- Children are able to learn independently and in groups.
+- Children proactively learn from adults around them including teachers, volunteers, visitors, caregivers etc.
+- Children have average to above average scores at school.
+- As children reach middle and high school, they are able to articulate career goals.
+- Children have grade level literacy and numeracy levels. 
+- Children are able to integrate into the school environment.
 
   
+## Current Reality
 
-Children have clear academic goals.
-
-  
-
-Children are able to engage with and learn from material that is age appropriate.
-
-  
-
-Children are able to learn independently and in groups.
-
-  
-
-Children proactively learn from adults around them including teachers, volunteers, visitors, caregivers etc.
-
-  
-
-Children have average to above average scores at school.
-
-  
-
-As children reach middle and high school, they are able to articulate career goals.
-
-  
-
-Children have grade level literacy and numeracy levels. 
-
-  
-
-Children are able to integrate into the school environment.
-
-  
-
-  
-
-**Current Reality**
-
-  
-
-**From Literature**
-
-  
-
+### From Literature
 Research shows major gaps in the learning indicators of children in institutions
+- While most school-aged children in need of care and protection were currently attending school, many had not achieved the educational milestones expected for their age. 
+- Despite consistently higher primary school and partial secondary school completion, children from CCIs were less likely to fully complete secondary school.
+- Children in CCIs show a marked rise in emotional difficulties that are correlated with lags in cognitive development.
+- Children feeling ‘different’ or not included in school due to various factors such as lack of sensitization, differences in personal hygiene/clothing at the CCI, physical health status etc.
+- Low self-esteem among children from institutional care was found to be a contributing factor to poor performance in education.
+- Reading and writing were other challenges that Children in CCIs struggled with. A large percentage of children in institutional care reported not being able to read or write like their peers in school; clear outputs of lagging educational outcomes. 
+- Children in institutions demonstrated several academic risks, which was partly caused by multiple disruptions in schooling due to changes in placements.
 
-  
+## From the Field
 
-While most school-aged children in need of care and protection were currently attending school, many had not achieved the educational milestones expected for their age. 
+- Depending on the institutions, children are often either over or under-diagnosed with learning difficulties and attention related disorders leading to inappropriate allocation of limited differentiated support resources.
+- During after-school homework time, students typically do minimum required work, and often copy from peers or textbooks verbatim. This is exacerbated by the fact that often times the caregivers monitoring classes aren’t english literate themselves and cannot check the quality of the work.
+- Many children, even those in primary school, articulate a lack of interest in academics more acutely than their peers at a similar age group.
+- We observed that many children in high school were unable to read words and sentences in English from their textbooks,making it difficult to clear high school examinations and later graduate to college-level education. 
+- Low levels of english fluency can also be attributed to CCIs selection of vernacular medium schools due to resource constraints. 
+- Focus of after-school classes is often memorization and exam preparation, with bridge programs and concept based lessons only happening in rare cases.
+- Children are often multiple years behind grade level in foundational literacy and numeracy skills by the time they reach middle school.
+- While some children have a degree of writing and reading ability in English, verbal fluency often lags behind due to a lack of opportunity to practice and exposure.
 
-  
 
-Despite consistently higher primary school and partial secondary school completion, children from CCIs were less likely to fully complete secondary school.
-
-  
-
-Children in CCIs show a marked rise in emotional difficulties that are correlated with lags in cognitive development.
-
-  
-
-Children feeling ‘different’ or not included in school due to various factors such as lack of sensitization, differences in personal hygiene/clothing at the CCI, physical health status etc.
-
-  
-
-Low self-esteem among children from institutional care was found to be a contributing factor to poor performance in education.
-
-  
-
-Reading and writing were other challenges that Children in CCIs struggled with. A large percentage of children in institutional care reported not being able to read or write like their peers in school; clear outputs of lagging educational outcomes. 
-
-  
-
-Children in institutions demonstrated several academic risks, which was partly caused by multiple disruptions in schooling due to changes in placements.
-
-  
-
-  
-
-**From the Field**
-
-  
-
-Depending on the institutions, children are often either over or under-diagnosed with learning difficulties and attention related disorders leading to inappropriate allocation of limited differentiated support resources.
-
-  
-
-During after-school homework time, students typically do minimum required work, and often copy from peers or textbooks verbatim. This is exacerbated by the fact that often times the caregivers monitoring classes aren’t english literate themselves and cannot check the quality of the work.
-
-  
-
-Many children, even those in primary school, articulate a lack of interest in academics more acutely than their peers at a similar age group.
-
-  
-
-We observed that many children in high school were unable to read words and sentences in English from their textbooks,making it difficult to clear high school examinations and later graduate to college-level education. 
-
-  
-
-Low levels of english fluency can also be attributed to CCIs selection of vernacular medium schools due to resource constraints. 
-
-  
-
-Focus of after-school classes is often memorization and exam preparation, with bridge programs and concept based lessons only happening in rare cases.
-
-  
-
-Children are often multiple years behind grade level in foundational literacy and numeracy skills by the time they reach middle school.
-
-  
-
-While some children have a degree of writing and reading ability in English, verbal fluency often lags behind due to a lack of opportunity to practice and exposure.
-
-  
-
-  
-
-**Suggested Childhood Inputs**
-
+# Suggested Childhood Inputs
 _You can find the official recommendations for education from the Juvenile Justice Act attached in the annexure of this document_
 
-  
-
-Key adults who provide guidance and encouragement: A common theme among the research conducted on educational inputs that work suggests that a good relationship with at least one supportive adult is critical. stress the importance of a good relationship with at least one supportive adult. Other themes emerging included mentor relationships being the most significant influence in career development for young people.
-
-  
-
-Financial support for all programs of interest for the children, including specialised coaching and additional mentoring services, if needed.
-
-  
-
-Institutions need to hire qualified coaching teachers who provided critical education support to children after school hours.
-
-  
-
-Institutions should implement an activity-based teaching and learning method, story pedagogy, effective lesson planning, and classroom management to capture and retain the interest of children.
-
-  
-
-Children in middle school should be provided aptitude testing and career counselling services, to slowly prepare for their careers post-high-school. 
-
-  
-
-Children’s participation should be encouraged through children’s committees on topics like co-curricular, extra curricular activities, academic interest groups etc.
-
-  
-
-Teachers at school, volunteers and other external adults working with children in this domain needs to be trained and sensitised to the ongoing impacts of trauma, exclusion and factors that affect academic outcomes in children from Children’s Homes.
-
-  
-
-Support and communities of practice need to be built among tution staff at CCIs towards being able to adapt and evolve educational practices in response to student needs or developments in the education space.
-
-  
-
-Bridge programs are crucial at the admission stage and need based throughout the stay at the children’s home to ensure learning lags are compensated for. 
-
-  
-
-Frequent benchmark assessments of learning levels outside of school assessments need to be conducted, so that teachers can provide support based on individual learning needs.
-
-  
-
-Sufficient capacity for differentiation has to be built to ensure children can learn in diverse ways based on interest and need.
-
-  
-
-Learning environments including libraries, digital resources need to be updated frequently and well stocked. Children need to be given access to these frequently with the appropriate monitoring. 
-
-  
-
-Common study spaces should ideally provide sufficient noise isolation and easy access to these resources. Study areas can be separated if feasible for children in high school or college.
-
-  
-
-While 1 on 1 or small group support is crucial for good academic outcomes, children also need to be supported to participate actively in larger group instruction that will commonly pervade their school or college lives. 
-
-  
-
-Multiple opportunities to pursue academic areas of interest need to be created for individual children, including seeking out and securing opportunities for specific learning goals. 
-
-  
-
-Children’s participation in external academic activities such as olympiads, coaching centers and other structures as per need should be facilitated.
-
-  
-
-Conversations around academic and career goals need to be frequent, even more so from middle school onwards
+- Key adults who provide guidance and encouragement: A common theme among the research conducted on educational inputs that work suggests that a good relationship with at least one supportive adult is critical. stress the importance of a good relationship with at least one supportive adult. Other themes emerging included mentor relationships being the most significant influence in career development for young people.
+- Financial support for all programs of interest for the children, including specialised coaching and additional mentoring services, if needed.
+- Institutions need to hire qualified coaching teachers who provided critical education support to children after school hours.
+- Institutions should implement an activity-based teaching and learning method, story pedagogy, effective lesson planning, and classroom management to capture and retain the interest of children.
+- Children in middle school should be provided aptitude testing and career counselling services, to slowly prepare for their careers post-high-school. 
+- Children’s participation should be encouraged through children’s committees on topics like co-curricular, extra curricular activities, academic interest groups etc.
+- Teachers at school, volunteers and other external adults working with children in this domain needs to be trained and sensitised to the ongoing impacts of trauma, exclusion and factors that affect academic outcomes in children from Children’s Homes.
+- Support and communities of practice need to be built among tution staff at CCIs towards being able to adapt and evolve educational practices in response to student needs or developments in the education space.
+- Bridge programs are crucial at the admission stage and need based throughout the stay at the children’s home to ensure learning lags are compensated for. 
+- Frequent benchmark assessments of learning levels outside of school assessments need to be conducted, so that teachers can provide support based on individual learning needs.
+- Sufficient capacity for differentiation has to be built to ensure children can learn in diverse ways based on interest and need.
+- Learning environments including libraries, digital resources need to be updated frequently and well stocked. Children need to be given access to these frequently with the appropriate monitoring. 
+- Common study spaces should ideally provide sufficient noise isolation and easy access to these resources. Study areas can be separated if feasible for children in high school or college.
+- While 1 on 1 or small group support is crucial for good academic outcomes, children also need to be supported to participate actively in larger group instruction that will commonly pervade their school or college lives. 
+- Multiple opportunities to pursue academic areas of interest need to be created for individual children, including seeking out and securing opportunities for specific learning goals. 
+- Children’s participation in external academic activities such as olympiads, coaching centers and other structures as per need should be facilitated.
+- Conversations around academic and career goals need to be frequent, even more so from middle school onwards
 
   
 
