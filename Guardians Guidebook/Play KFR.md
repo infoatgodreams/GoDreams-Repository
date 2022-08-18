@@ -51,10 +51,6 @@ From observational insights and existing literature, the following are a few fac
 
   
 
-  
-
-  
-
 **Current Reality**
 
   
