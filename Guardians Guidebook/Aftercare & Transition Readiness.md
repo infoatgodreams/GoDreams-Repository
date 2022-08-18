@@ -45,14 +45,14 @@ _These outcome indicators typically describe the long-term success seen in all d
 
 Throughout this report, outcomes for care leavers have been highlighted across each domain area. Some of these have been mentioned again below:
 
-Care leavers show stability and continuity in their education, attain graduate education outcomes, and are able to hold on to a job for extended periods of time. 
-Care leavers exhibit positive well-being in physical, mental, and emotional realms.
-Care leavers are able to show empathy, and have the capacity to extend help to other people in need or other vulnerable care leavers in similar circumstances.
-Care leavers establish purposeful, enjoyable careers that help create a feeling of self-worth.
-Care leavers have strong self-esteem and showcase acceptance of their past. 
-Care leavers develop strong relationships from official to informal/social support circles.
-Care leavers develop habits and mindsets that result in the ability to live independently and maintain a career.
-Care leavers integrate into their community actively, participating in regular day-to-day life in their communities, free of any discrimination or stigma. 
+- Care leavers show stability and continuity in their education, attain graduate education outcomes, and are able to hold on to a job for extended periods of time. 
+- Care leavers exhibit positive well-being in physical, mental, and emotional realms.
+- Care leavers are able to show empathy, and have the capacity to extend help to other people in need or other vulnerable care leavers in similar circumstances.
+- Care leavers establish purposeful, enjoyable careers that help create a feeling of self-worth.
+- Care leavers have strong self-esteem and showcase acceptance of their past. 
+- Care leavers develop strong relationships from official to informal/social support circles.
+- Care leavers develop habits and mindsets that result in the ability to live independently and maintain a career.
+- Care leavers integrate into their community actively, participating in regular day-to-day life in their communities, free of any discrimination or stigma. 
 
   
 
