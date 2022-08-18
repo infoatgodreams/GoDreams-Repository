@@ -13,7 +13,7 @@ tags:
 
 
 # IQ
-[Education](Roll%20Ups/Education/Education.md) [IQ](IQ.md)
+[Education](Education.md) [IQ](IQ.md)
 
 -  Further support for the idea that institutionalized children were not destined for developmental compromise came from the work of Barbara Tizard and her colleagues with children who had spent the first 2 years of their lives in high-quality institutions in the United Kingdom (Tizard, 1977).
 	-  In these institutions the child to caregiver ratios were 3:1 and the were taken on outings, and were fed well.

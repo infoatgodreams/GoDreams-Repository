@@ -3,7 +3,7 @@ title: Rethinking Orphanages for the 21st Century
 author: Richard B McKenzie
 tag: #books 
 ---
-Tags: [Permanence](Permanence)[Marvin Olasky](Marvin%20Olasky) [Education](Roll%20Ups/Education/Education.md) [ChildParticipation](ChildParticipation.md) 
+Tags: [Permanence](Permanence)[Marvin Olasky](Marvin%20Olasky) [Education](Education.md) [ChildParticipation](ChildParticipation.md) 
 
 Status: [ReferenceReading](ReferenceReading) 
 # #readinglist 

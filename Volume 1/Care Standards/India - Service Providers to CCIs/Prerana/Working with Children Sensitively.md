@@ -10,7 +10,7 @@ Link to the file (public): [https://www.fighttrafficking.org/wp-content/uploads/
 
 Link to the file (drive): [https://drive.google.com/file/d/1EWnA65veROlBUhBg9Lk-B1-xlfUq6_E1/view?usp=sharing](https://drive.google.com/file/d/1EWnA65veROlBUhBg9Lk-B1-xlfUq6_E1/view?usp=sharing)
 
-Tags:  [Care Practices](Roll%20Ups/Caregiving/Care%20Practices.md) [[Roll Ups/Mental Health/Mental Health]]
+Tags:  [Care Practices](Care%20Practices.md) [[Roll Ups/Mental Health/Mental Health]]
 
 **Context:** This document is developed based on actual observations and field experiences of counselors and caregivers working with children in institutional settings. It surveys 300 caregivers across 6 countries. #opinion
 

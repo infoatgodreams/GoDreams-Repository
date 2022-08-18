@@ -3,7 +3,7 @@ title: Miracle Foundation - Case Study of Interventions
 Author: Miracle Foundation
 tags: Practitioner
 ---
-Tags:  [Physical Health](Roll%20Ups/Physical%20Health/Physical%20Health.md)  [[Roll Ups/CCI Operations/Program Operations]] [Hygiene](Hygiene.md) [Caregiving](Roll%20Ups/Caregiving/Caregiving.md)  [Education](Roll%20Ups/Education/Education.md) [Mental Health](Roll%20Ups/Mental%20Health/Mental%20Health.md)  [[MiracleFoundation]]
+Tags:  [Physical Health](Roll%20Ups/Physical%20Health/Physical%20Health.md)  [[Program Operations]] [Hygiene](Hygiene.md) [Caregiving](Roll%20Ups/Caregiving/Caregiving.md)  [Education](Education.md) [Mental Health](Roll%20Ups/Mental%20Health/Mental%20Health.md)  [[MiracleFoundation]]
 
 Link: https://drive.google.com/file/d/1J4yiJzziqfAb5GE1uIsEfa7fM6Sa8o9C/view?usp=sharing
 
@@ -54,7 +54,7 @@ Link: https://drive.google.com/file/d/1J4yiJzziqfAb5GE1uIsEfa7fM6Sa8o9C/view?usp
 
 
 # CCI Operations
-[CCI Finances](Roll%20Ups/CCI%20Operations/CCI%20Finances.md)
+[CCI Finances](CCI%20Finances.md)
 -  hiring a qualified accountant,Tally training, an accounting software and budgetary training from time to time bythe finance team from Miracle. (Page 15)
 - organisationaldevelopment exercise for development of clear organisational structure, streamliningroles and responsibilities, defining clear reporting lines and positioning staffaccountability at the children home. (Page 15)
 

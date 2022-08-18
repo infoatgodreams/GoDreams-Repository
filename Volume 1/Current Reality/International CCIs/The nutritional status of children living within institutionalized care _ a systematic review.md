@@ -4,7 +4,7 @@ author: Akshay
 tags: globalresearch
 ---
 
-Tags: [CCI Operations](Roll%20Ups/CCI%20Operations/CCI%20Operations.md) [Nutrition](Roll%20Ups/Nutrition/Nutrition.md) [Physical Health](Roll%20Ups/Physical%20Health/Physical%20Health.md)
+Tags: [CCI Operations](CCI%20Operations.md) [Nutrition](Roll%20Ups/Nutrition/Nutrition.md) [Physical Health](Roll%20Ups/Physical%20Health/Physical%20Health.md)
 Link : https://drive.google.com/file/d/1xbldLE1U9c-s2pljL2RLdgv72IDisiLc/view?usp=sharing
 
 # Scope: 

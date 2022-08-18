@@ -6,7 +6,7 @@ tags:
 - globalresearch
 ---
 
-Tags: [CCI Operations](Roll%20Ups/CCI%20Operations/CCI%20Operations.md), [[Roll Ups/Caregiving/Caregiving]], [Education](Roll%20Ups/Education/Education.md), [Child Profile](Child%20Profile.md)
+Tags: [CCI Operations](CCI%20Operations.md), [[Roll Ups/Caregiving/Caregiving]], [Education](Education.md), [Child Profile](Child%20Profile.md)
 Link: [Google Drive](https://drive.google.com/file/d/1pENHpcWf9VVSC70AT2ajXwmFHaZKYag9/view?usp=sharing)
 
 
@@ -14,7 +14,7 @@ Link: [Google Drive](https://drive.google.com/file/d/1pENHpcWf9VVSC70AT2ajXwmFHa
 Scope: A study of change of intellectual level in 132 "dependent and neglected" children aged two through seven - at Irvington House over a period of 4.5 years. The study tests for IQ changes (Stanford Binet Test) over the period. 
 
 # CCI Operations 
-[CCI Operations](Roll%20Ups/CCI%20Operations/CCI%20Operations.md)
+[CCI Operations](CCI%20Operations.md)
 
 - Irvington House has kept to the original intention of having no more than 50 children in the 4 dormitories regardless of outside pressures
 - In initial planning, they considered trying to imitate some sort of family life, but quickly came to realize that this was not only impractical but probably undesirable and dishonest as well. 
@@ -42,7 +42,7 @@ Scope: A study of change of intellectual level in 132 "dependent and neglected" 
 	- A child-care worker once assigned to a given dormitory, has remained there throughout his employment at the house. 
 	- Each worker has a case load of approximately 20 children. 
 # Results of the study
-[[Roll Ups/Education/Education]]
+[[Education]]
 - Mean initial IQ level of 89 and terminal level of 97.58 with roughly 8.72 months of gap between tests. 
 - Smallest increments are found among chidlren functioning within the average range at the time of their admission. 
 	- This data suggests that many of the children who fall initially into the below-average groups are children of normal intelligence who are suffering impairments based on lack of environmental opportunity, or emotional difficulties, or both, and that these cases respond favorably to the institutional environment provided. 

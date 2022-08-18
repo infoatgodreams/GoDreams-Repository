@@ -4,7 +4,7 @@ author: Navneeth
 tags: Practitioner
 ---
 
- Tags: [CCI Operations](Roll%20Ups/CCI%20Operations/CCI%20Operations.md) [CCI Compliance](Roll%20Ups/CCI%20Operations/CCI%20Compliance.md) [UdayanCare](UdayanCare)
+ Tags: [CCI Operations](CCI%20Operations.md) [CCI Compliance](CCI%20Compliance.md) [UdayanCare](UdayanCare)
 
  Links: https://drive.google.com/file/d/1XIUTlzcd11CW-R41T8B05bmdX8BBVPsz/view?usp=sharing
 # Key International Instruments on Rights of Children 
@@ -28,7 +28,7 @@ tags: Practitioner
 
 ## Standardization of Care
 
-- [[Roll Ups/CCI Operations/CCI Compliance]]
+- [[CCI Compliance]]
 - Under Section 41(6) of the JJ Act 2015, the period of registration of an institution shall be valid for five years, with the provision for renewal in every five years. 
 - The Act also stipulates granting of provisional registration, with six months validity, within one month of receipt of an application for registration Section 41(3). 
 - According to Rule 21 of the JJ Rules 2016, application for registration of CCI is required to be submitted in Form 27 together with copies of following documents:  
@@ -40,7 +40,7 @@ tags: Practitioner
 	- Balance sheet of preceding three years 
 	- Statement of past record of social or public service provided by the CCI to state government 
 	- Declaration from the person or the organization regarding any previous conviction, or involvement in any immoral act or child abuse or employment of child labour, or it has not been blacklisted by the Central or State Government (Page 14)
-- Physical infrastructure [[Roll Ups/Infrastructure]] (Rule 29)
+- Physical infrastructure [[Infrastructure]] (Rule 29)
 	- Separation of premises for children in conflict with law and those in need of care and protection;
 	-  criteria for accommodation like separate CCIs for girls and boys;
 	-  classification and segregation according to age, nature of offences (applicable for juvenile in conflict with law) and mental and physical status; 
@@ -82,7 +82,7 @@ tags: Practitioner
 	- services of trained counselors, and
 	-  psychological evaluation and diagnosis under trained professionals
 	
-- [Education](Roll%20Ups/Education/Education.md) (Rule 36)
+- [Education](Education.md) (Rule 36)
 	- Education according to age and ability of child both inside CCIs or outside,
 	-  a range of educational opportunities (like mainstream school, bridge school, open school and non-formal education), 
 	- specialized trainers and experts for children with special needs, 
@@ -201,7 +201,7 @@ tags: Practitioner
 	- In the event of any other crime, the JJB/CWC takes cognizance of the matter and arranges for its investigation by local police station or special juvenile police unit
 	- While dealing with the matter, JJB/CWC may consult children’s committee, voluntary organizations, child rights experts, mental health experts or crisis intervention centres. (Page 23)
 
-# [CCI Operations](Roll%20Ups/CCI%20Operations/CCI%20Operations.md)
+# [CCI Operations](CCI%20Operations.md)
 - **Maintenance of registers (Rule 77)The rule presents a list of 25 registers that the CCIs are required to maintain.** 
 - For each register in the list, the designation of official who maintains it and the one who acts  as its custodian are stated. 
 	- Except two registers namely 

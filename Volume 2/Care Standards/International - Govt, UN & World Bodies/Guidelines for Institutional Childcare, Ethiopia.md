@@ -4,7 +4,7 @@ author: Akshay
 tags : 
 - worldbodies
 ---
-Tags: [Care Practices](Roll%20Ups/Caregiving/Care%20Practices.md) [Caregiving](Roll%20Ups/Caregiving/Caregiving.md) [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md)
+Tags: [Care Practices](Care%20Practices.md) [Caregiving](Roll%20Ups/Caregiving/Caregiving.md) [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md)
 
 Link: https://drive.google.com/file/d/1qP7Hxnor9J8aFLV1INEfHAYGeFyk19Oc/view?usp=sharing
 Context: This paper was made in 1998 and covers the different care practices (including alternative care methods)
@@ -450,7 +450,7 @@ A family is eligible for child-family reunification if it is:
 	* emotional and spiritual development.
 
 
-## Foster Family Care [Foster Care](Roll%20Ups/Alternative%20Care/Foster%20Care.md)
+## Foster Family Care [Foster Care](Foster%20Care.md)
 
 
 ## The Need for the Guideline
@@ -622,7 +622,7 @@ It is recommended that based on local conditions, an individual or a family to b
 * Record keeping on Follow-up of a Child Placed in Foster Family: The foster family care organization that conducts the follow-up on a child placed in a foster family shall keep follow-up records of the child.
 * Personnel: The foster care organization shall have personnel with multidisciplinary professional qualifications, including, social workers, psychologists, etc., with adequate experience in foster family care and/or related childcare programs.
 
-## Adoption [Adoption](Roll%20Ups/Alternative%20Care/Adoption.md)
+## Adoption [Adoption](Adoption.md)
 
 
 ## The Need for A Guideline 
