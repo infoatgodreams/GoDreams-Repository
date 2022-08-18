@@ -211,7 +211,7 @@ Domain rags: [[Physical Health]]
   - For this raise its borders by 10 centimeters above the ground level. Fill it with dry grass or coconut coir on top
   - This helps in straining. Connect the wastewater into this pot by using a pipe. Cover entire area with coir.
 
-## Health Depends on the food we eat [[Nutrition]]
+## Health Depends on the food we eat [[Roll Ups/Nutrition/Nutrition]]
 
 - Eating all types of food is necessary for keeping our body fighting fit.
 - We need to eat more food when recovering from illness.
