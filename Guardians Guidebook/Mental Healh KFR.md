@@ -1,4 +1,6 @@
-# Introduction to the domain
+[[Mental Health]]
+
+# Introduction to the domaiN
 
 According to the Centre for Disease Control in the US,  being mentally healthy during childhood means reaching developmental and emotional milestones, learning healthy social skills, and developing healthy coping patterns for when there are problems. Mentally healthy children have a positive quality of life and can function well at home, in school, and in their communities.
 

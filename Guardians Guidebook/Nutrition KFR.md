@@ -1,5 +1,6 @@
 
-[[Roll Ups/Nutrition/Nutrition]]
+[[Nutrition]]
+
 ## Introduction to the Domain
 
 Nutrition is a vital component of childcare that has far-reaching consequences across outcomes in physical health, mental health, education and overall quality of life.  We know that there are far-reaching consequences to malnutrition, including Malnutrition leads to failure in early physical growth, delayed motor skills, and cognitive and behavioral development. (Galler, 2021)

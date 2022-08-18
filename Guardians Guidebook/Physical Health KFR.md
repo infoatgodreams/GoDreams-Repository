@@ -1,3 +1,5 @@
+[[Physical Health]]
+
 # Introduction to the domain
 
 As reported by UNICEF, tremendous progress has been made in infant and maternal health over the past few decades. Older children and adolescents (aged 5–19 years) now make up a quarter of the world population. It is essential to now focus on ensuring that they stay healthy for them to thrive. The effects of acute and chronic infectious diseases and other physical health ailments need to be seriously considered to improve life outcomes for individual children and for larger societal growth. Closer attention needs to be paid to the consequences of long-lasting negative health conditions in childhood because long-term morbidity can have a major impact on children’s ability to grow into fully functional adults. 

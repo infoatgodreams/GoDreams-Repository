@@ -129,7 +129,7 @@ Here’s a quick guide on how to interpret country scores:
 7. **Child homicide rate:** Estimated number of deaths caused by interpersonal violence among children and adolescents aged 0-19 years (from WHO), expressed per 100,000 popula- tion in that age group (from UNDESA, Population Division). Estimates are for 2016. Sources: WHO. Global Health Estimates 2016: Deaths by Cause, Age, Sex, by Country and by Region, 2000- 2016 (terrance.who.int/mediacentre/data/ghe/) and UNDESA, Population Division. World Population Prospects: The 2019 Revision (esa.un.org/unpd/wpp/Download/Standard/Population/), supple- mented with rates for Marshall Islands, Nauru, State of Palestine and Tuvalu from Institute for Health Metrics and Evaluation (IHME). Global Burden of Disease Study 2019 (ghdx.healthdata.org/ gbd-re…
 
 ### Calculations
-[Assessment Tools](Roll%20Ups/Assessment%20Tools.md) 
+[Assessment Tools](Assessment%20Tools.md) 
 
 As indicators are measured on different scales, each was first normalized using a linear scaling technique:
 XN= (X – Worst)/(Best – Worst)
