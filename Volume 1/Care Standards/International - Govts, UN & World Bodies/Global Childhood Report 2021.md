@@ -93,7 +93,7 @@ Here’s a quick guide on how to interpret country scores:
 	- These events are called “childhood enders” and include:
 		- child dies
 		- malnutrition permanently impairs a child's development [[Roll Ups/Nutrition/Nutrition]]
-		- child leaves or fails to enter school [Education](Roll%20Ups/Education/Education.md)
+		- child leaves or fails to enter school [Education](Education.md)
 		- child begins work life
 		- child marries
 		- child has a child
@@ -117,7 +117,7 @@ Here’s a quick guide on how to interpret country scores:
 - The following eight indicators were selected because they best represent these enders, are available for a large number of countries and are regularly updated. 
 
 1. **Under-5 mortality rate (U5MR):** The probability of dying between birth and exactly 5 years of age, expressed per 1,000 live births. Estimates are for 2019. **Child stunting (moderate and severe)**: % of children aged 0-59 months who are below minus two standard deviations from median height-for-age of the [WHO Child Growth Standards](https://www.who.int/tools/child-growth-standards). [WHO Child Growth Standards](Volume%201/Care%20Standards/International%20-%20Govts,%20UN%20&%20World%20Bodies/WHO/WHO_Growth%20reference%20for%20school%20aged%20children%20and%20adolescents.md) [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md)
-2. **Out-of-school rate for children, adolescents and youth of primary and secondary school age (OOSC)**: The number of children, adolescents and youth of official primary and secondary school age who are not enrolled in primary, secondary or higher levels of education, expressed as a percentage of the population of official school age. Children and young people (about ages 6 and over) who are enrolled in pre-primary education are considered to be out of school. [Education](Roll%20Ups/Education/Education.md)
+2. **Out-of-school rate for children, adolescents and youth of primary and secondary school age (OOSC)**: The number of children, adolescents and youth of official primary and secondary school age who are not enrolled in primary, secondary or higher levels of education, expressed as a percentage of the population of official school age. Children and young people (about ages 6 and over) who are enrolled in pre-primary education are considered to be out of school. [Education](Education.md)
 3. **Child labor:** % of children 5-17 years old involved in child labor. 
     A child is considered to be involved in child labor under the following conditions:
         1. 5-11 year olds - who did at least 1 hour of economic work or at least 28 hours of household chores
@@ -129,7 +129,7 @@ Here’s a quick guide on how to interpret country scores:
 7. **Child homicide rate:** Estimated number of deaths caused by interpersonal violence among children and adolescents aged 0-19 years (from WHO), expressed per 100,000 popula- tion in that age group (from UNDESA, Population Division). Estimates are for 2016. Sources: WHO. Global Health Estimates 2016: Deaths by Cause, Age, Sex, by Country and by Region, 2000- 2016 (terrance.who.int/mediacentre/data/ghe/) and UNDESA, Population Division. World Population Prospects: The 2019 Revision (esa.un.org/unpd/wpp/Download/Standard/Population/), supple- mented with rates for Marshall Islands, Nauru, State of Palestine and Tuvalu from Institute for Health Metrics and Evaluation (IHME). Global Burden of Disease Study 2019 (ghdx.healthdata.org/ gbd-re…
 
 ### Calculations
-[Assessment Tools](Roll%20Ups/Assessment%20Tools.md) 
+[Assessment Tools](Assessment%20Tools.md) 
 
 As indicators are measured on different scales, each was first normalized using a linear scaling technique:
 XN= (X – Worst)/(Best – Worst)

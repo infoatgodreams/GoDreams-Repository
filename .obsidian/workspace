@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "442b49eb963afdf8",
+        "id": "ce8345616cf1396b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Roll Ups/Nutrition/Nutrition.md",
-            "mode": "preview",
+            "file": "Home or Care A Comparison of Educational Outcomes for Maltreated Children.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,12 +69,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Roll Ups/Nutrition/Nutrition.md",
+                "file": "Home or Care A Comparison of Educational Outcomes for Maltreated Children.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "The caregiver’s investment in the child’s education is based on the interplay of child, caregiver, and household characteristics",
+                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -87,17 +87,17 @@
     "width": 301,
     "collapsed": true
   },
-  "active": "442b49eb963afdf8",
+  "active": "ce8345616cf1396b",
   "lastOpenFiles": [
-    "Roll Ups/Nutrition/Nutrition.md",
-    "Volume 2/Current Reality/International CCIs/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
-    "Guardians Guidebook/GG Nutrition.md",
-    "Volume 1/Current Reality/India CCIs/Nutrition, Health & Psychosocial Profile of Institutionalized Children.md",
-    "Guardians Guidebook/GG Play.md",
-    "Guardians Guidebook/GG Mental Health.md",
-    "Guardians Guidebook/GG Child Safety.md",
-    "Guardians Guidebook/GG Aftercare.md",
-    "Roll Ups/Education/Education.md",
-    "Roll Ups/Physical Health/Play.md"
+    "Guardians Guidebook/Play KFR.md",
+    "Guardians Guidebook/Education KFR.md",
+    "Guardians Guidebook/Nutrition KFR.md",
+    "Guardians Guidebook/Mental Healh KFR.md",
+    "Guardians Guidebook/Physical Health KFR.md",
+    "Guardians Guidebook/Archive/GG Child Safety.md",
+    "Guardians Guidebook/Archive/GG Aftercare.md",
+    "Home or Care A Comparison of Educational Outcomes for Maltreated Children.md",
+    "Play Immersion.md",
+    "Roll Ups/Future Research/Assessment Tools.md"
   ]
 }

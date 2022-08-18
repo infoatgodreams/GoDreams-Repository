@@ -4,7 +4,7 @@ author: Navneeth
 tags: Practitioner
 ---
 
- Tags: [CCI Operations](Roll%20Ups/CCI%20Operations/CCI%20Operations.md) [CCI Compliance](Roll%20Ups/CCI%20Operations/CCI%20Compliance.md) [UdayanCare](UdayanCare)
+ Tags: [CCI Operations](CCI%20Operations.md) [CCI Compliance](CCI%20Compliance.md) [UdayanCare](UdayanCare)
 
  Links: https://drive.google.com/file/d/1XIUTlzcd11CW-R41T8B05bmdX8BBVPsz/view?usp=sharing
 # Key International Instruments on Rights of Children 
@@ -28,7 +28,7 @@ tags: Practitioner
 
 ## Standardization of Care
 
-- [[Roll Ups/CCI Operations/CCI Compliance]]
+- [[CCI Compliance]]
 - Under Section 41(6) of the JJ Act 2015, the period of registration of an institution shall be valid for five years, with the provision for renewal in every five years. 
 - The Act also stipulates granting of provisional registration, with six months validity, within one month of receipt of an application for registration Section 41(3). 
 - According to Rule 21 of the JJ Rules 2016, application for registration of CCI is required to be submitted in Form 27 together with copies of following documents:  
@@ -40,19 +40,19 @@ tags: Practitioner
 	- Balance sheet of preceding three years 
 	- Statement of past record of social or public service provided by the CCI to state government 
 	- Declaration from the person or the organization regarding any previous conviction, or involvement in any immoral act or child abuse or employment of child labour, or it has not been blacklisted by the Central or State Government (Page 14)
-- Physical infrastructure [[Roll Ups/Infrastructure]] (Rule 29)
+- Physical infrastructure [[Infrastructure]] (Rule 29)
 	- Separation of premises for children in conflict with law and those in need of care and protection;
 	-  criteria for accommodation like separate CCIs for girls and boys;
 	-  classification and segregation according to age, nature of offences (applicable for juvenile in conflict with law) and mental and physical status; 
 	- and norms for building; proper and non-slippery flooring; lighting, ventilation, heating, cooling, toilet (gender and age appropriate and disabled friendly), water, first-aid kit, fire extinguishers; dormitories, and rooms for vocational training, recreation, store and counselling;
 	-  periodic inspection of electrical installations; proper storage and inspection of food; facilities and equipment for differently-abled children;other logistical and functional items like computers, photocopiers, printer, telephone with internet, furniture and projector.
 	- CCIs should be child-friendly and should not look like a jail or lock-up.
-- Clothing, bedding and toiletries [Hygiene](Roll%20Ups/Hygiene/Hygiene.md) (Rule 30)
+- Clothing, bedding and toiletries [Hygiene](Hygiene.md) (Rule 30)
 	- Clothing and bedding according to scale and climatic conditions; 
 	- miscellaneous items like slippers, shoes (sports/school), school uniform, school bag, handkerchief, socks, stationery etc.; suit once in three years;
 	-  night clothing and bedding for hospitals attached to CCIs; 
 	- and toiletries like oil, soap and other material like broomstick, mosquito repellant machine etc. as per scale.
-- Sanitation and [Hygiene](Roll%20Ups/Hygiene/Hygiene.md)(Rule 31)
+- Sanitation and [Hygiene](Hygiene.md)(Rule 31)
 	- Facilities like water for drinking and other purposes
 	- proper drainage, garbage disposal, pest control
 	- toilets (at least one for seven children), bathroom (at least one for 10 children) 
@@ -82,7 +82,7 @@ tags: Practitioner
 	- services of trained counselors, and
 	-  psychological evaluation and diagnosis under trained professionals
 	
-- [Education](Roll%20Ups/Education/Education.md) (Rule 36)
+- [Education](Education.md) (Rule 36)
 	- Education according to age and ability of child both inside CCIs or outside,
 	-  a range of educational opportunities (like mainstream school, bridge school, open school and non-formal education), 
 	- specialized trainers and experts for children with special needs, 
@@ -92,7 +92,7 @@ tags: Practitioner
 	-  It covers occupational therapy, and skill and interest based training having potential for placement.
 - Recreational facilities [[Play]] (Rule 38)
 	- Indoor and outdoor games, yoga, meditation, music, television, picnics and outings and cultural programmes, gardening, library, dance, art therapy etc., and child-friendly library (Page 18)
-- Children's Participation [[Roll Ups/Child Development/Childrens Committees]]
+- Children's Participation [[Childrens Committees]]
 	- Children as Members of Management Committee: According to Rule 39 (3) of the JJ Rules 2016, the management committee of a child care institution shall have ‘two child representatives from each of the Children’s Committees’ as members.  
 	- Children’s Suggestion Box: The management committee of every CCI is required to put in place a complaint and redressal mechanism for the benefit of children. According to Rule 39 (5) of the JJ Rules 2016, a Children’s Suggestion Box shall be installed closer to the residential area of CCI, so that children can have easy access to the facility. The Chairperson of the management committee or his representative from DCPU checks the suggestions of children every week in presence of members of children’s committees. 
 	- The Rule also requires the Chairperson to call for an emergency meeting of the management committee to discuss and act on feedback  suggestions of urgent nature (Page 18). Besides other members, two members of the children’s committee participate in any such emergency meeting. The suggestions received through Suggestion Box and actions taken on the basis of emergency meeting are discussed and reviewed in the monthly meeting of the management committee.  
@@ -107,7 +107,7 @@ tags: Practitioner
 		- Creative expression of views through wall papers, paintings, newsletter etc.
 		-  As facilitators of the process, the child care institutions are required to ensure that the children’s committees meet every month, their records are maintained properly, and are provided with necessary support, space, stationery and guidance.  (Page 19)
 
-# [[Roll Ups/Child Development/Child Lifecycle/Admissions]]
+# [[Admissions]]
 
 - **Procedures to be followed at the time of receiving a child (Rule 69 F) (Page 20)**
 	- The child’s full personal description is noted in admission and discharge register. 
@@ -138,7 +138,7 @@ tags: Practitioner
 	- Children in need of special care are allotted different dormitory. 
 	- For children under rehabilitation stay, the care plan covers the entire period of stay; and it accommodates the directions of CWC, JJB and children’s court.
 
-- ### [Child Profile](Roll%20Ups/Child%20Development/Child%20Profile.md): 
+- ### [Child Profile](Child%20Profile.md): 
 	- Form 7 given in JJ Rules 2016 is used for preparing individual care plan. An individual care plan is prepared keeping in view the child’s case history, education and vocational aptitude. 
 		-  Individual care plan is reviewed by CWO or CWCWO or CW maintains a record of difficulties, if any, faced by the child during the period of stay in CCI. 
 		- CWO or CW keeps of a record of complaints by the child regarding the facilities of CCI.
@@ -201,7 +201,7 @@ tags: Practitioner
 	- In the event of any other crime, the JJB/CWC takes cognizance of the matter and arranges for its investigation by local police station or special juvenile police unit
 	- While dealing with the matter, JJB/CWC may consult children’s committee, voluntary organizations, child rights experts, mental health experts or crisis intervention centres. (Page 23)
 
-# [CCI Operations](Roll%20Ups/CCI%20Operations/CCI%20Operations.md)
+# [CCI Operations](CCI%20Operations.md)
 - **Maintenance of registers (Rule 77)The rule presents a list of 25 registers that the CCIs are required to maintain.** 
 - For each register in the list, the designation of official who maintains it and the one who acts  as its custodian are stated. 
 	- Except two registers namely 

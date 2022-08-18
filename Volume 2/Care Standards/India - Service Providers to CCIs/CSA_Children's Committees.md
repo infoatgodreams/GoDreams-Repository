@@ -4,7 +4,7 @@ author: Akshay
 tags :
 - Practitioner
 ---
-Tags: [ChildParticipation](Roll%20Ups/Child%20Development/ChildParticipation.md) [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md)
+Tags: [ChildParticipation](ChildParticipation.md) [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md)
 Link: https://csa.org.in/docs/webinars/Master-Class-Enabling-Childrens-Right-to-Participation-Through-Childrens-Committee-in-CCIs-November-2020.pdf
 
 Context:

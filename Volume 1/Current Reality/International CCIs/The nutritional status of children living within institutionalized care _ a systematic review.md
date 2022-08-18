@@ -4,7 +4,7 @@ author: Akshay
 tags: globalresearch
 ---
 
-Tags: [CCI Operations](Roll%20Ups/CCI%20Operations/CCI%20Operations.md) [Nutrition](Roll%20Ups/Nutrition/Nutrition.md) [Physical Health](Roll%20Ups/Physical%20Health/Physical%20Health.md)
+Tags: [CCI Operations](CCI%20Operations.md) [Nutrition](Roll%20Ups/Nutrition/Nutrition.md) [Physical Health](Roll%20Ups/Physical%20Health/Physical%20Health.md)
 Link : https://drive.google.com/file/d/1xbldLE1U9c-s2pljL2RLdgv72IDisiLc/view?usp=sharing
 
 # Scope: 
@@ -14,7 +14,7 @@ Link : https://drive.google.com/file/d/1xbldLE1U9c-s2pljL2RLdgv72IDisiLc/view?us
 - From 3,602 titles screened, we reviewed 98 full texts, of which 25 papers were eligible. Two (8%) studies reported data from multiple countries, nine (36%) were from Asia, four (16%) from Africa, three (12%) from Eastern Europe, four (16%) from the European Union and one (4%) from each of the remaining regions (Middle East, South America and the Caribbean). Twenty-two (88%) were cross sectional. Ten (40%) of the studies focused on children >5 years, seven (28%) on children <5 years, seven (28%) covered a wide age range and one did not include ages. Low birth weight prevalence ranged from 25–39%. Only five (20%) included information on children with disabilities and reported prevalence from 8–75%
 
 # Summary of Results
-[[Nutrition]]
+[[Roll Ups/Nutrition/Nutrition]]
 - Prevalence of under nutrition varied between ages,sites and countries:
 	- stunting ranged from 9–72%;
 	- wasting from 0–27%; 
@@ -28,7 +28,7 @@ Link : https://drive.google.com/file/d/1xbldLE1U9c-s2pljL2RLdgv72IDisiLc/view?us
 	- Parasitesfrom6–76%
 	- Half the studies with dietary information found inadequate intake or diet diversity. Younger children were typically more malnourished than older children, with a few exceptions (Page 1)
 
-# [Pre-admission to CCIs](Roll%20Ups/Child%20Development/Child%20Lifecycle/Pre-admission%20to%20CCIs.md)
+# [Pre-admission to CCIs](Pre-admission%20to%20CCIs.md)
 - Children in institutional care often face numerous adversities prior to admission and many enter institutionalized care with pre-existing nutritional, developmental, medical and neurological conditions(Baron,Baron&Spencer,2001; The Children’s Health Care Collaborative Study Group,1994; The St. Petersburg-USA Orphanage ResearchTeam,2005; The St. Petersburg-USA Orphanage ResearchTeam,2008). (Page 3)
 - Born prematurely or with low birth weight and many have had exposure to drugs or alcohol, HIV, stress or a range of other issues —all of which can impact their health.(Baron,Baron&Spencer,2001; Groceetal.,2014; The Children’s Health Care Collaborative Study Group,1994; The St. Petersburg-USA Orphanage Research Team,2008) (Page 3)
 - No information about children’s early lives or exposures prior to coming into care(The Children’s Health Care Collaborative Study Group,1994; The St Petersburg-USA Orphanage Research Team,2005; The St.Petersburg-USA Orphanage Research Team,2008). (Page 3)

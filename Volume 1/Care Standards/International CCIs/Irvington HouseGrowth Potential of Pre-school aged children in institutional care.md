@@ -6,7 +6,7 @@ tags:
 - globalresearch
 ---
 
-Tags: [CCI Operations](Roll%20Ups/CCI%20Operations/CCI%20Operations.md), [[Roll Ups/Caregiving/Caregiving]], [Education](Roll%20Ups/Education/Education.md), [Child Profile](Roll%20Ups/Child%20Development/Child%20Profile.md)
+Tags: [CCI Operations](CCI%20Operations.md), [[Roll Ups/Caregiving/Caregiving]], [Education](Education.md), [Child Profile](Child%20Profile.md)
 Link: [Google Drive](https://drive.google.com/file/d/1pENHpcWf9VVSC70AT2ajXwmFHaZKYag9/view?usp=sharing)
 
 
@@ -14,7 +14,7 @@ Link: [Google Drive](https://drive.google.com/file/d/1pENHpcWf9VVSC70AT2ajXwmFHa
 Scope: A study of change of intellectual level in 132 "dependent and neglected" children aged two through seven - at Irvington House over a period of 4.5 years. The study tests for IQ changes (Stanford Binet Test) over the period. 
 
 # CCI Operations 
-[CCI Operations](Roll%20Ups/CCI%20Operations/CCI%20Operations.md)
+[CCI Operations](CCI%20Operations.md)
 
 - Irvington House has kept to the original intention of having no more than 50 children in the 4 dormitories regardless of outside pressures
 - In initial planning, they considered trying to imitate some sort of family life, but quickly came to realize that this was not only impractical but probably undesirable and dishonest as well. 
@@ -25,7 +25,7 @@ Scope: A study of change of intellectual level in 132 "dependent and neglected" 
 - The older groups eat in our main dining room. For the three older units, we regularly scheduled 20 shifts a week of four staff members. 
 
 # Caregiving
-[Caregiving](Roll%20Ups/Caregiving/Caregiving.md) [Child Profile](Roll%20Ups/Child%20Development/Child%20Profile.md)
+[Caregiving](Roll%20Ups/Caregiving/Caregiving.md) [Child Profile](Child%20Profile.md)
 - For young children a paramount need is to feel that there is someone who really cares for him or her as an individual human being, someone with whom and for whom he is special. In addition to this special one to one relationship, the child must also feel that all, or most, of the people around him like and respect him for what he is. We have called this basic concept, along with teh child-care practices that have grown out of it, "individualization. 
 - We assumed that small children need relatively small, self-contained settings for their basic physical care. They need the opportunity for privacy, some belongings which are their very own, some which are to be shared and the freedom to explore within boundaries that set unobtrusive but firm limits on impulse. 
 - A final assumption in relation to the program offered is that any positive life experience, no matter what its duration, strengthens the child in terms of meeting subsequent life experiences. 
@@ -42,7 +42,7 @@ Scope: A study of change of intellectual level in 132 "dependent and neglected" 
 	- A child-care worker once assigned to a given dormitory, has remained there throughout his employment at the house. 
 	- Each worker has a case load of approximately 20 children. 
 # Results of the study
-[[Roll Ups/Education/Education]]
+[[Education]]
 - Mean initial IQ level of 89 and terminal level of 97.58 with roughly 8.72 months of gap between tests. 
 - Smallest increments are found among chidlren functioning within the average range at the time of their admission. 
 	- This data suggests that many of the children who fall initially into the below-average groups are children of normal intelligence who are suffering impairments based on lack of environmental opportunity, or emotional difficulties, or both, and that these cases respond favorably to the institutional environment provided. 
