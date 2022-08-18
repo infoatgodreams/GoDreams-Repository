@@ -68,37 +68,13 @@ _These outcome indicators typically describe the long-term success seen in the m
 ### From the Field:
 
 Care leavers reported being unable to manage independently because they’re not used to being solely responsible for their health, education and mental-well being.
-
-  
-
 Some care leavers articulate looking back at their life in the children’s homes with fondness, and would frequently visit.
-
-  
-
 Some care leavers expressed distress at not having access to records of their childhoods in institutions in the form of pictures etc.
-
-  
-
 Care leavers find it difficult to mingle with peers in their universities and workplaces, reporting a feeling of separateness from their peers in these spaces.
-
-  
-
 Care leavers report higher rates of negative habits including smoking, drug use, and alcohol use.
-
-  
-
 Care leavers are not often in regular therapy or do not choose to access professional mental health support. While care leavers have access to mental health services at the institution, they rarely have regular therapeutic support once they leave; access to mental health is harder.
-
-  
-
 Care leavers find it harder to function without the structure that institutional care provides.
-
-  
-
 Some care leavers reported switching between jobs frequently, due to struggles maintaining relationships with peers or management at workplaces.
-
-  
-
   
 
 **Mental Health Indicators and Inputs**
