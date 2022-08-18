@@ -7,29 +7,13 @@ There is growing evidence that play enhances child development and learning outc
 
 - Physical play is linked to motor development and some tentative evidence is that it creates a linkage to social development as well. In CCIs, this is mostly achieved through sports or unstructured playtime.
 - Unstructured breaks from classes and cognitively demanding tasks improve learning and attention.
+- Construction play that involves building and creating large structures has shown to have a relationship with language development, particularly for younger children. 
+- Word play, word games, and theatre can all lead to linguistic development.
+- Pretend play relates to language development, particularly narrative skills. Children often engage in fantasy-oriented pretense, and this has been linked to improvements in self-regulation of emotions. 
+- Board games (particularly those with numbers and linear number sequences) lead to improvements in numeracy/mathematics ability.
+
 
   
-
-Construction play that involves building and creating large structures has shown to have a relationship with language development, particularly for younger children. 
-
-  
-
-Word play, word games, and theatre can all lead to linguistic development.
-
-  
-
-Pretend play relates to language development, particularly narrative skills. Children often engage in fantasy-oriented pretense, and this has been linked to improvements in self-regulation of emotions. 
-
-  
-
-Board games (particularly those with numbers and linear number sequences) lead to improvements in numeracy/mathematics ability.
-
-  
-
-  
-
-  
-
 **Overview of Play in Child Care Institutions**
 
   
