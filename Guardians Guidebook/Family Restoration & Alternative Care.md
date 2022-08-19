@@ -40,65 +40,21 @@ For children in institutions to move back to their families of origin or to fami
 
 ### Optimal Practices for Preparing Children for Restoration
 
-  
-
-Each child needs a separate care plan that details the plan for reintegration, if any, that is customized to their background and needs. 
-
-  
-
-Communication is key. Caregivers need to inform children honestly about the process and this honesty helps them trust every step of the process.
-
-  
-
-Child identity and sense of self need to be maintained throughout the process. 
-
-  
-
-Focussing on attachment and consciously transferring attachment from the caregiver to the family is essential.
-
-  
-
-Children need to maintain previous friendships and relationships with the staff and children at the institution.
-
-  
-
-The institution should provide information about the possible timelines associated with the transition and explain the reasons for restoration in a child-friendly way to ease some of the anxieties associated with this change.
-
-  
-
-Space for children to discuss their views, hopes, hesitations, and anger needs to be provided.
-
-  
-
-Caregivers should remain positive throughout the process because their attitudes can influence the way a child views this change.
-
-  
-
-Children should remain in institutional care for as long as is needed to prepare them for reintegration or, where this is not possible, to find them a new permanent family.
-
-  
-
-Caregivers need to engage children in culturally appropriate daily responsibilities and decisions, such as cooking and cleaning, determining recreational activities, or having some input in the daily schedule.
-
-  
-
-Caregivers need to focus on building children’s capacity to act autonomously and provide opportunities to express emotions freely.
-
-  
-
-Children have an atmosphere conducive to healing and rehabilitation with their families, in the safe space of the institution. Trained counselors can help children learn to trust their families and parents in a familiar setting. 
-
-  
-
-Children should not be moved abruptly and without warning. 
-
-  
-
-Children are taught coping skills and independent living skills to prepare them for a life outside the institution.
-
-  
-
-  
+- Each child needs a separate care plan that details the plan for reintegration, if any, that is customized to their background and needs. 
+- Communication is key. Caregivers need to inform children honestly about the process and this honesty helps them trust every step of the process.
+- Child identity and sense of self need to be maintained throughout the process. 
+- Focussing on attachment and consciously transferring attachment from the caregiver to the family is essential.
+- Children need to maintain previous friendships and relationships with the staff and children at the institution.
+- The institution should provide information about the possible timelines associated with the transition and explain the reasons for restoration in a child-friendly way to ease some of the anxieties associated with this change.
+- Space for children to discuss their views, hopes, hesitations, and anger needs to be provided.
+- Caregivers should remain positive throughout the process because their attitudes can influence the way a child views this change.
+- Children should remain in institutional care for as long as is needed to prepare them for reintegration or, where this is not possible, to find them a new permanent family.
+- Caregivers need to engage children in culturally appropriate daily responsibilities and decisions, such as cooking and cleaning, determining recreational activities, or having some input in the daily schedule.
+- Caregivers need to focus on building children’s capacity to act autonomously and provide opportunities to express emotions freely.
+- Children have an atmosphere conducive to healing and rehabilitation with their families, in the safe space of the institution. Trained counselors can help children learn to trust their families and parents in a familiar setting. 
+- Children should not be moved abruptly and without warning. 
+- Children are taught coping skills and independent living skills to prepare them for a life outside the institution.
+ 
 
 **Risks associated with poor preparation of children for restoration:** 
 
