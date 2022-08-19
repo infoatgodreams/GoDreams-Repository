@@ -189,151 +189,59 @@ _You can find the official recommendations for child safety from the Juvenile Ju
 # Child Safety Excerpts from Juvenile Justice (Care and Protection of Children) Model Rules, 2016
 
   
+- Individual Care Plan a comprehensive development plan for a child based on age and gender-specific needs and case history of the child, is to be prepared in consultation with the child  in order to restore the child’s self-esteem, dignity and self-worth and nurture him into a responsible citizen and accordingly the plan shall address the following, including but not limited to protection from all kinds of abuse, neglect and maltreatment;  (p.176, pt. 2, Chapter-I, Preliminary)
 
-Individual Care Plan a comprehensive development plan for a child based on age and gender-specific needs and case history of the child, is to be prepared in consultation with the child  in order to restore the child’s self-esteem, dignity and self-worth and nurture him into a responsible citizen and accordingly the plan shall address the following, including but not limited to protection from all kinds of abuse, neglect and maltreatment;  (p.176, pt. 2, Chapter-I, Preliminary)
+  - Management and Monitoring of Child Care Institutions(p.195, pt. 26, Chapter-VI, Rehabilitation and Social Re-integration):
 
-  
-
-Management and Monitoring of Child Care Institutions(p.195, pt. 26, Chapter-VI, Rehabilitation and Social Re-integration):
-
-  
-
-- In case of Child Care Institutions housing girls, only female Person-in charge and staff shall be appointed.
-
-  
-
-- Any person associated with a Child Care Institution should not have been convicted of an offence or have been involved in any immoral act or in act of child abuse or employment of child labour or in an offence involving moral turpitude or hold any office in any political party during his tenure.
+	- In case of Child Care Institutions housing girls, only female Person-in charge and staff shall be appointed.
+	- Any person associated with a Child Care Institution should not have been convicted of an offence or have been involved in any immoral act or in act of child abuse or employment of child labour or in an offence involving moral turpitude or hold any office in any political party during his tenure.
+	- No person shall be appointed to or work in a Child Care Institution without police verification.
+	- The security personnel shall be deployed as per nature and requirement of the Child Care Institution, taking into consideration strength of the children, age groups, physical and mental status, segregation facility based on the nature of offence and structure of the Institution.
+	- The security personnel to be engaged or appointed shall be adequately trained and oriented to deal with the children with sensitivity preferably ex-servicemen or retired para-military personnel or through Director General of Resettlement.
+	- The security personnel shall not be with arms or guns but have training and special skills to handle a crisis situation, control violence and escape of children from the institution, conduct search and frisking and security surveillance. 
 
   
-
-- No person shall be appointed to or work in a Child Care Institution without police verification.
-
-  
-
-- The security personnel shall be deployed as per nature and requirement of the Child Care Institution, taking into consideration strength of the children, age groups, physical and mental status, segregation facility based on the nature of offence and structure of the Institution.
-
-  
-
-- The security personnel to be engaged or appointed shall be adequately trained and oriented to deal with the children with sensitivity preferably ex-servicemen or retired para-military personnel or through Director General of Resettlement.
-
-  
-
-- The security personnel shall not be with arms or guns but have training and special skills to handle a crisis situation, control violence and escape of children from the institution, conduct search and frisking and security surveillance. 
-
-  
-
-Physical Infrastructure (p.198, pt. 29, Chapter-VI, Rehabilitation and Social Re-integration):
-
-  
-
-- While children of both sex below 10 years may be kept in the same home, separate bathing and sleeping facilities shall be maintained for boys and girls in the age group of 5-10 years;
-
-  
-
-- Separate children’s homes for boys and girls in the age group of 7-11 years and 12- 18 years;
-
-  
-
-- Separate facilities for children up to the age of six years with appropriate facilities for infants.
-
-  
-
-- The Child Care Institutions shall be child-friendly and in no way shall they look like a jail or lock-up.
-
-  
-
-- The suggested norms for building or accommodation in each institution with 50 children may be as under:
-
-  
-
-- The Person-in-charge shall stay within the institution and be provided with quarters and in case he is not able to stay in the Child Care Institution for valid reasons, any other senior staff member of the institution shall stay in the institution and be in a position to supervise the overall care of the children and take decisions in the case of any crisis or emergency.
-
-  
-
-- There shall be proper and non-slippery flooring for preventing accidents.
-
-  
-
-- There shall be adequate lighting, heating and cooling arrangements, ventilation, safe drinking water, clean and accessible gender and age appropriate and disabled friendly toilets and high walls with barbed wire fencing.
-
-  
+- Physical Infrastructure (p.198, pt. 29, Chapter-VI, Rehabilitation and Social Re-integration):
+	- While children of both sex below 10 years may be kept in the same home, separate bathing and sleeping facilities shall be maintained for boys and girls in the age group of 5-10 years;
+	- Separate children’s homes for boys and girls in the age group of 7-11 years and 12- 18 years;
+	- Separate facilities for children up to the age of six years with appropriate facilities for infants.
+	- The Child Care Institutions shall be child-friendly and in no way shall they look like a jail or lock-up.
+	- The suggested norms for building or accommodation in each institution with 50 children may be as under:
+	- The Person-in-charge shall stay within the institution and be provided with quarters and in case he is not able to stay in the Child Care Institution for valid reasons, any other senior staff member of the institution shall stay in the institution and be in a position to supervise the overall care of - There shall be proper and non-slippery flooring for preventing accidents.
+	- There shall be adequate lighting, heating and cooling arrangements, ventilation, safe drinking water, clean and accessible gender and age appropriate and disabled friendly toilets and high walls with barbed wire fencing.
+	
+	  
 
 - All institutions under the Act shall:
 
-(i) make provision of first-aid kit, fire extinguishers in kitchen, recreation room, vocational training room, dormitories, store rooms and counselling room;
+	(i) make provision of first-aid kit, fire extinguishers in kitchen, recreation room, vocational training room, dormitories, store rooms and counselling room;
+	(ii) conduct periodic inspection of electrical installations;
+	(iii) ensure proper storage and inspection of articles of food; and
+	(iv) ensure stand-by arrangements for water storage and emergency lighting.
 
-(ii) conduct periodic inspection of electrical installations;
+- Management Committee (p.209, pt. 39, Chapter-VI, Rehabilitation and Social Re-integration):
+	- The Management Committee shall set up a complaint and redressal mechanism in every institution and a Children’s Suggestion Box shall be installed in every institution at a place easily accessible to children away from the office set up and closer to the residence or rooms or dormitories of the children.
+	- If there is a problem or suggestion that requires immediate attention, the Chairperson of the Management Committee shall call for an emergency meeting of the Management Committee to discuss and take necessary action.
+	- The quorum for conducting emergency meetings shall be five members, including two members of Children’s Committees, Chairperson of the Management Committee, Member of the Board or the Committee, as the case may be, and the Person-in-charge of the Child Care Institution.
+	- In the event of a serious allegation or complaint against the Person-in-charge of the institution, he shall not be part of the emergency meeting and another available member of the Management Committee shall be included in his place. 
 
-(iii) ensure proper storage and inspection of articles of food; and
+- Children’s Committees: Such children’s committee shall be encouraged to participate in following activities, including reporting abuse and exploitation by peers and caregivers. (p.210, pt. 40, Chapter-VI, Rehabilitation and Social Re-integration)
 
-(iv) ensure stand-by arrangements for water storage and emergency lighting.
-
-Management Committee (p.209, pt. 39, Chapter-VI, Rehabilitation and Social Re-integration):
-
-  
-
-- The Management Committee shall set up a complaint and redressal mechanism in every institution and a Children’s Suggestion Box shall be installed in every institution at a place easily accessible to children away from the office set up and closer to the residence or rooms or dormitories of the children.
-
-  
-
-- If there is a problem or suggestion that requires immediate attention, the Chairperson of the Management Committee shall call for an emergency meeting of the Management Committee to discuss and take necessary action.
-
-  
-
-- The quorum for conducting emergency meetings shall be five members, including two members of Children’s Committees, Chairperson of the Management Committee, Member of the Board or the Committee, as the case may be, and the Person-in-charge of the Child Care Institution.
-
-  
-
-- In the event of a serious allegation or complaint against the Person-in-charge of the institution, he shall not be part of the emergency meeting and another available member of the Management Committee shall be included in his place. 
-
-  
-
-Children’s Committees: Such children’s committee shall be encouraged to participate in following activities, including reporting abuse and exploitation by peers and caregivers. (p.210, pt. 40, Chapter-VI, Rehabilitation and Social Re-integration)
-
-  
-
-Inspection:The State Inspection Committee shall carry out inspections of the Child Care Institutions as defined under sub-section (21) of section (2) of the Act housing children in the State in Form 46. (p.211, pt. 41, Chapter-VI, Rehabilitation and Social Re-integration)
-
-  
-
-- The State Inspection Committee shall carry out random inspections of the institutions housing children to determine whether such institution is housing children in need of care and protection.
-
-  
-
-- The State Inspection Committee shall submit report to the Secretary of the Department implementing the Act.
-
-  
-
-- The State Inspection Committee shall make recommendations for improvement and development of the Institutions in accordance with the provisions of the Act and the rules made thereunder and shall forward the same to the State Child Protection Society or the District Child Protection Unit for appropriate action.
-
-  
-
-- The State Inspection Committee shall interact with the children during visits to the institution to determine their well-being and to get their feedback. The District Inspection Committee (p.211, pt. 41, Chapter-VI, Rehabilitation and Social Re-integration) shall comprise of following members:
+- Inspection:The State Inspection Committee shall carry out inspections of the Child Care Institutions as defined under sub-section (21) of section (2) of the Act housing children in the State in Form 46. (p.211, pt. 41, Chapter-VI, Rehabilitation and Social Re-integration)
+	- The State Inspection Committee shall carry out random inspections of the institutions housing children to determine whether such institution is housing children in need of care and protection.
+	- The State Inspection Committee shall submit report to the Secretary of the Department implementing the Act.
+	- The State Inspection Committee shall make recommendations for improvement and development of the Institutions in accordance with the provisions of the Act and the rules made thereunder and shall forward the same to the State Child Protection Society or the District Child Protection Unit for appropriate action.
+	- The State Inspection Committee shall interact with the children during visits to the institution to determine their well-being and to get their feedback. The District Inspection Committee (p.211, pt. 41, Chapter-VI, Rehabilitation and Social Re-integration) shall comprise of following members:
 
 (i) Member of the Board or the Committee;
-
 (ii) District Child Protection Officer as the Member Secretary;
-
 (iii) Medical Officer;
-
 (iv) one member of the civil society working in the area of child rights, care, protection and welfare;
-
 (v) one mental health expert who has experience of working with children.
 
-  
-
 - The District Inspection Committee shall inspect all Child Care Institutions in the district in Form 46.
-
-  
-
 - The inspection of the facilities housing children in the district shall be carried out at least once every three months.
-
-  
-
 - The District Inspection Committee shall submit the report of the findings to the District Child Protection Unit or the State Government and shall also make suggestions for improvement and development of the Child Care Institutions in accordance with the provisions of the Act and the rules made thereunder.
-
-  
-
 - The District Inspection Committee shall interact with the children during the visits to the institution to determine their well-being and to elicit their feedback.
 
   
