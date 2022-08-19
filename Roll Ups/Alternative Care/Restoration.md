@@ -793,4 +793,3 @@ According to a paper on the challenges in social reintegration of children from 
 [^7]: [[Alternative Care in India, Issues and Prospects]]
 [^8]: [[Child care institutions in India Investigating issues and challenges in children’s rehabilitation and social integration]]
 [^9]: [[Alternative Care for Children, Udayan Care]]
-[^10]: 

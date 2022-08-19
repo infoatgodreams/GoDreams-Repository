@@ -1,3 +1,5 @@
+[[Child Safety]]
+
 # Introduction to the Domain
 
 It is essential to keep children’s rights, identity, and safety at the centre of all programs that involve caregiving and child development, for children to grow up into individuals with a strong sense of self, self-sufficient adults There is a global consensus on the need to recognize certain universal rights of all children, particularly children in need of care and protection. The United Nations Convention on the Rights of the Child (UNCRC) and similar charters on human rights guide work with vulnerable children. Recognizing the rights of children and holding them sacrosanct recognizes that children are active participants in any caregiving setting and not just beneficiaries of support. 
