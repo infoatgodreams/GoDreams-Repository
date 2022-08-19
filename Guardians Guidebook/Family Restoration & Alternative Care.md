@@ -56,79 +56,30 @@ For children in institutions to move back to their families of origin or to fami
 - Children are taught coping skills and independent living skills to prepare them for a life outside the institution.
  
 
-**Risks associated with poor preparation of children for restoration:** 
+### Risks associated with poor preparation of children for restoration:
 
-  
+- Children might be forced to give up relationships that they have created over many years, and this can affect their social skills in the long-term.
+- Some children stay afraid and insecure post restoration because they continue to be worried about sudden, abrupt changes in the environment.
+- Some children might begin to believe that their interests, wishes, and feelings are not important because they were not consulted with or listened to during the restoration process. 
+- Many children do not have faith and trust in their families, and they could potentially struggle to adjust to their new environments and new caregivers. 
+- Some children might lose a sense of who they are because their identity formation was interrupted, and they may now find it challenging to identify new life patterns that fit well, including their careers and social relationships.
 
-Children might be forced to give up relationships that they have created over many years, and this can affect their social skills in the long-term.
 
-  
+## Current Reality
 
-Some children stay afraid and insecure post restoration because they continue to be worried about sudden, abrupt changes in the environment.
+### From Literature and from the Field
+- For a majority of children, we observed that the individual care plan and the aftercare plans do not focus on family integration and restoration. 
+- Research from Udayan Care suggests that essential counseling and emotional support to prepare children for this major change are provided only to some children before restoration, inadequately preparing them for a new life. 
+- Research on deinstitutionalisation in India also suggests that active, ongoing consent is not always taken from children. Their agency to say no to the process is limited. 
+- We’ve observed that some parents and family members do not visit children regularly in the institutions, despite provisions that exist for phone calls and monthly visits. They do not always have sufficient context to the children’s evolving personalities which can sometimes result in children A home visit and family study are sometimes not conducted for children in the process of restoration. This points to a gap in the preparation process. 
+- In many institutions, the attitudes of staff towards parents are not conducive to positive relationships of children with their families. Conversations with some staff included them voicing their disregard of  parents as active stakeholders in the lives of children. 
+- Some children who returned to the CCI from their homes reported poorer conditions of living and safety, relative to their conditions at the institution. 
 
-  
 
-Some children might begin to believe that their interests, wishes, and feelings are not important because they were not consulted with or listened to during the restoration process. 
+## Preparing Families for restoration
 
-  
 
-Many children do not have faith and trust in their families, and they could potentially struggle to adjust to their new environments and new caregivers. 
-
-  
-
-Some children might lose a sense of who they are because their identity formation was interrupted, and they may now find it challenging to identify new life patterns that fit well, including their careers and social relationships.
-
-  
-
-  
-
-**Current Reality**
-
-  
-
-**From Literature and from the Field**
-
-  
-
-For a majority of children, we observed that the individual care plan and the aftercare plans do not focus on family integration and restoration. 
-
-  
-
-Research from Udayan Care suggests that essential counseling and emotional support to prepare children for this major change are provided only to some children before restoration, inadequately preparing them for a new life. 
-
-  
-
-Research on deinstitutionalisation in India also suggests that active, ongoing consent is not always taken from children. Their agency to say no to the process is limited. 
-
-  
-
-We’ve observed that some parents and family members do not visit children regularly in the institutions, despite provisions that exist for phone calls and monthly visits. They do not always have sufficient context to the children’s evolving personalities which can sometimes result in children growing uncomfortable in their presence over time.
-
-  
-
-A home visit and family study are sometimes not conducted for children in the process of restoration. This points to a gap in the preparation process. 
-
-  
-
-In many institutions, the attitudes of staff towards parents are not conducive to positive relationships of children with their families. Conversations with some staff included them voicing their disregard of  parents as active stakeholders in the lives of children. 
-
-  
-
-Some children who returned to the CCI from their homes reported poorer conditions of living and safety, relative to their conditions at the institution. 
-
-  
-
-  
-
-  
-
-**Preparing Families for restoration** 
-
-  
-
-**Optimal practices for preparing families for restoration**
-
-  
+## Optimal practices for preparing families for restoration
 
 Parents/family members who have not maintained visits/contact have a low degree of knowledge about children and their daily activities and will require more guidance and support from caregivers in learning about their children. 
 
