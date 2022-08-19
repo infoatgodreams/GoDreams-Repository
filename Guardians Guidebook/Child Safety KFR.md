@@ -1,290 +1,92 @@
-**Introduction to the Domain**
+# Introduction to the Domain
 
-  
-
-It is essential to keep children’s rights, identity, and safety at the centre of all programs that involve caregiving and child development, for children to grow up into individuals with a strong sense of self, self-sufficient adults
-
-  
-
-There is a global consensus on the need to recognize certain universal rights of all children, particularly children in need of care and protection. The United Nations Convention on the Rights of the Child (UNCRC) and similar charters on human rights guide work with vulnerable children. Recognizing the rights of children and holding them sacrosanct recognizes that children are active participants in any caregiving setting and not just beneficiaries of support. 
-
-  
+It is essential to keep children’s rights, identity, and safety at the centre of all programs that involve caregiving and child development, for children to grow up into individuals with a strong sense of self, self-sufficient adults There is a global consensus on the need to recognize certain universal rights of all children, particularly children in need of care and protection. The United Nations Convention on the Rights of the Child (UNCRC) and similar charters on human rights guide work with vulnerable children. Recognizing the rights of children and holding them sacrosanct recognizes that children are active participants in any caregiving setting and not just beneficiaries of support. 
 
 The following principles of a child-rights-focused approach are based on the UNCRC and expanded in the context of children living in CCIs:
+- Children should experience stable attachment with their caregivers in a supportive, loving, community-like environment. 
+- Children need access to essential utilities for safe living including nutritious food, clean water, and protection from environmental stressors.
+- Children deserve access to quality education, healthy medical care, and opportunities for self-enrichment. 
+- Children will not be discriminated against on the basis of gender, sexuality, religion, caste, creed, or family background. 
+- Children will be allowed to freely express their views and encouraged to actively contribute to decisions that impact their lives. 
+- Children should be allowed to explore and build their own identity and provided opportunities to create a positive self-image and self-esteem. 
+- Children learn their rights and responsibilities at the institution, cognizant of the rights guaranteed to them by the state and their responsibilities to make this a safe space for their peers.
+- Every child is treated with respect and lives in conditions with sufficient facilities that accord dignity and freedom to their lives. 
+- All children will be allowed to practice their faith and spiritual beliefs without any undue influence or coercion
+- Every child will receive effective protection from harmful influences, abuse (physical & mental), neglect, corporal punishment, and all forms of exploitation.
 
-  
+## Overview of Child Rights, Safety, and Identity in Child Care Institutions
 
-Children should experience stable attachment with their caregivers in a supportive, loving, community-like environment. 
-
-  
-
-Children need access to essential utilities for safe living including nutritious food, clean water, and protection from environmental stressors.
-
-  
-
-Children deserve access to quality education, healthy medical care, and opportunities for self-enrichment. 
-
-  
-
-Children will not be discriminated against on the basis of gender, sexuality, religion, caste, creed, or family background. 
-
-  
-
-Children will be allowed to freely express their views and encouraged to actively contribute to decisions that impact their lives. 
-
-  
-
-Children should be allowed to explore and build their own identity and provided opportunities to create a positive self-image and self-esteem. 
-
-  
-
-Children learn their rights and responsibilities at the institution, cognizant of the rights guaranteed to them by the state and their responsibilities to make this a safe space for their peers.
-
-  
-
-Every child is treated with respect and lives in conditions with sufficient facilities that accord dignity and freedom to their lives. 
-
-  
-
-All children will be allowed to practice their faith and spiritual beliefs without any undue influence or coercion
-
-  
-
-Every child will receive effective protection from harmful influences, abuse (physical & mental), neglect, corporal punishment, and all forms of exploitation.
-
-  
-
-  
-
-**Overview of Child Rights, Safety, and Identity in Child Care Institutions**
-
-  
-
-  
-
-  
-
-In the Indian context, in 2015, the Juvenile Justice (Care and Protection of Children) Act was passed. All institutions, government or privately run need to be mandatory registered under this Act. The JJ Act outlines the recommended inputs, and monitoring processes applicable to all institutions working with children in need of care and protection, and children in conflict with the law. The Act spans areas of caregiving practices, child protection, child growth, appropriate treatment and integration into the community.
-
-  
-
-The Protection of Children from Sexual Offences (POCSO) Act, 2012 was enacted to keep children safe, from contact and non-contact sexual abuse, regardless of their gender. The POCSO Act is applicable to all children.
-
-  
+In the Indian context, in 2015, the Juvenile Justice (Care and Protection of Children) Act was passed. All institutions, government or privately run need to be mandatory registered under this Act. The JJ Act outlines the recommended inputs, and monitoring processes applicable to all institutions working with children in need of care and protection, and children in conflict with the law. The Act spans areas of caregiving practices, child protection, child growth, appropriate treatment and integration into the community. The Protection of Children from Sexual Offences (POCSO) Act, 2012 was enacted to keep children safe, from contact and non-contact sexual abuse, regardless of their gender. The POCSO Act is applicable to all children.
 
 From observational insights and existing literature, the following are a few factors that influence the safety of children in institutional care:
+- Entry and exit procedures must be child-centric. Staff dealing with transitions must be sensitized and trained to ensure children are comfortable and consulted throughout the process. 
+- Complex relationships with parents affect the emotional security and psychosocial well-being of children in institutions.
+- Physical violence and sexual exploitation are patterns of abuse that emerge in institutions with inadequate monitoring mechanisms. A high proportion of survivors of sexual violence are girls, but boys are also affected.
+- Traumatic backgrounds often threaten children’s perception of self, leading to internalized stigma and shame associated with difficult backgrounds. 
+- Risks of dangers and injuries rise when children live in insecure or unsafe conditions, driven by improper maintenance and lack of physical infrastructure.
+- Religious and spiritual intolerance is sometimes observed when discrimination threatens children’s right to religious expression.
+
+ 
+## Stakeholders
+
+- In an institution, the primary stakeholders responsible for safeguarding children’s rights and individual identity include the security staff, leadership & child welfare officers, caregivers / house parents, school teachers, donors, volunteers, support staff and the parents of children.
+- Leadership and child welfare officers set policies for child rights that are centered on the running of the institution. They also focus on improving protocols pertaining to movement in the institution, children’s social investigation, and maintaining regularised interaction with parents. The leadership also plays a crucial role in allowing for the free expression of children, and in prioritizing the privacy and confidentiality of children.
+- Caregivers and house parents have the best vantage point to watch out for signs of abuse, neglect, and bullying. While children engage in daily play, exercise, and in general leisure time, they also closely monitor and keep an eye on the children. 
+- School teachers need to pay special attention to children from CCIs, to ensure that they’re safe during school hours. 
+- Donors and volunteers who visit institutions need to sign the institutional child protection policy, learn to appropriately interact with children, and undertake the responsibility of protecting every child in the institution.
+- Support staff and cleaning staff at the home are trained on the child protection agenda, are adequately informed about child rights, and on modes of proper interaction with children.
+- Parents play a key role in building emotional security and emotional safety in children because their presence and interaction offer stability. 
+- Security staff is responsible for keeping all children inside the institution safe from external dangers, closely monitoring the entry and exit of other children, visitors and vendors. While external vendors work within the institution, the security ensures that their interactions with children are limited, and informs residential staff and children of appropriate precautionary measures. 
+
+  
+# Child Rights, Safety, and Identity Outcomes
+
+## Optimal Adult Outcomes
+
+- Care leavers leave the institution with no adverse impact on developmental trajectories because of negative experiences in the institution.
+- Care leavers exhibit a clear understanding of their rights and responsibilities, accorded to them by the state, including relevant schemes and rights to non-discrimination that they can utilize.
+- Care leavers are able to discuss their time at the institution openly, to create a community of support aimed at effecting change within their own institutions.
+- Care leavers have no long-term unmanageable health conditions tied to neglect at CCIs, that threaten their abilities to work as fully functional members of society.
+- Care leavers have a well-developed understanding of personal safety, risks to their well-being, and necessary precautions.
+- Care leavers do not repeat patterns of abuse and neglect, and are able to prioritize physical and emotional safety in all relationships. 
+- Care leavers are aware of redressal and complaint mechanisms when in danger of harm and abuse, and learn to access the legal system. 
+- Care leavers are not discriminated against in the workplace or in educational institutions. 
+- Care leavers are not forced into unsafe labor conditions or harmful employment opportunities.
+- Care-leavers have no chronic issues arising due to unsafe environment at CCIs that threaten their ability to work as fully functional members of society.
+- Care leavers have in their possession the required medical history documents, identification proofs and academic history documents required for independent living.
+- Care leavers are provided important information about their childhoods at the CCI by CCI authorities.
+- Care leavers understand and are able to leverage systems around them towards their accessing rights.
 
   
 
-Entry and exit procedures must be child-centric. Staff dealing with transitions must be sensitized and trained to ensure children are comfortable and consulted throughout the process. 
+## Current Reality
+
+### From Literature and from the Field
+
+- Care leavers with a background of traumatic experience in institutions reported difficulties in processing new information and new experiences, and struggling to create social and peer relationships.
+- An overwhelming majority of care leavers in India reported little to no understanding of their legal rights, government schemes, and services that they could access as adults. 
+- In a study conducted by Harvard Medical School (HMS), the University of Michigan, and Casey Family Programs, care leavers from the foster care system were twice as likely to have a current mental health diagnosis, six times more likely to have PTSD than the general population, and almost four times more likely to have PTSD than veterans of certain wars.
+- Many care leavers reported long-term negative emotional impacts as a result of the abuse that they had suffered during their time at the institution. 
+- Care leavers are relatively unaware of due processes and rights guaranteed to them by the State. 
+- Care leavers often are forced to move to relatively unsafe environments and difficult familial situations once they leave institutions, putting them at higher risk.
+- Care leavers do not have access to trauma-sensitive counselling or therapeutic services to deal with past traumatic events.
 
   
+# Child Rights, Safety and Identity Indicators and Inputs
 
-Complex relationships with parents affect the emotional security and psychosocial well-being of children in institutions.
+## Optimal Childhood Indicators
 
-  
+- Children are safe and secure where they live, learn and play.
+- Children are empowered to participate in their own protection and they are well- aware of the rights they have access to. 
+- Children showcase a clear understanding of the due process to follow to highlight any discomfort or potential safety concern.
+- Children are able to articulate their problems and suggest solutions; to be actively involved in securing their rights at the institutions. 
+- Children freely express their thoughts and sentiments without fear of retaliation from staff and caregivers.
+- Children pursue spiritual practices and religious rituals in accordance with their chosen faith without any fear of discrimination. 
 
-Physical violence and sexual exploitation are patterns of abuse that emerge in institutions with inadequate monitoring mechanisms. A high proportion of survivors of sexual violence are girls, but boys are also affected.
 
-  
-
-Traumatic backgrounds often threaten children’s perception of self, leading to internalized stigma and shame associated with difficult backgrounds. 
-
-  
-
-Risks of dangers and injuries rise when children live in insecure or unsafe conditions, driven by improper maintenance and lack of physical infrastructure.
-
-  
-
-Religious and spiritual intolerance is sometimes observed when discrimination threatens children’s right to religious expression.
-
-  
-
-  
-
-**Stakeholders**
-
-  
-
-In an institution, the primary stakeholders responsible for safeguarding children’s rights and individual identity include the security staff, leadership & child welfare officers, caregivers / house parents, school teachers, donors, volunteers, support staff and the parents of children.
-
-  
-
-Leadership and child welfare officers set policies for child rights that are centered on the running of the institution. They also focus on improving protocols pertaining to movement in the institution, children’s social investigation, and maintaining regularised interaction with parents. The leadership also plays a crucial role in allowing for the free expression of children, and in prioritizing the privacy and confidentiality of children.
-
-  
-
-Caregivers and house parents have the best vantage point to watch out for signs of abuse, neglect, and bullying. While children engage in daily play, exercise, and in general leisure time, they also closely monitor and keep an eye on the children. 
-
-  
-
-School teachers need to pay special attention to children from CCIs, to ensure that they’re safe during school hours. 
-
-  
-
-Donors and volunteers who visit institutions need to sign the institutional child protection policy, learn to appropriately interact with children, and undertake the responsibility of protecting every child in the institution.
-
-  
-
-Support staff and cleaning staff at the home are trained on the child protection agenda, are adequately informed about child rights, and on modes of proper interaction with children.
-
-  
-
-Parents play a key role in building emotional security and emotional safety in children because their presence and interaction offer stability. 
-
-  
-
-Security staff is responsible for keeping all children inside the institution safe from external dangers, closely monitoring the entry and exit of other children, visitors and vendors. While external vendors work within the institution, the security ensures that their interactions with children are limited, and informs residential staff and children of appropriate precautionary measures. 
-
-  
-
-  
-
-  
-
-  
-
-  
-
-**Child Rights, Safety, and Identity Outcomes**
-
-  
-
-**Optimal Adult Outcomes**
-
-  
-
-Care leavers leave the institution with no adverse impact on developmental trajectories because of negative experiences in the institution.
-
-  
-
-Care leavers exhibit a clear understanding of their rights and responsibilities, accorded to them by the state, including relevant schemes and rights to non-discrimination that they can utilize.
-
-  
-
-Care leavers are able to discuss their time at the institution openly, to create a community of support aimed at effecting change within their own institutions.
-
-  
-
-Care leavers have no long-term unmanageable health conditions tied to neglect at CCIs, that threaten their abilities to work as fully functional members of society.
-
-  
-
-Care leavers have a well-developed understanding of personal safety, risks to their well-being, and necessary precautions.
-
-  
-
-Care leavers do not repeat patterns of abuse and neglect, and are able to prioritize physical and emotional safety in all relationships. 
-
-  
-
-Care leavers are aware of redressal and complaint mechanisms when in danger of harm and abuse, and learn to access the legal system. 
-
-  
-
-Care leavers are not discriminated against in the workplace or in educational institutions. 
-
-  
-
-Care leavers are not forced into unsafe labor conditions or harmful employment opportunities.
-
-  
-
-Care-leavers have no chronic issues arising due to unsafe environment at CCIs that threaten their ability to work as fully functional members of society.
-
-  
-
-Care leavers have in their possession the required medical history documents, identification proofs and academic history documents required for independent living.
-
-  
-
-Care leavers are provided important information about their childhoods at the CCI by CCI authorities.
-
-  
-
-Care leavers understand and are able to leverage systems around them towards their accessing rights.
-
-  
-
-**Current Reality**
-
-  
+## Current Reality
 
 **From Literature and from the Field**
-
-  
-
-Care leavers with a background of traumatic experience in institutions reported difficulties in processing new information and new experiences, and struggling to create social and peer relationships.
-
-  
-
-An overwhelming majority of care leavers in India reported little to no understanding of their legal rights, government schemes, and services that they could access as adults. 
-
-  
-
-In a study conducted by Harvard Medical School (HMS), the University of Michigan, and Casey Family Programs, care leavers from the foster care system were twice as likely to have a current mental health diagnosis, six times more likely to have PTSD than the general population, and almost four times more likely to have PTSD than veterans of certain wars.
-
-  
-
-Many care leavers reported long-term negative emotional impacts as a result of the abuse that they had suffered during their time at the institution. 
-
-  
-
-Care leavers are relatively unaware of due processes and rights guaranteed to them by the State. 
-
-  
-
-Care leavers often are forced to move to relatively unsafe environments and difficult familial situations once they leave institutions, putting them at higher risk.
-
-  
-
-Care leavers do not have access to trauma-sensitive counselling or therapeutic services to deal with past traumatic events.
-
-  
-
-  
-
-**Child Rights, Safety and Identity Indicators and Inputs**
-
-  
-
-**Optimal Childhood Indicators** 
-
-  
-
-Children are safe and secure where they live, learn and play.
-
-  
-
-Children are empowered to participate in their own protection and they are well- aware of the rights they have access to. 
-
-  
-
-Children showcase a clear understanding of the due process to follow to highlight any discomfort or potential safety concern.
-
-  
-
-Children are able to articulate their problems and suggest solutions; to be actively involved in securing their rights at the institutions. 
-
-  
-
-Children freely express their thoughts and sentiments without fear of retaliation from staff and caregivers.
-
-  
-
-Children pursue spiritual practices and religious rituals in accordance with their chosen faith without any fear of discrimination. 
-
-  
-
-  
-
-**Current Reality**
-
-  
-
-**From Literature and from the Field**
-
-  
 
 The National Crime Records Bureaurecorded 1,968 crimes in 2019, involving as many as 2,699 child victims in institutional care in India.
 
