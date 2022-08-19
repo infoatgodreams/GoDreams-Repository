@@ -7,8 +7,12 @@
         "id": "2ee5f84be8895c71",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Guardians CAP Repository.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Guardians CAP Repository.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Guardians CAP Repository.md"
+              }
             }
           },
           {
@@ -116,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Guardians CAP Repository.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
