@@ -1,112 +1,44 @@
-**Introduction to the Domain**
+[[Family Restoration & Alternative Care]]
 
-  
-
-  
-
+# Introduction to the Domain
 While CCIs serve as the final safety net for children in need of care and protection, the UN Guidelines on Alternative Care of Children suggest that children in institutional care should live in a family-based environment, when it is in their best interests for them to do so. 
-
-  
-
 This is achieved through family restoration, placement in a foster family, or legal adoption. Several countries have restructured existing childcare systems to include these alternate care models in conjunction with childcare institutions. 
 
-  
-
 The following explains the list of options available in alternative care for children in institutions:
+- **Permanent reintegration** into their original home, family, and community, for all purposes of care and protection.
+- **Adoption** is defined as the permanent placement of a child in a family, following which the rights and duties of biological parents are legally transitioned to the adoptive parent/s.
+- Fostered in care by **kinship** is the most common, informal arrangement of alternate care worldwide. It is typically managed without formal legal intervention. Kinship care often allows existing familial bonds to develop, keeps the children within their culture and community, and avoids the challenges associated with children being placed with unfamiliar families. However, informality of kinship care has associated risks due to its lack of documentation and monitoring. Families experiencing deep poverty may find that caring for an additional child is not possible or extremely difficult. 
+- **Fostered in care** by a non-family member, can play an important role in a situation where a child’s own family is unable to temporarily care for their child. Placement in foster care is typically short-term in nature, and foster carers generally receive assistance to meet the child’s needs which may include training, guidance, and financial assistance from the government.  Unlike adoption, a child in foster care remains the legal responsibility of the State and the biological parents.
 
-  
+## Overview of Restoration in Child Care Institutions
 
-**Permanent reintegration** into their original home, family, and community, for all purposes of care and protection.
+Given that the financial health and safety of families of origin from low-income communities can be turbulent, the decision to restore children from institutions, back with their families needs to be carefully considered, and a multi-step preparatory process is necessary to act in the best interests of the child. In India, this process is laid out in the JJ Act for restoration of a child with the family and it is extensive, including the assessment of the family’s current capabilities to provide for the child, preparing a care plan for the child, and following up on how the child is doing post-reintegration with their families.  Nascent research emerging from African countries has shown that children from institutions restored in their families can sometimes experience a number of challenges, including threats to their physical safety, inadequate living conditions, educational disruption, and stigma. 
 
-  
+  From observational insights and existing literature, the following are a few factors that influence the quality of restoration outcomes in institutional care:
 
-**Adoption** is defined as the permanent placement of a child in a family, following which the rights and duties of biological parents are legally transitioned to the adoptive parent/s.
+- **Variation** in quality of care in families poses a challenge to institutions because standardization of protocols is harder when the backgrounds of families, socioeconomic contexts, and environments tend to vary widely. Care needs to be stable and supportive, and assessing care is often complex and time-consuming. 
+- **Parents & Family Resources:** As in many aspects of child development, the educational status of parents, family income, family structure, and access to resources can influence the outcomes of children being restored into families. In India, low-income families sometimes struggle to provide essential resources to children, putting them at higher risk of poor developmental outcomes. 
+- **Under-resourced institutions** without trained staff for restoration do not often have the bandwidth for the preparation of children, families, and communities to encourage reintegration. Each child’s case requires a customized approach, and institutions need to invest significant resources into restoration. 
+- **Systemic capacity issues** in the childcare sector make restoration a difficult undertaking at scale because of its individualized and customized nature.
 
-  
 
-Fostered in care by **kinship** is the most common, informal arrangement of alternate care worldwide. It is typically managed without formal legal intervention. Kinship care often allows existing familial bonds to develop, keeps the children within their culture and community, and avoids the challenges associated with children being placed with unfamiliar families. However, informality of kinship care has associated risks due to its lack of documentation and monitoring. Families experiencing deep poverty may find that caring for an additional child is not possible or extremely difficult. 
+## Stakeholders
 
-  
+- In institutions, the attitudes and processes set in place for encouraging familial relationships and potential restoration are dependent on the beliefs of the leadership. The leadership also set the messaging for how staff discusses parents and families with children in care. Often, the number of calls to parents and family visits are pre-determined by the leadership too.
+- Caseworkers and social workers in institutions have the day-to-day responsibility to communicate with and follow up with families of children in institutions. They create context about the background of the family, safety risks for when children visit their families and help prepare families for their children visiting them or in cases of reintegration. They act as the link between the institution and the children. Social workers are also expected to do home visits and social investigations for children in care.
+- Children and families have somewhat strained relationships, leading to complex issues of trauma and attachment. Mental health staff need to be trained to help children navigate these emotions without any disruption to their daily lives and any behavioral difficulties. 
+- The family and parents play an important role in the lives of their children, mainly influenced by their involvement in their children’s lives. Families ideally need to keep in touch with the children, offering support and emotional security in their relationships. Their continuous involvement can also make transitions easier, when children leave institutions or if they are ready to be restored to their families.
+- The role of the community is in accepting children from institutions back into their families, encouraging them to be a part of the community’s activities, rituals, and events. Sometimes, the mindsets and beliefs of neighbors, peers, and members of the community can stigmatize children returning from institutions, affecting post-restoration outcomes. Thus the community needs to be prepared/sensitized too. 
 
-**Fostered in care** by a non-family member, can play an important role in a situation where a child’s own family is unable to temporarily care for their child. Placement in foster care is typically short-term in nature, and foster carers generally receive assistance to meet the child’s needs which may include training, guidance, and financial assistance from the government.  Unlike adoption, a child in foster care remains the legal responsibility of the State and the biological parents.
 
-  
+# Family Restoration Practices and Outcomes
 
-  
-
-**Overview of Restoration in Child Care Institutions**
-
-  
-
-Given that the financial health and safety of families of origin from low-income communities can be turbulent, the decision to restore children from institutions, back with their families needs to be carefully considered, and a multi-step preparatory process is necessary to act in the best interests of the child. In India, this process is laid out in the JJ Act for restoration of a child with the family and it is extensive, including the assessment of the family’s current capabilities to provide for the child, preparing a care plan for the child, and following up on how the child is doing post-reintegration with their families. 
-
-  
-
-Nascent research emerging from African countries has shown that children from institutions restored in their families can sometimes experience a number of challenges, including threats to their physical safety, inadequate living conditions, educational disruption, and stigma. 
-
-  
-
-From observational insights and existing literature, the following are a few factors that influence the quality of restoration outcomes in institutional care:
-
-  
-
-**Variation** in quality of care in families poses a challenge to institutions because standardization of protocols is harder when the backgrounds of families, socioeconomic contexts, and environments tend to vary widely. Care needs to be stable and supportive, and assessing care is often complex and time-consuming. 
-
-  
-
-​**Parents & Family Resources:** As in many aspects of child development, the educational status of parents, family income, family structure, and access to resources can influence the outcomes of children being restored into families. In India, low-income families sometimes struggle to provide essential resources to children, putting them at higher risk of poor developmental outcomes. 
-
-  
-
-**Under-resourced institutions** without trained staff for restoration do not often have the bandwidth for the preparation of children, families, and communities to encourage reintegration. Each child’s case requires a customized approach, and institutions need to invest significant resources into restoration. 
-
-  
-
-**Systemic capacity issues** in the childcare sector make restoration a difficult undertaking at scale because of its individualized and customized nature.
-
-  
-
-  
-
-**Stakeholders** 
-
-  
-
-In institutions, the attitudes and processes set in place for encouraging familial relationships and potential restoration are dependent on the beliefs of the leadership. The leadership also set the messaging for how staff discusses parents and families with children in care. Often, the number of calls to parents and family visits are pre-determined by the leadership too.
-
-  
-
-Caseworkers and social workers in institutions have the day-to-day responsibility to communicate with and follow up with families of children in institutions. They create context about the background of the family, safety risks for when children visit their families and help prepare families for their children visiting them or in cases of reintegration. They act as the link between the institution and the children. Social workers are also expected to do home visits and social investigations for children in care.
-
-  
-
-Children and families have somewhat strained relationships, leading to complex issues of trauma and attachment. Mental health staff need to be trained to help children navigate these emotions without any disruption to their daily lives and any behavioral difficulties. 
-
-  
-
-The family and parents play an important role in the lives of their children, mainly influenced by their involvement in their children’s lives. Families ideally need to keep in touch with the children, offering support and emotional security in their relationships. Their continuous involvement can also make transitions easier, when children leave institutions or if they are ready to be restored to their families.
-
-  
-
-The role of the community is in accepting children from institutions back into their families, encouraging them to be a part of the community’s activities, rituals, and events. Sometimes, the mindsets and beliefs of neighbors, peers, and members of the community can stigmatize children returning from institutions, affecting post-restoration outcomes. Thus the community needs to be prepared/sensitized too. 
-
-  
-
-  
-
-**Family Restoration Practices and Outcomes**
-
-  
-
-**Preparing Children for Restoration** 
-
-  
+## Preparing Children for Restoration
 
 For children in institutions to move back to their families of origin or to family-based care, it is a complex transition period because any change in a primary caregiver is difficult for children to process. Comprehensive planning and regular visitation must be a part of the process to improve outcomes of restoration and to help children feel confident about this change. 
 
-  
 
-**Optimal Practices for Preparing Children for Restoration**
+### Optimal Practices for Preparing Children for Restoration
 
   
 

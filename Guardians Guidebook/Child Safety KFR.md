@@ -243,402 +243,143 @@ _You can find the official recommendations for child safety from the Juvenile Ju
 - The inspection of the facilities housing children in the district shall be carried out at least once every three months.
 - The District Inspection Committee shall submit the report of the findings to the District Child Protection Unit or the State Government and shall also make suggestions for improvement and development of the Child Care Institutions in accordance with the provisions of the Act and the rules made thereunder.
 - The District Inspection Committee shall interact with the children during the visits to the institution to determine their well-being and to elicit their feedback.
-
-  
-
-- The District Child Protection Unit shall take necessary follow up action on the report of the District Inspection Committee. 
-
-  
+- The District Child Protection Unit shall take necessary follow up action on the report of the District Inspection Committee.
 
 Procedure in cases of offences against children (p.216, pt. 54, Chapter-VIII, Offences against children): 
-
-  
-
 - A complaint of an offence against a child may be made by child, family, guardian, friend or teacher of the child, childline services or any other individual or institutions or organisation concerned.
-
-  
-
 - On receipt of information in respect of a cognizable offence against a child, the police shall register a First Information Report (FIR) forthwith.
-
-  
-
 - Where any offence under the Act is committed by a Child Care Institution including a Specialised Adoption Agency, the Committee or the Board as the case may be, may pass appropriate orders for placing the children already placed with the Child Care Institution or the Specialised Adoption Agency in any other Child Care Institution or Specialised Adoption Agency and recommending the cancellation of the registration and withdrawal of recognition of such institution or agency.
-
-  
-
 - Where an FIR is registered against a person working with a Child Care Institution including Specialised Adoption Agency for any offence under the Act and the rules, such a person shall be debarred from working directly with the children during the pendency of the criminal case.
-
-  
-
 - Where a person has been dismissed from service or is convicted of an offence under the Act and the rules, he shall stand disqualified from any further appointment.
-
-  
-
 - In no case a child shall be placed in a police lock-up or lodged in a jail. 
-
-  
-
 - Procedure in case of offence under section 75 of the Act (p.218, Chapter-VIII, Offences against children):Where an act of cruelty to a child takes place in a Child Care Institution, or a school, or in any other place of care and protection to the child, considering the best interest of the child, the Board or the Committee or the Children’s Court after consultation with the child and or parents or guardians shall provide alternative rehabilitation for the child.
-
-  
-
 - A child covered under the Act requiring immediate medical attention shall be provided with required medical care and treatment by a hospital or clinic or facility upon a direction of the Board or the Committee made in this regard, free of cost. A failure to respond immediately resulting in serious injury, irreversible damage or threat to life or death shall be deemed to be wilful neglect of the child and shall tantamount to cruelty under section 75 of the Act on the direction of the Board or the Committee after a detailed inquiry. 
-
-  
 
 Procedure in case of offence under section 77 of the Act (p.219, Chapter-VIII, Offences against children):
 
-  
-
 - In case any child is found to have been administered intoxicating liquor or narcotic drugs or psychotropic substances or tobacco products in a Child Care Institution, the child shall be produced immediately before the Board or the Committee, except in such cases where the child is not in a position to be produced before the Board or the Committee and requires immediate medical attention. 
 
-  
 
 Procedure in case of offence under section 78 of the Act (p.219, Chapter-VIII, Offences against children):
-
-  
-
 - Whenever a child is found to be vending, carrying, supplying or smuggling an intoxicating liquor, narcotic drug, or psychotropic substance, the police shall enquire how and from whom the child came into possession of the intoxicating liquor, narcotic drug, or psychotropic substance and shall register an FIR forthwith.
-
-  
-
 - A child who is alleged to have committed an offence under section 78 of the Act shall be produced before the Board, which may transfer the child to the Committee, if the child is also in need of care and protection.
 
-  
-
 Procedure in case of offence under section 82 of the Act (p.220, Chapter-VIII, Offences against children):
-
-  
-
 - A complaint of subjecting a child to corporal punishment under section 82 of the Act may be made by the child or any one on his behalf.
-
-  
-
 - Every Child Care Institution shall have a complaint box at a prominent place in the building to receive complaints of corporal punishment.
-
-  
-
 - The complaint box will be opened in the presence of a representative of the District Child Protection Unit once a month.
-
-  
-
 - All such complaints shall be forthwith presented before the Judicial Magistrate of First Class nearest to the Child Care Institution and copies thereof shall be forwarded to the Board or the Committee.
-
-  
-
 - The Judicial Magistrate shall get the case investigated by the Child Welfare Police Officer concerned and take appropriate measures on receipt of a complaint.
-
-  
-
 - The Board or the Committee may consider transferring the child to another Child Care Institution in the best interest of the child who has made the complaint or who has been subjected to corporal punishment.
-
-  
-
 - Where a person has been dismissed from service or debarred from working directly with children or is convicted of an offence of subjecting a child to corporal punishment under sub-section (2) of section 82 of the Act, he shall stand disqualified from any further appointment under the Act and the rules.
 
   
 
 Staff Discipline (p.226, Chapter-IX, Miscellaneous):
-
-  
-
 - Any dereliction of duty, violation of rules and orders shall be viewed seriously and strict disciplinary action shall be taken or recommended by the Person-in-charge against the erring officials.
-
-  
-
 - No staff of the Child Care Institution shall be present at an unauthorised location within the Child Care Institution.
-
-  
-
 - No staff of the Child Care Institution shall bring any prohibited article into the Institution.
-
-  
-
 - No staff of the Child Care Institution shall consume any addictive substances like liquor, bidi, cigarette, tobacco or any other psychotropic substance within the premises of the Child Care Institution, whether on duty at the relevant time or not or shall report for duty under the influence of any intoxicating substance.
-
-  
-
 - No staff of the Child Care Institution shall sell or let for gain any article to any child or have any business dealings with such child or his parent or guardian.
-
-  
-
 - No staff of the Child Care Institution shall use any abusive or vulgar language or discuss age inappropriate topics or watch pornographic material or read obscene literature in the premises of the Child Care Institution. 
 
-  
 
 Security measures (p.227, Chapter-IX, Miscellaneous):
-
-  
-
 - Adequate number of security personnel shall be engaged in every Child Care Institution keeping in mind the category of children housed in the Child Care Institution, age group of children and the purpose of the Child Care Institution and the risk factor to and from the child.
-
-  
-
 - While engaging security personnel, preference shall be given to ex-servicemen recruited through the Directorate General of Resettlement or agencies recommended by them.
-
-  
-
 - In Child Care Institutions housing girls, female security guards would be provided for the security inside the Child Care Institution and male security guards may be engaged for the security of the Child Care Institution from outside.
-
-  
-
 - Security personnel should also be available in reserve for any emergency situation. 
-
-  
 
 The Person-in-charge shall ensure that appropriate security measures are employed at all times, including the following (p.227, Chapter-IX, Miscellaneous):
 
-  
-
 - There shall be sufficient number of guards at all times in different shifts to be posted at the points to be identified by the Person-in-charge in consultation with security in-charge and the Department.
-
-  
-
 - Any child, who complains of a medical problem or any other problem at night, shall report to the caregiver concerned. The caregiver shall take such necessary steps as may be required and in case of emergency shall inform the medical officer concerned or the Person-in-charge as the need may be, who shall immediately take appropriate steps.
-
-  
-
 - A duty roster shall be prepared and displayed at some prominent place in the premises of the Child Care Institution by the Person-in-charge. 
-
-  
-
 - Every caregiver or other staff of the Home, if he comes to know of any incident or probability of unrest amongst the children, shall bring the same to the notice of the Person-in-charge without any loss of time, who shall take necessary steps as the situation demands and shall inform the Board or the Committee of such information or incident as well as the steps taken by him, in writing.
-
-  
-
 - The Person-in-charge shall make surprise visits to the Child Care Institution during the night as frequently as possible, but not less than once a week. He shall make a record of the timings of his visit and also note his observations in the register maintained by him in that regard.
-
-  
-
 - In a case of disturbance outside the Child Care Institution, the shift in-charge shall immediately inform the police station concerned.
-
-  
-
 - In a case of violence or disturbance inside the Child Care Institution, the shift in-charge shall take assistance of the police with the permission of the Person-in-charge. The shift in-charge shall first issue a warning to the children.
-
-  
-
 - In case of a natural disaster or fire or any such calamity, the shift in-charge shall take suitable steps for evacuation and safety of the children as per the Disaster Management Protocol as developed by the State Disaster Management Authority for Child Care Institutions.
-
-  
-
 - To prepare the officers, children and guards to follow the above steps, a practice drill shall be held once a month, without previous notice by the Person-in-charge.
-
-  
-
 - Closed Circuit Television cameras may be installed at all key points such as all entry and exit points to the Child Care Institution, reception, corridors, kitchen, pantry or store room, dormitories, entry and exit points of the washrooms with due regard to the privacy and dignity of the children.
 
   
 
-Adequate number of scanners and metal detectors may be provided in every Child Care Institution.
+- Adequate number of scanners and metal detectors may be provided in every Child Care Institution.
 
-  
-
-Searches and Seizures (p.227, Chapter-IX, Miscellaneous)
-
-The Person-in-charge or other authorised functionary of the Home may conduct searches if required, and seize prohibited articles, if found.
-
-  
+	- Searches and Seizures (p.227, Chapter-IX, Miscellaneous)
+	- The Person-in-charge or other authorised functionary of the Home may conduct searches if required, and seize prohibited articles, if found.
 
 The procedure in case of seizures shall be as under:
-
-  
-
 - any prohibited article found during the search, shall be seized by the Person-in-charge and a list of such seizure prepared;
-
-  
-
-- in case of arms, weapons, articles capable of being used as weapons or tools for criminal activities or addictive substances being found from a child or dormitory, the Person-in-charge shall conduct an inquiry to ascertain the presence of such articles and the persons responsible for such act;
-
-  
-
+- in case of arms, weapons, articles capable of being used as weapons or tools for criminal activities or addictive substances being found from a child or dormitory, the Person-in-charge shall conduct an inquiry to ascertain the presence of such articles and the persons responsible for such act
 - the Person-in-charge shall furnish his report in this respect to the police and inform the Board or the Committee at the earliest;
-
-  
-
 - the Board may initiate appropriate action upon such report or on the report forwarded by the Committee for disposal of the seized articles;
-
-  
-
 - the State Government shall take appropriate action against the person responsible, if such person is an officer of the Child Care Institution or against the agency through whom the said person has been engaged or the Child Care Institution;
-
-  
-
 - the child responsible shall be dealt with in accordance with the Act and the rules made thereunder.
-
-  
-
 - All the articles seized shall be destroyed or disposed of having regard to the nature of the articles, on the orders of the competent court, after being satisfied that the seized articles are not required in any inquiry or departmental action against any officer or in any criminal investigation and proceedings.
-
-  
-
-Manner of dealing with unacceptable behaviour (p.231, Chapter-IX, Miscellaneous): The action taken shall be commensurate with the nature and degree of violation and the age of the child and may be any of the following:
-
-  
-
-- formal warning;
-
-  
-
-- assignment of house-keeping tasks;
-
-  
-
-- imposition writing i.e. writing a number of times that he shall not repeat the behaviour; and
-
-  
-
-- forfeiture of privileges viz. permission to watch television, permission to go for outdoor activity, sports and recreation and other preferred activity;
-
-  
-
-- No child shall be subject to corporal punishment or any mental harassment including humiliating behaviour affecting the dignity of the child.
-
-  
+- Manner of dealing with unacceptable behaviour (p.231, Chapter-IX, Miscellaneous): The action taken shall be commensurate with the nature and degree of violation and the age of the child and may be any of the following:
+	- formal warning;
+	- assignment of house-keeping tasks;
+	- imposition writing i.e. writing a number of times that he shall not repeat the behaviour; and
+	- forfeiture of privileges viz. permission to watch television, permission to go for outdoor activity, sports and recreation and other preferred activity;
+	- No child shall be subject to corporal punishment or any mental harassment including humiliating behaviour affecting the dignity of the child.
 
 Prohibited Articles: No person shall bring into the Child Care Institution the following prohibited articles, namely(p.232, Chapter-IX, Miscellaneous):
-
-  
-
 - intoxicants of any description, psychotropic substances, liquor, ganja, bhang, opium, smack etc;
-
-  
-
 - all explosives, poisonous substances, acid and chemicals, whether fluid or solid of whatever description;
-
-  
-
 - all arms, ammunition and weapons, knives and cutting implements of every kind and articles which are capable of being used as a weapon of whatever descriptio
-
-  
-
 - all obscene matter;
-
-  
-
 - string, rope, chains and all materials which are capable of being converted into string or rope or chains, of whatever description;
-
-  
-
 - wood, bamboo, club, stick, ladder, bricks, stones and earth of every description;
-
-  
-
 - playing cards or other implements for gambling;
-
-  
-
 - tobacco items, pan masala or similar item;
-
-  
-
 - medicine that has not been specifically prescribed;
-
-  
-
 - any other article specified in this behalf by the State Government by a general or special order
-
-  
-
 - All bullion, metal, coin, jewellery, ornaments, currency notes, securities and articles of value of every description including electronic items such as mobile phone, digital camera, i-pad, etc,. shall be deposited in safe custody. The Person-in-charge shall ensure that every child received in the institution is searched, his personal belongings inspected and money or any valuables found with the child is kept in the safe custody of the Person-in-charge. In case of search of a female child, the search shall be carried out by female staff only. In every institution, a record of money, valuables and other articles found with a child shall be maintained in the “Personal Belongings Register” which shall contain a description of the articles.
 
   
 
 Visits to and communication with children (p.235, Chapter-IX, Miscellaneous):
 
-  
-
 - Every child in the Child Care Institution may be permitted to have one meeting in a week with his relatives.
-
-  
-
 - Provided that in special cases, where parents or guardians have travelled a long distance from another State or District, the Person-in-charge may allow the parents or guardians entry into the premises and a meeting with their children on other days on confirmation of their identity and they being reported not to have been involved in subjecting the child to abuse and exploitation.
-
-  
-
 - No meeting shall be permitted with the parent or guardian or relatives where such visitors have been found to be involved in subjecting the child to violence, abuse and exploitation or carrying any prohibited articles, except with the express permission granted by the Board or the Committee or the Children’s Court or when such meeting has been specifically directed by the counsellor of the child.
-
-  
-
 - Every person desiring to meet the child shall, before the meeting, disclose his name and address with proof, which shall be noted in the visitors register and signed by the visitor. Copy of the photo identity card containing the address and a photograph of the visitor to be taken before the meeting, shall be retained by the institution. If the visitor refuses to disclose his particulars, he shall be denied the meeting.
-
-  
-
 - The visitor shall, submit himself for a search at the main gate, female visitors shall be searched by female staff only.
-
-  
-
 - Every meeting shall take place in the presence of the Child Welfare Officer or Case Worker or Probation Officer of the Child Care Institution, who shall be responsible for any irregularity that occurs and who shall be so placed that he is able to see and to prevent any objectionable or prohibited article being passed between the parties.
-
-  
-
 - Every child shall be carefully searched before and after the meeting in the presence of visitor. The child should not be having anything with him before he goes for the meeting.
-
-  
 
 - If any objectionable or prohibited article is found in the search conducted before the meeting:
 
-i) the said article shall be seized;
-
-ii) the Person-in-charge shall conduct an inquiry to know the identity of the person(s) responsible for the article reaching the child;
-
-iii) if the person(s) responsible are from the staff of the Child Care Institution, appropriate action will be initiated against them; and
-
-iv) a detailed report of the inquiry and its result shall be forwarded to the Department and the Board or court of competent criminal jurisdiction.
+	i) the said article shall be seized;
+	ii) the Person-in-charge shall conduct an inquiry to know the identity of the person(s) responsible for the article reaching the child;
+	iii) if the person(s) responsible are from the staff of the Child Care Institution, appropriate action will be initiated against them; and
+	iv) a detailed report of the inquiry and its result shall be forwarded to the Department and the Board or court of competent criminal jurisdiction.
 
   
 
 - If any objectionable or prohibited article is found in the search conducted after the meeting:
 
-i) the article shall be seized;
-
-ii) in case of any illegal article being found warranting legal action, the article and the visitor shall be detained and the police informed. The visitor and such article shall be handed over to the police;
-
-iii) a report of such visitor shall be prepared and placed in the case file of the child;
-
-iv) a report of the incident shall be forwarded to the Board or court of competent criminal jurisdiction; and copy of the report shall be placed in the case file of the child. 
+	i)the article shall be seized;
+	ii)in case of any illegal article being found warranting legal action, the article and the visitor shall be detained and the police informed. The visitor and such article shall be handed over to the police;
+	iii) a report of such visitor shall be prepared and placed in the case file of the child;
+	iv) a report of the incident shall be forwarded to the Board or court of competent criminal jurisdiction; and copy of the report shall be placed in the case file of the child. 
 
   
 
 Abuse and Exploitation of the Child (p.237, Chapter-IX, Miscellaneous):
 
-  
-
 - Every institution shall evolve a system of ensuring that there is no abuse, neglect and maltreatment and shall include the staff who is aware of what constitutes abuse, neglect and maltreatment, and their early indication and how to respond to these abuses.
-
-  
-
 - In the event of any physical, sexual or emotional abuse, including neglect of children in an institution by those responsible for care and protection, the following action shall be taken namely:
 
-  
-
-the incidents of abuse and exploitation shall be reported by any staff member of the institution immediately to the Person-in-charge on receiving such information;
-
-  
-
-when an allegation of physical, sexual or emotional abuse comes to the knowledge of the Person-in charge, a report shall be placed before the Board or Committee, who in turn shall, order for special investigation;
-
-  
-
-the Board or Committee shall direct the local police station or Special Juvenile Police Unit to register a case, take due cognizance of such incidents and conduct necessary investigation;
-
-  
-
-the Board or Committee shall take necessary steps to ensure completion of inquiry and provide legal aid as well as counselling to the child victim;
-
-  
-
-the Board or Committee shall transfer such a child to another institution or place of safety or fit person, as the case may be;
-
-  
-
-the Person-in-charge of the institution shall also inform the Chairperson of the Management Committee and place a copy of the report of the incident and subsequent action taken in its next meeting;
-
-  
-
-in the event of any other crime committed in respect of children in institutions, the Board or Committee shall take cognizance and arrange for necessary investigation to be carried out by the local police or Special Juvenile Police Unit;
-
-  
+	- the incidents of abuse and exploitation shall be reported by any staff member of the institution immediately to the Person-in-charge on receiving such information
+	- when an allegation of physical, sexual or emotional abuse comes to the knowledge of the Person-in charge, a report shall be placed before the Board or Committee, who in turn shall, order for special investigation;
+	- the Board or Committee shall direct the local police station or Special Juvenile Police Unit to register a case, take due cognizance of such incidents and conduct necessary investigation;
+		- the Board or Committee shall take necessary steps to ensure completion of inquiry and provide legal aid as well as counselling to the child victim;
+		- the Board or Committee shall transfer such a child to another institution or place of safety or fit person, as the case may be;
+		- the Person-in-charge of the institution shall also inform the Chairperson of the Management Committee and place a copy of the report of the incident and subsequent action taken in its next meeting;
+		- in the event of any other crime committed in respect of children in institutions, the Board or Committee shall take cognizance and arrange for necessary investigation to be carried out by the local police or Special Juvenile Police Unit;
 
 - the Board or Committee may consult Children’s Committee setup in each institution to enquire into the fact of abuse and exploitation as well as seek assistance from voluntary organisations, child rights experts, mental health experts or crisis intervention centres in dealing with matters of abuse and exploitation of children in an institution. 
 
@@ -646,40 +387,15 @@ in the event of any other crime committed in respect of children in institutions
 
 Inquiry in case of a Missing Child (p.249, Chapter-IX, Miscellaneous):
 
-  
-
 - A missing child is a child, whose whereabouts are not known to the parents, legal guardian or any other person or institution legally entrusted with the custody of the child, whatever may be the circumstances or causes of disappearance, and shall be considered missing and in need of care and protection until located or his safety and well-being established.
-
-  
-
 - The police shall inform the Child Welfare Police Officer and forward the FIR to the Special Juvenile Police Unit for immediate action for tracing the child.
-
-  
-
 - Where a child cannot be traced within a period of four months, the investigation of the case shall be transferred to the Anti Human Trafficking Unit in the District which shall make reports every three months to the District Legal Services Authority regarding the progress made in the investigation.
 
-  
-
 - When a child is traced:
-
-  
-
-he shall be produced before the Board or the Committee or the Children’s Court, as the case may be, for appropriate directions;
-
-  
-
-the police shall send a report to the District Legal Services Authority which shall provide counselling and support services to the child and the family; and
-
-  
-
-the police shall conduct an inquiry whether the child has been subjected to any offence under the Act or any other law and if so, proceed accordingly. 
-
-  
-
-  
+	- he shall be produced before the Board or the Committee or the Children’s Court, as the case may be, for appropriate directions;
+	- the police shall send a report to the District Legal Services Authority which shall provide counselling and support services to the child and the family; and
+	- the police shall conduct an inquiry whether the child has been subjected to any offence under the Act or any other law and if so, proceed accordingly. 
 
 Non-Compliance of the Act and the Rules (p.249, Chapter-IX, Miscellaneous)
 
-  
-
-Any officer/institution, statutory body etc., who fails to comply with the provisions of the Act and the Rules framed thereunder, the State Government may take action against such officer/ institution, statutory body etc. after due inquiry and simultaneously make alternative arrangements for discharge of functions for effective implementation of the Act.
+- Any officer/institution, statutory body etc., who fails to comply with the provisions of the Act and the Rules framed thereunder, the State Government may take action against such officer/ institution, statutory body etc. after due inquiry and simultaneously make alternative arrangements for discharge of functions for effective implementation of the Act.
