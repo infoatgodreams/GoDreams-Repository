@@ -86,328 +86,103 @@ From observational insights and existing literature, the following are a few fac
 
 ## Current Reality
 
-**From Literature and from the Field**
+### From Literature and from the Field
 
-The National Crime Records Bureaurecorded 1,968 crimes in 2019, involving as many as 2,699 child victims in institutional care in India.
-
-  
-
-Adolescents exposed to institutional care were significantly more at risk of physical abuse than those in foster care or the general population.
-
-  
-
-Children in institutions are also more vulnerable to incidents of sexual assault and sexual abuse, as reported by several indicators across the globe. 
-
-  
-
-Children in institutions with experiences of trauma often reported being unable to meet developmental milestones in cognition and social integration. 
-
-  
-
-Children in institutions often report an inability to report cases of abuse and violence in the fear of retaliation from other caregivers or peers.
+- The National Crime Records Bureaurecorded 1,968 crimes in 2019, involving as many as 2,699 child victims in institutional care in India.
+- Adolescents exposed to institutional care were significantly more at risk of physical abuse than those in foster care or the general population.
+- Children in institutions are also more vulnerable to incidents of sexual assault and sexual abuse, as reported by several indicators across the globe. 
+- Children in institutions with experiences of trauma often reported being unable to meet developmental milestones in cognition and social integration. 
+- Children in institutions often report an inability to report cases of abuse and violence in the fear of retaliation from other caregivers or peers.
+- Children are more accident and injury prone given improper maintenance of playgrounds and gaps in the infrastructure of the institution.
+- Corporal punishment as a tool to discipline children is prevalent in institutions. 
+- Reports of children with substance addiction disorders and alcohol abuse disorders have been noticed.
+- Peer-to-peer violence and bullying have been reported often.
+- Children do not report instances of violence and discrimination, worried by the potential consequences of reporting. 
+- Children do not recognize their own rights and have little to no understanding of what they are entitled to
+- Children sometimes discuss their time at the institution negatively, describing faults in caregiving and the prevalence of violence.
+- Children are not always able to avail of supervision for movement outside of the CCI etc. They exhibit lower awareness of potential safety concerns because they’ve rarely been exposed in safe circumstances to the external environment
+- The language used by children in describing the CCI can sometimes indicate that the child feels the CCI is not a safe space. 
 
   
-
-Children are more accident and injury prone given improper maintenance of playgrounds and gaps in the infrastructure of the institution.
-
-  
-
-Corporal punishment as a tool to discipline children is prevalent in institutions. 
-
-  
-
-Reports of children with substance addiction disorders and alcohol abuse disorders have been noticed.
-
-  
-
-Peer-to-peer violence and bullying have been reported often.
-
-  
-
-Children do not report instances of violence and discrimination, worried by the potential consequences of reporting. 
-
-  
-
-Children do not recognize their own rights and have little to no understanding of what they are entitled to.
-
-  
-
-Children sometimes discuss their time at the institution negatively, describing faults in caregiving and the prevalence of violence.
-
-  
-
- Children are not always able to avail of supervision for movement outside of the CCI etc. They exhibit lower awareness of potential safety concerns because they’ve rarely been exposed in safe circumstances to the external environment.
-
-  
-
-The language used by children in describing the CCI can sometimes indicate that the child feels the CCI is not a safe space. 
-
-  
-
-  
-
-**Suggested Childhood Inputs**
+# Suggested Childhood Inputs
 
 _You can find the official recommendations for child safety from the Juvenile Justice Act attached in the annexure of this document_
 
-  
+- The institution needs to be free from chemical, noise, air, and water pollution. 
+- The institution needs to be free from hazardous physical structures like broken playground equipment, unprotected wells, open sewers, improper waste disposal mechanism, etc
+- The institution should have sufficient space for all children, segregated by age and gender. 
+- A stipulated number of toilets and bathrooms need to be provided.
+- Privacy of the children must be considered while designing spaces in the institution. Children need to have their own private space that is not open to external visitors at the institution. 
+- Children’s committees need to be formed and also be highly participative and active in CCI management. 
+- The provision of security guards needs to be in accordance with the number of children and in line with the demands of the JJ Act.
+- Children should have an adequate number of beds and rotate bed allocation regularly-weekly or fortnightly.
+- Children need to have boxes for anonymous complaints with a clear mechanism to be opened and addressed by the leadership of the institution. 
+- Child rights training needs to be organized regularly to inform children of their entitled rights accorded to them.
+- Children need access to spiritual services and religious rituals per their interest.
+- All relatives and guardians need to sign the register and follow requisite verification protocols before taking the children out of the institution.
+- All visitors must be accompanied by staff and a security guard mandatorily.
+- Effective caregiving needs to be a combination of setting boundaries and structures and providing autonomy to children.
+- Children are encouraged to ask questions about rules and have a discussion on why rules are important. 
+- Children are taught critical thinking that allows them to decipher what is right and what is wrong, encouraging the expression of their thoughts and individual identity.
+- Caregiver training is needed on modes of disciplining without violence or abuse.
+- Children are allowed to have reflective, restorative spaces to discuss abuse and issues in the institution.
 
-The institution needs to be free from chemical, noise, air, and water pollution. 
+## Current Reality
 
-  
-
-The institution needs to be free from hazardous physical structures like broken playground equipment, unprotected wells, open sewers, improper waste disposal mechanism, etc
-
-  
-
-The institution should have sufficient space for all children, segregated by age and gender. 
-
-  
-
-A stipulated number of toilets and bathrooms need to be provided.
-
-  
-
-Privacy of the children must be considered while designing spaces in the institution. Children need to have their own private space that is not open to external visitors at the institution. 
-
-  
-
-Children’s committees need to be formed and also be highly participative and active in CCI management. 
-
-  
-
-The provision of security guards needs to be in accordance with the number of children and in line with the demands of the JJ Act.
-
-  
-
-Children should have an adequate number of beds and rotate bed allocation regularly-weekly or fortnightly.
-
-  
-
-Children need to have boxes for anonymous complaints with a clear mechanism to be opened and addressed by the leadership of the institution. 
-
-  
-
-Child rights training needs to be organized regularly to inform children of their entitled rights accorded to them.
+### From Literature and from the Field
+- In many institutions, group sizes tend to be large and the caregiver-to-child ratio does not enable individual attention.
+- There is a high turnover rate of caregivers at the institution, with caregivers working long shifts and difficult hours, putting children at risk for neglect and emotional abuse. 
+- When caregivers perform their caregiving duties, they are likely to focus on immediate logistical needs than sensitivity, or responsiveness to individual children’s emotional needs or exploratory initiatives.
+- Children sometimes report being physically hurt, beaten, and abused by staff and report witnessing the abuse of other children by staff within institutions.
+- Feedback systems are often infrequent with few anonymous channels or third-party evaluators for input on existing child safety protocols. 
+- For children, training on safety is often limited to topics that discuss stranger danger but doesn’t always cover discussions about mechanisms to report challenges within the institution, either with staff or other children in care. 
+- Children in institutions are exposed to different adults in the community in the absence of caregivers, during large external events, or commuting to school. This may put smaller children at a higher risk for safety, requiring more vigilant supervision when children are in the presence of non-vetted adults. 
+- Background checks for staff are limited in scope and not always procedural, because the staff in institutions come from different parts of the country, often from difficult backgrounds of poverty and strained family situations. 
+- Institutions sometimes share private information about the children, including family background, incidents of trauma, and medical information of the children to donors, and this can breach the privacy and confidentiality of children in care.
+- In many institutions, children and staff are not always trained in implementable ways on their legal rights, responsibilities, duties, and ways for them to access these constitutional rights. 
+- Children are sometimes made to do physical labor and to perform physically demanding tasks of cleaning or repair work at the institution that is unsafe for them, and inappropriate for their age, as a form of disciplining and sometimes as a part of their routine responsibilities.
+- In cases of punishment and discipline, it’s been noticed that children may be  taunted and scolded with language that is not always trauma-appropriate or child-sensitive. 
+- Child participation in children’s committees and restorative practices is limited and if any, is often driven by compliance requirements. Moreover, the same children are often repeatedly selected for participation and representation in the children’s groups, preventing different voices from being heard. 
+- Conversations about sex and gender identities are not commonly encouraged in institutions, limiting children’s awareness of these topics and putting some of them at a greater risk for discrimination.
 
   
 
-Children need access to spiritual services and religious rituals per their interest.
+# Key excerpts from Research
+
+## From Literature
+
+- For children in care, the types of vulnerabilities include physical abuse, emotional abuse, neglect, sexual abuse, accidents, and emergencies. (Colton, 2002)
+- Child safety needs to be the responsibility of every single adult interacting with children. All adults need to be trained and informed on appropriate communication, child-sensitive behavior, and harmful practices to avoid. (Rainbow Foundation India, 2016)
+- Sensitively working with children involves a healthy combination of creating structures, routines, and boundaries while honoring the autonomy of the child. Effective caregiving is a combination of setting boundaries and structures and providing autonomy. Extreme discipline may lead to defiance in children. (Cummings, 2018)
+- Child protection committees can be instituted to help enforce prevention measures, improve awareness in the institution, and help coordinate crisis response plans when children are harmed. (Catalysts for Social Action, 2020)
+- In an institution, child perpetrators of violence, maltreatment, and abuse need to be treated very sensitively. For example, sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Children need trained support from a counselor, and need to be trusted and listened to instead of conversations around guilt and punishment. (Vizard, 2013)
+- Privacy and confidentiality: In any external representation of the institution, caregivers need to ensure that the information does not disclose the identity and details such as name, address, locality, school, and a photograph of the child. (Kumar, 2015)
 
   
-
-All relatives and guardians need to sign the register and follow requisite verification protocols before taking the children out of the institution.
-
-  
-
-All visitors must be accompanied by staff and a security guard mandatorily.
-
-  
-
-Effective caregiving needs to be a combination of setting boundaries and structures and providing autonomy to children.
-
-  
-
-Children are encouraged to ask questions about rules and have a discussion on why rules are important. 
-
-  
-
-Children are taught critical thinking that allows them to decipher what is right and what is wrong, encouraging the expression of their thoughts and individual identity.
-
-  
-
-Caregiver training is needed on modes of disciplining without violence or abuse.
-
-  
-
-Children are allowed to have reflective, restorative spaces to discuss abuse and issues in the institution.
-
-  
-
-  
-
-**Current Reality** 
-
-  
-
-**From Literature and from the Field**
-
-  
-
-In many institutions, group sizes tend to be large and the caregiver-to-child ratio does not enable individual attention.
-
-  
-
-There is a high turnover rate of caregivers at the institution, with caregivers working long shifts and difficult hours, putting children at risk for neglect and emotional abuse. 
-
-  
-
-When caregivers perform their caregiving duties, they are likely to focus on immediate logistical needs than sensitivity, or responsiveness to individual children’s emotional needs or exploratory initiatives.
-
-  
-
-Children sometimes report being physically hurt, beaten, and abused by staff and report witnessing the abuse of other children by staff within institutions.
-
-  
-
-Feedback systems are often infrequent with few anonymous channels or third-party evaluators for input on existing child safety protocols. 
-
-  
-
-For children, training on safety is often limited to topics that discuss stranger danger but doesn’t always cover discussions about mechanisms to report challenges within the institution, either with staff or other children in care. 
-
-  
-
-Children in institutions are exposed to different adults in the community in the absence of caregivers, during large external events, or commuting to school. This may put smaller children at a higher risk for safety, requiring more vigilant supervision when children are in the presence of non-vetted adults. 
-
-  
-
-Background checks for staff are limited in scope and not always procedural, because the staff in institutions come from different parts of the country, often from difficult backgrounds of poverty and strained family situations. 
-
-  
-
-Institutions sometimes share private information about the children, including family background, incidents of trauma, and medical information of the children to donors, and this can breach the privacy and confidentiality of children in care.
-
-  
-
-In many institutions, children and staff are not always trained in implementable ways on their legal rights, responsibilities, duties, and ways for them to access these constitutional rights. 
-
-  
-
-Children are sometimes made to do physical labor and to perform physically demanding tasks of cleaning or repair work at the institution that is unsafe for them, and inappropriate for their age, as a form of disciplining and sometimes as a part of their routine responsibilities.
-
-  
-
-In cases of punishment and discipline, it’s been noticed that children may be  taunted and scolded with language that is not always trauma-appropriate or child-sensitive. 
-
-  
-
-Child participation in children’s committees and restorative practices is limited and if any, is often driven by compliance requirements. Moreover, the same children are often repeatedly selected for participation and representation in the children’s groups, preventing different voices from being heard. 
-
-  
-
-Conversations about sex and gender identities are not commonly encouraged in institutions, limiting children’s awareness of these topics and putting some of them at a greater risk for discrimination.
-
-  
-
-  
-
-**Key excerpts from Research**
-
-  
-
-**From Literature**
-
-  
-
-For children in care, the types of vulnerabilities include physical abuse, emotional abuse, neglect, sexual abuse, accidents, and emergencies. (Colton, 2002)
-
-  
-
-Child safety needs to be the responsibility of every single adult interacting with children. All adults need to be trained and informed on appropriate communication, child-sensitive behavior, and harmful practices to avoid. (Rainbow Foundation India, 2016)
-
-  
-
-Sensitively working with children involves a healthy combination of creating structures, routines, and boundaries while honoring the autonomy of the child. Effective caregiving is a combination of setting boundaries and structures and providing autonomy. Extreme discipline may lead to defiance in children. (Cummings, 2018)
-
-  
-
-Child protection committees can be instituted to help enforce prevention measures, improve awareness in the institution, and help coordinate crisis response plans when children are harmed. (Catalysts for Social Action, 2020)
-
-  
-
-In an institution, child perpetrators of violence, maltreatment, and abuse need to be treated very sensitively. For example, sexual abuse in the past may cause sexual dysfunction or excessive sexual acting out. Children need trained support from a counselor, and need to be trusted and listened to instead of conversations around guilt and punishment. (Vizard, 2013)
-
-  
-
-Privacy and confidentiality: In any external representation of the institution, caregivers need to ensure that the information does not disclose the identity and details such as name, address, locality, school, and a photograph of the child. (Kumar, 2015)
-
-  
-
-  
-
-**Literature References**
-
-  
+### Literature References
 
 - Colton, Matthew. (2002). Factors associated with Abuse in Residential Child Care Institutions. Children & Society. 16. 33 - 44. 10.1002/chi.683. 
-
-  
-
 - Child Protection Policy, Rainbow Foundation India (2016)
-
-  
-
 - Cummings, Katrina & Swindell, Jami. (2018). Using a Trauma-Sensitive Lens to Support Children with Diverse Experiences. Young Exceptional Children. 22. 109625061875689. 10.1177/1096250618756898. 
-
-  
-
 - Ota, Carrie & Dicarlo, Cynthia & Burts, Diane & Laird, Robert & Gioe, Cheri. (2006). The Impact of Training on Caregiver Responsiveness. Journal of Early Childhood Teacher Education. 27. 149-160. 10.1080/10901020600675117. 
-
-  
-
 - MacLean K. (2003). The impact of institutionalization on child development. Development and psychopathology, 15(4), 853–884. https://doi.org/10.1017/s0954579403000415.
-
-  
-
 - Enabling Children’s Right to Participation Through Children’s Committees in CCIs, A Master Class, Catalysts for Social Action (2020)
-
-  
-
 - Vizard E. (2013). Practitioner review: The victims and juvenile perpetrators of child sexual abuse--assessment and intervention. Journal of child psychology and psychiatry, and allied disciplines, 54(5), 503–515. https://doi.org/10.1111/jcpp.12047
-
-  
-
 - Kumar, Chanchal. (2015). Human Trafficking in the South Asian Region: SAARC’s Response and Initiatives. 1. 14-31. 
-
-  
-
 - Choudhary, V., Satapathy, S., & Sagar, R. (2021). Multidimensional scale for child sexual abuse (MSCSA): Development and psychometric properties. Asian journal of psychiatry, 60, 102643. https://doi.org/10.1016/j.ajp.2021.102643
 
   
+## From the Field
 
-  
-
-**From the Field**
-
-  
-
-In older, under-resourced institutions, children can be at a higher risk for accidents and injuries because of under maintained or broken infrastructure in study or play spaces, bathrooms etc
-
-  
-
-Child participation in affirming  child rights is limited. In many institutions, children’s committees are functionally inactive, with meetings held primarily for purposes of compliance and documentation. 
-
-  
-
-Grievance redressal/feedback systems have many gaps. With functional use of forums like children committees or feedback boxes is rare. 
-
-  
-
-Caregivers struggle to implement more progressive disciplinary techniques that keep the child’s rights central. Most caregivers utilize solutions figured out through trial and error and lack any formal training or support on this.
-
-  
-
-Conversation at CCIs, while primarily about safety, has slowly started incorporating elements of child participation and empowerment as well. 
-
-  
-
-Donors are often  offered unfettered access to the institution, including the physical spaces and confidential  information about children. They are also often allowed to directly interact with children without any training or sensitization.
-
-  
-
-Conversations about gender, sex, and caste minorities are limited, and children have difficulties accessing safe spaces to discuss these issues.
-
-  
-
+- In older, under-resourced institutions, children can be at a higher risk for accidents and injuries because of under maintained or broken infrastructure in study or play spaces, bathrooms etc
+- Child participation in affirming  child rights is limited. In many institutions, children’s committees are functionally inactive, with meetings held primarily for purposes of compliance and documentation. 
+- Grievance redressal/feedback systems have many gaps. With functional use of forums like children committees or feedback boxes is rare. 
+- Caregivers struggle to implement more progressive disciplinary techniques that keep the child’s rights central. Most caregivers utilize solutions figured out through trial and error and lack any formal training or support on this.
+- Conversation at CCIs, while primarily about safety, has slowly started incorporating elements of child participation and empowerment as well. 
+- Donors are often  offered unfettered access to the institution, including the physical spaces and confidential  information about children. They are also often allowed to directly interact with children without any training or sensitization.
+- Conversations about gender, sex, and caste minorities are limited, and children have difficulties accessing safe spaces to discuss these issues.
 We’ve heard multiple accounts of children in institutions reporting emotional neglect, favoritism, and some struggle with the shame of being placed in an institution. Emotional safety is commonly compromised in under-resourced conditions. 
-
-  
-
 Peer abuse is common and widespread in some institutions. While this is recognized as a problem, solutions are complex and difficult to implement.
-
-  
-
 Sex education is limited, leaving children vulnerable to exploitation. Digital access provides  children with unfiltered /unvetted sources of information. 
 
   
