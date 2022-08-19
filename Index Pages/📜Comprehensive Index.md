@@ -15,7 +15,7 @@ tags:
 - [Nutrition](Roll%20Ups/Nutrition/Nutrition.md)  
 	- Edit: [Nutrition-GDrive](https://docs.google.com/document/d/1lJpzuvpj_SRylIZWNucZ3DuFaQMg8TOfJprDC3kL8Qk/edit?usp=sharing)
 	- Design Doc: [Nutrition: Design Questions - GDrive](https://docs.google.com/document/d/1SnHUuJ0hSmpWHlsm7BPRzdJ7afB4FXC1cEVVM-nALVA/edit#)
-- [Child Development](Roll%20Ups/Child%20Development/Child%20Development.md)
+- [Child Development & Play](Child%20Development%20&%20Play.md)
 	- Child Life Cycle
 		- [Admissions](Admissions.md)
 		- [Aftercare](Aftercare.md)

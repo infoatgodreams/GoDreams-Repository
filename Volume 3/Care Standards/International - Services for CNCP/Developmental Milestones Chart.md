@@ -8,7 +8,7 @@ tags:
 - practitioner
 
 ---
-Domain tags: [[Child Development]]
+Domain tags: [[Child Development & Play]]
 
 # Brief:
 * Scope & Description: This resource includes normal expectations of developmental milestones for children birth through adolescence, and information about the possible effects of maltreatment.
