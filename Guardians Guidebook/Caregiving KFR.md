@@ -150,315 +150,106 @@ _You can find the official recommendations for caregiving from the Juvenile Just
 - Caregivers are often reported to exercise authority over their children, instead of building trust and encouraging children to participate in decision-making involving their lives. 
 
 ### From the Field
+- Most caregivers that we spoke to spent a significant amount of time and effort on logistical, administrative, and compliance work, and had to balance this with spending time with children. Most institutions lacked dedicated staff or bandwidth to be able to do both effectively. 
+- Caregivers are often juggling multiple roles, and hence are not able to spend 100% of their time with children, which is often a requirement to be able to provide individualized support to large numbers of children.
+- Due to staffing constraints, caregivers are only able to offer 1-on-1 support very sporadically and spend more time interacting with children in groups.
+- Caregivers do not have the training to deal with complex cases of trauma and are often at a loss as to how to support the child.
+- Caregivers struggle to work with children with behavioral difficulties and are unable to implement non-violent consequence systems.
+- Caregivers are not trained regularly, nor are they given opportunities to upskill.
+- Caregiver skill level often varies widely within the same institution, and this lack of standardization of protocol and expectations leads to mixed and sometimes conflicting messaging to children.
+- Caregivers often come from challenging situations themselves, and coupled with the responsibilities of dealing with complex trauma that children bring to them, are unable to deal with the challenges. They do not typically have access to dedicated mental health support.
+- Caregivers are often burnt out and stretched thin after a few years on the job, and then are unable to provide the emotional bandwidth to extend daily support to children.
+- Caregivers are often not paid competitively, with the primary perks of the job being a residence on campus and education for their own children. There are usually limited opportunities for growth.
+- Caregivers have not gone through any formalized training, and have mostly learned on the job.
+- Caregivers sometimes find it difficult to be neutral or not show bias while working with groups of children, leading to variances in the children’s ability to bond with them. 
 
-  
 
-Most caregivers that we spoke to spent a significant amount of time and effort on logistical, administrative, and compliance work, and had to balance this with spending time with children. Most institutions lacked dedicated staff or bandwidth to be able to do both effectively. 
+# Key Excerpts from Research
 
-  
+## From Literature
 
-Caregivers are often juggling multiple roles, and hence are not able to spend 100% of their time with children, which is often a requirement to be able to provide individualized support to large numbers of children.
+- Behavioural consequences of sub-optimal care: Across studies of institutionalized children, a majority of them displayed disorganized attachment patterns, relative to children in families. Research has shown that there are long-term behavioural consequences to these attachment patterns in children. (MacLean, 2003)
+- Cognitive & developmental consequences of sub-optimal care: Coupled with the experience of violence and abuse in institutions, inadequate care can affect the child’s stress response system, and lead to a long-term negative impact on the neurodevelopment of the child. (MacLean, 2003)
+- Quality of care is what matters: Research indicates that multiple negative outcomes of institutionalization can be subverted if CCIs are financially and professionally supported towards better care practices. (Whetten, 2009)
+- Caregiver training, structural enhancements, and enriched caregiving environments in CCIs have shown beneficial effects on the child’s emotional, social, and cognitive development. With a focus on improving the social caregiver-children bonds, we can positively influence children’s general emotional, behavioral and mental development. (Hermenau, 2017)
+- The research suggests that background checks are an effective tool to ensure that adults who are employed at the institution are safe for children to be around. caregivers should not have shown any behaviour in the past that could potentially be dangerous to the children, including violent or self-destructive behaviours. Caregivers should not be suffering from any substance use disorders, criminal behaviour, or habituation to drugs. Caregiver checks need to be complete, with police verification. (Rainbow Foundation India, 2016)
+- Comprehensive caregiver training needs to include modules on the rights of the child, attachment, discipline techniques, child development, gender roles, sexual abuse and prevention, communication skills, conflict resolution, and stress management. (Berument, 2013)
+- Caregiver mindsets can also influence caregiving practices and we need to look for caregivers that showcase empathy, non-judgemental attitudes, unconditional positive regard, and honesty. (Khalid, 2022)
+- Establishing continuity of caregivers is imperative to creating an environment of trust. Caregivers need to prepare the children in case they are leaving the institution for a different job. Caregivers should be as constant as possible and, when about to leave their jobs for any reason, they should know how to prepare the children to de-attach. (Almas, 2020)
 
-  
 
-Due to staffing constraints, caregivers are only able to offer 1-on-1 support very sporadically and spend more time interacting with children in groups.
-
-  
-
-Caregivers do not have the training to deal with complex cases of trauma and are often at a loss as to how to support the child.
-
-  
-
-Caregivers struggle to work with children with behavioral difficulties and are unable to implement non-violent consequence systems.
-
-  
-
-Caregivers are not trained regularly, nor are they given opportunities to upskill.
-
-  
-
-Caregiver skill level often varies widely within the same institution, and this lack of standardization of protocol and expectations leads to mixed and sometimes conflicting messaging to children.
-
-  
-
-Caregivers often come from challenging situations themselves, and coupled with the responsibilities of dealing with complex trauma that children bring to them, are unable to deal with the challenges. They do not typically have access to dedicated mental health support.
-
-  
-
-Caregivers are often burnt out and stretched thin after a few years on the job, and then are unable to provide the emotional bandwidth to extend daily support to children.
-
-  
-
-Caregivers are often not paid competitively, with the primary perks of the job being a residence on campus and education for their own children. There are usually limited opportunities for growth.
-
-  
-
-Caregivers have not gone through any formalized training, and have mostly learned on the job.
-
-  
-
-Caregivers sometimes find it difficult to be neutral or not show bias while working with groups of children, leading to variances in the children’s ability to bond with them. 
-
-  
-
-**Key Excerpts from Research**
-
-  
-
-**From Literature**
-
-  
-
-Behavioural consequences of sub-optimal care: Across studies of institutionalized children, a majority of them displayed disorganized attachment patterns, relative to children in families. Research has shown that there are long-term behavioural consequences to these attachment patterns in children. (MacLean, 2003)
-
-  
-
-Cognitive & developmental consequences of sub-optimal care: Coupled with the experience of violence and abuse in institutions, inadequate care can affect the child’s stress response system, and lead to a long-term negative impact on the neurodevelopment of the child. (MacLean, 2003)
-
-  
-
-Quality of care is what matters: Research indicates that multiple negative outcomes of institutionalization can be subverted if CCIs are financially and professionally supported towards better care practices. (Whetten, 2009)
-
-  
-
-Caregiver training, structural enhancements, and enriched caregiving environments in CCIs have shown beneficial effects on the child’s emotional, social, and cognitive development. With a focus on improving the social caregiver-children bonds, we can positively influence children’s general emotional, behavioral and mental development. (Hermenau, 2017)
-
-  
-
-The research suggests that background checks are an effective tool to ensure that adults who are employed at the institution are safe for children to be around. caregivers should not have shown any behaviour in the past that could potentially be dangerous to the children, including violent or self-destructive behaviours. Caregivers should not be suffering from any substance use disorders, criminal behaviour, or habituation to drugs. Caregiver checks need to be complete, with police verification. (Rainbow Foundation India, 2016)
-
-  
-
-Comprehensive caregiver training needs to include modules on the rights of the child, attachment, discipline techniques, child development, gender roles, sexual abuse and prevention, communication skills, conflict resolution, and stress management. (Berument, 2013)
-
-  
-
-Caregiver mindsets can also influence caregiving practices and we need to look for caregivers that showcase empathy, non-judgemental attitudes, unconditional positive regard, and honesty. (Khalid, 2022)
-
-  
-
-Establishing continuity of caregivers is imperative to creating an environment of trust. Caregivers need to prepare the children in case they are leaving the institution for a different job. Caregivers should be as constant as possible and, when about to leave their jobs for any reason, they should know how to prepare the children to de-attach. (Almas, 2020)
-
-  
-
-  
-
-**Literature References**
-
-  
+### Literature References
 
 - MacLean K. (2003). The impact of institutionalization on child development. Development and psychopathology, 15(4), 853–884. https://doi.org/10.1017/s0954579403000415
-
-  
-
 - Whetten, K., Ostermann, J., Whetten, R. A., Pence, B. W., O’Donnell, K., Messer, L. C., Thielman, N. M., & Positive Outcomes for Orphans (POFO) Research Team (2009). A comparison of the wellbeing of orphans and abandoned children ages 6-12 in institutional and community-based care settings in 5 less wealthy nations. PloS one, 4(12), e8169. https://doi.org/10.1371/journal.pone.0008169
-
-  
-
 - Hermenau, K., Goessmann, K., Rygaard, N. P., Landolt, M. A., & Hecker, T. (2017). Fostering Child Development by Improving Care Quality: A Systematic Review of the Effectiveness of Structural Interventions and Caregiver Trainings in Institutional Care. Trauma, violence & abuse, 18(5), 544–561. https://doi.org/10.1177/1524838016641918
-
-  
-
 - Child Protection Policy, Rainbow Foundation India (2016)
-
-  
-
 - Berument, Sibel. (2013). Environmental Enrichment and Caregiver Training to Support the Development of Birth to 6-Year-Olds in Turkish Orphanages. Infant Mental Health Journal. 34. 10.1002/imhj.21380. 
-
-  
-
 - Khalid, A., Morawska, A., & Turner, K. (2022). Pakistani orphanage caregivers’ perspectives regarding their caregiving abilities, personal and orphan children’s psychological wellbeing. Child: care, health and development, 10.1111/cch.13027. Advance online publication. https://doi.org/10.1111/cch.13027
-
-  
-
 - Almas, A. N., Papp, L. J., Woodbury, M. R., Nelson, C. A., Zeanah, C. H., & Fox, N. A. (2020). The Impact of Caregiving Disruptions of Previously Institutionalized Children on Multiple Outcomes in Late Childhood. Child development, 91(1), 96–109. https://doi.org/10.1111/cdev.13169
-
-  
-
 - Vorria, Panayiota & Papaligoura, Zaira & Sarafidou, Jasmin & Kopakaki, Maria & Dunn, Judy & van IJzendoorn, Marinus & Kontopoulou, Antigoni. (2007). The development of adopted children after institutional care: A follow-up study. Journal of child psychology and psychiatry, and allied disciplines. 47. 1246-53. 10.1111/j.1469-7610.2006.01666
-
-  
-
 - GAVRIN, J.B. and SACKS, L.S. (1963), GROWTH POTENTIAL OF PRESCHOOL-AGED CHILDREN IN INSTITUTIONAL CARE:. American Journal of Orthopsychiatry, 33: 399-408. https://doi.org/10.1111/j.1939-0025.1963.tb00374.
 
+## From the Field
+
+- Caregivers often double up doing administrative work, compliance oriented work and other tasks due to staff shortages. This impacts their ability to focus on providing 1-on-1 individualized time to the children, especially in the larger CCIs. 
+- The staff to child ratio is large and lack of support/knowledge lead to a lack of individualization of care and limited specialized support being provided to children with learning difficulties or behavioral challenges.
+- In most institutions, caregivers do not come with any formal training and learn on the job.
+- Caregivers often draw a minimal salary without many growth opportunities. Their stay at the institution comes with job perks such as free accommodation and education for their children, which many caregivers articulated as the primary incentive for the role outside of enjoying the work itself.
+- Caregivers are not trained in non-violent behavior management and find it challenging to work with large numbers of children without a clear protocol on this.
+- The caregivers we spoke to frequently face challenges such as burnout, stress, stretched bandwidth, and fear of consequences for making mistakes. They typically lack access to support groups, therapy, learning communities, etc. that could help them tackle these challenges.
+- Most caregivers live at the CCI 24/7 with minimal time off.
+- Most caregivers that we spoke to articulated that the routine is the main tool that empowers them to be able to work with large numbers of children. This tool provides distinct advantages in group care settings in ensuring safety, access to opportunity, and building habits such as discipline and consistency in children. On the flip-side, an over-reliance on routine has the additional consequence of reduced personalization & customization based on the individual child’s needs, which can stagnate their growth.
   
 
-  
+# Caregiving - Juvenile Justice Model Rules, 2016
 
-**From the Field**
+- Physical Infrastructure
 
-  
+	- The Child Care Institutions shall be child-friendly and in no way shall they look like a jail or lock-up. (p.200, Chapter-VI, Rehabilitation and Social Re-integration)
 
-Caregivers often double up doing administrative work, compliance oriented work and other tasks due to staff shortages. This impacts their ability to focus on providing 1-on-1 individualized time to the children, especially in the larger CCIs. 
 
-  
+- Daily Routine (p.200, Chapter-VI, Rehabilitation and Social Re-integration):
+	- Every Child Care Institution shall have a daily routine for children developed in consultation with the Children’s Committees, which shall be prominently displayed at various places within the Child Care Institution. 
+	- The daily routine may provide, inter alia, for a regulated and disciplined life, personal hygiene and cleanliness, physical exercise, yoga, educational classes, vocational training, organised recreation and games, moral education, group activities, prayer and community singing and special programmes for Sundays and holidays and national holidays, festive days, birthdays. 
 
-The staff to child ratio is large and lack of support/knowledge lead to a lack of individualization of care and limited specialized support being provided to children with learning difficulties or behavioral challenges.
+- Staff Discipline (p.226, Chapter-IX, Miscellaneous):
 
-  
+	- Any dereliction of duty, violation of rules and orders shall be viewed seriously and strict disciplinary action shall be taken or recommended by the Person-in-charge against the erring officials.
+	- No staff of the Child Care Institution shall be present at an unauthorised location within the Child Care Institution.
+	- No staff of the Child Care Institution shall bring any prohibited article into the Institution.
+	- No staff of the Child Care Institution shall consume any addictive substances like liquor, bidi, cigarette, tobacco or any other psychotropic substance within the premises of the Child Care Institution, whether on duty at the relevant time or not or shall report for duty under the influence of any intoxicating substance.
+	- No staff of the Child Care Institution shall sell or let for gain any article to any child or have any business dealings with such child or his parent or guardian.
+	- No staff of the Child Care Institution shall use any abusive or vulgar language or discuss age inappropriate topics or watch pornographic material or read obscene literature in the premises of the Child Care Institution.
 
-In most institutions, caregivers do not come with any formal training and learn on the job.
+- Duties of the Person-in-charge of a Child Care Institution (p.226, Chapter-IX, Miscellaneous): The primary responsibility of the Person-in-charge is of maintaining the Child Care Institution and of providing care and protection to the children.
+	- provide homely and enabling atmosphere of love, affection, care and concern for children;
+	- strive for the development and welfare of the children;
+	- supervise and monitor discipline and well-being of the children and the staff;
+	- plan, implement and coordinate all activities, programmes and operations, including training and
+	- treatment programmes or correctional activities as the case may be.  
 
-  
 
-Caregivers often draw a minimal salary without many growth opportunities. Their stay at the institution comes with job perks such as free accommodation and education for their children, which many caregivers articulated as the primary incentive for the role outside of enjoying the work itself.
 
-  
+- Duties of the Child Welfare Officer or Case Worker(p.222, Chapter-IX, Miscellaneous):
+	- Every Child Welfare Officer or Case Worker in the Child Care Institution shall carry out all directions given by the Board or the Committee or the Children’s Court.
+	- The Child Welfare Officer or Case Worker shall establish linkages with voluntary workers and organisations to facilitate rehabilitation and social re-integration of the children and to ensure the necessary follow up.
+	 - The Child Welfare Officer or Case Worker available in the Child Care Institution at the time of receiving a child shall interact with the child received with a view to put the child at ease and befriend him and shall supervise the process of receiving of the child.
+	- All the children in the Child Care Institution shall be assigned to a Child Welfare Officer or Case Worker and such Child Welfare Officer or Case Worker shall be responsible for the child assigned to him in all respects viz. care and development of the child, reporting to the Board or the Committee or the Children’s Court about the child or maintaining the child’s record in the Child Care Institution. 
 
-Caregivers are not trained in non-violent behavior management and find it challenging to work with large numbers of children without a clear protocol on this.
 
-  
+- Duties of the House Mother or House Father(p.224, Chapter-IX, Miscellaneous): Every house father or house mother shall abide by the directions of the Person-in-charge. The general duties, functions and responsibilities of a house father or house mother shall be as follows:
+	- handle every child in the Child Care Institution with love and affection;
+	- take proper care of the child and ensure his welfare;
+	- provide each child upon his reception with all necessary supplies like clothing, toiletries and such other items required for daily usage.
+	- replenish the provisions or supplies as per scale and need of the child;
+	- maintain discipline among the children;
+	- ensure that the children maintain personal cleanliness and hygiene;
+	- look after maintenance, sanitation and maintain hygienic surroundings;
+	- implement the daily routine of every child in an effective manner and ensure the participation of the children;
+	- look after safety and security arrangements in the Child Care Institution
+	- escort the children whenever they go out of the Child Care Institution for purposes other than production before the Board or the Committee or the Children’s Court;
+	- report to the Person-in-charge and to the Child Welfare Officer about the child assigned to the Child Welfare Officer.  
 
-The caregivers we spoke to frequently face challenges such as burnout, stress, stretched bandwidth, and fear of consequences for making mistakes. They typically lack access to support groups, therapy, learning communities, etc. that could help them tackle these challenges.
 
-  
-
-Most caregivers live at the CCI 24/7 with minimal time off.
-
-  
-
-Most caregivers that we spoke to articulated that the routine is the main tool that empowers them to be able to work with large numbers of children. This tool provides distinct advantages in group care settings in ensuring safety, access to opportunity, and building habits such as discipline and consistency in children. On the flip-side, an over-reliance on routine has the additional consequence of reduced personalization & customization based on the individual child’s needs, which can stagnate their growth.
-
-  
-
-  
-
-**Caregiving - Juvenile Justice Model Rules, 2016**
-
-  
-
-Physical Infrastructure
-
-- The Child Care Institutions shall be child-friendly and in no way shall they look like a jail or lock-up. (p.200, Chapter-VI, Rehabilitation and Social Re-integration)
-
-  
-
-Daily Routine (p.200, Chapter-VI, Rehabilitation and Social Re-integration):
-
-  
-
-- Every Child Care Institution shall have a daily routine for children developed in consultation with the Children’s Committees, which shall be prominently displayed at various places within the Child Care Institution. 
-
-  
-
-- The daily routine may provide, inter alia, for a regulated and disciplined life, personal hygiene and cleanliness, physical exercise, yoga, educational classes, vocational training, organised recreation and games, moral education, group activities, prayer and community singing and special programmes for Sundays and holidays and national holidays, festive days, birthdays. 
-
-  
-
-Staff Discipline (p.226, Chapter-IX, Miscellaneous):
-
-  
-
-- Any dereliction of duty, violation of rules and orders shall be viewed seriously and strict disciplinary action shall be taken or recommended by the Person-in-charge against the erring officials.
-
-  
-
-- No staff of the Child Care Institution shall be present at an unauthorised location within the Child Care Institution.
-
-  
-
-- No staff of the Child Care Institution shall bring any prohibited article into the Institution.
-
-  
-
-- No staff of the Child Care Institution shall consume any addictive substances like liquor, bidi, cigarette, tobacco or any other psychotropic substance within the premises of the Child Care Institution, whether on duty at the relevant time or not or shall report for duty under the influence of any intoxicating substance.
-
-  
-
-- No staff of the Child Care Institution shall sell or let for gain any article to any child or have any business dealings with such child or his parent or guardian.
-
-No staff of the Child Care Institution shall use any abusive or vulgar language or discuss age inappropriate topics or watch pornographic material or read obscene literature in the premises of the Child Care Institution.
-
-  
-
-Duties of the Person-in-charge of a Child Care Institution (p.226, Chapter-IX, Miscellaneous): The primary responsibility of the Person-in-charge is of maintaining the Child Care Institution and of providing care and protection to the children.
-
-  
-
-- provide homely and enabling atmosphere of love, affection, care and concern for children;
-
-  
-
-- strive for the development and welfare of the children;
-
-  
-
-- supervise and monitor discipline and well-being of the children and the staff;
-
-  
-
-- plan, implement and coordinate all activities, programmes and operations, including training and
-
-  
-
-- treatment programmes or correctional activities as the case may be.  
-
-  
-
-Duties of the Child Welfare Officer or Case Worker(p.222, Chapter-IX, Miscellaneous):
-
-  
-
-- Every Child Welfare Officer or Case Worker in the Child Care Institution shall carry out all directions given by the Board or the Committee or the Children’s Court.
-
-  
-
-- The Child Welfare Officer or Case Worker shall establish linkages with voluntary workers and organisations to facilitate rehabilitation and social re-integration of the children and to ensure the necessary follow up.
-
-  
-
- - The Child Welfare Officer or Case Worker available in the Child Care Institution at the time of receiving a child shall interact with the child received with a view to put the child at ease and befriend him and shall supervise the process of receiving of the child.
-
-- All the children in the Child Care Institution shall be assigned to a Child Welfare Officer or Case Worker and such Child Welfare Officer or Case Worker shall be responsible for the child assigned to him in all respects viz. care and development of the child, reporting to the Board or the Committee or the Children’s Court about the child or maintaining the child’s record in the Child Care Institution. 
-
-  
-
-Duties of the House Mother or House Father(p.224, Chapter-IX, Miscellaneous): Every house father or house mother shall abide by the directions of the Person-in-charge. The general duties, functions and responsibilities of a house father or house mother shall be as follows:
-
-  
-
-- handle every child in the Child Care Institution with love and affection;
-
-- take proper care of the child and ensure his welfare;
-
-  
-
-- provide each child upon his reception with all necessary supplies like clothing, toiletries and such other items required for daily usage.
-
-  
-
-- replenish the provisions or supplies as per scale and need of the child;
-
-  
-
-- maintain discipline among the children;
-
-  
-
-- ensure that the children maintain personal cleanliness and hygiene;
-
-  
-
-- look after maintenance, sanitation and maintain hygienic surroundings;
-
-  
-
-- implement the daily routine of every child in an effective manner and ensure the participation of the children;
-
-  
-
-- look after safety and security arrangements in the Child Care Institution
-
-  
-
-- escort the children whenever they go out of the Child Care Institution for purposes other than production before the Board or the Committee or the Children’s Court;
-
-  
-
-- report to the Person-in-charge and to the Child Welfare Officer about the child assigned to the Child Welfare Officer.  
-
-  
-
-  
-
-Children’s Committees: Such children’s committee shall be encouraged to participate in following activities: reporting abuse and exploitation by peers and caregivers. (p.210, pt. 40, Chapter-VI, Rehabilitation and Social Re-integration)
+- Children’s Committees: Such children’s committee shall be encouraged to participate in following activities: reporting abuse and exploitation by peers and caregivers. (p.210, pt. 40, Chapter-VI, Rehabilitation and Social Re-integration)
