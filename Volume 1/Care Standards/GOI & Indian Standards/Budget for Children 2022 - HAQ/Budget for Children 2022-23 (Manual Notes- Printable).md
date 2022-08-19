@@ -26,7 +26,7 @@ tags:
 
 **![](https://lh3.googleusercontent.com/r1mY99whXoJajZllPTsHl_G2cQciow6uSJFCBhWAU7ON5b3PB0SmwjatK2kF5hrrFaHgUd0jj2pFVjMR63So__gOj--SYYAniOs7tg8WyR3DavFlRq_5PkCzZEBHn1jPZJN2hyl5)
 
--   Within BfC,  **[[Education]]** receives the maximum allocation of more than 75% while **Child Health** (3.7% [Physical Health](Roll%20Ups/Physical%20Health/Physical%20Health.md)) and [[Child Development & Play]](19.22) have seen reduced share since last year while **Child Protection** [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md) (1.7%) receives marginal increase:
+-   Within BfC,  **[[Education]]** receives the maximum allocation of more than 75% while **Child Health** (3.7% [Physical Health](Roll%20Ups/Physical%20Health/Physical%20Health.md)) and [[Child Development]](19.22) have seen reduced share since last year while **Child Protection** [Child Safety](Roll%20Ups/Child%20Safety/Child%20Safety.md) (1.7%) receives marginal increase:
 **![](https://lh5.googleusercontent.com/TtsWT2HS87xQqA7jTXt1mQtPW5D1Hw_na_OoZLg2rqXa__ux2novlggPl-HBfLmFCRgT6ia4qtcWCXZCENkJiOfBjTFvSbBQC4tP5RF72l5xM1Rb0Zb4CZ7k8JRK2Z9HeQANbVzb)**
 
 

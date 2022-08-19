@@ -7,7 +7,7 @@ tags:
 - Practitioner 
 ---
 
-Domain tags: [[Child Development & Play]]
+Domain tags: [[Child Development]]
 
 # Brief:
 

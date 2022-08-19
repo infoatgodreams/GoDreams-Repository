@@ -9,7 +9,7 @@ tags:
 - globalresearch 
 ---
 
-Tags: [[Child Development & Play]]
+Tags: [[Child Development]]
 
 ## Scope: 
 A study on how PLAY is important for child health development. The majority of the research is done on the animal kingdom and less on humankind. There is limited research on Play intervention in the development of children with chronic illness but certain comparison with animal behaviours to that of humans have tried giving the researchers a way forward.

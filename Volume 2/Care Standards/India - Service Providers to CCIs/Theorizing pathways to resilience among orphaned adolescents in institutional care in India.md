@@ -7,7 +7,7 @@ tags:
 - indianresearch 
 
 ---
-Domain Tags: [[Child Development & Play]]
+Domain Tags: [[Child Development]]
 
 ## Scope & Description: 
 This paper covers possible theories and interventions to support resilience in children growing up in institutions in India

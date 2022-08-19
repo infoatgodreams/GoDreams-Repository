@@ -24,7 +24,7 @@ tags:
 	* [CCI Finances](CCI%20Finances.md)
 	* [Emergency Protocol](Emergency%20Protocol.md)
 	* [Program Operations](Program%20Operations.md)
-* [Child Development & Play](Child%20Development%20&%20Play.md)
+* [Child Development](Child%20Development.md)
 	* [Admissions](Admissions.md)
 	* [Aftercare](Aftercare.md)
 	* [Pre-admission to CCIs](Pre-admission%20to%20CCIs.md)

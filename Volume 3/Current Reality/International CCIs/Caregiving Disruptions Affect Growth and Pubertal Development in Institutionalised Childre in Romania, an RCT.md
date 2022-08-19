@@ -9,12 +9,12 @@ tags:
 - globalresearch
 
 ---
-Domain tags: [[Physical Health]] [[Child Development & Play]] [[Mental Health]]
+Domain tags: [[Physical Health]] [[Child Development]] [[Mental Health]]
 
 # Brief:
 
 - Scope & Description: This study highlights that stable placement within family care for children who experience adversity in early life is essential to ensure the best outcomes for physical development. This was a randomized controlled trial of 114 institutionalized. Children were followed from baseline (21 months, range 5–31) through age 12 years for caregiving disruptions and growth trajectories and through age 14 years for pubertal development to determine the effects of foster care vs institutional care, as well as disruptions in the caregiving environment on physical development through early adolescence.
-- Tags: [[Roll Ups/Physical Health/Physical Health]] [[Mental Health]] [[Child Development & Play]]
+- Tags: [[Roll Ups/Physical Health/Physical Health]] [[Mental Health]] [[Child Development]]
 - Link:[https://drive.google.com/file/d/1lTG7nXu0pHT38CdsYazR8\_aLc2H0au-Q/view?usp=sharing](https://drive.google.com/file/d/1lTG7nXu0pHT38CdsYazR8_aLc2H0au-Q/view?usp=sharing)
 - Original Link: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6271564/pdf/nihms-996546.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6271564/pdf/nihms-996546.pdf)
 - Date: December 2018
@@ -39,7 +39,7 @@ Domain tags: [[Physical Health]] [[Child Development & Play]] [[Mental Health]]
   - Increasing disruptions in the caregiving environment were not related to decreasing rates of growth of head circumference.
   - This result is consistent with a meta-analysis that identified head circumference as the growth parameter least likely to improve among postinternationally adopted children.
   
-## Pubertal development: [[Child Development & Play]]
+## Pubertal development: [[Child Development]]
 
   - Tanner development was delayed in institutionalized group boys compared with foster care group and family care group boys at 12 but not 14 years. Institutionalized group boys showed lower Tanner scores compared with foster care group and family care group 
   - Disruptions from 30 months to 12 years of age were greater in institutionalized group; vs foster care group 
