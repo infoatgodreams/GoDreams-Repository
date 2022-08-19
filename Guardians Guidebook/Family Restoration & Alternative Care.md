@@ -81,85 +81,32 @@ For children in institutions to move back to their families of origin or to fami
 
 ## Optimal practices for preparing families for restoration
 
-Parents/family members who have not maintained visits/contact have a low degree of knowledge about children and their daily activities and will require more guidance and support from caregivers in learning about their children. 
+- Parents/family members who have not maintained visits/contact have a low degree of knowledge about children and their daily activities and will require more guidance and support from caregivers in learning about their children. 
+- Families need to learn about the emotional side of transition, including conversations about how different family members feel about this change and the impact of the child’s entry on existing relationships in the families.
+- Families need to be informed about community services, non-profit organizations, and government support that they can access to better take care of their children. 
+- Children with special needs, including physical, mental, and learning difficulties need more care and families need to be guided on techniques to support them. 
+- Parents need to know that it will be important for the child to maintain their self-identity as they move into their new home. 
+- A proper assessment of the family’s environment and potential risk factors that affect the safety and well-being of the child needs to be done by staff at the institution.
+- Families should be prepared to change their practices and their beliefs about the child, if needed. 
+- Families need to be provided with a clear understanding of the economic and logistical implications of taking the child in, to understand if their cause for separation has changed. 
+
+### Current Reality
+  
+### From Literature and from the Field
+
+- According to existing research on family restoration in an institution, we’ve learned that children are sometimes restored to familial settings with risk factors that were prevalent in the first place when the child was placed in the institution. 
+- The existence of stability and harmony in the family is an important risk indicator to consider prior to restoration. Unfortunately, this assessment is often not done prior to restoring children to institutions.
+- We’ve noticed that institutions do not typically have the resources or independent bandwidth to work with parents on improving their caregiving practices.
+- Parents and families are sometimes not included in key decisions that concern the child, reducing the likelihood of their continued role and influence on child’s outcomes at the institution. 
+- We’ve heard accounts of some children struggling with adapting to parents that have remarried and moved to new homes. They’re more vulnerable to being discriminated against in these new settings. 
+- Parents and families can sometimes afford to only take care of a single child, and this could lead to siblings being separated from each other, an outcome that’s undesirable for children.
+- We’ve noticed that when it comes to some girls in institutions, parents can sometimes act against the best interests of the children because of existing beliefs and prejudices. 
 
   
-
-Families need to learn about the emotional side of transition, including conversations about how different family members feel about this change and the impact of the child’s entry on existing relationships in the families.
-
+# Mapping the Needs of Children Post-Restoration
   
 
-Families need to be informed about community services, non-profit organizations, and government support that they can access to better take care of their children. 
-
-  
-
-Children with special needs, including physical, mental, and learning difficulties need more care and families need to be guided on techniques to support them. 
-
-  
-
-Parents need to know that it will be important for the child to maintain their self-identity as they move into their new home. 
-
-  
-
-A proper assessment of the family’s environment and potential risk factors that affect the safety and well-being of the child needs to be done by staff at the institution.
-
-  
-
-Families should be prepared to change their practices and their beliefs about the child, if needed. 
-
-  
-
-Families need to be provided with a clear understanding of the economic and logistical implications of taking the child in, to understand if their cause for separation has changed. 
-
-  
-
-  
-
-**Current Reality**
-
-  
-
-**From Literature and from the Field**
-
-  
-
-According to existing research on family restoration in an institution, we’ve learned that children are sometimes restored to familial settings with risk factors that were prevalent in the first place when the child was placed in the institution. 
-
-  
-
-  
-
-The existence of stability and harmony in the family is an important risk indicator to consider prior to restoration. Unfortunately, this assessment is often not done prior to restoring children to institutions.
-
-  
-
-We’ve noticed that institutions do not typically have the resources or independent bandwidth to work with parents on improving their caregiving practices.
-
-  
-
-Parents and families are sometimes not included in key decisions that concern the child, reducing the likelihood of their continued role and influence on child’s outcomes at the institution. 
-
-  
-
-We’ve heard accounts of some children struggling with adapting to parents that have remarried and moved to new homes. They’re more vulnerable to being discriminated against in these new settings. 
-
-  
-
-Parents and families can sometimes afford to only take care of a single child, and this could lead to siblings being separated from each other, an outcome that’s undesirable for children.
-
-  
-
-We’ve noticed that when it comes to some girls in institutions, parents can sometimes act against the best interests of the children because of existing beliefs and prejudices. 
-
-  
-
-  
-
-**Mapping the Needs of Children Post-Restoration**
-
-  
-
-**Shelter and Safety:**
+## Shelter and Safety
 
   
 
