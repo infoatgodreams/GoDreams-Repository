@@ -181,15 +181,12 @@ _You can find the official recommendations for child safety from the Juvenile Ju
 - Conversation at CCIs, while primarily about safety, has slowly started incorporating elements of child participation and empowerment as well. 
 - Donors are often  offered unfettered access to the institution, including the physical spaces and confidential  information about children. They are also often allowed to directly interact with children without any training or sensitization.
 - Conversations about gender, sex, and caste minorities are limited, and children have difficulties accessing safe spaces to discuss these issues.
-We’ve heard multiple accounts of children in institutions reporting emotional neglect, favoritism, and some struggle with the shame of being placed in an institution. Emotional safety is commonly compromised in under-resourced conditions. 
-Peer abuse is common and widespread in some institutions. While this is recognized as a problem, solutions are complex and difficult to implement.
-Sex education is limited, leaving children vulnerable to exploitation. Digital access provides  children with unfiltered /unvetted sources of information. 
+- We’ve heard multiple accounts of children in institutions reporting emotional neglect, favoritism, and some struggle with the shame of being placed in an institution. Emotional safety is commonly compromised in under-resourced conditions. 
+- Peer abuse is common and widespread in some institutions. While this is recognized as a problem, solutions are complex and difficult to implement.
+- Sex education is limited, leaving children vulnerable to exploitation. Digital access provides  children with unfiltered /unvetted sources of information. 
 
-  
 
-  
-
-**Child Safety Excerpts from Juvenile Justice (Care and Protection of Children) Model Rules, 2016**
+# Child Safety Excerpts from Juvenile Justice (Care and Protection of Children) Model Rules, 2016
 
   
 
