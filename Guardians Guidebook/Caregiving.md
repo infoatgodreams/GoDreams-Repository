@@ -1,215 +1,78 @@
-Care is a primary need for all children, driven by the presence and actions of a clearly identified, stable adult who creates a safe, nurturing, and emotionally secure environment for each child. The relationship between the child and the caregiver should provide physical and psychological security for the child. 
+
+[[Roll Ups/Caregiving/Caregiving]]
+
+# Introduction to the domain
+
+Care is a primary need for all children, driven by the presence and actions of a clearly identified, stable adult who creates a safe, nurturing, and emotionally secure environment for each child. The relationship between the child and the caregiver should provide physical and psychological security for the child. Bolstering access to supportive, trustworthy, and trained caregivers at the institution is a key investment for our childcare institutions and the children we aim to support.
 
   
-
-Bolstering access to supportive, trustworthy, and trained caregivers at the institution is a key investment for our childcare institutions and the children we aim to support.
-
-  
-
 Following are some principles that govern ideal caregiving practices:
 
-  
+- Individualisation: For children, a primary need in caregiving is the belief that there is someone who cares for them as separate, distinct human beings, this feeling of belonging to a primary caregiver that they can reach out to for anything that they need. 
+- Positive Caregiving: A key assumption in caregiving is that any positive life experience, any reminder of happiness and satisfaction, no matter how tiny or how short the feeling is, strengthens the child’s emotional safety. 
+- Zero tolerance for bias and discrimination: It is essential for all institutions to be concerned about the right to equality and non-discrimination of children in care.
+- Consistency in caregiving: According to a paper that studied caregiving interventions, we need to avoid instability and inconsistency of caregiving, especially for younger children. Changing sets of volunteers and donors who visit the children may also compound this feeling of instability in the institutional context.
+- Openness and transparency: Caregivers need to be honest in expressing their emotions about children’s actions and beliefs. Having conversations about others’ feelings is required too as it helps children build empathy, helping them recognize that the staff are not simply figures of authority, but are full-fledged people too.
 
-Individualisation: For children, a primary need in caregiving is the belief that there is someone who cares for them as separate, distinct human beings, this feeling of belonging to a primary caregiver that they can reach out to for anything that they need. 
-
-  
-
-Positive Caregiving: A key assumption in caregiving is that any positive life experience, any reminder of happiness and satisfaction, no matter how tiny or how short the feeling is, strengthens the child’s emotional safety. 
-
-  
-
-Zero tolerance for bias and discrimination: It is essential for all institutions to be concerned about the right to equality and non-discrimination of children in care.
-
-  
-
-Consistency in caregiving: According to a paper that studied caregiving interventions, we need to avoid instability and inconsistency of caregiving, especially for younger children. Changing sets of volunteers and donors who visit the children may also compound this feeling of instability in the institutional context.
-
-  
-
-Openness and transparency: Caregivers need to be honest in expressing their emotions about children’s actions and beliefs. Having conversations about others’ feelings is required too as it helps children build empathy, helping them recognize that the staff are not simply figures of authority, but are full-fledged people too.
-
-  
-
-  
-
-**Overview of Caregiving in Child Care Institutions**
-
-  
+## Overview of Caregiving in Child Care Institutions
 
 A major challenge for Child Care Institutions is in fostering a sensitive and emotionally secure caregiver-child relationship. Multiple studies in domains of child development, caregiving and psychology suggest that the quality of care is more of a determinant of the long-term success of children as compared to factors such as type of care (family-based or institutional)
 
-  
+Observations at institutions have revealed that deficits in caregiving are often related to both structural problems (including a high density of children, low caregiver-child ratios, high staff churn) and sufficiency of caregiver skills and mindsets/ Sensitive and responsive caregiving is a requirement for the healthy neurophysiological, physical and psychological development of a child. From existing research and our own experience in institutions, it is clear that a motivated and skilled caregiver can dramatically alter outcomes for children and for the institution. 
 
-Observations at institutions have revealed that deficits in caregiving are often related to both structural problems (including a high density of children, low caregiver-child ratios, high staff churn) and sufficiency of caregiver skills and mindsets
 
-  
+## Stakeholders
+- In an institutional context, the primary responsibility of creating empowering environments for children lies with the caregivers/house parents, the leadership and child welfare officers, mental health staff, and every adult with regular access to the children. 
+- Caregivers and house parents are the primary caregivers at an institution, and they spend the most amount of time with their children, paying close attention to their emotional needs and supporting their day-to-day activities. Caregivers need to ideally spend a majority of their time with the children, engaging in structured and unstructured activities or leisure time with the children. 
+- Leadership and child welfare officers also play a crucial role in the recruitment, training, and regular monitoring and evaluation of caregiver performance. They also set the tone for the right approach with children, offering inputs on disciplining, and setting clear boundaries and expectations on what is expected of the caregivers. 
+- Mental health staff work closely with the caregivers to address difficult behavioral concerns and offer insights into the children’s attachment patterns so that caregivers can appropriately modulate their response.
+- All members of the institution are actively involved in caregiving, because any adult presence can serve the caregiving needs of children, and can heavily influence children’s attachment patterns.
 
-Sensitive and responsive caregiving is a requirement for the healthy neurophysiological, physical and psychological development of a child. From existing research and our own experience in institutions, it is clear that a motivated and skilled caregiver can dramatically alter outcomes for children and for the institution. 
 
-  
+# Caregiving Outcomes
 
-  
+## Optimal Adult Outcomes
 
-**Stakeholders** 
-
-  
-
-In an institutional context, the primary responsibility of creating empowering environments for children lies with the caregivers/house parents, the leadership and child welfare officers, mental health staff, and every adult with regular access to the children. 
-
-  
-
-Caregivers and house parents are the primary caregivers at an institution, and they spend the most amount of time with their children, paying close attention to their emotional needs and supporting their day-to-day activities. Caregivers need to ideally spend a majority of their time with the children, engaging in structured and unstructured activities or leisure time with the children. 
-
-  
-
-Leadership and child welfare officers also play a crucial role in the recruitment, training, and regular monitoring and evaluation of caregiver performance. They also set the tone for the right approach with children, offering inputs on disciplining, and setting clear boundaries and expectations on what is expected of the caregivers. 
-
-  
-
-Mental health staff work closely with the caregivers to address difficult behavioral concerns and offer insights into the children’s attachment patterns so that caregivers can appropriately modulate their response.
+- Care leavers leave the institution with increased self-esteem and belief that they are worthy of love, care, and affection. 
+- Care leavers are able to manage during times of duress and change.
+- Care leavers, if they become parents, will be able to provide nurturing care, learning from caregiving styles that they have been exposed to at the institution.
+- Care leavers will be able to identify and avoid risky situations and behaviors, and make choices keeping their best interest in mind including aspects such as safety, career, finances etc.
+- Care leavers are able to experience positive and supportive relationships with their support system as adults.
+- Care leavers prioritize their personal well-being and work on improving their own lives.
+- Care leavers should be secure in their choices and be able to resist negative peer influences.
+- Care leavers are able to ask for help when required.
+- Care leavers are able to create and pursue goals for life and career.
+- Care leavers view their childhoods at the CCI positively.
+- Care leavers are able to leverage values, habits and mindsets learned through interactions with caregivers towards making decisions and navigating adult life.
 
   
 
-All members of the institution are actively involved in caregiving, because any adult presence can serve the caregiving needs of children, and can heavily influence children’s attachment patterns.
+## Current Reality
+
+
+### From Literature
+
+- Care leavers report high levels of isolation amongst peers
+- Care leavers tend to view adults in their lives as service providers and authority figures, rather than caregivers who truly care for their growth and development
+- Care leavers report challenges in creating a network of chosen family and friends in their community 
+- Care leavers often do not have a person to reach out to during times of duress
+- Care leavers have lower levels of educational attainment, higher changes of being unemployed and increased rates of mental illness and substance abuse relative to the general population
+- A majority of care leavers reported lower than average levels of emotional and behaviour health  in studies from the UK
+- According to some studies, many care leavers have indiscriminate social behaviors or indiscriminate friendliness, which may be correlated to insecure attachment.
+
+### From the Field
+
+- Care leavers sometimes struggle to modulate their response to adults and peers in their lives, either choosing to completely withdraw from their presence or become intensely attached in very short periods of time.
+- Care leavers also find it challenging to modulate their risk taking behaviours, ranging from refusal to try out new activities to engaging in high-risk behaviours with strangers.
+- Care leavers lack choices in fulfilling different emotional needs and they’re unable to identify and grow different types of relationships like mentors, friends, romantic partners, acquaintances etc. 
+- Care leavers are often unable to go back and seek help from caregivers, due to fear of authority growing up in institutional care.
+- Care leavers tend to have challenges in building long sustaining positive relationships because they lack exposure to healthy attachment patterns and communication styles.
 
   
 
-  
+# Caregiving Indicators and Inputs
 
-  
-
-**Caregiving Outcomes**
-
-  
-
-  
-
-**Optimal Adult Outcomes**
-
-  
-
-Care leavers leave the institution with increased self-esteem and belief that they are worthy of love, care, and affection. 
-
-  
-
-Care leavers are able to manage during times of duress and change.
-
-  
-
-Care leavers, if they become parents, will be able to provide nurturing care, learning from caregiving styles that they have been exposed to at the institution.
-
-  
-
-Care leavers will be able to identify and avoid risky situations and behaviors, and make choices keeping their best interest in mind including aspects such as safety, career, finances etc.
-
-  
-
-Care leavers are able to experience positive and supportive relationships with their support system as adults.
-
-  
-
-Care leavers prioritize their personal well-being and work on improving their own lives.
-
-  
-
-Care leavers should be secure in their choices and be able to resist negative peer influences.
-
-  
-
-Care leavers are able to ask for help when required.
-
-  
-
-Care leavers are able to create and pursue goals for life and career.
-
-  
-
-Care leavers view their childhoods at the CCI positively.
-
-  
-
-Care leavers are able to leverage values, habits and mindsets learned through interactions with caregivers towards making decisions and navigating adult life.
-
-  
-
-  
-
-  
-
-**Current Reality**
-
-  
-
-**From Literature**
-
-  
-
-Care leavers report high levels of isolation amongst peers
-
-  
-
-Care leavers tend to view adults in their lives as service providers and authority figures, rather than caregivers who truly care for their growth and development
-
-  
-
-Care leavers report challenges in creating a network of chosen family and friends in their community 
-
-  
-
-Care leavers often do not have a person to reach out to during times of duress
-
-  
-
-Care leavers have lower levels of educational attainment, higher changes of being unemployed and increased rates of mental illness and substance abuse relative to the general population
-
-  
-
-A majority of care leavers reported lower than average levels of emotional and behaviour health  in studies from the UK
-
-  
-
-According to some studies, many care leavers have indiscriminate social behaviors or indiscriminate friendliness, which may be correlated to insecure attachment.
-
-  
-
-  
-
-**From the Field**
-
-  
-
-Care leavers sometimes struggle to modulate their response to adults and peers in their lives, either choosing to completely withdraw from their presence or become intensely attached in very short periods of time.
-
-  
-
-Care leavers also find it challenging to modulate their risk taking behaviours, ranging from refusal to try out new activities to engaging in high-risk behaviours with strangers.
-
-  
-
-Care leavers lack choices in fulfilling different emotional needs and they’re unable to identify and grow different types of relationships like mentors, friends, romantic partners, acquaintances etc. 
-
-  
-
-Care leavers are often unable to go back and seek help from caregivers, due to fear of authority growing up in institutional care.
-
-  
-
-Care leavers tend to have challenges in building long sustaining positive relationships because they lack exposure to healthy attachment patterns and communication styles.
-
-  
-
-  
-
-  
-
-**Caregiving Indicators and Inputs**
-
-  
-
-  
-
-**Optimal Childhood Indicators**
-
+## Optimal Childhood Indicators
 _These social impact indicators allow us to evaluate the positive caregiving status of children in CCIs_
 
   
