@@ -987,3 +987,23 @@ DOMAIN FINDINGS: BASELINE DATA
 - Every state should formulate their aftercare plan guidelines with strong M &amp; E and mechanisms for grievance redressal. Maintain a consent based MIS of CLs. Increase budget for aftercare.
 - The process of preparation for transition should equip CLs with information on individual rights and entitlements, basic life skills, community exposure.
 - The current allocation of Rs. 2,000 per month per child under CPS is inadequate and needs to be increased to a budget of up to Rs. 8,000 to Rs. 10,000 per youth per month.
+
+
+# References
+
+- [[A multinational comparison of care-leaving policy and legislation]]
+- [[Aftercare & Transition Readiness]]
+- [[Aftercare Guidelines Karnataka]]
+- [[Aftercare Model_Prerana]]
+- [[Beyond 18 Leaving Child Care Institutions Supporting Youth Leaving Care A Study of Aftercare Practices]]
+- [[Child Care Institutions; Aftercare InterventionsnA case of Madhya Pradesh]] 
+- [[CSA_Aftercare for Vulnerable Children - Challenges and Opportunities]] 
+- [[Guidelines for After Care of Children under ICPS]]
+- [[Minimum Standards of Care and Support for the Victims of Trafficking and other forms of violence in South Asia]]
+- [[Promoting the health and well-being of looked-after children]]
+- [[Systematic review of educational interventions for looked-after children and young people, Recommendations for intervention development and evaluation]]
+- [[UdayanCare_Standards Of Care in Child Care Institutions]]
+- [[Institutional Care Model Author_ Prerana Org]]
+- [[Exploring diversity in the educational pathways of care-experienced adults, Findings from a life course study of education and care]]
+- [[CSA_Institutional Care for Vulnerable Children The Law, Present Scenario, and Way Ahead]]
+- [[A multinational comparison of care-leaving policy and legislation]]

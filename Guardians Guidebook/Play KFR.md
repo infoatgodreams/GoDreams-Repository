@@ -1,4 +1,6 @@
 
+[[Play]]
+
 # Introduction to domain
 
 There is growing evidence that play enhances child development and learning outcomes. Playful interactions with caregivers and other children can help children develop their social-emotional skills, including how to manage their emotions and be in relationships with others; which are for future emotional health and lifelong integration into their communities.

@@ -31,7 +31,7 @@ Link: https://drive.google.com/file/d/1J4yiJzziqfAb5GE1uIsEfa7fM6Sa8o9C/view?usp
 
 
 # Care Practices
-[[Caregiving]]
+[[Roll Ups/Caregiving/Caregiving]]
 
 - Laying down the foundation of the Miracle Foundation Method was the introductionof family units and family building activities at Anwesha with a group of 20 children attached to one housemother. The method provided for hiring of additional houseparents to improve the housemother to child ratio with a target of 1:20. (Page 10) 
 - Each house parent ensured that her/his children were dressed withappropriate clothing and had clean bed sheets and pillows, toiletries and footwear.The house parents were responsible for inculcating etiquettes and good hygienichabits in the children. [[Hygiene]](Page 10) Children above 10 years of age got separate set of toiletries, clothing for themselves given at the beginning of the month. (Page 14) 

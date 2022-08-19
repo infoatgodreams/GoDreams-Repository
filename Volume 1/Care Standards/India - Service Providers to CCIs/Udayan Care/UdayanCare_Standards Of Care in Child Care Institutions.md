@@ -90,7 +90,7 @@ tags: Practitioner
 - Vocational training (Rule 37)
 	- Vocational training according to age, aptitude, interest and ability of children, in-house training or training in collaboration with external institutions.
 	-  It covers occupational therapy, and skill and interest based training having potential for placement.
-- Recreational facilities [[Play]] (Rule 38)
+- Recreational facilities [[Child Development]] (Rule 38)
 	- Indoor and outdoor games, yoga, meditation, music, television, picnics and outings and cultural programmes, gardening, library, dance, art therapy etc., and child-friendly library (Page 18)
 - Children's Participation [[Childrens Committees]]
 	- Children as Members of Management Committee: According to Rule 39 (3) of the JJ Rules 2016, the management committee of a child care institution shall have ‘two child representatives from each of the Children’s Committees’ as members.  
