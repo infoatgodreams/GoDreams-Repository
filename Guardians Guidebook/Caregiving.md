@@ -75,247 +75,81 @@ Observations at institutions have revealed that deficits in caregiving are often
 ## Optimal Childhood Indicators
 _These social impact indicators allow us to evaluate the positive caregiving status of children in CCIs_
 
-  
+- Children in institutions should report motivation to perform well in school and other extracurricular activities
+- Children are able to feel secure and safe at the institution and with the caregivers there.
+- Children are able to handle failures and challenges with resilience.
+- Children are able to point out one adult within the institutional care setting that they trust and can rely on for support.
+- Children report reduced depressive symptoms and other markers of mental health conditions associated with care environment.
+- Children have sufficient social self-efficacy, being able to partake in activities that can create meaningful relationships with trusted adults and peers. 
+- Conflict and violent incidents amongst children are within what is expected for the age group. 
+- Children articulate less fear and more trust when discussing their relationship with caregivers.
+- Children have more willingness to try new things and reduced fear of failure.
+- Children have a sense of belonging, of being liked for who they are and cared for as a person.
+- Children do not feel judged for difficulties that they go through.
+- Children report no instances of abuse and violence at the institution.
 
-Children in institutions should report motivation to perform well in school and other extracurricular activities
 
-  
+## Current Reality
 
-Children are able to feel secure and safe at the institution and with the caregivers there.
+### From Literature
 
-  
+- In literature from India, we know that a common complaint in CCIs from the children is that the staff does not understand them well enough to take care of them.
+- Children from institutions have reported having been victims of corporal punishment as a tool for discipline.
+- In a systematic review on institutional childcare, it was shown that children may develop a low-quality attachment bond with their primary caregivers. Children in institutions often display indiscriminate friendliness that is linked with their ability to socialize safely.
+- Children in institutions have documented various neurological, socioemotional, and behavioral problems related to quality of care.
+- Children in institutions report poor attention, concentration, executive function, and difficulties with school performance, which are correlated to limited individualized adult mentorship.
+- Children in institutional care also report challenges with emotional regulation, displaying temper tantrums, clinging behavior, and a tendency to externalize problems. They are also more prone to depression & anxiety.
 
-Children are able to handle failures and challenges with resilience.
+### From the Field
 
-  
+- While some children have positive relationships with caregivers, others have strained and turbulent relationships, marred by anger, distrust and fear. 
+- Children are fearful of all adults, looking at them as authority figures.
+- Children keep secrets and avoid bringing up conflicting, controversial information with caregivers, indicative of a lack of safety in their relationships.
+- Many children show indiscriminately friendly behavior with all adults who visit them at the institution, including volunteers and donors. 
+- Many children do not express feeling loved and cared for at the institution, often eager to leave the institution.
+- Some children resort to self-harm and poor coping practices while dealing with frustration and other negative stressors in their lives.
+- Children may not have relationships of trust and love with their peers at the institution and problematic behaviors and peer-to-peer abuse and bullying are somewhat common.
+- Children attempt to seek the attention of caregivers, sometimes with violent outbursts or mischief, but many of them go unnoticed due to a large number of children and few caregivers.
 
-Children are able to point out one adult within the institutional care setting that they trust and can rely on for support.
 
-  
 
-Children report reduced depressive symptoms and other markers of mental health conditions associated with care environment.
-
-  
-
-Children have sufficient social self-efficacy, being able to partake in activities that can create meaningful relationships with trusted adults and peers. 
-
-  
-
-Conflict and violent incidents amongst children are within what is expected for the age group. 
-
-  
-
-Children articulate less fear and more trust when discussing their relationship with caregivers.
-
-  
-
-Children have more willingness to try new things and reduced fear of failure.
-
-  
-
-Children have a sense of belonging, of being liked for who they are and cared for as a person.
-
-  
-
-Children do not feel judged for difficulties that they go through.
-
-  
-
-Children report no instances of abuse and violence at the institution.
-
-  
-
-  
-
-**Current Reality**
-
-  
-
-**From Literature**
-
-  
-
-In literature from India, we know that a common complaint in CCIs from the children is that the staff does not understand them well enough to take care of them.
-
-  
-
-Children from institutions have reported having been victims of corporal punishment as a tool for discipline.
-
-  
-
-In a systematic review on institutional childcare, it was shown that children may develop a low-quality attachment bond with their primary caregivers. Children in institutions often display indiscriminate friendliness that is linked with their ability to socialize safely.
-
-  
-
-Children in institutions have documented various neurological, socioemotional, and behavioral problems related to quality of care.
-
-  
-
-Children in institutions report poor attention, concentration, executive function, and difficulties with school performance, which are correlated to limited individualized adult mentorship.
-
-  
-
-Children in institutional care also report challenges with emotional regulation, displaying temper tantrums, clinging behavior, and a tendency to externalize problems. They are also more prone to depression & anxiety.
-
-  
-
-**From the Field**
-
-  
-
-While some children have positive relationships with caregivers, others have strained and turbulent relationships, marred by anger, distrust and fear. 
-
-  
-
-Children are fearful of all adults, looking at them as authority figures.
-
-  
-
-Children keep secrets and avoid bringing up conflicting, controversial information with caregivers, indicative of a lack of safety in their relationships.
-
-  
-
-Many children show indiscriminately friendly behavior with all adults who visit them at the institution, including volunteers and donors. 
-
-  
-
-Many children do not express feeling loved and cared for at the institution, often eager to leave the institution.
-
-  
-
-Some children resort to self-harm and poor coping practices while dealing with frustration and other negative stressors in their lives.
-
-Children may not have relationships of trust and love with their peers at the institution and problematic behaviors and peer-to-peer abuse and bullying are somewhat common.
-
-  
-
-Children attempt to seek the attention of caregivers, sometimes with violent outbursts or mischief, but many of them go unnoticed due to a large number of children and few caregivers.
-
-  
-
-**Suggested Childhood Inputs**
-
+# Suggested Childhood Inputs
 _You can find the official recommendations for caregiving from the Juvenile Justice Act attached in the annexure of this document_
 
-  
+- Caregivers support involvement of the children in decision making.
+- Caregivers should be happy, satisfied in their roles and excited to be with children.
+- Caregivers provide individualized attention and time to respond to children’s customized needs.
+- Caregivers use trauma-sensitive communication techniques to work with children.
+- Caregivers are honest and open about children’s emotional expression, offering a judgment-free space for children to express negative emotions.
+- Caregivers actively avoid discriminating or treating children differently in the group.
+- Caregivers do not use retraumatizing or abusive language while working with children.
+- Caregivers should reward good behaviour, encouraging a positive feedback loop.
+- Caregivers should be consistent in applying appropriate consequences for behaviours in children, explaining the rationale for their decision each and every time.
+- Caregivers should serve as mentors for the children, as positive role models that they can learn from.
+- Caregivers should be applying updated care practices based on regular training.
+- Caregivers need to engage in reciprocal verbal and non-veral communication with the children, including dedicating time for play with the children.
+- Institutions need to improve the caregiver to child ratio and prevent frequent disruptions in caregiving due to churn or too many rotations.
+- Institutions should implement an in-house system of monitoring and supervision to encourage caregivers to implement training principles with children.
+- Beyond improving caregiver-child attachment, caregiver trainings should also focus on prevention of violence and abuse in institutional care.
+- Caregivers should be verified as safe to work with children, via systems such as police verification and background checks.
 
-Caregivers support involvement of the children in decision making.
 
-  
+## Current Reality
 
-Caregivers should be happy, satisfied in their roles and excited to be with children.
+### From Literature
 
-  
+- Several studies reported that caregivers they spoke to used negative expressions when asked to describe the children in their care. These negative expressions included both externalizing descriptors such as disobedient, disrespectful, selfish, and aggressive; and internalizing descriptors such as being insecure, unhappy, and distressed, in reference to their view of their job.
+- A low caregiver to child ratio has been reported in a majority of institutions, affecting their ability offer individualized care.
+- Many caregivers have been reported as lacking the training and skills to respond sufficiently to the emotional needs of children.
+- Support groups for caregivers have shown to have a positive impact on the overall mental state of caregivers and influenced the way they relate to children.
+- Many caregivers report feeling burnt out and complain of poor working conditions, often leading to a high turnover rate in institutions.
+- Caregivers report feeling affected by the intense emotions that children experience, particularly children who have experienced very traumatic incidents in their past. Caregivers often lack the appropriate support systems and tools to process these emotions.
+- Studies have shown that caregivers in institutions have high levels of anxiety and communicated little with the children in their care.
+- Emotional deprivation is seen in some institutions where children lack supportive interpersonal interactions with the staff.
+- Caregivers may be unable to attend to children’s emotional and relational needs as a result of the lack of  training, time, staff support, and organizational capacity. 
+- Caregivers are often reported to exercise authority over their children, instead of building trust and encouraging children to participate in decision-making involving their lives. 
 
-Caregivers provide individualized attention and time to respond to children’s customized needs.
-
-  
-
-Caregivers use trauma-sensitive communication techniques to work with children.
-
-  
-
-Caregivers are honest and open about children’s emotional expression, offering a judgment-free space for children to express negative emotions.
-
-  
-
-Caregivers actively avoid discriminating or treating children differently in the group.
-
-  
-
-Caregivers do not use retraumatizing or abusive language while working with children.
-
-  
-
-Caregivers should reward good behaviour, encouraging a positive feedback loop.
-
-  
-
-Caregivers should be consistent in applying appropriate consequences for behaviours in children, explaining the rationale for their decision each and every time.
-
-  
-
-Caregivers should serve as mentors for the children, as positive role models that they can learn from.
-
-  
-
-Caregivers should be applying updated care practices based on regular training.
-
-  
-
-Caregivers need to engage in reciprocal verbal and non-veral communication with the children, including dedicating time for play with the children.
-
-  
-
-Institutions need to improve the caregiver to child ratio and prevent frequent disruptions in caregiving due to churn or too many rotations.
-
-  
-
-Institutions should implement an in-house system of monitoring and supervision to encourage caregivers to implement training principles with children.
-
-  
-
-Beyond improving caregiver-child attachment, caregiver trainings should also focus on prevention of violence and abuse in institutional care.
-
-  
-
-Caregivers should be verified as safe to work with children, via systems such as police verification and background checks.
-
-  
-
-  
-
-**Current Reality**
-
-  
-
-**From Literature**
-
-  
-
-Several studies reported that caregivers they spoke to used negative expressions when asked to describe the children in their care. These negative expressions included both externalizing descriptors such as disobedient, disrespectful, selfish, and aggressive; and internalizing descriptors such as being insecure, unhappy, and distressed, in reference to their view of their job.
-
-  
-
-A low caregiver to child ratio has been reported in a majority of institutions, affecting their ability offer individualized care.
-
-  
-
-Many caregivers have been reported as lacking the training and skills to respond sufficiently to the emotional needs of children.
-
-  
-
-Support groups for caregivers have shown to have a positive impact on the overall mental state of caregivers and influenced the way they relate to children.
-
-  
-
-Many caregivers report feeling burnt out and complain of poor working conditions, often leading to a high turnover rate in institutions.
-
-  
-
-Caregivers report feeling affected by the intense emotions that children experience, particularly children who have experienced very traumatic incidents in their past. Caregivers often lack the appropriate support systems and tools to process these emotions.
-
-  
-
-Studies have shown that caregivers in institutions have high levels of anxiety and communicated little with the children in their care.
-
-  
-
-Emotional deprivation is seen in some institutions where children lack supportive interpersonal interactions with the staff.
-
-  
-
-Caregivers may be unable to attend to children’s emotional and relational needs as a result of the lack of  training, time, staff support, and organizational capacity. 
-
-  
-
-Caregivers are often reported to exercise authority over their children, instead of building trust and encouraging children to participate in decision-making involving their lives. 
-
-  
-
-  
-
-**From the Field**
+### From the Field
 
   
 
