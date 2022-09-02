@@ -5,6 +5,7 @@ tags:
 - globalresearch
 ---
 Tags: [[Roll Ups/Nutrition/Nutrition]]
+[[Nutrition]]
 Link: [Google Drive](https://drive.google.com/file/d/1nxrIixryORoA6o78jaixTwFobDxPnaw8/view?usp=sharing)
 
 The sample consisted of children who were equally distributed between age 4 and 11 years.Indicators of malnutrition were assessed against potential independent variables such as variety of foods consumed, energy intake, disease prevalence, vaccination rates, hygiene practices and duration of stay in the orphanage.Overall there were thirty three caretakers with one orphanage having eleven, the second ten and the third twelve caretakers. These were employed on full time basis to take care of the children in the orphanages. The majority (51%) of the caretakers had attained post primary education.
