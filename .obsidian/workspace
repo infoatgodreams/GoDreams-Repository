@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ce8345616cf1396b",
+        "id": "0760c644ab8bdee1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Volume 1/Care Standards/International - Govts, UN & World Bodies/WHO/WHO_Growth reference for school aged children and adolescents.md",
+            "file": "Guardians Guidebook/Education KFR.md",
             "mode": "source",
             "source": false
           }
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volume 1/Care Standards/International - Govts, UN & World Bodies/WHO/WHO_Growth reference for school aged children and adolescents.md",
+                "file": "Guardians Guidebook/Education KFR.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +87,17 @@
     "width": 301,
     "collapsed": true
   },
-  "active": "935199b94694109c",
+  "active": "0760c644ab8bdee1",
   "lastOpenFiles": [
-    "Volume 1/Volume 1 Public Resource Links/Governments & UN/WHO_Child Growth Standards/WHO_Interpreting Growth Indicators _ Training Course on Child Growth Assessment.pdf",
+    "Guardians Guidebook/Child Safety KFR.md",
+    "Guardians Guidebook/Caregiving KFR.md",
+    "Guardians Guidebook/Aftercare & Transition Readiness KFR.md",
+    "CCI Immersions/Immersion Key.md",
+    "CCI Immersions/CCI Immersion 1.md",
     "Volume 1/Care Standards/International - Govts, UN & World Bodies/WHO/WHO_Growth reference for school aged children and adolescents.md",
+    "Volume 1/Volume 1 Public Resource Links/Governments & UN/WHO_Child Growth Standards/WHO_Interpreting Growth Indicators _ Training Course on Child Growth Assessment.pdf",
     "Volume 1/Volume 1 Public Resource Links/Governments & UN/WHO_Child Growth Standards/WHO_Boys_5-10yrs_Weight For Age_Graph.pdf",
     "Volume 1/Volume 1 Public Resource Links/Research Papers/Global/Development of a WHO growth reference for school-aged children and adolescents.pdf",
-    "Volume 1/Current Reality/International CCIs/Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya.md",
-    "Index Pages/📜Comprehensive Index.md",
-    "Volume 1/Current Reality/International CCIs/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.md",
-    "Volume 1/Volume 1 Public Resource Links/Research Papers/Global/Magnitude and Associated Factors of Undernutrition Among children aged 6-59 months in Ethiopian Orphanage Centres.pdf",
-    "Volume 2/Current Reality/International CCIs/Childcare practices, morbidity status and nutrition status of Pre-school children in Orphanages, Kenya.md",
-    "Roll Ups/Nutrition/Nutrition.md"
+    "Volume 1/Current Reality/International CCIs/Nutrition status of children in orphanages in selected primary schools in dagoretti division nairobi kenya.md"
   ]
 }
