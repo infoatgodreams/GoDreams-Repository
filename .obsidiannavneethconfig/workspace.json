@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "d1c112a4aba6d553",
+    "type": "split",
+    "children": [
+      {
+        "id": "c996a86f3d88c5f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ee5f84be8895c71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guardians Guidebook/HR Systems, Fundraising & Compliance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c173cb3e1af6d8f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "386e36db78707c18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f8477a80b9da850",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7ccbc8e61f761066",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "psychosocial screening dutch",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76b340e1c03e0b8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbd214a128bd44fc",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e698accb92ee8ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd8d794f02cc8d21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2157d14326f9bd68",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Guardians Guidebook/HR Systems, Fundraising & Compliance.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52a6c0152838c19c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Guardians Guidebook/HR Systems, Fundraising & Compliance.md"
+              }
+            }
+          },
+          {
+            "id": "132b329950c0a9b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27bafcf3bdf6c116",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Guardians Guidebook/HR Systems, Fundraising & Compliance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "780b92f62b257957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feeaf6d954227965",
+            "type": "leaf",
+            "state": {
+              "type": "dangling-links",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 783.1365356445312,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-dangling-links:Show dangling links panel": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "2ee5f84be8895c71",
+  "lastOpenFiles": [
+    "Guardians Guidebook/Aftercare & Transition Readiness KFR.md",
+    "Guardians CAP Repository.md",
+    "Guardians Guidebook/GG Mental Health.md",
+    "Roll Ups/Physical Health/Play.md",
+    "Guardians Guidebook/GG Play.md",
+    "Guardians Guidebook/GG Nutrition.md",
+    "CCI Immersions/CCI Immersion 1.md",
+    "ANC_Navneeth_Notes (19)_Proximity Map 1.jpeg.md",
+    "Media Resources/ANC_Navneeth_Notes (19)_Proximity Map 1.jpeg",
+    "Media Resources/ANC_Navneeth_Notes (19)_Proximity Map.jpeg"
+  ]
+}
