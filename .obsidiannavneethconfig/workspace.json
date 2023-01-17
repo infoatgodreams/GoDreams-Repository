@@ -11,11 +11,15 @@
             "id": "2ee5f84be8895c71",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Guardians Guidebook/HR Systems, Fundraising & Compliance.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -93,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Guardians Guidebook/HR Systems, Fundraising & Compliance.md",
+                "file": "Untitled.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Guardians Guidebook/HR Systems, Fundraising & Compliance.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -131,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Guardians Guidebook/HR Systems, Fundraising & Compliance.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,8 +174,9 @@
       "publish:Publish changes": false
     }
   },
-  "active": "2ee5f84be8895c71",
+  "active": "3f8477a80b9da850",
   "lastOpenFiles": [
+    "Guardians Guidebook/HR Systems, Fundraising & Compliance.md",
     "Guardians Guidebook/Aftercare & Transition Readiness KFR.md",
     "Guardians CAP Repository.md",
     "Guardians Guidebook/GG Mental Health.md",
@@ -180,7 +185,6 @@
     "Guardians Guidebook/GG Nutrition.md",
     "CCI Immersions/CCI Immersion 1.md",
     "ANC_Navneeth_Notes (19)_Proximity Map 1.jpeg.md",
-    "Media Resources/ANC_Navneeth_Notes (19)_Proximity Map 1.jpeg",
-    "Media Resources/ANC_Navneeth_Notes (19)_Proximity Map.jpeg"
+    "Media Resources/ANC_Navneeth_Notes (19)_Proximity Map 1.jpeg"
   ]
 }
